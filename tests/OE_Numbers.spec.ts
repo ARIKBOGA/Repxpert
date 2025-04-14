@@ -65,7 +65,7 @@ test("Ürün bilgilerini JSON dosyasına yaz", async ({ page }) => {
     const width = await page.locator("(//*[.='Genişlik [mm]']/following-sibling::dd)[1]/span").textContent();
     const height = await page.locator("(//*[.='Yükseklik [mm]']/following-sibling::dd)[1]/span").textContent();
     const thickness = await page.locator("(//*[.='Kalınlık/Kuvvet [mm]']/following-sibling::dd)[1]/span").textContent();
-    const checmark = await page.locator("(//*[.='Kontrol işareti']/following-sibling::dd)[1]/span").textContent();
+    const checkmark = await page.locator("(//*[.='Kontrol işareti']/following-sibling::dd)[1]/span").textContent();
     const SVHC = await page.locator("(//*[.='SVHC']/following-sibling::dd)[1]/span").textContent();
 
     const dimensions: Dimensions = {
@@ -73,7 +73,7 @@ test("Ürün bilgilerini JSON dosyasına yaz", async ({ page }) => {
         width: width ? width.trim() : undefined,
         height: height ? height.trim() : undefined,
         thickness: thickness ? thickness.trim() : undefined,
-        checmark: checmark ? checmark.trim() : undefined,
+        checkmark: checkmark ? checkmark.trim() : undefined,
         SVHC: SVHC ? SVHC.trim() : undefined
     };
 
