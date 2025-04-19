@@ -55,7 +55,7 @@ test('REPXPERT ürün bilgisi çekme', async ({ page }) => {
     dimensions
   };
 
-  const fileName = `${productId}_${productName.replace(/\s+/g, '_')}.json`;
+  const fileName = `${(product.brand || 'UnknownBrand').replace(/[^a-zA-Z0-9]/g, '_')}_${productId}.json`;
   fs.writeFile(`./data/${fileName}`, JSON.stringify(product, null, 2), (err) => {
     if (err) {
       console.error('Dosya yazma hatası:', err);
