@@ -5,14 +5,22 @@ import * as fs from 'fs';
 import { Product } from '../../types/Product';
 import { Dimensions } from '../../types/Dimensions';
 import { getTextContent, getMultipleTexts } from '../utils/extractHelpers';
+import ConfigReader from '../utils/ConfigReader';
+
 
 test('REPXPERT ürün bilgisi çekme', async ({ page }) => {
-  await page.goto('https://www.repxpert.com.tr/tr');
-  await page.getByRole('button', { name: 'Tüm Tanımlama Bilgilerini' }).click();
-  await page.getByRole('link', { name: 'Oturum Aç | Kaydol' }).click();
+  // Sayfayı aç
+  await page.goto(ConfigReader.getEnvVariable('REPXPERT_URL') || '');
 
-  await page.getByRole('textbox', { name: 'E-posta adresi' }).fill('barikboga42@gmail.com');
-  await page.getByRole('textbox', { name: 'Şifre' }).fill('92CJ68XwD@z+x7b');
+  // Çerezleri kabul et
+  await page.getByRole('button', { name: 'Tüm Tanımlama Bilgilerini' }).click();
+
+  // Kullanıcı girişi yap
+  await page.getByRole('link', { name: 'Oturum Aç | Kaydol' }).click();
+  await page.getByRole('textbox', { name: 'E-posta adresi' })
+            .fill(ConfigReader.getEnvVariable('REPXPERT_EMAIL') || '');
+  await page.getByRole('textbox', { name: 'Şifre' })
+            .fill(ConfigReader.getEnvVariable('REPXPERT_PASSWORD')||'');
   await page.getByRole('button', { name: 'Oturum Açın' }).click();
 
   // OE numarası arama
