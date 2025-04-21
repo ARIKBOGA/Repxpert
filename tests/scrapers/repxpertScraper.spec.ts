@@ -56,9 +56,9 @@ test.describe('REPXPERT TRW ürünleri', () => {
 
           const dimensions: Dimensions = {
             manufacturerRestriction: await getTextContent(page.locator("(//*[.='Üretici kısıtlaması']/following-sibling::dd)[1]/span")),
-            width: await getTextContent(page.locator("(//*[.='Genişlik [mm]']/following-sibling::dd)[1]/span")),
-            height: await getTextContent(page.locator("(//*[.='Yükseklik [mm]']/following-sibling::dd)[1]/span")),
-            thickness: await getTextContent(page.locator("(//*[.='Kalınlık/Kuvvet [mm]']/following-sibling::dd)[1]/span")),
+            width: await getTextContent(page.locator("(//*[contains(text(), 'Genişlik')]/following-sibling::dd)[1]/span")),
+            height: await getTextContent(page.locator("(//*[contains(text(), 'Yükseklik')]/following-sibling::dd)[1]/span")),
+            thickness: await getTextContent(page.locator("(//*[contains(text(), 'Kalınlık')]/following-sibling::dd)[1]/span")),
             checkmark: await getTextContent(page.locator("(//*[.='Kontrol işareti']/following-sibling::dd)[1]/span")),
             SVHC: await getTextContent(page.locator("(//*[.='SVHC']/following-sibling::dd)[1]/span")),
           };
