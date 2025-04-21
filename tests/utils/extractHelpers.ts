@@ -1,14 +1,20 @@
 // src/utils/extractHelpers.ts
 import { Locator } from '@playwright/test';
 
-export async function getTextContent(locator: Locator): Promise<string | undefined> {
+export async function getTextContent(locator: Locator): Promise<string> {
   try {
-    const content = await locator.textContent();
-    return content?.trim();
-  } catch {
-    return undefined;
+    const count = await locator.count();
+    if (count > 0) {
+      const text = await locator.first().textContent();
+      return text?.trim() || '';
+    }
+    return ''; // Element sayfada yoksa boş dön
+  } catch (error) {
+    console.error('getTextContent error:', error);
+    return '';
   }
 }
+
 
 export async function getMultipleTexts(locator: Locator): Promise<string[]> {
   try {
