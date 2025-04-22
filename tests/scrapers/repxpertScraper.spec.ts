@@ -27,7 +27,7 @@ test.describe('REPXPERT TRW ürünleri', () => {
 
         await page.getByRole('combobox', { name: /Markalar/i }).fill('trw');
 
-        await page.getByRole('checkbox', { name: /TRW/i }).click();
+        await page.getByRole('checkbox', { name: /TRW/i }).first().click();
         await page.waitForTimeout(2000);
         const productLinks = await page.getByRole('link', { name: /TRW/ }).all();
 
@@ -38,7 +38,7 @@ test.describe('REPXPERT TRW ürünleri', () => {
 
         for (let i = 0; i < productLinks.length; i++) {
           console.log(`🔍 ${oe} için ${i + 1}. ürünü işliyor...`);
-          if(i > 0) {
+          if (i > 0) {
             await page.goBack();
           }
           await Promise.all([
@@ -56,7 +56,10 @@ test.describe('REPXPERT TRW ürünleri', () => {
 
           const dimensions: Dimensions = {
             manufacturerRestriction: await getTextContent(page.locator("(//*[.='Üretici kısıtlaması']/following-sibling::dd)[1]/span")),
-            width: await getTextContent(page.locator("(//*[contains(text(), 'Genişlik')]/following-sibling::dd)[1]/span")),
+            width: (await getTextContent(page.locator("(//*[contains(text(), 'Genişlik')]/following-sibling::dd)[1]/span"))).length > 0
+              ? await getTextContent(page.locator("(//*[contains(text(), 'Genişlik')]/following-sibling::dd)[1]/span"))
+              : await getTextContent(page.locator("(//*[contains(text(), 'Uzunluk')]/following-sibling::dd)[1]")),
+
             height: await getTextContent(page.locator("(//*[contains(text(), 'Yükseklik')]/following-sibling::dd)[1]/span")),
             thickness: await getTextContent(page.locator("(//*[contains(text(), 'Kalınlık')]/following-sibling::dd)[1]/span")),
             checkmark: await getTextContent(page.locator("(//*[.='Kontrol işareti']/following-sibling::dd)[1]/span")),
