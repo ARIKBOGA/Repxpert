@@ -67,9 +67,10 @@ test.describe('REPXPERT TRW ürünleri', () => {
           };
 
           const product: Product = {
+            reference_OE: oe,
             id: productId,
             name: productName,
-            brand: 'TRW',
+            brand: productTitle.split(' ')[0],
             usageNumbers,
             oeNumbers,
             eanNumber,
