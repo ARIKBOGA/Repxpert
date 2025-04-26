@@ -1,6 +1,7 @@
 import { Dimensions } from "./Dimensions";
 
 export type Product = {
+    reference_OE: string; // Ürünün referansı
     id: string; // Ürünün eşsiz ID'si veya referans kodu
     name: string; // Ürün adı
     brand?: string;
