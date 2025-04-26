@@ -1,6 +1,5 @@
 import fs from 'fs';
 import path from 'path';
-import { ref } from 'process';
 import * as XLSX from 'xlsx';
 
 interface Product {
