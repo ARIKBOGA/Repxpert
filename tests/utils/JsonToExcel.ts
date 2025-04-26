@@ -1,8 +1,10 @@
 import fs from 'fs';
 import path from 'path';
+import { ref } from 'process';
 import * as XLSX from 'xlsx';
 
 interface Product {
+    reference_OE: string; // Ürünün referansı
     id: string;
     name: string;
     brand: string;
@@ -41,6 +43,7 @@ function getAllJsonFiles(dirPath: string): string[] {
 
 function prepareRow(json: Product): any {
     const row: any = {
+        reference_OE: json.reference_OE || '',
         id: json.id || '',
         brand: json.brand || '',
         eanNumber: json.eanNumber || '',
