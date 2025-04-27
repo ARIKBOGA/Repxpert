@@ -7,7 +7,7 @@ export type Product = {
     brand?: string;
     eanNumber?: string | number;
     oeNumbers?: string[] | Set<string>; // OE numaraları
-    usageNumbers?: string[];
+    wvaNumbers?: string[];
     dimensions?: Dimensions | undefined; // Boyutlar
     [key: string]: any; // Ek alanlar için esneklik
   };
