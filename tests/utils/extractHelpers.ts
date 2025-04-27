@@ -1,5 +1,7 @@
 // src/utils/extractHelpers.ts
 import { Locator } from '@playwright/test';
+import * as fs from 'fs';
+import path from 'path';
 
 export async function getTextContent(locator: Locator): Promise<string> {
   try {
@@ -26,5 +28,23 @@ export async function getMultipleTexts(locator: Locator): Promise<string[]> {
     return Array.from(new Set(texts.filter(Boolean) as string[]));
   } catch {
     return [];
+  }
+}
+
+
+const retryFilePath = path.resolve(__dirname, '../../data/willBefixed/reTry.json');
+
+// Add OE to the retry list
+export function addToRetryList(oe: string) {
+  let currentList: string[] = [];
+
+  if (fs.existsSync(retryFilePath)) {
+    currentList = JSON.parse(fs.readFileSync(retryFilePath, 'utf-8'));
+  }
+
+  if (!currentList.includes(oe)) {
+    currentList.push(oe);
+    fs.writeFileSync(retryFilePath, JSON.stringify(currentList, null, 2), 'utf-8');
+    console.log(`➕ ${oe} reTry listesine eklendi.`);
   }
 }
