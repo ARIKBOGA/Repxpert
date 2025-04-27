@@ -21,7 +21,7 @@ interface Product {
 }
 
 // Ana klasör yolu
-const ROOT_DIR = "./data";
+const ROOT_DIR = "./data/TRW";
 
 // Excel'e yazmak üzere tüm verileri bu dizide toplayacağız
 const excelData: any[] = [];
