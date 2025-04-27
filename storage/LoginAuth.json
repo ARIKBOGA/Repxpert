@@ -1,0 +1,113 @@
+{
+  "cookies": [
+    {
+      "name": "cookiesession1",
+      "value": "678A3E10FC87204B74745D5F42090B77",
+      "domain": "www.repxpert.com.tr",
+      "path": "/",
+      "expires": 1777304589.232902,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "OptanonAlertBoxClosed",
+      "value": "2025-04-27T15:43:10.631Z",
+      "domain": ".repxpert.com.tr",
+      "path": "/",
+      "expires": 1777304590,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "OptanonConsent",
+      "value": "isGpcEnabled=0&datestamp=Sun+Apr+27+2025+18%3A43%3A10+GMT%2B0300+(GMT%2B03%3A00)&version=202403.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=12cc0c9f-024e-4e8b-a270-28fd2e602a87&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1",
+      "domain": ".repxpert.com.tr",
+      "path": "/",
+      "expires": 1777304590,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "rxp_ga",
+      "value": "GA1.1.1582286361.1745768591",
+      "domain": ".repxpert.com.tr",
+      "path": "/",
+      "expires": 1780328590.997418,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "rxp_ga_V0XM3S4HEB",
+      "value": "GS1.1.1745768590.1.1.1745768592.58.0.0",
+      "domain": ".repxpert.com.tr",
+      "path": "/",
+      "expires": 1780328592.439901,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "rxp_ga_W6CEMVXL55",
+      "value": "GS1.1.1745768591.1.1.1745768592.59.0.0",
+      "domain": ".repxpert.com.tr",
+      "path": "/",
+      "expires": 1780328592.452482,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "rxp_ga_6C8GN1JW4Q",
+      "value": "GS1.1.1745768591.1.1.1745768592.0.0.0",
+      "domain": ".repxpert.com.tr",
+      "path": "/",
+      "expires": 1780328592.460312,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.repxpert.com.tr",
+      "localStorage": [
+        {
+          "name": "rxp-saamProduct",
+          "value": "{\"documents\":{}}"
+        },
+        {
+          "name": "rxp-saamVehicleFinderLazy",
+          "value": "{\"keySystemSearchTerm\":{\"ids\":[],\"entities\":{}}}"
+        },
+        {
+          "name": "spartacus⚿Repxpert-TR⚿cart",
+          "value": "{\"active\":\"\"}"
+        },
+        {
+          "name": "spartacus⚿⚿auth",
+          "value": "{\"token\":{\"access_token\":\"lCpcWntSCBq0OBTww1F3oqHzR4Y\",\"granted_scopes\":[\"basic\",\"openid\"],\"access_token_stored_at\":\"1745768592193\",\"expires_at\":\"1746210757193\"},\"userId\":\"current\"}"
+        },
+        {
+          "name": "rxp-saamLayout",
+          "value": "{\"geoDomainSelector\":{\"declined\":false}}"
+        },
+        {
+          "name": "rxp-saamSiteContext",
+          "value": "{\"countries\":{\"selectedCountryId\":null}}"
+        },
+        {
+          "name": "spartacus⚿⚿language",
+          "value": "\"tr\""
+        },
+        {
+          "name": "spartacus⚿⚿currency",
+          "value": "\"RXP\""
+        }
+      ]
+    }
+  ]
+}
