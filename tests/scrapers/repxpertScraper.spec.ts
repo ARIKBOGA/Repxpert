@@ -2,37 +2,55 @@ import { test } from '@playwright/test';
 import * as fs from 'fs';
 import * as path from 'path';
 import { getTextContent, getMultipleTexts } from '../utils/extractHelpers';
+import { addToRetryList } from '../utils/extractHelpers'; // Add import here
 import ConfigReader from '../utils/ConfigReader';
 import { Product } from '../../types/Product';
 import { Dimensions } from '../../types/Dimensions';
 
 // JSON dosyasından OE numaralarını oku
-
-const oePath = path.resolve(__dirname, '../../data/oe-references.json');
+const oePath = path.resolve(__dirname, '../../data/Configs/oe-references.json');
 const oeNumbers: string[] = JSON.parse(fs.readFileSync(oePath, 'utf-8'));
+
+// Eksik bulunan OE'leri kaydedeceğimiz dosya
+const retryFilePath = path.resolve(__dirname, '../../data/willBefixed/reTry.json');
+
+// reTry.json'u oku veya boş bir array oluştur
+let retryList: string[] = [];
+if (fs.existsSync(retryFilePath)) {
+  retryList = JSON.parse(fs.readFileSync(retryFilePath, 'utf-8'));
+} else {
+  // Eğer willBefixed klasörü yoksa oluştur
+  const willBeFixedFolderPath = path.dirname(retryFilePath);
+  if (!fs.existsSync(willBeFixedFolderPath)) {
+    fs.mkdirSync(willBeFixedFolderPath, { recursive: true });
+  }
+}
 
 test.describe('REPXPERT TRW ürünleri', () => {
   for (const oe of oeNumbers) {
     test(`OE No: ${oe} ile TRW ürünlerini al`, async ({ page }) => {
       try {
-        await page.goto(ConfigReader.getEnvVariable('REPXPERT_URL') || '');
-        await page.getByRole('button', { name: 'Tüm Tanımlama Bilgilerini' }).click();
-        await page.getByRole('link', { name: 'Oturum Aç | Kaydol' }).click();
-        await page.getByRole('textbox', { name: 'E-posta adresi' }).fill(ConfigReader.getEnvVariable('REPXPERT_EMAIL') || '');
-        await page.getByRole('textbox', { name: 'Şifre' }).fill(ConfigReader.getEnvVariable('REPXPERT_PASSWORD') || '');
-        await page.getByRole('button', { name: 'Oturum Açın' }).click();
+        const filterBrand = ConfigReader.getEnvVariable('FILTER_BRAND') || 'TRW';
 
+        await page.goto(ConfigReader.getEnvVariable('REPXPERT_URL') || '');
         await page.getByRole('textbox', { name: /OE numarası/i }).fill(oe);
         await page.getByRole('textbox', { name: /OE numarası/i }).press('Enter');
 
-        await page.getByRole('combobox', { name: /Markalar/i }).fill('trw');
+        await page.getByRole('combobox', { name: /Markalar/i }).fill(filterBrand.toLowerCase() || '');
 
-        await page.getByRole('checkbox', { name: /TRW/i }).first().click();
+        await page.getByRole('checkbox', { name: new RegExp(filterBrand, 'i') }).first().click();
         await page.waitForTimeout(2000);
-        const productLinks = await page.getByRole('link', { name: /TRW/ }).all();
+
+        const productLinks = await page.getByRole('link', { name: new RegExp(filterBrand, 'i') }).all();
 
         if (productLinks.length === 0) {
-          console.warn(`⚠️ '${oe}' için TRW ürünü bulunamadı.`);
+          console.warn(`⚠️ '${oe}' için ${filterBrand} ürünü bulunamadı.`);
+
+          // Eğer bu OE daha önce eklenmediyse retry listesine ekle
+          if (!retryList.includes(oe)) {
+            addToRetryList(oe);  // Use the helper function here
+          }
+
           return;
         }
 
@@ -40,18 +58,22 @@ test.describe('REPXPERT TRW ürünleri', () => {
           console.log(`🔍 ${oe} için ${i + 1}. ürünü işliyor...`);
           if (i > 0) {
             await page.goBack();
+            await page.waitForLoadState('domcontentloaded');
+            await page.waitForSelector(`text=${filterBrand}`); // Ürün listesi döndüğünde TRW yazısı görünür olacak
           }
+          
           await Promise.all([
             page.waitForLoadState('domcontentloaded'),
-            page.waitForTimeout(3000),
+            page.waitForSelector('.h1'), // Ürün detay sayfasında başlık gelmeden işleme geçme
             productLinks[i].click(),
           ]);
+          
 
           const productTitle = (await getTextContent(page.locator('.h1').nth(0))) || 'Unknown Product';
-          const productId = productTitle.split(' ')[1] || `TRW_${i}`;
+          const productId = productTitle.split(' ')[1] || `${filterBrand}_${i}`;
           const productName = (await getTextContent(page.locator('.article-number>div'))) || 'Unknown Name';
           const eanNumber = await getTextContent(page.locator('.ean-value'));
-          const usageNumbers = await getMultipleTexts(page.locator('.tradeNumbers-value > span'));
+          const wvaNumbers = await getMultipleTexts(page.locator('.tradeNumbers-value > span'));
           const oeNumbers = await getMultipleTexts(page.locator('.mat-mdc-list-item-unscoped-content'));
 
           const dimensions: Dimensions = {
@@ -59,7 +81,6 @@ test.describe('REPXPERT TRW ürünleri', () => {
             width: (await getTextContent(page.locator("(//*[contains(text(), 'Genişlik')]/following-sibling::dd)[1]/span"))).length > 0
               ? await getTextContent(page.locator("(//*[contains(text(), 'Genişlik')]/following-sibling::dd)[1]/span"))
               : await getTextContent(page.locator("(//*[contains(text(), 'Uzunluk')]/following-sibling::dd)[1]")),
-
             height: await getTextContent(page.locator("(//*[contains(text(), 'Yükseklik')]/following-sibling::dd)[1]/span")),
             thickness: await getTextContent(page.locator("(//*[contains(text(), 'Kalınlık')]/following-sibling::dd)[1]/span")),
             checkmark: await getTextContent(page.locator("(//*[.='Kontrol işareti']/following-sibling::dd)[1]/span")),
@@ -71,23 +92,29 @@ test.describe('REPXPERT TRW ürünleri', () => {
             id: productId,
             name: productName,
             brand: productTitle.split(' ')[0],
-            usageNumbers,
+            wvaNumbers: wvaNumbers,
             oeNumbers,
             eanNumber,
             dimensions,
           };
 
-          const folderPath = path.join('data', `${product.brand}_${oe}`);
-          if (!fs.existsSync(folderPath)) fs.mkdirSync(folderPath, { recursive: true });
+          const brandFolderPath = path.join('data', product.brand || 'UnknownBrand');
+          if (!fs.existsSync(brandFolderPath)) fs.mkdirSync(brandFolderPath, { recursive: true });
 
-          const fileName = `TRW_${productId}.json`;
-          const filePath = path.join(folderPath, fileName);
+          const oeFolderPath = path.join(brandFolderPath, oe);
+          if (!fs.existsSync(oeFolderPath)) fs.mkdirSync(oeFolderPath, { recursive: true });
+
+          const fileName = `${product.brand}_${productId}.json`;
+          const filePath = path.join(oeFolderPath, fileName);
 
           fs.writeFileSync(filePath, JSON.stringify(product, null, 2), 'utf-8');
           console.log(`✅ ${oe} için ${fileName} kaydedildi.`);
         }
       } catch (err) {
         console.error(`❌ ${oe} için hata:`, err);
+
+        // Hata yakalanırsa da o OE numarasını reTry listesine ekle
+        addToRetryList(oe);  // Use the helper function here
       }
     });
   }
