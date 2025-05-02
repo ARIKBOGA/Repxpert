@@ -6,11 +6,11 @@ import { addToRetryList, getTextContent } from '../utils/extractHelpers';
 import ConfigReader from '../utils/ConfigReader';
 
 // JSON dosyasından OE numaralarını oku
-const crossNumbersPath = path.resolve(__dirname, '../../data/Configs/search_references.json');
+const crossNumbersPath = path.resolve(__dirname, 'src/data/Configs/search_references.json');
 const crossNumbers: string[] = JSON.parse(fs.readFileSync(crossNumbersPath, 'utf-8'));
 
 // Eksik bulunan OE'leri kaydedeceğimiz dosya
-const retryFilePath = path.resolve(__dirname, '../../data/willBefixed/reTry.json');
+const retryFilePath = path.resolve(__dirname, 'src/data/willBefixed/reTry.json');
 
 // reTry.json'u oku veya boş bir array oluştur
 let retryList: string[] = [];
