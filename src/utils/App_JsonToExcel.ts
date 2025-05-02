@@ -2,7 +2,7 @@ import fs from "fs-extra";
 import path from "path";
 import glob from "fast-glob";
 import * as XLSX from "xlsx";
-import { Application } from "../../types/Application";
+import { Application } from "../types/Application";
 import { extractYears, cleanKBA, logMatchedModel } from "./extractHelpers";
 
 interface ModelData {
@@ -15,9 +15,9 @@ interface ModelData {
 
 // Dosya yolları
 const OUTPUT_FILE = "PAD_APPLICATIONS_BREMBO.xlsx";
-const ROOT_PATH = "data/apps/BREMBO";
-const MARKA_FILE_PATH = "data/katalogInfo/jsons/marka_seri_no.json";
-const MODEL_FILE_PATH = "data/katalogInfo/jsons/model_seri_no.json";
+const ROOT_PATH = "src/data/apps/BREMBO";
+const MARKA_FILE_PATH = "src/data/katalogInfo/jsons/marka_seri_no.json";
+const MODEL_FILE_PATH = "src/data/katalogInfo/jsons/model_seri_no.json";
 
 // Marka ve model verilerini okuyalım
 async function loadJsonData(filePath: string) {

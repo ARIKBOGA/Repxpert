@@ -32,7 +32,7 @@ export async function getMultipleTexts(locator: Locator): Promise<string[]> {
 }
 
 
-const retryFilePath = path.resolve(__dirname, '../../data/willBefixed/reTry.json');
+const retryFilePath = path.resolve(__dirname, '../data/willBefixed/reTry.json');
 
 // Add OE to the retry list
 export function addToRetryList(oe: string) {
@@ -111,7 +111,7 @@ export function cleanKBA(kba: string): string {
 }
 
 
-const matchLogFile = path.join("data/katalogInfo/jsons", "modelMatchPool.json");
+const matchLogFile = path.join("src/data/katalogInfo/jsons", "modelMatchPool.json");
 
 type ModelMatch = {
   original: string;

@@ -1,5 +1,5 @@
 import { test } from '@playwright/test';
-import { Application } from '../../types/Application';
+import { Application } from '../types/Application';
 import fs from 'fs';
 import path from 'path';
 import { addToRetryList, getTextContent } from '../utils/extractHelpers';

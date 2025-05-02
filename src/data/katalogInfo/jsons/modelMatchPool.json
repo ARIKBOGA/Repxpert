@@ -1,0 +1,344 @@
+[
+  {
+    "original": "TRANSIT Minibüs/Otobüs (FD_ _, FB_ _, FS_ _, FZ_ _, FC_ _)",
+    "normalized": "TRANSIT MINIBUS/OTOBUS FD,FB,FS,FZ,FC",
+    "model_id": 3170,
+    "marka_id": 32
+  },
+  {
+    "original": "TRANSIT Panelvan/Van (FA_ _)",
+    "normalized": "TRANSIT PANELVAN/VAN FA",
+    "model_id": 3171,
+    "marka_id": 32
+  },
+  {
+    "original": "TRANSIT Platform şasi (FM_ _, FN_ _, FF_ _)",
+    "normalized": "TRANSIT PLATFORM SASI FM,FN,FF",
+    "model_id": 3172,
+    "marka_id": 32
+  },
+  {
+    "original": "TRANSIT TOURNEO Minibüs/Otobüs",
+    "normalized": "TRANSIT TOURNEO MINIBUS/OTOBUS",
+    "model_id": 3162,
+    "marka_id": 32
+  },
+  {
+    "original": "MEGANE IV Grandtour (K9A/M/N_)",
+    "normalized": "MEGANE IV GRANDTOUR K9A/M/N",
+    "model_id": 3288,
+    "marka_id": 46
+  },
+  {
+    "original": "MEGANE IV Hatchback (B9A/M/N_) | MEGANE III",
+    "normalized": "MEGANE IV HATCHBACK B9A/M/N MEGANE III",
+    "model_id": 3467,
+    "marka_id": 46
+  },
+  {
+    "original": "MEGANE IV Sedan",
+    "normalized": "MEGANE IV SEDAN",
+    "model_id": 2844,
+    "marka_id": 46
+  },
+  {
+    "original": "KANGOO / GRAND KANGOO II (KW0/1_)",
+    "normalized": "KANGOO/GRAND KANGOO II KW0/1",
+    "model_id": 3465,
+    "marka_id": 46
+  },
+  {
+    "original": "KANGOO BE BOP (KW0/1_)",
+    "normalized": "KANGOO BE BOP KW0/1",
+    "model_id": 3521,
+    "marka_id": 46
+  },
+  {
+    "original": "KANGOO Express (FW0/1_)",
+    "normalized": "KANGOO EXPRESS FW0/1",
+    "model_id": 3466,
+    "marka_id": 46
+  },
+  {
+    "original": "A3 Cabrio (8P7)",
+    "normalized": "A3 CABRIO 8P7",
+    "model_id": 1700,
+    "marka_id": 66
+  },
+  {
+    "original": "A6 C6 (4F2) | A6 / S6",
+    "normalized": "A6 C6 4F2 A6/S6",
+    "model_id": 3026,
+    "marka_id": 66
+  },
+  {
+    "original": "TT (8J3)",
+    "normalized": "TT 8J3",
+    "model_id": 2594,
+    "marka_id": 66
+  },
+  {
+    "original": "TT Roadster (8J9)",
+    "normalized": "TT ROADSTER 8J9",
+    "model_id": 2595,
+    "marka_id": 66
+  },
+  {
+    "original": "ALTEA (5P1)",
+    "normalized": "ALTEA 5P1",
+    "model_id": 1704,
+    "marka_id": 76
+  },
+  {
+    "original": "ALTEA XL (5P5, 5P8)",
+    "normalized": "ALTEA XL 5P5,5P8",
+    "model_id": 1705,
+    "marka_id": 76
+  },
+  {
+    "original": "EXEO (3R2)",
+    "normalized": "EXEO 3R2",
+    "model_id": 2469,
+    "marka_id": 76
+  },
+  {
+    "original": "EXEO ST (3R5)",
+    "normalized": "EXEO ST 3R5",
+    "model_id": 2470,
+    "marka_id": 76
+  },
+  {
+    "original": "LEON (1P1)",
+    "normalized": "LEON 1P1",
+    "model_id": 1706,
+    "marka_id": 76
+  },
+  {
+    "original": "LEON SC (5F5)",
+    "normalized": "LEON SC 5F5",
+    "model_id": 1708,
+    "marka_id": 76
+  },
+  {
+    "original": "LEON ST (5F8)",
+    "normalized": "LEON ST 5F8",
+    "model_id": 1709,
+    "marka_id": 76
+  },
+  {
+    "original": "OCTAVIA II (1Z3) | LAURA",
+    "normalized": "OCTAVIA II 1Z3 LAURA",
+    "model_id": 3041,
+    "marka_id": 48
+  },
+  {
+    "original": "OCTAVIA II Combi (1Z5)",
+    "normalized": "OCTAVIA II COMBI 1Z5",
+    "model_id": 405,
+    "marka_id": 48
+  },
+  {
+    "original": "OCTAVIA III Combi (5E5, 5E6)",
+    "normalized": "OCTAVIA III COMBI 5E5,5E6",
+    "model_id": 2524,
+    "marka_id": 48
+  },
+  {
+    "original": "SUPERB II (3T4)",
+    "normalized": "SUPERB II 3T4",
+    "model_id": 2249,
+    "marka_id": 48
+  },
+  {
+    "original": "SUPERB II Station wagon (3T5)",
+    "normalized": "SUPERB II STATION WAGON 3T5",
+    "model_id": 2250,
+    "marka_id": 48
+  },
+  {
+    "original": "YETI (5L)",
+    "normalized": "YETI 5L",
+    "model_id": 1713,
+    "marka_id": 48
+  },
+  {
+    "original": "CADDY III Kasa/büyük limuzin (2KA, 2KH, 2CA, 2CH)",
+    "normalized": "CADDY III KASA/BUYUK LIMUZIN 2KA,2KH,2CA,2CH",
+    "model_id": 3054,
+    "marka_id": 30
+  },
+  {
+    "original": "CADDY III MPV (2KB, 2KJ, 2CB, 2CJ)",
+    "normalized": "CADDY III MPV 2KB,2KJ,2CB,2CJ",
+    "model_id": 3096,
+    "marka_id": 30
+  },
+  {
+    "original": "EOS (1F7, 1F8)",
+    "normalized": "EOS 1F7,1F8",
+    "model_id": 2251,
+    "marka_id": 30
+  },
+  {
+    "original": "GOLF PLUS V (5M1, 521)",
+    "normalized": "GOLF PLUS V 5M1,521",
+    "model_id": 406,
+    "marka_id": 30
+  },
+  {
+    "original": "GOLF VI (5K1)",
+    "normalized": "GOLF VI 5K1",
+    "model_id": 1328,
+    "marka_id": 30
+  },
+  {
+    "original": "GOLF VI Cabrio (517)",
+    "normalized": "GOLF VI CABRIO 517",
+    "model_id": 1329,
+    "marka_id": 30
+  },
+  {
+    "original": "PASSAT B6 Variant (3C5)",
+    "normalized": "PASSAT B6 VARIANT 3C5",
+    "model_id": 2773,
+    "marka_id": 30
+  },
+  {
+    "original": "PASSAT B7 (362)",
+    "normalized": "PASSAT B7 362",
+    "model_id": 408,
+    "marka_id": 30
+  },
+  {
+    "original": "PASSAT B7 Variant (365) | MAGOTAN",
+    "normalized": "PASSAT B7 VARIANT 365 MAGOTAN",
+    "model_id": 3099,
+    "marka_id": 30
+  },
+  {
+    "original": "SCIROCCO III (137, 138)",
+    "normalized": "SCIROCCO III 137,138",
+    "model_id": 2775,
+    "marka_id": 30
+  },
+  {
+    "original": "TOURAN (1T1, 1T2)",
+    "normalized": "TOURAN 1T1,1T2",
+    "model_id": 1336,
+    "marka_id": 30
+  },
+  {
+    "original": "TOURAN VAN (1T1, 1T2)",
+    "normalized": "TOURAN VAN 1T1,1T2",
+    "model_id": 411,
+    "marka_id": 30
+  },
+  {
+    "original": "IBIZA IV ST (6J8, 6P8)",
+    "normalized": "IBIZA IV ST 6J8,6P8",
+    "model_id": 2136,
+    "marka_id": 76
+  },
+  {
+    "original": "BEETLE Cabrio (5C7, 5C8)",
+    "normalized": "BEETLE CABRIO 5C7,5C8",
+    "model_id": 3046,
+    "marka_id": 30
+  },
+  {
+    "original": "CC B7 (358)",
+    "normalized": "CC B7 358",
+    "model_id": 1849,
+    "marka_id": 30
+  },
+  {
+    "original": "PASSAT ALLTRACK B7 (365)",
+    "normalized": "PASSAT ALLTRACK B7 365",
+    "model_id": 1931,
+    "marka_id": 30
+  },
+  {
+    "original": "PASSAT CC B6 (357)",
+    "normalized": "PASSAT CC B6 357",
+    "model_id": 1933,
+    "marka_id": 30
+  },
+  {
+    "original": "POLO V (6R1, 6C1)",
+    "normalized": "POLO V 6R1,6C1",
+    "model_id": 3064,
+    "marka_id": 30
+  },
+  {
+    "original": "TOURAN VAN (1T3)",
+    "normalized": "TOURAN VAN 1T3",
+    "model_id": 3101,
+    "marka_id": 30
+  },
+  {
+    "original": "TRANSIT Minibüs/Otobüs (FD_ _, FB_ _, FS_ _, FZ_ _, FC_ _)",
+    "normalized": "TRANSIT MINIBUS OTOBUS FD,FB,FS,FZ,FC",
+    "model_id": 3170,
+    "marka_id": 32
+  },
+  {
+    "original": "TRANSIT Panelvan/Van (FA_ _)",
+    "normalized": "TRANSIT PANELVAN VAN FA",
+    "model_id": 3171,
+    "marka_id": 32
+  },
+  {
+    "original": "TRANSIT TOURNEO Minibüs/Otobüs",
+    "normalized": "TRANSIT TOURNEO MINIBUS OTOBUS",
+    "model_id": 3162,
+    "marka_id": 32
+  },
+  {
+    "original": "MEGANE IV Grandtour (K9A/M/N_)",
+    "normalized": "MEGANE IV GRANDTOUR K9A M N",
+    "model_id": 3288,
+    "marka_id": 46
+  },
+  {
+    "original": "MEGANE IV Hatchback (B9A/M/N_) | MEGANE III",
+    "normalized": "MEGANE IV HATCHBACK B9A M N MEGANE III",
+    "model_id": 3467,
+    "marka_id": 46
+  },
+  {
+    "original": "KANGOO / GRAND KANGOO II (KW0/1_)",
+    "normalized": "KANGOO GRAND KANGOO II KW0 1",
+    "model_id": 3465,
+    "marka_id": 46
+  },
+  {
+    "original": "KANGOO BE BOP (KW0/1_)",
+    "normalized": "KANGOO BE BOP KW0 1",
+    "model_id": 3521,
+    "marka_id": 46
+  },
+  {
+    "original": "KANGOO Express (FW0/1_)",
+    "normalized": "KANGOO EXPRESS FW0 1",
+    "model_id": 3466,
+    "marka_id": 46
+  },
+  {
+    "original": "CADDY III Kasa/büyük limuzin (2KA, 2KH, 2CA, 2CH)",
+    "normalized": "CADDY III KASA BUYUK LIMUZIN 2KA,2KH,2CA,2CH",
+    "model_id": 3054,
+    "marka_id": 30
+  },
+  {
+    "original": "A4 B7 (8EC) | A4 / S4",
+    "normalized": "A4 B7 8EC A4 S4",
+    "model_id": 3024,
+    "marka_id": 66
+  },
+  {
+    "original": "A6 C6 (4F2) | A6 / S6",
+    "normalized": "A6 C6 4F2 A6 S6",
+    "model_id": 3026,
+    "marka_id": 66
+  }
+]

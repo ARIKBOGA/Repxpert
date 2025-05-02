@@ -4,8 +4,8 @@ import * as path from 'path';
 import { getTextContent, getMultipleTexts } from '../utils/extractHelpers';
 import { addToRetryList, getDimensionValuesSmart } from '../utils/extractHelpers'; 
 import ConfigReader from '../utils/ConfigReader';
-import { Product } from '../../types/Product';
-import { Dimensions } from '../../types/Dimensions';
+import { Product } from '../types/Product';
+import { Dimensions } from '../types/Dimensions';
 
 // JSON dosyasından OE numaralarını oku
 const oePath = path.resolve(__dirname, '../../data/Configs/search_references.json');

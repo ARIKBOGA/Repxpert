@@ -2,7 +2,7 @@ import * as fs from "fs";
 import * as path from "path";
 
 class ConfigReader {
-    private static envFilePath = path.resolve(__dirname, "../../data/Configs/.env");
+    private static envFilePath = path.resolve(__dirname, "../data/Configs/.env");
 
     // .env dosyasından bir değişkeni oku
     static getEnvVariable(key: string): string | undefined {
