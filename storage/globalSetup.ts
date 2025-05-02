@@ -1,5 +1,5 @@
 import { Browser, Page, chromium, expect } from "@playwright/test";
-import ConfigReader from "../tests/utils/ConfigReader";
+import ConfigReader from "../src/utils/ConfigReader";
 
 async function globalSetup() {
   const browser: Browser = await chromium.launch({ headless: false });

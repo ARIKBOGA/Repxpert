@@ -3,7 +3,7 @@ import path from "path";
 import glob from "fast-glob";
 import * as XLSX from "xlsx";
 import { Application } from "../../types/Application";
-import { extractYears, cleanKBA, logMatchedModel } from "../utils/extractHelpers";
+import { extractYears, cleanKBA, logMatchedModel } from "./extractHelpers";
 
 interface ModelData {
   id: number;
