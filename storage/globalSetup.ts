@@ -2,11 +2,13 @@ import { Browser, Page, chromium, expect } from "@playwright/test";
 import ConfigReader from "../tests/utils/ConfigReader";
 
 async function globalSetup() {
-  const browser: Browser = await chromium.launch({ headless: true });
+  const browser: Browser = await chromium.launch({ headless: false });
   const context = await browser.newContext();
   const page: Page = await context.newPage();
   await page.goto(ConfigReader.getEnvVariable("REPXPERT_URL") || "");
-  await page.getByRole("button", { name: "Tüm Tanımlama Bilgilerini" }).click();
+  if (page.getByRole("button", { name: "Tüm Tanımlama Bilgilerini" })) {
+    await page.getByRole("button", { name: "Tüm Tanımlama Bilgilerini" }).click();
+  }
   await page.getByRole("link", { name: "Oturum Aç | Kaydol" }).click();
   await page.getByRole("textbox", { name: "E-posta adresi" })
     .fill(ConfigReader.getEnvVariable("REPXPERT_EMAIL") || "");

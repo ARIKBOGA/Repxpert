@@ -41,7 +41,7 @@ function getAllJsonFiles(dirPath: string): string[] {
 }
 
 function prepareRow(json: Product): any {
-    const idColumnName = `${json.brand}_ID`;
+  const idColumnName = `${json.brand}_ID`;
   const row: any = {
     REFERENCE_OE: json.reference_OE || "",
     [idColumnName]: json.id || "",

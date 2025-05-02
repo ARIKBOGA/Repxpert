@@ -2,13 +2,13 @@ import { test } from '@playwright/test';
 import * as fs from 'fs';
 import * as path from 'path';
 import { getTextContent, getMultipleTexts } from '../utils/extractHelpers';
-import { addToRetryList } from '../utils/extractHelpers'; // Add import here
+import { addToRetryList, getDimensionValuesSmart } from '../utils/extractHelpers'; 
 import ConfigReader from '../utils/ConfigReader';
 import { Product } from '../../types/Product';
 import { Dimensions } from '../../types/Dimensions';
 
 // JSON dosyasından OE numaralarını oku
-const oePath = path.resolve(__dirname, '../../data/Configs/oe-references.json');
+const oePath = path.resolve(__dirname, '../../data/Configs/search_references.json');
 const oeNumbers: string[] = JSON.parse(fs.readFileSync(oePath, 'utf-8'));
 
 // Eksik bulunan OE'leri kaydedeceğimiz dosya
@@ -26,9 +26,9 @@ if (fs.existsSync(retryFilePath)) {
   }
 }
 
-test.describe('REPXPERT TRW ürünleri', () => {
+test.describe('REPXPERT ürünleri', () => {
   for (const oe of oeNumbers) {
-    test(`OE No: ${oe} ile TRW ürünlerini al`, async ({ page }) => {
+    test(`${oe} no ile TRW ürünlerini al`, async ({ page }) => {
       try {
         const filterBrand = ConfigReader.getEnvVariable('FILTER_BRAND') || 'TRW';
 
@@ -48,7 +48,7 @@ test.describe('REPXPERT TRW ürünleri', () => {
 
           // Eğer bu OE daha önce eklenmediyse retry listesine ekle
           if (!retryList.includes(oe)) {
-            addToRetryList(oe);  // Use the helper function here
+            addToRetryList(oe);  
           }
 
           return;
@@ -76,16 +76,22 @@ test.describe('REPXPERT TRW ürünleri', () => {
           const wvaNumbers = await getMultipleTexts(page.locator('.tradeNumbers-value > span'));
           const oeNumbers = await getMultipleTexts(page.locator('.mat-mdc-list-item-unscoped-content'));
 
+          const widthValues = await getDimensionValuesSmart(page, ['Genişlik', 'Uzunluk']);
+          const heightValues = await getDimensionValuesSmart(page, ['Yükseklik']);
+          const thicknessValues = await getDimensionValuesSmart(page, ['Kalınlık']); // sadece gerekiyorsa
+
           const dimensions: Dimensions = {
+            width1: widthValues[0] ?? null,
+            width2: widthValues[1] ?? null,
+            height1: heightValues[0] ?? null,
+            height2: heightValues[1] ?? null,
+            thickness1: thicknessValues[0] ?? null,
+            thickness2: thicknessValues[1] ?? null,
             manufacturerRestriction: await getTextContent(page.locator("(//*[.='Üretici kısıtlaması']/following-sibling::dd)[1]/span")),
-            width: (await getTextContent(page.locator("(//*[contains(text(), 'Genişlik')]/following-sibling::dd)[1]/span"))).length > 0
-              ? await getTextContent(page.locator("(//*[contains(text(), 'Genişlik')]/following-sibling::dd)[1]/span"))
-              : await getTextContent(page.locator("(//*[contains(text(), 'Uzunluk')]/following-sibling::dd)[1]")),
-            height: await getTextContent(page.locator("(//*[contains(text(), 'Yükseklik')]/following-sibling::dd)[1]/span")),
-            thickness: await getTextContent(page.locator("(//*[contains(text(), 'Kalınlık')]/following-sibling::dd)[1]/span")),
             checkmark: await getTextContent(page.locator("(//*[.='Kontrol işareti']/following-sibling::dd)[1]/span")),
             SVHC: await getTextContent(page.locator("(//*[.='SVHC']/following-sibling::dd)[1]/span")),
           };
+
 
           const product: Product = {
             reference_OE: oe,

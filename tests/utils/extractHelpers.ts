@@ -1,5 +1,5 @@
 // src/utils/extractHelpers.ts
-import { Locator } from '@playwright/test';
+import { Locator, Page } from '@playwright/test';
 import * as fs from 'fs';
 import path from 'path';
 
@@ -46,5 +46,98 @@ export function addToRetryList(oe: string) {
     currentList.push(oe);
     fs.writeFileSync(retryFilePath, JSON.stringify(currentList, null, 2), 'utf-8');
     console.log(`➕ ${oe} reTry listesine eklendi.`);
+  }
+}
+
+export async function getDimensionValuesSmart(page: Page, labelKeywords: string[]): Promise<string[]> {
+  // XPath ile tüm eşleşen dt'leri al
+  const xpathQuery = labelKeywords
+    .map(keyword => `contains(., "${keyword}")`)
+    .join(' or ');
+
+  const dtLocator = page.locator(`xpath=//dt[${xpathQuery}]`);
+  const count = await dtLocator.count();
+
+  const values: string[] = [];
+  for (let i = 0; i < count; i++) {
+    const dt = dtLocator.nth(i);
+    const dd = dt.locator('xpath=following-sibling::dd[1]/span');
+    const text = (await dd.textContent())?.trim() ?? '';
+    if (text) {
+      values.push(text);
+    }
+  }
+
+  return values;
+}
+
+export function extractYears(madeYear: string): { start: string; end: string } {
+  madeYear = madeYear.trim();
+
+  // 1. Tam aralık: "06.2009 - 12.2012"
+  const fullMatch = madeYear.match(/(\d{2})\.(\d{4})\s*-\s*(\d{2})\.(\d{4})/);
+  if (fullMatch) {
+    return {
+      start: fullMatch[2].slice(-2),
+      end: fullMatch[4].slice(-2),
+    };
+  }
+
+  // 2. Başlangıç: "Başlangıç 06.2009"
+  const startMatch = madeYear.match(/başlangıç\s+(\d{2})\.(\d{4})/i);
+  if (startMatch) {
+    return {
+      start: startMatch[2].slice(-2),
+      end: "",
+    };
+  }
+
+  // 3. Bitiş: "Bitiş 06.2009"
+  const endMatch = madeYear.match(/bitiş\s+(\d{2})\.(\d{4})/i);
+  if (endMatch) {
+    return {
+      start: "",
+      end: endMatch[2].slice(-2),
+    };
+  }
+
+  // Hiçbir eşleşme yoksa
+  return { start: "", end: "" };
+}
+
+
+export function cleanKBA(kba: string): string {
+  return kba.trim().split(/\s+/).join(", ");
+}
+
+
+const matchLogFile = path.join("data/katalogInfo/jsons", "modelMatchPool.json");
+
+type ModelMatch = {
+  original: string;
+  normalized: string;
+  model_id: number;
+  marka_id: number;
+};
+
+export function logMatchedModel(entry: ModelMatch) {
+  let existing: ModelMatch[] = [];
+
+  if (fs.existsSync(matchLogFile)) {
+    existing = JSON.parse(fs.readFileSync(matchLogFile, "utf8"));
+  }
+
+  const isDuplicate = existing.some(
+    (item) =>
+      item.normalized.toLowerCase() === entry.normalized.toLowerCase() &&
+      item.model_id === entry.model_id
+  );
+
+  if (!isDuplicate) {
+    existing.push(entry);
+    fs.writeFileSync(matchLogFile, JSON.stringify(existing, null, 2), "utf8");
+    console.log("✔️ Model havuzuna eklendi:", entry.normalized);
+  } else {
+    //console.log("⚠️ Zaten havuzda var, atlandı:", entry.normalized);
   }
 }
