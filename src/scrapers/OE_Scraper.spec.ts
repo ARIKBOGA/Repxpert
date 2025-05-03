@@ -6,31 +6,22 @@ import { addToRetryList, getDimensionValuesSmart } from '../utils/extractHelpers
 import ConfigReader from '../utils/ConfigReader';
 import { Product } from '../types/Product';
 import { Dimensions } from '../types/Dimensions';
+import {readJsonFile, retryListFilePath} from '../utils/FileHelpers';
 
 // JSON dosyasından OE numaralarını oku
-const oePath = path.resolve(__dirname, '../../data/Configs/search_references.json');
+const oePath = path.resolve(__dirname, '../data/Configs/search_references.json');
 const oeNumbers: string[] = JSON.parse(fs.readFileSync(oePath, 'utf-8'));
 
-// Eksik bulunan OE'leri kaydedeceğimiz dosya
-const retryFilePath = path.resolve(__dirname, '../../data/willBefixed/reTry.json');
-
 // reTry.json'u oku veya boş bir array oluştur
-let retryList: string[] = [];
-if (fs.existsSync(retryFilePath)) {
-  retryList = JSON.parse(fs.readFileSync(retryFilePath, 'utf-8'));
-} else {
-  // Eğer willBefixed klasörü yoksa oluştur
-  const willBeFixedFolderPath = path.dirname(retryFilePath);
-  if (!fs.existsSync(willBeFixedFolderPath)) {
-    fs.mkdirSync(willBeFixedFolderPath, { recursive: true });
-  }
-}
+let retryList = readJsonFile<string[]>(retryListFilePath, []);
+
+
 
 test.describe('REPXPERT ürünleri', () => {
   for (const oe of oeNumbers) {
     test(`${oe} no ile TRW ürünlerini al`, async ({ page }) => {
       try {
-        const filterBrand = ConfigReader.getEnvVariable('FILTER_BRAND') || 'TRW';
+        const filterBrand = ConfigReader.getEnvVariable('FILTER_BRAND_TECH_DETAIL') || 'TRW';
 
         await page.goto(ConfigReader.getEnvVariable('REPXPERT_URL') || '');
         await page.getByRole('textbox', { name: /OE numarası/i }).fill(oe);
