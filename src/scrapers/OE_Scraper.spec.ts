@@ -19,11 +19,13 @@ let retryList = readJsonFile<string[]>(retryListFilePath, []);
 
 
 test.describe('REPXPERT ürünleri', () => {
-  for (const oe of oeNumbers) {
-    test(`${oe} no ile TRW ürünlerini al`, async ({ page }) => {
-      try {
-        const filterBrand = ConfigReader.getEnvVariable('FILTER_BRAND_TECH_DETAIL') || 'TRW';
 
+  for (const oe of oeNumbers) {
+    // Her test için yeni bir sayfa açılır, böylece her test birbirinden bağımsız çalışır
+    const filterBrand = ConfigReader.getEnvVariable('FILTER_BRAND_TECH_DETAIL');
+
+    test(`${oe} no ile ${filterBrand} ürünün teknik detaylarını al`, async ({ page }) => {
+      try {
         // Search results sayfasına git
         const productLinks = await goToSearchResults(page, oe, filterBrand, retryList, addToRetryList);
         if (!productLinks) return; // ürün yoksa işlemi kes
