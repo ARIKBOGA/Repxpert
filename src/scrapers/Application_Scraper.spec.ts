@@ -9,19 +9,20 @@ import { readJsonFile, retryListFilePath } from "../utils/FileHelpers";
 import { goToSearchResults } from "../utils/ScraperHelpers";
 
 // JSON dosyasından OE numaralarını oku
-const crossNumbersPath = path.resolve(__dirname, "../data/Configs/search_references.json");
+const crossNumbersPath = path.resolve(__dirname, "../data/Gathered_Informations/Pads/Resources/references_of_pads.json");
 const crossNumbers: string[] = JSON.parse(fs.readFileSync(crossNumbersPath, "utf-8"));
 
 // reTry.json'u oku veya boş bir array oluştur
 let retryList = readJsonFile<string[]>(retryListFilePath, []);
 
-test.describe("REPXPERT Brembo ürünleri", () => {
+test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
+  
   for (const cross of crossNumbers) {
-    test(`Brembo No: ${cross} ile Brembo ürünlerini getir`, async ({ page,}) => {
-      try {
-        // Her test için yeni bir sayfa açılır, böylece her test birbirinden bağımsız çalışır
-        const filterBrand = ConfigReader.getEnvVariable("FILTER_BRAND_APPLICATION") || "BREMBO";
+    // Her test için yeni bir sayfa açılır, böylece her test birbirinden bağımsız çalışır
+    const filterBrand = ConfigReader.getEnvVariable("FILTER_BRAND_APPLICATION");
 
+    test(`${filterBrand} No: ${cross} ile ${filterBrand} ürünlerini getir`, async ({ page,}) => {
+      try {
         // Search results sayfasına git
         const productLinks = await goToSearchResults(page, cross, filterBrand, retryList, addToRetryList);
         if (!productLinks) return; // ürün yoksa işlemi kes
@@ -84,7 +85,7 @@ test.describe("REPXPERT Brembo ürünleri", () => {
           await brands.nth(i).click(); // collapse the brand details so that ONLY the next brand can be shown and located
         }
         // Save the applications to a json file, create if not exists
-        const productProducerFolderPath = path.join("src/data/apps", productProducer || "UnknownBrand");
+        const productProducerFolderPath = path.join("src/data/Gathered_Informations/Pads/Applications", productProducer || "UnknownBrand");
 
         if (!fs.existsSync(productProducerFolderPath)) {
           fs.mkdirSync(productProducerFolderPath, { recursive: true });
