@@ -15,7 +15,7 @@ const crossNumbers: string[] = JSON.parse(fs.readFileSync(crossNumbersPath, "utf
 // reTry.json'u oku veya boş bir array oluştur
 let retryList = readJsonFile<string[]>(retryListFilePath, []);
 
-test.describe.only("REPXPERT Brembo ürünleri", () => {
+test.describe("REPXPERT Brembo ürünleri", () => {
   for (const cross of crossNumbers) {
     test(`Brembo No: ${cross} ile Brembo ürünlerini getir`, async ({ page,}) => {
       try {

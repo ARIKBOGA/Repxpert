@@ -7,6 +7,7 @@ import ConfigReader from '../utils/ConfigReader';
 import { Product } from '../types/Product';
 import { Dimensions } from '../types/Dimensions';
 import {readJsonFile, retryListFilePath} from '../utils/FileHelpers';
+import { goToSearchResults } from '../utils/ScraperHelpers';
 
 // JSON dosyasından OE numaralarını oku
 const oePath = path.resolve(__dirname, '../data/Configs/search_references.json');
@@ -23,27 +24,9 @@ test.describe('REPXPERT ürünleri', () => {
       try {
         const filterBrand = ConfigReader.getEnvVariable('FILTER_BRAND_TECH_DETAIL') || 'TRW';
 
-        await page.goto(ConfigReader.getEnvVariable('REPXPERT_URL') || '');
-        await page.getByRole('textbox', { name: /OE numarası/i }).fill(oe);
-        await page.getByRole('textbox', { name: /OE numarası/i }).press('Enter');
-
-        await page.getByRole('combobox', { name: /Markalar/i }).fill(filterBrand.toLowerCase() || '');
-
-        await page.getByRole('checkbox', { name: new RegExp(filterBrand, 'i') }).first().click();
-        await page.waitForTimeout(2000);
-
-        const productLinks = await page.getByRole('link', { name: new RegExp(filterBrand, 'i') }).all();
-
-        if (productLinks.length === 0) {
-          console.warn(`⚠️ '${oe}' için ${filterBrand} ürünü bulunamadı.`);
-
-          // Eğer bu OE daha önce eklenmediyse retry listesine ekle
-          if (!retryList.includes(oe)) {
-            addToRetryList(oe);  
-          }
-
-          return;
-        }
+        // Search results sayfasına git
+        const productLinks = await goToSearchResults(page, oe, filterBrand, retryList, addToRetryList);
+        if (!productLinks) return; // ürün yoksa işlemi kes
 
         for (let i = 0; i < productLinks.length; i++) {
           console.log(`🔍 ${oe} için ${i + 1}. ürünü işliyor...`);
