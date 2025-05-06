@@ -4,6 +4,8 @@ import glob from "fast-glob";
 import * as XLSX from "xlsx";
 import { Application } from "../types/Application";
 import { extractYears, cleanKBA, logMatchedModel } from "./extractHelpers";
+import { log } from "console";
+import markaMap from "../data/katalogInfo/jsons/marka_seri_no.json";
 
 interface ModelData {
   id: number;
@@ -13,82 +15,99 @@ interface ModelData {
   model_Web: string;
 }
 
-// Dosya yolları
 const OUTPUT_FILE = "PAD_APPLICATIONS_BREMBO.xlsx";
-const ROOT_PATH = "src/data/apps/BREMBO";
+const ROOT_PATH = "src/data/Gathered_Informations/Pads/Applications/BREMBO";
 const MARKA_FILE_PATH = "src/data/katalogInfo/jsons/marka_seri_no.json";
 const MODEL_FILE_PATH = "src/data/katalogInfo/jsons/model_seri_no.json";
 
-// Marka ve model verilerini okuyalım
 async function loadJsonData(filePath: string) {
-  const data = await fs.readJSON(filePath);
-  return data;
+  return await fs.readJSON(filePath);
 }
 
-// Örnek eşleştirme sözlüğü
-const brandAliases = {
+function logUnmatchedBrand(brand: string) {
+  const norm = normalizeString(brand);
+  if (!brandAliases[norm]) {
+    console.warn(`❗ Unmatched brand: "${brand}" → normalized: "${norm}"`);
+  }
+}
+
+
+const normalizeString = (input: string): string => {
+  return input
+    .toUpperCase()
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/İ/g, "I")  // Türkçe büyük İ düzeltmesi
+    .replace(/[^A-Z0-9]/g, "")  // sadece harf ve rakam
+    .trim();
+};
+
+const rawBrandAliases = {
   "VW": "VOLKSWAGEN",
   "VAG": "VOLKSWAGEN",
   "ŠKODA": "SKODA",
-  "SKODA": "SKODA",
-  "MB": "MERCEDES-BENZ",
-  "BENZ": "MERCEDES-BENZ",
-  // ihtiyaca göre genişlet
+  "MERCEDES-BENZ": "MERCEDES",
+  "TOFAS": "FIAT",
+  "DAEWOO": "DAEWOO - CHEVROLET",
+  "CHEVROLET": "DAEWOO - CHEVROLET",
+  "EMGRAND": "GEELY"
 };
 
 
-// Marka adı normalizasyonu
-const normalizeBrand = (brand: string): string => {
-  const upper = brand
-    .normalize('NFD')                     // Unicode normalizasyonu: özel karakterleri ayırır
-    .replace(/[\u0300-\u036f]/g, "")       // Boşlukta kalmış aksanları temizler
-    .toUpperCase()
-    .replace(/[^A-Z0-9]/g, "")             // harf ve rakam dışındakileri kaldır
-    .trim();
-  return brandAliases[upper as keyof typeof brandAliases] || upper; // Eğer alias varsa onu döner, yoksa normalleştirilmiş değeri döner
-};
+// Normalized brandAliases map
+const brandAliases: Record<string, string> = Object.fromEntries(
+  Object.entries(rawBrandAliases).map(([key, value]) => [
+    normalizeString(key),
+    value
+  ])
+);
 
-// Model isimlerini normalize etmek için eşleştirme sözlüğü
-// Bu eşleştirmeler, model isimlerinin farklı varyasyonlarını normalize etmek için kullanılır
 const REPLACE_MAP: Record<string, string> = {
   "CABRIOLET": "CABRIO",
   "LIMOUSINE": "LIMUZIN",
   "LIMO": "LIMUZIN",
   "TOURER": "STATION",
-  "PLATFORM CHASSIS": "Platform şasi",
-  // Gerekirse buraya yeni eşleştirmeler eklenebilir
+  "PLATFORM CHASSIS": "PLATFORM SASI",
+  "CHASSIS": "SASI",
+  "KASA BUYUK LIMUZIN": "BOX GRAND LIMUZIN",
+  "BOX GRAND LIMUZIN": "KASA BUYUK LIMUZIN",
+  "PLATFORM ŞASİ": "PLATFORM SASI",
+  "ŞASİ": "SASI",
 };
 
-// Model ismini normalize etmek için fonksiyon
+const normalizeBrand = (brand: string): string => {
+  const normalized = normalizeString(brand);
+  //logUnmatchedBrand(brand); // Log unmatched brands. Use it only for testing purposes.
+  return brandAliases[normalized] || normalized;
+};
+
+
 const normalizeModel = (model: string): string => {
   let normalized = model
     .toUpperCase()
-    .normalize("NFD")                 // Latin harflerdeki aksanları düzelt
-    .replace(/[\u0300-\u036f]/g, "")  // Aksanları kaldır
-    .replace(/[|\/]/g, " ")           // | ve / yerine boşluk koy
-    .replace(/([^\s])\(/g, "$1 (")    // Parantez öncesine boşluk ekle
-    .replace(/[\s\-_.]+/g, " ")       // Boşluk, tire, alt tire, nokta -> tek boşluk
-    .replace(/([,\/])\s*/g, "$1")     // , veya / sonrası boşlukları kaldır
-    .replace(/\s+([,\/])/g, "$1")     // , veya / öncesi boşlukları kaldır
-    .replace(/[()]/g, "")             // Parantezleri kaldır
-    .replace(/\s+/g, " ")             // Çoklu boşlukları tek boşluk yap
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/İ/g, "I") // Türkçe karakter düzeltme
+    .replace(/[|\/]/g, " ")
+    .replace(/([^\s])\(/g, "$1 (")
+    .replace(/[\s\-_.]+/g, " ")
+    .replace(/([,\/])\s*/g, "$1")
+    .replace(/\s+([,\/])/g, "$1")
+    .replace(/[()]/g, "")
+    .replace(/\s+/g, " ")
     .trim();
 
-  // Eş anlamlı kelimeleri normalize et
   for (const [target, replacement] of Object.entries(REPLACE_MAP)) {
     const pattern = new RegExp(`\\b${target}\\b`, "g");
     normalized = normalized.replace(pattern, replacement);
   }
+
   return normalized;
 };
 
-
-
-// Ana fonksiyon
 async function main() {
-  const markaData = await loadJsonData(MARKA_FILE_PATH); // Marka verilerini al
-  const modelData = await loadJsonData(MODEL_FILE_PATH); // Model verilerini al
-
+  const markaData = await loadJsonData(MARKA_FILE_PATH);
+  const modelData = await loadJsonData(MODEL_FILE_PATH);
   const files = await glob(`${ROOT_PATH}/**/BREMBO_*.json`);
   const workbook = XLSX.utils.book_new();
 
@@ -99,19 +118,16 @@ async function main() {
     const rows = json.map((app) => {
       const { start, end } = extractYears(app.madeYear);
 
-      // Marka adı normalizasyonu ve marka id lookup
       const normalizedBrand = normalizeBrand(app.brand.trim());
       const marka_id_raw = Object.entries(markaData).find(
-        ([key, value]) => normalizeBrand(value as string) === normalizedBrand
+        ([, value]) => normalizeString(value as string) === normalizeString(normalizedBrand)
       )?.[0] ?? null;
-
+      
       const marka_id = marka_id_raw ? parseInt(marka_id_raw) : null;
 
-      // Model adı normalizasyonu ve model id lookup
       const normalizedModel = normalizeModel(app.model.trim());
       const modelEntry = modelData.find(
         (m: ModelData) =>
-          //normalizeBrand(m["modeller_markalar::marka"]) === normalizedBrand &&
           normalizeModel(m.model) === normalizedModel
       );
 
@@ -126,10 +142,21 @@ async function main() {
         });
       }
 
+      function getMappedValue(
+        map: Record<string, string>,
+        id: number | null,
+        fallback: string
+      ): string {
+        return id !== null ? map[id.toString()] || fallback : fallback;
+      }
+      
+      // kullanım:
+      const katalogMarka = getMappedValue(markaMap, marka_id, app.brand.trim());
+      
 
       return {
         marka_id,
-        marka: app.brand.trim(),
+        marka: katalogMarka.trim(),
         model_id,
         model: app.model.trim(),
         "Baş. Yıl": start,
@@ -150,24 +177,11 @@ async function main() {
       ]
     });
 
-    XLSX.utils.book_append_sheet(workbook, worksheet, sheetName.slice(0, 31)); // max 31 karakter
+    XLSX.utils.book_append_sheet(workbook, worksheet, sheetName.slice(0, 31));
   }
 
-  // Excel dosyasını yazalım
   XLSX.writeFile(workbook, OUTPUT_FILE);
   console.log(`✅ Excel oluşturuldu: ${OUTPUT_FILE}`);
 }
-
-/*
-const model1 = "TOURAN VAN (1T1, 1T2)";
-const model2 = "Touran Van(1T1, 1T2)";
-const model3 = "Caddy III Kasa/ büyük Limuzin (2KA,2KH,2CA,2CH)";
-const model4 = " CADDY III Kasa/büyük limuzin (2KA, 2KH, 2CA, 2CH) ";
-console.log(normalizeModel(model1));  // "EOS 1F7 1F8"
-console.log(normalizeModel(model2));  // "EOS 1F7 1F8"
-console.log(normalizeModel(model3));  // "EOS 1F7 1F8"
-console.log(normalizeModel(model4));  // "EOS 1F7 1F8"
-*/
-
 
 main().catch(console.error);
