@@ -4,6 +4,8 @@ import glob from "fast-glob";
 import * as XLSX from "xlsx";
 import { Application } from "../types/Application";
 import { extractYears, cleanKBA, logMatchedModel } from "./extractHelpers";
+import { log } from "console";
+import markaMap from "../data/katalogInfo/jsons/marka_seri_no.json";
 
 interface ModelData {
   id: number;
@@ -22,18 +24,43 @@ async function loadJsonData(filePath: string) {
   return await fs.readJSON(filePath);
 }
 
-const brandAliases = {
+function logUnmatchedBrand(brand: string) {
+  const norm = normalizeString(brand);
+  if (!brandAliases[norm]) {
+    console.warn(`❗ Unmatched brand: "${brand}" → normalized: "${norm}"`);
+  }
+}
+
+
+const normalizeString = (input: string): string => {
+  return input
+    .toUpperCase()
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/İ/g, "I")  // Türkçe büyük İ düzeltmesi
+    .replace(/[^A-Z0-9]/g, "")  // sadece harf ve rakam
+    .trim();
+};
+
+const rawBrandAliases = {
   "VW": "VOLKSWAGEN",
   "VAG": "VOLKSWAGEN",
   "ŠKODA": "SKODA",
-  "SKODA": "SKODA",
-  "MB": "MERCEDES-BENZ",
-  "BENZ": "MERCEDES-BENZ",
-  "MERCEDES": "MERCEDES-BENZ",
+  "MERCEDES-BENZ": "MERCEDES",
   "TOFAS": "FIAT",
-  "DAEWOO": "DAEWOO- CHEVROLET",
-  "MERCEDESBENZ": "MERCEDES-BENZ",
+  "DAEWOO": "DAEWOO - CHEVROLET",
+  "CHEVROLET": "DAEWOO - CHEVROLET",
+  "EMGRAND": "GEELY"
 };
+
+
+// Normalized brandAliases map
+const brandAliases: Record<string, string> = Object.fromEntries(
+  Object.entries(rawBrandAliases).map(([key, value]) => [
+    normalizeString(key),
+    value
+  ])
+);
 
 const REPLACE_MAP: Record<string, string> = {
   "CABRIOLET": "CABRIO",
@@ -48,20 +75,12 @@ const REPLACE_MAP: Record<string, string> = {
   "ŞASİ": "SASI",
 };
 
-const normalizeString = (input: string): string => {
-  return input
-    .toUpperCase()
-    .normalize("NFD")
-    .replace(/[\u0300-\u036f]/g, "")
-    .replace(/İ/g, "I")  // Türkçe büyük İ düzeltmesi
-    .replace(/[^A-Z0-9]/g, "")  // sadece harf ve rakam
-    .trim();
+const normalizeBrand = (brand: string): string => {
+  const normalized = normalizeString(brand);
+  //logUnmatchedBrand(brand); // Log unmatched brands. Use it only for testing purposes.
+  return brandAliases[normalized] || normalized;
 };
 
-const normalizeBrand = (brand: string): string => {
-  const upper = normalizeString(brand);
-  return brandAliases[upper as keyof typeof brandAliases] || upper;
-};
 
 const normalizeModel = (model: string): string => {
   let normalized = model
@@ -101,8 +120,9 @@ async function main() {
 
       const normalizedBrand = normalizeBrand(app.brand.trim());
       const marka_id_raw = Object.entries(markaData).find(
-        ([, value]) => normalizeBrand(value as string) === normalizedBrand
+        ([, value]) => normalizeString(value as string) === normalizeString(normalizedBrand)
       )?.[0] ?? null;
+      
       const marka_id = marka_id_raw ? parseInt(marka_id_raw) : null;
 
       const normalizedModel = normalizeModel(app.model.trim());
@@ -122,9 +142,21 @@ async function main() {
         });
       }
 
+      function getMappedValue(
+        map: Record<string, string>,
+        id: number | null,
+        fallback: string
+      ): string {
+        return id !== null ? map[id.toString()] || fallback : fallback;
+      }
+      
+      // kullanım:
+      const katalogMarka = getMappedValue(markaMap, marka_id, app.brand.trim());
+      
+
       return {
         marka_id,
-        marka: app.brand.trim(),
+        marka: katalogMarka.trim(),
         model_id,
         model: app.model.trim(),
         "Baş. Yıl": start,
@@ -153,10 +185,3 @@ async function main() {
 }
 
 main().catch(console.error);
-
-console.log(normalizeModel("Fiorino Kasa/büyük limuzin (146_)"));
-// Beklenen: "FIORINO BOX/GRAND LIMOUSINE 146_"
-
-console.log(normalizeModel("Fiorino Box/Grand Limousine (146_)"));
-// Beklenen: "FIORINO BOX/GRAND LIMOUSINE 146_"
-

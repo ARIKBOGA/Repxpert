@@ -31,4 +31,4 @@ fs.writeFile(filePathToWrite, JSON.stringify(arrayOfObjectsJsonData, null, 2), (
     }
 });
 
-console.log('Excel dosyası nesne dizisi formatında JSON\'a dönüştürüldü:', arrayOfObjectsJsonData);
+console.log('Excel dosyası nesne dizisi formatında JSON\'a dönüştürüldü:');

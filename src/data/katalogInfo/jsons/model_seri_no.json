@@ -206,29 +206,29 @@
     "id": 310,
     "marka_id": 33,
     "modeller_markalar::marka": "BMW",
-    "model": "Serie 5 (E34)",
-    "model_Web": "Serie 5 (E34)"
+    "model": "5 (E34)",
+    "model_Web": "5 (E34)"
   },
   {
     "id": 311,
     "marka_id": 33,
     "modeller_markalar::marka": "BMW",
-    "model": "Serie 3 (E36)",
-    "model_Web": "Serie 3 (E36)"
+    "model": "3 (E36)",
+    "model_Web": "3 (E36)"
   },
   {
     "id": 312,
     "marka_id": 33,
     "modeller_markalar::marka": "BMW",
-    "model": "Serie 7 (E32)",
-    "model_Web": "Serie 7 (E32)"
+    "model": "7 (E32)",
+    "model_Web": "7 (E32)"
   },
   {
     "id": 313,
     "marka_id": 33,
     "modeller_markalar::marka": "BMW",
-    "model": "Serie 3 Coupe (E36)",
-    "model_Web": "Serie 3 Coupe (E36)"
+    "model": "3 Coupe (E36)",
+    "model_Web": "3 Coupe (E36)"
   },
   {
     "id": 314,
@@ -241,15 +241,15 @@
     "id": 315,
     "marka_id": 34,
     "modeller_markalar::marka": "FIAT",
-    "model": "Palio Weekend",
-    "model_Web": "Palio Weekend"
+    "model": "Palio Weekend (178_, 173_, 373_, 374_, 171_) | Weekend | Palio Weekend | Palio Weekend / Weekend",
+    "model_Web": "Palio Weekend (178_, 173_, 373_, 374_, 171_) | Weekend | Palio Weekend | Palio Weekend / Weekend"
   },
   {
     "id": 316,
     "marka_id": 34,
     "modeller_markalar::marka": "FIAT",
-    "model": "Siena",
-    "model_Web": "Siena"
+    "model": "Siena (178_, 172_, 372_) | Albea | Petra | Palio / Albea",
+    "model_Web": "Siena (178_, 172_, 372_) | Albea | Petra | Palio / Albea"
   },
   {
     "id": 317,
@@ -1676,8 +1676,8 @@
     "id": 520,
     "marka_id": 45,
     "modeller_markalar::marka": "PEUGEOT",
-    "model": "306 Cabriolet",
-    "model_Web": "306 Cabriolet"
+    "model": "306 Cabrio (7D, N3, N5)",
+    "model_Web": "306 Cabrio (7D, N3, N5)"
   },
   {
     "id": 521,
@@ -1711,8 +1711,8 @@
     "id": 525,
     "marka_id": 45,
     "modeller_markalar::marka": "PEUGEOT",
-    "model": "405 I",
-    "model_Web": "405 I"
+    "model": "405 I (15B)",
+    "model_Web": "405 I (15B)"
   },
   {
     "id": 526,
@@ -1774,8 +1774,8 @@
     "id": 534,
     "marka_id": 45,
     "modeller_markalar::marka": "PEUGEOT",
-    "model": "405 II",
-    "model_Web": "405 II"
+    "model": "405 II (4B)",
+    "model_Web": "405 II (4B)"
   },
   {
     "id": 535,
@@ -2040,8 +2040,8 @@
     "id": 572,
     "marka_id": 46,
     "modeller_markalar::marka": "RENAULT",
-    "model": "Master II",
-    "model_Web": "Master II"
+    "model": "Master II Panelvan/Van (FD)",
+    "model_Web": "Master II Panelvan/Van (FD)"
   },
   {
     "id": 573,
@@ -2215,8 +2215,8 @@
     "id": 597,
     "marka_id": 30,
     "modeller_markalar::marka": "VOLKSWAGEN",
-    "model": "Derby",
-    "model_Web": "Derby"
+    "model": "Derby (86C, 80)",
+    "model_Web": "Derby (86C, 80)"
   },
   {
     "id": 598,
@@ -2250,8 +2250,8 @@
     "id": 602,
     "marka_id": 30,
     "modeller_markalar::marka": "VOLKSWAGEN",
-    "model": "Jetta II",
-    "model_Web": "Jetta II"
+    "model": "Jetta II (19E, 1G2, 165)",
+    "model_Web": "Jetta II (19E, 1G2, 165)"
   },
   {
     "id": 603,
@@ -2271,8 +2271,8 @@
     "id": 605,
     "marka_id": 30,
     "modeller_markalar::marka": "VOLKSWAGEN",
-    "model": "Polo II",
-    "model_Web": "Polo II"
+    "model": "Polo II (86C, 80)",
+    "model_Web": "Polo II (86C, 80)"
   },
   {
     "id": 606,
@@ -2355,8 +2355,8 @@
     "id": 617,
     "marka_id": 30,
     "modeller_markalar::marka": "VOLKSWAGEN",
-    "model": "Polo III",
-    "model_Web": "Polo III"
+    "model": "Polo III (6N1)",
+    "model_Web": "Polo III (6N1)"
   },
   {
     "id": 618,
@@ -2768,43 +2768,43 @@
     "id": 676,
     "marka_id": 34,
     "modeller_markalar::marka": "FIAT",
-    "model": "124",
-    "model_Web": "124"
+    "model": "124 (124_)",
+    "model_Web": "124 (124_)"
   },
   {
     "id": 677,
     "marka_id": 34,
     "modeller_markalar::marka": "FIAT",
-    "model": "125",
-    "model_Web": "125"
+    "model": "125 (125_)",
+    "model_Web": "125 (125_)"
   },
   {
     "id": 678,
     "marka_id": 34,
     "modeller_markalar::marka": "FIAT",
-    "model": "127",
-    "model_Web": "127"
+    "model": "127 (127_)",
+    "model_Web": "127 (127_)"
   },
   {
     "id": 679,
     "marka_id": 34,
     "modeller_markalar::marka": "FIAT",
-    "model": "128",
-    "model_Web": "128"
+    "model": "128 (128_)",
+    "model_Web": "128 (128_)"
   },
   {
     "id": 680,
     "marka_id": 34,
     "modeller_markalar::marka": "FIAT",
-    "model": "131",
-    "model_Web": "131"
+    "model": "131 (131_) | Superbravo",
+    "model_Web": "131 (131_) | Superbravo"
   },
   {
     "id": 681,
     "marka_id": 34,
     "modeller_markalar::marka": "FIAT",
-    "model": "132",
-    "model_Web": "132"
+    "model": "132 (132_)",
+    "model_Web": "132 (132_)"
   },
   {
     "id": 682,
@@ -2824,8 +2824,8 @@
     "id": 684,
     "marka_id": 45,
     "modeller_markalar::marka": "PEUGEOT",
-    "model": "307 SW",
-    "model_Web": "307 SW"
+    "model": "307 SW Kombi van (3E_, 3H_)",
+    "model_Web": "307 SW Kombi van (3E_, 3H_)"
   },
   {
     "id": 685,
@@ -3160,8 +3160,8 @@
     "id": 732,
     "marka_id": 45,
     "modeller_markalar::marka": "PEUGEOT",
-    "model": "307 / SW",
-    "model_Web": "307 / SW"
+    "model": "Partner Kasa/büyük limuzin (5_, G_) | Partner Furgon | Ranch",
+    "model_Web": "Partner Kasa/büyük limuzin (5_, G_) | Partner Furgon | Ranch"
   },
   {
     "id": 733,
@@ -3313,14 +3313,14 @@
   {
     "id": 754,
     "marka_id": 52,
-    "modeller_markalar::marka": "DAEWOO- CHEVROLET",
+    "modeller_markalar::marka": "DAEWOO - CHEVROLET",
     "model": "Espero",
     "model_Web": "Espero"
   },
   {
     "id": 755,
     "marka_id": 52,
-    "modeller_markalar::marka": "DAEWOO- CHEVROLET",
+    "modeller_markalar::marka": "DAEWOO - CHEVROLET",
     "model": "Nubira / SW",
     "model_Web": "Nubira / SW"
   },
@@ -3573,8 +3573,8 @@
     "id": 791,
     "marka_id": 44,
     "modeller_markalar::marka": "OPEL",
-    "model": "Astra H",
-    "model_Web": "Astra H"
+    "model": "Astra H (A04)",
+    "model_Web": "Astra H (A04)"
   },
   {
     "id": 792,
@@ -3622,8 +3622,8 @@
     "id": 798,
     "marka_id": 33,
     "modeller_markalar::marka": "BMW",
-    "model": "Serie 5 (E39)",
-    "model_Web": "Serie 5 (E39)"
+    "model": "5 (E39)",
+    "model_Web": "5 (E39)"
   },
   {
     "id": 799,
@@ -3677,21 +3677,21 @@
   {
     "id": 806,
     "marka_id": 52,
-    "modeller_markalar::marka": "DAEWOO- CHEVROLET",
+    "modeller_markalar::marka": "DAEWOO - CHEVROLET",
     "model": "Truck",
     "model_Web": "Truck"
   },
   {
     "id": 807,
     "marka_id": 52,
-    "modeller_markalar::marka": "DAEWOO- CHEVROLET",
+    "modeller_markalar::marka": "DAEWOO - CHEVROLET",
     "model": "Evanda Europe",
     "model_Web": "Evanda Europe"
   },
   {
     "id": 808,
     "marka_id": 52,
-    "modeller_markalar::marka": "DAEWOO- CHEVROLET",
+    "modeller_markalar::marka": "DAEWOO - CHEVROLET",
     "model": "Tacuma Europe",
     "model_Web": "Tacuma Europe"
   },
@@ -3719,7 +3719,7 @@
   {
     "id": 812,
     "marka_id": 52,
-    "modeller_markalar::marka": "DAEWOO- CHEVROLET",
+    "modeller_markalar::marka": "DAEWOO - CHEVROLET",
     "model": "Lublin",
     "model_Web": "Lublin"
   },
@@ -4084,8 +4084,8 @@
     "id": 864,
     "marka_id": 41,
     "modeller_markalar::marka": "MERCEDES",
-    "model": "Viano (W639)",
-    "model_Web": "Viano (W639)"
+    "model": "Viano (W639) | V-Class",
+    "model_Web": "Viano (W639) | V-Class"
   },
   {
     "id": 865,
@@ -4119,8 +4119,8 @@
     "id": 869,
     "marka_id": 30,
     "modeller_markalar::marka": "VOLKSWAGEN",
-    "model": "Passat B2 Variant",
-    "model_Web": "Passat B2 Variant"
+    "model": "Passat B2 Variant (33B) | Corsar | Quantum | Carat",
+    "model_Web": "Passat B2 Variant (33B) | Corsar | Quantum | Carat"
   },
   {
     "id": 870,
@@ -4294,8 +4294,8 @@
     "id": 894,
     "marka_id": 30,
     "modeller_markalar::marka": "VOLKSWAGEN",
-    "model": "Polo Classic",
-    "model_Web": "Polo Classic"
+    "model": "Polo Classic (86C, 80)",
+    "model_Web": "Polo Classic (86C, 80)"
   },
   {
     "id": 895,
@@ -4441,8 +4441,8 @@
     "id": 915,
     "marka_id": 30,
     "modeller_markalar::marka": "VOLKSWAGEN",
-    "model": "Polo Variant",
-    "model_Web": "Polo Variant"
+    "model": "Polo Variant (6V5)",
+    "model_Web": "Polo Variant (6V5)"
   },
   {
     "id": 916,
@@ -4693,8 +4693,8 @@
     "id": 951,
     "marka_id": 33,
     "modeller_markalar::marka": "BMW",
-    "model": "Serie 3 Coupe (E46)",
-    "model_Web": "Serie 3 Coupe (E46)"
+    "model": "3 Coupe (E46)",
+    "model_Web": "3 Coupe (E46)"
   },
   {
     "id": 952,
@@ -4762,28 +4762,28 @@
   {
     "id": 961,
     "marka_id": 52,
-    "modeller_markalar::marka": "DAEWOO- CHEVROLET",
+    "modeller_markalar::marka": "DAEWOO - CHEVROLET",
     "model": "Rezzo Europe",
     "model_Web": "Rezzo Europe"
   },
   {
     "id": 962,
     "marka_id": 52,
-    "modeller_markalar::marka": "DAEWOO- CHEVROLET",
+    "modeller_markalar::marka": "DAEWOO - CHEVROLET",
     "model": "Evanda",
     "model_Web": "Evanda"
   },
   {
     "id": 963,
     "marka_id": 52,
-    "modeller_markalar::marka": "DAEWOO- CHEVROLET",
+    "modeller_markalar::marka": "DAEWOO - CHEVROLET",
     "model": "Rezzo",
     "model_Web": "Rezzo"
   },
   {
     "id": 964,
     "marka_id": 52,
-    "modeller_markalar::marka": "DAEWOO- CHEVROLET",
+    "modeller_markalar::marka": "DAEWOO - CHEVROLET",
     "model": "Tacuma",
     "model_Web": "Tacuma"
   },
@@ -5042,7 +5042,7 @@
   {
     "id": 1001,
     "marka_id": 52,
-    "modeller_markalar::marka": "DAEWOO- CHEVROLET",
+    "modeller_markalar::marka": "DAEWOO - CHEVROLET",
     "model": "Leganza",
     "model_Web": "Leganza"
   },
@@ -5183,8 +5183,8 @@
     "id": 1021,
     "marka_id": 44,
     "modeller_markalar::marka": "OPEL",
-    "model": "Meriva A MPV",
-    "model_Web": "Meriva A MPV"
+    "model": "Meriva A MPV (X03)",
+    "model_Web": "Meriva A MPV (X03)"
   },
   {
     "id": 1022,
@@ -5386,15 +5386,15 @@
     "id": 1050,
     "marka_id": 34,
     "modeller_markalar::marka": "FIAT",
-    "model": "Idea 135-Van",
-    "model_Web": "Idea 135-Van"
+    "model": "Idea Van (350_)",
+    "model_Web": "Idea Van (350_)"
   },
   {
     "id": 1051,
     "marka_id": 34,
     "modeller_markalar::marka": "FIAT",
-    "model": "Linea",
-    "model_Web": "Linea"
+    "model": "Linea (323_, 110_)",
+    "model_Web": "Linea (323_, 110_)"
   },
   {
     "id": 1052,
@@ -5406,7 +5406,7 @@
   {
     "id": 1053,
     "marka_id": 52,
-    "modeller_markalar::marka": "DAEWOO- CHEVROLET",
+    "modeller_markalar::marka": "DAEWOO - CHEVROLET",
     "model": "Captiva",
     "model_Web": "Captiva"
   },
@@ -5504,7 +5504,7 @@
   {
     "id": 1067,
     "marka_id": 52,
-    "modeller_markalar::marka": "DAEWOO- CHEVROLET",
+    "modeller_markalar::marka": "DAEWOO - CHEVROLET",
     "model": "Lacetti",
     "model_Web": "Lacetti"
   },
@@ -5547,8 +5547,8 @@
     "id": 1073,
     "marka_id": 51,
     "modeller_markalar::marka": "SUZUKI",
-    "model": "Splash",
-    "model_Web": "Splash"
+    "model": "Splash (EX)",
+    "model_Web": "Splash (EX)"
   },
   {
     "id": 1074,
@@ -5638,8 +5638,8 @@
     "id": 1086,
     "marka_id": 43,
     "modeller_markalar::marka": "NISSAN",
-    "model": "Qashqai",
-    "model_Web": "Qashqai"
+    "model": "Qashqai I Van (J10) | Dualis",
+    "model_Web": "Qashqai I Van (J10) | Dualis"
   },
   {
     "id": 1087,
@@ -5897,36 +5897,36 @@
     "id": 1123,
     "marka_id": 33,
     "modeller_markalar::marka": "BMW",
-    "model": "Serie 3 (E46)",
-    "model_Web": "Serie 3 (E46)"
+    "model": "3 (E46)",
+    "model_Web": "3 (E46)"
   },
   {
     "id": 1124,
     "marka_id": 33,
     "modeller_markalar::marka": "BMW",
-    "model": "Serie 3 Compact (E36)",
-    "model_Web": "Serie 3 Compact (E36)"
+    "model": "3 Compact (E36)",
+    "model_Web": "3 Compact (E36)"
   },
   {
     "id": 1125,
     "marka_id": 33,
     "modeller_markalar::marka": "BMW",
-    "model": "Serie 3 Compact (E46)",
-    "model_Web": "Serie 3 Compact (E46)"
+    "model": "3 Compact (E46)",
+    "model_Web": "3 Compact (E46)"
   },
   {
     "id": 1126,
     "marka_id": 33,
     "modeller_markalar::marka": "BMW",
-    "model": "Serie 3 Cabrio (E36)",
-    "model_Web": "Serie 3 Cabrio (E36)"
+    "model": "3 Cabrio (E36)",
+    "model_Web": "3 Cabrio (E36)"
   },
   {
     "id": 1127,
     "marka_id": 33,
     "modeller_markalar::marka": "BMW",
-    "model": "Serie 3 Cabrio (E46)",
-    "model_Web": "Serie 3 Cabrio (E46)"
+    "model": "3 Cabrio (E46)",
+    "model_Web": "3 Cabrio (E46)"
   },
   {
     "id": 1128,
@@ -6191,8 +6191,8 @@
     "id": 1165,
     "marka_id": 35,
     "modeller_markalar::marka": "HONDA",
-    "model": "CR-V III ",
-    "model_Web": "CR-V III "
+    "model": "CR-V III  (RE_)",
+    "model_Web": "CR-V III  (RE_)"
   },
   {
     "id": 1166,
@@ -6247,8 +6247,8 @@
     "id": 1173,
     "marka_id": 44,
     "modeller_markalar::marka": "OPEL",
-    "model": "Astra H Sedan",
-    "model_Web": "Astra H Sedan"
+    "model": "Astra H Sedan (A04) | Astra A+",
+    "model_Web": "Astra H Sedan (A04) | Astra A+"
   },
   {
     "id": 1174,
@@ -6365,28 +6365,28 @@
   {
     "id": 1190,
     "marka_id": 52,
-    "modeller_markalar::marka": "DAEWOO- CHEVROLET",
+    "modeller_markalar::marka": "DAEWOO - CHEVROLET",
     "model": "Matiz I",
     "model_Web": "Matiz I"
   },
   {
     "id": 1191,
     "marka_id": 52,
-    "modeller_markalar::marka": "DAEWOO- CHEVROLET",
+    "modeller_markalar::marka": "DAEWOO - CHEVROLET",
     "model": "Matiz II",
     "model_Web": "Matiz II"
   },
   {
     "id": 1192,
     "marka_id": 52,
-    "modeller_markalar::marka": "DAEWOO- CHEVROLET",
+    "modeller_markalar::marka": "DAEWOO - CHEVROLET",
     "model": "Cruze",
     "model_Web": "Cruze"
   },
   {
     "id": 1193,
     "marka_id": 52,
-    "modeller_markalar::marka": "DAEWOO- CHEVROLET",
+    "modeller_markalar::marka": "DAEWOO - CHEVROLET",
     "model": "Cruze Hatchback",
     "model_Web": "Cruze Hatchback"
   },
@@ -6464,8 +6464,8 @@
     "id": 1204,
     "marka_id": 44,
     "modeller_markalar::marka": "OPEL",
-    "model": "Insignia A",
-    "model_Web": "Insignia A"
+    "model": "Insignia A (G09)",
+    "model_Web": "Insignia A (G09)"
   },
   {
     "id": 1205,
@@ -6526,35 +6526,35 @@
   {
     "id": 1213,
     "marka_id": 52,
-    "modeller_markalar::marka": "DAEWOO- CHEVROLET",
+    "modeller_markalar::marka": "DAEWOO - CHEVROLET",
     "model": "Aveo Hatchback",
     "model_Web": "Aveo Hatchback"
   },
   {
     "id": 1214,
     "marka_id": 52,
-    "modeller_markalar::marka": "DAEWOO- CHEVROLET",
+    "modeller_markalar::marka": "DAEWOO - CHEVROLET",
     "model": "Aveo",
     "model_Web": "Aveo"
   },
   {
     "id": 1215,
     "marka_id": 52,
-    "modeller_markalar::marka": "DAEWOO- CHEVROLET",
+    "modeller_markalar::marka": "DAEWOO - CHEVROLET",
     "model": "Kalos",
     "model_Web": "Kalos"
   },
   {
     "id": 1216,
     "marka_id": 52,
-    "modeller_markalar::marka": "DAEWOO- CHEVROLET",
+    "modeller_markalar::marka": "DAEWOO - CHEVROLET",
     "model": "Spark",
     "model_Web": "Spark"
   },
   {
     "id": 1217,
     "marka_id": 52,
-    "modeller_markalar::marka": "DAEWOO- CHEVROLET",
+    "modeller_markalar::marka": "DAEWOO - CHEVROLET",
     "model": "Matiz ",
     "model_Web": "Matiz "
   },
@@ -6569,8 +6569,8 @@
     "id": 1219,
     "marka_id": 43,
     "modeller_markalar::marka": "NISSAN",
-    "model": "Murano I",
-    "model_Web": "Murano I"
+    "model": "Murano I (Z50)",
+    "model_Web": "Murano I (Z50)"
   },
   {
     "id": 1220,
@@ -6583,29 +6583,29 @@
     "id": 1221,
     "marka_id": 33,
     "modeller_markalar::marka": "BMW",
-    "model": "Serie 5 (E60)",
-    "model_Web": "Serie 5 (E60)"
+    "model": "5 (E60)",
+    "model_Web": "5 (E60)"
   },
   {
     "id": 1222,
     "marka_id": 33,
     "modeller_markalar::marka": "BMW",
-    "model": "Serie 5 (E61)",
-    "model_Web": "Serie 5 (E61)"
+    "model": "5 (E61)",
+    "model_Web": "5 (E61)"
   },
   {
     "id": 1223,
     "marka_id": 33,
     "modeller_markalar::marka": "BMW",
-    "model": "Serie 6 (E63)",
-    "model_Web": "Serie 6 (E63)"
+    "model": "6 (E63)",
+    "model_Web": "6 (E63)"
   },
   {
     "id": 1224,
     "marka_id": 33,
     "modeller_markalar::marka": "BMW",
-    "model": "Serie 6 (E64)",
-    "model_Web": "Serie 6 (E64)"
+    "model": "6 (E64)",
+    "model_Web": "6 (E64)"
   },
   {
     "id": 1225,
@@ -6821,8 +6821,8 @@
     "id": 1255,
     "marka_id": 34,
     "modeller_markalar::marka": "FIAT",
-    "model": "Punto Evo",
-    "model_Web": "Punto Evo"
+    "model": "Punto Evo (199_)",
+    "model_Web": "Punto Evo (199_)"
   },
   {
     "id": 1256,
@@ -6898,8 +6898,8 @@
     "id": 1266,
     "marka_id": 30,
     "modeller_markalar::marka": "VOLKSWAGEN",
-    "model": "Polo Coupe",
-    "model_Web": "Polo Coupe"
+    "model": "Polo Coupe (86C, 80)",
+    "model_Web": "Polo Coupe (86C, 80)"
   },
   {
     "id": 1267,
@@ -6912,8 +6912,8 @@
     "id": 1268,
     "marka_id": 33,
     "modeller_markalar::marka": "BMW",
-    "model": "Serie 5 (F10, F18)",
-    "model_Web": "Serie 5 (F10, F18)"
+    "model": "5 (F10, F18)",
+    "model_Web": "5 (F10, F18)"
   },
   {
     "id": 1269,
@@ -6939,7 +6939,7 @@
   {
     "id": 1272,
     "marka_id": 52,
-    "modeller_markalar::marka": "DAEWOO- CHEVROLET",
+    "modeller_markalar::marka": "DAEWOO - CHEVROLET",
     "model": "Magnus",
     "model_Web": "Magnus"
   },
@@ -6947,22 +6947,22 @@
     "id": 1273,
     "marka_id": 43,
     "modeller_markalar::marka": "NISSAN",
-    "model": "X-Trail",
-    "model_Web": "X-Trail"
+    "model": "X-Trail I (T30)",
+    "model_Web": "X-Trail I (T30)"
   },
   {
     "id": 1274,
     "marka_id": 43,
     "modeller_markalar::marka": "NISSAN",
-    "model": "350 Z",
-    "model_Web": "350 Z"
+    "model": "350Z Coupe (Z33) | Fairlady 350Z | Fairlady Z",
+    "model_Web": "350Z Coupe (Z33) | Fairlady 350Z | Fairlady Z"
   },
   {
     "id": 1275,
     "marka_id": 43,
     "modeller_markalar::marka": "NISSAN",
-    "model": "Leaf",
-    "model_Web": "Leaf"
+    "model": "Leaf (ZE0)",
+    "model_Web": "Leaf (ZE0)"
   },
   {
     "id": 1276,
@@ -6989,8 +6989,8 @@
     "id": 1279,
     "marka_id": 33,
     "modeller_markalar::marka": "BMW",
-    "model": "Serie 5 (E28)",
-    "model_Web": "Serie 5 (E28)"
+    "model": "5 (E28)",
+    "model_Web": "5 (E28)"
   },
   {
     "id": 1280,
@@ -7346,8 +7346,8 @@
     "id": 1330,
     "marka_id": 30,
     "modeller_markalar::marka": "VOLKSWAGEN",
-    "model": "Golf VI Variant (AJ5)",
-    "model_Web": "Golf VI Variant (AJ5)"
+    "model": "Golf VI Variant (AJ5) | Jetta",
+    "model_Web": "Golf VI Variant (AJ5) | Jetta"
   },
   {
     "id": 1331,
@@ -7367,8 +7367,8 @@
     "id": 1333,
     "marka_id": 30,
     "modeller_markalar::marka": "VOLKSWAGEN",
-    "model": "Jetta III (1K2)",
-    "model_Web": "Jetta III (1K2)"
+    "model": "Jetta III (1K2) | Bora | Vento",
+    "model_Web": "Jetta III (1K2) | Bora | Vento"
   },
   {
     "id": 1334,
@@ -7395,8 +7395,8 @@
     "id": 1337,
     "marka_id": 30,
     "modeller_markalar::marka": "VOLKSWAGEN",
-    "model": "Touran (1T3)",
-    "model_Web": "Touran (1T3)"
+    "model": "Touran (1T3) | Golf Touran",
+    "model_Web": "Touran (1T3) | Golf Touran"
   },
   {
     "id": 1338,
@@ -7555,7 +7555,7 @@
   {
     "id": 1360,
     "marka_id": 52,
-    "modeller_markalar::marka": "DAEWOO- CHEVROLET",
+    "modeller_markalar::marka": "DAEWOO - CHEVROLET",
     "model": "Corsa Station Wagon",
     "model_Web": "Corsa Station Wagon"
   },
@@ -7598,8 +7598,8 @@
     "id": 1366,
     "marka_id": 60,
     "modeller_markalar::marka": "CITROËN",
-    "model": "ZX Break",
-    "model_Web": "ZX Break"
+    "model": "ZX Break (N2)",
+    "model_Web": "ZX Break (N2)"
   },
   {
     "id": 1367,
@@ -7626,8 +7626,8 @@
     "id": 1370,
     "marka_id": 60,
     "modeller_markalar::marka": "CITROËN",
-    "model": "ZX",
-    "model_Web": "ZX"
+    "model": "ZX (N2)",
+    "model_Web": "ZX (N2)"
   },
   {
     "id": 1371,
@@ -8102,22 +8102,22 @@
     "id": 1438,
     "marka_id": 44,
     "modeller_markalar::marka": "OPEL",
-    "model": "Astra G Kombi Van",
-    "model_Web": "Astra G Kombi Van"
+    "model": "Astra G Kombi van (F70)",
+    "model_Web": "Astra G Kombi van (F70)"
   },
   {
     "id": 1439,
     "marka_id": 44,
     "modeller_markalar::marka": "OPEL",
-    "model": "Astra G Station Wagon",
-    "model_Web": "Astra G Station Wagon"
+    "model": "Astra G Station Wagon (T98)",
+    "model_Web": "Astra G Station Wagon (T98)"
   },
   {
     "id": 1440,
     "marka_id": 44,
     "modeller_markalar::marka": "OPEL",
-    "model": "Astra H Classic Hatchback",
-    "model_Web": "Astra H Classic Hatchback"
+    "model": "Astra H Classic Hatchback (A04) | Astra H Family",
+    "model_Web": "Astra H Classic Hatchback (A04) | Astra H Family"
   },
   {
     "id": 1441,
@@ -8151,8 +8151,8 @@
     "id": 1445,
     "marka_id": 44,
     "modeller_markalar::marka": "OPEL",
-    "model": "Astra H Classic Station Wagon",
-    "model_Web": "Astra H Classic Station Wagon"
+    "model": "Astra H Classic Station Wagon (A04) | Astra H Family",
+    "model_Web": "Astra H Classic Station Wagon (A04) | Astra H Family"
   },
   {
     "id": 1446,
@@ -8388,14 +8388,14 @@
   {
     "id": 1479,
     "marka_id": 52,
-    "modeller_markalar::marka": "DAEWOO- CHEVROLET",
+    "modeller_markalar::marka": "DAEWOO - CHEVROLET",
     "model": "Lanos",
     "model_Web": "Lanos"
   },
   {
     "id": 1480,
     "marka_id": 52,
-    "modeller_markalar::marka": "DAEWOO- CHEVROLET",
+    "modeller_markalar::marka": "DAEWOO - CHEVROLET",
     "model": "Nexia",
     "model_Web": "Nexia"
   },
@@ -8424,8 +8424,8 @@
     "id": 1484,
     "marka_id": 43,
     "modeller_markalar::marka": "NISSAN",
-    "model": "Note",
-    "model_Web": "Note"
+    "model": "Note (E11, NE11)",
+    "model_Web": "Note (E11, NE11)"
   },
   {
     "id": 1485,
@@ -8501,8 +8501,8 @@
     "id": 1495,
     "marka_id": 76,
     "modeller_markalar::marka": "SEAT",
-    "model": "Toledo III",
-    "model_Web": "Toledo III"
+    "model": "Toledo III (5P2)",
+    "model_Web": "Toledo III (5P2)"
   },
   {
     "id": 1496,
@@ -8514,14 +8514,14 @@
   {
     "id": 1497,
     "marka_id": 52,
-    "modeller_markalar::marka": "DAEWOO- CHEVROLET",
+    "modeller_markalar::marka": "DAEWOO - CHEVROLET",
     "model": "Sprint - Turbo",
     "model_Web": "Sprint - Turbo"
   },
   {
     "id": 1498,
     "marka_id": 52,
-    "modeller_markalar::marka": "DAEWOO- CHEVROLET",
+    "modeller_markalar::marka": "DAEWOO - CHEVROLET",
     "model": "Geo Metro",
     "model_Web": "Geo Metro"
   },
@@ -8592,8 +8592,8 @@
     "id": 1508,
     "marka_id": 40,
     "modeller_markalar::marka": "MAZDA",
-    "model": "Mazda 2",
-    "model_Web": "Mazda 2"
+    "model": "2 (DE_, DH_) | Demio",
+    "model_Web": "2 (DE_, DH_) | Demio"
   },
   {
     "id": 1509,
@@ -8648,13 +8648,13 @@
     "id": 1516,
     "marka_id": 43,
     "modeller_markalar::marka": "NISSAN",
-    "model": "Interstar",
-    "model_Web": "Interstar"
+    "model": "Interstar Minibüs/Otobüs (X70)",
+    "model_Web": "Interstar Minibüs/Otobüs (X70)"
   },
   {
     "id": 1517,
     "marka_id": 52,
-    "modeller_markalar::marka": "DAEWOO- CHEVROLET",
+    "modeller_markalar::marka": "DAEWOO - CHEVROLET",
     "model": "Geo Prizm",
     "model_Web": "Geo Prizm"
   },
@@ -8662,8 +8662,8 @@
     "id": 1518,
     "marka_id": 38,
     "modeller_markalar::marka": "KIA",
-    "model": "Sportage II",
-    "model_Web": "Sportage II"
+    "model": "Sportage II (JE_, KM_)",
+    "model_Web": "Sportage II (JE_, KM_)"
   },
   {
     "id": 1519,
@@ -8759,7 +8759,7 @@
   {
     "id": 1532,
     "marka_id": 52,
-    "modeller_markalar::marka": "DAEWOO- CHEVROLET",
+    "modeller_markalar::marka": "DAEWOO - CHEVROLET",
     "model": "Geo Tracker",
     "model_Web": "Geo Tracker"
   },
@@ -8774,8 +8774,8 @@
     "id": 1534,
     "marka_id": 44,
     "modeller_markalar::marka": "OPEL",
-    "model": "Astra G Sedan",
-    "model_Web": "Astra G Sedan"
+    "model": "Astra G Sedan (T98) | Astra Classic",
+    "model_Web": "Astra G Sedan (T98) | Astra Classic"
   },
   {
     "id": 1535,
@@ -8823,8 +8823,8 @@
     "id": 1541,
     "marka_id": 75,
     "modeller_markalar::marka": "LANCIA",
-    "model": "Lybra",
-    "model_Web": "Lybra"
+    "model": "Lybra (839_)",
+    "model_Web": "Lybra (839_)"
   },
   {
     "id": 1542,
@@ -8914,34 +8914,34 @@
     "id": 1554,
     "marka_id": 78,
     "modeller_markalar::marka": "JAGUAR",
-    "model": "X Type I (X400)",
-    "model_Web": "X Type I (X400)"
+    "model": "X-Type I (X400)",
+    "model_Web": "X-Type I (X400)"
   },
   {
     "id": 1555,
     "marka_id": 78,
     "modeller_markalar::marka": "JAGUAR",
-    "model": "X Type I SW (X400)",
-    "model_Web": "X Type I SW (X400)"
+    "model": "X-Type I SW (X400)",
+    "model_Web": "X-Type I SW (X400)"
   },
   {
     "id": 1556,
     "marka_id": 52,
-    "modeller_markalar::marka": "DAEWOO- CHEVROLET",
+    "modeller_markalar::marka": "DAEWOO - CHEVROLET",
     "model": "LUV",
     "model_Web": "LUV"
   },
   {
     "id": 1557,
     "marka_id": 52,
-    "modeller_markalar::marka": "DAEWOO- CHEVROLET",
+    "modeller_markalar::marka": "DAEWOO - CHEVROLET",
     "model": "LUV Pick up",
     "model_Web": "LUV Pick up"
   },
   {
     "id": 1558,
     "marka_id": 52,
-    "modeller_markalar::marka": "DAEWOO- CHEVROLET",
+    "modeller_markalar::marka": "DAEWOO - CHEVROLET",
     "model": "Tosca",
     "model_Web": "Tosca"
   },
@@ -9040,8 +9040,8 @@
     "id": 1572,
     "marka_id": 78,
     "modeller_markalar::marka": "JAGUAR",
-    "model": "X-Type SW",
-    "model_Web": "X-Type SW"
+    "model": "X-Type I Station wagon (X400)",
+    "model_Web": "X-Type I Station wagon (X400)"
   },
   {
     "id": 1573,
@@ -9144,14 +9144,14 @@
   {
     "id": 1587,
     "marka_id": 52,
-    "modeller_markalar::marka": "DAEWOO- CHEVROLET",
+    "modeller_markalar::marka": "DAEWOO - CHEVROLET",
     "model": "LeMans",
     "model_Web": "LeMans"
   },
   {
     "id": 1588,
     "marka_id": 52,
-    "modeller_markalar::marka": "DAEWOO- CHEVROLET",
+    "modeller_markalar::marka": "DAEWOO - CHEVROLET",
     "model": "Nubira",
     "model_Web": "Nubira"
   },
@@ -9368,7 +9368,7 @@
   {
     "id": 1619,
     "marka_id": 52,
-    "modeller_markalar::marka": "DAEWOO- CHEVROLET",
+    "modeller_markalar::marka": "DAEWOO - CHEVROLET",
     "model": "Lacetti Hatchback",
     "model_Web": "Lacetti Hatchback"
   },
@@ -9613,14 +9613,14 @@
   {
     "id": 1654,
     "marka_id": 52,
-    "modeller_markalar::marka": "DAEWOO- CHEVROLET",
+    "modeller_markalar::marka": "DAEWOO - CHEVROLET",
     "model": "Corsa",
     "model_Web": "Corsa"
   },
   {
     "id": 1655,
     "marka_id": 52,
-    "modeller_markalar::marka": "DAEWOO- CHEVROLET",
+    "modeller_markalar::marka": "DAEWOO - CHEVROLET",
     "model": "Corsa Combi",
     "model_Web": "Corsa Combi"
   },
@@ -9880,8 +9880,8 @@
     "id": 1692,
     "marka_id": 38,
     "modeller_markalar::marka": "KIA",
-    "model": "Rio II",
-    "model_Web": "Rio II"
+    "model": "Rio II (JB) | Pride",
+    "model_Web": "Rio II (JB) | Pride"
   },
   {
     "id": 1693,
@@ -9922,8 +9922,8 @@
     "id": 1698,
     "marka_id": 66,
     "modeller_markalar::marka": "AUDI",
-    "model": "A3 (8P1)",
-    "model_Web": "A3 (8P1)"
+    "model": "A3 (8P1) | A3 / S3",
+    "model_Web": "A3 (8P1) | A3 / S3"
   },
   {
     "id": 1699,
@@ -9950,8 +9950,8 @@
     "id": 1702,
     "marka_id": 66,
     "modeller_markalar::marka": "AUDI",
-    "model": "A3 Sportback (8PA)",
-    "model_Web": "A3 Sportback (8PA)"
+    "model": "A3 Sportback (8PA) | A3 / S3",
+    "model_Web": "A3 Sportback (8PA) | A3 / S3"
   },
   {
     "id": 1703,
@@ -10160,8 +10160,8 @@
     "id": 1732,
     "marka_id": 44,
     "modeller_markalar::marka": "OPEL",
-    "model": "Astra H Classic Sedan",
-    "model_Web": "Astra H Classic Sedan"
+    "model": "Astra H Classic Sedan (A04) | Astra H Family",
+    "model_Web": "Astra H Classic Sedan (A04) | Astra H Family"
   },
   {
     "id": 1733,
@@ -10328,8 +10328,8 @@
     "id": 1756,
     "marka_id": 44,
     "modeller_markalar::marka": "OPEL",
-    "model": "ADAM",
-    "model_Web": "ADAM"
+    "model": "ADAM (M13)",
+    "model_Web": "ADAM (M13)"
   },
   {
     "id": 1757,
@@ -10342,8 +10342,8 @@
     "id": 1758,
     "marka_id": 44,
     "modeller_markalar::marka": "OPEL",
-    "model": "Astra G Hatchback",
-    "model_Web": "Astra G Hatchback"
+    "model": "Astra G Hatchback (T98)",
+    "model_Web": "Astra G Hatchback (T98)"
   },
   {
     "id": 1759,
@@ -10363,15 +10363,15 @@
     "id": 1761,
     "marka_id": 44,
     "modeller_markalar::marka": "OPEL",
-    "model": "Astra H GTC",
-    "model_Web": "Astra H GTC"
+    "model": "Astra H GTC (A04)",
+    "model_Web": "Astra H GTC (A04)"
   },
   {
     "id": 1762,
     "marka_id": 44,
     "modeller_markalar::marka": "OPEL",
-    "model": "Astra H TwinTop",
-    "model_Web": "Astra H TwinTop"
+    "model": "Astra H TwinTop (A04)",
+    "model_Web": "Astra H TwinTop (A04)"
   },
   {
     "id": 1763,
@@ -10391,8 +10391,8 @@
     "id": 1765,
     "marka_id": 44,
     "modeller_markalar::marka": "OPEL",
-    "model": "Meriva B",
-    "model_Web": "Meriva B"
+    "model": "Meriva B MPV (S10)",
+    "model_Web": "Meriva B MPV (S10)"
   },
   {
     "id": 1766,
@@ -10439,7 +10439,7 @@
   {
     "id": 1772,
     "marka_id": 52,
-    "modeller_markalar::marka": "DAEWOO- CHEVROLET",
+    "modeller_markalar::marka": "DAEWOO - CHEVROLET",
     "model": "Trax",
     "model_Web": "Trax"
   },
@@ -10517,22 +10517,22 @@
     "id": 1783,
     "marka_id": 34,
     "modeller_markalar::marka": "FIAT",
-    "model": "Talento Combi",
-    "model_Web": "Talento Combi"
+    "model": "Talento Minibüs/Otobüs (296_)",
+    "model_Web": "Talento Minibüs/Otobüs (296_)"
   },
   {
     "id": 1784,
     "marka_id": 34,
     "modeller_markalar::marka": "FIAT",
-    "model": "Talento Box",
-    "model_Web": "Talento Box"
+    "model": "Talento Panelvan/Van (296_)",
+    "model_Web": "Talento Panelvan/Van (296_)"
   },
   {
     "id": 1785,
     "marka_id": 34,
     "modeller_markalar::marka": "FIAT",
-    "model": "Talento Platform/Chassis",
-    "model_Web": "Talento Platform/Chassis"
+    "model": "Talento Platform şasi (296_)",
+    "model_Web": "Talento Platform şasi (296_)"
   },
   {
     "id": 1786,
@@ -10670,7 +10670,7 @@
   {
     "id": 1805,
     "marka_id": 52,
-    "modeller_markalar::marka": "DAEWOO- CHEVROLET",
+    "modeller_markalar::marka": "DAEWOO - CHEVROLET",
     "model": "Matiz Hatchback Van",
     "model_Web": "Matiz Hatchback Van"
   },
@@ -10957,21 +10957,21 @@
   {
     "id": 1846,
     "marka_id": 52,
-    "modeller_markalar::marka": "DAEWOO- CHEVROLET",
+    "modeller_markalar::marka": "DAEWOO - CHEVROLET",
     "model": "Nubira Estate",
     "model_Web": "Nubira Estate"
   },
   {
     "id": 1847,
     "marka_id": 52,
-    "modeller_markalar::marka": "DAEWOO- CHEVROLET",
+    "modeller_markalar::marka": "DAEWOO - CHEVROLET",
     "model": "Lacetti Station Wagon",
     "model_Web": "Lacetti Station Wagon"
   },
   {
     "id": 1848,
     "marka_id": 52,
-    "modeller_markalar::marka": "DAEWOO- CHEVROLET",
+    "modeller_markalar::marka": "DAEWOO - CHEVROLET",
     "model": "Nubira SW",
     "model_Web": "Nubira SW"
   },
@@ -11056,8 +11056,8 @@
     "id": 1860,
     "marka_id": 39,
     "modeller_markalar::marka": "LADA",
-    "model": "Vesta",
-    "model_Web": "Vesta"
+    "model": "Vesta (GFL_)",
+    "model_Web": "Vesta (GFL_)"
   },
   {
     "id": 1861,
@@ -11077,15 +11077,15 @@
     "id": 1863,
     "marka_id": 34,
     "modeller_markalar::marka": "FIAT",
-    "model": "Multipla",
-    "model_Web": "Multipla"
+    "model": "Multipla (186_)",
+    "model_Web": "Multipla (186_)"
   },
   {
     "id": 1864,
     "marka_id": 75,
     "modeller_markalar::marka": "LANCIA",
-    "model": "Lybra SW",
-    "model_Web": "Lybra SW"
+    "model": "Lybra SW (839_)",
+    "model_Web": "Lybra SW (839_)"
   },
   {
     "id": 1865,
@@ -11112,8 +11112,8 @@
     "id": 1868,
     "marka_id": 33,
     "modeller_markalar::marka": "BMW",
-    "model": "Serie 2 Cabrio (F23)",
-    "model_Web": "Serie 2 Cabrio (F23)"
+    "model": "2 Cabrio (F23)",
+    "model_Web": "2 Cabrio (F23)"
   },
   {
     "id": 1869,
@@ -11140,8 +11140,8 @@
     "id": 1872,
     "marka_id": 51,
     "modeller_markalar::marka": "SUZUKI",
-    "model": "Swift IV",
-    "model_Web": "Swift IV"
+    "model": "Swift IV (FZ, NZ)",
+    "model_Web": "Swift IV (FZ, NZ)"
   },
   {
     "id": 1873,
@@ -11511,8 +11511,8 @@
     "id": 1925,
     "marka_id": 30,
     "modeller_markalar::marka": "VOLKSWAGEN",
-    "model": "Golf V (1K1)",
-    "model_Web": "Golf V (1K1)"
+    "model": "Golf V (1K1) | Rabbit",
+    "model_Web": "Golf V (1K1) | Rabbit"
   },
   {
     "id": 1926,
@@ -11602,22 +11602,22 @@
     "id": 1938,
     "marka_id": 33,
     "modeller_markalar::marka": "BMW",
-    "model": "Serie 1 (E81)",
-    "model_Web": "Serie 1 (E81)"
+    "model": "1 (E81)",
+    "model_Web": "1 (E81)"
   },
   {
     "id": 1939,
     "marka_id": 33,
     "modeller_markalar::marka": "BMW",
-    "model": "Serie 1 (E87)",
-    "model_Web": "Serie 1 (E87)"
+    "model": "1 (E87)",
+    "model_Web": "1 (E87)"
   },
   {
     "id": 1940,
     "marka_id": 33,
     "modeller_markalar::marka": "BMW",
-    "model": "Serie 5 Touring (E46)",
-    "model_Web": "Serie 5 Touring (E46)"
+    "model": "5 Touring (E46)",
+    "model_Web": "5 Touring (E46)"
   },
   {
     "id": 1941,
@@ -11637,8 +11637,8 @@
     "id": 1943,
     "marka_id": 33,
     "modeller_markalar::marka": "BMW",
-    "model": "Serie 3 (E90)",
-    "model_Web": "Serie 3 (E90)"
+    "model": "3 (E90)",
+    "model_Web": "3 (E90)"
   },
   {
     "id": 1944,
@@ -11714,8 +11714,8 @@
     "id": 1954,
     "marka_id": 66,
     "modeller_markalar::marka": "AUDI",
-    "model": "A6 Avant (4F5, C6)",
-    "model_Web": "A6 Avant (4F5, C6)"
+    "model": "A6 C6 Avant (4F5)",
+    "model_Web": "A6 C6 Avant (4F5)"
   },
   {
     "id": 1955,
@@ -11728,8 +11728,8 @@
     "id": 1956,
     "marka_id": 33,
     "modeller_markalar::marka": "BMW",
-    "model": "Serie 3 Coupe (E92)",
-    "model_Web": "Serie 3 Coupe (E92)"
+    "model": "3 Coupe (E92)",
+    "model_Web": "3 Coupe (E92)"
   },
   {
     "id": 1957,
@@ -11763,15 +11763,15 @@
     "id": 1961,
     "marka_id": 33,
     "modeller_markalar::marka": "BMW",
-    "model": "Serie 5 Touring (F11)",
-    "model_Web": "Serie 5 Touring (F11)"
+    "model": "5 Touring (F11)",
+    "model_Web": "5 Touring (F11)"
   },
   {
     "id": 1962,
     "marka_id": 33,
     "modeller_markalar::marka": "BMW",
-    "model": "Serie 5 (F10)",
-    "model_Web": "Serie 5 (F10)"
+    "model": "5 (F10)",
+    "model_Web": "5 (F10)"
   },
   {
     "id": 1963,
@@ -12183,8 +12183,8 @@
     "id": 2021,
     "marka_id": 34,
     "modeller_markalar::marka": "FIAT",
-    "model": "Doblo MPV",
-    "model_Web": "Doblo MPV"
+    "model": "Doblo MPV (119_, 223_)",
+    "model_Web": "Doblo MPV (119_, 223_)"
   },
   {
     "id": 2022,
@@ -12266,21 +12266,21 @@
   {
     "id": 2033,
     "marka_id": 52,
-    "modeller_markalar::marka": "DAEWOO- CHEVROLET",
+    "modeller_markalar::marka": "DAEWOO - CHEVROLET",
     "model": "Cruze SW",
     "model_Web": "Cruze SW"
   },
   {
     "id": 2034,
     "marka_id": 52,
-    "modeller_markalar::marka": "DAEWOO- CHEVROLET",
+    "modeller_markalar::marka": "DAEWOO - CHEVROLET",
     "model": "Orlando",
     "model_Web": "Orlando"
   },
   {
     "id": 2035,
     "marka_id": 52,
-    "modeller_markalar::marka": "DAEWOO- CHEVROLET",
+    "modeller_markalar::marka": "DAEWOO - CHEVROLET",
     "model": "Volt",
     "model_Web": "Volt"
   },
@@ -12323,8 +12323,8 @@
     "id": 2041,
     "marka_id": 35,
     "modeller_markalar::marka": "HONDA",
-    "model": "CR-V IV",
-    "model_Web": "CR-V IV"
+    "model": "CR-V IV (RM_)",
+    "model_Web": "CR-V IV (RM_)"
   },
   {
     "id": 2042,
@@ -12624,8 +12624,8 @@
     "id": 2084,
     "marka_id": 82,
     "modeller_markalar::marka": "MAN",
-    "model": "TGE Panelvan",
-    "model_Web": "TGE Panelvan"
+    "model": "TGE Panelvan/Van",
+    "model_Web": "TGE Panelvan/Van"
   },
   {
     "id": 2085,
@@ -12680,8 +12680,8 @@
     "id": 2092,
     "marka_id": 39,
     "modeller_markalar::marka": "LADA",
-    "model": "Xray",
-    "model_Web": "Xray"
+    "model": "Xray (GAB_)",
+    "model_Web": "Xray (GAB_)"
   },
   {
     "id": 2093,
@@ -12820,8 +12820,8 @@
     "id": 2112,
     "marka_id": 34,
     "modeller_markalar::marka": "FIAT",
-    "model": "Doblo Cargo 223",
-    "model_Web": "Doblo Cargo 223"
+    "model": "Doblo Kasa/büyük limuzin (223_)",
+    "model_Web": "Doblo Kasa/büyük limuzin (223_)"
   },
   {
     "id": 2113,
@@ -12855,8 +12855,8 @@
     "id": 2117,
     "marka_id": 43,
     "modeller_markalar::marka": "NISSAN",
-    "model": "350 Z Roadster",
-    "model_Web": "350 Z Roadster"
+    "model": "350Z Roadster (Z33) | Fairlady 350Z | Fairlady Z",
+    "model_Web": "350Z Roadster (Z33) | Fairlady 350Z | Fairlady Z"
   },
   {
     "id": 2118,
@@ -12869,8 +12869,8 @@
     "id": 2119,
     "marka_id": 62,
     "modeller_markalar::marka": "INFINITI",
-    "model": "G Cabriolet / G Coupe / G Sedan",
-    "model_Web": "G Cabriolet / G Coupe / G Sedan"
+    "model": "G Cabrio",
+    "model_Web": "G Cabrio"
   },
   {
     "id": 2120,
@@ -12883,8 +12883,8 @@
     "id": 2121,
     "marka_id": 62,
     "modeller_markalar::marka": "INFINITI",
-    "model": "Q70",
-    "model_Web": "Q70"
+    "model": "Q70 (Y51) | Q70L",
+    "model_Web": "Q70 (Y51) | Q70L"
   },
   {
     "id": 2122,
@@ -12960,8 +12960,8 @@
     "id": 2132,
     "marka_id": 66,
     "modeller_markalar::marka": "AUDI",
-    "model": "A1 (8X1, 8XK)",
-    "model_Web": "A1 (8X1, 8XK)"
+    "model": "A1 (8X1, 8XK) | A1 / S1",
+    "model_Web": "A1 (8X1, 8XK) | A1 / S1"
   },
   {
     "id": 2133,
@@ -13064,14 +13064,14 @@
   {
     "id": 2147,
     "marka_id": 52,
-    "modeller_markalar::marka": "DAEWOO- CHEVROLET",
-    "model": "Malibu",
-    "model_Web": "Malibu"
+    "modeller_markalar::marka": "DAEWOO - CHEVROLET",
+    "model": "Malibu (V300)",
+    "model_Web": "Malibu (V300)"
   },
   {
     "id": 2148,
     "marka_id": 52,
-    "modeller_markalar::marka": "DAEWOO- CHEVROLET",
+    "modeller_markalar::marka": "DAEWOO - CHEVROLET",
     "model": "Camaro / Camaro Convertible",
     "model_Web": "Camaro / Camaro Convertible"
   },
@@ -13079,15 +13079,15 @@
     "id": 2149,
     "marka_id": 44,
     "modeller_markalar::marka": "OPEL",
-    "model": "Insignia B Grand Sport",
-    "model_Web": "Insignia B Grand Sport"
+    "model": "Insignia B Grand Sport (Z18)",
+    "model_Web": "Insignia B Grand Sport (Z18)"
   },
   {
     "id": 2150,
     "marka_id": 44,
     "modeller_markalar::marka": "OPEL",
-    "model": "Insignia B Sports Tourer",
-    "model_Web": "Insignia B Sports Tourer"
+    "model": "Insignia B Sports Tourer (Z18)",
+    "model_Web": "Insignia B Sports Tourer (Z18)"
   },
   {
     "id": 2151,
@@ -13681,8 +13681,8 @@
     "id": 2235,
     "marka_id": 51,
     "modeller_markalar::marka": "SUZUKI",
-    "model": "Swift III",
-    "model_Web": "Swift III"
+    "model": "Swift III (MZ, EZ)",
+    "model_Web": "Swift III (MZ, EZ)"
   },
   {
     "id": 2236,
@@ -13730,15 +13730,15 @@
     "id": 2242,
     "marka_id": 33,
     "modeller_markalar::marka": "BMW",
-    "model": "Serie 2 Convertible (F23)",
-    "model_Web": "Serie 2 Convertible (F23)"
+    "model": "2 Convertible (F23)",
+    "model_Web": "2 Convertible (F23)"
   },
   {
     "id": 2243,
     "marka_id": 33,
     "modeller_markalar::marka": "BMW",
-    "model": "Serie 2 Coupe (F22, F87)",
-    "model_Web": "Serie 2 Coupe (F22, F87)"
+    "model": "2 Coupe (F22, F87)",
+    "model_Web": "2 Coupe (F22, F87)"
   },
   {
     "id": 2244,
@@ -13807,22 +13807,22 @@
     "id": 2253,
     "marka_id": 33,
     "modeller_markalar::marka": "BMW",
-    "model": "Serie 1 Convertible (E88)",
-    "model_Web": "Serie 1 Convertible (E88)"
+    "model": "1 Convertible (E88)",
+    "model_Web": "1 Convertible (E88)"
   },
   {
     "id": 2254,
     "marka_id": 33,
     "modeller_markalar::marka": "BMW",
-    "model": "Serie 1 Coupe (E82)",
-    "model_Web": "Serie 1 Coupe (E82)"
+    "model": "1 Coupe (E82)",
+    "model_Web": "1 Coupe (E82)"
   },
   {
     "id": 2255,
     "marka_id": 33,
     "modeller_markalar::marka": "BMW",
-    "model": "Serie 3 Touring (E91)",
-    "model_Web": "Serie 3 Touring (E91)"
+    "model": "3 Touring (E91)",
+    "model_Web": "3 Touring (E91)"
   },
   {
     "id": 2256,
@@ -13835,64 +13835,64 @@
     "id": 2257,
     "marka_id": 33,
     "modeller_markalar::marka": "BMW",
-    "model": "Serie 1 (F20)",
-    "model_Web": "Serie 1 (F20)"
+    "model": "1 (F20)",
+    "model_Web": "1 (F20)"
   },
   {
     "id": 2258,
     "marka_id": 33,
     "modeller_markalar::marka": "BMW",
-    "model": "Serie 1 (F21)",
-    "model_Web": "Serie 1 (F21)"
+    "model": "1 (F21)",
+    "model_Web": "1 (F21)"
   },
   {
     "id": 2259,
     "marka_id": 33,
     "modeller_markalar::marka": "BMW",
-    "model": "Serie 3 (F30, F80)",
-    "model_Web": "Serie 3 (F30, F80)"
+    "model": "3 (F30, F80)",
+    "model_Web": "3 (F30, F80)"
   },
   {
     "id": 2260,
     "marka_id": 33,
     "modeller_markalar::marka": "BMW",
-    "model": "Serie 3 Cabrio (E93)",
-    "model_Web": "Serie 3 Cabrio (E93)"
+    "model": "3 Cabrio (E93)",
+    "model_Web": "3 Cabrio (E93)"
   },
   {
     "id": 2261,
     "marka_id": 33,
     "modeller_markalar::marka": "BMW",
-    "model": "Serie 3 Gran Turismo (F34)",
-    "model_Web": "Serie 3 Gran Turismo (F34)"
+    "model": "3 Gran Turismo (F34)",
+    "model_Web": "3 Gran Turismo (F34)"
   },
   {
     "id": 2262,
     "marka_id": 33,
     "modeller_markalar::marka": "BMW",
-    "model": "Serie 3 Touring (F31)",
-    "model_Web": "Serie 3 Touring (F31)"
+    "model": "3 Touring (F31)",
+    "model_Web": "3 Touring (F31)"
   },
   {
     "id": 2263,
     "marka_id": 33,
     "modeller_markalar::marka": "BMW",
-    "model": "Serie 4 Cabrio (F33, F83)",
-    "model_Web": "Serie 4 Cabrio (F33, F83)"
+    "model": "4 Cabrio (F33, F83)",
+    "model_Web": "4 Cabrio (F33, F83)"
   },
   {
     "id": 2264,
     "marka_id": 33,
     "modeller_markalar::marka": "BMW",
-    "model": "Serie 4 Gran Coupe (F34)",
-    "model_Web": "Serie 4 Gran Coupe (F34)"
+    "model": "4 Gran Coupe (F34)",
+    "model_Web": "4 Gran Coupe (F34)"
   },
   {
     "id": 2265,
     "marka_id": 33,
     "modeller_markalar::marka": "BMW",
-    "model": "Serie 4 Coupe (F32, F82)",
-    "model_Web": "Serie 4 Coupe (F32, F82)"
+    "model": "4 Coupe (F32, F82)",
+    "model_Web": "4 Coupe (F32, F82)"
   },
   {
     "id": 2266,
@@ -13925,7 +13925,7 @@
   {
     "id": 2270,
     "marka_id": 52,
-    "modeller_markalar::marka": "DAEWOO- CHEVROLET",
+    "modeller_markalar::marka": "DAEWOO - CHEVROLET",
     "model": "Epica",
     "model_Web": "Epica"
   },
@@ -14185,8 +14185,8 @@
     "id": 2307,
     "marka_id": 44,
     "modeller_markalar::marka": "OPEL",
-    "model": "Insignia B Country Tourer",
-    "model_Web": "Insignia B Country Tourer"
+    "model": "Insignia B Country Tourer (Z18)",
+    "model_Web": "Insignia B Country Tourer (Z18)"
   },
   {
     "id": 2308,
@@ -14584,8 +14584,8 @@
     "id": 2364,
     "marka_id": 31,
     "modeller_markalar::marka": "TOYOTA",
-    "model": "C-HR",
-    "model_Web": "C-HR"
+    "model": "C-HR (_X1_)",
+    "model_Web": "C-HR (_X1_)"
   },
   {
     "id": 2365,
@@ -14794,29 +14794,29 @@
     "id": 2394,
     "marka_id": 33,
     "modeller_markalar::marka": "BMW",
-    "model": "Serie 2 Active Tourer (F45)",
-    "model_Web": "Serie 2 Active Tourer (F45)"
+    "model": "2 Active Tourer (F45)",
+    "model_Web": "2 Active Tourer (F45)"
   },
   {
     "id": 2395,
     "marka_id": 33,
     "modeller_markalar::marka": "BMW",
-    "model": "Serie 2 Gran Tourer (F46)",
-    "model_Web": "Serie 2 Gran Tourer (F46)"
+    "model": "2 Gran Tourer (F46)",
+    "model_Web": "2 Gran Tourer (F46)"
   },
   {
     "id": 2396,
     "marka_id": 34,
     "modeller_markalar::marka": "FIAT",
-    "model": "500",
-    "model_Web": "500"
+    "model": "500 (312_)",
+    "model_Web": "500 (312_)"
   },
   {
     "id": 2397,
     "marka_id": 34,
     "modeller_markalar::marka": "FIAT",
-    "model": "500 C",
-    "model_Web": "500 C"
+    "model": "500 C (312_)",
+    "model_Web": "500 C (312_)"
   },
   {
     "id": 2398,
@@ -14948,29 +14948,29 @@
     "id": 2416,
     "marka_id": 33,
     "modeller_markalar::marka": "BMW",
-    "model": "Serie 5 Touring (E39)",
-    "model_Web": "Serie 5 Touring (E39)"
+    "model": "5 Touring (E39)",
+    "model_Web": "5 Touring (E39)"
   },
   {
     "id": 2417,
     "marka_id": 33,
     "modeller_markalar::marka": "BMW",
-    "model": "Serie 2 Active Tourer Van (F45)",
-    "model_Web": "Serie 2 Active Tourer Van (F45)"
+    "model": "2 Active Tourer Van (F45)",
+    "model_Web": "2 Active Tourer Van (F45)"
   },
   {
     "id": 2418,
     "marka_id": 33,
     "modeller_markalar::marka": "BMW",
-    "model": "Serie 7 (E38)",
-    "model_Web": "Serie 7 (E38)"
+    "model": "7 (E38)",
+    "model_Web": "7 (E38)"
   },
   {
     "id": 2419,
     "marka_id": 33,
     "modeller_markalar::marka": "BMW",
-    "model": "Serie 8 (E31)",
-    "model_Web": "Serie 8 (E31)"
+    "model": "8 (E31)",
+    "model_Web": "8 (E31)"
   },
   {
     "id": 2420,
@@ -14990,8 +14990,8 @@
     "id": 2422,
     "marka_id": 33,
     "modeller_markalar::marka": "BMW",
-    "model": "Serie 4 Gran Coupe (F36)",
-    "model_Web": "Serie 4 Gran Coupe (F36)"
+    "model": "4 Gran Coupe (F36)",
+    "model_Web": "4 Gran Coupe (F36)"
   },
   {
     "id": 2423,
@@ -15011,8 +15011,8 @@
     "id": 2425,
     "marka_id": 66,
     "modeller_markalar::marka": "AUDI",
-    "model": "A6 Allroad (4FH, C6)",
-    "model_Web": "A6 Allroad (4FH, C6)"
+    "model": "A6 Allroad C6 (4FH)",
+    "model_Web": "A6 Allroad C6 (4FH)"
   },
   {
     "id": 2426,
@@ -15095,8 +15095,8 @@
     "id": 2437,
     "marka_id": 66,
     "modeller_markalar::marka": "AUDI",
-    "model": "A1 Sportback (8XA, 8XF)",
-    "model_Web": "A1 Sportback (8XA, 8XF)"
+    "model": "A1 Sportback (8XA, 8XF) | A1 / S1",
+    "model_Web": "A1 Sportback (8XA, 8XF) | A1 / S1"
   },
   {
     "id": 2438,
@@ -15284,15 +15284,15 @@
     "id": 2464,
     "marka_id": 66,
     "modeller_markalar::marka": "AUDI",
-    "model": "A4 (8E2, B6)",
-    "model_Web": "A4 (8E2, B6)"
+    "model": "A4 B6 (8E2) | A4 / S4",
+    "model_Web": "A4 B6 (8E2) | A4 / S4"
   },
   {
     "id": 2465,
     "marka_id": 66,
     "modeller_markalar::marka": "AUDI",
-    "model": "A4 Avant (8E5, B6)",
-    "model_Web": "A4 Avant (8E5, B6)"
+    "model": "A4 B6 Avant (8E5) | A4 / S4",
+    "model_Web": "A4 B6 Avant (8E5) | A4 / S4"
   },
   {
     "id": 2466,
@@ -15305,15 +15305,15 @@
     "id": 2467,
     "marka_id": 66,
     "modeller_markalar::marka": "AUDI",
-    "model": "A6 (4B2, C5)",
-    "model_Web": "A6 (4B2, C5)"
+    "model": "A6 C5 (4B2, 4B4) | A6 / S6",
+    "model_Web": "A6 C5 (4B2, 4B4) | A6 / S6"
   },
   {
     "id": 2468,
     "marka_id": 66,
     "modeller_markalar::marka": "AUDI",
-    "model": "A6 Avant (4B5, C5)",
-    "model_Web": "A6 Avant (4B5, C5)"
+    "model": "A6 C5 Avant (4B5, 4B6) | A6 / S6",
+    "model_Web": "A6 C5 Avant (4B5, 4B6) | A6 / S6"
   },
   {
     "id": 2469,
@@ -15361,22 +15361,22 @@
     "id": 2475,
     "marka_id": 66,
     "modeller_markalar::marka": "AUDI",
-    "model": "A4 Avant (8D5, B5)",
-    "model_Web": "A4 Avant (8D5, B5)"
+    "model": "A4 B5 Avant (8D5)",
+    "model_Web": "A4 B5 Avant (8D5)"
   },
   {
     "id": 2476,
     "marka_id": 33,
     "modeller_markalar::marka": "BMW",
-    "model": "Serie 7 (E65, E66, E67)",
-    "model_Web": "Serie 7 (E65, E66, E67)"
+    "model": "7 (E65, E66, E67)",
+    "model_Web": "7 (E65, E66, E67)"
   },
   {
     "id": 2477,
     "marka_id": 33,
     "modeller_markalar::marka": "BMW",
-    "model": "Serie 5 Touring (E61)",
-    "model_Web": "Serie 5 Touring (E61)"
+    "model": "5 Touring (E61)",
+    "model_Web": "5 Touring (E61)"
   },
   {
     "id": 2478,
@@ -15389,15 +15389,15 @@
     "id": 2479,
     "marka_id": 33,
     "modeller_markalar::marka": "BMW",
-    "model": "Serie 2 Gran Coupe (F44)",
-    "model_Web": "Serie 2 Gran Coupe (F44)"
+    "model": "2 Gran Coupe (F44)",
+    "model_Web": "2 Gran Coupe (F44)"
   },
   {
     "id": 2480,
     "marka_id": 33,
     "modeller_markalar::marka": "BMW",
-    "model": "Serie 6 Convertible (E64)",
-    "model_Web": "Serie 6 Convertible (E64)"
+    "model": "6 Convertible (E64)",
+    "model_Web": "6 Convertible (E64)"
   },
   {
     "id": 2481,
@@ -15410,43 +15410,43 @@
     "id": 2482,
     "marka_id": 34,
     "modeller_markalar::marka": "FIAT",
-    "model": "131 Familiare / Panorama",
-    "model_Web": "131 Familiare / Panorama"
+    "model": "131 Familiare/Panorama (131_)",
+    "model_Web": "131 Familiare/Panorama (131_)"
   },
   {
     "id": 2483,
     "marka_id": 33,
     "modeller_markalar::marka": "BMW",
-    "model": "Serie 5 Gran Turismo (F07)",
-    "model_Web": "Serie 5 Gran Turismo (F07)"
+    "model": "5 Gran Turismo (F07)",
+    "model_Web": "5 Gran Turismo (F07)"
   },
   {
     "id": 2484,
     "marka_id": 33,
     "modeller_markalar::marka": "BMW",
-    "model": "Serie 6 Convertible (F12)",
-    "model_Web": "Serie 6 Convertible (F12)"
+    "model": "6 Convertible (F12)",
+    "model_Web": "6 Convertible (F12)"
   },
   {
     "id": 2485,
     "marka_id": 33,
     "modeller_markalar::marka": "BMW",
-    "model": "Serie 6 Coupe (F13)",
-    "model_Web": "Serie 6 Coupe (F13)"
+    "model": "6 Coupe (F13)",
+    "model_Web": "6 Coupe (F13)"
   },
   {
     "id": 2486,
     "marka_id": 33,
     "modeller_markalar::marka": "BMW",
-    "model": "Serie 6 Gran Coupe (F06)",
-    "model_Web": "Serie 6 Gran Coupe (F06)"
+    "model": "6 Gran Coupe (F06)",
+    "model_Web": "6 Gran Coupe (F06)"
   },
   {
     "id": 2487,
     "marka_id": 33,
     "modeller_markalar::marka": "BMW",
-    "model": "Serie 7 (F01, F02, F03, F04)",
-    "model_Web": "Serie 7 (F01, F02, F03, F04)"
+    "model": "7 (F01, F02, F03, F04)",
+    "model_Web": "7 (F01, F02, F03, F04)"
   },
   {
     "id": 2488,
@@ -15508,8 +15508,8 @@
     "id": 2496,
     "marka_id": 33,
     "modeller_markalar::marka": "BMW",
-    "model": "Serie 3 Touring (E46)",
-    "model_Web": "Serie 3 Touring (E46)"
+    "model": "3 Touring (E46)",
+    "model_Web": "3 Touring (E46)"
   },
   {
     "id": 2497,
@@ -15543,8 +15543,8 @@
     "id": 2501,
     "marka_id": 33,
     "modeller_markalar::marka": "BMW",
-    "model": "Serie 3 Touring (E36)",
-    "model_Web": "Serie 3 Touring (E36)"
+    "model": "3 Touring (E36)",
+    "model_Web": "3 Touring (E36)"
   },
   {
     "id": 2502,
@@ -15669,8 +15669,8 @@
     "id": 2519,
     "marka_id": 31,
     "modeller_markalar::marka": "TOYOTA",
-    "model": "C-HR Van",
-    "model_Web": "C-HR Van"
+    "model": "C-HR Van (_X1_)",
+    "model_Web": "C-HR Van (_X1_)"
   },
   {
     "id": 2520,
@@ -15718,8 +15718,8 @@
     "id": 2526,
     "marka_id": 66,
     "modeller_markalar::marka": "AUDI",
-    "model": "A4 Avant (8ED, B7)",
-    "model_Web": "A4 Avant (8ED, B7)"
+    "model": "A4 B7 Avant (8ED) | A4 / S4",
+    "model_Web": "A4 B7 Avant (8ED) | A4 / S4"
   },
   {
     "id": 2527,
@@ -15802,8 +15802,8 @@
     "id": 2538,
     "marka_id": 34,
     "modeller_markalar::marka": "FIAT",
-    "model": "Bravo II (198_)",
-    "model_Web": "Bravo II (198_)"
+    "model": "Bravo II (198_) | Ritmo",
+    "model_Web": "Bravo II (198_) | Ritmo"
   },
   {
     "id": 2539,
@@ -16712,8 +16712,8 @@
     "id": 2668,
     "marka_id": 67,
     "modeller_markalar::marka": "DAIHATSU",
-    "model": "Sirion",
-    "model_Web": "Sirion"
+    "model": "Sirion (M3_) | Boon",
+    "model_Web": "Sirion (M3_) | Boon"
   },
   {
     "id": 2669,
@@ -16824,15 +16824,15 @@
     "id": 2684,
     "marka_id": 33,
     "modeller_markalar::marka": "BMW",
-    "model": "Serie 1 (F40)",
-    "model_Web": "Serie 1 (F40)"
+    "model": "1 (F40)",
+    "model_Web": "1 (F40)"
   },
   {
     "id": 2685,
     "marka_id": 33,
     "modeller_markalar::marka": "BMW",
-    "model": "Serie 5 Touring (G31)",
-    "model_Web": "Serie 5 Touring (G31)"
+    "model": "5 Touring (G31)",
+    "model_Web": "5 Touring (G31)"
   },
   {
     "id": 2686,
@@ -17012,7 +17012,7 @@
   {
     "id": 2711,
     "marka_id": 52,
-    "modeller_markalar::marka": "DAEWOO- CHEVROLET",
+    "modeller_markalar::marka": "DAEWOO - CHEVROLET",
     "model": "Aveo / Kalos Sedan",
     "model_Web": "Aveo / Kalos Sedan"
   },
@@ -17041,8 +17041,8 @@
     "id": 2715,
     "marka_id": 34,
     "modeller_markalar::marka": "FIAT",
-    "model": "Doblo Bus (263)",
-    "model_Web": "Doblo Bus (263)"
+    "model": "Doblo Minibüs/Otobüs (263_)",
+    "model_Web": "Doblo Minibüs/Otobüs (263_)"
   },
   {
     "id": 2716,
@@ -17055,8 +17055,8 @@
     "id": 2717,
     "marka_id": 34,
     "modeller_markalar::marka": "FIAT",
-    "model": "DOBLO Platform/Chassis (263)",
-    "model_Web": "DOBLO Platform/Chassis (263)"
+    "model": "Doblo Platform/Chassis (263_) | Pratico",
+    "model_Web": "Doblo Platform/Chassis (263_) | Pratico"
   },
   {
     "id": 2718,
@@ -17195,71 +17195,71 @@
     "id": 2737,
     "marka_id": 33,
     "modeller_markalar::marka": "BMW",
-    "model": "Serie 3 (G20, G80)",
-    "model_Web": "Serie 3 (G20, G80)"
+    "model": "3 (G20, G80)",
+    "model_Web": "3 (G20, G80)"
   },
   {
     "id": 2738,
     "marka_id": 33,
     "modeller_markalar::marka": "BMW",
-    "model": "Serie 3 Touring (G21, G81)",
-    "model_Web": "Serie 3 Touring (G21, G81)"
+    "model": "3 Touring (G21, G81)",
+    "model_Web": "3 Touring (G21, G81)"
   },
   {
     "id": 2739,
     "marka_id": 33,
     "modeller_markalar::marka": "BMW",
-    "model": "Serie 4 Cabrio (G23, G83)",
-    "model_Web": "Serie 4 Cabrio (G23, G83)"
+    "model": "4 Cabrio (G23, G83)",
+    "model_Web": "4 Cabrio (G23, G83)"
   },
   {
     "id": 2740,
     "marka_id": 33,
     "modeller_markalar::marka": "BMW",
-    "model": "Serie 4 Coupe (G22, G82)",
-    "model_Web": "Serie 4 Coupe (G22, G82)"
+    "model": "4 Coupe (G22, G82)",
+    "model_Web": "4 Coupe (G22, G82)"
   },
   {
     "id": 2741,
     "marka_id": 33,
     "modeller_markalar::marka": "BMW",
-    "model": "Serie 5 (G30, F90)",
-    "model_Web": "Serie 5 (G30, F90)"
+    "model": "5 (G30, F90)",
+    "model_Web": "5 (G30, F90)"
   },
   {
     "id": 2742,
     "marka_id": 44,
     "modeller_markalar::marka": "OPEL",
-    "model": "Astra G Cabrio",
-    "model_Web": "Astra G Cabrio"
+    "model": "Astra G Cabrio (T98)",
+    "model_Web": "Astra G Cabrio (T98)"
   },
   {
     "id": 2743,
     "marka_id": 33,
     "modeller_markalar::marka": "BMW",
-    "model": "Serie 6 Gran Turismo (G32)",
-    "model_Web": "Serie 6 Gran Turismo (G32)"
+    "model": "6 Gran Turismo (G32)",
+    "model_Web": "6 Gran Turismo (G32)"
   },
   {
     "id": 2744,
     "marka_id": 33,
     "modeller_markalar::marka": "BMW",
-    "model": "Serie 7 (G11, G12)",
-    "model_Web": "Serie 7 (G11, G12)"
+    "model": "7 (G11, G12)",
+    "model_Web": "7 (G11, G12)"
   },
   {
     "id": 2745,
     "marka_id": 33,
     "modeller_markalar::marka": "BMW",
-    "model": "Serie 8 Cabrio (G14, F91)",
-    "model_Web": "Serie 8 Cabrio (G14, F91)"
+    "model": "8 Cabrio (G14, F91)",
+    "model_Web": "8 Cabrio (G14, F91)"
   },
   {
     "id": 2746,
     "marka_id": 33,
     "modeller_markalar::marka": "BMW",
-    "model": "Serie 8 Coupe (G15, F92)",
-    "model_Web": "Serie 8 Coupe (G15, F92)"
+    "model": "8 Coupe (G15, F92)",
+    "model_Web": "8 Coupe (G15, F92)"
   },
   {
     "id": 2747,
@@ -17426,8 +17426,8 @@
     "id": 2772,
     "marka_id": 30,
     "modeller_markalar::marka": "VOLKSWAGEN",
-    "model": "Passat B6 (3C2)",
-    "model_Web": "Passat B6 (3C2)"
+    "model": "Passat B6 (3C2) | Passat / Magotan",
+    "model_Web": "Passat B6 (3C2) | Passat / Magotan"
   },
   {
     "id": 2773,
@@ -17748,15 +17748,15 @@
     "id": 2819,
     "marka_id": 44,
     "modeller_markalar::marka": "OPEL",
-    "model": "Zafira / Zafira Family B",
-    "model_Web": "Zafira / Zafira Family B"
+    "model": "Zafira / Zafira Family B (A05)",
+    "model_Web": "Zafira / Zafira Family B (A05)"
   },
   {
     "id": 2820,
     "marka_id": 44,
     "modeller_markalar::marka": "OPEL",
-    "model": "Zafira A MPV",
-    "model_Web": "Zafira A MPV"
+    "model": "Zafira A MPV (T98)",
+    "model_Web": "Zafira A MPV (T98)"
   },
   {
     "id": 2821,
@@ -17804,22 +17804,22 @@
     "id": 2827,
     "marka_id": 36,
     "modeller_markalar::marka": "HYUNDAI",
-    "model": "Accent III",
-    "model_Web": "Accent III"
+    "model": "Accent III (MC) | Verna | Avega",
+    "model_Web": "Accent III (MC) | Verna | Avega"
   },
   {
     "id": 2828,
     "marka_id": 36,
     "modeller_markalar::marka": "HYUNDAI",
-    "model": "Accent III Sedan",
-    "model_Web": "Accent III Sedan"
+    "model": "Accent III Sedan (MC) | Verna",
+    "model_Web": "Accent III Sedan (MC) | Verna"
   },
   {
     "id": 2829,
     "marka_id": 38,
     "modeller_markalar::marka": "KIA",
-    "model": "Rio II Sedan",
-    "model_Web": "Rio II Sedan"
+    "model": "Rio II Sedan (JB) | Pride",
+    "model_Web": "Rio II Sedan (JB) | Pride"
   },
   {
     "id": 2830,
@@ -18119,15 +18119,15 @@
     "id": 2872,
     "marka_id": 45,
     "modeller_markalar::marka": "PEUGEOT",
-    "model": "405 I Break",
-    "model_Web": "405 I Break"
+    "model": "405 I Break (15E)",
+    "model_Web": "405 I Break (15E)"
   },
   {
     "id": 2873,
     "marka_id": 45,
     "modeller_markalar::marka": "PEUGEOT",
-    "model": "405 II Break",
-    "model_Web": "405 II Break"
+    "model": "405 II Break (4E)",
+    "model_Web": "405 II Break (4E)"
   },
   {
     "id": 2874,
@@ -18287,8 +18287,8 @@
     "id": 2896,
     "marka_id": 40,
     "modeller_markalar::marka": "MAZDA",
-    "model": "2",
-    "model_Web": "2"
+    "model": "2 (DY) | Demio",
+    "model_Web": "2 (DY) | Demio"
   },
   {
     "id": 2897,
@@ -18412,14 +18412,14 @@
   {
     "id": 2914,
     "marka_id": 52,
-    "modeller_markalar::marka": "DAEWOO- CHEVROLET",
+    "modeller_markalar::marka": "DAEWOO - CHEVROLET",
     "model": "Corsa Pick-up",
     "model_Web": "Corsa Pick-up"
   },
   {
     "id": 2915,
     "marka_id": 52,
-    "modeller_markalar::marka": "DAEWOO- CHEVROLET",
+    "modeller_markalar::marka": "DAEWOO - CHEVROLET",
     "model": "Corsa Sedan",
     "model_Web": "Corsa Sedan"
   },
@@ -18889,8 +18889,8 @@
     "id": 2982,
     "marka_id": 91,
     "modeller_markalar::marka": "YUGO",
-    "model": "Florida",
-    "model_Web": "Florida"
+    "model": "Florida (VX65)",
+    "model_Web": "Florida (VX65)"
   },
   {
     "id": 2983,
@@ -19043,15 +19043,15 @@
     "id": 3004,
     "marka_id": 38,
     "modeller_markalar::marka": "KIA",
-    "model": "Picanto II",
-    "model_Web": "Picanto II"
+    "model": "Picanto II (TA) | Picanto / Eko Taxi | Morning",
+    "model_Web": "Picanto II (TA) | Picanto / Eko Taxi | Morning"
   },
   {
     "id": 3005,
     "marka_id": 38,
     "modeller_markalar::marka": "KIA",
-    "model": "Picanto III",
-    "model_Web": "Picanto III"
+    "model": "Picanto III (JA) | Morning",
+    "model_Web": "Picanto III (JA) | Morning"
   },
   {
     "id": 3006,
@@ -19120,8 +19120,8 @@
     "id": 3015,
     "marka_id": 33,
     "modeller_markalar::marka": "BMW",
-    "model": "Serie 2 Gran Tourer Van (F46)",
-    "model_Web": "Serie 2 Gran Tourer Van (F46)"
+    "model": "2 Gran Tourer Van (F46)",
+    "model_Web": "2 Gran Tourer Van (F46)"
   },
   {
     "id": 3016,
@@ -19190,8 +19190,8 @@
     "id": 3025,
     "marka_id": 66,
     "modeller_markalar::marka": "AUDI",
-    "model": "A4 B7 Cabrio (8HE)",
-    "model_Web": "A4 B7 Cabrio (8HE)"
+    "model": "A4 B7 Cabrio (8HE) | A4 / S4",
+    "model_Web": "A4 B7 Cabrio (8HE) | A4 / S4"
   },
   {
     "id": 3026,
@@ -19323,8 +19323,8 @@
     "id": 3045,
     "marka_id": 30,
     "modeller_markalar::marka": "VOLKSWAGEN",
-    "model": "Beetle (5C1 - 5C2) / FUSCO/ BJALLA",
-    "model_Web": "Beetle (5C1 - 5C2) / FUSCO/ BJALLA"
+    "model": "Beetle (5C1, 5C2) | Fusca | Bjalla",
+    "model_Web": "Beetle (5C1, 5C2) | Fusca | Bjalla"
   },
   {
     "id": 3046,
@@ -19428,8 +19428,8 @@
     "id": 3060,
     "marka_id": 30,
     "modeller_markalar::marka": "VOLKSWAGEN",
-    "model": "Golf V Variant (1K5) Vento/Jetta/Bora",
-    "model_Web": "Golf V Variant (1K5) Vento/Jetta/Bora"
+    "model": "Golf V Variant (1K5) | Vento | Jetta | Bora / Jetta",
+    "model_Web": "Golf V Variant (1K5) | Vento | Jetta | Bora / Jetta"
   },
   {
     "id": 3061,
@@ -19554,8 +19554,8 @@
     "id": 3077,
     "marka_id": 34,
     "modeller_markalar::marka": "FIAT",
-    "model": "Punto (199_) I",
-    "model_Web": "Punto (199_) I"
+    "model": "Punto (199_) | Punto Pure",
+    "model_Web": "Punto (199_) | Punto Pure"
   },
   {
     "id": 3078,
@@ -19694,8 +19694,8 @@
     "id": 3098,
     "marka_id": 30,
     "modeller_markalar::marka": "VOLKSWAGEN",
-    "model": "Jetta IV (162, 163 , AV3, AV2) Jetta / Clasico / Vento / Bora",
-    "model_Web": "Jetta IV (162, 163 , AV3, AV2) Jetta / Clasico / Vento / Bora"
+    "model": "Jetta IV (162, 163, AV3, AV2) | Jetta / Clasico | Vento",
+    "model_Web": "Jetta IV (162, 163, AV3, AV2) | Jetta / Clasico | Vento"
   },
   {
     "id": 3099,
@@ -19813,8 +19813,8 @@
     "id": 3115,
     "marka_id": 45,
     "modeller_markalar::marka": "PEUGEOT",
-    "model": "Partner MPV (5_, G_) / Partner Escapade I  Grand Raid / Partner Patagonica / Urbana / Ranch",
-    "model_Web": "Partner MPV (5_, G_) / Partner Escapade I  Grand Raid / Partner Patagonica / Urbana / Ranch"
+    "model": "Partner MPV (5_, G_) | Partner Escapade |  Grand Raid | Partner Patagonica / Urbana | Ranch",
+    "model_Web": "Partner MPV (5_, G_) | Partner Escapade |  Grand Raid | Partner Patagonica / Urbana | Ranch"
   },
   {
     "id": 3116,
@@ -20289,8 +20289,8 @@
     "id": 3184,
     "marka_id": 30,
     "modeller_markalar::marka": "VOLKSWAGEN",
-    "model": "LT 28-35 II Minibüs/Otobüs (2BD,2DE,2DK)",
-    "model_Web": "LT 28-35 II Minibüs/Otobüs (2BD,2DE,2DK)"
+    "model": "LT 28-35 II Minibüs/Otobüs (2DB, 2DE, 2DK)",
+    "model_Web": "LT 28-35 II Minibüs/Otobüs (2DB, 2DE, 2DK)"
   },
   {
     "id": 3185,
@@ -20415,8 +20415,8 @@
     "id": 3202,
     "marka_id": 60,
     "modeller_markalar::marka": "CITROËN",
-    "model": "Xsara (NI)",
-    "model_Web": "Xsara (NI)"
+    "model": "Xsara (N1)",
+    "model_Web": "Xsara (N1)"
   },
   {
     "id": 3203,
@@ -20457,8 +20457,8 @@
     "id": 3208,
     "marka_id": 45,
     "modeller_markalar::marka": "PEUGEOT",
-    "model": "307 / SW (3H)",
-    "model_Web": "307 / SW (3H)"
+    "model": "307 SW (3H)",
+    "model_Web": "307 SW (3H)"
   },
   {
     "id": 3211,
@@ -21073,8 +21073,8 @@
     "id": 3302,
     "marka_id": 33,
     "modeller_markalar::marka": "BMW",
-    "model": "Serie 1 Cabrio (E87)",
-    "model_Web": "Serie 1 Cabrio (E87)"
+    "model": "1 Cabrio (E87)",
+    "model_Web": "1 Cabrio (E87)"
   },
   {
     "id": 3303,
@@ -21696,8 +21696,8 @@
     "id": 3391,
     "marka_id": 36,
     "modeller_markalar::marka": "HYUNDAI",
-    "model": "AccentT IV Sedan (RB) | Accent i25 | Solaris | Fluidic Verna | Excel | i25 Accent",
-    "model_Web": "AccentT IV Sedan (RB) | Accent i25 | Solaris | Fluidic Verna | Excel | i25 Accent"
+    "model": "Accent IV Sedan (RB) | Accent i25 | Solaris | Fluidic Verna | Excel | i25 Accent",
+    "model_Web": "Accent IV Sedan (RB) | Accent i25 | Solaris | Fluidic Verna | Excel | i25 Accent"
   },
   {
     "id": 3392,
@@ -23228,14 +23228,14 @@
   {
     "id": 3610,
     "marka_id": 52,
-    "modeller_markalar::marka": "DAEWOO- CHEVROLET",
+    "modeller_markalar::marka": "DAEWOO - CHEVROLET",
     "model": "Lublin II Panelvan/Van",
     "model_Web": "Lublin II Panelvan/Van"
   },
   {
     "id": 3611,
     "marka_id": 52,
-    "modeller_markalar::marka": "DAEWOO- CHEVROLET",
+    "modeller_markalar::marka": "DAEWOO - CHEVROLET",
     "model": "Lublin II Platform şasi",
     "model_Web": "Lublin II Platform şasi"
   },
@@ -23322,5 +23322,551 @@
     "modeller_markalar::marka": "VOLKSWAGEN",
     "model": "Passat B3/B4 (3A2, 35I)",
     "model_Web": "Passat B3/B4 (3A2, 35I)"
+  },
+  {
+    "id": 3624,
+    "marka_id": 30,
+    "modeller_markalar::marka": "VOLKSWAGEN",
+    "model": "Passat B2 (32B) | Corsar | Quantum | Carat | Santana",
+    "model_Web": "Passat B2 (32B) | Corsar | Quantum | Carat | Santana"
+  },
+  {
+    "id": 3625,
+    "marka_id": 30,
+    "modeller_markalar::marka": "VOLKSWAGEN",
+    "model": "Scirocco (53B)",
+    "model_Web": "Scirocco (53B)"
+  },
+  {
+    "id": 3626,
+    "marka_id": 66,
+    "modeller_markalar::marka": "AUDI",
+    "model": "A4 B6 Cabrio (8H7) | A4 / S4",
+    "model_Web": "A4 B6 Cabrio (8H7) | A4 / S4"
+  },
+  {
+    "id": 3627,
+    "marka_id": 30,
+    "modeller_markalar::marka": "VOLKSWAGEN",
+    "model": "Passat B5 (3B2)",
+    "model_Web": "Passat B5 (3B2)"
+  },
+  {
+    "id": 3628,
+    "marka_id": 30,
+    "modeller_markalar::marka": "VOLKSWAGEN",
+    "model": "Passat B5 Variant (3B5)",
+    "model_Web": "Passat B5 Variant (3B5)"
+  },
+  {
+    "id": 3629,
+    "marka_id": 30,
+    "modeller_markalar::marka": "VOLKSWAGEN",
+    "model": "Derby (86)",
+    "model_Web": "Derby (86)"
+  },
+  {
+    "id": 3630,
+    "marka_id": 30,
+    "modeller_markalar::marka": "VOLKSWAGEN",
+    "model": "Polo III Classic (6V2) | Flight | Derby",
+    "model_Web": "Polo III Classic (6V2) | Flight | Derby"
+  },
+  {
+    "id": 3631,
+    "marka_id": 30,
+    "modeller_markalar::marka": "VOLKSWAGEN",
+    "model": "Polo Kasa/eğik arka (86CF)",
+    "model_Web": "Polo Kasa/eğik arka (86CF)"
+  },
+  {
+    "id": 3632,
+    "marka_id": 30,
+    "modeller_markalar::marka": "VOLKSWAGEN",
+    "model": "Polo Playa",
+    "model_Web": "Polo Playa"
+  },
+  {
+    "id": 3633,
+    "marka_id": 30,
+    "modeller_markalar::marka": "VOLKSWAGEN",
+    "model": "Polo Van Kombi van (6V5)",
+    "model_Web": "Polo Van Kombi van (6V5)"
+  },
+  {
+    "id": 3634,
+    "marka_id": 30,
+    "modeller_markalar::marka": "VOLKSWAGEN",
+    "model": "Polo Van Kasa/eğik arka (6N1)",
+    "model_Web": "Polo Van Kasa/eğik arka (6N1)"
+  },
+  {
+    "id": 3635,
+    "marka_id": 34,
+    "modeller_markalar::marka": "FIAT",
+    "model": "124 Coupe (124_)",
+    "model_Web": "124 Coupe (124_)"
+  },
+  {
+    "id": 3636,
+    "marka_id": 34,
+    "modeller_markalar::marka": "FIAT",
+    "model": "124 Familiare (124_)",
+    "model_Web": "124 Familiare (124_)"
+  },
+  {
+    "id": 3637,
+    "marka_id": 34,
+    "modeller_markalar::marka": "FIAT",
+    "model": "124 Spider (124_)",
+    "model_Web": "124 Spider (124_)"
+  },
+  {
+    "id": 3638,
+    "marka_id": 34,
+    "modeller_markalar::marka": "FIAT",
+    "model": "127 Panorama (127_)",
+    "model_Web": "127 Panorama (127_)"
+  },
+  {
+    "id": 3639,
+    "marka_id": 34,
+    "modeller_markalar::marka": "FIAT",
+    "model": "128 Coupe (128_)",
+    "model_Web": "128 Coupe (128_)"
+  },
+  {
+    "id": 3640,
+    "marka_id": 34,
+    "modeller_markalar::marka": "FIAT",
+    "model": "128 Familiare (128_)",
+    "model_Web": "128 Familiare (128_)"
+  },
+  {
+    "id": 3641,
+    "marka_id": 33,
+    "modeller_markalar::marka": "BMW",
+    "model": "3 (E30)",
+    "model_Web": "3 (E30)"
+  },
+  {
+    "id": 3642,
+    "marka_id": 33,
+    "modeller_markalar::marka": "BMW",
+    "model": "3 Cabrio (E30)",
+    "model_Web": "3 Cabrio (E30)"
+  },
+  {
+    "id": 3643,
+    "marka_id": 33,
+    "modeller_markalar::marka": "BMW",
+    "model": "5 Touring (E34)",
+    "model_Web": "5 Touring (E34)"
+  },
+  {
+    "id": 3644,
+    "marka_id": 33,
+    "modeller_markalar::marka": "BMW",
+    "model": "Z1 Roadster",
+    "model_Web": "Z1 Roadster"
+  },
+  {
+    "id": 3645,
+    "marka_id": 33,
+    "modeller_markalar::marka": "BMW",
+    "model": "1 Cabrio (E88)",
+    "model_Web": "1 Cabrio (E88)"
+  },
+  {
+    "id": 3646,
+    "marka_id": 67,
+    "modeller_markalar::marka": "DAIHATSU",
+    "model": "Materia (M4_)",
+    "model_Web": "Materia (M4_)"
+  },
+  {
+    "id": 3647,
+    "marka_id": 51,
+    "modeller_markalar::marka": "SUZUKI",
+    "model": "Baleno (FW, EW)",
+    "model_Web": "Baleno (FW, EW)"
+  },
+  {
+    "id": 3648,
+    "marka_id": 108,
+    "modeller_markalar::marka": "ZASTAVA",
+    "model": "Yugo",
+    "model_Web": "Yugo"
+  },
+  {
+    "id": 3649,
+    "marka_id": 34,
+    "modeller_markalar::marka": "FIAT",
+    "model": "Multipla Van (186_)",
+    "model_Web": "Multipla Van (186_)"
+  },
+  {
+    "id": 3650,
+    "marka_id": 60,
+    "modeller_markalar::marka": "CITROËN",
+    "model": "E-Mehari",
+    "model_Web": "E-Mehari"
+  },
+  {
+    "id": 3651,
+    "marka_id": 34,
+    "modeller_markalar::marka": "FIAT",
+    "model": "Grande Punto Van (199_)",
+    "model_Web": "Grande Punto Van (199_)"
+  },
+  {
+    "id": 3652,
+    "marka_id": 35,
+    "modeller_markalar::marka": "HONDA",
+    "model": "Crosstour I",
+    "model_Web": "Crosstour I"
+  },
+  {
+    "id": 3653,
+    "marka_id": 35,
+    "modeller_markalar::marka": "HONDA",
+    "model": "Odyssey (RL5)",
+    "model_Web": "Odyssey (RL5)"
+  },
+  {
+    "id": 3654,
+    "marka_id": 41,
+    "modeller_markalar::marka": "MERCEDES",
+    "model": "Vito / Mixto Panelvan/Van (W639)",
+    "model_Web": "Vito / Mixto Panelvan/Van (W639)"
+  },
+  {
+    "id": 3655,
+    "marka_id": 41,
+    "modeller_markalar::marka": "MERCEDES",
+    "model": "Vito Minibüs/Otobüs (W639) | Valente",
+    "model_Web": "Vito Minibüs/Otobüs (W639) | Valente"
+  },
+  {
+    "id": 3656,
+    "marka_id": 41,
+    "modeller_markalar::marka": "MERCEDES",
+    "model": "Sprinter 2-t Minibüs/Otobüs (B901, B902)",
+    "model_Web": "Sprinter 2-t Minibüs/Otobüs (B901, B902)"
+  },
+  {
+    "id": 3657,
+    "marka_id": 41,
+    "modeller_markalar::marka": "MERCEDES",
+    "model": "Sprinter 2-t Panelvan/Van (B901, B902)",
+    "model_Web": "Sprinter 2-t Panelvan/Van (B901, B902)"
+  },
+  {
+    "id": 3658,
+    "marka_id": 41,
+    "modeller_markalar::marka": "MERCEDES",
+    "model": "Sprinter 2-t Platform şasi (B901, B902)",
+    "model_Web": "Sprinter 2-t Platform şasi (B901, B902)"
+  },
+  {
+    "id": 3659,
+    "marka_id": 41,
+    "modeller_markalar::marka": "MERCEDES",
+    "model": "Sprinter 3-t Minibüs/Otobüs (B903)",
+    "model_Web": "Sprinter 3-t Minibüs/Otobüs (B903)"
+  },
+  {
+    "id": 3660,
+    "marka_id": 41,
+    "modeller_markalar::marka": "MERCEDES",
+    "model": "Sprinter 3-t Panelvan/Van (B903)",
+    "model_Web": "Sprinter 3-t Panelvan/Van (B903)"
+  },
+  {
+    "id": 3661,
+    "marka_id": 41,
+    "modeller_markalar::marka": "MERCEDES",
+    "model": "Sprinter 3-t Platform şasi (B903)",
+    "model_Web": "Sprinter 3-t Platform şasi (B903)"
+  },
+  {
+    "id": 3662,
+    "marka_id": 41,
+    "modeller_markalar::marka": "MERCEDES",
+    "model": "Sprinter Classic 3,5-t Panelvan/Van (B909)",
+    "model_Web": "Sprinter Classic 3,5-t Panelvan/Van (B909)"
+  },
+  {
+    "id": 3663,
+    "marka_id": 41,
+    "modeller_markalar::marka": "MERCEDES",
+    "model": "V-Serisi (638/2)",
+    "model_Web": "V-Serisi (638/2)"
+  },
+  {
+    "id": 3664,
+    "marka_id": 41,
+    "modeller_markalar::marka": "MERCEDES",
+    "model": "Vito Minibüs/Otobüs (W638)",
+    "model_Web": "Vito Minibüs/Otobüs (W638)"
+  },
+  {
+    "id": 3665,
+    "marka_id": 41,
+    "modeller_markalar::marka": "MERCEDES",
+    "model": "Vito Panelvan/Van (W638)",
+    "model_Web": "Vito Panelvan/Van (W638)"
+  },
+  {
+    "id": 3666,
+    "marka_id": 62,
+    "modeller_markalar::marka": "INFINITI",
+    "model": "EX",
+    "model_Web": "EX"
+  },
+  {
+    "id": 3667,
+    "marka_id": 62,
+    "modeller_markalar::marka": "INFINITI",
+    "model": "G Coupe",
+    "model_Web": "G Coupe"
+  },
+  {
+    "id": 3668,
+    "marka_id": 62,
+    "modeller_markalar::marka": "INFINITI",
+    "model": "G Sedan",
+    "model_Web": "G Sedan"
+  },
+  {
+    "id": 3669,
+    "marka_id": 62,
+    "modeller_markalar::marka": "INFINITI",
+    "model": "Q60 Coupe",
+    "model_Web": "Q60 Coupe"
+  },
+  {
+    "id": 3670,
+    "marka_id": 43,
+    "modeller_markalar::marka": "NISSAN",
+    "model": "Cube (Z12)",
+    "model_Web": "Cube (Z12)"
+  },
+  {
+    "id": 3671,
+    "marka_id": 43,
+    "modeller_markalar::marka": "NISSAN",
+    "model": "Leaf (ZE1)",
+    "model_Web": "Leaf (ZE1)"
+  },
+  {
+    "id": 3672,
+    "marka_id": 43,
+    "modeller_markalar::marka": "NISSAN",
+    "model": "Maxima VI (A34)",
+    "model_Web": "Maxima VI (A34)"
+  },
+  {
+    "id": 3673,
+    "marka_id": 43,
+    "modeller_markalar::marka": "NISSAN",
+    "model": "Rogue | Rogue/Rogue Select",
+    "model_Web": "Rogue | Rogue/Rogue Select"
+  },
+  {
+    "id": 3674,
+    "marka_id": 43,
+    "modeller_markalar::marka": "NISSAN",
+    "model": "Teana II (J32) | Maxima",
+    "model_Web": "Teana II (J32) | Maxima"
+  },
+  {
+    "id": 3675,
+    "marka_id": 43,
+    "modeller_markalar::marka": "NISSAN",
+    "model": "Interstar Panelvan/Van (X70)",
+    "model_Web": "Interstar Panelvan/Van (X70)"
+  },
+  {
+    "id": 3676,
+    "marka_id": 43,
+    "modeller_markalar::marka": "NISSAN",
+    "model": "Interstar Platform şasi (X70)",
+    "model_Web": "Interstar Platform şasi (X70)"
+  },
+  {
+    "id": 3677,
+    "marka_id": 44,
+    "modeller_markalar::marka": "OPEL",
+    "model": "Movano A Minibüs/Otobüs (X70)",
+    "model_Web": "Movano A Minibüs/Otobüs (X70)"
+  },
+  {
+    "id": 3678,
+    "marka_id": 44,
+    "modeller_markalar::marka": "OPEL",
+    "model": "Movano A Panelvan/Van (X70)",
+    "model_Web": "Movano A Panelvan/Van (X70)"
+  },
+  {
+    "id": 3679,
+    "marka_id": 44,
+    "modeller_markalar::marka": "OPEL",
+    "model": "Movano A Platform şasi (X70)",
+    "model_Web": "Movano A Platform şasi (X70)"
+  },
+  {
+    "id": 3680,
+    "marka_id": 46,
+    "modeller_markalar::marka": "RENAULT",
+    "model": "Master II Minibüs/Otobüs (JD)",
+    "model_Web": "Master II Minibüs/Otobüs (JD)"
+  },
+  {
+    "id": 3681,
+    "marka_id": 46,
+    "modeller_markalar::marka": "RENAULT",
+    "model": "Master II Platform şasi (ED/HD/UD)",
+    "model_Web": "Master II Platform şasi (ED/HD/UD)"
+  },
+  {
+    "id": 3682,
+    "marka_id": 52,
+    "modeller_markalar::marka": "DAEWOO - CHEVROLET",
+    "model": "Zafira (F75) | Nabira",
+    "model_Web": "Zafira (F75) | Nabira"
+  },
+  {
+    "id": 3683,
+    "marka_id": 44,
+    "modeller_markalar::marka": "OPEL",
+    "model": "Corsa C Kasa/eğik arka (X01)",
+    "model_Web": "Corsa C Kasa/eğik arka (X01)"
+  },
+  {
+    "id": 3684,
+    "marka_id": 44,
+    "modeller_markalar::marka": "OPEL",
+    "model": "Corsa E Kasa/eğik arka (X15)",
+    "model_Web": "Corsa E Kasa/eğik arka (X15)"
+  },
+  {
+    "id": 3685,
+    "marka_id": 44,
+    "modeller_markalar::marka": "OPEL",
+    "model": "Zafira B Kasa/büyük limuzin (A05)",
+    "model_Web": "Zafira B Kasa/büyük limuzin (A05)"
+  },
+  {
+    "id": 3686,
+    "marka_id": 44,
+    "modeller_markalar::marka": "OPEL",
+    "model": "Corsa D Kasa/eğik arka (S07)",
+    "model_Web": "Corsa D Kasa/eğik arka (S07)"
+  },
+  {
+    "id": 3687,
+    "marka_id": 44,
+    "modeller_markalar::marka": "OPEL",
+    "model": "Insignia A Country Tourer (G09)",
+    "model_Web": "Insignia A Country Tourer (G09)"
+  },
+  {
+    "id": 3688,
+    "marka_id": 44,
+    "modeller_markalar::marka": "OPEL",
+    "model": "Insignia A Sedan (G09)",
+    "model_Web": "Insignia A Sedan (G09)"
+  },
+  {
+    "id": 3689,
+    "marka_id": 44,
+    "modeller_markalar::marka": "OPEL",
+    "model": "Insignia A Sports Tourer (G09)",
+    "model_Web": "Insignia A Sports Tourer (G09)"
+  },
+  {
+    "id": 3690,
+    "marka_id": 60,
+    "modeller_markalar::marka": "CITROËN",
+    "model": "Xsara Kombi van",
+    "model_Web": "Xsara Kombi van"
+  },
+  {
+    "id": 3691,
+    "marka_id": 45,
+    "modeller_markalar::marka": "PEUGEOT",
+    "model": "309 Kasa/eğik arka (10S, 3S)",
+    "model_Web": "309 Kasa/eğik arka (10S, 3S)"
+  },
+  {
+    "id": 3692,
+    "marka_id": 45,
+    "modeller_markalar::marka": "PEUGEOT",
+    "model": "405 I Kombi van (15_)",
+    "model_Web": "405 I Kombi van (15_)"
+  },
+  {
+    "id": 3693,
+    "marka_id": 45,
+    "modeller_markalar::marka": "PEUGEOT",
+    "model": "405 II Kombi van (4E_)",
+    "model_Web": "405 II Kombi van (4E_)"
+  },
+  {
+    "id": 3694,
+    "marka_id": 39,
+    "modeller_markalar::marka": "LADA",
+    "model": "Vesta SW Station wagon (GFK_)",
+    "model_Web": "Vesta SW Station wagon (GFK_)"
+  },
+  {
+    "id": 3695,
+    "marka_id": 43,
+    "modeller_markalar::marka": "NISSAN",
+    "model": "Micra C+C III (K12) | March",
+    "model_Web": "Micra C+C III (K12) | March"
+  },
+  {
+    "id": 3696,
+    "marka_id": 31,
+    "modeller_markalar::marka": "TOYOTA",
+    "model": "Corolla Hatchback (_E21_, _EA1_, _EH1_) | Auris | Corolla Sport",
+    "model_Web": "Corolla Hatchback (_E21_, _EA1_, _EH1_) | Auris | Corolla Sport"
+  },
+  {
+    "id": 3697,
+    "marka_id": 31,
+    "modeller_markalar::marka": "TOYOTA",
+    "model": "Corolla Station wagon (_E21_) | Corolla Touring",
+    "model_Web": "Corolla Station wagon (_E21_) | Corolla Touring"
+  },
+  {
+    "id": 3698,
+    "marka_id": 113,
+    "modeller_markalar::marka": "ALPINA",
+    "model": "Roadster S (E85)",
+    "model_Web": "Roadster S (E85)"
+  },
+  {
+    "id": 3699,
+    "marka_id": 112,
+    "modeller_markalar::marka": "GEELY",
+    "model": "EC7",
+    "model_Web": "EC7"
+  },
+  {
+    "id": 3700,
+    "marka_id": 112,
+    "modeller_markalar::marka": "GEELY",
+    "model": "EC7-RV | EC 7 HB",
+    "model_Web": "EC7-RV | EC 7 HB"
+  },
+  {
+    "id": 3701,
+    "marka_id": 114,
+    "modeller_markalar::marka": "BENTLEY",
+    "model": "Flying Spur (4W_)",
+    "model_Web": "Flying Spur (4W_)"
   }
 ]

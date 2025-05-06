@@ -13,7 +13,7 @@ import { defineConfig, devices } from "@playwright/test";
  */
 export default defineConfig({
   globalSetup: "./storage/globalSetup.ts",
-  timeout: 600 * 1000, // 10 dakika
+  timeout: 600 * 2000, // 20 dakika
   testDir: "./src",
   /* Run tests in files in parallel */
   fullyParallel: true,

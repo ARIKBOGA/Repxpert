@@ -2,7 +2,7 @@ import { Browser, Page, chromium, expect } from "@playwright/test";
 import ConfigReader from "../src/utils/ConfigReader";
 
 async function globalSetup() {
-  const browser: Browser = await chromium.launch({ headless: false });
+  const browser: Browser = await chromium.launch({ headless: true });
   const context = await browser.newContext();
   const page: Page = await context.newPage();
   await page.goto(ConfigReader.getEnvVariable("REPXPERT_URL") || "");
