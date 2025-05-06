@@ -8,8 +8,13 @@ import { selector } from "../utils/Selectors";
 import { readJsonFile, retryListFilePath } from "../utils/FileHelpers";
 import { goToSearchResults } from "../utils/ScraperHelpers";
 
-const crossNumbersPath = path.resolve(__dirname, "../data/Gathered_Informations/Pads/Resources/references_of_pads.json");
-const crossNumbers: string[] = JSON.parse(fs.readFileSync(crossNumbersPath, "utf-8"));
+const crossNumbersPath = path.resolve(
+  __dirname,
+  "../data/Gathered_Informations/Pads/Resources/references_of_pads.json"
+);
+const crossNumbers: string[] = JSON.parse(
+  fs.readFileSync(crossNumbersPath, "utf-8")
+);
 
 let retryList = readJsonFile<string[]>(retryListFilePath, []);
 
@@ -17,9 +22,17 @@ test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
   const filterBrand = ConfigReader.getEnvVariable("FILTER_BRAND_APPLICATION");
 
   for (const cross of crossNumbers) {
-    test(`${filterBrand} No: ${cross} ile ${filterBrand} ürünlerini getir`, async ({ page }) => {
+    test(`${filterBrand} No: ${cross} ile ${filterBrand} ürünlerini getir`, async ({
+      page,
+    }) => {
       try {
-        const productLinks = await goToSearchResults(page, cross, filterBrand, retryList, addToRetryList);
+        const productLinks = await goToSearchResults(
+          page,
+          cross,
+          filterBrand,
+          retryList,
+          addToRetryList
+        );
         if (!productLinks) return;
 
         console.log(`🔍 ${cross} için ürünü işliyor...`);
@@ -32,7 +45,9 @@ test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
 
         await page.waitForSelector(selector.aria_level_1_brand);
 
-        const productTitle = (await getTextContent(page.locator(".h1").nth(0))) || "Unknown Product";
+        const productTitle =
+          (await getTextContent(page.locator(".h1").nth(0))) ||
+          "Unknown Product";
         const productProducer = productTitle.split(" ")[0];
         const brands = page.locator(selector.aria_level_1_brand);
         const applications = new Array<Application>();
@@ -50,15 +65,21 @@ test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
           await page.waitForTimeout(1000); // Kısa bekleme
 
           try {
-            await page.waitForSelector(selector.aria_level_2_vehicle, { timeout: 5000 });
+            await page.waitForSelector(selector.aria_level_2_vehicle, {
+              timeout: 5000,
+            });
           } catch {
             console.warn(`⚠️ ${brand} için araç listesi yüklenemedi.`);
             continue;
           }
-      
+
           const processedVehicles = new Set<string>();
 
-          const vehicleCount = await page.locator(selector.aria_level_2_vehicle).count();
+          const vehicleCount = await page
+            .locator(selector.aria_level_2_vehicle)
+            .count();
+
+          // Vehicle listesindeki her bir item için
           for (let j = 0; j < vehicleCount; j++) {
             const vehicles = page.locator(selector.aria_level_2_vehicle);
             const vehicleEl = vehicles.nth(j);
@@ -67,8 +88,27 @@ test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
             if (processedVehicles.has(vehicle)) continue;
             processedVehicles.add(vehicle);
           
-            await vehicleEl.click();
-            await page.waitForSelector(selector.aria_level_3_rows, { state: "visible", timeout: 5000 });
+            // scrollIntoViewIfNeeded() DEVRE DIŞI
+            // await vehicleEl.scrollIntoViewIfNeeded();
+          
+            // Eğer araç zaten açıksa (expanded), önce kapat
+            const isExpanded = await vehicleEl.getAttribute("aria-expanded");
+            if (isExpanded === "true") {
+              await vehicleEl.click();
+              await page.waitForTimeout(500); // collapse işlemi tamamlanana kadar bekle
+            }
+          
+            // Renault özel kontrolü
+            if ((await brandEl.textContent())?.trim() === "RENAULT") {
+              console.log("🚗", vehicle);
+              //await page.pause();
+            }
+          
+            await vehicleEl.click(); // tekrar aç
+            await page.waitForSelector(selector.aria_level_3_rows, {
+              state: "visible",
+              timeout: 5000,
+            });
           
             const rows = page.locator(selector.aria_level_3_rows);
             const rowCount = await rows.count();
@@ -79,9 +119,13 @@ test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
             }
           
             for (let k = 0; k < rowCount; k++) {
-              const cells = page.locator(selector.cells_part_1 + (k + 1) + selector.cells_part_2);
+              const cells = page.locator(
+                selector.cells_part_1 + (k + 1) + selector.cells_part_2
+              );
               const cellTexts = await cells.allTextContents();
-              const cellValues = cellTexts.map((text) => text.trim()).filter((text) => text !== "");
+              const cellValues = cellTexts
+                .map((text) => text.trim())
+                .filter((text) => text !== "");
           
               applications.push({
                 brand,
@@ -96,7 +140,7 @@ test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
               });
             }
           
-            await vehicleEl.click(); // collapse
+            await vehicleEl.click(); // collapse after processing
             await page.waitForTimeout(2000);
           }
           
@@ -105,7 +149,10 @@ test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
           await page.waitForTimeout(1000);
         }
 
-        const productProducerFolderPath = path.join("src/data/Gathered_Informations/Pads/Applications", productProducer || "UnknownBrand");
+        const productProducerFolderPath = path.join(
+          "src/data/Gathered_Informations/Pads/Applications",
+          productProducer || "UnknownBrand"
+        );
 
         if (!fs.existsSync(productProducerFolderPath)) {
           fs.mkdirSync(productProducerFolderPath, { recursive: true });
@@ -119,8 +166,14 @@ test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
         const fileName = `${productProducer}_${cross}.json`;
         const filePath = path.join(oeFolderPath, fileName);
 
-        fs.writeFileSync(filePath, JSON.stringify(applications, null, 2), "utf-8");
-        console.log(`✅ ${cross} için ${fileName} üzerine yazılarak kaydedildi.`);
+        fs.writeFileSync(
+          filePath,
+          JSON.stringify(applications, null, 2),
+          "utf-8"
+        );
+        console.log(
+          `✅ ${cross} için ${fileName} üzerine yazılarak kaydedildi.`
+        );
       } catch (err) {
         console.error(`❌ ${cross} için hata:`, err);
         addToRetryList(cross);
