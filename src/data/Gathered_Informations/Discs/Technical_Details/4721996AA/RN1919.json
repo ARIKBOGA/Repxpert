@@ -1,0 +1,46 @@
+{
+  "oe": "4721996AA",
+  "productID": "RN1919",
+  "productType": "ROTOR DISC",
+  "specifications": {
+    "Type": "Solid",
+    "Outter Ø": "305",
+    "Num. of holes": "5",
+    "Disc Thickness (Max)": "12",
+    "Height": "33.1",
+    "Centering Diameter": "72.5",
+    "Pitch Circle Ø": "127",
+    "Drum Ø:": "167",
+    "Front/Rear": "Rear"
+  },
+  "crossReferences": [
+    {
+      "brand": "CHRYSLER",
+      "oe": "04721 677AA"
+    },
+    {
+      "brand": "CHRYSLER",
+      "oe": "04721 996AA"
+    },
+    {
+      "brand": "CHRYSLER",
+      "oe": "04721 996AB"
+    },
+    {
+      "brand": "CHRYSLER",
+      "oe": "4721677AA"
+    },
+    {
+      "brand": "CHRYSLER",
+      "oe": "4721996AB"
+    },
+    {
+      "brand": "FIAT",
+      "oe": "K04721996AA"
+    },
+    {
+      "brand": "FIAT",
+      "oe": "K04721996AB"
+    }
+  ]
+}

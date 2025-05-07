@@ -1,0 +1,65 @@
+{
+  "oe": "4779713AA",
+  "productID": "RN2300",
+  "productType": "ROTOR DISC",
+  "specifications": {
+    "Type": "Solid",
+    "Outter Ø": "328",
+    "Num. of holes": "5",
+    "Hole Ø:": "14.5",
+    "Disc Thickness (Max)": "12",
+    "Disc Thickness (Min)": "10.4",
+    "Height": "33.2",
+    "Centering Diameter": "72.5",
+    "Pitch Circle Ø": "127",
+    "Drum Ø:": "165.5",
+    "Front/Rear": "Rear",
+    "Structure Material": "G3000"
+  },
+  "crossReferences": [
+    {
+      "brand": "CHRYSLER",
+      "oe": "04779 713AA"
+    },
+    {
+      "brand": "CHRYSLER",
+      "oe": "04779 713AB"
+    },
+    {
+      "brand": "CHRYSLER",
+      "oe": "2AMV9 713AA"
+    },
+    {
+      "brand": "CHRYSLER",
+      "oe": "68227 800AA"
+    },
+    {
+      "brand": "CHRYSLER",
+      "oe": "68227 800AB"
+    },
+    {
+      "brand": "CHRYSLER",
+      "oe": "K04779713AA"
+    },
+    {
+      "brand": "CHRYSLER",
+      "oe": "K04779713AB"
+    },
+    {
+      "brand": "CHRYSLER",
+      "oe": "K68227800AA"
+    },
+    {
+      "brand": "CHRYSLER",
+      "oe": "K68227800AB"
+    },
+    {
+      "brand": "VAG",
+      "oe": "7B0 615 601 C"
+    },
+    {
+      "brand": "VAG",
+      "oe": "7B0 615 601 D"
+    }
+  ]
+}

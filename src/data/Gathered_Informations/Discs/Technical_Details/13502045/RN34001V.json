@@ -1,0 +1,60 @@
+{
+  "oe": "13502045",
+  "productID": "RN34001V",
+  "productType": "ROTOR DISC",
+  "specifications": {
+    "Type": "Vented",
+    "Outter Ø": "276",
+    "Num. of holes": "5",
+    "Disc Thickness (Max)": "26",
+    "Height": "45.5",
+    "Centering Diameter": "60",
+    "Pitch Circle Ø": "105",
+    "Front/Rear": "Front",
+    "Drum Ø:": "139",
+    "Disc Thickness (Min)": "23",
+    "Structure Material": "G3000"
+  },
+  "crossReferences": [
+    {
+      "brand": "CHEVROLET",
+      "oe": "13502044"
+    },
+    {
+      "brand": "CHEVROLET",
+      "oe": "13502045"
+    },
+    {
+      "brand": "CHEVROLET",
+      "oe": "13502824"
+    },
+    {
+      "brand": "GM",
+      "oe": "13502044"
+    },
+    {
+      "brand": "GM",
+      "oe": "13502045"
+    },
+    {
+      "brand": "GM",
+      "oe": "13502050"
+    },
+    {
+      "brand": "GM",
+      "oe": "13502824"
+    },
+    {
+      "brand": "GM",
+      "oe": "23118274"
+    },
+    {
+      "brand": "GM",
+      "oe": "569069"
+    },
+    {
+      "brand": "OPEL",
+      "oe": "05 69 073"
+    }
+  ]
+}

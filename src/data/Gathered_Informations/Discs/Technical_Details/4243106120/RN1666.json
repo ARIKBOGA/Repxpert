@@ -1,0 +1,28 @@
+{
+  "oe": "4243106120",
+  "productID": "RN1666",
+  "productType": "ROTOR DISC",
+  "specifications": {
+    "Type": "Solid",
+    "Outter Ø": "281",
+    "Num. of holes": "5",
+    "Disc Thickness (Max)": "10",
+    "Height": "66.8",
+    "Centering Diameter": "62",
+    "Pitch Circle Ø": "114.3",
+    "Front/Rear": "Rear",
+    "Drum Ø:": "172",
+    "Disc Thickness (Min)": "8.4",
+    "Structure Material": "G3000"
+  },
+  "crossReferences": [
+    {
+      "brand": "TOYOTA",
+      "oe": "42431-06120"
+    },
+    {
+      "brand": "TOYOTA",
+      "oe": "42431-33150"
+    }
+  ]
+}

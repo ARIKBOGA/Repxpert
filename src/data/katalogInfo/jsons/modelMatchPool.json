@@ -4390,5 +4390,587 @@
     "normalized": "ELBA",
     "model_id": 1861,
     "marka_id": 105
+  },
+  {
+    "original": "CORSA Pick-up | CHEVY",
+    "normalized": "CORSA PICK UP CHEVY",
+    "model_id": 2914,
+    "marka_id": 52
+  },
+  {
+    "original": "LANOS (KLAT) | LANOS / SENS",
+    "normalized": "LANOS KLAT LANOS SENS",
+    "model_id": 1479,
+    "marka_id": 52
+  },
+  {
+    "original": "LANOS Sedan (KLAT) | LANOS / SENS",
+    "normalized": "LANOS SEDAN KLAT LANOS SENS",
+    "model_id": 3703,
+    "marka_id": 52
+  },
+  {
+    "original": "NEXIA Sedan | CIELO",
+    "normalized": "NEXIA SEDAN CIELO",
+    "model_id": 3704,
+    "marka_id": 52
+  },
+  {
+    "original": "NEXIA | CIELO",
+    "normalized": "NEXIA CIELO",
+    "model_id": 1480,
+    "marka_id": 52
+  },
+  {
+    "original": "ASTRA F Cabrio (T92)",
+    "normalized": "ASTRA F CABRIO T92",
+    "model_id": 2927,
+    "marka_id": 44
+  },
+  {
+    "original": "ASTRA F CLASSIC Hatchback (T92)",
+    "normalized": "ASTRA F CLASSIC HATCHBACK T92",
+    "model_id": 2917,
+    "marka_id": 44
+  },
+  {
+    "original": "ASTRA F CLASSIC Sedan (T92)",
+    "normalized": "ASTRA F CLASSIC SEDAN T92",
+    "model_id": 2918,
+    "marka_id": 44
+  },
+  {
+    "original": "ASTRA F CLASSIC Station wagon (T92)",
+    "normalized": "ASTRA F CLASSIC STATION WAGON T92",
+    "model_id": 2919,
+    "marka_id": 44
+  },
+  {
+    "original": "ASTRA F Hatchback (T92) | KADETT",
+    "normalized": "ASTRA F HATCHBACK T92 KADETT",
+    "model_id": 2920,
+    "marka_id": 44
+  },
+  {
+    "original": "ASTRA F Kombi van (T92)",
+    "normalized": "ASTRA F KOMBI VAN T92",
+    "model_id": 2921,
+    "marka_id": 44
+  },
+  {
+    "original": "ASTRA F Sedan (T92) | ASTRA CLASSIC | OPTIMA",
+    "normalized": "ASTRA F SEDAN T92 ASTRA CLASSIC OPTIMA",
+    "model_id": 3705,
+    "marka_id": 44
+  },
+  {
+    "original": "ASTRA F Station wagon (T92)",
+    "normalized": "ASTRA F STATION WAGON T92",
+    "model_id": 2922,
+    "marka_id": 44
+  },
+  {
+    "original": "COMBO Kasa/büyük limuzin (71_)",
+    "normalized": "COMBO KASA BUYUK LIMUZIN 71",
+    "model_id": 3706,
+    "marka_id": 44
+  },
+  {
+    "original": "CORSA A Hatchback (S83)",
+    "normalized": "CORSA A HATCHBACK S83",
+    "model_id": 1650,
+    "marka_id": 44
+  },
+  {
+    "original": "CORSA A Kasa/eğik arka (S83)",
+    "normalized": "CORSA A HB VAN S83",
+    "model_id": 3707,
+    "marka_id": 44
+  },
+  {
+    "original": "CORSA A TR (S83)",
+    "normalized": "CORSA A TR S83",
+    "model_id": 2907,
+    "marka_id": 44
+  },
+  {
+    "original": "CORSA B (S93) | VITA",
+    "normalized": "CORSA B S93 VITA",
+    "model_id": 492,
+    "marka_id": 44
+  },
+  {
+    "original": "CORSA B Kasa/eğik arka (S93)",
+    "normalized": "CORSA B HB VAN S93",
+    "model_id": 3708,
+    "marka_id": 44
+  },
+  {
+    "original": "KADETT E Combo (T85)",
+    "normalized": "KADETT E COMBO T85",
+    "model_id": 2910,
+    "marka_id": 44
+  },
+  {
+    "original": "TIGRA (S93)",
+    "normalized": "TIGRA S93",
+    "model_id": 655,
+    "marka_id": 44
+  },
+  {
+    "original": "VECTRA A (J89)",
+    "normalized": "VECTRA A J89",
+    "model_id": 493,
+    "marka_id": 44
+  },
+  {
+    "original": "VECTRA A Hatchback (J89)",
+    "normalized": "VECTRA A HATCHBACK J89",
+    "model_id": 2925,
+    "marka_id": 44
+  },
+  {
+    "original": "TRANSIT Minibüs/Otobüs (E_ _)",
+    "normalized": "TRANSIT BUS E",
+    "model_id": 3709,
+    "marka_id": 32
+  },
+  {
+    "original": "TRANSIT Panelvan/Van (E_ _)",
+    "normalized": "TRANSIT PANELVAN VAN E",
+    "model_id": 3710,
+    "marka_id": 32
+  },
+  {
+    "original": "TRANSIT Platform şasi (E_ _)",
+    "normalized": "TRANSIT PLATFORM SASI E",
+    "model_id": 3711,
+    "marka_id": 32
+  },
+  {
+    "original": "TRANSIT TOURNEO Minibüs/Otobüs",
+    "normalized": "TRANSIT TOURNEO BUS",
+    "model_id": 3162,
+    "marka_id": 32
+  },
+  {
+    "original": "80 B4 Sedan (8C2) | 90",
+    "normalized": "80 B4 SEDAN 8C2 90",
+    "model_id": 3702,
+    "marka_id": 66
+  },
+  {
+    "original": "XSARA Kasa/eğik arka (N3_)",
+    "normalized": "XSARA HB VAN N3",
+    "model_id": 3489,
+    "marka_id": 60
+  },
+  {
+    "original": "306 Kasa/eğik arka",
+    "normalized": "306 HB VAN",
+    "model_id": 3712,
+    "marka_id": 45
+  },
+  {
+    "original": "306 Kombi van (N_, 7_)",
+    "normalized": "306 KOMBI VAN N,7",
+    "model_id": 522,
+    "marka_id": 45
+  },
+  {
+    "original": "CINQUECENTO (170_)",
+    "normalized": "CINQUECENTO 170",
+    "model_id": 942,
+    "marka_id": 34
+  },
+  {
+    "original": "PANDA (169_) | PANDA / PANDA CLASSIC",
+    "normalized": "PANDA 169 PANDA PANDA CLASSIC",
+    "model_id": 3074,
+    "marka_id": 34
+  },
+  {
+    "original": "PANDA Kasa/eğik arka (169_)",
+    "normalized": "PANDA HB VAN 169",
+    "model_id": 3075,
+    "marka_id": 34
+  },
+  {
+    "original": "PUNTO Kasa/eğik arka (188_)",
+    "normalized": "PUNTO HB VAN 188",
+    "model_id": 3078,
+    "marka_id": 34
+  },
+  {
+    "original": "CAMRY (_V1_) | SCEPTER",
+    "normalized": "CAMRY V1 SCEPTER",
+    "model_id": 3714,
+    "marka_id": 31
+  },
+  {
+    "original": "CAMRY (_V2_)",
+    "normalized": "CAMRY V2",
+    "model_id": 3715,
+    "marka_id": 31
+  },
+  {
+    "original": "CAMRY Station wagon (_V1_) | SCEPTER",
+    "normalized": "CAMRY STATION WAGON V1 SCEPTER",
+    "model_id": 1236,
+    "marka_id": 31
+  },
+  {
+    "original": "CARINA E VI (_T19_)",
+    "normalized": "CARINA E VI T19",
+    "model_id": 594,
+    "marka_id": 31
+  },
+  {
+    "original": "CARINA E VI Sedan (_T19_)",
+    "normalized": "CARINA E VI SEDAN T19",
+    "model_id": 3716,
+    "marka_id": 31
+  },
+  {
+    "original": "CARINA E VI Sportswagon (_T19_)",
+    "normalized": "CARINA E VI SPORTSWAGON T19",
+    "model_id": 3717,
+    "marka_id": 31
+  },
+  {
+    "original": "CARINA V (_T17_)",
+    "normalized": "CARINA V T17",
+    "model_id": 3718,
+    "marka_id": 31
+  },
+  {
+    "original": "CARINA V Sedan (_T17_)",
+    "normalized": "CARINA V SEDAN T17",
+    "model_id": 3719,
+    "marka_id": 31
+  },
+  {
+    "original": "CELICA Coupe (_T20_)",
+    "normalized": "CELICA COUPE T20",
+    "model_id": 595,
+    "marka_id": 31
+  },
+  {
+    "original": "COROLLA Compact (_E10_) | COROLLA SECCA",
+    "normalized": "COROLLA COMPACT E10 COROLLA SECCA",
+    "model_id": 3720,
+    "marka_id": 31
+  },
+  {
+    "original": "COROLLA Compact (_E11_)",
+    "normalized": "COROLLA COMPACT E11",
+    "model_id": 742,
+    "marka_id": 31
+  },
+  {
+    "original": "COROLLA Kombi van (_E11_)",
+    "normalized": "COROLLA KOMBI VAN E11",
+    "model_id": 3721,
+    "marka_id": 31
+  },
+  {
+    "original": "COROLLA Liftback (_E10_)",
+    "normalized": "COROLLA LIFTBACK E10",
+    "model_id": 3722,
+    "marka_id": 31
+  },
+  {
+    "original": "COROLLA Liftback (_E11_)",
+    "normalized": "COROLLA LIFTBACK E11",
+    "model_id": 3723,
+    "marka_id": 31
+  },
+  {
+    "original": "COROLLA Liftback (_E9_)",
+    "normalized": "COROLLA LIFTBACK E9",
+    "model_id": 743,
+    "marka_id": 31
+  },
+  {
+    "original": "COROLLA Station wagon (_E10_)",
+    "normalized": "COROLLA STATION WAGON E10",
+    "model_id": 797,
+    "marka_id": 31
+  },
+  {
+    "original": "COROLLA Station wagon (_E11_)",
+    "normalized": "COROLLA STATION WAGON E11",
+    "model_id": 3724,
+    "marka_id": 31
+  },
+  {
+    "original": "CORONA Hatchback (_T19_)",
+    "normalized": "CORONA HATCHBACK T19",
+    "model_id": 3725,
+    "marka_id": 31
+  },
+  {
+    "original": "CORONA Sedan (_T19_)",
+    "normalized": "CORONA SEDAN T19",
+    "model_id": 3726,
+    "marka_id": 31
+  },
+  {
+    "original": "CORONA Sedan (_T21_) | CORONA PREMIO",
+    "normalized": "CORONA SEDAN T21 CORONA PREMIO",
+    "model_id": 3727,
+    "marka_id": 31
+  },
+  {
+    "original": "PICNIC (_XM1_) | IPSUM",
+    "normalized": "PICNIC XM1 IPSUM",
+    "model_id": 3728,
+    "marka_id": 31
+  },
+  {
+    "original": "RAV 4 I (_A1_)",
+    "normalized": "RAV 4 I A1",
+    "model_id": 796,
+    "marka_id": 31
+  },
+  {
+    "original": "RAV 4 I Cabrio (_A1_)",
+    "normalized": "RAV 4 I CABRIO A1",
+    "model_id": 3729,
+    "marka_id": 31
+  },
+  {
+    "original": "SPRINTER 2-t Minibüs/Otobüs (B901, B902)",
+    "normalized": "SPRINTER 2 T BUS B901,B902",
+    "model_id": 3656,
+    "marka_id": 41
+  },
+  {
+    "original": "SPRINTER 3-t Minibüs/Otobüs (B903)",
+    "normalized": "SPRINTER 3 T BUS B903",
+    "model_id": 3659,
+    "marka_id": 41
+  },
+  {
+    "original": "SPRINTER 4-t Panelvan/Van (B904)",
+    "normalized": "SPRINTER 4 T PANELVAN VAN B904",
+    "model_id": 3730,
+    "marka_id": 41
+  },
+  {
+    "original": "SPRINTER 4-t Platform şasi (B904)",
+    "normalized": "SPRINTER 4 T PLATFORM SASI B904",
+    "model_id": 3731,
+    "marka_id": 41
+  },
+  {
+    "original": "SPRINTER CLASSIC 4,6-t Minibüs/Otobüs (B909)",
+    "normalized": "SPRINTER CLASSIC 4,6 T BUS B909",
+    "model_id": 3732,
+    "marka_id": 41
+  },
+  {
+    "original": "VITO Minibüs/Otobüs (W638)",
+    "normalized": "VITO BUS W638",
+    "model_id": 3664,
+    "marka_id": 41
+  },
+  {
+    "original": "LT 28-35 II Minibüs/Otobüs (2DB, 2DE, 2DK)",
+    "normalized": "LT 28 35 II BUS 2DB,2DE,2DK",
+    "model_id": 3184,
+    "marka_id": 30
+  },
+  {
+    "original": "B10 (E39)",
+    "normalized": "B10 E39",
+    "model_id": 3733,
+    "marka_id": 113
+  },
+  {
+    "original": "B10 Touring (E39)",
+    "normalized": "B10 TOURING E39",
+    "model_id": 3734,
+    "marka_id": 113
+  },
+  {
+    "original": "G-MODELL (W460)",
+    "normalized": "G MODELL W460",
+    "model_id": 3735,
+    "marka_id": 115
+  },
+  {
+    "original": "G-MODELL (W461)",
+    "normalized": "G MODELL W461",
+    "model_id": 3736,
+    "marka_id": 115
+  },
+  {
+    "original": "G-MODELL (W463)",
+    "normalized": "G MODELL W463",
+    "model_id": 3737,
+    "marka_id": 115
+  },
+  {
+    "original": "BRAVA (182_)",
+    "normalized": "BRAVA 182",
+    "model_id": 2398,
+    "marka_id": 34
+  },
+  {
+    "original": "BRAVO I (182_)",
+    "normalized": "BRAVO I 182",
+    "model_id": 2025,
+    "marka_id": 34
+  },
+  {
+    "original": "MAREA (185_)",
+    "normalized": "MAREA 185",
+    "model_id": 830,
+    "marka_id": 34
+  },
+  {
+    "original": "MAREA Weekend (185_)",
+    "normalized": "MAREA WEEKEND 185",
+    "model_id": 324,
+    "marka_id": 34
+  },
+  {
+    "original": "CARISMA (DA_)",
+    "normalized": "CARISMA DA",
+    "model_id": 447,
+    "marka_id": 42
+  },
+  {
+    "original": "CARISMA Sedan (DA_)",
+    "normalized": "CARISMA SEDAN DA",
+    "model_id": 1454,
+    "marka_id": 42
+  },
+  {
+    "original": "COLT CZC VI Cabrio (RG)",
+    "normalized": "COLT CZC VI CABRIO RG",
+    "model_id": 3738,
+    "marka_id": 42
+  },
+  {
+    "original": "COLT VI (Z3_A, Z2_A) | MIRAGE",
+    "normalized": "COLT VI Z3 A,Z2 A MIRAGE",
+    "model_id": 3739,
+    "marka_id": 42
+  },
+  {
+    "original": "SPACE STAR MPV (DG_A) | MIRAGE",
+    "normalized": "SPACE STAR MPV DG A MIRAGE",
+    "model_id": 457,
+    "marka_id": 42
+  },
+  {
+    "original": "IMPIAN | IMPIAN - WAJA | WAJA",
+    "normalized": "IMPIAN IMPIAN WAJA WAJA",
+    "model_id": 1621,
+    "marka_id": 55
+  },
+  {
+    "original": "PERSONA 400 (C9_S) | WIRA",
+    "normalized": "PERSONA 400 C9 S WIRA",
+    "model_id": 965,
+    "marka_id": 55
+  },
+  {
+    "original": "FORFOUR (454)",
+    "normalized": "FORFOUR 454",
+    "model_id": 2676,
+    "marka_id": 83
+  },
+  {
+    "original": "S40 I (644)",
+    "normalized": "S40 I 644",
+    "model_id": 1509,
+    "marka_id": 77
+  },
+  {
+    "original": "V40 Station wagon (645)",
+    "normalized": "V40 STATION WAGON 645",
+    "model_id": 2286,
+    "marka_id": 77
+  },
+  {
+    "original": "TRANSIT Minibüs/Otobüs (FD_ _, FB_ _, FS_ _, FZ_ _, FC_ _)",
+    "normalized": "TRANSIT BUS FD,FB,FS,FZ,FC",
+    "model_id": 3170,
+    "marka_id": 32
+  },
+  {
+    "original": "CORSA C Kasa/eğik arka (X01)",
+    "normalized": "CORSA C HB VAN X01",
+    "model_id": 3087,
+    "marka_id": 44
+  },
+  {
+    "original": "VITO Minibüs/Otobüs (W639) | VALENTE",
+    "normalized": "VITO BUS W639 VALENTE",
+    "model_id": 3655,
+    "marka_id": 41
+  },
+  {
+    "original": "JUMPER II Minibüs/Otobüs | RELAY",
+    "normalized": "JUMPER II BUS RELAY",
+    "model_id": 3167,
+    "marka_id": 60
+  },
+  {
+    "original": "DUCATO Minibüs/Otobüs (250_)",
+    "normalized": "DUCATO BUS 250",
+    "model_id": 3245,
+    "marka_id": 34
+  },
+  {
+    "original": "BOXER Minibüs/Otobüs | MANAGER",
+    "normalized": "BOXER BUS MANAGER",
+    "model_id": 3173,
+    "marka_id": 45
+  },
+  {
+    "original": "TALENTO Minibüs/Otobüs (296_)",
+    "normalized": "TALENTO BUS 296",
+    "model_id": 1783,
+    "marka_id": 34
+  },
+  {
+    "original": "VIVARO B Minibüs/Otobüs (X82)",
+    "normalized": "VIVARO B BUS X82",
+    "model_id": 3263,
+    "marka_id": 44
+  },
+  {
+    "original": "TRAFIC III Minibüs/Otobüs (JG_)",
+    "normalized": "TRAFIC III BUS JG",
+    "model_id": 3298,
+    "marka_id": 46
+  },
+  {
+    "original": "CORSA E Kasa/eğik arka (X15)",
+    "normalized": "CORSA E HB VAN X15",
+    "model_id": 3091,
+    "marka_id": 44
+  },
+  {
+    "original": "TOURNEO CUSTOM V362 Minibüs/Otobüs (F3)",
+    "normalized": "TOURNEO CUSTOM V362 BUS F3",
+    "model_id": 2629,
+    "marka_id": 32
+  },
+  {
+    "original": "TRANSIT CUSTOM V362 Minibüs/Otobüs (F3)",
+    "normalized": "TRANSIT CUSTOM V362 BUS F3",
+    "model_id": 2730,
+    "marka_id": 32
+  },
+  {
+    "original": "TRANSIT V363 Minibüs/Otobüs (FAD, FBD)",
+    "normalized": "TRANSIT V363 BUS FAD,FBD",
+    "model_id": 3248,
+    "marka_id": 32
   }
 ]

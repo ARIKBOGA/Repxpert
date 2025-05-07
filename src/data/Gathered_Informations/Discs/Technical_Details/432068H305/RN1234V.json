@@ -1,0 +1,88 @@
+{
+  "oe": "432068H305",
+  "productID": "RN1234V",
+  "productType": "ROTOR DISC",
+  "specifications": {
+    "Type": "Vented",
+    "Disc Thickness (Max)": "16",
+    "Num. of holes": "5",
+    "Height": "62",
+    "Centering Diameter": "68",
+    "Pitch Circle Ø": "114.3",
+    "Front/Rear": "Rear",
+    "Outter Ø": "292",
+    "Disc Thickness (Min)": "14.5",
+    "Drum Ø:": "172",
+    "Structure Material": "G3000"
+  },
+  "crossReferences": [
+    {
+      "brand": "BENDIX",
+      "oe": "562280B"
+    },
+    {
+      "brand": "NISSAN",
+      "oe": "43206-3NF0A"
+    },
+    {
+      "brand": "NISSAN",
+      "oe": "43206-3NL0A"
+    },
+    {
+      "brand": "NISSAN",
+      "oe": "43206-3NL0B"
+    },
+    {
+      "brand": "NISSAN",
+      "oe": "43206-4BA0A"
+    },
+    {
+      "brand": "NISSAN",
+      "oe": "43206-4BT0B"
+    },
+    {
+      "brand": "NISSAN",
+      "oe": "43206-4BT0C"
+    },
+    {
+      "brand": "NISSAN",
+      "oe": "43206-4CL0A"
+    },
+    {
+      "brand": "NISSAN",
+      "oe": "43206-8H304"
+    },
+    {
+      "brand": "NISSAN",
+      "oe": "43206-8H305"
+    },
+    {
+      "brand": "NISSAN",
+      "oe": "43206-8H700"
+    },
+    {
+      "brand": "NISSAN",
+      "oe": "43206-8H701"
+    },
+    {
+      "brand": "NISSAN",
+      "oe": "43206-8H702"
+    },
+    {
+      "brand": "OEM",
+      "oe": "GW6167"
+    },
+    {
+      "brand": "RENAULT",
+      "oe": "43 20 000 16R"
+    },
+    {
+      "brand": "RENAULT",
+      "oe": "43 20 031 12R"
+    },
+    {
+      "brand": "RENAULT",
+      "oe": "432065HA0A"
+    }
+  ]
+}

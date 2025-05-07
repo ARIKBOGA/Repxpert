@@ -1,0 +1,33 @@
+{
+  "oe": "4243102100",
+  "productID": "DN1233",
+  "productType": "DRUM BRAKE",
+  "specifications": {
+    "Outter Ø": "242",
+    "Num. of holes": "5",
+    "Centering Diameter": "55",
+    "Height": "52.1",
+    "Pitch Circle Ø": "100",
+    "Drum Ø": "200",
+    "Structure Material": "G3000",
+    "Hole Ø": "14.8"
+  },
+  "crossReferences": [
+    {
+      "brand": "TOYOTA",
+      "oe": "42431-02100"
+    },
+    {
+      "brand": "TOYOTA",
+      "oe": "42431-12220"
+    },
+    {
+      "brand": "TOYOTA",
+      "oe": "42431-32120"
+    },
+    {
+      "brand": "TOYOTA",
+      "oe": "42431-32121"
+    }
+  ]
+}

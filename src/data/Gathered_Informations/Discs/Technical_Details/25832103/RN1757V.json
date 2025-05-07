@@ -1,0 +1,48 @@
+{
+  "oe": "25832103",
+  "productID": "RN1757V",
+  "productType": "ROTOR DISC",
+  "specifications": {
+    "Type": "Vented",
+    "Front/Rear": "Rear",
+    "Num. of holes": "6",
+    "Pitch Circle Ø": "139.7",
+    "Outter Ø": "345",
+    "Disc Thickness (Max)": "20",
+    "Height": "85.3",
+    "Centering Diameter": "78.6",
+    "Drum Ø:": "210",
+    "Disc Thickness (Min)": "18.4",
+    "Structure Material": "G3000"
+  },
+  "crossReferences": [
+    {
+      "brand": "CADILLAC (GM)",
+      "oe": "15792634"
+    },
+    {
+      "brand": "CHEVROLET",
+      "oe": "22968231"
+    },
+    {
+      "brand": "GM",
+      "oe": "15792634"
+    },
+    {
+      "brand": "GM",
+      "oe": "22775300"
+    },
+    {
+      "brand": "GM",
+      "oe": "22968231"
+    },
+    {
+      "brand": "GM",
+      "oe": "23195438"
+    },
+    {
+      "brand": "GM",
+      "oe": "25832103"
+    }
+  ]
+}
