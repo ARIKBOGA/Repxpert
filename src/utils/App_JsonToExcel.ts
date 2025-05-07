@@ -6,6 +6,8 @@ import { Application } from "../types/Application";
 import { extractYears, cleanKBA, logMatchedModel } from "./extractHelpers";
 import { log } from "console";
 import markaMap from "../data/katalogInfo/jsons/marka_seri_no.json";
+import ConfigReader from "./ConfigReader";
+import { formatDateTime } from "./DateHelper";
 
 interface ModelData {
   id: number;
@@ -15,8 +17,11 @@ interface ModelData {
   model_Web: string;
 }
 
-const OUTPUT_FILE = "PAD_APPLICATIONS_BREMBO.xlsx";
-const ROOT_PATH = "src/data/Gathered_Informations/Pads/Applications/BREMBO";
+const filterBrand = ConfigReader.getEnvVariable("FILTER_BRAND_APPLICATION") || "BREMBO";
+const formattedDate = formatDateTime(new Date());
+
+const OUTPUT_FILE = `PAD_APPLICATIONS_${filterBrand}_${formattedDate}.xlsx`;
+const ROOT_PATH = "src/data/Gathered_Informations/Pads/Applications/" + filterBrand;
 const MARKA_FILE_PATH = "src/data/katalogInfo/jsons/marka_seri_no.json";
 const MODEL_FILE_PATH = "src/data/katalogInfo/jsons/model_seri_no.json";
 
@@ -108,7 +113,7 @@ const normalizeModel = (model: string): string => {
 async function main() {
   const markaData = await loadJsonData(MARKA_FILE_PATH);
   const modelData = await loadJsonData(MODEL_FILE_PATH);
-  const files = await glob(`${ROOT_PATH}/**/BREMBO_*.json`);
+  const files = await glob(`${ROOT_PATH}/**/${filterBrand}*.json`);
   const workbook = XLSX.utils.book_new();
 
   for (const file of files) {
@@ -122,7 +127,7 @@ async function main() {
       const marka_id_raw = Object.entries(markaData).find(
         ([, value]) => normalizeString(value as string) === normalizeString(normalizedBrand)
       )?.[0] ?? null;
-      
+
       const marka_id = marka_id_raw ? parseInt(marka_id_raw) : null;
 
       const normalizedModel = normalizeModel(app.model.trim());
@@ -149,10 +154,10 @@ async function main() {
       ): string {
         return id !== null ? map[id.toString()] || fallback : fallback;
       }
-      
+
       // kullanım:
       const katalogMarka = getMappedValue(markaMap, marka_id, app.brand.trim());
-      
+
 
       return {
         marka_id,
