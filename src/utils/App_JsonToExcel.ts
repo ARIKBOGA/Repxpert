@@ -78,6 +78,8 @@ const REPLACE_MAP: Record<string, string> = {
   "BOX GRAND LIMUZIN": "KASA BUYUK LIMUZIN",
   "PLATFORM ŞASİ": "PLATFORM SASI",
   "ŞASİ": "SASI",
+  "MINIBUS OTOBUS": "BUS",
+  "KASA EGIK ARKA": "HB VAN"
 };
 
 const normalizeBrand = (brand: string): string => {
