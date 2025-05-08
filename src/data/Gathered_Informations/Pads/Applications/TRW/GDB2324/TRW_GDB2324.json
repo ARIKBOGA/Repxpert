@@ -1,0 +1,90 @@
+[
+  {
+    "brand": "NISSAN",
+    "model": "MICRA V (K14)",
+    "engineType": "1.0 IG-T 100",
+    "madeYear": "Başlangıç 12.2018",
+    "kw": "74",
+    "hp": "101",
+    "cc": "999",
+    "engineCodes": "HR10DET",
+    "KBA_Numbers": "1329ALQ"
+  },
+  {
+    "brand": "RENAULT",
+    "model": "CLIO V (B7_)",
+    "engineType": "1.0 LPG (B7MT)",
+    "madeYear": "Başlangıç 06.2019",
+    "kw": "74",
+    "hp": "101",
+    "cc": "999",
+    "engineCodes": "H4D 460  H4D 452  H4D 450  H4D 480  H4D 470",
+    "KBA_Numbers": "3333BNB  3333BOC"
+  },
+  {
+    "brand": "RENAULT",
+    "model": "CLIO V (B7_)",
+    "engineType": "1.0 TCe 100 (B7MT)",
+    "madeYear": "Başlangıç 06.2019",
+    "kw": "74",
+    "hp": "101",
+    "cc": "999",
+    "engineCodes": "H4D 452  H4D 450  H4D 460  H4D 480",
+    "KBA_Numbers": "3333BLQ"
+  },
+  {
+    "brand": "RENAULT",
+    "model": "CLIO V (B7_)",
+    "engineType": "1.5 Blue dCi 115 (B7AD)",
+    "madeYear": "Başlangıç 06.2019",
+    "kw": "85",
+    "hp": "116",
+    "cc": "1461",
+    "engineCodes": "K9K 872  K9K 862  K9K 854",
+    "KBA_Numbers": "3333BLN"
+  },
+  {
+    "brand": "RENAULT",
+    "model": "CLIO V (B7_)",
+    "engineType": "1.5 Blue dCi 85 (B7AG)",
+    "madeYear": "Başlangıç 06.2019",
+    "kw": "63",
+    "hp": "86",
+    "cc": "1461",
+    "engineCodes": "K9K 872  K9K 854",
+    "KBA_Numbers": "3333BLO"
+  },
+  {
+    "brand": "RENAULT",
+    "model": "TALIANT",
+    "engineType": "1.0 SCe 65",
+    "madeYear": "Başlangıç 08.2021",
+    "kw": "48",
+    "hp": "65",
+    "cc": "999",
+    "engineCodes": "B4D 419",
+    "KBA_Numbers": ""
+  },
+  {
+    "brand": "RENAULT",
+    "model": "TALIANT",
+    "engineType": "1.0 TCe 100 ECO LPG",
+    "madeYear": "Başlangıç 08.2021",
+    "kw": "74",
+    "hp": "101",
+    "cc": "999",
+    "engineCodes": "H4D 480",
+    "KBA_Numbers": ""
+  },
+  {
+    "brand": "RENAULT",
+    "model": "TALIANT",
+    "engineType": "1.0 TCe 90",
+    "madeYear": "Başlangıç 08.2021",
+    "kw": "66",
+    "hp": "90",
+    "cc": "999",
+    "engineCodes": "H4D 480  H4D 470",
+    "KBA_Numbers": ""
+  }
+]
