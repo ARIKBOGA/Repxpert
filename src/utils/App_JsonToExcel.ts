@@ -25,6 +25,25 @@ const ROOT_PATH = "src/data/Gathered_Informations/Pads/Applications/" + filterBr
 const MARKA_FILE_PATH = "src/data/katalogInfo/jsons/marka_seri_no.json";
 const MODEL_FILE_PATH = "src/data/katalogInfo/jsons/model_seri_no.json";
 
+const lookupWorkbook = XLSX.readFile("src/data/katalogInfo/excels/balata_katalog_full.xlsx", { cellDates: true });
+const lookupSheet = lookupWorkbook.Sheets[lookupWorkbook.SheetNames[0]];
+const lookupData = XLSX.utils.sheet_to_json<{ YV: string; BREMBO: string; TRW: string }>(lookupSheet);
+
+function findYvNo(partNumber: string, brand: string): string | null {
+  const match = lookupData.find((row) => {
+    const brandCode = brand.toUpperCase();
+    if (brandCode === "BREMBO") {
+      return row.BREMBO?.toString().trim() === partNumber;
+    } else if (brandCode === "TRW") {
+      return row.TRW?.toString().trim() === partNumber;
+    }
+    return false;
+  });
+
+  return match?.YV?.toString().trim() || null;
+}
+
+
 async function loadJsonData(filePath: string) {
   return await fs.readJSON(filePath);
 }
@@ -79,7 +98,8 @@ const REPLACE_MAP: Record<string, string> = {
   "PLATFORM ŞASİ": "PLATFORM SASI",
   "ŞASİ": "SASI",
   "MINIBUS OTOBUS": "BUS",
-  "KASA EGIK ARKA": "HB VAN"
+  "KASA EGIK ARKA": "HB VAN",
+  "SERISI": "CLASS"
 };
 
 const normalizeBrand = (brand: string): string => {
@@ -90,18 +110,23 @@ const normalizeBrand = (brand: string): string => {
 
 
 const normalizeModel = (model: string): string => {
+  // Parantez açma ve kapama sayısını eşitleme
+  if ((model.match(/\(/g) || []).length > (model.match(/\)/g) || []).length) {
+    model += ")";
+  }
   let normalized = model
     .toUpperCase()
-    .normalize("NFD")
-    .replace(/[\u0300-\u036f]/g, "")
+    .normalize("NFD") // Normalize special characters
+    .replace(/[\u0300-\u036f]/g, "") // Normalize special characters
+    .replace(/,/g, " ")// Virgül düzeltme
     .replace(/İ/g, "I") // Türkçe karakter düzeltme
-    .replace(/[|\/]/g, " ")
-    .replace(/([^\s])\(/g, "$1 (")
-    .replace(/[\s\-_.]+/g, " ")
-    .replace(/([,\/])\s*/g, "$1")
-    .replace(/\s+([,\/])/g, "$1")
-    .replace(/[()]/g, "")
-    .replace(/\s+/g, " ")
+    .replace(/[|\/]/g, " ") // Pipe ve slash düzeltme
+    .replace(/([^\s])\(/g, "$1 (") // Parantez düzeltme
+    .replace(/[\s\-_.]+/g, " ") // Boşlukları düzeltme
+    .replace(/([,\/])\s*/g, "$1") // Boşlukları düzeltme
+    .replace(/\s+([,\/])/g, "$1") // Boşlukları düzeltme
+    .replace(/[()]/g, "") // Parantez düzeltme
+    .replace(/\s+/g, " ") // Birden fazla boşlukları tek boşluğa çevirme
     .trim();
 
   for (const [target, replacement] of Object.entries(REPLACE_MAP)) {
@@ -120,6 +145,10 @@ async function main() {
 
   for (const file of files) {
     const json: Application[] = await fs.readJSON(file);
+
+    const partNumber = path.basename(file, ".json").split("_")[1];
+    const yvNo = findYvNo(partNumber, filterBrand) || "YV_BULUNAMADI";
+
     const sheetName = path.basename(file, ".json").split("_")[1];
 
     const rows = json.map((app) => {
@@ -140,28 +169,10 @@ async function main() {
 
       const model_id = modelEntry ? modelEntry.id : null;
 
-      if (modelEntry) {
-        logMatchedModel({
-          original: app.model.trim(),
-          normalized: normalizedModel,
-          model_id: modelEntry.id,
-          marka_id: marka_id ?? -1,
-        });
-      }
-
-      function getMappedValue(
-        map: Record<string, string>,
-        id: number | null,
-        fallback: string
-      ): string {
-        return id !== null ? map[id.toString()] || fallback : fallback;
-      }
-
-      // kullanım:
-      const katalogMarka = getMappedValue(markaMap, marka_id, app.brand.trim());
-
+      const katalogMarka = marka_id !== null ? markaMap[marka_id.toString() as keyof typeof markaMap] || app.brand.trim() : app.brand.trim();
 
       return {
+        "YV No": yvNo,
         marka_id,
         marka: katalogMarka.trim(),
         model_id,
@@ -177,9 +188,10 @@ async function main() {
       };
     });
 
+
     const worksheet = XLSX.utils.json_to_sheet(rows, {
       header: [
-        "marka_id", "marka", "model_id", "model", "Baş. Yıl", "Bit. Yıl",
+        "YV No", "marka_id", "marka", "model_id", "model", "Baş. Yıl", "Bit. Yıl",
         "motor", "kw", "hp", "cc", "motor kodu", "KBA"
       ]
     });

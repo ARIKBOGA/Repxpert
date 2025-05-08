@@ -62,7 +62,7 @@ test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
           processedBrands.add(brand);
 
           await brandEl.click();
-          await page.waitForTimeout(1000); // Kısa bekleme
+          await page.waitForTimeout(3000); // Kısa bekleme
 
           try {
             await page.waitForSelector(selector.aria_level_2_vehicle, {
@@ -95,16 +95,11 @@ test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
             const isExpanded = await vehicleEl.getAttribute("aria-expanded");
             if (isExpanded === "true") {
               await vehicleEl.click();
-              await page.waitForTimeout(500); // collapse işlemi tamamlanana kadar bekle
-            }
-          
-            // Renault özel kontrolü
-            if ((await brandEl.textContent())?.trim() === "RENAULT") {
-              console.log("🚗", vehicle);
-              //await page.pause();
+              await page.waitForTimeout(3000); // collapse işlemi tamamlanana kadar bekle
             }
           
             await vehicleEl.click(); // tekrar aç
+            await page.waitForTimeout(2000); // açılmasını bekle
             await page.waitForSelector(selector.aria_level_3_rows, {
               state: "visible",
               timeout: 5000,
@@ -140,13 +135,14 @@ test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
               });
             }
           
+            await page.waitForTimeout(1000);
             await vehicleEl.click(); // collapse after processing
             await page.waitForTimeout(2000);
           }
           
 
           await brandEl.click(); // collapse
-          await page.waitForTimeout(1000);
+          await page.waitForTimeout(2000);
         }
 
         const productProducerFolderPath = path.join(
