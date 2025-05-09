@@ -212,7 +212,7 @@ async function main() {
   if (newlyAddedModels.length > 0) {
     console.log("\n✨ Yeni eklenen model eşleşmeleri:");
     newlyAddedModels.forEach(match => {
-      console.log(JSON.stringify(match, null, 2));
+      console.log(JSON.stringify(match.original, null, 2));
     });
   } else {
     console.log("\nℹ️ Yeni model eşleşmesi bulunamadı.");
