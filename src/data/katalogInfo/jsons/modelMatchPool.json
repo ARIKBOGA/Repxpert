@@ -6976,5 +6976,2903 @@
     "normalized": "OMEGA A STATION WAGON V87",
     "model_id": 3802,
     "marka_id": 44
+  },
+  {
+    "original": "C15 Kasa/büyük limuzin (VD_)",
+    "normalized": "C15 KASA BUYUK LIMUZIN VD",
+    "model_id": 3105,
+    "marka_id": 60
+  },
+  {
+    "original": "C15 Platform şasi (VDPD)",
+    "normalized": "C15 PLATFORM SASI VDPD",
+    "model_id": 3421,
+    "marka_id": 60
+  },
+  {
+    "original": "C15 Station wagon",
+    "normalized": "C15 STATION WAGON",
+    "model_id": 3804,
+    "marka_id": 60
+  },
+  {
+    "original": "ZX Kasa/eğik arka (N2)",
+    "normalized": "ZX HB VAN N2",
+    "model_id": 3805,
+    "marka_id": 60
+  },
+  {
+    "original": "CLUB",
+    "normalized": "CLUB",
+    "model_id": 3806,
+    "marka_id": 109
+  },
+  {
+    "original": "205 Kasa/eğik arka",
+    "normalized": "205 HB VAN",
+    "model_id": 536,
+    "marka_id": 45
+  },
+  {
+    "original": "305 Kombi van (581S)",
+    "normalized": "305 KOMBI VAN 581S",
+    "model_id": 969,
+    "marka_id": 45
+  },
+  {
+    "original": "309 Kasa/eğik arka (10S, 3S)",
+    "normalized": "309 HB VAN 10S 3S",
+    "model_id": 3691,
+    "marka_id": 45
+  },
+  {
+    "original": "80 B4 Avant (8C5)",
+    "normalized": "80 B4 AVANT 8C5",
+    "model_id": 3811,
+    "marka_id": 66
+  },
+  {
+    "original": "CABRIOLET B3 (8G7)",
+    "normalized": "CABRIO B3 8G7",
+    "model_id": 3812,
+    "marka_id": 66
+  },
+  {
+    "original": "COUPE B3 (89, 8B3)",
+    "normalized": "COUPE B3 89 8B3",
+    "model_id": 3813,
+    "marka_id": 66
+  },
+  {
+    "original": "CORDOBA (6K1, 6K2)",
+    "normalized": "CORDOBA 6K1 6K2",
+    "model_id": 1720,
+    "marka_id": 76
+  },
+  {
+    "original": "CORDOBA VARIO Kombi van (6K5)",
+    "normalized": "CORDOBA VARIO KOMBI VAN 6K5",
+    "model_id": 1520,
+    "marka_id": 76
+  },
+  {
+    "original": "GOLF II (19E, 1G1)",
+    "normalized": "GOLF II 19E 1G1",
+    "model_id": 599,
+    "marka_id": 30
+  },
+  {
+    "original": "PASSAT B3/B4 (315, 3A5)",
+    "normalized": "PASSAT B3 B4 315 3A5",
+    "model_id": 3622,
+    "marka_id": 30
+  },
+  {
+    "original": "PASSAT B3/B4 (3A2, 35I)",
+    "normalized": "PASSAT B3 B4 3A2 35I",
+    "model_id": 3623,
+    "marka_id": 30
+  },
+  {
+    "original": "PASSAT B3/B4 Variant (3A5, 35I)",
+    "normalized": "PASSAT B3 B4 VARIANT 3A5 35I",
+    "model_id": 921,
+    "marka_id": 30
+  },
+  {
+    "original": "GOLF II Van (19E, 1G1)",
+    "normalized": "GOLF II VAN 19E 1G1",
+    "model_id": 724,
+    "marka_id": 30
+  },
+  {
+    "original": "JETTA II (19E, 1G2, 165)",
+    "normalized": "JETTA II 19E 1G2 165",
+    "model_id": 602,
+    "marka_id": 30
+  },
+  {
+    "original": "LUPO I (6X1, 6E1)",
+    "normalized": "LUPO I 6X1 6E1",
+    "model_id": 3121,
+    "marka_id": 30
+  },
+  {
+    "original": "POLO (6N2)",
+    "normalized": "POLO 6N2",
+    "model_id": 1345,
+    "marka_id": 30
+  },
+  {
+    "original": "850 (100_)",
+    "normalized": "850 100",
+    "model_id": 3807,
+    "marka_id": 34
+  },
+  {
+    "original": "850 Coupe (100_)",
+    "normalized": "850 COUPE 100",
+    "model_id": 3808,
+    "marka_id": 34
+  },
+  {
+    "original": "133 (133A)",
+    "normalized": "133 133A",
+    "model_id": 1441,
+    "marka_id": 76
+  },
+  {
+    "original": "850 (100GD)",
+    "normalized": "850 100GD",
+    "model_id": 3809,
+    "marka_id": 76
+  },
+  {
+    "original": "SERCE",
+    "normalized": "SERCE",
+    "model_id": 3810,
+    "marka_id": 34
+  },
+  {
+    "original": "CAPA (GA)",
+    "normalized": "CAPA GA",
+    "model_id": 3814,
+    "marka_id": 35
+  },
+  {
+    "original": "CITY V Sedan (GM2, GM3) | BALLADE",
+    "normalized": "CITY V SEDAN GM2 GM3 BALLADE",
+    "model_id": 3815,
+    "marka_id": 35
+  },
+  {
+    "original": "CIVIC V Coupe (EJ)",
+    "normalized": "CIVIC V COUPE EJ",
+    "model_id": 3816,
+    "marka_id": 35
+  },
+  {
+    "original": "CIVIC V Hatchback (EG, EH)",
+    "normalized": "CIVIC V HATCHBACK EG EH",
+    "model_id": 2993,
+    "marka_id": 35
+  },
+  {
+    "original": "CIVIC V Sedan (EG, EH) | BALLADE",
+    "normalized": "CIVIC V SEDAN EG EH BALLADE",
+    "model_id": 2994,
+    "marka_id": 35
+  },
+  {
+    "original": "CIVIC VI Coupe (EJ, EM1)",
+    "normalized": "CIVIC VI COUPE EJ EM1",
+    "model_id": 2995,
+    "marka_id": 35
+  },
+  {
+    "original": "CIVIC VI Sedan (EJ, EK, SO) | BALLADE | INTEGRA SJ",
+    "normalized": "CIVIC VI SEDAN EJ EK SO BALLADE INTEGRA SJ",
+    "model_id": 2822,
+    "marka_id": 35
+  },
+  {
+    "original": "JAZZ II (GD_, GE3, GE2) | FIT",
+    "normalized": "JAZZ II GD GE3 GE2 FIT",
+    "model_id": 889,
+    "marka_id": 35
+  },
+  {
+    "original": "LOGO (GA)",
+    "normalized": "LOGO GA",
+    "model_id": 890,
+    "marka_id": 35
+  },
+  {
+    "original": "POLO CLASSIC (86C, 80)",
+    "normalized": "POLO CLASSIC 86C 80",
+    "model_id": 894,
+    "marka_id": 30
+  },
+  {
+    "original": "POLO Coupe (86C, 80)",
+    "normalized": "POLO COUPE 86C 80",
+    "model_id": 1266,
+    "marka_id": 30
+  },
+  {
+    "original": "POLO II (86C, 80)",
+    "normalized": "POLO II 86C 80",
+    "model_id": 605,
+    "marka_id": 30
+  },
+  {
+    "original": "POLO Kasa/eğik arka (86CF)",
+    "normalized": "POLO HB VAN 86CF",
+    "model_id": 3631,
+    "marka_id": 30
+  },
+  {
+    "original": "POLO Van Kasa/eğik arka (6N1)",
+    "normalized": "POLO VAN HB VAN 6N1",
+    "model_id": 3634,
+    "marka_id": 30
+  },
+  {
+    "original": "VECTRA",
+    "normalized": "VECTRA",
+    "model_id": 1063,
+    "marka_id": 52
+  },
+  {
+    "original": "CALIBRA A (C89)",
+    "normalized": "CALIBRA A C89",
+    "model_id": 508,
+    "marka_id": 44
+  },
+  {
+    "original": "VECTRA B (J96)",
+    "normalized": "VECTRA B J96",
+    "model_id": 509,
+    "marka_id": 44
+  },
+  {
+    "original": "VECTRA B Hatchback (J96)",
+    "normalized": "VECTRA B HATCHBACK J96",
+    "model_id": 1766,
+    "marka_id": 44
+  },
+  {
+    "original": "VECTRA B Station wagon (J96)",
+    "normalized": "VECTRA B STATION WAGON J96",
+    "model_id": 818,
+    "marka_id": 44
+  },
+  {
+    "original": "9-3 (YS3D)",
+    "normalized": "9 3 YS3D",
+    "model_id": 758,
+    "marka_id": 79
+  },
+  {
+    "original": "9-3 Cabriolet (YS3D)",
+    "normalized": "9 3 CABRIO YS3D",
+    "model_id": 763,
+    "marka_id": 79
+  },
+  {
+    "original": "A6 C4 (4A2) | A6 / S6",
+    "normalized": "A6 C4 4A2 A6 S6",
+    "model_id": 3178,
+    "marka_id": 66
+  },
+  {
+    "original": "A6 C4 Avant (4A5) | 100 | A6 / S6",
+    "normalized": "A6 C4 AVANT 4A5 100 A6 S6",
+    "model_id": 3179,
+    "marka_id": 66
+  },
+  {
+    "original": "SUPERB I (3U4)",
+    "normalized": "SUPERB I 3U4",
+    "model_id": 2471,
+    "marka_id": 48
+  },
+  {
+    "original": "205 I Cabrio (741B, 20D)",
+    "normalized": "205 I CABRIO 741B 20D",
+    "model_id": 3599,
+    "marka_id": 45
+  },
+  {
+    "original": "309 I (10C, 10A)",
+    "normalized": "309 I 10C 10A",
+    "model_id": 521,
+    "marka_id": 45
+  },
+  {
+    "original": "309 II (3C, 3A)",
+    "normalized": "309 II 3C 3A",
+    "model_id": 3601,
+    "marka_id": 45
+  },
+  {
+    "original": "19 I Kasa/eğik arka (S53_)",
+    "normalized": "19 I HB VAN S53",
+    "model_id": 3602,
+    "marka_id": 46
+  },
+  {
+    "original": "19 II Cabriolet (D53_, 853_)",
+    "normalized": "19 II CABRIO D53 853",
+    "model_id": 2387,
+    "marka_id": 46
+  },
+  {
+    "original": "CLIO I (B/C57_, 5/357_) | LUTECIA",
+    "normalized": "CLIO I B C57 5 357 LUTECIA",
+    "model_id": 3604,
+    "marka_id": 46
+  },
+  {
+    "original": "CLIO I Kasa/eğik arka (S57_)",
+    "normalized": "CLIO I HB VAN S57",
+    "model_id": 3605,
+    "marka_id": 46
+  },
+  {
+    "original": "A2 (8Z0)",
+    "normalized": "A2 8Z0",
+    "model_id": 3116,
+    "marka_id": 66
+  },
+  {
+    "original": "A3 (8L1) | A3 / S3",
+    "normalized": "A3 8L1 A3 S3",
+    "model_id": 2438,
+    "marka_id": 66
+  },
+  {
+    "original": "TT (8N3)",
+    "normalized": "TT 8N3",
+    "model_id": 2631,
+    "marka_id": 66
+  },
+  {
+    "original": "TT Roadster (8N9)",
+    "normalized": "TT ROADSTER 8N9",
+    "model_id": 2632,
+    "marka_id": 66
+  },
+  {
+    "original": "C3 Pluriel (HB_)",
+    "normalized": "C3 PLURIEL HB",
+    "model_id": 3217,
+    "marka_id": 60
+  },
+  {
+    "original": "C4 II (NC_)",
+    "normalized": "C4 II NC",
+    "model_id": 3127,
+    "marka_id": 60
+  },
+  {
+    "original": "C4 II Kasa/eğik arka (NC_)",
+    "normalized": "C4 II HB VAN NC",
+    "model_id": 3847,
+    "marka_id": 60
+  },
+  {
+    "original": "DS4 (NX_)",
+    "normalized": "DS4 NX",
+    "model_id": 3160,
+    "marka_id": 60
+  },
+  {
+    "original": "DS 4 / DS 4 CROSSBACK (NX_)",
+    "normalized": "DS 4 DS 4 CROSSBACK NX",
+    "model_id": 3848,
+    "marka_id": 94
+  },
+  {
+    "original": "307 SW Kombi van (3E_, 3H_)",
+    "normalized": "307 SW KOMBI VAN 3E 3H",
+    "model_id": 684,
+    "marka_id": 45
+  },
+  {
+    "original": "308 CC (4B_)",
+    "normalized": "308 CC 4B",
+    "model_id": 3450,
+    "marka_id": 45
+  },
+  {
+    "original": "308 I (4A_, 4C_)",
+    "normalized": "308 I 4A 4C",
+    "model_id": 3451,
+    "marka_id": 45
+  },
+  {
+    "original": "308 SW I (4E_, 4H_)",
+    "normalized": "308 SW I 4E 4H",
+    "model_id": 3147,
+    "marka_id": 45
+  },
+  {
+    "original": "PARTNER Kasa/büyük limuzin | GRAND RAID",
+    "normalized": "PARTNER KASA BUYUK LIMUZIN GRAND RAID",
+    "model_id": 3452,
+    "marka_id": 45
+  },
+  {
+    "original": "CLIO III (BR0/1, CR0/1) | EURO CLIO | CLIO CAMPUS | LUTECIA",
+    "normalized": "CLIO III BR0 1 CR0 1 EURO CLIO CLIO CAMPUS LUTECIA",
+    "model_id": 3515,
+    "marka_id": 46
+  },
+  {
+    "original": "CLIO III Kasa/eğik arka (SB_, SR_)",
+    "normalized": "CLIO III HB VAN SB SR",
+    "model_id": 3517,
+    "marka_id": 46
+  },
+  {
+    "original": "MEGANE III Hatchback (BZ0/1_, B3_)",
+    "normalized": "MEGANE III HATCHBACK BZ0 1 B3",
+    "model_id": 3287,
+    "marka_id": 46
+  },
+  {
+    "original": "SCÉNIC III VAN (JZ0/1_)",
+    "normalized": "SCENIC III VAN JZ0 1",
+    "model_id": 3531,
+    "marka_id": 46
+  },
+  {
+    "original": "WIND (E4M_)",
+    "normalized": "WIND E4M",
+    "model_id": 3536,
+    "marka_id": 46
+  },
+  {
+    "original": "AROSA (6H1)",
+    "normalized": "AROSA 6H1",
+    "model_id": 3117,
+    "marka_id": 76
+  },
+  {
+    "original": "FABIA I Combi (6Y5)",
+    "normalized": "FABIA I KOMBI 6Y5",
+    "model_id": 2444,
+    "marka_id": 48
+  },
+  {
+    "original": "FABIA I Praktik (6Y5)",
+    "normalized": "FABIA I PRAKTIK 6Y5",
+    "model_id": 1667,
+    "marka_id": 48
+  },
+  {
+    "original": "FABIA II Combi (545)",
+    "normalized": "FABIA II KOMBI 545",
+    "model_id": 2446,
+    "marka_id": 48
+  },
+  {
+    "original": "FABIA III (NJ3)",
+    "normalized": "FABIA III NJ3",
+    "model_id": 2447,
+    "marka_id": 48
+  },
+  {
+    "original": "FABIA III Station wagon (NJ5)",
+    "normalized": "FABIA III STATION WAGON NJ5",
+    "model_id": 3835,
+    "marka_id": 48
+  },
+  {
+    "original": "OCTAVIA I Combi (1U5)",
+    "normalized": "OCTAVIA I KOMBI 1U5",
+    "model_id": 2450,
+    "marka_id": 48
+  },
+  {
+    "original": "OCTAVIA I Kombi van (1U5)",
+    "normalized": "OCTAVIA I KOMBI VAN 1U5",
+    "model_id": 2393,
+    "marka_id": 48
+  },
+  {
+    "original": "OCTAVIA II Combi (1Z5)",
+    "normalized": "OCTAVIA II KOMBI 1Z5",
+    "model_id": 405,
+    "marka_id": 48
+  },
+  {
+    "original": "OCTAVIA III Combi (5E5, 5E6)",
+    "normalized": "OCTAVIA III KOMBI 5E5 5E6",
+    "model_id": 2524,
+    "marka_id": 48
+  },
+  {
+    "original": "RAPID (NH3, NK3, NK6)",
+    "normalized": "RAPID NH3 NK3 NK6",
+    "model_id": 2451,
+    "marka_id": 48
+  },
+  {
+    "original": "ROOMSTER (5J7) | PRAKTIK",
+    "normalized": "ROOMSTER 5J7 PRAKTIK",
+    "model_id": 3119,
+    "marka_id": 48
+  },
+  {
+    "original": "ROOMSTER Praktik (5J)",
+    "normalized": "ROOMSTER PRAKTIK 5J",
+    "model_id": 2454,
+    "marka_id": 48
+  },
+  {
+    "original": "BORA (9M2) | CLASICO",
+    "normalized": "BORA 9M2 CLASICO",
+    "model_id": 2455,
+    "marka_id": 30
+  },
+  {
+    "original": "BORA I (1J2) | JETTA IV | JETTA",
+    "normalized": "BORA I 1J2 JETTA IV JETTA",
+    "model_id": 3048,
+    "marka_id": 30
+  },
+  {
+    "original": "GOLF IV Van (1J1)",
+    "normalized": "GOLF IV VAN 1J1",
+    "model_id": 3822,
+    "marka_id": 30
+  },
+  {
+    "original": "GOLF IV Variant (1J5) | JETTA",
+    "normalized": "GOLF IV VARIANT 1J5 JETTA",
+    "model_id": 2458,
+    "marka_id": 30
+  },
+  {
+    "original": "GOLF VAN IV Variant (1J5)",
+    "normalized": "GOLF VAN IV VARIANT 1J5",
+    "model_id": 3823,
+    "marka_id": 30
+  },
+  {
+    "original": "NEW BEETLE Cabrio (1Y7)",
+    "normalized": "NEW BEETLE CABRIO 1Y7",
+    "model_id": 3824,
+    "marka_id": 30
+  },
+  {
+    "original": "POLO IV (9N_, 9A_)",
+    "normalized": "POLO IV 9N 9A",
+    "model_id": 782,
+    "marka_id": 30
+  },
+  {
+    "original": "POLO IV Sedan (9A4, 9A2, 9N2, 9A6) | DERBY",
+    "normalized": "POLO IV SEDAN 9A4 9A2 9N2 9A6 DERBY",
+    "model_id": 3100,
+    "marka_id": 30
+  },
+  {
+    "original": "POLO IV Sedan (9N2, 9N4)",
+    "normalized": "POLO IV SEDAN 9N2 9N4",
+    "model_id": 3825,
+    "marka_id": 30
+  },
+  {
+    "original": "CLIO II Kasa/eğik arka (SB0/1/2_)",
+    "normalized": "CLIO II HB VAN SB0 1 2",
+    "model_id": 3514,
+    "marka_id": 46
+  },
+  {
+    "original": "RAPID Kasa/büyük limuzin (F40_, G40_) | EXTRA | EXPRESS",
+    "normalized": "RAPID KASA BUYUK LIMUZIN F40 G40 EXTRA EXPRESS",
+    "model_id": 3608,
+    "marka_id": 46
+  },
+  {
+    "original": "TWINGO I Kasa/eğik arka (S06_)",
+    "normalized": "TWINGO I HB VAN S06",
+    "model_id": 3609,
+    "marka_id": 46
+  },
+  {
+    "original": "PALIO Weekend (178_, 173_, 373_, 374_, 171_) | WEEKEND | PALIO WEEKEND | PALIO WEEKEND / WEEKEND",
+    "normalized": "PALIO WEEKEND 178 173 373 374 171 WEEKEND PALIO WEEKEND PALIO WEEKEND WEEKEND",
+    "model_id": 315,
+    "marka_id": 34
+  },
+  {
+    "original": "3 Touring (E36)",
+    "normalized": "3 TOURING E36",
+    "model_id": 2501,
+    "marka_id": 33
+  },
+  {
+    "original": "Z4 Roadster (E85)",
+    "normalized": "Z4 ROADSTER E85",
+    "model_id": 2498,
+    "marka_id": 33
+  },
+  {
+    "original": "MG 6 Sedan",
+    "normalized": "MG 6 SEDAN",
+    "model_id": 3817,
+    "marka_id": 87
+  },
+  {
+    "original": "MG ZT",
+    "normalized": "MG ZT",
+    "model_id": 3818,
+    "marka_id": 87
+  },
+  {
+    "original": "MG ZT- T | MG ZT-T",
+    "normalized": "MG ZT T MG ZT T",
+    "model_id": 3819,
+    "marka_id": 87
+  },
+  {
+    "original": "75 (RJ)",
+    "normalized": "75 RJ",
+    "model_id": 3820,
+    "marka_id": 47
+  },
+  {
+    "original": "75 I Tourer (RJ)",
+    "normalized": "75 I STATION RJ",
+    "model_id": 3821,
+    "marka_id": 47
+  },
+  {
+    "original": "9-5 (YS3E)",
+    "normalized": "9 5 YS3E",
+    "model_id": 1769,
+    "marka_id": 79
+  },
+  {
+    "original": "9-5 Station wagon (YS3E)",
+    "normalized": "9 5 STATION WAGON YS3E",
+    "model_id": 1564,
+    "marka_id": 79
+  },
+  {
+    "original": "INTERSTAR Minibüs/Otobüs (X70)",
+    "normalized": "INTERSTAR BUS X70",
+    "model_id": 1516,
+    "marka_id": 43
+  },
+  {
+    "original": "MOVANO A Minibüs/Otobüs (X70)",
+    "normalized": "MOVANO A BUS X70",
+    "model_id": 3677,
+    "marka_id": 44
+  },
+  {
+    "original": "MASTER II Minibüs/Otobüs (JD)",
+    "normalized": "MASTER II BUS JD",
+    "model_id": 3680,
+    "marka_id": 46
+  },
+  {
+    "original": "C5 I (DC_)",
+    "normalized": "C5 I DC",
+    "model_id": 3192,
+    "marka_id": 60
+  },
+  {
+    "original": "C5 I Break (DE_)",
+    "normalized": "C5 I BREAK DE",
+    "model_id": 3193,
+    "marka_id": 60
+  },
+  {
+    "original": "C5 I Kombi van (DE_)",
+    "normalized": "C5 I KOMBI VAN DE",
+    "model_id": 3826,
+    "marka_id": 60
+  },
+  {
+    "original": "C5 II (RC_)",
+    "normalized": "C5 II RC",
+    "model_id": 3219,
+    "marka_id": 60
+  },
+  {
+    "original": "C5 II Break (RE_)",
+    "normalized": "C5 II BREAK RE",
+    "model_id": 3220,
+    "marka_id": 60
+  },
+  {
+    "original": "C5 II Kombi van (RE_)",
+    "normalized": "C5 II KOMBI VAN RE",
+    "model_id": 3827,
+    "marka_id": 60
+  },
+  {
+    "original": "DOBLO MPV (119_, 223_)",
+    "normalized": "DOBLO MPV 119 223",
+    "model_id": 2021,
+    "marka_id": 34
+  },
+  {
+    "original": "207 (WA_, WC_) | 207/207+",
+    "normalized": "207 WA WC 207 207+",
+    "model_id": 3138,
+    "marka_id": 45
+  },
+  {
+    "original": "500 / 595 / 695",
+    "normalized": "500 595 695",
+    "model_id": 2047,
+    "marka_id": 90
+  },
+  {
+    "original": "LINEA (323_, 110_)",
+    "normalized": "LINEA 323 110",
+    "model_id": 1051,
+    "marka_id": 34
+  },
+  {
+    "original": "PRIMASTAR Minibüs/Otobüs (X83)",
+    "normalized": "PRIMASTAR BUS X83",
+    "model_id": 3254,
+    "marka_id": 43
+  },
+  {
+    "original": "VIVARO A Minibüs/Otobüs (X83)",
+    "normalized": "VIVARO A BUS X83",
+    "model_id": 3260,
+    "marka_id": 44
+  },
+  {
+    "original": "TRAFIC II Minibüs/Otobüs (JL)",
+    "normalized": "TRAFIC II BUS JL",
+    "model_id": 3295,
+    "marka_id": 46
+  },
+  {
+    "original": "A310",
+    "normalized": "A310",
+    "model_id": 3828,
+    "marka_id": 111
+  },
+  {
+    "original": "130 (130_)",
+    "normalized": "130 130",
+    "model_id": 3829,
+    "marka_id": 34
+  },
+  {
+    "original": "130 Coupe (130_)",
+    "normalized": "130 COUPE 130",
+    "model_id": 3830,
+    "marka_id": 34
+  },
+  {
+    "original": "ESPRIT S2",
+    "normalized": "ESPRIT S2",
+    "model_id": 3831,
+    "marka_id": 93
+  },
+  {
+    "original": "ESPRIT S4 (082)",
+    "normalized": "ESPRIT S4 082",
+    "model_id": 3832,
+    "marka_id": 93
+  },
+  {
+    "original": "12 (117_)",
+    "normalized": "12 117",
+    "model_id": 540,
+    "marka_id": 46
+  },
+  {
+    "original": "12 Variable (117_, 133_) | VIRAGE",
+    "normalized": "12 VARIABLE 117 133 VIRAGE",
+    "model_id": 3833,
+    "marka_id": 46
+  },
+  {
+    "original": "17",
+    "normalized": "17",
+    "model_id": 542,
+    "marka_id": 46
+  },
+  {
+    "original": "MATRA BAGHEERA",
+    "normalized": "MATRA BAGHEERA",
+    "model_id": 3834,
+    "marka_id": 110
+  },
+  {
+    "original": "206+ (2L_, 2M_)",
+    "normalized": "206+ 2L 2M",
+    "model_id": 2554,
+    "marka_id": 45
+  },
+  {
+    "original": "Z4 Roadster (E89)",
+    "normalized": "Z4 ROADSTER E89",
+    "model_id": 2256,
+    "marka_id": 33
+  },
+  {
+    "original": "407 SW (6E_, 6D_)",
+    "normalized": "407 SW 6E 6D",
+    "model_id": 3231,
+    "marka_id": 45
+  },
+  {
+    "original": "607 (9D, 9U)",
+    "normalized": "607 9D 9U",
+    "model_id": 3212,
+    "marka_id": 45
+  },
+  {
+    "original": "S-TYPE II (X200)",
+    "normalized": "S TYPE II X200",
+    "model_id": 3836,
+    "marka_id": 78
+  },
+  {
+    "original": "XF I (X250)",
+    "normalized": "XF I X250",
+    "model_id": 2587,
+    "marka_id": 78
+  },
+  {
+    "original": "XF SPORTBRAKE (X250)",
+    "normalized": "XF SPORTBRAKE X250",
+    "model_id": 2588,
+    "marka_id": 78
+  },
+  {
+    "original": "XJ (X350, X358)",
+    "normalized": "XJ X350 X358",
+    "model_id": 3837,
+    "marka_id": 78
+  },
+  {
+    "original": "XJ (X351)",
+    "normalized": "XJ X351",
+    "model_id": 2589,
+    "marka_id": 78
+  },
+  {
+    "original": "XK II Cabrio (X150)",
+    "normalized": "XK II CABRIO X150",
+    "model_id": 3838,
+    "marka_id": 78
+  },
+  {
+    "original": "GT Cabrio (M07)",
+    "normalized": "GT CABRIO M07",
+    "model_id": 3839,
+    "marka_id": 44
+  },
+  {
+    "original": "3008 I MPV (0U_)",
+    "normalized": "3008 I MPV 0U",
+    "model_id": 3448,
+    "marka_id": 45
+  },
+  {
+    "original": "5008 (0U_, 0E_)",
+    "normalized": "5008 0U 0E",
+    "model_id": 3149,
+    "marka_id": 45
+  },
+  {
+    "original": "508 I (8D_)",
+    "normalized": "508 I 8D",
+    "model_id": 3151,
+    "marka_id": 45
+  },
+  {
+    "original": "508 SW I (8E_)",
+    "normalized": "508 SW I 8E",
+    "model_id": 3153,
+    "marka_id": 45
+  },
+  {
+    "original": "9-3X (YS3)",
+    "normalized": "9 3X YS3",
+    "model_id": 1649,
+    "marka_id": 79
+  },
+  {
+    "original": "CROMA (194_)",
+    "normalized": "CROMA 194",
+    "model_id": 3304,
+    "marka_id": 34
+  },
+  {
+    "original": "TOUAREG (7LA, 7L6, 7L7)",
+    "normalized": "TOUAREG 7LA 7L6 7L7",
+    "model_id": 1179,
+    "marka_id": 30
+  },
+  {
+    "original": "TOUAREG (7P5, 7P6)",
+    "normalized": "TOUAREG 7P5 7P6",
+    "model_id": 2520,
+    "marka_id": 30
+  },
+  {
+    "original": "GALAXY II (WA6)",
+    "normalized": "GALAXY II WA6",
+    "model_id": 1082,
+    "marka_id": 32
+  },
+  {
+    "original": "MONDEO IV (BA7)",
+    "normalized": "MONDEO IV BA7",
+    "model_id": 3313,
+    "marka_id": 32
+  },
+  {
+    "original": "MONDEO IV Sedan (BA7)",
+    "normalized": "MONDEO IV SEDAN BA7",
+    "model_id": 3314,
+    "marka_id": 32
+  },
+  {
+    "original": "MONDEO IV Turnier (BA7)",
+    "normalized": "MONDEO IV TURNIER BA7",
+    "model_id": 1826,
+    "marka_id": 32
+  },
+  {
+    "original": "S-MAX (WA6)",
+    "normalized": "S MAX WA6",
+    "model_id": 3316,
+    "marka_id": 32
+  },
+  {
+    "original": "S-MAX VAN (WA6)",
+    "normalized": "S MAX VAN WA6",
+    "model_id": 1318,
+    "marka_id": 32
+  },
+  {
+    "original": "FREELANDER 2 (L359) | LR2",
+    "normalized": "FREELANDER 2 L359 LR2",
+    "model_id": 1591,
+    "marka_id": 59
+  },
+  {
+    "original": "FREELANDER 2 VAN (L359)",
+    "normalized": "FREELANDER 2 VAN L359",
+    "model_id": 2505,
+    "marka_id": 59
+  },
+  {
+    "original": "S60 II (134)",
+    "normalized": "S60 II 134",
+    "model_id": 2271,
+    "marka_id": 77
+  },
+  {
+    "original": "S80 II (124)",
+    "normalized": "S80 II 124",
+    "model_id": 2272,
+    "marka_id": 77
+  },
+  {
+    "original": "V60 I (155)",
+    "normalized": "V60 I 155",
+    "model_id": 1643,
+    "marka_id": 77
+  },
+  {
+    "original": "V70 II (285)",
+    "normalized": "V70 II 285",
+    "model_id": 2515,
+    "marka_id": 77
+  },
+  {
+    "original": "V70 III (135)",
+    "normalized": "V70 III 135",
+    "model_id": 2274,
+    "marka_id": 77
+  },
+  {
+    "original": "XC70 I Cross Country (295) | V70 XC | V70 XC / XC70",
+    "normalized": "XC70 I CROSS COUNTRY 295 V70 XC V70 XC XC70",
+    "model_id": 2516,
+    "marka_id": 77
+  },
+  {
+    "original": "XC70 II (136)",
+    "normalized": "XC70 II 136",
+    "model_id": 2275,
+    "marka_id": 77
+  },
+  {
+    "original": "RANGE ROVER EVOQUE (L538)",
+    "normalized": "RANGE ROVER EVOQUE L538",
+    "model_id": 2592,
+    "marka_id": 59
+  },
+  {
+    "original": "V60 I Cross Country (157)",
+    "normalized": "V60 I CROSS COUNTRY 157",
+    "model_id": 3840,
+    "marka_id": 77
+  },
+  {
+    "original": "XC60 I SUV (156)",
+    "normalized": "XC60 I SUV 156",
+    "model_id": 3841,
+    "marka_id": 77
+  },
+  {
+    "original": "XC70 II VAN (136)",
+    "normalized": "XC70 II VAN 136",
+    "model_id": 1802,
+    "marka_id": 77
+  },
+  {
+    "original": "SPRINTER 4,6-t Panelvan/Van (B906)",
+    "normalized": "SPRINTER 4 6 T PANELVAN VAN B906",
+    "model_id": 3842,
+    "marka_id": 41
+  },
+  {
+    "original": "SPRINTER 4,6-t Platform şasi (B906)",
+    "normalized": "SPRINTER 4 6 T PLATFORM SASI B906",
+    "model_id": 3843,
+    "marka_id": 41
+  },
+  {
+    "original": "SPRINTER 5-t Minibüs/Otobüs (B906)",
+    "normalized": "SPRINTER 5 T BUS B906",
+    "model_id": 3844,
+    "marka_id": 41
+  },
+  {
+    "original": "SPRINTER 5-t Panelvan/Van (B906)",
+    "normalized": "SPRINTER 5 T PANELVAN VAN B906",
+    "model_id": 3845,
+    "marka_id": 41
+  },
+  {
+    "original": "SPRINTER 5-t Platform şasi (B906)",
+    "normalized": "SPRINTER 5 T PLATFORM SASI B906",
+    "model_id": 3846,
+    "marka_id": 41
+  },
+  {
+    "original": "BERLINGO Kasa/büyük limuzin (B9)",
+    "normalized": "BERLINGO KASA BUYUK LIMUZIN B9",
+    "model_id": 3441,
+    "marka_id": 60
+  },
+  {
+    "original": "BERLINGO MULTISPACE (B9)",
+    "normalized": "BERLINGO MULTISPACE B9",
+    "model_id": 3124,
+    "marka_id": 60
+  },
+  {
+    "original": "BERLINGO Platform şasi (B9)",
+    "normalized": "BERLINGO PLATFORM SASI B9",
+    "model_id": 3483,
+    "marka_id": 60
+  },
+  {
+    "original": "C4 GRAND PICASSO I (UA_)",
+    "normalized": "C4 GRAND PICASSO I UA",
+    "model_id": 3442,
+    "marka_id": 60
+  },
+  {
+    "original": "C4 PICASSO I MPV (UD_)",
+    "normalized": "C4 PICASSO I MPV UD",
+    "model_id": 3444,
+    "marka_id": 60
+  },
+  {
+    "original": "5008 I Van (0U_)",
+    "normalized": "5008 I VAN 0U",
+    "model_id": 3849,
+    "marka_id": 45
+  },
+  {
+    "original": "PARTNER Platform şasi",
+    "normalized": "PARTNER PLATFORM SASI",
+    "model_id": 2890,
+    "marka_id": 45
+  },
+  {
+    "original": "PARTNER TEPEE | GRAND RAID",
+    "normalized": "PARTNER TEPEE GRAND RAID",
+    "model_id": 3156,
+    "marka_id": 45
+  },
+  {
+    "original": "500L (351_, 352_)",
+    "normalized": "500L 351 352",
+    "model_id": 2659,
+    "marka_id": 34
+  },
+  {
+    "original": "CORSA D Kasa/eğik arka (S07)",
+    "normalized": "CORSA D HB VAN S07",
+    "model_id": 3686,
+    "marka_id": 44
+  },
+  {
+    "original": "CAPTIVA (C100, C140)",
+    "normalized": "CAPTIVA C100 C140",
+    "model_id": 1053,
+    "marka_id": 52
+  },
+  {
+    "original": "CAPTIVA SPORT",
+    "normalized": "CAPTIVA SPORT",
+    "model_id": 3850,
+    "marka_id": 52
+  },
+  {
+    "original": "CAPTIVA Van (C100)",
+    "normalized": "CAPTIVA VAN C100",
+    "model_id": 3851,
+    "marka_id": 52
+  },
+  {
+    "original": "EQUINOX",
+    "normalized": "EQUINOX",
+    "model_id": 3852,
+    "marka_id": 52
+  },
+  {
+    "original": "ANTARA A (L07)",
+    "normalized": "ANTARA A L07",
+    "model_id": 1585,
+    "marka_id": 44
+  },
+  {
+    "original": "TRANSIT Platform şasi (FM_ _, FN_ _, FF_ _)",
+    "normalized": "TRANSIT PLATFORM SASI FM FN FF",
+    "model_id": 3172,
+    "marka_id": 32
+  },
+  {
+    "original": "AMAROK Platform şasi (S1B, S6B, S7B)",
+    "normalized": "AMAROK PLATFORM SASI S1B S6B S7B",
+    "model_id": 2037,
+    "marka_id": 30
+  },
+  {
+    "original": "6 (E63)",
+    "normalized": "6 E63",
+    "model_id": 1223,
+    "marka_id": 33
+  },
+  {
+    "original": "6 Cabrio (E64)",
+    "normalized": "6 CABRIO E64",
+    "model_id": 3853,
+    "marka_id": 33
+  },
+  {
+    "original": "C-SERISI (W204)",
+    "normalized": "C CLASS W204",
+    "model_id": 1992,
+    "marka_id": 41
+  },
+  {
+    "original": "C-SERISI Coupe (C204)",
+    "normalized": "C CLASS COUPE C204",
+    "model_id": 1993,
+    "marka_id": 41
+  },
+  {
+    "original": "E-SERISI Cabrio (A207)",
+    "normalized": "E CLASS CABRIO A207",
+    "model_id": 3854,
+    "marka_id": 41
+  },
+  {
+    "original": "E-SERISI Coupe (C207)",
+    "normalized": "E CLASS COUPE C207",
+    "model_id": 2268,
+    "marka_id": 41
+  },
+  {
+    "original": "SLC (R172)",
+    "normalized": "SLC R172",
+    "model_id": 2702,
+    "marka_id": 41
+  },
+  {
+    "original": "SLK (R172)",
+    "normalized": "SLK R172",
+    "model_id": 1252,
+    "marka_id": 41
+  },
+  {
+    "original": "GLK-SERISI (X204)",
+    "normalized": "GLK CLASS X204",
+    "model_id": 1885,
+    "marka_id": 41
+  },
+  {
+    "original": "RANGE ROVER III (L322)",
+    "normalized": "RANGE ROVER III L322",
+    "model_id": 2412,
+    "marka_id": 59
+  },
+  {
+    "original": "RANGE ROVER SPORT I (L320)",
+    "normalized": "RANGE ROVER SPORT I L320",
+    "model_id": 3855,
+    "marka_id": 59
+  },
+  {
+    "original": "DAILY III Minibüs/Otobüs | DAILY SCUDATO",
+    "normalized": "DAILY III BUS DAILY SCUDATO",
+    "model_id": 2694,
+    "marka_id": 53
+  },
+  {
+    "original": "DAILY III Panelvan/Van",
+    "normalized": "DAILY III PANELVAN VAN",
+    "model_id": 2693,
+    "marka_id": 53
+  },
+  {
+    "original": "DAILY IV Minibüs/Otobüs",
+    "normalized": "DAILY IV BUS",
+    "model_id": 2695,
+    "marka_id": 53
+  },
+  {
+    "original": "DAILY IV Panelvan/Van",
+    "normalized": "DAILY IV PANELVAN VAN",
+    "model_id": 2697,
+    "marka_id": 53
+  },
+  {
+    "original": "DAILY IV Platform şasi",
+    "normalized": "DAILY IV PLATFORM SASI",
+    "model_id": 1814,
+    "marka_id": 53
+  },
+  {
+    "original": "DAILY V Panelvan/Van",
+    "normalized": "DAILY V PANELVAN VAN",
+    "model_id": 2699,
+    "marka_id": 53
+  },
+  {
+    "original": "DAILY V Platform şasi",
+    "normalized": "DAILY V PLATFORM SASI",
+    "model_id": 1817,
+    "marka_id": 53
+  },
+  {
+    "original": "DAILY VI Minibüs/Otobüs | CITY",
+    "normalized": "DAILY VI BUS CITY",
+    "model_id": 1818,
+    "marka_id": 53
+  },
+  {
+    "original": "DAILY VI Panelvan/Van",
+    "normalized": "DAILY VI PANELVAN VAN",
+    "model_id": 2701,
+    "marka_id": 53
+  },
+  {
+    "original": "DAILY VI Platform şasi",
+    "normalized": "DAILY VI PLATFORM SASI",
+    "model_id": 2700,
+    "marka_id": 53
+  },
+  {
+    "original": "TIGUAN (5N_) | TIGUAN/TIGUAN LIMITED",
+    "normalized": "TIGUAN 5N TIGUAN TIGUAN LIMITED",
+    "model_id": 1122,
+    "marka_id": 30
+  },
+  {
+    "original": "A4 Allroad B8 (8KH)",
+    "normalized": "A4 ALLROAD B8 8KH",
+    "model_id": 1982,
+    "marka_id": 66
+  },
+  {
+    "original": "A4 B8 (8K2) | A4 / S4",
+    "normalized": "A4 B8 8K2 A4 S4",
+    "model_id": 1972,
+    "marka_id": 66
+  },
+  {
+    "original": "A4 B8 Avant (8K5) | A4 / S4",
+    "normalized": "A4 B8 AVANT 8K5 A4 S4",
+    "model_id": 1983,
+    "marka_id": 66
+  },
+  {
+    "original": "A5 (8T3) | A5 / S5",
+    "normalized": "A5 8T3 A5 S5",
+    "model_id": 1984,
+    "marka_id": 66
+  },
+  {
+    "original": "A5 Cabrio (8F7) | A5 / S5",
+    "normalized": "A5 CABRIO 8F7 A5 S5",
+    "model_id": 1985,
+    "marka_id": 66
+  },
+  {
+    "original": "A5 Sportback (8TA) | A5 / S5",
+    "normalized": "A5 SPORTBACK 8TA A5 S5",
+    "model_id": 1986,
+    "marka_id": 66
+  },
+  {
+    "original": "A6 Allroad C7 (4GH, 4GJ)",
+    "normalized": "A6 ALLROAD C7 4GH 4GJ",
+    "model_id": 1989,
+    "marka_id": 66
+  },
+  {
+    "original": "A6 C7 (4G2, 4GC) | A6 / S6",
+    "normalized": "A6 C7 4G2 4GC A6 S6",
+    "model_id": 1988,
+    "marka_id": 66
+  },
+  {
+    "original": "A6 C7 Avant (4G5, 4GD) | A6 / S6",
+    "normalized": "A6 C7 AVANT 4G5 4GD A6 S6",
+    "model_id": 1990,
+    "marka_id": 66
+  },
+  {
+    "original": "A7 Sportback (4GA, 4GF) | A7 / S7",
+    "normalized": "A7 SPORTBACK 4GA 4GF A7 S7",
+    "model_id": 1991,
+    "marka_id": 66
+  },
+  {
+    "original": "Q8 (4MN, 4MT)",
+    "normalized": "Q8 4MN 4MT",
+    "model_id": 3856,
+    "marka_id": 66
+  },
+  {
+    "original": "CAYENNE (92A)",
+    "normalized": "CAYENNE 92A",
+    "model_id": 1631,
+    "marka_id": 80
+  },
+  {
+    "original": "CAYENNE (9PA)",
+    "normalized": "CAYENNE 9PA",
+    "model_id": 2561,
+    "marka_id": 80
+  },
+  {
+    "original": "CAYENNE (9YA)",
+    "normalized": "CAYENNE 9YA",
+    "model_id": 2402,
+    "marka_id": 80
+  },
+  {
+    "original": "CAYENNE Coupe (9YB)",
+    "normalized": "CAYENNE COUPE 9YB",
+    "model_id": 3857,
+    "marka_id": 80
+  },
+  {
+    "original": "MACAN (95B)",
+    "normalized": "MACAN 95B",
+    "model_id": 2432,
+    "marka_id": 80
+  },
+  {
+    "original": "PANAMERA (970)",
+    "normalized": "PANAMERA 970",
+    "model_id": 3858,
+    "marka_id": 80
+  },
+  {
+    "original": "PANAMERA (971)",
+    "normalized": "PANAMERA 971",
+    "model_id": 2768,
+    "marka_id": 80
+  },
+  {
+    "original": "PANAMERA Sport Turismo (971)",
+    "normalized": "PANAMERA SPORT TURISMO 971",
+    "model_id": 2769,
+    "marka_id": 80
+  },
+  {
+    "original": "TAYCAN (Y1A)",
+    "normalized": "TAYCAN Y1A",
+    "model_id": 3859,
+    "marka_id": 80
+  },
+  {
+    "original": "CAMARO",
+    "normalized": "CAMARO",
+    "model_id": 3860,
+    "marka_id": 52
+  },
+  {
+    "original": "CAMARO Cabrio",
+    "normalized": "CAMARO CABRIO",
+    "model_id": 3861,
+    "marka_id": 52
+  },
+  {
+    "original": "NV250 Minibüs/Otobüs (X61)",
+    "normalized": "NV250 BUS X61",
+    "model_id": 3506,
+    "marka_id": 43
+  },
+  {
+    "original": "CAPTUR I (J5_, H5_)",
+    "normalized": "CAPTUR I J5 H5",
+    "model_id": 3463,
+    "marka_id": 46
+  },
+  {
+    "original": "500C / 595C / 695C",
+    "normalized": "500C 595C 695C",
+    "model_id": 2979,
+    "marka_id": 90
+  },
+  {
+    "original": "D3 (E90)",
+    "normalized": "D3 E90",
+    "model_id": 3862,
+    "marka_id": 113
+  },
+  {
+    "original": "D3 Coupe (E92)",
+    "normalized": "D3 COUPE E92",
+    "model_id": 3863,
+    "marka_id": 113
+  },
+  {
+    "original": "D3 Station wagon (E91)",
+    "normalized": "D3 STATION WAGON E91",
+    "model_id": 3864,
+    "marka_id": 113
+  },
+  {
+    "original": "5 (F10)",
+    "normalized": "5 F10",
+    "model_id": 1962,
+    "marka_id": 33
+  },
+  {
+    "original": "5 (G30, F90)",
+    "normalized": "5 G30 F90",
+    "model_id": 2741,
+    "marka_id": 33
+  },
+  {
+    "original": "5 Touring (F11)",
+    "normalized": "5 TOURING F11",
+    "model_id": 1961,
+    "marka_id": 33
+  },
+  {
+    "original": "5 Touring (G31)",
+    "normalized": "5 TOURING G31",
+    "model_id": 2685,
+    "marka_id": 33
+  },
+  {
+    "original": "6 Gran Turismo (G32)",
+    "normalized": "6 GRAN TURISMO G32",
+    "model_id": 2743,
+    "marka_id": 33
+  },
+  {
+    "original": "7 (G11, G12)",
+    "normalized": "7 G11 G12",
+    "model_id": 2744,
+    "marka_id": 33
+  },
+  {
+    "original": "i8 (I12)",
+    "normalized": "I8 I12",
+    "model_id": 3865,
+    "marka_id": 33
+  },
+  {
+    "original": "i8 Roadster (I15)",
+    "normalized": "I8 ROADSTER I15",
+    "model_id": 3866,
+    "marka_id": 33
+  },
+  {
+    "original": "X3 (F25)",
+    "normalized": "X3 F25",
+    "model_id": 2420,
+    "marka_id": 33
+  },
+  {
+    "original": "X3 (G01, F97, G08)",
+    "normalized": "X3 G01 F97 G08",
+    "model_id": 2686,
+    "marka_id": 33
+  },
+  {
+    "original": "X4 (F26)",
+    "normalized": "X4 F26",
+    "model_id": 2421,
+    "marka_id": 33
+  },
+  {
+    "original": "X4 (G02, F98)",
+    "normalized": "X4 G02 F98",
+    "model_id": 2687,
+    "marka_id": 33
+  },
+  {
+    "original": "X5 (G05, F95)",
+    "normalized": "X5 G05 F95",
+    "model_id": 2747,
+    "marka_id": 33
+  },
+  {
+    "original": "X6 (G06, F96)",
+    "normalized": "X6 G06 F96",
+    "model_id": 3867,
+    "marka_id": 33
+  },
+  {
+    "original": "AVEO Hatchback (T300) | SONIC",
+    "normalized": "AVEO HATCHBACK T300 SONIC",
+    "model_id": 3869,
+    "marka_id": 52
+  },
+  {
+    "original": "AVEO Sedan (T300) | SONIC",
+    "normalized": "AVEO SEDAN T300 SONIC",
+    "model_id": 3870,
+    "marka_id": 52
+  },
+  {
+    "original": "CRUZE (J300)",
+    "normalized": "CRUZE J300",
+    "model_id": 1192,
+    "marka_id": 52
+  },
+  {
+    "original": "CRUZE Hatchback (J305)",
+    "normalized": "CRUZE HATCHBACK J305",
+    "model_id": 1193,
+    "marka_id": 52
+  },
+  {
+    "original": "CRUZE Station Wagon (J308)",
+    "normalized": "CRUZE STATION WAGON J308",
+    "model_id": 2033,
+    "marka_id": 52
+  },
+  {
+    "original": "ASTRA J (P10)",
+    "normalized": "ASTRA J P10",
+    "model_id": 2028,
+    "marka_id": 44
+  },
+  {
+    "original": "ASTRA J GTC",
+    "normalized": "ASTRA J GTC",
+    "model_id": 2029,
+    "marka_id": 44
+  },
+  {
+    "original": "ASTRA J Sedan",
+    "normalized": "ASTRA J SEDAN",
+    "model_id": 2030,
+    "marka_id": 44
+  },
+  {
+    "original": "ASTRA J Sports Tourer (P10)",
+    "normalized": "ASTRA J SPORTS STATION P10",
+    "model_id": 2308,
+    "marka_id": 44
+  },
+  {
+    "original": "ORLANDO (J309)",
+    "normalized": "ORLANDO J309",
+    "model_id": 2034,
+    "marka_id": 52
+  },
+  {
+    "original": "TRAX | TRACKER",
+    "normalized": "TRAX TRACKER",
+    "model_id": 1772,
+    "marka_id": 52
+  },
+  {
+    "original": "VOLT",
+    "normalized": "VOLT",
+    "model_id": 2035,
+    "marka_id": 52
+  },
+  {
+    "original": "AMPERA (R12)",
+    "normalized": "AMPERA R12",
+    "model_id": 2027,
+    "marka_id": 44
+  },
+  {
+    "original": "CASCADA (W13)",
+    "normalized": "CASCADA W13",
+    "model_id": 2309,
+    "marka_id": 44
+  },
+  {
+    "original": "MOKKA / MOKKA X (J13)",
+    "normalized": "MOKKA MOKKA X J13",
+    "model_id": 3871,
+    "marka_id": 44
+  },
+  {
+    "original": "ZAFIRA TOURER C (P12)",
+    "normalized": "ZAFIRA STATION C P12",
+    "model_id": 2310,
+    "marka_id": 44
+  },
+  {
+    "original": "ZAFIRA Mk III (P12)",
+    "normalized": "ZAFIRA MK III P12",
+    "model_id": 3872,
+    "marka_id": 88
+  },
+  {
+    "original": "DOBLO Minibüs/Otobüs (263_)",
+    "normalized": "DOBLO BUS 263",
+    "model_id": 2715,
+    "marka_id": 34
+  },
+  {
+    "original": "DUCATO Panorama (290_)",
+    "normalized": "DUCATO PANORAMA 290",
+    "model_id": 3873,
+    "marka_id": 34
+  },
+  {
+    "original": "A8 D4 (4H2, 4H8, 4HC, 4HL) | A8 / S8 | A8L",
+    "normalized": "A8 D4 4H2 4H8 4HC 4HL A8 S8 A8L",
+    "model_id": 3874,
+    "marka_id": 66
+  },
+  {
+    "original": "GIULIETTA (940_)",
+    "normalized": "GIULIETTA 940",
+    "model_id": 2612,
+    "marka_id": 50
+  },
+  {
+    "original": "911 (991)",
+    "normalized": "911 991",
+    "model_id": 3875,
+    "marka_id": 80
+  },
+  {
+    "original": "911 Cabrio (991)",
+    "normalized": "911 CABRIO 991",
+    "model_id": 3876,
+    "marka_id": 80
+  },
+  {
+    "original": "911 Targa tavan (991)",
+    "normalized": "911 TARGA TAVAN 991",
+    "model_id": 3877,
+    "marka_id": 80
+  },
+  {
+    "original": "NV400 Panelvan/Van (X62, X62B)",
+    "normalized": "NV400 PANELVAN VAN X62 X62B",
+    "model_id": 1683,
+    "marka_id": 43
+  },
+  {
+    "original": "NV400 Platform şasi (X62, X62B)",
+    "normalized": "NV400 PLATFORM SASI X62 X62B",
+    "model_id": 1937,
+    "marka_id": 43
+  },
+  {
+    "original": "MOVANO B Panelvan/Van (X62)",
+    "normalized": "MOVANO B PANELVAN VAN X62",
+    "model_id": 1973,
+    "marka_id": 44
+  },
+  {
+    "original": "MOVANO B Platform şasi (X62)",
+    "normalized": "MOVANO B PLATFORM SASI X62",
+    "model_id": 1975,
+    "marka_id": 44
+  },
+  {
+    "original": "MASTER III Panelvan/Van (FV)",
+    "normalized": "MASTER III PANELVAN VAN FV",
+    "model_id": 1976,
+    "marka_id": 46
+  },
+  {
+    "original": "MASTER III Platform şasi (EV, HV, UV)",
+    "normalized": "MASTER III PLATFORM SASI EV HV UV",
+    "model_id": 1977,
+    "marka_id": 46
+  },
+  {
+    "original": "NV400 Minibüs/Otobüs (X62, X62B)",
+    "normalized": "NV400 BUS X62 X62B",
+    "model_id": 1978,
+    "marka_id": 43
+  },
+  {
+    "original": "MOVANO B Minibüs/Otobüs (X62)",
+    "normalized": "MOVANO B BUS X62",
+    "model_id": 1682,
+    "marka_id": 44
+  },
+  {
+    "original": "MASTER III Minibüs/Otobüs (JV)",
+    "normalized": "MASTER III BUS JV",
+    "model_id": 1199,
+    "marka_id": 46
+  },
+  {
+    "original": "GOLF VIII (CD1, DA1)",
+    "normalized": "GOLF VIII CD1 DA1",
+    "model_id": 3061,
+    "marka_id": 30
+  },
+  {
+    "original": "PASSAT ALLTRACK B8 Variant (3G5, CB5)",
+    "normalized": "PASSAT ALLTRACK B8 VARIANT 3G5 CB5",
+    "model_id": 3878,
+    "marka_id": 30
+  },
+  {
+    "original": "1 (F20)",
+    "normalized": "1 F20",
+    "model_id": 2257,
+    "marka_id": 33
+  },
+  {
+    "original": "1 (F21)",
+    "normalized": "1 F21",
+    "model_id": 2258,
+    "marka_id": 33
+  },
+  {
+    "original": "2 Cabrio (F23)",
+    "normalized": "2 CABRIO F23",
+    "model_id": 1868,
+    "marka_id": 33
+  },
+  {
+    "original": "2 Coupe (F22, F87)",
+    "normalized": "2 COUPE F22 F87",
+    "model_id": 2243,
+    "marka_id": 33
+  },
+  {
+    "original": "3 (F30, F80)",
+    "normalized": "3 F30 F80",
+    "model_id": 2259,
+    "marka_id": 33
+  },
+  {
+    "original": "3 Gran Turismo (F34)",
+    "normalized": "3 GRAN TURISMO F34",
+    "model_id": 2261,
+    "marka_id": 33
+  },
+  {
+    "original": "3 Touring (F31)",
+    "normalized": "3 TOURING F31",
+    "model_id": 2262,
+    "marka_id": 33
+  },
+  {
+    "original": "4 Cabrio (F33, F83)",
+    "normalized": "4 CABRIO F33 F83",
+    "model_id": 2263,
+    "marka_id": 33
+  },
+  {
+    "original": "4 Coupe (F32, F82)",
+    "normalized": "4 COUPE F32 F82",
+    "model_id": 2265,
+    "marka_id": 33
+  },
+  {
+    "original": "4 Gran Coupe (F36)",
+    "normalized": "4 GRAN COUPE F36",
+    "model_id": 2422,
+    "marka_id": 33
+  },
+  {
+    "original": "A-SERISI (W176)",
+    "normalized": "A CLASS W176",
+    "model_id": 2279,
+    "marka_id": 41
+  },
+  {
+    "original": "B-SERISI Sports Tourer (W246, W242)",
+    "normalized": "B CLASS SPORTS STATION W246 W242",
+    "model_id": 707,
+    "marka_id": 41
+  },
+  {
+    "original": "CLA Coupe (C117)",
+    "normalized": "CLA COUPE C117",
+    "model_id": 2281,
+    "marka_id": 41
+  },
+  {
+    "original": "CLA Shooting Brake (X117)",
+    "normalized": "CLA SHOOTING BRAKE X117",
+    "model_id": 2523,
+    "marka_id": 41
+  },
+  {
+    "original": "GLA-SERISI (X156)",
+    "normalized": "GLA CLASS X156",
+    "model_id": 2283,
+    "marka_id": 41
+  },
+  {
+    "original": "Q30",
+    "normalized": "Q30",
+    "model_id": 3497,
+    "marka_id": 62
+  },
+  {
+    "original": "GL-SERISI (X166)",
+    "normalized": "GL CLASS X166",
+    "model_id": 3879,
+    "marka_id": 41
+  },
+  {
+    "original": "GLE (W166)",
+    "normalized": "GLE W166",
+    "model_id": 3880,
+    "marka_id": 41
+  },
+  {
+    "original": "GLE Coupe (C292)",
+    "normalized": "GLE COUPE C292",
+    "model_id": 3881,
+    "marka_id": 41
+  },
+  {
+    "original": "GLS (X166)",
+    "normalized": "GLS X166",
+    "model_id": 3882,
+    "marka_id": 41
+  },
+  {
+    "original": "M-SERISI (W166)",
+    "normalized": "M CLASS W166",
+    "model_id": 3883,
+    "marka_id": 41
+  },
+  {
+    "original": "A3 Limousine (8YS, 8YM) | A3 / S3",
+    "normalized": "A3 LIMUZIN 8YS 8YM A3 S3",
+    "model_id": 3022,
+    "marka_id": 66
+  },
+  {
+    "original": "A3 Sportback (8YA, 8YF) | A3 / S3",
+    "normalized": "A3 SPORTBACK 8YA 8YF A3 S3",
+    "model_id": 3023,
+    "marka_id": 66
+  },
+  {
+    "original": "FORMENTOR (KM7, KMP) | CUPRA",
+    "normalized": "FORMENTOR KM7 KMP CUPRA",
+    "model_id": 3884,
+    "marka_id": 116
+  },
+  {
+    "original": "LEON (KL1, KU1, KUG)",
+    "normalized": "LEON KL1 KU1 KUG",
+    "model_id": 3885,
+    "marka_id": 116
+  },
+  {
+    "original": "LEON Sportstourer (KL8, KU8, KUD)",
+    "normalized": "LEON SPORTSTOURER KL8 KU8 KUD",
+    "model_id": 3886,
+    "marka_id": 116
+  },
+  {
+    "original": "LEON (KL1, KLG)",
+    "normalized": "LEON KL1 KLG",
+    "model_id": 3887,
+    "marka_id": 76
+  },
+  {
+    "original": "LEON Sportstourer (KL8, KLD)",
+    "normalized": "LEON SPORTSTOURER KL8 KLD",
+    "model_id": 3888,
+    "marka_id": 76
+  },
+  {
+    "original": "TERRA (24)",
+    "normalized": "TERRA 24",
+    "model_id": 1448,
+    "marka_id": 76
+  },
+  {
+    "original": "KAROQ (NU7, ND7)",
+    "normalized": "KAROQ NU7 ND7",
+    "model_id": 2598,
+    "marka_id": 48
+  },
+  {
+    "original": "KODIAQ I (NS6, NS7, NV7)",
+    "normalized": "KODIAQ I NS6 NS7 NV7",
+    "model_id": 3890,
+    "marka_id": 48
+  },
+  {
+    "original": "OCTAVIA IV (NX3, NN3, PV3)",
+    "normalized": "OCTAVIA IV NX3 NN3 PV3",
+    "model_id": 3042,
+    "marka_id": 48
+  },
+  {
+    "original": "OCTAVIA IV Combi (NX5, PV5)",
+    "normalized": "OCTAVIA IV KOMBI NX5 PV5",
+    "model_id": 3043,
+    "marka_id": 48
+  },
+  {
+    "original": "CADDY ALLTRACK IV Kasa/büyük limuzin (SAA)",
+    "normalized": "CADDY ALLTRACK IV KASA BUYUK LIMUZIN SAA",
+    "model_id": 3050,
+    "marka_id": 30
+  },
+  {
+    "original": "CADDY ALLTRACK IV MPV (SAB)",
+    "normalized": "CADDY ALLTRACK IV MPV SAB",
+    "model_id": 3051,
+    "marka_id": 30
+  },
+  {
+    "original": "CADDY V Kasa/büyük limuzin (SBA, SBH)",
+    "normalized": "CADDY V KASA BUYUK LIMUZIN SBA SBH",
+    "model_id": 1850,
+    "marka_id": 30
+  },
+  {
+    "original": "GOLF ALLTRACK VIII (CG5)",
+    "normalized": "GOLF ALLTRACK VIII CG5",
+    "model_id": 3059,
+    "marka_id": 30
+  },
+  {
+    "original": "GOLF VIII Variant (CG5, DB5)",
+    "normalized": "GOLF VIII VARIANT CG5 DB5",
+    "model_id": 3384,
+    "marka_id": 30
+  },
+  {
+    "original": "T-ROC (A11, D11)",
+    "normalized": "T ROC A11 D11",
+    "model_id": 2599,
+    "marka_id": 30
+  },
+  {
+    "original": "T-ROC Cabrio (AC7, AC8)",
+    "normalized": "T ROC CABRIO AC7 AC8",
+    "model_id": 3891,
+    "marka_id": 30
+  },
+  {
+    "original": "TOURAN (5T1) | GOLF TOURAN",
+    "normalized": "TOURAN 5T1 GOLF TOURAN",
+    "model_id": 2223,
+    "marka_id": 30
+  },
+  {
+    "original": "TOURAN VAN (5T1)",
+    "normalized": "TOURAN VAN 5T1",
+    "model_id": 3892,
+    "marka_id": 30
+  },
+  {
+    "original": "UP! (121, 122, BL1, BL2, BL3, 123)",
+    "normalized": "UP! 121 122 BL1 BL2 BL3 123",
+    "model_id": 3893,
+    "marka_id": 30
+  },
+  {
+    "original": "B-MAX (JK)",
+    "normalized": "B MAX JK",
+    "model_id": 2205,
+    "marka_id": 32
+  },
+  {
+    "original": "B-MAX Van (JK)",
+    "normalized": "B MAX VAN JK",
+    "model_id": 2206,
+    "marka_id": 32
+  },
+  {
+    "original": "TOURNEO COURIER B460 MPV",
+    "normalized": "TOURNEO COURIER B460 MPV",
+    "model_id": 2208,
+    "marka_id": 32
+  },
+  {
+    "original": "TRANSIT COURIER B460 Kasa/büyük limuzin",
+    "normalized": "TRANSIT COURIER B460 KASA BUYUK LIMUZIN",
+    "model_id": 3894,
+    "marka_id": 32
+  },
+  {
+    "original": "TRANSIT COURIER B460 MPV",
+    "normalized": "TRANSIT COURIER B460 MPV",
+    "model_id": 1280,
+    "marka_id": 32
+  },
+  {
+    "original": "C-ELYSEE (DD_)",
+    "normalized": "C ELYSEE DD",
+    "model_id": 3484,
+    "marka_id": 60
+  },
+  {
+    "original": "C4 CACTUS",
+    "normalized": "C4 CACTUS",
+    "model_id": 1547,
+    "marka_id": 60
+  },
+  {
+    "original": "C4 CACTUS Van (0B_, 0P_)",
+    "normalized": "C4 CACTUS VAN 0B 0P",
+    "model_id": 3895,
+    "marka_id": 60
+  },
+  {
+    "original": "301",
+    "normalized": "301",
+    "model_id": 1282,
+    "marka_id": 45
+  },
+  {
+    "original": "308 II (LB_, LP_, LW_, LH_, L3_)",
+    "normalized": "308 II LB LP LW LH L3",
+    "model_id": 3145,
+    "marka_id": 45
+  },
+  {
+    "original": "308 SW II (LC_, LJ_, LR_, LX_, L4_)",
+    "normalized": "308 SW II LC LJ LR LX L4",
+    "model_id": 3148,
+    "marka_id": 45
+  },
+  {
+    "original": "TWINGO III (BCM_, BCA_)",
+    "normalized": "TWINGO III BCM BCA",
+    "model_id": 1340,
+    "marka_id": 46
+  },
+  {
+    "original": "FORFOUR Hatchback (453)",
+    "normalized": "FORFOUR HATCHBACK 453",
+    "model_id": 2708,
+    "marka_id": 83
+  },
+  {
+    "original": "FORTWO Cabrio (453)",
+    "normalized": "FORTWO CABRIO 453",
+    "model_id": 3896,
+    "marka_id": 83
+  },
+  {
+    "original": "FORTWO Coupe (453)",
+    "normalized": "FORTWO COUPE 453",
+    "model_id": 2710,
+    "marka_id": 83
+  },
+  {
+    "original": "DISCOVERY V (L462)",
+    "normalized": "DISCOVERY V L462",
+    "model_id": 2502,
+    "marka_id": 59
+  },
+  {
+    "original": "DISCOVERY V VAN (L462)",
+    "normalized": "DISCOVERY V VAN L462",
+    "model_id": 3897,
+    "marka_id": 59
+  },
+  {
+    "original": "RANGE ROVER IV (L405)",
+    "normalized": "RANGE ROVER IV L405",
+    "model_id": 2503,
+    "marka_id": 59
+  },
+  {
+    "original": "RANGE ROVER SPORT II (L494)",
+    "normalized": "RANGE ROVER SPORT II L494",
+    "model_id": 2504,
+    "marka_id": 59
+  },
+  {
+    "original": "C4 GRAND PICASSO II (DA_, DE_)",
+    "normalized": "C4 GRAND PICASSO II DA DE",
+    "model_id": 3443,
+    "marka_id": 60
+  },
+  {
+    "original": "C4 PICASSO II",
+    "normalized": "C4 PICASSO II",
+    "model_id": 2070,
+    "marka_id": 60
+  },
+  {
+    "original": "C4 SPACETOURER Van (3D_)",
+    "normalized": "C4 SPACETOURER VAN 3D",
+    "model_id": 990,
+    "marka_id": 60
+  },
+  {
+    "original": "C5 AIRCROSS (A_)",
+    "normalized": "C5 AIRCROSS A",
+    "model_id": 3445,
+    "marka_id": 60
+  },
+  {
+    "original": "C5 X (ND_, NC_)",
+    "normalized": "C5 X ND NC",
+    "model_id": 3130,
+    "marka_id": 60
+  },
+  {
+    "original": "GRAND C4 SPACETOURER (3A_, 3E_)",
+    "normalized": "GRAND C4 SPACETOURER 3A 3E",
+    "model_id": 3161,
+    "marka_id": 60
+  },
+  {
+    "original": "DS 4 II (FR_, FB_, F3_)",
+    "normalized": "DS 4 II FR FB F3",
+    "model_id": 3132,
+    "marka_id": 94
+  },
+  {
+    "original": "DS 7 Crossback (J4_, JR_, JC_) | DS7",
+    "normalized": "DS 7 CROSSBACK J4 JR JC DS7",
+    "model_id": 3134,
+    "marka_id": 94
+  },
+  {
+    "original": "DS 9 (X2_)",
+    "normalized": "DS 9 X2",
+    "model_id": 3135,
+    "marka_id": 94
+  },
+  {
+    "original": "ASTRA L (OV5)",
+    "normalized": "ASTRA L OV5",
+    "model_id": 1757,
+    "marka_id": 44
+  },
+  {
+    "original": "GRANDLAND / GRANDLAND X (A18, P1UO)",
+    "normalized": "GRANDLAND GRANDLAND X A18 P1UO",
+    "model_id": 494,
+    "marka_id": 44
+  },
+  {
+    "original": "3008 II SUV (MC_, MR_, MJ_, M4_)",
+    "normalized": "3008 II SUV MC MR MJ M4",
+    "model_id": 3449,
+    "marka_id": 45
+  },
+  {
+    "original": "3008 Van (MR_, MC_, MJ_)",
+    "normalized": "3008 VAN MR MC MJ",
+    "model_id": 794,
+    "marka_id": 45
+  },
+  {
+    "original": "308 III (FB_, FH_, FP_, F3_, FM_)",
+    "normalized": "308 III FB FH FP F3 FM",
+    "model_id": 3146,
+    "marka_id": 45
+  },
+  {
+    "original": "308 SW III (FC_, FJ_, FR_, F4_, FN_)",
+    "normalized": "308 SW III FC FJ FR F4 FN",
+    "model_id": 1869,
+    "marka_id": 45
+  },
+  {
+    "original": "5008 II (MC_, MJ_, MR_, M4_)",
+    "normalized": "5008 II MC MJ MR M4",
+    "model_id": 3150,
+    "marka_id": 45
+  },
+  {
+    "original": "508 II (FB_, FH_, F3_)",
+    "normalized": "508 II FB FH F3",
+    "model_id": 3152,
+    "marka_id": 45
+  },
+  {
+    "original": "508 SW II (FC_, FJ_, F4_)",
+    "normalized": "508 SW II FC FJ F4",
+    "model_id": 3154,
+    "marka_id": 45
+  },
+  {
+    "original": "C4 SPACETOURER (3D_)",
+    "normalized": "C4 SPACETOURER 3D",
+    "model_id": 3158,
+    "marka_id": 60
+  },
+  {
+    "original": "PANDA (312_, 319_)",
+    "normalized": "PANDA 312 319",
+    "model_id": 3898,
+    "marka_id": 34
+  },
+  {
+    "original": "BERLINGO (ER_, EC_)",
+    "normalized": "BERLINGO ER EC",
+    "model_id": 3582,
+    "marka_id": 60
+  },
+  {
+    "original": "C4 X (BD_, BE_, BF_)",
+    "normalized": "C4 X BD BE BF",
+    "model_id": 3352,
+    "marka_id": 60
+  },
+  {
+    "original": "CORSA F (P2JO)",
+    "normalized": "CORSA F P2JO",
+    "model_id": 3354,
+    "marka_id": 44
+  },
+  {
+    "original": "MOKKA",
+    "normalized": "MOKKA",
+    "model_id": 1771,
+    "marka_id": 44
+  },
+  {
+    "original": "2008 II (UD_, US_, UY_, UJ_, UR_, UC_)",
+    "normalized": "2008 II UD US UY UJ UR UC",
+    "model_id": 3356,
+    "marka_id": 45
+  },
+  {
+    "original": "208 II (UB_, UP_, UW_, UJ_)",
+    "normalized": "208 II UB UP UW UJ",
+    "model_id": 3357,
+    "marka_id": 45
+  },
+  {
+    "original": "MINI (F55) | MINI / COOPER",
+    "normalized": "MINI F55 MINI COOPER",
+    "model_id": 3473,
+    "marka_id": 81
+  },
+  {
+    "original": "MINI (F56) | MINI / COOPER",
+    "normalized": "MINI F56 MINI COOPER",
+    "model_id": 3474,
+    "marka_id": 81
+  },
+  {
+    "original": "MINI Cabrio (F57) | MINI / COOPER",
+    "normalized": "MINI CABRIO F57 MINI COOPER",
+    "model_id": 3475,
+    "marka_id": 81
+  },
+  {
+    "original": "A4 Allroad B9 (8WH, 8WJ)",
+    "normalized": "A4 ALLROAD B9 8WH 8WJ",
+    "model_id": 2314,
+    "marka_id": 66
+  },
+  {
+    "original": "A4 B9 (8W2, 8WC) | A4 / S4",
+    "normalized": "A4 B9 8W2 8WC A4 S4",
+    "model_id": 3342,
+    "marka_id": 66
+  },
+  {
+    "original": "A4 B9 Avant (8W5, 8WD) | A4 / S4",
+    "normalized": "A4 B9 AVANT 8W5 8WD A4 S4",
+    "model_id": 3343,
+    "marka_id": 66
+  },
+  {
+    "original": "A5 (F53, F5P) | A5 / S5",
+    "normalized": "A5 F53 F5P A5 S5",
+    "model_id": 2316,
+    "marka_id": 66
+  },
+  {
+    "original": "A5 Cabrio (F57, F5E) | A5 / S5",
+    "normalized": "A5 CABRIO F57 F5E A5 S5",
+    "model_id": 2317,
+    "marka_id": 66
+  },
+  {
+    "original": "A5 Sportback (F5A, F5F) | A5 / S5",
+    "normalized": "A5 SPORTBACK F5A F5F A5 S5",
+    "model_id": 2318,
+    "marka_id": 66
+  },
+  {
+    "original": "A6 Allroad C8 (4AH)",
+    "normalized": "A6 ALLROAD C8 4AH",
+    "model_id": 3899,
+    "marka_id": 66
+  },
+  {
+    "original": "A6 C8 Avant (4A5) | A6 / S6",
+    "normalized": "A6 C8 AVANT 4A5 A6 S6",
+    "model_id": 2429,
+    "marka_id": 66
+  },
+  {
+    "original": "A7 Sportback (4KA) | A7 / S7",
+    "normalized": "A7 SPORTBACK 4KA A7 S7",
+    "model_id": 2434,
+    "marka_id": 66
+  },
+  {
+    "original": "A8 D5 (4N2, 4N8, 4NC, 4NL) | A8 / S8 | A8L",
+    "normalized": "A8 D5 4N2 4N8 4NC 4NL A8 S8 A8L",
+    "model_id": 3900,
+    "marka_id": 66
+  },
+  {
+    "original": "Q5 Sportback (FYT)",
+    "normalized": "Q5 SPORTBACK FYT",
+    "model_id": 3901,
+    "marka_id": 66
+  },
+  {
+    "original": "Q7 (4MB, 4MG, 4MQ)",
+    "normalized": "Q7 4MB 4MG 4MQ",
+    "model_id": 2436,
+    "marka_id": 66
+  },
+  {
+    "original": "TOUAREG (CR7, RC8)",
+    "normalized": "TOUAREG CR7 RC8",
+    "model_id": 2431,
+    "marka_id": 30
+  },
+  {
+    "original": "POLESTAR 2 (534)",
+    "normalized": "POLESTAR 2 534",
+    "model_id": 3902,
+    "marka_id": 117
+  },
+  {
+    "original": "S60 III (224)",
+    "normalized": "S60 III 224",
+    "model_id": 3387,
+    "marka_id": 77
+  },
+  {
+    "original": "S90 II (234)",
+    "normalized": "S90 II 234",
+    "model_id": 2606,
+    "marka_id": 77
+  },
+  {
+    "original": "V60 II (225)",
+    "normalized": "V60 II 225",
+    "model_id": 2607,
+    "marka_id": 77
+  },
+  {
+    "original": "V90 II Cross Country (236)",
+    "normalized": "V90 II CROSS COUNTRY 236",
+    "model_id": 3389,
+    "marka_id": 77
+  },
+  {
+    "original": "V90 II Station wagon (235)",
+    "normalized": "V90 II STATION WAGON 235",
+    "model_id": 3903,
+    "marka_id": 77
+  },
+  {
+    "original": "XC40 (536)",
+    "normalized": "XC40 536",
+    "model_id": 2343,
+    "marka_id": 77
+  },
+  {
+    "original": "XC60 II (246)",
+    "normalized": "XC60 II 246",
+    "model_id": 2609,
+    "marka_id": 77
+  },
+  {
+    "original": "XC90 II (256)",
+    "normalized": "XC90 II 256",
+    "model_id": 2610,
+    "marka_id": 77
+  },
+  {
+    "original": "CLS (C257)",
+    "normalized": "CLS C257",
+    "model_id": 3904,
+    "marka_id": 41
+  },
+  {
+    "original": "JUMPY III Minibüs/Otobüs (V_) | DISPATCH",
+    "normalized": "JUMPY III BUS V DISPATCH",
+    "model_id": 3906,
+    "marka_id": 60
+  },
+  {
+    "original": "JUMPY III Panelvan/Van (V_) | DISPATCH",
+    "normalized": "JUMPY III PANELVAN VAN V DISPATCH",
+    "model_id": 3907,
+    "marka_id": 60
+  },
+  {
+    "original": "JUMPY III Platform şasi (V_) | DISPATCH",
+    "normalized": "JUMPY III PLATFORM SASI V DISPATCH",
+    "model_id": 3908,
+    "marka_id": 60
+  },
+  {
+    "original": "SPACETOURER Minibüs/Otobüs (V_)",
+    "normalized": "SPACETOURER BUS V",
+    "model_id": 2046,
+    "marka_id": 60
+  },
+  {
+    "original": "EXPERT Minibüs/Otobüs (V_)",
+    "normalized": "EXPERT BUS V",
+    "model_id": 2051,
+    "marka_id": 45
+  },
+  {
+    "original": "EXPERT Panelvan/Van (V_)",
+    "normalized": "EXPERT PANELVAN VAN V",
+    "model_id": 2379,
+    "marka_id": 45
+  },
+  {
+    "original": "EXPERT Platform şasi (V_)",
+    "normalized": "EXPERT PLATFORM SASI V",
+    "model_id": 2052,
+    "marka_id": 45
+  },
+  {
+    "original": "TRAVELLER Minibüs/Otobüs (V_)",
+    "normalized": "TRAVELLER BUS V",
+    "model_id": 1895,
+    "marka_id": 45
+  },
+  {
+    "original": "PROACE Minibüs/Otobüs (MDZ_)",
+    "normalized": "PROACE BUS MDZ",
+    "model_id": 2054,
+    "marka_id": 31
+  },
+  {
+    "original": "PROACE Panelvan/Van (MDZ_)",
+    "normalized": "PROACE PANELVAN VAN MDZ",
+    "model_id": 2055,
+    "marka_id": 31
+  },
+  {
+    "original": "PROACE VERSO Minibüs/Otobüs (MPY_)",
+    "normalized": "PROACE VERSO BUS MPY",
+    "model_id": 1128,
+    "marka_id": 31
+  },
+  {
+    "original": "RX (_L2_)",
+    "normalized": "RX L2",
+    "model_id": 3909,
+    "marka_id": 72
+  },
+  {
+    "original": "CAMRY (_V7_, _VA7_, _VH7_)",
+    "normalized": "CAMRY V7 VA7 VH7",
+    "model_id": 3910,
+    "marka_id": 31
+  },
+  {
+    "original": "H350 Minibüs/Otobüs | SOLATI",
+    "normalized": "H350 BUS SOLATI",
+    "model_id": 1744,
+    "marka_id": 36
+  },
+  {
+    "original": "H350 Panelvan/Van | SOLATI",
+    "normalized": "H350 PANELVAN VAN SOLATI",
+    "model_id": 3911,
+    "marka_id": 36
+  },
+  {
+    "original": "H350 Platform şasi | SOLATI",
+    "normalized": "H350 PLATFORM SASI SOLATI",
+    "model_id": 2146,
+    "marka_id": 36
+  },
+  {
+    "original": "OPTIMA (JF) | K5",
+    "normalized": "OPTIMA JF K5",
+    "model_id": 3417,
+    "marka_id": 38
+  },
+  {
+    "original": "OPTIMA Sportswagon (JF)",
+    "normalized": "OPTIMA SPORTSWAGON JF",
+    "model_id": 3418,
+    "marka_id": 38
+  },
+  {
+    "original": "COROLLA Hatchback (_E21_, _EA1_, _EH1_) | AURIS | COROLLA SPORT",
+    "normalized": "COROLLA HATCHBACK E21 EA1 EH1 AURIS COROLLA SPORT",
+    "model_id": 3696,
+    "marka_id": 31
+  },
+  {
+    "original": "MICRA V (K14)",
+    "normalized": "MICRA V K14",
+    "model_id": 3912,
+    "marka_id": 43
+  },
+  {
+    "original": "TALIANT",
+    "normalized": "TALIANT",
+    "model_id": 3021,
+    "marka_id": 46
+  },
+  {
+    "original": "A-SERISI (W177)",
+    "normalized": "A CLASS W177",
+    "model_id": 3913,
+    "marka_id": 41
+  },
+  {
+    "original": "A-SERISI Sedan (V177)",
+    "normalized": "A CLASS SEDAN V177",
+    "model_id": 3914,
+    "marka_id": 41
+  },
+  {
+    "original": "B-SERISI Sports Tourer (W247) | B-KLASSE",
+    "normalized": "B CLASS SPORTS STATION W247 B KLASSE",
+    "model_id": 3915,
+    "marka_id": 41
+  },
+  {
+    "original": "CLA (C118)",
+    "normalized": "CLA C118",
+    "model_id": 3499,
+    "marka_id": 41
+  },
+  {
+    "original": "CLA Shooting Brake (X118)",
+    "normalized": "CLA SHOOTING BRAKE X118",
+    "model_id": 3500,
+    "marka_id": 41
+  },
+  {
+    "original": "GLA (H247)",
+    "normalized": "GLA H247",
+    "model_id": 3916,
+    "marka_id": 41
+  },
+  {
+    "original": "GLB (X247)",
+    "normalized": "GLB X247",
+    "model_id": 3917,
+    "marka_id": 41
+  },
+  {
+    "original": "COROLLA Sedan (_E21_) | COROLLA ALTIS",
+    "normalized": "COROLLA SEDAN E21 COROLLA ALTIS",
+    "model_id": 3918,
+    "marka_id": 31
+  },
+  {
+    "original": "MAXIMA / MAXIMA QX V (A33)",
+    "normalized": "MAXIMA MAXIMA QX V A33",
+    "model_id": 2227,
+    "marka_id": 43
+  },
+  {
+    "original": "MURANO II (Z51)",
+    "normalized": "MURANO II Z51",
+    "model_id": 1220,
+    "marka_id": 43
+  },
+  {
+    "original": "PATHFINDER IV (R52)",
+    "normalized": "PATHFINDER IV R52",
+    "model_id": 3919,
+    "marka_id": 43
+  },
+  {
+    "original": "QASHQAI I (J10, NJ10) | DUALIS",
+    "normalized": "QASHQAI I J10 NJ10 DUALIS",
+    "model_id": 3509,
+    "marka_id": 43
+  },
+  {
+    "original": "GRAND VITARA II (JT, TE, TD) | GRAND VITARA XL-7 | GRAND ESCUDO | GRAND NOMADE / GRAND VITARA / GRAND ESCUDO | ESCUDO | GRAND NOMADE / GRAND VITARA",
+    "normalized": "GRAND VITARA II JT TE TD GRAND VITARA XL 7 GRAND ESCUDO GRAND NOMADE GRAND VITARA GRAND ESCUDO ESCUDO GRAND NOMADE GRAND VITARA",
+    "model_id": 3472,
+    "marka_id": 51
+  },
+  {
+    "original": "LARGUS (KS0_, RS0_, KSA_)",
+    "normalized": "LARGUS KS0 RS0 KSA",
+    "model_id": 3596,
+    "marka_id": 39
+  },
+  {
+    "original": "LARGUS Kombi van (KS0_, RS0_, KSA_)",
+    "normalized": "LARGUS KOMBI VAN KS0 RS0 KSA",
+    "model_id": 3597,
+    "marka_id": 39
+  },
+  {
+    "original": "NOTE (E11, NE11)",
+    "normalized": "NOTE E11 NE11",
+    "model_id": 1484,
+    "marka_id": 43
+  },
+  {
+    "original": "HILUX VII Pick-up (_N1_, _N2_, _N3_) | HILUX VIGO",
+    "normalized": "HILUX VII PICK UP N1 N2 N3 HILUX VIGO",
+    "model_id": 3437,
+    "marka_id": 31
+  },
+  {
+    "original": "LAND CRUISER PRADO (_J12_)",
+    "normalized": "LAND CRUISER PRADO J12",
+    "model_id": 3439,
+    "marka_id": 31
+  },
+  {
+    "original": "LAND CRUISER PRADO (_J15_)",
+    "normalized": "LAND CRUISER PRADO J15",
+    "model_id": 3440,
+    "marka_id": 31
+  },
+  {
+    "original": "NOTE (E12) | VERSA NOTE",
+    "normalized": "NOTE E12 VERSA NOTE",
+    "model_id": 3503,
+    "marka_id": 43
+  },
+  {
+    "original": "SWIFT III (MZ, EZ)",
+    "normalized": "SWIFT III MZ EZ",
+    "model_id": 2235,
+    "marka_id": 51
+  },
+  {
+    "original": "i20 I (PB, PBT)",
+    "normalized": "I20 I PB PBT",
+    "model_id": 3395,
+    "marka_id": 36
+  },
+  {
+    "original": "i30 (FD) | ELANTRA | AVANTE",
+    "normalized": "I30 FD ELANTRA AVANTE",
+    "model_id": 3397,
+    "marka_id": 36
+  },
+  {
+    "original": "i30 Station wagon (FD)",
+    "normalized": "I30 STATION WAGON FD",
+    "model_id": 2360,
+    "marka_id": 36
+  },
+  {
+    "original": "ix35 (LM, EL, ELH) | TUCSON | TUCSON IX35",
+    "normalized": "IX35 LM EL ELH TUCSON TUCSON IX35",
+    "model_id": 3403,
+    "marka_id": 36
+  },
+  {
+    "original": "ix35 Van",
+    "normalized": "IX35 VAN",
+    "model_id": 2842,
+    "marka_id": 36
+  },
+  {
+    "original": "CEE'D Hatchback (ED)",
+    "normalized": "CEE'D HATCHBACK ED",
+    "model_id": 3408,
+    "marka_id": 38
+  },
+  {
+    "original": "CEE'D SW (ED)",
+    "normalized": "CEE'D SW ED",
+    "model_id": 3410,
+    "marka_id": 38
+  },
+  {
+    "original": "PICANTO II (TA) | PICANTO / EKO TAXI | MORNING",
+    "normalized": "PICANTO II TA PICANTO EKO TAXI MORNING",
+    "model_id": 3004,
+    "marka_id": 38
+  },
+  {
+    "original": "PRO CEE'D (ED)",
+    "normalized": "PRO CEE'D ED",
+    "model_id": 3419,
+    "marka_id": 38
+  },
+  {
+    "original": "SOUL II (PS)",
+    "normalized": "SOUL II PS",
+    "model_id": 3427,
+    "marka_id": 38
+  },
+  {
+    "original": "SPORTAGE II (JE_, KM_)",
+    "normalized": "SPORTAGE II JE KM",
+    "model_id": 1518,
+    "marka_id": 38
+  },
+  {
+    "original": "SPORTAGE III (SL)",
+    "normalized": "SPORTAGE III SL",
+    "model_id": 3429,
+    "marka_id": 38
+  },
+  {
+    "original": "TREZIA",
+    "normalized": "TREZIA",
+    "model_id": 2095,
+    "marka_id": 63
+  },
+  {
+    "original": "2 (DE_, DH_) | DEMIO",
+    "normalized": "2 DE DH DEMIO",
+    "model_id": 1508,
+    "marka_id": 40
+  },
+  {
+    "original": "BALENO (FW, EW)",
+    "normalized": "BALENO FW EW",
+    "model_id": 3647,
+    "marka_id": 51
+  },
+  {
+    "original": "SWIFT IV (FZ, NZ)",
+    "normalized": "SWIFT IV FZ NZ",
+    "model_id": 1872,
+    "marka_id": 51
+  },
+  {
+    "original": "CYGNET",
+    "normalized": "CYGNET",
+    "model_id": 2851,
+    "marka_id": 89
+  },
+  {
+    "original": "i40 I (VF)",
+    "normalized": "I40 I VF",
+    "model_id": 3400,
+    "marka_id": 36
+  },
+  {
+    "original": "i40 I CW (VF)",
+    "normalized": "I40 I CW VF",
+    "model_id": 3401,
+    "marka_id": 36
+  },
+  {
+    "original": "CARENS III MPV (UN) | RONDO",
+    "normalized": "CARENS III MPV UN RONDO",
+    "model_id": 3406,
+    "marka_id": 38
+  },
+  {
+    "original": "i30 (GD) | ELANTRA GT",
+    "normalized": "I30 GD ELANTRA GT",
+    "model_id": 3398,
+    "marka_id": 36
+  },
+  {
+    "original": "i30 Station wagon (GD)",
+    "normalized": "I30 STATION WAGON GD",
+    "model_id": 3399,
+    "marka_id": 36
+  },
+  {
+    "original": "TUCSON (TL, TLE)",
+    "normalized": "TUCSON TL TLE",
+    "model_id": 3405,
+    "marka_id": 36
+  },
+  {
+    "original": "VELOSTER (FS)",
+    "normalized": "VELOSTER FS",
+    "model_id": 1679,
+    "marka_id": 36
+  },
+  {
+    "original": "SOUL I (AM)",
+    "normalized": "SOUL I AM",
+    "model_id": 3426,
+    "marka_id": 38
+  },
+  {
+    "original": "SPORTAGE IV (QL, QLE)",
+    "normalized": "SPORTAGE IV QL QLE",
+    "model_id": 2725,
+    "marka_id": 38
+  },
+  {
+    "original": "KONA (OS, OSE, OSI) | KAUAI",
+    "normalized": "KONA OS OSE OSI KAUAI",
+    "model_id": 3404,
+    "marka_id": 36
+  },
+  {
+    "original": "XCEED (CD)",
+    "normalized": "XCEED CD",
+    "model_id": 3431,
+    "marka_id": 38
+  },
+  {
+    "original": "KADJAR (HA_, HL_)",
+    "normalized": "KADJAR HA HL",
+    "model_id": 3271,
+    "marka_id": 46
+  },
+  {
+    "original": "PANDA Kasa/eğik arka (141_)",
+    "normalized": "PANDA HB VAN 141",
+    "model_id": 3537,
+    "marka_id": 34
+  },
+  {
+    "original": "UNO (146_, 158_)",
+    "normalized": "UNO 146 158",
+    "model_id": 319,
+    "marka_id": 34
+  },
+  {
+    "original": "19 II Kasa/eğik arka (S53_)",
+    "normalized": "19 II HB VAN S53",
+    "model_id": 3603,
+    "marka_id": 46
   }
 ]
