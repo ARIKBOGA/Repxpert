@@ -39,12 +39,12 @@ test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
 
                 const processedVehicles = new Set<string>();
 
-                await page.pause(); // click RENALUT
+                await page.pause(); // click BRAND
 
                 //const vehicleCount = await page.locator(selector.aria_level_2_vehicle).count();
 
-                let vehicleIndex = 1;
-                const remainingVehicles = 3; // X tane araç başlığı tıklanacak. Ona göre atama yap.
+                let vehicleIndex = 1; // hangi araçtan başlayacaksan onun locator index'ini gir
+                const remainingVehicles = 42; // X tane araç başlığı tıklanacak. Ona göre atama yap.
 
                 for (let j = 0; j < remainingVehicles; j++) {
 
@@ -56,7 +56,9 @@ test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
                     processedVehicles.add(vehicle);
 
                     await page.pause(); // collapse previous one then click the next vehicle
+
                     //await vehicleEl.click();
+                    //await page.waitForTimeout(3000);
                     //await page.waitForSelector(selector.aria_level_3_rows, { state: "visible", timeout: 5000 });
 
                     const rows = page.locator(selector.aria_level_3_rows);
@@ -68,7 +70,7 @@ test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
                         const cellValues = cellTexts.map((text) => text.trim()).filter((text) => text !== "");
 
                         applications.push({
-                            brand: "RENAULT",
+                            brand: "VOLKSWAGEN",
                             model: vehicle,
                             engineType: cellValues[0] || "",
                             madeYear: cellValues[1] || "",
@@ -81,7 +83,7 @@ test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
                     }
 
                     //await vehicleEl.click(); // collapse
-                    await page.waitForTimeout(2000);
+                    //await page.waitForTimeout(2000);
                 }
 
 
@@ -96,7 +98,7 @@ test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
                     fs.mkdirSync(oeFolderPath, { recursive: true });
                 }
 
-                const fileName = `Manuel_${productProducer}_${cross}.json`;
+                const fileName = `Manuel_${productProducer}_${cross}_VOLKSWAGEN.json`;
                 const filePath = path.join(oeFolderPath, fileName);
 
                 fs.writeFileSync(filePath, JSON.stringify(applications, null, 2), "utf-8");

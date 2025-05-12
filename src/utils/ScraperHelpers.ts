@@ -35,3 +35,46 @@ export async function goToSearchResults(
 
   return productLinks; // bulunan ürünleri geri dön
 }
+
+
+export function mapToSerializableObject(map: Map<string, Set<string>>): Record<string, string[]> {
+  const obj: Record<string, string[]> = {};
+  for (const [key, valueSet] of map.entries()) {
+    obj[key] = Array.from(valueSet); // Set → Array
+  }
+  return obj;
+}
+
+import * as xlsx from 'xlsx';
+import * as path from 'path';
+
+export interface ProductReference {
+  yvNo: string;
+  brandRefs: { [brand: string]: string }; // { "BREMBO": "09.1234.56", "TRW": "", ... }
+}
+
+export function readProductReferencesFromExcel(): ProductReference[] {
+  const excelPath = path.resolve(__dirname, '../data/katalogInfo/excels/balata_katalog_full.xlsx');
+  const workbook = xlsx.readFile(excelPath);
+  const sheet = workbook.Sheets[workbook.SheetNames[0]];
+  const data = xlsx.utils.sheet_to_json<Record<string, any>>(sheet, { defval: "" });
+
+  const references: ProductReference[] = [];
+
+  for (const row of data) {
+    const yvNo = row['YV NO']?.toString()?.trim();
+    if (!yvNo) continue;
+
+    const brandRefs: { [brand: string]: string } = {};
+    for (const key of Object.keys(row)) {
+      if (key !== 'YV NO') {
+        const ref = row[key]?.toString()?.trim();
+        if (ref) brandRefs[key] = ref;
+      }
+    }
+
+    references.push({ yvNo, brandRefs });
+  }
+
+  return references;
+}
