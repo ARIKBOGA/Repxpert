@@ -1,0 +1,78 @@
+{
+  "reference": "P 85 146",
+  "id": "P 85 146",
+  "name": "Fren balata seti, diskli fren PRIME LINE",
+  "brand": "BREMBO",
+  "wvaNumbers": [
+    "23587",
+    "23588",
+    "24696",
+    "D1319 8212"
+  ],
+  "brand_oe_map": {
+    "AUDI": [
+      "3C0698151A",
+      "3C0698151C",
+      "3C0698151D",
+      "3C0698151J",
+      "8J0698151",
+      "8J0698151C",
+      "8J0698151P"
+    ],
+    "SEAT": [
+      "3C0698151A",
+      "3C0698151C",
+      "3C0698151D",
+      "3C0698151J",
+      "3C0698151P",
+      "8J0698151",
+      "8J0698151C"
+    ],
+    "SKODA": [
+      "3C0698151A",
+      "3C0698151C",
+      "3C0698151D",
+      "3C0698151J",
+      "8J0698151",
+      "8J0698151C"
+    ],
+    "SKODA (SVW)": [
+      "1KD698151G"
+    ],
+    "VW": [
+      "3C0698151A",
+      "3C0698151C",
+      "3C0698151D",
+      "3C0698151J",
+      "3CO698151J",
+      "8J0698151",
+      "8J0698151C",
+      "8P0698302A",
+      "JZW698302BA",
+      "JZW698302BH",
+      "JZW698302CM",
+      "JZW698302CN"
+    ],
+    "VW (FAW)": [
+      "3C0698151C",
+      "3C0698151J",
+      "L3C0698151C",
+      "L3C0698151J"
+    ],
+    "VW (SVW)": [
+      "1KD698151G"
+    ]
+  },
+  "eanNumber": "8020584081242",
+  "dimensions": {
+    "width1": "155",
+    "width2": null,
+    "height1": "66",
+    "height2": "72",
+    "thickness1": "20",
+    "thickness2": null,
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": ""
+  }
+}

@@ -9874,5 +9874,485 @@
     "normalized": "19 II HB VAN S53",
     "model_id": 3603,
     "marka_id": 46
+  },
+  {
+    "original": "FORESTER (SF_)",
+    "normalized": "FORESTER SF",
+    "model_id": 3920,
+    "marka_id": 63
+  },
+  {
+    "original": "FORESTER (SG_)",
+    "normalized": "FORESTER SG",
+    "model_id": 3921,
+    "marka_id": 63
+  },
+  {
+    "original": "FORESTER (SH_)",
+    "normalized": "FORESTER SH",
+    "model_id": 3922,
+    "marka_id": 63
+  },
+  {
+    "original": "IMPREZA Hatchback (GR, GH, G3) | B3",
+    "normalized": "IMPREZA HATCHBACK GR GH G3 B3",
+    "model_id": 3923,
+    "marka_id": 63
+  },
+  {
+    "original": "IMPREZA Sedan (GD)",
+    "normalized": "IMPREZA SEDAN GD",
+    "model_id": 3924,
+    "marka_id": 63
+  },
+  {
+    "original": "IMPREZA Sedan (GE, GV)",
+    "normalized": "IMPREZA SEDAN GE GV",
+    "model_id": 3925,
+    "marka_id": 63
+  },
+  {
+    "original": "IMPREZA Station wagon (GG)",
+    "normalized": "IMPREZA STATION WAGON GG",
+    "model_id": 3926,
+    "marka_id": 63
+  },
+  {
+    "original": "LEGACY III (BE) | LIBERTY",
+    "normalized": "LEGACY III BE LIBERTY",
+    "model_id": 3927,
+    "marka_id": 63
+  },
+  {
+    "original": "LEGACY III Station wagon (BH) | LIBERTY",
+    "normalized": "LEGACY III STATION WAGON BH LIBERTY",
+    "model_id": 3928,
+    "marka_id": 63
+  },
+  {
+    "original": "LEGACY IV (BL) | LIBERTY",
+    "normalized": "LEGACY IV BL LIBERTY",
+    "model_id": 2298,
+    "marka_id": 63
+  },
+  {
+    "original": "LEGACY IV Station wagon (BP) | LIBERTY",
+    "normalized": "LEGACY IV STATION WAGON BP LIBERTY",
+    "model_id": 2299,
+    "marka_id": 63
+  },
+  {
+    "original": "LEGACY V (BM) | LIBERTY",
+    "normalized": "LEGACY V BM LIBERTY",
+    "model_id": 3929,
+    "marka_id": 63
+  },
+  {
+    "original": "LEGACY V Station wagon (BR) | LIBERTY",
+    "normalized": "LEGACY V STATION WAGON BR LIBERTY",
+    "model_id": 3930,
+    "marka_id": 63
+  },
+  {
+    "original": "OUTBACK (BL, BP)",
+    "normalized": "OUTBACK BL BP",
+    "model_id": 3931,
+    "marka_id": 63
+  },
+  {
+    "original": "OUTBACK (BR)",
+    "normalized": "OUTBACK BR",
+    "model_id": 2300,
+    "marka_id": 63
+  },
+  {
+    "original": "TRIBECA (B9)",
+    "normalized": "TRIBECA B9",
+    "model_id": 3932,
+    "marka_id": 63
+  },
+  {
+    "original": "PAJERO IV (V8_W, V9_W) | MONTERO | PAJERO/SHOGUN",
+    "normalized": "PAJERO IV V8 W V9 W MONTERO PAJERO SHOGUN",
+    "model_id": 3933,
+    "marka_id": 42
+  },
+  {
+    "original": "PAJERO IV Van (V9_, V8_, V8_V) | MONTERO | PAJERO/SHOGUN",
+    "normalized": "PAJERO IV VAN V9 V8 V8 V MONTERO PAJERO SHOGUN",
+    "model_id": 3934,
+    "marka_id": 42
+  },
+  {
+    "original": "4 RUNNER V (_N28_) | SW4",
+    "normalized": "4 RUNNER V N28 SW4",
+    "model_id": 3935,
+    "marka_id": 31
+  },
+  {
+    "original": "HILUX VIII Pick-up (_N1_) | HILUX REVO",
+    "normalized": "HILUX VIII PICK UP N1 HILUX REVO",
+    "model_id": 3936,
+    "marka_id": 31
+  },
+  {
+    "original": "TACOMA Pick-up (_N2_)",
+    "normalized": "TACOMA PICK UP N2",
+    "model_id": 3937,
+    "marka_id": 31
+  },
+  {
+    "original": "MICRA IV (K13K, K13KK) | MARCH | MARCH / MARCH ACTIVE",
+    "normalized": "MICRA IV K13K K13KK MARCH MARCH MARCH ACTIVE",
+    "model_id": 2656,
+    "marka_id": 43
+  },
+  {
+    "original": "SONATA V (NF) | EMBERA | SONICA",
+    "normalized": "SONATA V NF EMBERA SONICA",
+    "model_id": 1142,
+    "marka_id": 36
+  },
+  {
+    "original": "SONATA VI (YF) | i45",
+    "normalized": "SONATA VI YF I45",
+    "model_id": 1147,
+    "marka_id": 36
+  },
+  {
+    "original": "CEE'D Hatchback (ED)",
+    "normalized": "CEED HATCHBACK ED",
+    "model_id": 3408,
+    "marka_id": 38
+  },
+  {
+    "original": "CEE'D SW (ED)",
+    "normalized": "CEED SW ED",
+    "model_id": 3410,
+    "marka_id": 38
+  },
+  {
+    "original": "CERATO II Sedan (TD) | FORTE | K3 | CERATO FORTE / CERATO GEO",
+    "normalized": "CERATO II SEDAN TD FORTE K3 CERATO FORTE CERATO GEO",
+    "model_id": 3938,
+    "marka_id": 38
+  },
+  {
+    "original": "CERATO KOUP II (TD) | K3 | FORTE5 | FORTE KOUP | FORTE KOUP / KOUP",
+    "normalized": "CERATO KOUP II TD K3 FORTE5 FORTE KOUP FORTE KOUP KOUP",
+    "model_id": 3939,
+    "marka_id": 38
+  },
+  {
+    "original": "PRO CEE'D (ED)",
+    "normalized": "PROCEED ED",
+    "model_id": 3419,
+    "marka_id": 38
+  },
+  {
+    "original": "COROLLA Sedan (_E18_, ZRE1_) | COROLLA ALTIS",
+    "normalized": "COROLLA SEDAN E18 ZRE1 COROLLA ALTIS",
+    "model_id": 2808,
+    "marka_id": 31
+  },
+  {
+    "original": "RAV 4 IV (_A4_)",
+    "normalized": "RAV 4 IV A4",
+    "model_id": 2016,
+    "marka_id": 31
+  },
+  {
+    "original": "URBAN CRUISER (_P1_) | IST",
+    "normalized": "URBAN CRUISER P1 IST",
+    "model_id": 1068,
+    "marka_id": 31
+  },
+  {
+    "original": "VERSO S (_P12_) | VERSO SPACE | RACTIS",
+    "normalized": "VERSO S P12 VERSO SPACE RACTIS",
+    "model_id": 2097,
+    "marka_id": 31
+  },
+  {
+    "original": "L200 / TRITON (KA_T, KB_T) | STRADA | STRADA TRITON | L200 TRITON | HUNTER",
+    "normalized": "L200 TRITON KA T KB T STRADA STRADA TRITON L200 TRITON HUNTER",
+    "model_id": 3323,
+    "marka_id": 42
+  },
+  {
+    "original": "L200 / TRITON (KJ_, KK_, KL_) | L200 SPORTERO | STRADA | L200 TRITON",
+    "normalized": "L200 TRITON KJ KK KL L200 SPORTERO STRADA L200 TRITON",
+    "model_id": 2727,
+    "marka_id": 42
+  },
+  {
+    "original": "L200 / TRITON Platform şasi (KA_T, KB_T) | STRADA | L200 TRITON",
+    "normalized": "L200 TRITON PLATFORM SASI KA T KB T STRADA L200 TRITON",
+    "model_id": 3940,
+    "marka_id": 42
+  },
+  {
+    "original": "PAJERO SPORT II (KH_, KG_) | CHALLENGER | NATIVA | PAJERO DAKAR | MONTERO SPORT",
+    "normalized": "PAJERO SPORT II KH KG CHALLENGER NATIVA PAJERO DAKAR MONTERO SPORT",
+    "model_id": 1960,
+    "marka_id": 42
+  },
+  {
+    "original": "CT (ZWA10_)",
+    "normalized": "CT ZWA10",
+    "model_id": 2094,
+    "marka_id": 72
+  },
+  {
+    "original": "IQ (_J1_)",
+    "normalized": "IQ J1",
+    "model_id": 2093,
+    "marka_id": 31
+  },
+  {
+    "original": "PRIUS (_W3_)",
+    "normalized": "PRIUS W3",
+    "model_id": 3942,
+    "marka_id": 31
+  },
+  {
+    "original": "YARIS (_P9_) | YARIS/VITZ | VITZ",
+    "normalized": "YARIS P9 YARIS VITZ VITZ",
+    "model_id": 2674,
+    "marka_id": 31
+  },
+  {
+    "original": "CARENS I MPV (FC, FJ) | X-TREK",
+    "normalized": "CARENS I MPV FC FJ X TREK",
+    "model_id": 3943,
+    "marka_id": 38
+  },
+  {
+    "original": "AURIS (_E18_) | COROLLA iM | COROLLA",
+    "normalized": "AURIS E18 COROLLA IM COROLLA",
+    "model_id": 3944,
+    "marka_id": 31
+  },
+  {
+    "original": "AURIS Station wagon (_E18_)",
+    "normalized": "AURIS STATION WAGON E18",
+    "model_id": 3945,
+    "marka_id": 31
+  },
+  {
+    "original": "ELANTRA IV Sedan (HD) | AVANTE",
+    "normalized": "ELANTRA IV SEDAN HD AVANTE",
+    "model_id": 3946,
+    "marka_id": 36
+  },
+  {
+    "original": "GRANDEUR (HG) | AZERA",
+    "normalized": "GRANDEUR HG AZERA",
+    "model_id": 2664,
+    "marka_id": 36
+  },
+  {
+    "original": "GRANDEUR (TG) | AZERA",
+    "normalized": "GRANDEUR TG AZERA",
+    "model_id": 2665,
+    "marka_id": 36
+  },
+  {
+    "original": "i10 II (BA, IA) | GRAND i10",
+    "normalized": "I10 II BA IA GRAND I10",
+    "model_id": 878,
+    "marka_id": 36
+  },
+  {
+    "original": "i20 II Coupe (GB)",
+    "normalized": "I20 II COUPE GB",
+    "model_id": 1623,
+    "marka_id": 36
+  },
+  {
+    "original": "TUCSON (JM)",
+    "normalized": "TUCSON JM",
+    "model_id": 914,
+    "marka_id": 36
+  },
+  {
+    "original": "OPIRUS (GH) | AMANTI",
+    "normalized": "OPIRUS GH AMANTI",
+    "model_id": 3947,
+    "marka_id": 38
+  },
+  {
+    "original": "OPTIMA (FSGDS6B) | K5",
+    "normalized": "OPTIMA FSGDS6B K5",
+    "model_id": 2349,
+    "marka_id": 38
+  },
+  {
+    "original": "KORANDO (C300)",
+    "normalized": "KORANDO C300",
+    "model_id": 3948,
+    "marka_id": 68
+  },
+  {
+    "original": "KORANDO (CK) | KORANDO C",
+    "normalized": "KORANDO CK KORANDO C",
+    "model_id": 2306,
+    "marka_id": 68
+  },
+  {
+    "original": "TIVOLI | TIVOLAN",
+    "normalized": "TIVOLI TIVOLAN",
+    "model_id": 2303,
+    "marka_id": 68
+  },
+  {
+    "original": "XLV SUV | TIVOLI AIR",
+    "normalized": "XLV SUV TIVOLI AIR",
+    "model_id": 2125,
+    "marka_id": 68
+  },
+  {
+    "original": "XLV VAN",
+    "normalized": "XLV VAN",
+    "model_id": 2304,
+    "marka_id": 68
+  },
+  {
+    "original": "SONATA VII (LF)",
+    "normalized": "SONATA VII LF",
+    "model_id": 1277,
+    "marka_id": 36
+  },
+  {
+    "original": "CEED (CD)",
+    "normalized": "CEED CD",
+    "model_id": 3949,
+    "marka_id": 38
+  },
+  {
+    "original": "CEED Hatchback Van (CD)",
+    "normalized": "CEED HATCHBACK VAN CD",
+    "model_id": 3950,
+    "marka_id": 38
+  },
+  {
+    "original": "PROCEED (CD)",
+    "normalized": "PROCEED CD",
+    "model_id": 3422,
+    "marka_id": 38
+  },
+  {
+    "original": "PROCEED Combi Van (CD)",
+    "normalized": "PROCEED KOMBI VAN CD",
+    "model_id": 3423,
+    "marka_id": 38
+  },
+  {
+    "original": "GRAND VOYAGER V (RT) | TOWN & COUNTRY",
+    "normalized": "GRAND VOYAGER V RT TOWN & COUNTRY",
+    "model_id": 2278,
+    "marka_id": 74
+  },
+  {
+    "original": "JOURNEY | JC",
+    "normalized": "JOURNEY JC",
+    "model_id": 2381,
+    "marka_id": 61
+  },
+  {
+    "original": "FREEMONT (345_)",
+    "normalized": "FREEMONT 345",
+    "model_id": 2518,
+    "marka_id": 34
+  },
+  {
+    "original": "RITMO | STRADA",
+    "normalized": "RITMO STRADA",
+    "model_id": 3951,
+    "marka_id": 90
+  },
+  {
+    "original": "CROMA (154_)",
+    "normalized": "CROMA 154",
+    "model_id": 746,
+    "marka_id": 34
+  },
+  {
+    "original": "THEMA (834_)",
+    "normalized": "THEMA 834",
+    "model_id": 1542,
+    "marka_id": 75
+  },
+  {
+    "original": "ACCORD III (CA)",
+    "normalized": "ACCORD III CA",
+    "model_id": 1178,
+    "marka_id": 35
+  },
+  {
+    "original": "CIVIC IV Sedan (ED, EF) | BALLADE",
+    "normalized": "CIVIC IV SEDAN ED EF BALLADE",
+    "model_id": 2997,
+    "marka_id": 35
+  },
+  {
+    "original": "CRX II (ED, EE)",
+    "normalized": "CRX II ED EE",
+    "model_id": 1096,
+    "marka_id": 35
+  },
+  {
+    "original": "CRX III (EH, EG) | CIVIC del Sol",
+    "normalized": "CRX III EH EG CIVIC DEL SOL",
+    "model_id": 1097,
+    "marka_id": 35
+  },
+  {
+    "original": "INTEGRA Coupe (DC)",
+    "normalized": "INTEGRA COUPE DC",
+    "model_id": 3346,
+    "marka_id": 35
+  },
+  {
+    "original": "INTEGRA Hatchback (DA)",
+    "normalized": "INTEGRA HATCHBACK DA",
+    "model_id": 3952,
+    "marka_id": 35
+  },
+  {
+    "original": "PRELUDE III (BA)",
+    "normalized": "PRELUDE III BA",
+    "model_id": 3000,
+    "marka_id": 35
+  },
+  {
+    "original": "PRIUS PLUS (_W4_) | PRIUS ALPHA | PRIUS V | GRAND PRIUS +",
+    "normalized": "PRIUS PLUS W4 PRIUS ALPHA PRIUS V GRAND PRIUS +",
+    "model_id": 2015,
+    "marka_id": 31
+  },
+  {
+    "original": "PRIUS (_W5_)",
+    "normalized": "PRIUS W5",
+    "model_id": 3942,
+    "marka_id": 31
+  },
+  {
+    "original": "A8 D2 (4D2, 4D8) | A8 / S8",
+    "normalized": "A8 D2 4D2 4D8 A8 S8",
+    "model_id": 3954,
+    "marka_id": 66
+  },
+  {
+    "original": "CROSSLAND X / CROSSLAND (P17, P2QO)",
+    "normalized": "CROSSLAND X CROSSLAND P17 P2QO",
+    "model_id": 3350,
+    "marka_id": 44
+  },
+  {
+    "original": "AVANTIME (DE0_)",
+    "normalized": "AVANTIME DE0",
+    "model_id": 3953,
+    "marka_id": 46
   }
 ]

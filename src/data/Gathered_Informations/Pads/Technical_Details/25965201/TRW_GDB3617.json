@@ -1,0 +1,33 @@
+{
+  "reference": "GDB3617",
+  "id": "GDB3617",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "TRW",
+  "wvaNumbers": [
+    "25965",
+    "25966",
+    "25967"
+  ],
+  "brand_oe_map": {
+    "NISSAN": [
+      "D4060-4CA0A",
+      "D4060-4EA0A",
+      "D40604CA0C"
+    ],
+    "RENAULT": [
+      "44 06 066 33R"
+    ]
+  },
+  "eanNumber": "3322938266400",
+  "dimensions": {
+    "width1": "103,7",
+    "width2": null,
+    "height1": "44,9",
+    "height2": "47,4",
+    "thickness1": "15,2",
+    "thickness2": null,
+    "manufacturerRestriction": "TRW",
+    "checkmark": "E9 90R-02A0120/3975",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!"
+  }
+}

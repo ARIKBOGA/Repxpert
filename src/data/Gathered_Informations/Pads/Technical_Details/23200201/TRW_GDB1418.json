@@ -1,0 +1,42 @@
+{
+  "reference": "GDB1418",
+  "id": "GDB1418",
+  "name": "Fren balata seti, diskli fren COTEC",
+  "brand": "TRW",
+  "wvaNumbers": [
+    "23200"
+  ],
+  "brand_oe_map": {
+    "FORD": [
+      "1030601",
+      "1031781",
+      "1111857",
+      "1111858",
+      "1121667",
+      "1130715",
+      "1206062",
+      "1465126",
+      "1947389",
+      "91FX-2K021-AB",
+      "MEYS-6J2K021-AC",
+      "YS612K021AA",
+      "YS6J2K021AA",
+      "YS6J2K021AB"
+    ],
+    "MAZDA": [
+      "1E123323Z"
+    ]
+  },
+  "eanNumber": "3322937275625",
+  "dimensions": {
+    "width1": "150,2",
+    "width2": "151,5",
+    "height1": "54,1",
+    "height2": "51,4",
+    "thickness1": "18,6",
+    "thickness2": null,
+    "manufacturerRestriction": "ATE",
+    "checkmark": "E9 90R 01107/175",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!"
+  }
+}

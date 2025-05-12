@@ -1,0 +1,66 @@
+{
+  "reference": "181910",
+  "id": "181910",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "ICER",
+  "wvaNumbers": [
+    "24822",
+    "24823",
+    "24824",
+    "D1326-8438"
+  ],
+  "brand_oe_map": {
+    "AUDI": [
+      "7B0 698 451 C",
+      "7B0 698 451 D"
+    ],
+    "CHRYSLER": [
+      "068029887AA",
+      "068159138AA",
+      "2AMV-4239-AA",
+      "68029887AA",
+      "68044761AB",
+      "68044761AC",
+      "68159138AA",
+      "68159143AA"
+    ],
+    "DODGE": [
+      "2AMV-4887-AA",
+      "68044761AA",
+      "68159138AA",
+      "68159143AA",
+      "V2019887AA",
+      "V2019887AB"
+    ],
+    "FIAT": [
+      "6 802 988 7AB",
+      "K6802-9887-AA",
+      "K6802-9887-AB",
+      "K6815-9138-AA",
+      "K6815-9143-AA",
+      "K6819-24239-AA"
+    ],
+    "FORD USA": [
+      "5U2Z2-Z200-BA"
+    ],
+    "VW": [
+      "7B0 698 451",
+      "7B0 698 451 A",
+      "7B0698451C",
+      "7B0698451D",
+      "8B0 698 451 G"
+    ]
+  },
+  "eanNumber": "8424073098306",
+  "dimensions": {
+    "width1": "116,7",
+    "width2": null,
+    "height1": "52,7",
+    "height2": null,
+    "thickness1": "16,8",
+    "thickness2": null,
+    "manufacturerRestriction": "",
+    "checkmark": "E9 90R-01110/2617",
+    "SVHC": ""
+  }
+}

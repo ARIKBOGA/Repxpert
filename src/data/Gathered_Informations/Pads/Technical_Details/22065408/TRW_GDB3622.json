@@ -1,0 +1,27 @@
+{
+  "reference": "GDB3622",
+  "id": "GDB3622",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "TRW",
+  "wvaNumbers": [
+    "24632"
+  ],
+  "brand_oe_map": {
+    "NISSAN": [
+      "D1060-4BA0A",
+      "D1060-4EA0A"
+    ]
+  },
+  "eanNumber": "3322938319137",
+  "dimensions": {
+    "width1": "142",
+    "width2": null,
+    "height1": "59,8",
+    "height2": null,
+    "thickness1": "17",
+    "thickness2": null,
+    "manufacturerRestriction": "",
+    "checkmark": "E9 90R - 01705/061",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!"
+  }
+}

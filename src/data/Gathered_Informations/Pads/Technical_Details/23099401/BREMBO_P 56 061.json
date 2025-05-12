@@ -1,0 +1,51 @@
+{
+  "reference": "P 56 061",
+  "id": "P 56 061",
+  "name": "Fren balata seti, diskli fren PRIME LINE",
+  "brand": "BREMBO",
+  "wvaNumbers": [
+    "23099",
+    "D1500 8699"
+  ],
+  "brand_oe_map": {
+    "NISSAN": [
+      "4106000Q1F",
+      "4106000QAE"
+    ],
+    "OPEL": [
+      "1605198",
+      "1605215",
+      "4414021",
+      "4414519",
+      "9199257",
+      "93173641",
+      "93192063",
+      "95599219"
+    ],
+    "RENAULT": [
+      "6024371662",
+      "6025371279",
+      "7701050914",
+      "7701054771",
+      "7711946181",
+      "8660004596",
+      "8671005954",
+      "8671016180"
+    ],
+    "VAUXHALL": [
+      "95599219"
+    ]
+  },
+  "eanNumber": "8020584061466",
+  "dimensions": {
+    "width1": "145",
+    "width2": null,
+    "height1": "62",
+    "height2": null,
+    "thickness1": "18",
+    "thickness2": null,
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": ""
+  }
+}

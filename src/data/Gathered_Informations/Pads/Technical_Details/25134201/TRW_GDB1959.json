@@ -1,0 +1,35 @@
+{
+  "reference": "GDB1959",
+  "id": "GDB1959",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "TRW",
+  "wvaNumbers": [
+    "25134",
+    "25135"
+  ],
+  "brand_oe_map": {
+    "FORD": [
+      "1751951",
+      "1765066",
+      "1775672",
+      "1785193",
+      "1860476",
+      "AY11-2K021-BA",
+      "AY11-2K021-BB",
+      "AY11-2K021-BC",
+      "AY11-2K021-BD"
+    ]
+  },
+  "eanNumber": "3322938162221",
+  "dimensions": {
+    "width1": "131,6",
+    "width2": null,
+    "height1": "60",
+    "height2": null,
+    "thickness1": "17,5",
+    "thickness2": null,
+    "manufacturerRestriction": "TRW",
+    "checkmark": "E9 90R-02A0112/3529",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!"
+  }
+}
