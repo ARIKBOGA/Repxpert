@@ -1,0 +1,58 @@
+{
+  "reference": "P 06 025",
+  "id": "P 06 025",
+  "name": "Fren balata seti, diskli fren PRIME LINE",
+  "brand": "BREMBO",
+  "wvaNumbers": [
+    "21935",
+    "21934",
+    "D1442 7631",
+    "D692 7286",
+    "D692 7567",
+    "D763 7631"
+  ],
+  "brand_oe_map": {
+    "BMW": [
+      "34211160533",
+      "34211164499",
+      "34211164501",
+      "34212157574",
+      "34212157575",
+      "34212157620",
+      "34212157622",
+      "34214398213",
+      "34216750190",
+      "34216761239",
+      "34216761241",
+      "34216778168"
+    ],
+    "MG": [
+      "SFP100520",
+      "SFP90005"
+    ],
+    "MG (SAIC)": [
+      "SFP100407",
+      "SFP90005A"
+    ],
+    "ROEWE (SAIC)": [
+      "SFP100407",
+      "SFP90005A"
+    ],
+    "ROVER": [
+      "1020321",
+      "GBP90341AF"
+    ]
+  },
+  "eanNumber": "8020584050255",
+  "dimensions": {
+    "width1": "123",
+    "width2": null,
+    "height1": "45",
+    "height2": null,
+    "thickness1": "17",
+    "thickness2": null,
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": ""
+  }
+}

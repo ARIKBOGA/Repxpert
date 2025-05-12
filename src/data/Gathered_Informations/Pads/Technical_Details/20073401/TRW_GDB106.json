@@ -1,0 +1,59 @@
+{
+  "reference": "GDB106",
+  "id": "GDB106",
+  "name": "Fren balata seti, diskli fren COTEC",
+  "brand": "TRW",
+  "wvaNumbers": [
+    "20073"
+  ],
+  "brand_oe_map": {
+    "AUTOBIANCHI": [
+      "5888149",
+      "790605",
+      "82203073",
+      "99939353"
+    ],
+    "FIAT": [
+      "0000000790605",
+      "4309780",
+      "5888149",
+      "790605"
+    ],
+    "FSO": [
+      "030633",
+      "039532",
+      "039533",
+      "059957",
+      "655792725"
+    ],
+    "LANCIA": [
+      "5888149",
+      "82203073",
+      "99939353"
+    ],
+    "SEAT": [
+      "SE127165005A"
+    ],
+    "YUGO": [
+      "4218573",
+      "4423980"
+    ],
+    "ZASTAVA": [
+      "4218573",
+      "4423980",
+      "46600454"
+    ]
+  },
+  "eanNumber": "3322936401063",
+  "dimensions": {
+    "width1": "108,8",
+    "width2": null,
+    "height1": "39",
+    "height2": null,
+    "thickness1": "17",
+    "thickness2": null,
+    "manufacturerRestriction": "BENDIX",
+    "checkmark": "",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!"
+  }
+}

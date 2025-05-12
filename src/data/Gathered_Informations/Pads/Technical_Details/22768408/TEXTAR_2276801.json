@@ -1,0 +1,42 @@
+{
+  "reference": "2276801",
+  "id": "2276801",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "TEXTAR",
+  "wvaNumbers": [
+    "22768",
+    "22768 165  1 4",
+    "9311D2076"
+  ],
+  "brand_oe_map": {
+    "LEXUS": [
+      "0446516130",
+      "0446576010"
+    ],
+    "TOYOTA": [
+      "0446506150",
+      "0446506160",
+      "044650A010",
+      "044650E060",
+      "0446530520",
+      "0446533480",
+      "04465F4030",
+      "04465VT020"
+    ],
+    "TOYOTA (GAC)": [
+      "0446506150"
+    ]
+  },
+  "eanNumber": "4019722500350",
+  "dimensions": {
+    "width1": "142,7",
+    "width2": null,
+    "height1": "55,9",
+    "height2": null,
+    "thickness1": "16,5",
+    "thickness2": null,
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": ""
+  }
+}

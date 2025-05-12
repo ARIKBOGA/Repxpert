@@ -1,0 +1,39 @@
+{
+  "reference": "2212301",
+  "id": "2212301",
+  "name": "Fren balata seti, diskli fren Q+",
+  "brand": "TEXTAR",
+  "wvaNumbers": [
+    "22123",
+    "22123 178  1 5",
+    "22124"
+  ],
+  "brand_oe_map": {
+    "BUICK": [
+      "26225439"
+    ],
+    "OPEL": [
+      "1605281",
+      "39122150",
+      "95517029",
+      "95524973"
+    ],
+    "VAUXHALL": [
+      "1605281",
+      "39122150",
+      "95517029"
+    ]
+  },
+  "eanNumber": "4019722477089",
+  "dimensions": {
+    "width1": "155",
+    "width2": null,
+    "height1": "68",
+    "height2": "61,8",
+    "thickness1": "17,8",
+    "thickness2": null,
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": ""
+  }
+}

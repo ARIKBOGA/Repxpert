@@ -1,0 +1,56 @@
+{
+  "reference": "181387-700",
+  "id": "181387-700",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "ICER",
+  "wvaNumbers": [
+    "20960",
+    "23516",
+    "23965",
+    "D340-7773"
+  ],
+  "brand_oe_map": {
+    "FORD": [
+      "1 133 447",
+      "1 205 697",
+      "1 207 509",
+      "1 207 518",
+      "1 207 519",
+      "1 343 513",
+      "1 343 515",
+      "1 345 337",
+      "5M21-2M008-AA",
+      "5M2J-2M008-AA",
+      "YM21-2M008-DA",
+      "YM2J-2M008-AA",
+      "YM2J-2M008-BA"
+    ],
+    "RENAULT": [
+      "86 60 004 484",
+      "86 71 016 748"
+    ],
+    "SEAT": [
+      "7M3 698 451",
+      "7M3 698 451 B"
+    ],
+    "VW": [
+      "7M3 698 451",
+      "7M3 698 451 A",
+      "7M3 698 451 B",
+      "7M3 698 451 C",
+      "7M3 698 451 E"
+    ]
+  },
+  "eanNumber": "8424073081575",
+  "dimensions": {
+    "width1": "87",
+    "width2": null,
+    "height1": "52,8",
+    "height2": null,
+    "thickness1": "17,2",
+    "thickness2": null,
+    "manufacturerRestriction": "",
+    "checkmark": "E9 90R-01110/375",
+    "SVHC": ""
+  }
+}

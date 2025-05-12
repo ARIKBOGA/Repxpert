@@ -1,0 +1,28 @@
+{
+  "reference": "141104-046",
+  "id": "141104-046",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "ICER",
+  "wvaNumbers": [
+    "21576",
+    "21577"
+  ],
+  "brand_oe_map": {
+    "VW": [
+      "2D0 698 151",
+      "2D0 698 151 C"
+    ]
+  },
+  "eanNumber": "8424073053329",
+  "dimensions": {
+    "width1": "156,4",
+    "width2": null,
+    "height1": "64,9",
+    "height2": null,
+    "thickness1": "20,5",
+    "thickness2": null,
+    "manufacturerRestriction": "",
+    "checkmark": "E1 90R-01101/074",
+    "SVHC": ""
+  }
+}

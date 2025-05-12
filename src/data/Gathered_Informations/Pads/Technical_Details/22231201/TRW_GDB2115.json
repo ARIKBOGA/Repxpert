@@ -1,0 +1,51 @@
+{
+  "reference": "GDB2115",
+  "id": "GDB2115",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "TRW",
+  "wvaNumbers": [
+    "25798",
+    "25864",
+    "25865"
+  ],
+  "brand_oe_map": {
+    "FORD": [
+      "2454300",
+      "2494035",
+      "5181858",
+      "5333787",
+      "5333798",
+      "5341206",
+      "5341207",
+      "DG9C-2M007-BA",
+      "DG9C-2M007-BB",
+      "DG9C-2M007-DB",
+      "DG9C-2M007-HA",
+      "KTJX612M007AEB",
+      "KTJX612M007AEC",
+      "KTJX612M007AED",
+      "KTLX612M007AEB",
+      "KTLX612M007BEA"
+    ],
+    "FORD USA": [
+      "2454300",
+      "5333798",
+      "DG9C-2M007-DB",
+      "DG9Z2200H",
+      "DG9Z2200K",
+      "KTLX612M007AEB"
+    ]
+  },
+  "eanNumber": "3322938319441",
+  "dimensions": {
+    "width1": "123",
+    "width2": null,
+    "height1": "48,6",
+    "height2": "53,4",
+    "thickness1": "15,2",
+    "thickness2": null,
+    "manufacturerRestriction": "ATE",
+    "checkmark": "E9 90R-02A0120/4202",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!"
+  }
+}

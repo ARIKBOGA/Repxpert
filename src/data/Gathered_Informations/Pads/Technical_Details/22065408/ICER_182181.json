@@ -1,0 +1,38 @@
+{
+  "reference": "182181",
+  "id": "182181",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "ICER",
+  "wvaNumbers": [
+    "22065",
+    "25970",
+    "D1737-8449"
+  ],
+  "brand_oe_map": {
+    "NISSAN": [
+      "D1060-4BA0A",
+      "D1060-4EA0A",
+      "D1060-4EA0A-VA",
+      "D1060-4EA0ARV",
+      "D1060-6MT0A",
+      "D1M60-4BA0A"
+    ],
+    "RENAULT": [
+      "41 06 04E A0A",
+      "86 60 004 059",
+      "86 60 004 559"
+    ]
+  },
+  "eanNumber": "8424073109248",
+  "dimensions": {
+    "width1": "141,8",
+    "width2": null,
+    "height1": "59,8",
+    "height2": null,
+    "thickness1": "17,3",
+    "thickness2": null,
+    "manufacturerRestriction": "",
+    "checkmark": "E9 90R-02A0111/4072",
+    "SVHC": ""
+  }
+}

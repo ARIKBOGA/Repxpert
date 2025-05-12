@@ -1,0 +1,31 @@
+{
+  "reference": "GDB2183",
+  "id": "GDB2183",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "TRW",
+  "wvaNumbers": [
+    "22434"
+  ],
+  "brand_oe_map": {
+    "LEXUS": [
+      "04466-48160",
+      "NS554"
+    ],
+    "TOYOTA": [
+      "04466-10010",
+      "NS554"
+    ]
+  },
+  "eanNumber": "3322938408572",
+  "dimensions": {
+    "width1": "121,2",
+    "width2": null,
+    "height1": "42,8",
+    "height2": null,
+    "thickness1": "14,5",
+    "thickness2": null,
+    "manufacturerRestriction": "",
+    "checkmark": "E9 90R-02A0120/4272",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!"
+  }
+}

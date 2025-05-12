@@ -1,0 +1,50 @@
+{
+  "reference": "181748",
+  "id": "181748",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "ICER",
+  "wvaNumbers": [
+    "23973",
+    "24403",
+    "D1491-8691"
+  ],
+  "brand_oe_map": {
+    "OPEL": [
+      "4 701 305",
+      "47 11 040",
+      "93 192 962",
+      "95 515 496"
+    ],
+    "RENAULT": [
+      "86 60 000 751",
+      "86 60 004 524"
+    ],
+    "SUZUKI": [
+      "55810-62J00",
+      "55810-62J00GAL",
+      "55810-62J01",
+      "55810-62J20",
+      "55810-62J30",
+      "55810-62J31",
+      "55810-62J50"
+    ],
+    "VAUXHALL": [
+      "47 08 239",
+      "93 192 962",
+      "93 196 814",
+      "95 515 496"
+    ]
+  },
+  "eanNumber": "8424073094544",
+  "dimensions": {
+    "width1": "116,4",
+    "width2": null,
+    "height1": "52,4",
+    "height2": null,
+    "thickness1": "17,3",
+    "thickness2": null,
+    "manufacturerRestriction": "",
+    "checkmark": "E9 90R-01111/754",
+    "SVHC": ""
+  }
+}

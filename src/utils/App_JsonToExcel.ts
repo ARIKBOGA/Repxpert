@@ -267,6 +267,9 @@ const REPLACE_MAP: Record<string, string> = {
   "KASA EGIK ARKA": "HB VAN",
   "SERISI": "CLASS",
   "COMBI": "KOMBI",
+  "CEE'D": "CEED",
+  "PRO CEED": "PROCEED",
+  "PRO CEE'D": "PROCEED",
 };
 
 main().catch(console.error);

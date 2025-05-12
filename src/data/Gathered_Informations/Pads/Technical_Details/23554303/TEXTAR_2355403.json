@@ -1,0 +1,64 @@
+{
+  "reference": "2355403",
+  "id": "2355403",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "TEXTAR",
+  "wvaNumbers": [
+    "20961",
+    "23516",
+    "23554",
+    "23554 172  1 5",
+    "23965",
+    "7335D340",
+    "7773D340"
+  ],
+  "brand_oe_map": {
+    "AUDI": [
+      "7M3698451",
+      "7M3698451B",
+      "7M3698451C",
+      "7M3698451E"
+    ],
+    "FORD": [
+      "1133447",
+      "1207519",
+      "1343513",
+      "1345337",
+      "5M212M008AA",
+      "5M2J2M008AA",
+      "YM212M008AA",
+      "YM212M008DA",
+      "YM2J2M008AA"
+    ],
+    "SEAT": [
+      "7M3698451",
+      "7M3698451B",
+      "7M3698451C",
+      "7M3698451E"
+    ],
+    "SKODA": [
+      "7M3698451",
+      "7M3698451B",
+      "7M3698451C",
+      "7M3698451E"
+    ],
+    "VW": [
+      "7M3698451",
+      "7M3698451B",
+      "7M3698451C",
+      "7M3698451E"
+    ]
+  },
+  "eanNumber": "4019722265563",
+  "dimensions": {
+    "width1": "87",
+    "width2": null,
+    "height1": "53",
+    "height2": null,
+    "thickness1": "17,2",
+    "thickness2": null,
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": ""
+  }
+}

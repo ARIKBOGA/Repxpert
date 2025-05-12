@@ -1,0 +1,61 @@
+{
+  "reference": "GDB496",
+  "id": "GDB496",
+  "name": "Fren balata seti, diskli fren COTEC",
+  "brand": "TRW",
+  "wvaNumbers": [
+    "21515",
+    "21516",
+    "21517"
+  ],
+  "brand_oe_map": {
+    "HONDA": [
+      "45022-S74-E10",
+      "45022-S74-E50",
+      "45022-SK3-E00",
+      "45022-ST3-E00",
+      "45022-ST3-E01",
+      "45022-ST3-E10",
+      "45022-ST3-E20",
+      "45022-ST3-E22",
+      "45022-ST3-E30",
+      "45022SK3E00HS",
+      "45022SK3E01HS",
+      "45221-SK3-E01"
+    ],
+    "LOTUS": [
+      "GBP90336"
+    ],
+    "MG": [
+      "GBP90325",
+      "SFP 000390",
+      "SFP 000410"
+    ],
+    "ROVER": [
+      "GBP 90315 AF",
+      "GBP 90336 AF",
+      "GBP90315",
+      "GBP90324",
+      "GBP90325",
+      "GBP90325AF",
+      "GBP90336",
+      "GBP90340",
+      "GBP90340AF",
+      "SFP000390",
+      "SFP000410",
+      "SFP100260"
+    ]
+  },
+  "eanNumber": "3322936404965",
+  "dimensions": {
+    "width1": "129,2",
+    "width2": null,
+    "height1": "68,6",
+    "height2": null,
+    "thickness1": "18",
+    "thickness2": null,
+    "manufacturerRestriction": "TRW",
+    "checkmark": "E1 90R 01024/256",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!"
+  }
+}
