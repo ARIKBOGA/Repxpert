@@ -1,0 +1,47 @@
+{
+  "reference": "2223101",
+  "id": "2223101",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "TEXTAR",
+  "wvaNumbers": [
+    "22231",
+    "22231 159  0 5",
+    "22232",
+    "22233",
+    "8893D1833"
+  ],
+  "brand_oe_map": {
+    "FORD": [
+      "5181858",
+      "5333787",
+      "5333798",
+      "5341207",
+      "5341209",
+      "BRF1497",
+      "BRF1499",
+      "DG9C2M007BA",
+      "DG9C2M007BB",
+      "DG9C2M007DB",
+      "DG9C2M007HA",
+      "DG9C2M007JA",
+      "DG9Z2200H",
+      "DG9Z2200K"
+    ],
+    "LINCOLN": [
+      "DG9Z2200B",
+      "DG9Z2200L"
+    ]
+  },
+  "eanNumber": "4019722478109",
+  "dimensions": {
+    "width1": "123,2",
+    "width2": null,
+    "height1": "48,4",
+    "height2": "53,2",
+    "thickness1": "15,9",
+    "thickness2": null,
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": ""
+  }
+}

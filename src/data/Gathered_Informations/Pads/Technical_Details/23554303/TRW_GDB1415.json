@@ -1,0 +1,61 @@
+{
+  "reference": "GDB1415",
+  "id": "GDB1415",
+  "name": "Fren balata seti, diskli fren COTEC",
+  "brand": "TRW",
+  "wvaNumbers": [
+    "20961",
+    "23516"
+  ],
+  "brand_oe_map": {
+    "AUDI": [
+      "7M3 698 451 A"
+    ],
+    "FORD": [
+      "1109015",
+      "1133447",
+      "1133448",
+      "1205697",
+      "1207518",
+      "1207519",
+      "1343513",
+      "1345337",
+      "1386603",
+      "5M21-2M008-AA",
+      "YM212M008BA",
+      "YM212M008DA",
+      "YM2J-2M008-BA",
+      "YM2J2M008AA"
+    ],
+    "SEAT": [
+      "7M3 698 451",
+      "7M3 698 451 A",
+      "7M3 698 451 B",
+      "7M3 698 451 C",
+      "7M3 698 451 E"
+    ],
+    "SKODA": [
+      "7M3 698 451 A"
+    ],
+    "VW": [
+      "7M3 698 451",
+      "7M3 698 451 A",
+      "7M3 698 451 B",
+      "7M3 698 451 C",
+      "7M3 698 451 E",
+      "7M3 698 451 G"
+    ]
+  },
+  "eanNumber": "3322937278565",
+  "dimensions": {
+    "width1": "87",
+    "width2": null,
+    "height1": "52,9",
+    "height2": null,
+    "thickness1": "17",
+    "thickness2": null,
+    "manufacturerRestriction": "TRW",
+    "checkmark": "E9 90R 01120/457",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!"
+  }
+}

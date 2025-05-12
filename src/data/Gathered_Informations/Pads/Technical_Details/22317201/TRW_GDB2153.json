@@ -1,0 +1,37 @@
+{
+  "reference": "GDB2153",
+  "id": "GDB2153",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "TRW",
+  "wvaNumbers": [
+    "22317",
+    "22318"
+  ],
+  "brand_oe_map": {
+    "POLESTAR": [
+      "31499905"
+    ],
+    "VOLVO": [
+      "00000000032373124",
+      "31445976",
+      "31499905",
+      "31499906"
+    ],
+    "VOLVO ASIA": [
+      "31499905",
+      "31499906"
+    ]
+  },
+  "eanNumber": "3322938374907",
+  "dimensions": {
+    "width1": "181,4",
+    "width2": "180,2",
+    "height1": "75",
+    "height2": null,
+    "thickness1": "18",
+    "thickness2": "18,5",
+    "manufacturerRestriction": "ATE",
+    "checkmark": "E9 90R-02A0107/4560",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!"
+  }
+}

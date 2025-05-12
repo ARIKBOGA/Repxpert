@@ -1,0 +1,35 @@
+{
+  "reference": "2525001",
+  "id": "2525001",
+  "name": "Fren balata seti, diskli fren Q+",
+  "brand": "TEXTAR",
+  "wvaNumbers": [
+    "25250",
+    "25250 187  1 5",
+    "25251",
+    "9356D2120",
+    "9359D2123"
+  ],
+  "brand_oe_map": {
+    "CITROËN": [
+      "1608691380",
+      "1619790580"
+    ],
+    "PEUGEOT": [
+      "1619790580",
+      "1647863480"
+    ]
+  },
+  "eanNumber": "4019722454660",
+  "dimensions": {
+    "width1": "133",
+    "width2": null,
+    "height1": "59,9",
+    "height2": "52,6",
+    "thickness1": "18,7",
+    "thickness2": null,
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "reference": "182049",
+  "id": "182049",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "ICER",
+  "wvaNumbers": [
+    "25307",
+    "25308",
+    "D1613-8826"
+  ],
+  "brand_oe_map": {
+    "BMW": [
+      "34 20 6 799 809",
+      "34 20 6 873 093",
+      "34 20 6 873 094",
+      "34 21 2 468 436",
+      "34 21 6 850 569",
+      "34 21 6 873 093",
+      "34 21 8 855 013"
+    ]
+  },
+  "eanNumber": "8424073105288",
+  "dimensions": {
+    "width1": "123,1",
+    "width2": null,
+    "height1": "45,2",
+    "height2": "46,6",
+    "thickness1": "17,5",
+    "thickness2": null,
+    "manufacturerRestriction": "",
+    "checkmark": "E9 90R-02A0111/3182",
+    "SVHC": ""
+  }
+}

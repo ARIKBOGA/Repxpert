@@ -1,0 +1,57 @@
+{
+  "reference": "2449801",
+  "id": "2449801",
+  "name": "Fren balata seti, diskli fren Q+",
+  "brand": "TEXTAR",
+  "wvaNumbers": [
+    "24498",
+    "24498 154  0 5",
+    "24499",
+    "24500",
+    "8391D1275"
+  ],
+  "brand_oe_map": {
+    "CHEVROLET": [
+      "19171816",
+      "19208345",
+      "42786002",
+      "95459513"
+    ],
+    "GENERAL MOTORS": [
+      "96626076"
+    ],
+    "GMC": [
+      "20801538"
+    ],
+    "OPEL": [
+      "1605123",
+      "4817791",
+      "4819239",
+      "95459513",
+      "95599731",
+      "96626075"
+    ],
+    "PONTIAC": [
+      "19168900"
+    ],
+    "SATURN": [
+      "19208346"
+    ],
+    "VAUXHALL": [
+      "95599731",
+      "96626076"
+    ]
+  },
+  "eanNumber": "4019722289798",
+  "dimensions": {
+    "width1": "110,9",
+    "width2": null,
+    "height1": "45,7",
+    "height2": null,
+    "thickness1": "15,4",
+    "thickness2": null,
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": ""
+  }
+}

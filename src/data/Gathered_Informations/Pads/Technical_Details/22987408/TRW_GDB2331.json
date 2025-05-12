@@ -1,0 +1,31 @@
+{
+  "reference": "GDB2331",
+  "id": "GDB2331",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "TRW",
+  "wvaNumbers": [
+    "22987"
+  ],
+  "brand_oe_map": {
+    "MERCEDES-BENZ": [
+      "000 420 76 00",
+      "A 000 420 76 00"
+    ],
+    "MERCEDES-BENZ (BBDC)": [
+      "000 420 58 03",
+      "A0004205803"
+    ]
+  },
+  "eanNumber": "3322938520083",
+  "dimensions": {
+    "width1": "113",
+    "width2": null,
+    "height1": "54,3",
+    "height2": null,
+    "thickness1": "17,5",
+    "thickness2": null,
+    "manufacturerRestriction": "CBI",
+    "checkmark": "E9 90R-02A120/5384",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!"
+  }
+}
