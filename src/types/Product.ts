@@ -6,7 +6,7 @@ export type Product = {
   name: string; // Ürün adı
   brand?: string;
   eanNumber?: string | number;
-  oeNumbers?: string[] | Set<string>; // OE numaraları
+  oeNumbers?: Map<string, Set<string>>; // OE numaraları
   wvaNumbers?: string[];
   dimensions?: Dimensions | undefined; // Boyutlar
   [key: string]: any; // Ek alanlar için esneklik

@@ -56,6 +56,24 @@ test.describe('REPXPERT ürünleri', () => {
           const heightValues = await getDimensionValuesSmart(page, ['Yükseklik']);
           const thicknessValues = await getDimensionValuesSmart(page, ['Kalınlık']); // sadece gerekiyorsa
 
+          await page.waitForTimeout(1000); // Sayfanın tam yüklenmesi için bekle
+          //await page.pause(); // Sayfayı durdur
+          const oeBrands = await getMultipleTexts(page.locator("//mat-panel-title"));
+          const brandOeMap: Map<string, Set<string>> = new Map();
+          for (let i = 0; i < oeBrands.length; i++) {
+            const brand = oeBrands[i]?.trim() || "";
+            const oeNumbersOfBrand = await getMultipleTexts(page.locator(`(//mat-panel-title)[${i + 1}]//..//..//following-sibling::div//span[@class='mat-mdc-list-item-unscoped-content']`));
+            const oeNumbersSet = new Set(oeNumbersOfBrand.map(oe => oe.trim()));
+            for (const oe of oeNumbersSet) {
+              console.log(`OE numarası: ${oe}`);
+            }
+            if (brandOeMap.has(brand)) {
+              oeNumbersSet.forEach(oe => brandOeMap.get(brand)?.add(oe));
+            } else {
+              brandOeMap.set(brand, oeNumbersSet);
+            }
+          }
+
           const dimensions: Dimensions = {
             width1: widthValues[0] ?? null,
             width2: widthValues[1] ?? null,
@@ -75,7 +93,7 @@ test.describe('REPXPERT ürünleri', () => {
             name: productName,
             brand: productTitle.split(' ')[0],
             wvaNumbers: wvaNumbers,
-            oeNumbers,
+            brandOeMap: brandOeMap,
             eanNumber,
             dimensions,
           };
@@ -101,3 +119,6 @@ test.describe('REPXPERT ürünleri', () => {
     });
   }
 });
+
+
+// Gruplu oe ler: //*[starts-with(@id,'cdk-accordion-child-0')]//span[@class='mat-mdc-list-item-unscoped-content mdc-list-item__primary-text']
