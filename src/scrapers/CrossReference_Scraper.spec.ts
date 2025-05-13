@@ -63,17 +63,23 @@ test.describe('YV NO ve Textar kodları ile Cross Numbers tarayıcı', () => {
             const makers = await makersPromise;
             const crossNumbers = await crossNumbersPromise;
 
-            const crossNumbersSet = new Set<StringPair>();
+            const crossNumbersSet = new Set<string>(); // StringPair yerine string saklayacağız
+            const stringPairs: StringPair[] = []; // StringPair[] dizisi oluşturduk
+
             for (let i = 0; i < makers.length; i++) {
                 const maker = makers[i].trim();
                 const crossNumberArray = crossNumbers[i].split(',').map(crossNumber => crossNumber.trim());
 
                 for (const number of crossNumberArray) {
-                    crossNumbersSet.add({ maker, crossNumber: number });
+                    const pairString = JSON.stringify({ maker, crossNumber: number }); // Çifti stringe dönüştür
+                    if (!crossNumbersSet.has(pairString)) { // String yoksa ekle
+                        crossNumbersSet.add(pairString);
+                        stringPairs.push({ maker, crossNumber: number }); // stringPairs dizisine de ekle
+                    }
                 }
             }
 
-            const crossNumbersMapSerializable = setToSerializableObject(crossNumbersSet);
+            const crossNumbersMapSerializable = setToSerializableObject(new Set(stringPairs)); // stringPairs Set'e dönüştürülerek gönderildi
             const productId = productTitle.replace('Product', '').trim();
 
             const product: any = {
