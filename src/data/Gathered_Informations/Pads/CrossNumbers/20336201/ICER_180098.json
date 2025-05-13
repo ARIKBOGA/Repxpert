@@ -1,79 +1,119 @@
 {
   "yvNo": "20336201",
   "id": "180098",
-  "Reference": "2033602",
+  "Brand_Reference": "180098",
   "crossNumbers": [
     {
       "maker": "ATE",
       "crossNumber": "13.0460-3961.2"
     },
     {
-      "maker": "B.M.",
+      "maker": "ATE",
       "crossNumber": "603961"
     },
     {
-      "maker": "BENDIX ANTIGUO",
+      "maker": "B.M.",
       "crossNumber": "S793"
     },
     {
-      "maker": "BENDIX-ROULUNDS",
+      "maker": "BENDIX ANTIGUO",
       "crossNumber": "571243B"
     },
     {
-      "maker": "BOSCH",
+      "maker": "BENDIX-ROULUNDS",
       "crossNumber": "510124"
     },
     {
-      "maker": "BREMBO",
+      "maker": "BOSCH",
       "crossNumber": "0 986 463 490"
     },
     {
-      "maker": "DELPHI LOCKHEED",
+      "maker": "BREMBO",
       "crossNumber": "P 68 002"
     },
     {
-      "maker": "FERODO",
+      "maker": "DELPHI LOCKHEED",
       "crossNumber": "LP146"
     },
     {
-      "maker": "FMSI",
+      "maker": "FERODO",
       "crossNumber": "FDB114"
     },
     {
-      "maker": "GIRLING",
+      "maker": "FMSI",
       "crossNumber": "D1163-8274"
     },
     {
-      "maker": "HELLA-PAGID",
+      "maker": "FMSI",
       "crossNumber": "D98-793"
     },
     {
-      "maker": "MINTEX",
+      "maker": "GIRLING",
       "crossNumber": "6101493"
     },
     {
-      "maker": "NECTO",
+      "maker": "HELLA-PAGID",
       "crossNumber": "T0628"
     },
     {
-      "maker": "ROAD HOUSE",
+      "maker": "MINTEX",
       "crossNumber": "MDB1065"
     },
     {
-      "maker": "TEXTAR",
+      "maker": "NECTO",
       "crossNumber": "FD614A"
     },
     {
-      "maker": "TRW",
+      "maker": "ROAD HOUSE",
       "crossNumber": "2021.32"
     },
     {
-      "maker": "VALEO",
+      "maker": "ROAD HOUSE",
       "crossNumber": "2021.36"
     },
     {
-      "maker": "WVA",
+      "maker": "TEXTAR",
       "crossNumber": "20336 140  0 5 T424"
+    },
+    {
+      "maker": "TEXTAR",
+      "crossNumber": "2033602"
+    },
+    {
+      "maker": "TRW",
+      "crossNumber": "GDB149"
+    },
+    {
+      "maker": "VALEO",
+      "crossNumber": "598085"
+    },
+    {
+      "maker": "WVA",
+      "crossNumber": "20248"
+    },
+    {
+      "maker": "WVA",
+      "crossNumber": "20336"
+    },
+    {
+      "maker": "WVA",
+      "crossNumber": "20337"
+    },
+    {
+      "maker": "WVA",
+      "crossNumber": "20338"
+    },
+    {
+      "maker": "WVA",
+      "crossNumber": "20339"
+    },
+    {
+      "maker": "WVA",
+      "crossNumber": "20415"
+    },
+    {
+      "maker": "WVA",
+      "crossNumber": "20416"
     }
   ]
 }
