@@ -1,6 +1,6 @@
 import { test } from '@playwright/test';
-import { mapToSerializableObject, readProductReferencesFromExcel } from '../utils/ScraperHelpers';
-import { getMultipleTexts } from '../utils/extractHelpers';
+import { readProductReferencesFromExcel } from '../utils/ScraperHelpers';
+import ConfigReader  from '../utils/ConfigReader';
 import * as fs from 'fs';
 import * as path from 'path';
 
@@ -10,11 +10,6 @@ interface StringPair {
     crossNumber: string;
 }
 
-// Yardımcı fonksiyon: StringPair nesnelerini içeren Set'i JSON.stringify ile kullanılabilir bir nesneye dönüştürür
-function setToSerializableObject(set: Set<StringPair>) {
-    return Array.from(set);
-}
-
 const refrences = readProductReferencesFromExcel();
 
 test.describe('YV NO ve Textar kodları ile Cross Numbers tarayıcı', () => {
@@ -22,11 +17,16 @@ test.describe('YV NO ve Textar kodları ile Cross Numbers tarayıcı', () => {
     for (const ref of refrences) {
         const yvNo = ref.yvNo;
         const brandRefs = ref.brandRefs;
-        const textarNo = brandRefs['TEXTAR']; // Textar değerini brandRefs objesinden alıyoruz.
+        const refBrand = brandRefs['TEXTAR']; // Brand değerini brandRefs objesinden alıyoruz. Excel'deki sütun adı TEXTAR / ICER vb.
 
-        test(`${yvNo} / ${textarNo} koduyla veri topla`, async ({ page }) => {
+        if(refBrand === undefined || refBrand === null || refBrand.trim() === '') {
+            //console.log(`YV No: ${yvNo} için geçerli bir referans kodu bulunamadı.`);
+            continue; // Geçerli bir referans kodu yoksa döngüden çık
+        }
 
-            await page.goto('https://www.icerbrakes.com/en/Catalogue');
+        test(`${yvNo} / ${refBrand} koduyla veri topla`, async ({ page }) => {
+
+            await page.goto(ConfigReader.getEnvVariable("CROSS_NUMBERS_URL"));
 
             await page.waitForLoadState('networkidle')
             await page.getByRole('button', { name: 'Accept Recommended Settings' }).click();
@@ -35,19 +35,18 @@ test.describe('YV NO ve Textar kodları ile Cross Numbers tarayıcı', () => {
             await page.getByText('&amp;lt;br /&amp;gt;&amp;lt;p').contentFrame().getByRole('link', { name: 'Cross reference' }).click();
 
             await page.waitForLoadState('networkidle')
-            await page.getByText('&amp;lt;br /&amp;gt;&amp;lt;p').contentFrame().getByRole('textbox', { name: 'Cross reference' }).fill(textarNo);
+            await page.getByText('&amp;lt;br /&amp;gt;&amp;lt;p').contentFrame().getByRole('textbox', { name: 'Cross reference' }).fill(refBrand);
             await page.getByText('&amp;lt;br /&amp;gt;&amp;lt;p').contentFrame().getByRole('button', { name: 'Filter' }).click();
 
-            await page.waitForLoadState('domcontentloaded')
-
+            
             // iframe e gir
-            const iframe = page.frameLocator('#frmCatalogo');
-            const seeMoreInfoLink = iframe.locator("//a[.='See more info']");
-            await seeMoreInfoLink.click();
-
             await page.waitForLoadState('domcontentloaded')
-            const othersLink = iframe.locator("//a[.='Others']");
-            await othersLink.click();
+            const iframe = page.frameLocator('#frmCatalogo');
+
+            // Birden fazla ürün çıksa dahi aranan kodun bulunduğu ilk ürünü seç
+            const productLink = iframe.locator("//h3/a");
+            await productLink.click();
+        
 
 
             await page.waitForLoadState('domcontentloaded')
@@ -57,36 +56,37 @@ test.describe('YV NO ve Textar kodları ile Cross Numbers tarayıcı', () => {
                 productTitle = 'Unknown Product';
             }
 
-            const makersPromise = getMultipleTexts(iframe.locator("//div[@id='referenciasOtras']//tr/td[1]"));
-            const crossNumbersPromise = getMultipleTexts(iframe.locator("//div[@id='referenciasOtras']//tr/td[2]"));
+            const makerElements = iframe.locator("//div[@id='referenciasOtras']//tr/td[1]").allTextContents();
+            const crossNumbersElements = iframe.locator("//div[@id='referenciasOtras']//tr/td[2]").allInnerTexts();
 
-            const makers = await makersPromise;
-            const crossNumbers = await crossNumbersPromise;
-
-            const crossNumbersSet = new Set<string>(); // StringPair yerine string saklayacağız
+            const makers = (await makerElements).map((element) => {
+                return element.trim();
+            });
+            const crossNumbers = (await crossNumbersElements).map((element) => {
+                return element.trim();
+            });
+            
+            
             const stringPairs: StringPair[] = []; // StringPair[] dizisi oluşturduk
 
+        
             for (let i = 0; i < makers.length; i++) {
-                const maker = makers[i].trim();
-                const crossNumberArray = crossNumbers[i].split(',').map(crossNumber => crossNumber.trim());
-
-                for (const number of crossNumberArray) {
-                    const pairString = JSON.stringify({ maker, crossNumber: number }); // Çifti stringe dönüştür
-                    if (!crossNumbersSet.has(pairString)) { // String yoksa ekle
-                        crossNumbersSet.add(pairString);
-                        stringPairs.push({ maker, crossNumber: number }); // stringPairs dizisine de ekle
-                    }
+                const maker = makers[i];
+                const crossNumber = crossNumbers[i];
+                const existingPair = stringPairs.find(pair => pair.maker === maker && pair.crossNumber === crossNumber);
+                if (!existingPair) {
+                    stringPairs.push({ maker, crossNumber });
                 }
             }
 
-            const crossNumbersMapSerializable = setToSerializableObject(new Set(stringPairs)); // stringPairs Set'e dönüştürülerek gönderildi
+            
             const productId = productTitle.replace('Product', '').trim();
 
             const product: any = {
                 yvNo: yvNo,
                 id: productId,
-                Reference: textarNo,
-                crossNumbers: crossNumbersMapSerializable,
+                Brand_Reference: refBrand,
+                crossNumbers: stringPairs,
             }
 
             // Klasör yolunu oluştur
@@ -95,7 +95,7 @@ test.describe('YV NO ve Textar kodları ile Cross Numbers tarayıcı', () => {
             // Klasör yoksa oluştur
             if (!fs.existsSync(dirPath)) {
                 fs.mkdirSync(dirPath, { recursive: true }); // recursive: true ile iç içe klasörler oluşturulabilir
-                console.log(`Klasör oluşturuldu: ${dirPath}`);
+                //console.log(`Klasör oluşturuldu: ${dirPath}`);
             }
 
             // Dosya adını ve yolunu oluştur
