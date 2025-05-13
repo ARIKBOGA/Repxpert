@@ -90,7 +90,7 @@ test.describe('YV NO ve Textar kodları ile Cross Numbers tarayıcı', () => {
             }
 
             // Klasör yolunu oluştur
-            const dirPath = path.resolve(`src/data/Gathered_Informations/Pads/CrossNumbers/${yvNo}`);
+            const dirPath = path.resolve(`src/data/Gathered_Informations/Pads/CrossNumbers/YV_CODES/${yvNo}`);
 
             // Klasör yoksa oluştur
             if (!fs.existsSync(dirPath)) {
