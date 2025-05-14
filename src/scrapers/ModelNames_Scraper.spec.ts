@@ -8,7 +8,7 @@ import { loginEnglishRepxpertPage, mapToSerializableObject } from '../utils/Scra
 
 
 function readBrandsFromExcel(): string[] {
-    const excelPath = path.resolve(__dirname, '../data/katalogInfo/excels/marka_seri_no.xlsx');
+    const excelPath = path.resolve(__dirname, '../data/katalogInfo/excels/marka_new.xlsx');
     const workbook = xlsx.readFile(excelPath);
     const sheet = workbook.Sheets[workbook.SheetNames[0]];
     const data = xlsx.utils.sheet_to_json<Record<string, any>>(sheet, { defval: "" });
@@ -28,7 +28,8 @@ function readBrandsFromExcel(): string[] {
 
 test.describe('Model Name Scraper', () => {
 
-    const brandNames = ["TOFAS"];  // Read from files by readBrandsFromExcel function or add brands manually to this array
+    test.describe.configure({ timeout: 2 * 60 * 60 * 1000 }); // 2 hours
+    const brandNames = readBrandsFromExcel();   //["TOFAS"];  // Read from files by readBrandsFromExcel function or add brands manually to this array
 
     test(`Scrape model names for all brands`, async ({ page }) => {
 
@@ -50,13 +51,15 @@ test.describe('Model Name Scraper', () => {
 
         const allModels: Map<string, Set<string>> = new Map();
 
+        await page.waitForTimeout(1000);
+            await selectBox.click();
+
         for (const brandName of brandNames) {
             //console.log(`Marka: ${brandName} için elementler aranıyor...`);
-            await page.waitForTimeout(1000);
-            await selectBox.click();
+            
             await selectBox.fill(brandName);
             await page.waitForLoadState('domcontentloaded');
-            await page.waitForTimeout(1000);
+            await page.waitForTimeout(500);
 
             try {
                 // Marka adının dropdown'da görünmesini bekle ve tıkla
@@ -89,7 +92,7 @@ test.describe('Model Name Scraper', () => {
 
 
         // Write allMadels to a JSON file
-        const jsonFilePath = path.resolve('src/data/Gathered_Informations/CarModels/model_names_SECOND.json');
+        const jsonFilePath = path.resolve('src/data/Gathered_Informations/CarModels/model_names_FULL.json');
         const jsonData = JSON.stringify(serializedMap, null, 2);
         fs.writeFileSync(jsonFilePath, jsonData, 'utf-8');
         console.log(`Model names for ${brandNames} have been written to ${jsonFilePath}`);
