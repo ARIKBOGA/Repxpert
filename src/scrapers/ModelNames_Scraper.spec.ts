@@ -4,7 +4,7 @@ import fs from 'fs';
 import path from 'path';
 import ConfigReader from '../utils/ConfigReader';
 import { getMultipleTexts } from '../utils/extractHelpers';
-import { mapToSerializableObject } from '../utils/ScraperHelpers';
+import { loginEnglishRepxpertPage, mapToSerializableObject } from '../utils/ScraperHelpers';
 
 
 function readBrandsFromExcel(): string[] {
@@ -28,23 +28,12 @@ function readBrandsFromExcel(): string[] {
 
 test.describe('Model Name Scraper', () => {
 
-    const brandNames = readBrandsFromExcel();
+    const brandNames = ["TOFAS"];
 
     test(`Scrape model names for all brands`, async ({ page }) => {
 
-        const url = ConfigReader.getEnvVariable("REPXPERT_ENGLISH_URL");
-        await page.goto(url);
-        await page.waitForLoadState('domcontentloaded');
-        await page.waitForSelector('button:has-text("Accept All Cookies")');
-
-        // Click on the "Accept All Cookies" button
-        await page.getByRole('button', { name: 'Accept All Cookies' }).click();
-        await page.getByRole('link', { name: 'Login | Register' }).click();
-        await page.getByRole('textbox', { name: 'E-Mail Address' }).fill('work_env1@outlook.com');
-        await page.getByRole('textbox', { name: 'Password' }).fill('SaKmB3UdupsGMk8*');
-        await page.getByRole('button', { name: 'Login' }).click();
-        await page.waitForLoadState('domcontentloaded');
-
+        // Login to the English RepXpert page
+        await loginEnglishRepxpertPage(page);
 
         // Wait for the user name to be visible
         await page.waitForSelector("//*[@class='name']");
