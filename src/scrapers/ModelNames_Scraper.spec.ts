@@ -6,6 +6,7 @@ import ConfigReader from '../utils/ConfigReader';
 import { getMultipleTexts } from '../utils/extractHelpers';
 import { loginEnglishRepxpertPage, mapToSerializableObject } from '../utils/ScraperHelpers';
 
+/*
 
 function readBrandsFromExcel(): string[] {
     const excelPath = path.resolve(__dirname, '../data/katalogInfo/excels/marka_new.xlsx');
@@ -25,14 +26,15 @@ function readBrandsFromExcel(): string[] {
     return brands;
 }
 
+*/
 
 test.describe('Model Name Scraper', () => {
 
     test.describe.configure({ timeout: 2 * 60 * 60 * 1000 }); // 2 hours
     let rerunList: string[] = [
-        "QIANTU", "QINGQI", "QIYUAN", "QJMOTOR", "QOODER", "QOROS", "QUADRO", "QVALE", "R AUTO"
-    ]
-    const brandNames = readBrandsFromExcel();  // ["YEZDI", "YIBEN", "YObykes", "YUANHANG", "YUDO", "YUEJIN","YUGO"];  Read from files by readBrandsFromExcel function or add brands manually to this array
+        "PLYMOUTH", "POCCO"
+    ];
+    //const brandNames = readBrandsFromExcel();  // ["YEZDI", "YIBEN", "YObykes", "YUANHANG", "YUDO", "YUEJIN","YUGO"];  Read from files by readBrandsFromExcel function or add brands manually to this array
 
 
     test(`Scrape model names for all brands`, async ({ page }) => {
@@ -40,7 +42,7 @@ test.describe('Model Name Scraper', () => {
         // Login to the English RepXpert page
         // await loginEnglishRepxpertPage(page);
 
-        await page.goto(ConfigReader.getEnvVariable("REPXPERT_ENGLISH_URL") || "");
+        await page.goto("https://www.repxpert.co.uk/en-gb/catalog");
         await page.waitForLoadState('domcontentloaded');
 
         // Wait for the user name to be visible
@@ -99,7 +101,7 @@ test.describe('Model Name Scraper', () => {
 
 
         // Write allMadels to a JSON file
-        const jsonFilePath = path.resolve('src/data/Gathered_Informations/CarModels/model_names_eksikler.json');
+        const jsonFilePath = path.resolve('src/data/Gathered_Informations/CarModels/model_names_home.json');
         const jsonData = JSON.stringify(serializedMap, null, 2);
         fs.writeFileSync(jsonFilePath, jsonData, 'utf-8');
         //console.log(`Model names for ${brandNames} have been written to ${jsonFilePath}`);
