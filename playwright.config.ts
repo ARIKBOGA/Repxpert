@@ -12,7 +12,7 @@ import { defineConfig, devices } from "@playwright/test";
  * See https://playwright.dev/docs/test-configuration.
  */
 export default defineConfig({
-  //globalSetup: "./storage/globalSetup.ts",
+  globalSetup: "./storage/globalSetup.ts",
   timeout: 40 * 60 * 1000, // 40 dakika
   testDir: "./src",
   /* Run tests in files in parallel */
@@ -36,7 +36,7 @@ export default defineConfig({
     // Her bir adımın (örn. locator.click, locator.getByText) timeout süresi
     actionTimeout: 10 * 1000, // örneğin 30 saniye
     navigationTimeout: 60 * 1000,
-    storageState: "storage/LoginAuth.json" // Oturum açma bilgilerini içeren dosya
+    storageState: "storage/LoginAuthEnglish.json" // Oturum açma bilgilerini içeren dosya
   },
 
   /* Configure projects for major browsers */
