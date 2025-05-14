@@ -30,7 +30,7 @@ test.describe('Model Name Scraper', () => {
 
     test.describe.configure({ timeout: 2 * 60 * 60 * 1000 }); // 2 hours
     let rerunList: string[] = [
-        "POLARIS", "POLARSUN", "POLESTAR", "POLESTONES", "PONTIAC", "PORSCHE", "PRAGA", "PREMIER", "PRIKE", "PROTON", "PUCH", "PUMA", "PUR EV", "PYEONGHWA (PMC)", "QIANTU", "QINGQI", "QIYUAN", "QJMOTOR", "QOODER", "QOROS", "QUADRO", "QVALE", "R AUTO", "RADAR", "RAKATA MOTOR", "RAM", "RAMBLER", "RANGER", "RASANDIK", "RAVON", "RAYTON FISSORE", "RCEV", "REACH", "RED STAR", "REFINE", "REGAL RAPTOR", "RELIANT", "RELY", "RENAULT (DFAC)", "RENAULT", "RENAULT TRUCKS", "REVA", "REVOLT", "REX", "RIEJU", "RIICH", "RILEY", "RIVERO", "RIVIAN"
+        "QIANTU", "QINGQI", "QIYUAN", "QJMOTOR", "QOODER", "QOROS", "QUADRO", "QVALE", "R AUTO"
     ]
     const brandNames = readBrandsFromExcel();  // ["YEZDI", "YIBEN", "YObykes", "YUANHANG", "YUDO", "YUEJIN","YUGO"];  Read from files by readBrandsFromExcel function or add brands manually to this array
 
