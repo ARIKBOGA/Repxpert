@@ -5,7 +5,7 @@ async function globalSetup() {
   const browser: Browser = await chromium.launch({ headless: true });
   const context = await browser.newContext();
   const page: Page = await context.newPage();
-  await page.goto(ConfigReader.getEnvVariable("REPXPERT_URL") || "");
+  await page.goto(ConfigReader.getEnvVariable("REPXPERT__URL") || "");
   if (page.getByRole("button", { name: "Tüm Tanımlama Bilgilerini" })) {
     await page.getByRole("button", { name: "Tüm Tanımlama Bilgilerini" }).click();
   }
@@ -27,4 +27,31 @@ async function globalSetup() {
   await browser.close();
 }
 
-export default globalSetup;
+
+async function globalSetupEnglish() {
+  const browser: Browser = await chromium.launch({ headless: false });
+  const context = await browser.newContext();
+  const page: Page = await context.newPage();
+  await page.goto(ConfigReader.getEnvVariable("REPXPERT_HOME_ENGLISH_URL") || "");
+  if (page.getByRole("button", { name: "Accept All Cookies" })) {
+    await page.getByRole("button", { name: "Accept All Cookies" }).click();
+  }
+  await page.getByRole("link", { name: "Login | Register" }).click();
+  await page.getByRole("textbox", { name: "E-Mail Address" })
+    .fill(ConfigReader.getEnvVariable("REPXPERT_ENGLISH_EMAIL") || "");
+  await page.getByRole("textbox", { name: "Password" })
+    .fill(ConfigReader.getEnvVariable("REPXPERT_ENGLISH_PASSWORD") || "");
+  await page.getByRole("button", { name: "Login" }).click();
+
+  await expect(page.getByRole("link", { name: ConfigReader.getEnvVariable("REPXPERT_ENGLISH_NAME") })).toBeVisible({ timeout: 5000 });
+
+  // Save the state of the page
+  await page.context().storageState({
+    path: "storage/LoginAuthEnglish.json",
+  });
+
+  // Close the browser
+  await browser.close();
+}
+
+export default globalSetupEnglish;
