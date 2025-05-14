@@ -29,12 +29,19 @@ function readBrandsFromExcel(): string[] {
 test.describe('Model Name Scraper', () => {
 
     test.describe.configure({ timeout: 2 * 60 * 60 * 1000 }); // 2 hours
-    const brandNames = readBrandsFromExcel();   //["TOFAS"];  // Read from files by readBrandsFromExcel function or add brands manually to this array
+    let rerunList: string[] = [
+        "POLARIS", "POLARSUN", "POLESTAR", "POLESTONES", "PONTIAC", "PORSCHE", "PRAGA", "PREMIER", "PRIKE", "PROTON", "PUCH", "PUMA", "PUR EV", "PYEONGHWA (PMC)", "QIANTU", "QINGQI", "QIYUAN", "QJMOTOR", "QOODER", "QOROS", "QUADRO", "QVALE", "R AUTO", "RADAR", "RAKATA MOTOR", "RAM", "RAMBLER", "RANGER", "RASANDIK", "RAVON", "RAYTON FISSORE", "RCEV", "REACH", "RED STAR", "REFINE", "REGAL RAPTOR", "RELIANT", "RELY", "RENAULT (DFAC)", "RENAULT", "RENAULT TRUCKS", "REVA", "REVOLT", "REX", "RIEJU", "RIICH", "RILEY", "RIVERO", "RIVIAN"
+    ]
+    const brandNames = readBrandsFromExcel();  // ["YEZDI", "YIBEN", "YObykes", "YUANHANG", "YUDO", "YUEJIN","YUGO"];  Read from files by readBrandsFromExcel function or add brands manually to this array
+
 
     test(`Scrape model names for all brands`, async ({ page }) => {
 
         // Login to the English RepXpert page
-        await loginEnglishRepxpertPage(page);
+        // await loginEnglishRepxpertPage(page);
+
+        await page.goto(ConfigReader.getEnvVariable("REPXPERT_ENGLISH_URL") || "");
+        await page.waitForLoadState('domcontentloaded');
 
         // Wait for the user name to be visible
         await page.waitForSelector("//*[@class='name']");
@@ -52,14 +59,14 @@ test.describe('Model Name Scraper', () => {
         const allModels: Map<string, Set<string>> = new Map();
 
         await page.waitForTimeout(1000);
-            await selectBox.click();
+        await selectBox.click();
 
-        for (const brandName of brandNames) {
+        for (const brandName of rerunList) {
             //console.log(`Marka: ${brandName} için elementler aranıyor...`);
-            
+
             await selectBox.fill(brandName);
             await page.waitForLoadState('domcontentloaded');
-            await page.waitForTimeout(500);
+            await page.waitForTimeout(2000);
 
             try {
                 // Marka adının dropdown'da görünmesini bekle ve tıkla
@@ -92,10 +99,10 @@ test.describe('Model Name Scraper', () => {
 
 
         // Write allMadels to a JSON file
-        const jsonFilePath = path.resolve('src/data/Gathered_Informations/CarModels/model_names_FULL.json');
+        const jsonFilePath = path.resolve('src/data/Gathered_Informations/CarModels/model_names_eksikler.json');
         const jsonData = JSON.stringify(serializedMap, null, 2);
         fs.writeFileSync(jsonFilePath, jsonData, 'utf-8');
-        console.log(`Model names for ${brandNames} have been written to ${jsonFilePath}`);
+        //console.log(`Model names for ${brandNames} have been written to ${jsonFilePath}`);
 
     });
 });
