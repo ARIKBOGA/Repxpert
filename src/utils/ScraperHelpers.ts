@@ -36,6 +36,23 @@ export async function goToSearchResults(
   return productLinks; // bulunan ürünleri geri dön
 }
 
+export async function loginEnglishRepxpertPage(page: Page) {
+  const url = ConfigReader.getEnvVariable("REPXPERT_ENGLISH_URL");
+  const email = ConfigReader.getEnvVariable("REPXPERT_ENGLISH_EMAIL");
+  const password = ConfigReader.getEnvVariable("REPXPERT_ENGLISH_PASSWORD");
+  await page.goto(url);
+  await page.waitForLoadState('domcontentloaded');
+  await page.waitForSelector('button:has-text("Accept All Cookies")');
+
+  // Click on the "Accept All Cookies" button
+  await page.getByRole('button', { name: 'Accept All Cookies' }).click();
+  await page.getByRole('link', { name: 'Login | Register' }).click();
+  await page.getByRole('textbox', { name: 'E-Mail Address' }).fill(email);
+  await page.getByRole('textbox', { name: 'Password' }).fill(password);
+  await page.getByRole('button', { name: 'Login' }).click();
+  await page.waitForLoadState('domcontentloaded');
+}
+
 
 export function mapToSerializableObject(map: Map<string, Set<string>>): Record<string, string[]> {
   const obj: Record<string, string[]> = {};
