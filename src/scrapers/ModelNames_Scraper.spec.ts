@@ -1,0 +1,110 @@
+import { test, expect } from '@playwright/test';
+import * as xlsx from 'xlsx';
+import fs from 'fs';
+import path from 'path';
+import ConfigReader from '../utils/ConfigReader';
+import { getMultipleTexts } from '../utils/extractHelpers';
+import { mapToSerializableObject } from '../utils/ScraperHelpers';
+
+
+function readBrandsFromExcel(): string[] {
+    const excelPath = path.resolve(__dirname, '../data/katalogInfo/excels/marka_seri_no.xlsx');
+    const workbook = xlsx.readFile(excelPath);
+    const sheet = workbook.Sheets[workbook.SheetNames[0]];
+    const data = xlsx.utils.sheet_to_json<Record<string, any>>(sheet, { defval: "" });
+
+    const brands: string[] = [];
+
+    for (const row of data) {
+        const brandName = row['marka']?.toString()?.trim();
+        if (brandName) {
+            brands.push(brandName);
+        }
+    }
+
+    return brands;
+}
+
+
+test.describe('Model Name Scraper', () => {
+
+    const brandNames = readBrandsFromExcel();
+
+    test(`Scrape model names for all brands`, async ({ page }) => {
+
+        const url = ConfigReader.getEnvVariable("REPXPERT_ENGLISH_URL");
+        await page.goto(url);
+        await page.waitForLoadState('domcontentloaded');
+        await page.waitForSelector('button:has-text("Accept All Cookies")');
+
+        // Click on the "Accept All Cookies" button
+        await page.getByRole('button', { name: 'Accept All Cookies' }).click();
+        await page.getByRole('link', { name: 'Login | Register' }).click();
+        await page.getByRole('textbox', { name: 'E-Mail Address' }).fill('work_env1@outlook.com');
+        await page.getByRole('textbox', { name: 'Password' }).fill('SaKmB3UdupsGMk8*');
+        await page.getByRole('button', { name: 'Login' }).click();
+        await page.waitForLoadState('domcontentloaded');
+
+
+        // Wait for the user name to be visible
+        await page.waitForSelector("//*[@class='name']");
+        const userName = await page.locator("//*[@class='name']").textContent().then((text) => text?.trim());
+        expect(userName).toBe(ConfigReader.getEnvVariable("REPXPERT_ENGLISH_NAME"));
+
+        // Navigate to the "Vehicles Globally" section
+        const vehiclesGloballyButton = page.locator("//button[.='Vehicles Globally']");
+        await vehiclesGloballyButton.click();
+        await page.waitForLoadState('domcontentloaded');
+
+        // Click on the "Select Manufacturer" dropdown
+        const selectBox = page.getByText('Select Manufacturer');
+
+        const allModels: Map<string, Set<string>> = new Map();
+
+        for (const brandName of brandNames) {
+            //console.log(`Marka: ${brandName} için elementler aranıyor...`);
+            await page.waitForTimeout(1000);
+            await selectBox.click();
+            await selectBox.fill(brandName);
+            await page.waitForLoadState('domcontentloaded');
+            await page.waitForTimeout(1000);
+
+            try {
+                // Marka adının dropdown'da görünmesini bekle ve tıkla
+                await page.waitForSelector(`//mat-option[.='${brandName}']`, { timeout: 5000 }); // Timeout ekleyerek sonsuz beklemeyi önle
+                await page.locator(`//mat-option[.='${brandName}']`).click();
+                await page.waitForLoadState('domcontentloaded');
+                await page.waitForTimeout(2000);
+
+                const modelNameLocators = page.locator("//mat-row/mat-cell[1]//saam-table-cell");
+                const count = await modelNameLocators.count();
+                console.log(`${brandName} için Bulunan element sayısı: ${count}`);
+
+                const modelNames = (await getMultipleTexts(modelNameLocators)).map((text) => text.trim());
+                //console.log(`Marka: ${brandName} için çekilen model isimleri:`, modelNames);
+
+                const modelNamesSet = new Set<string>(modelNames);
+                allModels.set(brandName, modelNamesSet);
+
+                await page.getByRole('button', { name: 'Clear input' }).click();
+                await page.waitForLoadState('domcontentloaded');
+
+            } catch (error) {
+                console.warn(`Uyarı: '${brandName}' markası için seçenek bulunamadı veya tıklanamadı. Bir sonraki markaya geçiliyor.`);
+                // Hata oluştuğunda bir sonraki döngüye geçmek için herhangi bir ek işlem yapmaya gerek yok.
+                // Döngü otomatik olarak bir sonraki brandName ile devam edecektir.
+            }
+        }
+        // Serialize the Map to a JSON-compatible format
+        const serializedMap = mapToSerializableObject(await allModels);
+
+
+        // Write allMadels to a JSON file
+        const jsonFilePath = path.resolve('src/data/Gathered_Informations/CarModels/model_names_SECOND.json');
+        const jsonData = JSON.stringify(serializedMap, null, 2);
+        fs.writeFileSync(jsonFilePath, jsonData, 'utf-8');
+        console.log(`Model names for ${brandNames} have been written to ${jsonFilePath}`);
+
+
+    });
+});
