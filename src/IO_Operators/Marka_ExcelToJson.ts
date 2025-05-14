@@ -2,8 +2,8 @@ import fs from "fs";
 import path from "path";
 import * as XLSX from "xlsx";
 
-const filePathToRead = path.resolve(__dirname, '../data/katalogInfo/excels/marka_seri_no.xlsx');
-const filePathToWrite = path.resolve(__dirname, '../data/katalogInfo/jsons/marka_seri_no.json');
+const filePathToRead = path.resolve(__dirname, '../data/katalogInfo/excels/marka_new.xlsx');
+const filePathToWrite = path.resolve(__dirname, '../data/katalogInfo/jsons/marka_new.json');
 
 const convertToSingleValueJSON = (filePath: string) => {
     // Çalışma kitabını dosyadan okuyun
