@@ -28,7 +28,7 @@ function readBrandsFromExcel(): string[] {
 
 test.describe('Model Name Scraper', () => {
 
-    const brandNames = ["TOFAS"];
+    const brandNames = ["TOFAS"];  // Read from files by readBrandsFromExcel function or add brands manually to this array
 
     test(`Scrape model names for all brands`, async ({ page }) => {
 
@@ -93,7 +93,6 @@ test.describe('Model Name Scraper', () => {
         const jsonData = JSON.stringify(serializedMap, null, 2);
         fs.writeFileSync(jsonFilePath, jsonData, 'utf-8');
         console.log(`Model names for ${brandNames} have been written to ${jsonFilePath}`);
-
 
     });
 });

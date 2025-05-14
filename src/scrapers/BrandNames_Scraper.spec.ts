@@ -2,7 +2,6 @@ import { test } from '@playwright/test';
 import fs from 'fs';
 import path from 'path';
 import * as xlsx from 'xlsx';
-//import ConfigReader from '../utils/ConfigReader';
 import { loginEnglishRepxpertPage } from '../utils/ScraperHelpers';
 
 
@@ -17,7 +16,6 @@ test.describe('Model Name Scraper', () => {
         await page.waitForSelector("//*[@class='name']");
         const userName = await page.locator("//*[@class='name']").textContent().then((text) => text?.trim());
         await (await page.waitForSelector("//*[@class='name']")).isVisible();
-        //expect(userName).toBe(ConfigReader.getEnvVariable("REPXPERT_ENGLISH_NAME"));
 
         // Navigate to the "Vehicles Globally" section
         const vehiclesGloballyButton = page.locator("//button[.='Vehicles Globally']");
