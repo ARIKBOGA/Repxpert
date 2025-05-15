@@ -10,9 +10,9 @@ import { goToSearchResultsEnglish } from "../utils/ScraperHelpers";
 
 const crossNumbersPath = path.resolve(
   __dirname,
-  "../data/Gathered_Informations/Pads/Resources/references_of_pads.json"
+  "../data/willBefixed/willBeScraped.json"
 );
-const crossNumbers: string[] = JSON.parse(
+const crossNumbers: string[] = JSON.parse(  
   fs.readFileSync(crossNumbersPath, "utf-8")
 );
 
@@ -36,6 +36,7 @@ test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
         ]);
 
         await page.waitForSelector(selector.aria_level_1_brand);
+        await page.waitForTimeout(500); // Kısa bekleme
 
         const productTitle = (await getTextContent(page.locator(".h1").nth(0))) || "Unknown Product";
         const productProducer = productTitle.split(" ")[0];
@@ -83,11 +84,11 @@ test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
             const isExpanded = await vehicleEl.getAttribute("aria-expanded");
             if (isExpanded === "true") {
               await vehicleEl.click();
-              await page.waitForTimeout(2000); // collapse işlemi tamamlanana kadar bekle
+              await page.waitForTimeout(1000); // collapse işlemi tamamlanana kadar bekle
             }
           
             await vehicleEl.click(); // tekrar aç
-            await page.waitForTimeout(2000); // açılmasını bekle
+            await page.waitForTimeout(2500); // açılmasını bekle
             await page.waitForSelector(selector.aria_level_3_rows, { state: "visible", timeout: 5000,});
           
             const rows = page.locator(selector.aria_level_3_rows);

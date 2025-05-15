@@ -83,8 +83,8 @@ export function extractYears(madeYear: string): { start: string; end: string } {
     };
   }
 
-  // 2. Başlangıç: "Başlangıç 06.2009"
-  const startMatch = madeYear.match(/başlangıç\s+(\d{2})\.(\d{4})/i);
+  // 2. Başlangıç: "from 06.2009"
+  const startMatch = madeYear.match(/from\s+(\d{2})\.(\d{4})/i);
   if (startMatch) {
     return {
       start: startMatch[2].slice(-2),
@@ -92,8 +92,8 @@ export function extractYears(madeYear: string): { start: string; end: string } {
     };
   }
 
-  // 3. Bitiş: "Bitiş 06.2009"
-  const endMatch = madeYear.match(/bitiş\s+(\d{2})\.(\d{4})/i);
+  // 3. Bitiş: "to 06.2009"
+  const endMatch = madeYear.match(/to\s+(\d{2})\.(\d{4})/i);
   if (endMatch) {
     return {
       start: "",
