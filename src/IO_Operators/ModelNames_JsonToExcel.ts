@@ -3,9 +3,9 @@ import path from 'path';
 import * as XLSX from 'xlsx';
 
 // JSON dosyasının bulunduğu dizin ve dosya adı
-const rootDir = path.resolve(__dirname, '../data/Gathered_Informations/CarModels/model_names_tam.json');
+const rootDir = path.resolve(__dirname, '../data/Gathered_Informations/CarModels/model_names.json');
 // Oluşturulacak Excel dosyasının dizini ve dosya adı
-const outputDir = path.resolve(__dirname, '../data/Gathered_Informations/CarModels/model_names_tam.xlsx');
+const outputDir = path.resolve(__dirname, '../data/Gathered_Informations/CarModels/model_names.xlsx');
 
 try {
     // JSON dosyasını oku

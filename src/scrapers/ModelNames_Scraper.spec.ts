@@ -101,7 +101,7 @@ test.describe('Model Name Scraper', () => {
 
 
         // Write allMadels to a JSON file
-        const jsonFilePath = path.resolve('src/data/Gathered_Informations/CarModels/model_names_home.json');
+        const jsonFilePath = path.resolve('src/data/Gathered_Informations/CarModels/model_names.json');
         const jsonData = JSON.stringify(serializedMap, null, 2);
         fs.writeFileSync(jsonFilePath, jsonData, 'utf-8');
         //console.log(`Model names for ${brandNames} have been written to ${jsonFilePath}`);
