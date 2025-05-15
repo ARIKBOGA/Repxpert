@@ -2,7 +2,7 @@ import fs from "fs";
 import path from "path";
 import * as XLSX from "xlsx";
 
-const filePathToRead = path.resolve(__dirname, '../data/katalogInfo/excels/model_new.xlsx');
+const filePathToRead = path.resolve(__dirname, '../data/katalogInfo/excels/model_seri_no.xlsx');
 const filePathToWrite = path.resolve(__dirname, '../data/katalogInfo/jsons/model_new.json');
 
 const convertToArrayOfObjectsJSON = (filePath: string) => {
