@@ -45,13 +45,13 @@ export async function goToSearchResultsEnglish(
 ): Promise<Locator[] | null> {
 
   // İngilizce RepXpert sayfasına git
-  await page.goto(ConfigReader.getEnvVariable("REPXPERT_ENGLISH_URL") || "");
+  await page.goto(ConfigReader.getEnvVariable("REPXPERT_HOME_ENGLISH_URL") || "");
   await page.getByRole("textbox", { name: /OE number/i }).fill(oe);
   await page.getByRole("textbox", { name: /OE number/i }).press("Enter");
 
   await page
     .getByRole("combobox", { name: /Brands/i })
-    .fill(filterBrand.toLowerCase() || "");
+    .fill(filterBrand || "");
   await page
     .getByRole("checkbox", { name: new RegExp(filterBrand, "i") })
     .first()
