@@ -5,7 +5,7 @@ import * as XLSX from "xlsx";
 import { Application } from "../types/Application";
 import { extractYears, cleanKBA } from "../utils/extractHelpers";
 import { log } from "console";
-import markaMap from "../data/katalogInfo/jsons/marka_seri_no.json";
+import markaMap from "../data/katalogInfo/jsons/marka_new.json";
 import ConfigReader from "../utils/ConfigReader";
 import { formatDateTime } from "../utils/DateHelper";
 
@@ -32,7 +32,7 @@ const filterBrand = ConfigReader.getEnvVariable("FILTER_BRAND_APPLICATION") || "
 const formattedDate = formatDateTime(new Date());
 
 const OUTPUT_FILE = `English_PAD_APPLICATIONS_${filterBrand}_${formattedDate}.xlsx`;
-const ROOT_PATH = "src/data/Gathered_Informations/Pads/Applications/English/TRW";
+const ROOT_PATH = `src/data/Gathered_Informations/Pads/Applications/English/${filterBrand}`;
 const MARKA_FILE_PATH = "src/data/katalogInfo/jsons/marka_new.json";
 const MODEL_FILE_PATH = "src/data/katalogInfo/jsons/model_new.json";
 const LOOKUP_FILE_PATH = "src/data/katalogInfo/excels/balata_katalog_full.xlsx";
