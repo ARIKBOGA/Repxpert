@@ -22,7 +22,7 @@ test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
   const filterBrand = ConfigReader.getEnvVariable("FILTER_BRAND_APPLICATION");
 
   for (const cross of crossNumbers) {
-    test(`${filterBrand} No: ${cross} ile ${filterBrand} ürünlerini getir`, async ({ page }) => {
+    test(`${filterBrand} No: ${cross} ile ${filterBrand} ürününün araç uyumluluklarını getir`, async ({ page }) => {
       try {
         const productLinks = await goToSearchResultsEnglish(page, cross, filterBrand, retryList, addToRetryList);
         if (!productLinks) return;
