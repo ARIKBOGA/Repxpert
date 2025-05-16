@@ -12,7 +12,7 @@ const crossNumbersPath = path.resolve(
   __dirname,
   "../data/willBefixed/willBeScraped.json"
 );
-const crossNumbers: string[] = JSON.parse(  
+const crossNumbers: string[] = JSON.parse(
   fs.readFileSync(crossNumbersPath, "utf-8")
 );
 
@@ -22,7 +22,7 @@ test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
   const filterBrand = ConfigReader.getEnvVariable("FILTER_BRAND_APPLICATION");
 
   for (const cross of crossNumbers) {
-    test(`${filterBrand} No: ${cross} ile ${filterBrand} ürününün araç uyumluluklarını getir`, async ({ page }) => {
+    test(`${filterBrand} - ${cross} ürününün araç uyumluluklarını getir`, async ({ page }) => {
       try {
         const productLinks = await goToSearchResultsEnglish(page, cross, filterBrand, retryList, addToRetryList);
         if (!productLinks) return;
@@ -73,39 +73,46 @@ test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
             const vehicles = page.locator(selector.aria_level_2_vehicle);
             const vehicleEl = vehicles.nth(j);
             const vehicle = (await vehicleEl.textContent())?.trim() || "";
-          
+
             if (processedVehicles.has(vehicle)) continue;
             processedVehicles.add(vehicle);
-          
+
             // scrollIntoViewIfNeeded() DEVRE DIŞI
             // await vehicleEl.scrollIntoViewIfNeeded();
-          
+
             // Eğer araç zaten açıksa (expanded), önce kapat
             const isExpanded = await vehicleEl.getAttribute("aria-expanded");
             if (isExpanded === "true") {
               await vehicleEl.click();
               await page.waitForTimeout(1000); // collapse işlemi tamamlanana kadar bekle
             }
-          
+
             await vehicleEl.click(); // tekrar aç
             await page.waitForTimeout(2500); // açılmasını bekle
-            await page.waitForSelector(selector.aria_level_3_rows, { state: "visible", timeout: 5000,});
-          
+
+            // Eğer araç açılmadıysa, hata ver
+            if(!page.locator(selector.aria_level_3_rows) || await page.locator(selector.aria_level_3_rows).count() === 0) {
+              console.warn(`⚠️⚠️⚠️ ${brand} - ${vehicle} için satır bulunamadı ⚠️⚠️⚠️`);
+              continue;
+            }
+
+            await page.waitForSelector(selector.aria_level_3_rows, { state: "visible", timeout: 5000, });
+
             const rows = page.locator(selector.aria_level_3_rows);
             const rowCount = await rows.count();
-          
+
             if (rowCount === 0) {
               console.warn(`⚠️ ${brand} - ${vehicle} için satır bulunamadı`);
               continue;
             }
-          
+
             for (let k = 0; k < rowCount; k++) {
               const cells = page.locator(selector.cells_part_1 + (k + 1) + selector.cells_part_2);
               const cellTexts = await cells.allTextContents();
               const cellValues = cellTexts
                 .map((text) => text.trim())
                 .filter((text) => text !== "");
-          
+
               applications.push({
                 brand,
                 model: vehicle,
@@ -118,12 +125,12 @@ test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
                 KBA_Numbers: cellValues[6] || "",
               });
             }
-          
+
             await page.waitForTimeout(1000);
             await vehicleEl.click(); // collapse after processing
             await page.waitForTimeout(1000);
           }
-          
+
 
           await brandEl.click(); // collapse
           await page.waitForTimeout(1000);
@@ -148,11 +155,11 @@ test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
 
         fs.writeFileSync(filePath, JSON.stringify(applications, null, 2), "utf-8");
         console.log(`✅ ${cross} için ${fileName} üzerine yazılarak kaydedildi.`);
-     
-     }catch (err) {
+
+      } catch (err) {
         console.error(`❌ ${cross} için hata:`, err);
         addToRetryList(cross);
-     }
+      }
 
     });
   }

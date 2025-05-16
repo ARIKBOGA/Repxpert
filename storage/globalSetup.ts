@@ -5,7 +5,7 @@ async function globalSetup() {
   const browser: Browser = await chromium.launch({ headless: true });
   const context = await browser.newContext();
   const page: Page = await context.newPage();
-  await page.goto(ConfigReader.getEnvVariable("REPXPERT__URL") || "");
+  await page.goto(ConfigReader.getEnvVariable("REPXPERT_URL") || "");
   if (page.getByRole("button", { name: "Tüm Tanımlama Bilgilerini" })) {
     await page.getByRole("button", { name: "Tüm Tanımlama Bilgilerini" }).click();
   }
