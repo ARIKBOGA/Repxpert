@@ -43,11 +43,21 @@ interface ExcelToJsonConverter {
 }
 
 class SheetNameExclusionConverter implements ExcelToJsonConverter {
+/**
+ * Converts the provided column data by removing any entries that match the given sheet names.
+ * 
+ * @param columnData - An array of strings representing data from a specific column in an Excel sheet.
+ * @param sheetNames - An array of strings representing the names of sheets to be excluded from the column data.
+ * @returns A new array of unique strings from the column data, excluding any entries that match the trimmed sheet names.
+ */
+
     convert(columnData: string[], sheetNames: string[]): string[] {
-        const sheetNameSet = new Set(sheetNames);
-        let result = columnData.filter(item => !sheetNameSet.has(item.trim()));
-        result = Array.from(new Set(result.map(item => item.trim()))); //remove duplicates
-        return result;
+        const sheetNameSet = new Set(sheetNames.map(name => name.trim()));
+        return Array.from(new Set(
+            columnData
+                .map(item => item.trim())
+                .filter(item => item !== "" && !sheetNameSet.has(item))
+        ));
     }
 }
 
