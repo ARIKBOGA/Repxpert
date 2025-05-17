@@ -3,10 +3,10 @@ import path from "path";
 import glob from "fast-glob";
 import * as XLSX from "xlsx";
 import { Application } from "../types/Application";
-import { extractYears, cleanKBA } from "./extractHelpers";
+import { extractYears, cleanKBA } from "../utils/extractHelpers";
 import markaMap from "../data/katalogInfo/jsons/marka_seri_no.json";
-import ConfigReader from "./ConfigReader";
-import { formatDateTime } from "./DateHelper";
+import ConfigReader from "../utils/ConfigReader";
+import { formatDateTime } from "../utils/DateHelper";
 
 interface ModelData {
   id: number;
