@@ -16,6 +16,8 @@ const crossNumbers: string[] = JSON.parse(
   fs.readFileSync(crossNumbersPath, "utf-8")
 );
 
+const manualArray: string[] = ["2407302","2407304"];
+
 let retryList = readJsonFile<string[]>(retryListFilePath, []);
 
 test.describe("REPXPERT Aplikasyon bilgilerini al", () => {

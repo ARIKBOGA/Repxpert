@@ -8,13 +8,10 @@ import { selector } from "../utils/Selectors";
 import { readJsonFile, retryListFilePath } from "../utils/FileHelpers";
 import { goToSearchResultsEnglish } from "../utils/ScraperHelpers";
 
-const crossNumbersPath = path.resolve(
-  __dirname,
-  "../data/willBefixed/willBeScraped.json"
-);
-const crossNumbers: string[] = JSON.parse(
-  fs.readFileSync(crossNumbersPath, "utf-8")
-);
+const crossNumbersPath = path.resolve( __dirname, "../data/willBefixed/willBeScraped.json");
+const crossNumbers: string[] = JSON.parse(fs.readFileSync(crossNumbersPath, "utf-8"));
+
+//const manualArray: string[] = ["2932003"];
 
 let retryList = readJsonFile<string[]>(retryListFilePath, []);
 
