@@ -42,7 +42,7 @@ const MODEL_MATCH_POOL_PATH = "src/data/katalogInfo/jsons/modelMatchPool.json"; 
 const lookupDataMap = new Map<string, string | undefined>();
 const lookupWorkbook = XLSX.readFile(LOOKUP_FILE_PATH, { cellDates: true });
 const lookupSheet = lookupWorkbook.Sheets[lookupWorkbook.SheetNames[0]];
-XLSX.utils.sheet_to_json<{ YV: string; BREMBO: string; TRW: string }>(lookupSheet).forEach(row => {
+XLSX.utils.sheet_to_json<{ YV: string; BREMBO: string; TRW: string; ICER: string; TEXTAR: string }>(lookupSheet).forEach(row => {
   const bremboValue = row.BREMBO?.toString().trim();
   if (bremboValue) {
     lookupDataMap.set(bremboValue, row.YV?.toString().trim());
@@ -50,6 +50,14 @@ XLSX.utils.sheet_to_json<{ YV: string; BREMBO: string; TRW: string }>(lookupShee
   const trwValue = row.TRW?.toString().trim();
   if (trwValue) {
     lookupDataMap.set(trwValue, row.YV?.toString().trim());
+  }
+  const icersValue = row.ICER?.toString().trim();
+  if (icersValue) {
+    lookupDataMap.set(icersValue, row.YV?.toString().trim());
+  }
+  const textarValue = row.TEXTAR?.toString().trim();
+  if (textarValue) {
+    lookupDataMap.set(textarValue, row.YV?.toString().trim());
   }
 });
 
