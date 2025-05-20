@@ -1,0 +1,34 @@
+{
+  "reference": "GDB1101",
+  "id": "GDB1101",
+  "name": "Fren balata seti, diskli fren COTEC",
+  "brand": "TRW",
+  "wvaNumbers": [
+    "21631"
+  ],
+  "brand_oe_map": {
+    "CITROËN": [
+      "16 172 519 80",
+      "4251 14",
+      "4251 56",
+      "4252 91",
+      "95 667 786",
+      "95667785",
+      "E 172 027",
+      "E 172 511",
+      "RP425114"
+    ]
+  },
+  "eanNumber": "3322936411017",
+  "dimensions": {
+    "width1": "130,9",
+    "width2": null,
+    "height1": "60,5",
+    "height2": null,
+    "thickness1": "17",
+    "thickness2": null,
+    "manufacturerRestriction": "BENDIX",
+    "checkmark": "E1 90R 01024/176",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!"
+  }
+}

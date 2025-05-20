@@ -1,0 +1,36 @@
+{
+  "reference": "181610",
+  "id": "181610",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "ICER",
+  "wvaNumbers": [
+    "23873",
+    "23874",
+    "23875",
+    "D889-7767"
+  ],
+  "brand_oe_map": {
+    "KIA": [
+      "0K2N1-33-28Z",
+      "0K2N1-33-28ZA",
+      "0K9B3-33-28Z",
+      "0K9B6-33-28Z",
+      "0K9D0-33-23Z",
+      "0K9D0-33-28Z",
+      "58115-FDB00",
+      "58115-FDC00"
+    ]
+  },
+  "eanNumber": "8424073088581",
+  "dimensions": {
+    "width1": "129",
+    "width2": null,
+    "height1": "51,3",
+    "height2": null,
+    "thickness1": "16,5",
+    "thickness2": null,
+    "manufacturerRestriction": "",
+    "checkmark": "E9 90R-01111/1114",
+    "SVHC": ""
+  }
+}

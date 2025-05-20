@@ -1,0 +1,39 @@
+{
+  "reference": "GDB113",
+  "id": "GDB113",
+  "name": "Fren balata seti, diskli fren COTEC",
+  "brand": "TRW",
+  "wvaNumbers": [
+    "21303"
+  ],
+  "brand_oe_map": {
+    "MERCEDES-BENZ": [
+      "002 420 04 20",
+      "002 420 12 20",
+      "002 420 18 20",
+      "002 420 26 20",
+      "002420122005",
+      "002420122026",
+      "002420262005",
+      "A 002 420 04 20",
+      "A 002 420 12 20",
+      "A 002 420 18 20",
+      "A 002 420 26 20",
+      "A002420122005",
+      "A002420122026",
+      "A002420262005"
+    ]
+  },
+  "eanNumber": "3322936401131",
+  "dimensions": {
+    "width1": "99,6",
+    "width2": null,
+    "height1": "84,5",
+    "height2": null,
+    "thickness1": "18,3",
+    "thickness2": null,
+    "manufacturerRestriction": "ATE",
+    "checkmark": "E9 90R 01705/033",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!"
+  }
+}

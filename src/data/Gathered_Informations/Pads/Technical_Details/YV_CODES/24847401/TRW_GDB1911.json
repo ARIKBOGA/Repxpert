@@ -1,0 +1,35 @@
+{
+  "reference": "GDB1911",
+  "id": "GDB1911",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "TRW",
+  "wvaNumbers": [
+    "24847"
+  ],
+  "brand_oe_map": {
+    "AUDI": [
+      "4G0 698 151 AB",
+      "4G0 698 151 AF",
+      "4G0 698 151 F",
+      "4H0 698 151 F",
+      "4H0 698 151 J",
+      "4H0 698 151 Q",
+      "4H0 698 151 S"
+    ],
+    "VW": [
+      "4G0 698 151 F"
+    ]
+  },
+  "eanNumber": "3322938100711",
+  "dimensions": {
+    "width1": "188,7",
+    "width2": null,
+    "height1": "93",
+    "height2": null,
+    "thickness1": "16,6",
+    "thickness2": null,
+    "manufacturerRestriction": "BREMBO",
+    "checkmark": "E9 90R - 01107/3106",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "reference": "GDB3190",
+  "id": "GDB3190",
+  "name": "Fren balata seti, diskli fren COTEC",
+  "brand": "TRW",
+  "wvaNumbers": [
+    "23527"
+  ],
+  "brand_oe_map": {
+    "HONDA": [
+      "43022-S1A-E01",
+      "43022-S1A-E02",
+      "43022-S1A-E03",
+      "43022-S1A-E30",
+      "43022-S1A-E50",
+      "43022-SEA-E00",
+      "43022-SEA-E01",
+      "43022-SEA-E10"
+    ]
+  },
+  "eanNumber": "3322937236107",
+  "dimensions": {
+    "width1": "87",
+    "width2": null,
+    "height1": "52,9",
+    "height2": null,
+    "thickness1": "15,5",
+    "thickness2": null,
+    "manufacturerRestriction": "TRW",
+    "checkmark": "E9 90R - 01120/270",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!"
+  }
+}

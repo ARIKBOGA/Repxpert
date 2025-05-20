@@ -1,0 +1,45 @@
+{
+  "reference": "2342401",
+  "id": "2342401",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "TEXTAR",
+  "wvaNumbers": [
+    "23424",
+    "23424 178  1 4",
+    "7679D806"
+  ],
+  "brand_oe_map": {
+    "FORD": [
+      "1W4Z2200AA",
+      "4W4Z2200AA",
+      "XW4Z2200AA"
+    ],
+    "JAGUAR": [
+      "02C2C40194",
+      "C2C20585",
+      "C2C22316",
+      "C2C40194",
+      "XR810211",
+      "XR812436",
+      "XR8124636",
+      "XR830140",
+      "XR848934"
+    ],
+    "LINCOLN": [
+      "3W4Z2200AA",
+      "XW4ZA2200AA"
+    ]
+  },
+  "eanNumber": "4019722267048",
+  "dimensions": {
+    "width1": "114,4",
+    "width2": null,
+    "height1": "49,5",
+    "height2": null,
+    "thickness1": "17,8",
+    "thickness2": null,
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": ""
+  }
+}

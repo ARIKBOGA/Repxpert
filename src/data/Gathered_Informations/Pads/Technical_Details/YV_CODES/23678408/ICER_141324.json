@@ -1,0 +1,31 @@
+{
+  "reference": "141324",
+  "id": "141324",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "ICER",
+  "wvaNumbers": [
+    "23678"
+  ],
+  "brand_oe_map": {
+    "MAZDA": [
+      "UGY1-33-23Z",
+      "UGY1-33-28Z",
+      "UGY9-33-23Z",
+      "UGY9-33-28Z",
+      "UGY9-33-29Z",
+      "UKY2-33-23Z"
+    ]
+  },
+  "eanNumber": "8424073082466",
+  "dimensions": {
+    "width1": "142,7",
+    "width2": null,
+    "height1": "54,9",
+    "height2": null,
+    "thickness1": "16,6",
+    "thickness2": null,
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": ""
+  }
+}

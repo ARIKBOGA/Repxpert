@@ -1,0 +1,36 @@
+{
+  "reference": "2376002",
+  "id": "2376002",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "TEXTAR",
+  "wvaNumbers": [
+    "23760",
+    "23760 178  2 4"
+  ],
+  "brand_oe_map": {
+    "ALFA ROMEO": [
+      "6001073135",
+      "77363579",
+      "77363818"
+    ],
+    "FIAT": [
+      "71773138"
+    ],
+    "LANCIA": [
+      "77365560",
+      "9949203"
+    ]
+  },
+  "eanNumber": "4019722275906",
+  "dimensions": {
+    "width1": "116,8",
+    "width2": null,
+    "height1": "49,8",
+    "height2": null,
+    "thickness1": "17,8",
+    "thickness2": null,
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": ""
+  }
+}

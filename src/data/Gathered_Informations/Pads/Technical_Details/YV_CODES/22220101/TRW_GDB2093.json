@@ -1,0 +1,31 @@
+{
+  "reference": "GDB2093",
+  "id": "GDB2093",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "TRW",
+  "wvaNumbers": [
+    "25156"
+  ],
+  "brand_oe_map": {
+    "OPEL": [
+      "16 05 285",
+      "95517078"
+    ],
+    "VAUXHALL": [
+      "16 05 285",
+      "95517078"
+    ]
+  },
+  "eanNumber": "3322938297930",
+  "dimensions": {
+    "width1": "71",
+    "width2": null,
+    "height1": "46,1",
+    "height2": "47,4",
+    "thickness1": "17",
+    "thickness2": null,
+    "manufacturerRestriction": "TRW",
+    "checkmark": "E9 90R-01120/2998",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!"
+  }
+}

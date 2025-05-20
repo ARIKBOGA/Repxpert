@@ -1,0 +1,32 @@
+{
+  "reference": "181887",
+  "id": "181887",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "ICER",
+  "wvaNumbers": [
+    "24638",
+    "24639",
+    "24640",
+    "D1946-9170"
+  ],
+  "brand_oe_map": {
+    "HONDA": [
+      "45022-SWW-G00",
+      "45022-SWW-G01",
+      "45022-SWW-G02",
+      "45022-T1E-G00"
+    ]
+  },
+  "eanNumber": "8424073098030",
+  "dimensions": {
+    "width1": "151,1",
+    "width2": null,
+    "height1": "56,9",
+    "height2": "60,5",
+    "thickness1": "20",
+    "thickness2": "19,3",
+    "manufacturerRestriction": "",
+    "checkmark": "E9 90R-01111/2228",
+    "SVHC": ""
+  }
+}

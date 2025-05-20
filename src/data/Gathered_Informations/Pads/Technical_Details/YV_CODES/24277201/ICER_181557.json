@@ -1,0 +1,31 @@
+{
+  "reference": "181557",
+  "id": "181557",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "ICER",
+  "wvaNumbers": [
+    "24277",
+    "24397",
+    "24398",
+    "D1142-8253"
+  ],
+  "brand_oe_map": {
+    "HYUNDAI": [
+      "58101-02A10",
+      "58101-05A10",
+      "58101-05A30"
+    ]
+  },
+  "eanNumber": "8424073086068",
+  "dimensions": {
+    "width1": "104,7",
+    "width2": null,
+    "height1": "47,2",
+    "height2": "47,3",
+    "thickness1": "16,4",
+    "thickness2": null,
+    "manufacturerRestriction": "",
+    "checkmark": "E9 90R-01111/843",
+    "SVHC": ""
+  }
+}

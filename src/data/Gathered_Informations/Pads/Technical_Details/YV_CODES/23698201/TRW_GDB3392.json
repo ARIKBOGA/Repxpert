@@ -1,0 +1,53 @@
+{
+  "reference": "GDB3392",
+  "id": "GDB3392",
+  "name": "Fren balata seti, diskli fren COTEC",
+  "brand": "TRW",
+  "wvaNumbers": [
+    "23698"
+  ],
+  "brand_oe_map": {
+    "INFINITI": [
+      "41060-AR090",
+      "41060-AT30J",
+      "D1060-1BN0A",
+      "D1060-1MF0A",
+      "D1060-EG51A",
+      "D1060-EJ20A"
+    ],
+    "NISSAN": [
+      "41060-0V790",
+      "41060-AR090",
+      "41060-AT30J",
+      "41060-CC090",
+      "41060-EB325",
+      "AY040-NS058",
+      "AY040-NS079",
+      "AY040-NS091",
+      "AY040-NS098",
+      "D1060-1BN0A",
+      "D1060-1MF0A",
+      "D1060-5X00A",
+      "D1060-EG51A",
+      "D1060-EJ20A",
+      "DA060-EB325"
+    ],
+    "RENAULT": [
+      "41 06 000 23R",
+      "41 06 030 72R",
+      "41 06 0AR 090"
+    ]
+  },
+  "eanNumber": "3322937412440",
+  "dimensions": {
+    "width1": "157",
+    "width2": null,
+    "height1": "58,5",
+    "height2": null,
+    "thickness1": "17",
+    "thickness2": null,
+    "manufacturerRestriction": "SUMITOMO",
+    "checkmark": "E9 90R - 01107/2470",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!"
+  }
+}

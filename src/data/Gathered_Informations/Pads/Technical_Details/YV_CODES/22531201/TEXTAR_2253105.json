@@ -1,0 +1,32 @@
+{
+  "reference": "2253105",
+  "id": "2253105",
+  "name": "Fren balata seti, diskli fren Q+",
+  "brand": "TEXTAR",
+  "wvaNumbers": [
+    "22231",
+    "22531",
+    "22531 146  0 5"
+  ],
+  "brand_oe_map": {
+    "FORD": [
+      "2110582",
+      "2465422",
+      "MEDG9J2M007HA",
+      "MEK1GJ2M008AA",
+      "MEMV6J2M008A1A"
+    ]
+  },
+  "eanNumber": "4019722558955",
+  "dimensions": {
+    "width1": "123,3",
+    "width2": null,
+    "height1": "53,2",
+    "height2": "48,4",
+    "thickness1": "14,6",
+    "thickness2": null,
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": ""
+  }
+}
