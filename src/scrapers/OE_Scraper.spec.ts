@@ -4,29 +4,43 @@ import * as path from 'path';
 import ConfigReader from '../utils/ConfigReader';
 import { Product } from '../types/Product';
 import { Dimensions } from '../types/Dimensions';
-import { readJsonFile, retryListFilePath } from '../utils/FileHelpers';
+import { getSubfolderNamesSync, readJsonFile, retryListFilePath, balata_katalog_full } from '../utils/FileHelpers';
 import { getTextContent, getMultipleTexts, addToRetryList, getDimensionValuesSmart } from '../utils/extractHelpers';
 import { goToSearchResults, mapToSerializableObject, readProductReferencesFromExcel } from '../utils/ScraperHelpers';
 
 // JSON dosyasından OE numaralarını oku
-const crossNumbersPath = path.resolve(
-  __dirname,
-  "../data/Gathered_Informations/Pads/Resources/references_of_pads.json"
-);
-const crossNumbers: string[] = JSON.parse(fs.readFileSync(crossNumbersPath, 'utf-8'));
+const oePath = path.resolve(__dirname, '../data/Configs/search_references.json');
+const oeNumbers: string[] = JSON.parse(fs.readFileSync(oePath, 'utf-8'));
 
 // reTry.json'u oku veya boş bir array oluştur
 let retryList = readJsonFile<string[]>(retryListFilePath, []);
 
-const refrences = readProductReferencesFromExcel();
+const references = readProductReferencesFromExcel();
+const existedFolders = getSubfolderNamesSync("src/data/Gathered_Informations/Pads/Technical_Details/YV_CODES");
 
-test.describe('YV NO ve Marka bazlı teknik veri tarayıcı', () => {
+test.describe('YV NO ve Marka bazlı teknik veri tarayıcı', async () => {
 
-  for (const ref of refrences) {
+  for (const ref of references) {
     const { yvNo, brandRefs } = ref;
+
+    // yvNo daha önce işlenmişse atla
+    if (existedFolders.includes(yvNo)) {
+      console.log(`❌ ${yvNo} daha önce işlenmiş, atlanıyor...`);
+      continue;
+    }
     // Her test için yeni bir sayfa açılır, böylece her test birbirinden bağımsız çalışır
     for (const [brand, productCode] of Object.entries(brandRefs)) {
-      test(`${yvNo} / ${brand} / ${productCode} koduyla veri topla`, async ({ page }) => {
+
+      let productCodes: string[] = [];
+      if (productCode.includes(",") || productCode.includes(" ")) {
+         productCodes = productCode.split(', ').filter((code: string) => code.trim() !== "");
+      } else {
+         productCodes = [productCode];
+      }
+
+
+     for (const productCode of productCodes) {
+       test(`${yvNo} / ${brand} / ${productCode} koduyla veri topla`, async ({ page }) => {
         const filterBrand = brand.toUpperCase();
         try {
           // Search results sayfasına git
@@ -111,7 +125,7 @@ test.describe('YV NO ve Marka bazlı teknik veri tarayıcı', () => {
             dimensions,
           };
 
-          const basePath = path.join('src', 'data', 'Gathered_Informations', 'Pads', 'Technical_Details', yvNo);
+          const basePath = path.join('src', 'data', 'Gathered_Informations', 'Pads', 'Technical_Details', "YV_CODES", yvNo);
           if (!fs.existsSync(basePath)) fs.mkdirSync(basePath, { recursive: true });
 
           const fileName = `${brand}_${productCode}.json`;
@@ -120,6 +134,8 @@ test.describe('YV NO ve Marka bazlı teknik veri tarayıcı', () => {
 
           console.log(`✅ ${brand} - ${productCode} kaydedildi (${filePath})`);
 
+
+
         } catch (err) {
           console.error(`❌ Hata - ${yvNo} / ${brand} / ${productCode}`, err);
 
@@ -127,6 +143,7 @@ test.describe('YV NO ve Marka bazlı teknik veri tarayıcı', () => {
           addToRetryList(productCode);  // Use the helper function here
         }
       });
+     }
     }
   }
 });
