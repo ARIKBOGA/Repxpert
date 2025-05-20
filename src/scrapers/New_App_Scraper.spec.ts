@@ -87,13 +87,13 @@ test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
             await vehicleEl.click(); // tekrar aç
             await page.waitForTimeout(2500); // açılmasını bekle
 
+      
+            await page.waitForSelector(selector.aria_level_3_rows, { state: "visible", timeout: 5000, });
             // Eğer araç açılmadıysa, hata ver
             if(!page.locator(selector.aria_level_3_rows) || await page.locator(selector.aria_level_3_rows).count() === 0) {
               console.warn(`⚠️⚠️⚠️ ${brand} - ${vehicle} için satır bulunamadı ⚠️⚠️⚠️`);
               continue;
             }
-
-            await page.waitForSelector(selector.aria_level_3_rows, { state: "visible", timeout: 5000, });
 
             const rows = page.locator(selector.aria_level_3_rows);
             const rowCount = await rows.count();
@@ -123,7 +123,7 @@ test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
               });
             }
 
-            await page.waitForTimeout(1000);
+            await page.waitForTimeout(500);
             await vehicleEl.click(); // collapse after processing
             await page.waitForTimeout(1000);
           }
