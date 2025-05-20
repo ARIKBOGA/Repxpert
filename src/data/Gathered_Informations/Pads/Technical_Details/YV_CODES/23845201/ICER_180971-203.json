@@ -1,0 +1,66 @@
+{
+  "reference": "180971-203",
+  "id": "180971-203",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "ICER",
+  "wvaNumbers": [
+    "21754",
+    "21755",
+    "23845",
+    "23846",
+    "23847",
+    "24004",
+    "24005",
+    "24006",
+    "24082",
+    "D637-7515"
+  ],
+  "brand_oe_map": {
+    "FORD USA": [
+      "XU2Z-2V001-BDA"
+    ],
+    "MAZDA": [
+      "CBY0-33-23Z",
+      "CBY0-33-28Z",
+      "CBY1-33-23ZA",
+      "CBY1-33-23ZB",
+      "CBY1-33-23ZC",
+      "CBY1-33-23ZD",
+      "CBY1-33-23ZE",
+      "CBY1-33-23ZF",
+      "CBY1-33-23ZG",
+      "CBY9-33-23Z",
+      "G5Y6-33-28ZB",
+      "GAYR-23-23ZB",
+      "GAYR-23-28Z",
+      "GAYR-23-28ZA",
+      "GAYR-33-23Z MF",
+      "GAYR-33-28ZA9C",
+      "GAYR-33-29ZA",
+      "GCYD-33-23ZE",
+      "GEYC-33-23Z",
+      "GEYT-23-282",
+      "GEYT-33-23Z",
+      "GEYT-33-23ZA",
+      "GEYT-33-28Z",
+      "GEYT-33-28ZA",
+      "GEYV-23-232",
+      "GEYV-23-282",
+      "GEYV-33-23Z",
+      "GEYV-33-28Z",
+      "GEYV-33-28Z9C"
+    ]
+  },
+  "eanNumber": "8424073080240",
+  "dimensions": {
+    "width1": "132,1",
+    "width2": null,
+    "height1": "51,6",
+    "height2": null,
+    "thickness1": "15",
+    "thickness2": "16",
+    "manufacturerRestriction": "",
+    "checkmark": "E1 90R-01101/080",
+    "SVHC": ""
+  }
+}

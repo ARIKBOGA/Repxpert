@@ -1,0 +1,55 @@
+{
+  "reference": "181118-700",
+  "id": "181118-700",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "ICER",
+  "wvaNumbers": [
+    "21796",
+    "21920",
+    "D1494-8694"
+  ],
+  "brand_oe_map": {
+    "MITSUBISHI": [
+      "46 05A 734",
+      "MR 235 557",
+      "MR 249 241",
+      "MR 389 520",
+      "MR 407 946",
+      "MR 977 117",
+      "MZ 690 336",
+      "MZ 690 593",
+      "X3 511 007"
+    ],
+    "PERODUA": [
+      "04465-BZ140"
+    ],
+    "PROTON": [
+      "PW 890 078"
+    ],
+    "RENAULT": [
+      "86 60 004 625",
+      "86 71 016 534"
+    ],
+    "SMART": [
+      "454 420 09 20",
+      "454 420 19 20"
+    ],
+    "VOLVO": [
+      "3 076 919 7",
+      "3 345 670",
+      "3 345 670 8"
+    ]
+  },
+  "eanNumber": "8424073053770",
+  "dimensions": {
+    "width1": "129,9",
+    "width2": null,
+    "height1": "72,8",
+    "height2": null,
+    "thickness1": "15,1",
+    "thickness2": null,
+    "manufacturerRestriction": "",
+    "checkmark": "E1 90R-01101/105",
+    "SVHC": ""
+  }
+}

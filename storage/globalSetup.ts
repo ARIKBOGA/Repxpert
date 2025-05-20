@@ -16,6 +16,8 @@ async function globalSetup() {
     .fill(ConfigReader.getEnvVariable("REPXPERT_PASSWORD") || "");
   await page.getByRole("button", { name: "Oturum Açın" }).click();
 
+  await page.waitForTimeout(2000); // Wait for 2 seconds to ensure the page is loaded
+
   await expect(page.getByRole("link", { name: ConfigReader.getEnvVariable("NAME") })).toBeVisible({ timeout: 5000 });
 
   // Save the state of the page
@@ -29,7 +31,7 @@ async function globalSetup() {
 
 
 async function globalSetupEnglish() {
-  const browser: Browser = await chromium.launch({ headless: false });
+  const browser: Browser = await chromium.launch({ headless: true });
   const context = await browser.newContext();
   const page: Page = await context.newPage();
   await page.goto(ConfigReader.getEnvVariable("REPXPERT_HOME_ENGLISH_URL") || "");
@@ -54,4 +56,27 @@ async function globalSetupEnglish() {
   await browser.close();
 }
 
-export default globalSetupEnglish;
+async function globalSetupICER() {
+  const browser: Browser = await chromium.launch({ headless: false });
+  const context = await browser.newContext();
+  const page: Page = await context.newPage();
+
+  await page.goto(ConfigReader.getEnvVariable("CROSS_NUMBERS_URL"));
+
+  await page.waitForLoadState('networkidle')
+  await page.getByRole('button', { name: 'Accept Recommended Settings' }).click();
+
+  await page.waitForLoadState('networkidle')
+  await page.getByText('&amp;lt;br /&amp;gt;&amp;lt;p').contentFrame().getByRole('link', { name: 'Cross reference' }).click();
+
+  await page.waitForLoadState('networkidle')
+
+   // Save the state of the page
+  await page.context().storageState({
+    path: "storage/LoginAuthICER.json",
+  });
+
+  await browser.close();
+}
+
+export default globalSetupICER;

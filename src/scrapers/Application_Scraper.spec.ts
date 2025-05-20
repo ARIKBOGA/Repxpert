@@ -24,7 +24,7 @@ test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
   const filterBrand = ConfigReader.getEnvVariable("FILTER_BRAND_APPLICATION");
 
   for (const cross of crossNumbers) {
-    test(`${filterBrand} No: ${cross} ile ${filterBrand} ürünlerini getir`, async ({
+    test(`${filterBrand} - ${cross} ürününün araç uyumluluklarını getir`, async ({
       page,
     }) => {
       try {
@@ -46,6 +46,7 @@ test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
         ]);
 
         await page.waitForSelector(selector.aria_level_1_brand);
+        await page.waitForTimeout(500); // Kısa bekleme
 
         const productTitle =
           (await getTextContent(page.locator(".h1").nth(0))) ||
@@ -101,11 +102,16 @@ test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
             }
           
             await vehicleEl.click(); // tekrar aç
-            await page.waitForTimeout(2000); // açılmasını bekle
+            await page.waitForTimeout(2500); // açılmasını bekle
             await page.waitForSelector(selector.aria_level_3_rows, {
               state: "visible",
               timeout: 5000,
             });
+            if(!page.locator(selector.aria_level_3_rows) || await page.locator(selector.aria_level_3_rows).count() === 0) {
+              console.warn(`⚠️⚠️⚠️ ${brand} - ${vehicle} için satır bulunamadı ⚠️⚠️⚠️`);
+              continue;
+            }
+
           
             const rows = page.locator(selector.aria_level_3_rows);
             const rowCount = await rows.count();
@@ -137,7 +143,7 @@ test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
               });
             }
           
-            await page.waitForTimeout(1000);
+            await page.waitForTimeout(500);
             await vehicleEl.click(); // collapse after processing
             await page.waitForTimeout(1000);
           }

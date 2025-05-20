@@ -1,0 +1,30 @@
+{
+  "reference": "GDB3562",
+  "id": "GDB3562",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "TRW",
+  "wvaNumbers": [
+    "25564"
+  ],
+  "brand_oe_map": {
+    "MAZDA": [
+      "K0Y1-33-28ZA",
+      "K0Y1-33-28ZB",
+      "K0Y13323Z",
+      "K0Y13328Z",
+      "KDY93328Z"
+    ]
+  },
+  "eanNumber": "3322938179847",
+  "dimensions": {
+    "width1": "142",
+    "width2": null,
+    "height1": "61,2",
+    "height2": null,
+    "thickness1": "15,8",
+    "thickness2": null,
+    "manufacturerRestriction": "AKEBONO",
+    "checkmark": "E9 90R-02A0112/3455",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!"
+  }
+}

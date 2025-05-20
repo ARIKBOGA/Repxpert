@@ -1,0 +1,57 @@
+[
+  {
+    "brand": "KIA",
+    "model": "PRIDE (DA)",
+    "engineType": "1.3 i",
+    "madeYear": "01.1990 - 05.1997",
+    "kw": "51",
+    "hp": "69",
+    "cc": "1324",
+    "engineCodes": "B3A7",
+    "KBA_Numbers": ""
+  },
+  {
+    "brand": "KIA",
+    "model": "PRIDE Station wagon",
+    "engineType": "1.3",
+    "madeYear": "08.1999 - 05.2001",
+    "kw": "47",
+    "hp": "64",
+    "cc": "1324",
+    "engineCodes": "B3 (8V)",
+    "KBA_Numbers": "8253319"
+  },
+  {
+    "brand": "MAZDA",
+    "model": "121 I (DA)",
+    "engineType": "1.1 (DA101)",
+    "madeYear": "10.1987 - 10.1990",
+    "kw": "42",
+    "hp": "57",
+    "cc": "1139",
+    "engineCodes": "B116  B1",
+    "KBA_Numbers": "7118382"
+  },
+  {
+    "brand": "MAZDA",
+    "model": "121 I (DA)",
+    "engineType": "1.3 (DA103)",
+    "madeYear": "10.1987 - 06.1991",
+    "kw": "44",
+    "hp": "60",
+    "cc": "1324",
+    "engineCodes": "B3",
+    "KBA_Numbers": "7118383"
+  },
+  {
+    "brand": "MAZDA",
+    "model": "121 I (DA)",
+    "engineType": "1.3 (DA103)",
+    "madeYear": "04.1989 - 10.1990",
+    "kw": "40",
+    "hp": "55",
+    "cc": "1324",
+    "engineCodes": "B3",
+    "KBA_Numbers": "7118420"
+  }
+]

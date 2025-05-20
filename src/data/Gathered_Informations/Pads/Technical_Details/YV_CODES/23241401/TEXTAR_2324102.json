@@ -1,0 +1,45 @@
+{
+  "reference": "2324102",
+  "id": "2324102",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "TEXTAR",
+  "wvaNumbers": [
+    "23241",
+    "23241 165  0 4",
+    "8433D1321"
+  ],
+  "brand_oe_map": {
+    "CHANGAN": [
+      "CV60601502"
+    ],
+    "CHERY": [
+      "S113501080"
+    ],
+    "CHEVROLET": [
+      "01110040240",
+      "93747541",
+      "96288629",
+      "96446175",
+      "96446176",
+      "96596770"
+    ],
+    "DAEWOO": [
+      "96273708",
+      "96281945",
+      "96316582",
+      "S4510004"
+    ]
+  },
+  "eanNumber": "4019722234088",
+  "dimensions": {
+    "width1": "126,9",
+    "width2": null,
+    "height1": "47,9",
+    "height2": null,
+    "thickness1": "15,8",
+    "thickness2": null,
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": ""
+  }
+}

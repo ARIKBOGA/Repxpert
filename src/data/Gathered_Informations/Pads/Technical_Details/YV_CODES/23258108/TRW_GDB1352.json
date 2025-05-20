@@ -1,0 +1,42 @@
+{
+  "reference": "GDB1352",
+  "id": "GDB1352",
+  "name": "Fren balata seti, diskli fren COTEC",
+  "brand": "TRW",
+  "wvaNumbers": [
+    "21991",
+    "21992"
+  ],
+  "brand_oe_map": {
+    "CHEVROLET": [
+      "9117717",
+      "9193251",
+      "9195641",
+      "9195642"
+    ],
+    "OPEL": [
+      "1605025",
+      "1605039",
+      "1605040",
+      "1605961"
+    ],
+    "VAUXHALL": [
+      "9117717",
+      "9193251",
+      "9195641",
+      "9195642"
+    ]
+  },
+  "eanNumber": "3322937239191",
+  "dimensions": {
+    "width1": "104,8",
+    "width2": null,
+    "height1": "42,7",
+    "height2": null,
+    "thickness1": "16",
+    "thickness2": "17",
+    "manufacturerRestriction": "BOSCH",
+    "checkmark": "E9 90R 01708/003",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!"
+  }
+}

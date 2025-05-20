@@ -1,0 +1,31 @@
+{
+  "reference": "181117-700",
+  "id": "181117-700",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "ICER",
+  "wvaNumbers": [
+    "23080",
+    "23127"
+  ],
+  "brand_oe_map": {
+    "MITSUBISHI": [
+      "MR 249 240",
+      "MR 290 240",
+      "MR 389 519",
+      "MR 407 944",
+      "X3 511 004"
+    ]
+  },
+  "eanNumber": "8424073054388",
+  "dimensions": {
+    "width1": "119,2",
+    "width2": null,
+    "height1": "68,5",
+    "height2": null,
+    "thickness1": "15,8",
+    "thickness2": null,
+    "manufacturerRestriction": "",
+    "checkmark": "E9 90R-01111/096",
+    "SVHC": ""
+  }
+}

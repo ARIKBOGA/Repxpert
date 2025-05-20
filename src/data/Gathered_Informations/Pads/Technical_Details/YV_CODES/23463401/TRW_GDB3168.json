@@ -1,0 +1,33 @@
+{
+  "reference": "GDB3168",
+  "id": "GDB3168",
+  "name": "Fren balata seti, diskli fren COTEC",
+  "brand": "TRW",
+  "wvaNumbers": [
+    "23463"
+  ],
+  "brand_oe_map": {
+    "NISSAN": [
+      "41060-2F028",
+      "41060-2F525",
+      "41060-2F526",
+      "41060-2F527",
+      "41060-2F528",
+      "41060-5M326",
+      "41060-BM525",
+      "D1060-BM50A"
+    ]
+  },
+  "eanNumber": "3322937244935",
+  "dimensions": {
+    "width1": "124,2",
+    "width2": null,
+    "height1": "57,3",
+    "height2": null,
+    "thickness1": "16,6",
+    "thickness2": null,
+    "manufacturerRestriction": "TRW",
+    "checkmark": "E9 90R 01705/021",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!"
+  }
+}

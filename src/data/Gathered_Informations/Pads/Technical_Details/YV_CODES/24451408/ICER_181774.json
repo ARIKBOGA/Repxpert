@@ -1,0 +1,36 @@
+{
+  "reference": "181774",
+  "id": "181774",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "ICER",
+  "wvaNumbers": [
+    "24347",
+    "D1184-8301"
+  ],
+  "brand_oe_map": {
+    "GREAT WALL": [
+      "3501140G08"
+    ],
+    "TOYOTA": [
+      "04465-0D140",
+      "04465-12640",
+      "04465-52180",
+      "04465-52200",
+      "04465-52260",
+      "04465-74040",
+      "V9118-A104"
+    ]
+  },
+  "eanNumber": "8424073095572",
+  "dimensions": {
+    "width1": "122,7",
+    "width2": null,
+    "height1": "49,8",
+    "height2": null,
+    "thickness1": "17,5",
+    "thickness2": null,
+    "manufacturerRestriction": "",
+    "checkmark": "E9 90R-01111/1652",
+    "SVHC": ""
+  }
+}

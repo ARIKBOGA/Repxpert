@@ -1,0 +1,59 @@
+{
+  "reference": "GDB1024",
+  "id": "GDB1024",
+  "name": "Fren balata seti, diskli fren COTEC",
+  "brand": "TRW",
+  "wvaNumbers": [
+    "21654",
+    "21655",
+    "21656"
+  ],
+  "brand_oe_map": {
+    "FORD USA": [
+      "F1CZ2001A",
+      "F4BZ2001A"
+    ],
+    "MAZDA": [
+      "B4Y53323Z",
+      "B4Y63323Z",
+      "B4Y63323ZA",
+      "B4Y63328ZA",
+      "B5Y6-33-23Z",
+      "B5Y6-33-23Z 9A",
+      "B5Y6-33-28Z",
+      "B5Y6-33-28Z A",
+      "B5Y63328ZA9C",
+      "B5Y8-33-23Z",
+      "B5Y8-33-23Z A",
+      "B5Y83328ZB",
+      "BCYC-33-23Z",
+      "BCYW-33-23ZC",
+      "BCYW3323Z",
+      "BCYW3323ZA",
+      "BCYW3328Z",
+      "BCYW3328ZA",
+      "BCYW3328ZA9F",
+      "BRY0-33-28Z",
+      "BRY7-33-23ZA",
+      "BRY73323Z",
+      "BRYO3328Z",
+      "DCY03328ZA",
+      "DCY03328ZB",
+      "DCY13328Z",
+      "DCY53328Z",
+      "DCY93328Z"
+    ]
+  },
+  "eanNumber": "3322936410249",
+  "dimensions": {
+    "width1": "91,6",
+    "width2": null,
+    "height1": "64",
+    "height2": null,
+    "thickness1": "15",
+    "thickness2": null,
+    "manufacturerRestriction": "SUMITOMO",
+    "checkmark": "E2 90R 01124/002",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!"
+  }
+}

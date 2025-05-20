@@ -1,0 +1,53 @@
+{
+  "reference": "GDB897",
+  "id": "GDB897",
+  "name": "Fren balata seti, diskli fren COTEC",
+  "brand": "TRW",
+  "wvaNumbers": [
+    "21171"
+  ],
+  "brand_oe_map": {
+    "FORD": [
+      "1015598",
+      "1031781",
+      "1048309",
+      "1130751",
+      "1133748",
+      "5025948",
+      "5025949",
+      "5026661",
+      "5027604",
+      "5028176",
+      "6180371",
+      "6500952",
+      "6500954",
+      "6704271",
+      "6962492",
+      "7075049",
+      "7075050",
+      "91AB-2K021-BB",
+      "91AB-2K021-BC",
+      "91AB-2K021-FA",
+      "91AB-2K021-HB",
+      "91AB-2K021-JA",
+      "91AB-2K021-JB",
+      "92AX-2K021-AB",
+      "96AB-2K021-AA",
+      "96AB-2K021-AB",
+      "A91A-XT55056-DA",
+      "A91AX4-6002-TA"
+    ]
+  },
+  "eanNumber": "3322936408970",
+  "dimensions": {
+    "width1": "131",
+    "width2": null,
+    "height1": "57,5",
+    "height2": null,
+    "thickness1": "18,6",
+    "thickness2": null,
+    "manufacturerRestriction": "BENDIX",
+    "checkmark": "E1 90R 01024/169",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!"
+  }
+}

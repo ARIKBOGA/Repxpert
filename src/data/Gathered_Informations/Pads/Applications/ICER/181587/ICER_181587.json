@@ -1,0 +1,35 @@
+[
+  {
+    "brand": "TOYOTA",
+    "model": "YARIS (_P1_) | YARIS/VITZ | ECHO | VITZ/ECHO",
+    "engineType": "1.0 (SCP10_, SCP10R)",
+    "madeYear": "03.2003 - 09.2005",
+    "kw": "48",
+    "hp": "65",
+    "cc": "998",
+    "engineCodes": "1SZ-FE",
+    "KBA_Numbers": "5048072"
+  },
+  {
+    "brand": "TOYOTA",
+    "model": "YARIS (_P1_) | YARIS/VITZ | ECHO | VITZ/ECHO",
+    "engineType": "1.4 D-4D (NLP10_, NLP10R)",
+    "madeYear": "10.2001 - 09.2005",
+    "kw": "55",
+    "hp": "75",
+    "cc": "1364",
+    "engineCodes": "1ND-TV",
+    "KBA_Numbers": "5048070  5048073  5013474"
+  },
+  {
+    "brand": "TOYOTA",
+    "model": "YARIS (_P1_) | YARIS/VITZ | ECHO | VITZ/ECHO",
+    "engineType": "1.5 (NCP13_, NCP13R)",
+    "madeYear": "03.2000 - 07.2005",
+    "kw": "110",
+    "hp": "150",
+    "cc": "1497",
+    "engineCodes": "1NZ-FE",
+    "KBA_Numbers": "5048088"
+  }
+]

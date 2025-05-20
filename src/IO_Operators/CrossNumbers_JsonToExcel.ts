@@ -1,6 +1,7 @@
 import * as fs from 'fs';
 import * as path from 'path';
 import * as xlsx from 'xlsx';
+import { formatDateTime } from '../utils/DateHelper';
 
 async function convertCrossNumbersJsonToExcel() {
     const rootDir = path.join(__dirname, '..', 'data', 'Gathered_Informations', 'Pads', 'CrossNumbers', 'YV_CODES');
@@ -74,8 +75,7 @@ async function convertCrossNumbersJsonToExcel() {
         const workbook = xlsx.utils.book_new();
         xlsx.utils.book_append_sheet(workbook, worksheet, 'Cross Numbers');
 
-        const now = new Date();
-        const formattedDateTime = `${now.getFullYear()}-${(now.getMonth() + 1).toString().padStart(2, '0')}-${now.getDate().toString().padStart(2, '0')}_${now.getHours().toString().padStart(2, '0')}-${now.getMinutes().toString().padStart(2, '0')}-${now.getSeconds().toString().padStart(2, '0')}`;
+        const formattedDateTime = formatDateTime(new Date());
         const outputFilePath = path.join(outputDir, `Pad_Cross_Numbers_${formattedDateTime}.xlsx`);
 
         xlsx.writeFile(workbook, outputFilePath);

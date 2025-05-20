@@ -1,0 +1,37 @@
+{
+  "reference": "GDB3613",
+  "id": "GDB3613",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "TRW",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "DONGFENG": [
+      "D10601HM0AC107"
+    ],
+    "NISSAN": [
+      "AY040-NS157-",
+      "AY040-NS161-",
+      "AY040-NS167-",
+      "D1060-1HJ0A",
+      "D1060-1HL0B",
+      "D1060-ED500",
+      "D1060ED51AC107",
+      "D1M6M-1HJ0A-"
+    ],
+    "NISSAN (DFAC)": [
+      "D10601HM0AC107"
+    ]
+  },
+  "eanNumber": "3322938261467",
+  "dimensions": {
+    "width1": "138,9",
+    "width2": null,
+    "height1": "49",
+    "height2": null,
+    "thickness1": "15,5",
+    "thickness2": null,
+    "manufacturerRestriction": "AKEBONO",
+    "checkmark": "E9 90R - 01107/3103",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!"
+  }
+}

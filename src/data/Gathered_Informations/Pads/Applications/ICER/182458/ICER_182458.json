@@ -1,0 +1,46 @@
+[
+  {
+    "brand": "PORSCHE",
+    "model": "CAYENNE (9YA)",
+    "engineType": "2.9 S AWD (9YABB1)",
+    "madeYear": "Başlangıç 05.2017",
+    "kw": "324",
+    "hp": "440",
+    "cc": "2894",
+    "engineCodes": "DCAB  MDC.AB",
+    "KBA_Numbers": "0583AKP"
+  },
+  {
+    "brand": "PORSCHE",
+    "model": "CAYENNE (9YA)",
+    "engineType": "3.0 AWD (9YAAA1)",
+    "madeYear": "Başlangıç 05.2017",
+    "kw": "250",
+    "hp": "340",
+    "cc": "2995",
+    "engineCodes": "DCBE  MDC.BE",
+    "KBA_Numbers": "0583AKO"
+  },
+  {
+    "brand": "PORSCHE",
+    "model": "CAYENNE Coupe (9YB)",
+    "engineType": "3.0 AWD (9YBAA1)",
+    "madeYear": "Başlangıç 01.2019",
+    "kw": "250",
+    "hp": "340",
+    "cc": "2995",
+    "engineCodes": "DCBE",
+    "KBA_Numbers": "0583AKO"
+  },
+  {
+    "brand": "PORSCHE",
+    "model": "CAYENNE Coupe (9YB)",
+    "engineType": "4.0 Turbo AWD (9YBCF1)",
+    "madeYear": "Başlangıç 01.2019",
+    "kw": "404",
+    "hp": "550",
+    "cc": "3996",
+    "engineCodes": "DCUA",
+    "KBA_Numbers": "0583AKQ"
+  }
+]

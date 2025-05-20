@@ -1,0 +1,33 @@
+{
+  "reference": "GDB3171",
+  "id": "GDB3171",
+  "name": "Fren balata seti, diskli fren COTEC",
+  "brand": "TRW",
+  "wvaNumbers": [
+    "23234",
+    "23235",
+    "23236"
+  ],
+  "brand_oe_map": {
+    "CHEVROLET": [
+      "96253383",
+      "96349060"
+    ],
+    "DAEWOO": [
+      "96253383",
+      "96349060"
+    ]
+  },
+  "eanNumber": "3322937217755",
+  "dimensions": {
+    "width1": "143",
+    "width2": null,
+    "height1": "51,5",
+    "height2": null,
+    "thickness1": "17,6",
+    "thickness2": null,
+    "manufacturerRestriction": "AKEBONO",
+    "checkmark": "E1 90R 01024/249",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!"
+  }
+}

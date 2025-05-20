@@ -1,0 +1,38 @@
+{
+  "reference": "GDB1625",
+  "id": "GDB1625",
+  "name": "Fren balata seti, diskli fren COTEC",
+  "brand": "TRW",
+  "wvaNumbers": [
+    "23935",
+    "23999"
+  ],
+  "brand_oe_map": {
+    "BMW": [
+      "2 288 849",
+      "34 11 2 288 849",
+      "34 11 6 767 147",
+      "34 11 6 767 149",
+      "34 11 6 769 763",
+      "34 11 6 769 951",
+      "34 11 6 774 050",
+      "6 767 147",
+      "6 767 149",
+      "6 769 763",
+      "6 769 951",
+      "6 774 050"
+    ]
+  },
+  "eanNumber": "3322937398027",
+  "dimensions": {
+    "width1": "149,5",
+    "width2": "150",
+    "height1": "57,5",
+    "height2": "57,5",
+    "thickness1": "17,5",
+    "thickness2": null,
+    "manufacturerRestriction": "ATE",
+    "checkmark": "E9-90R-01705/047",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!"
+  }
+}
