@@ -47,7 +47,7 @@ test('yavuzsan', async ({ page }) => {
   await page.getByRole('combobox', { name: 'I don\'t want to specify' }).click();
   await page.locator('#bs-select-1-1').click();
 
- 
+
   await page.pause();
 
   await page.waitForTimeout(2000);
