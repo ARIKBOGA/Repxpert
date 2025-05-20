@@ -54,4 +54,4 @@ async function globalSetupEnglish() {
   await browser.close();
 }
 
-export default globalSetupEnglish;
+export default globalSetup;
