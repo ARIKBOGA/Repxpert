@@ -9,8 +9,11 @@ import { getTextContent, getMultipleTexts, addToRetryList, getDimensionValuesSma
 import { goToSearchResults, mapToSerializableObject, readProductReferencesFromExcel } from '../utils/ScraperHelpers';
 
 // JSON dosyasından OE numaralarını oku
-const oePath = path.resolve(__dirname, '../data/Configs/search_references.json');
-const oeNumbers: string[] = JSON.parse(fs.readFileSync(oePath, 'utf-8'));
+const crossNumbersPath = path.resolve(
+  __dirname,
+  "../data/Gathered_Informations/Pads/Resources/references_of_pads.json"
+);
+const crossNumbers: string[] = JSON.parse(fs.readFileSync(crossNumbersPath, 'utf-8'));
 
 // reTry.json'u oku veya boş bir array oluştur
 let retryList = readJsonFile<string[]>(retryListFilePath, []);
@@ -116,8 +119,6 @@ test.describe('YV NO ve Marka bazlı teknik veri tarayıcı', () => {
           fs.writeFileSync(filePath, JSON.stringify(product, null, 2), 'utf-8');
 
           console.log(`✅ ${brand} - ${productCode} kaydedildi (${filePath})`);
-          
-
 
         } catch (err) {
           console.error(`❌ Hata - ${yvNo} / ${brand} / ${productCode}`, err);
