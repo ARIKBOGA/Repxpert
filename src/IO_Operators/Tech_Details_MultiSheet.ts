@@ -1,14 +1,15 @@
 import * as fs from "fs";
 import * as path from "path";
 import * as XLSX from "xlsx";
+import { formatDateTime } from "../utils/DateHelper";
 
 async function jsonToExcel() {
     const yvCodesFolderPath = path.resolve("src/data/Gathered_Informations/Pads/Technical_Details/YV_Codes");
     const excelFolderPath = path.resolve("src/data/Gathered_Informations/Pads/Technical_Details/excels");
 
     // Excel dosyasının adını timestamp ile oluşturalım
-    const timestamp = new Date().toISOString().replace(/[:.]/g, '-');
-    const excelFileName = `PAD_OE_NUMBERS${timestamp}.xlsx`;
+    const formattedDateTime = formatDateTime(new Date());
+    const excelFileName = `PAD_OE_NUMBERS_${formattedDateTime}.xlsx`;
     const excelFilePath = path.join(excelFolderPath, excelFileName);
 
     const workbook = XLSX.utils.book_new();
@@ -71,12 +72,13 @@ async function jsonToExcel() {
         }
 
         // Excel dosyasını belirtilen klasöre kaydedelim
-        if (workbook.SheetNames.length > 0) {
+        const sheetCount = workbook.SheetNames.length;
+        if (sheetCount > 0) {
             if (!fs.existsSync(excelFolderPath)) {
                 fs.mkdirSync(excelFolderPath, { recursive: true });
             }
             XLSX.writeFile(workbook, excelFilePath);
-            console.log(`Veriler başarıyla "${excelFilePath}" dosyasına aktarıldı.`);
+            console.log(`Veriler başarıyla "${excelFilePath}" dosyasına aktarıldı. Toplam sayfa sayısı: ${sheetCount}`);
         } else {
             console.log("İşlenecek herhangi bir JSON dosyası bulunamadı.");
         }
