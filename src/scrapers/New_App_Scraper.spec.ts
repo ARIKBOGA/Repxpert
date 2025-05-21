@@ -9,7 +9,9 @@ import { readJsonFile, retryListFilePath } from "../utils/FileHelpers";
 import { goToSearchResultsEnglish } from "../utils/ScraperHelpers";
 
 const crossNumbersPath = path.resolve( __dirname, "../data/willBefixed/willBeScraped.json");
-const crossNumbers: string[] = JSON.parse(fs.readFileSync(crossNumbersPath, "utf-8"));
+
+// Read crossNumbers form a json file and remove duplicates
+const crossNumbers: string[] = Array.from(new Set(JSON.parse(fs.readFileSync(crossNumbersPath, "utf-8"))));
 
 //const manualArray: string[] = ["2932003"];
 
@@ -134,7 +136,7 @@ test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
         }
 
         const productProducerFolderPath = path.join(
-          "src/data/Gathered_Informations/Pads/Applications/English",
+          "src/data/Gathered_Informations/Discs/Applications/English",
           productProducer || "UnknownBrand"
         );
 
