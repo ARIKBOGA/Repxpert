@@ -4,7 +4,6 @@ import glob from "fast-glob";
 import * as XLSX from "xlsx";
 import { Application } from "../types/Application";
 import { extractYears, cleanKBA } from "../utils/extractHelpers";
-import { log } from "console";
 import markaMap from "../data/katalogInfo/jsons/marka_new.json";
 import ConfigReader from "../utils/ConfigReader";
 import { formatDateTime } from "../utils/DateHelper";

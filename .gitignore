@@ -10,5 +10,5 @@ node_modules/
 /data
 *.xlsx
 *.xlsm
-storage/LoginAuth.json
-storage/LoginAuthEnglish.json
+storage/*.json
+
