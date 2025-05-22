@@ -16,7 +16,7 @@ const crossNumbers: string[] = JSON.parse(
   fs.readFileSync(crossNumbersPath, "utf-8")
 );
 
-const manualArray: string[] = ["92111503", "92267903", "92224903", "92272703", "92133203", "92282803", "92255403", "92300003", "92274603", "92267303"];
+const manualArray: string[] = ["92232305"];
 
 let retryList = readJsonFile<string[]>(retryListFilePath, []);
 
