@@ -34,7 +34,7 @@ const OUTPUT_FILE = `English_PAD_APPLICATIONS_${filterBrand}_${formattedDate}.xl
 const ROOT_PATH = `src/data/Gathered_Informations/Pads/Applications/English/${filterBrand}`;
 const MARKA_FILE_PATH = "src/data/katalogInfo/jsons/marka_new.json";
 const MODEL_FILE_PATH = "src/data/katalogInfo/jsons/model_new.json";
-const LOOKUP_FILE_PATH = "src/data/katalogInfo/excels/balata_katalog_full.xlsx";
+const LOOKUP_FILE_PATH = "src/data/katalogInfo/excels/disc_katalog_full.xlsx";  // balata, disc vb. ona göre path degistir
 const MODEL_MATCH_POOL_PATH = "src/data/katalogInfo/jsons/modelMatchPool.json"; // Yeni dosya yolu
 
 // Lookup verisini başlangıçta bir Map içinde saklayarak arama hızını artırıyoruz.
