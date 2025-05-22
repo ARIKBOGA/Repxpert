@@ -3,6 +3,9 @@ import ConfigReader from "./ConfigReader";
 import * as xlsx from 'xlsx';
 import * as path from 'path';
 
+// Gerekli ortam degiskenlerini oku
+const productType = ConfigReader.getEnvVariable("PRODUCT_TYPE");
+
 
 export async function goToSearchResults(
   page: Page,
@@ -108,7 +111,7 @@ export interface ProductReference {
 }
 
 export function readProductReferencesFromExcel(): ProductReference[] {
-  const excelPath = path.resolve(__dirname, '../data/katalogInfo/excels/balata_katalog_full.xlsx');
+  const excelPath = path.resolve(__dirname, `../data/katalogInfo/excels/${productType}_katalog_full.xlsx`);
   const workbook = xlsx.readFile(excelPath);
   const sheet = workbook.Sheets[workbook.SheetNames[0]];
   const data = xlsx.utils.sheet_to_json<Record<string, any>>(sheet, { defval: "" });
