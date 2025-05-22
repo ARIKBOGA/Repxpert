@@ -27,36 +27,44 @@ interface MarkaData {
   [key: string]: string;
 }
 
-const filterBrand = ConfigReader.getEnvVariable("FILTER_BRAND_APPLICATION") || "BREMBO";
+const filterBrand = "BREMBO";
 const formattedDate = formatDateTime(new Date());
 
-const OUTPUT_FILE = `English_PAD_APPLICATIONS_${filterBrand}_${formattedDate}.xlsx`;
-const ROOT_PATH = `src/data/Gathered_Informations/Pads/Applications/English/${filterBrand}`;
+const OUTPUT_FILE = `English_DISC_APPLICATIONS_${filterBrand}_${formattedDate}.xlsx`; // Balata, Disc vb. ona göre FILE NAME degistir
+const ROOT_PATH = `src/data/Gathered_Informations/Discs/Applications/English/${filterBrand}`;  // Balata, Disc vb. ona göre PATH degistir
 const MARKA_FILE_PATH = "src/data/katalogInfo/jsons/marka_new.json";
 const MODEL_FILE_PATH = "src/data/katalogInfo/jsons/model_new.json";
-const LOOKUP_FILE_PATH = "src/data/katalogInfo/excels/disc_katalog_full.xlsx";  // balata, disc vb. ona göre path degistir
+const LOOKUP_FILE_PATH = "src/data/katalogInfo/excels/disc_katalog_full.xlsx";  // balata, disc vb. ona göre PATH degistir
 const MODEL_MATCH_POOL_PATH = "src/data/katalogInfo/jsons/modelMatchPool.json"; // Yeni dosya yolu
 
-// Lookup verisini başlangıçta bir Map içinde saklayarak arama hızını artırıyoruz.
+// Arama hızını artırmak için tüm veri excelden okunup MAP de saklandı
 const lookupDataMap = new Map<string, string | undefined>();
 const lookupWorkbook = XLSX.readFile(LOOKUP_FILE_PATH, { cellDates: true });
 const lookupSheet = lookupWorkbook.Sheets[lookupWorkbook.SheetNames[0]];
 XLSX.utils.sheet_to_json<{ YV: string; BREMBO: string; TRW: string; ICER: string; TEXTAR: string }>(lookupSheet).forEach(row => {
-  const bremboValue = row.BREMBO?.toString().trim();
+  const bremboValue = row.BREMBO?.toString().split(",");
   if (bremboValue) {
-    lookupDataMap.set(bremboValue, row.YV?.toString().trim());
+    for (const value of bremboValue) {
+      lookupDataMap.set(value.trim(), row.YV?.toString().trim());
+    }
   }
-  const trwValue = row.TRW?.toString().trim();
+  const trwValue = row.TRW?.toString().split(",");
   if (trwValue) {
-    lookupDataMap.set(trwValue, row.YV?.toString().trim());
+    for (const value of trwValue) {
+      lookupDataMap.set(value.trim(), row.YV?.toString().trim());
+    }
   }
-  const icersValue = row.ICER?.toString().trim();
-  if (icersValue) {
-    lookupDataMap.set(icersValue, row.YV?.toString().trim());
+  const icervalue = row.ICER?.toString().split(",");
+  if (icervalue) {
+    for (const value of icervalue) {
+      lookupDataMap.set(value.trim(), row.YV?.toString().trim());
+    }
   }
-  const textarValue = row.TEXTAR?.toString().trim();
-  if (textarValue) {
-    lookupDataMap.set(textarValue, row.YV?.toString().trim());
+  const textarvalue = row.TEXTAR?.toString().split(",");
+  if (textarvalue) {
+    for (const value of textarvalue) {
+      lookupDataMap.set(value.trim(), row.YV?.toString().trim());
+    }
   }
 });
 
@@ -180,7 +188,7 @@ async function main() {
     console.log("\nℹ️ Yeni model eşleşmesi bulunamadı.");
   }
 
-  const outputPath = "src/data/Gathered_Informations/Pads/Applications/excels";
+  const outputPath = "src/data/Gathered_Informations/Discs/Applications/excels";
   XLSX.writeFile(workbook, path.join(outputPath, OUTPUT_FILE), { bookType: "xlsx", type: "binary" });
   console.log(`✅ Excel oluşturuldu: ${OUTPUT_FILE}`);
   console.log(`💾 Model eşleşmeleri kaydedildi: ${MODEL_MATCH_POOL_PATH}`);
