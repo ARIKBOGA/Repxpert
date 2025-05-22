@@ -9,7 +9,7 @@ async function jsonToExcel() {
 
     // Excel dosyasının adını timestamp ile oluşturalım
     const formattedDateTime = formatDateTime(new Date());
-    const excelFileName = `PAD_OE_NUMBERS_${formattedDateTime}.xlsx`;
+    const excelFileName = `PAD_OE_NUMBERS_${formattedDateTime.numericDate}.xlsx`;
     const excelFilePath = path.join(excelFolderPath, excelFileName);
 
     const workbook = XLSX.utils.book_new();

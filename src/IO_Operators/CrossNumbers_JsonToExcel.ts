@@ -76,7 +76,7 @@ async function convertCrossNumbersJsonToExcel() {
         xlsx.utils.book_append_sheet(workbook, worksheet, 'Cross Numbers');
 
         const formattedDateTime = formatDateTime(new Date());
-        const outputFilePath = path.join(outputDir, `Pad_Cross_Numbers_${formattedDateTime}.xlsx`);
+        const outputFilePath = path.join(outputDir, `Pad_Cross_Numbers_${formattedDateTime.numericDate}.xlsx`);
 
         xlsx.writeFile(workbook, outputFilePath);
         console.log(`Excel dosyası başarıyla oluşturuldu: ${outputFilePath}`);
