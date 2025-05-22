@@ -4,9 +4,14 @@ import glob from "fast-glob";
 import * as XLSX from "xlsx";
 import { Application } from "../types/Application";
 import { extractYears, cleanKBA } from "../utils/extractHelpers";
-import markaMap from "../data/katalogInfo/jsons/marka_new.json";
-import ConfigReader from "../utils/ConfigReader";
+import initialMarkaData from "../data/katalogInfo/jsons/marka_new.json"; // Statik import
+import initialModelData from "../data/katalogInfo/jsons/model_new.json";   // Statik import
 import { formatDateTime } from "../utils/DateHelper";
+import { debuglog } from "util"; // Hata ayıklama logları için
+
+// Hata ayıklama loglarını etkinleştirmek için bir env değişkeni kullanabilirsiniz:
+// export NODE_DEBUG=excel-app (ya da uygulamanızın adı)
+const logDebug = debuglog('excel-app');
 
 interface ModelData {
   id: number;
@@ -27,49 +32,81 @@ interface MarkaData {
   [key: string]: string;
 }
 
+type LookupExcelRow = {
+  YV?: string;
+  BREMBO?: string;
+  TRW?: string;
+  ICER?: string;
+  TEXTAR?: string;
+  [key: string]: string | undefined;
+};
+
 const filterBrand = "BREMBO";
 const formattedDate = formatDateTime(new Date());
 
-const OUTPUT_FILE = `English_DISC_APPLICATIONS_${filterBrand}_${formattedDate}.xlsx`; // Balata, Disc vb. ona göre FILE NAME degistir
-const ROOT_PATH = `src/data/Gathered_Informations/Discs/Applications/English/${filterBrand}`;  // Balata, Disc vb. ona göre PATH degistir
-const MARKA_FILE_PATH = "src/data/katalogInfo/jsons/marka_new.json";
-const MODEL_FILE_PATH = "src/data/katalogInfo/jsons/model_new.json";
-const LOOKUP_FILE_PATH = "src/data/katalogInfo/excels/disc_katalog_full.xlsx";  // balata, disc vb. ona göre PATH degistir
-const MODEL_MATCH_POOL_PATH = "src/data/katalogInfo/jsons/modelMatchPool.json"; // Yeni dosya yolu
+const OUTPUT_FILE = `English_DISC_APPLICATIONS_${filterBrand}_${formattedDate}.xlsx`;
+const ROOT_PATH = `src/data/Gathered_Informations/Discs/Applications/English/${filterBrand}`;
+const LOOKUP_FILE_PATH = "src/data/katalogInfo/excels/disc_katalog_full.xlsx";
+const MODEL_MATCH_POOL_PATH = "src/data/katalogInfo/jsons/modelMatchPool.json";
 
-// Arama hızını artırmak için tüm veri excelden okunup MAP de saklandı
-const lookupDataMap = new Map<string, string | undefined>();
-const lookupWorkbook = XLSX.readFile(LOOKUP_FILE_PATH, { cellDates: true });
-const lookupSheet = lookupWorkbook.Sheets[lookupWorkbook.SheetNames[0]];
-XLSX.utils.sheet_to_json<{ YV: string; BREMBO: string; TRW: string; ICER: string; TEXTAR: string }>(lookupSheet).forEach(row => {
-  const bremboValue = row.BREMBO?.toString().split(",");
-  if (bremboValue) {
-    for (const value of bremboValue) {
-      lookupDataMap.set(value.trim(), row.YV?.toString().trim());
-    }
-  }
-  const trwValue = row.TRW?.toString().split(",");
-  if (trwValue) {
-    for (const value of trwValue) {
-      lookupDataMap.set(value.trim(), row.YV?.toString().trim());
-    }
-  }
-  const icervalue = row.ICER?.toString().split(",");
-  if (icervalue) {
-    for (const value of icervalue) {
-      lookupDataMap.set(value.trim(), row.YV?.toString().trim());
-    }
-  }
-  const textarvalue = row.TEXTAR?.toString().split(",");
-  if (textarvalue) {
-    for (const value of textarvalue) {
-      lookupDataMap.set(value.trim(), row.YV?.toString().trim());
-    }
-  }
-});
+// Arama hızını artırmak için tüm veri Excel'den okunup MAP'te saklandı
+const lookupDataMap = new Map<string, string[]>();
 
-function findYvNoOptimized(partNumber: string): string | null {
-  return lookupDataMap.get(partNumber.trim()) || null;
+/**
+ * Verilen değeri virgülle ayırarak map'e ekler.
+ * Aynı anahtar için birden fazla değer varsa, mevcut diziye ekler.
+ */
+const processAndSetLookupData = (
+  map: Map<string, string[]>,
+  sourceValueString: string | undefined,
+  yvValue: string | undefined
+) => {
+  if (sourceValueString && yvValue) {
+    const trimmedYvValue = yvValue.trim();
+    sourceValueString.split(",").forEach(valuePart => {
+      const trimmedPart = valuePart.trim();
+      if (trimmedPart) {
+        if (map.has(trimmedPart)) {
+          const existingYvValues = map.get(trimmedPart)!;
+          if (!existingYvValues.includes(trimmedYvValue)) {
+            existingYvValues.push(trimmedYvValue);
+          }
+        } else {
+          map.set(trimmedPart, [trimmedYvValue]);
+        }
+      }
+    });
+  }
+};
+
+// Excel lookup verilerini yükleme ve Map'e doldurma (Uygulama başlatıldığında bir kez yapılır)
+try {
+  const lookupWorkbook = XLSX.readFile(LOOKUP_FILE_PATH, { cellDates: false });
+  const lookupSheet = lookupWorkbook.Sheets[lookupWorkbook.SheetNames[0]];
+
+  const fieldsToProcess = ["BREMBO", "TRW", "ICER", "TEXTAR"];
+
+  XLSX.utils.sheet_to_json<LookupExcelRow>(lookupSheet).forEach(row => {
+    const yvValue = row.YV?.toString();
+    fieldsToProcess.forEach(field => {
+      const sourceValue = row[field]?.toString();
+      processAndSetLookupData(lookupDataMap, sourceValue, yvValue);
+    });
+  });
+
+  logDebug("Lookup Map oluşturuldu: %d benzersiz parça numarası kaydı.", lookupDataMap.size);
+
+} catch (error) {
+  console.error("⛔️ Hata: Lookup dosyasını okurken bir hata oluştu:", error);
+  process.exit(1); // Kritik hata durumunda uygulamayı sonlandır
+}
+
+/**
+ * Verilen parça numarasına ait tüm YV No'ları döndürür.
+ * Eğer bulunamazsa boş bir dizi döndürür.
+ */
+function findYvNos(partNumber: string): string[] {
+  return lookupDataMap.get(partNumber.trim()) || [];
 }
 
 async function loadJsonData<T>(filePath: string): Promise<T> {
@@ -77,131 +114,184 @@ async function loadJsonData<T>(filePath: string): Promise<T> {
     return await fs.readJSON(filePath);
   } catch (error: any) {
     if (error.code === 'ENOENT') {
-      // @ts-ignore
-      return {} as T; // Dosya yoksa boş bir obje döndür
+      logDebug("Dosya bulunamadı, boş obje döndürüldü: %s", filePath);
+      return {} as T;
     }
+    console.error(`⛔️ Hata: ${filePath} dosyasını yüklerken bir hata oluştu:`, error);
     throw error;
   }
 }
 
 async function saveJsonData(filePath: string, data: any) {
-  await fs.writeJSON(filePath, data, { spaces: 2 });
+  try {
+    await fs.writeJSON(filePath, data, { spaces: 2 });
+    logDebug("Veri kaydedildi: %s", filePath);
+  } catch (error) {
+    console.error(`⛔️ Hata: ${filePath} dosyasına yazarken bir hata oluştu:`, error);
+    throw error;
+  }
 }
 
 async function main() {
-  const markaData = await loadJsonData<MarkaData>(MARKA_FILE_PATH);
-  const modelData = await loadJsonData<ModelData[]>(MODEL_FILE_PATH) as ModelData[];
-  const files = await glob(`${ROOT_PATH}/**/${filterBrand}*.json`);
-  const workbook = XLSX.utils.book_new();
+  //console.log(`🚀 İşlem Başladı: ${formattedDate}`);
 
-  // markaData'yı bir Map'e dönüştürerek arama hızını artırıyoruz.
-  const markaDataMap = new Map<string, number>();
-  for (const [key, value] of Object.entries(markaData)) {
-    markaDataMap.set(value.trim(), parseInt(key));
+  // Marka verilerini bir kez import edip Map'lere dönüştürüyoruz
+  const markaNameToIdMap = new Map<string, number>();
+  const markaIdToNameMap = new Map<number, string>();
+  for (const [idString, name] of Object.entries(initialMarkaData)) {
+    const id = parseInt(idString);
+    markaNameToIdMap.set(name.trim(), id);
+    markaIdToNameMap.set(id, name.trim());
   }
+  logDebug("Marka Map'leri oluşturuldu.");
 
-  // modelData'yı model ismine göre bir Map'e dönüştürerek arama hızını artırıyoruz.
+  // Model verilerini bir kez import edip Map'e dönüştürüyoruz
   const modelDataMap = new Map<string, ModelData>();
-  modelData.forEach(model => {
+  (initialModelData as ModelData[]).forEach(model => {
     modelDataMap.set(model.model.trim(), model);
   });
+  logDebug("Model Map'i oluşturuldu.");
 
-  // modelMatchPool.json dosyasını yükle veya boş bir array oluştur
+
+  // Tüm JSON uygulama dosyalarını paralel olarak oku
+  const files = await glob(`${ROOT_PATH}/**/${filterBrand}*.json`);
+  if (files.length === 0) {
+    console.warn(`⚠️ Uyarı: ${ROOT_PATH} altında ${filterBrand}*.json dosyası bulunamadı. Çıkış yapılıyor.`);
+    return;
+  }
+  logDebug("%d adet JSON uygulama dosyası bulundu.", files.length);
+
+  const fileReadPromises = files.map(async file => {
+    const json: Application[] = await fs.readJSON(file);
+    const partNumber = path.basename(file, ".json").split("_")[1];
+    return { file, json, partNumber };
+  });
+  const allJsonData = await Promise.all(fileReadPromises);
+  logDebug("Tüm JSON uygulama dosyaları okundu.");
+
+  const workbook = XLSX.utils.book_new();
+
   let modelMatchPool: ModelMatch[] = await loadJsonData<ModelMatch[]>(MODEL_MATCH_POOL_PATH) || [];
   const existingMatches = new Map<string, boolean>();
   modelMatchPool.forEach(match => {
     existingMatches.set(match.normalized, true);
   });
-
   const newlyAddedModels: ModelMatch[] = [];
 
-  for (const file of files) {
-    const json: Application[] = await fs.readJSON(file);
-    const partNumber = path.basename(file, ".json").split("_")[1];
-    const yvNo = findYvNoOptimized(partNumber) || "YV_BULUNAMADI";
-    const sheetName = path.basename(file, ".json").split("_")[1];
+  // Her bir JSON dosyasını işleme döngüsü
+  for (const { file, json, partNumber } of allJsonData) {
+    const yvNos = findYvNos(partNumber);
+    const baseSheetName = partNumber;
 
-    const rows = json.map(async (app) => { // map içinde async kullanıldığına dikkat
-      const { start, end } = extractYears(app.madeYear);
+    // Eğer YV No bulunamazsa varsayılan bir değer ekle
+    if (yvNos.length === 0) {
+      yvNos.push("YV_BULUNAMADI");
+    }
 
-      const marka_id_raw = markaDataMap.get(app.brand.trim()) ?? null;
-      const marka_id = marka_id_raw !== null ? marka_id_raw : null;
+    // Her bir YV No için ayrı bir sayfa oluştur
+    for (let i = 0; i < yvNos.length; i++) {
+      const yvNo = yvNos[i];
+      let sheetName = baseSheetName;
 
-      const modelEntry = modelDataMap.get(app.model.trim());
-      const model_id = modelEntry ? modelEntry.id : null;
-
-      if (model_id !== null && marka_id !== null && !existingMatches.has(app.model.trim())) {
-        const newMatch: ModelMatch = {
-          original: app.model.trim(),
-          normalized: app.model.trim(), // Normalizasyona gerek kalmadı
-          model_id: model_id,
-          marka_id: marka_id,
-        };
-        modelMatchPool.push(newMatch);
-        newlyAddedModels.push(newMatch);
-        existingMatches.set(app.model.trim(), true); // Hemen işaretle ki aynı model tekrar eklenmesin
+      // Eğer birden fazla YV No varsa sayfa adını numaralandır
+      if (yvNos.length > 1) {
+        sheetName = `${baseSheetName}_${i + 1}`; // _1, _2 şeklinde numaralandırma
       }
 
-      const katalogMarkaKey = marka_id !== null ? marka_id.toString() : null;
-      const katalogMarka = katalogMarkaKey && markaMap[katalogMarkaKey as keyof typeof markaMap] ? markaMap[katalogMarkaKey as keyof typeof markaMap].trim() : app.brand.trim();
+      // Excel sayfa adı limiti 31 karakter
+      sheetName = sheetName.slice(0, 31);
 
-      return {
-        "YV No": yvNo,
-        marka_id,
-        marka: katalogMarka,
-        model_id,
-        model: app.model.trim(),
-        "Baş. Yıl": start,
-        "Bit. Yıl": end,
-        motor: app.engineType.trim(),
-        kw: app.kw.trim(),
-        hp: app.hp.trim(),
-        cc: app.cc.trim(),
-        "motor kodu": app.engineCodes.trim(),
-        KBA: cleanKBA(app.KBA_Numbers),
-      };
-    });
+      const resolvedRows: any[] = [];
 
-    // Tüm satırlar işlendikten sonra Promise.all ile sonuçları bekle
-    const resolvedRows = await Promise.all(rows);
+      // JSON dosyasındaki her bir uygulama satırını işle
+      for (const app of json) {
+        const { start, end } = extractYears(app.madeYear);
 
-    const worksheet = XLSX.utils.json_to_sheet(resolvedRows, {
-      header: [
-        "YV No", "marka_id", "marka", "model_id", "model", "Baş. Yıl", "Bit. Yıl",
-        "motor", "kw", "hp", "cc", "motor kodu", "KBA"
-      ]
-    });
+        const marka_id = markaNameToIdMap.get(app.brand.trim()) ?? null;
+        const modelEntry = modelDataMap.get(app.model.trim());
+        const model_id = modelEntry ? modelEntry.id : null;
 
-    XLSX.utils.book_append_sheet(workbook, worksheet, sheetName.slice(0, 31));
+        // Yeni model eşleşmesi bulunursa havuza ekle
+        if (model_id !== null && marka_id !== null && !existingMatches.has(app.model.trim())) {
+          const newMatch: ModelMatch = {
+            original: app.model.trim(),
+            normalized: app.model.trim(),
+            model_id: model_id,
+            marka_id: marka_id,
+          };
+          modelMatchPool.push(newMatch);
+          newlyAddedModels.push(newMatch);
+          existingMatches.set(app.model.trim(), true);
+        }
+
+        const katalogMarka = marka_id !== null ? markaIdToNameMap.get(marka_id) ?? app.brand.trim() : app.brand.trim();
+
+        resolvedRows.push({
+          "YV No": yvNo,
+          marka_id,
+          marka: katalogMarka,
+          model_id,
+          model: app.model.trim(),
+          "Baş. Yıl": start,
+          "Bit. Yıl": end,
+          motor: app.engineType.trim(),
+          kw: app.kw.trim(),
+          hp: app.hp.trim(),
+          cc: app.cc.trim(),
+          "motor kodu": app.engineCodes.trim(),
+          KBA: cleanKBA(app.KBA_Numbers),
+        });
+      }
+
+      const worksheet = XLSX.utils.json_to_sheet(resolvedRows, {
+        header: [
+          "YV No", "marka_id", "marka", "model_id", "model", "Baş. Yıl", "Bit. Yıl",
+          "motor", "kw", "hp", "cc", "motor kodu", "KBA"
+        ]
+      });
+
+      // Excel çalışma kitabına sayfayı ekle
+      XLSX.utils.book_append_sheet(workbook, worksheet, sheetName);
+      logDebug("Sayfa oluşturuldu: %s", sheetName);
+    }
   }
 
   // Tüm dosyalar işlendikten sonra modelMatchPool'u kaydet
   await saveJsonData(MODEL_MATCH_POOL_PATH, modelMatchPool);
 
-  // Yeni eklenen modelleri konsola yazdır
+  // Yeni eklenen modelleri konsola yazdır (İstediğiniz gibi sadece bu log kaldı)
   if (newlyAddedModels.length > 0) {
     console.log("\n✨ Yeni eklenen model eşleşmeleri:");
     newlyAddedModels.forEach(match => {
-      console.log(JSON.stringify(match.original, null, 2));
+      console.log(JSON.stringify(match.original)); // Daha kısa çıktı için tek satır
     });
   } else {
     console.log("\nℹ️ Yeni model eşleşmesi bulunamadı.");
   }
 
   const outputPath = "src/data/Gathered_Informations/Discs/Applications/excels";
+  // Çıktı klasörünü kontrol et ve gerekirse oluştur
+  await fs.ensureDir(outputPath);
+
   XLSX.writeFile(workbook, path.join(outputPath, OUTPUT_FILE), { bookType: "xlsx", type: "binary" });
   console.log(`✅ Excel oluşturuldu: ${OUTPUT_FILE}`);
   console.log(`💾 Model eşleşmeleri kaydedildi: ${MODEL_MATCH_POOL_PATH}`);
 }
 
+// normalizeString fonksiyonu, mevcut haliyle bırakıldı ve kullanıldığı yerlerde doğrudan trim() ile benzer işlev görüyor.
+// Eğer normalizasyon (Türkçe karakter düzeltme, özel karakter çıkarma) ihtiyacı olursa,
+// app.model.trim() yerine normalizeString(app.model) gibi kullanılmalıdır.
 const normalizeString = (input: string): string => {
   return input
     .toUpperCase()
     .normalize("NFD")
     .replace(/[\u0300-\u036f]/g, "")
-    .replace(/İ/g, "I")   // Türkçe büyük İ düzeltmesi
-    .replace(/[^A-Z0-9]/g, "")   // sadece harf ve rakam
+    .replace(/İ/g, "I")
+    .replace(/[^A-Z0-9]/g, "")
     .trim();
 };
 
-main().catch(console.error);
+main().catch(error => {
+  console.error(" catastrophic error occurred: ", error); // En genel hata yakalayıcı
+  process.exit(1);
+});
