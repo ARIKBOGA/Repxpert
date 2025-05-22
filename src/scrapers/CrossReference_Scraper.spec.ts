@@ -3,7 +3,7 @@ import { readProductReferencesFromExcel } from '../utils/ScraperHelpers';
 import ConfigReader from '../utils/ConfigReader';
 import * as fs from 'fs';
 import * as path from 'path';
-import { getSubfolderNamesSync, balata_katalog_full } from '../utils/FileHelpers';
+import { getSubfolderNamesSync } from '../utils/FileHelpers';
 
 // Çiftleri temsil eden arayüz
 interface StringPair {
@@ -11,12 +11,14 @@ interface StringPair {
     crossNumber: string;
 }
 
+const productType = ConfigReader.getEnvVariable("PRODUCT_TYPE");
+
 const references = readProductReferencesFromExcel();
-const existedFolders = getSubfolderNamesSync("src/data/Gathered_Informations/Pads/CrossNumbers/YV_CODES");
+//const existedFolders = getSubfolderNamesSync(`src/data/Gathered_Informations/${productType}/CrossNumbers/YV_CODES`);
 
 test.describe('YV NO ve Textar kodları ile Cross Numbers tarayıcı', () => {
 
-    for (const ref of balata_katalog_full) {
+    for (const ref of references) {
         const yvNo = ref.yvNo;
         const brandRefs = ref.brandRefs;
         const refBrand = brandRefs['ICER']; // Brand değerini brandRefs objesinden alıyoruz. Excel'deki sütun adı TEXTAR / ICER vb.
@@ -28,9 +30,9 @@ test.describe('YV NO ve Textar kodları ile Cross Numbers tarayıcı', () => {
 
         let refs: string[] = [];
         if (refBrand.includes(",")) {
-            refs = refBrand.split(", ");
+            refs = refBrand.split(",");
         } else {
-            refs[0] = refBrand;
+            refs[0] = refBrand.trim();
         }
 
         for (const ref of refs) {
@@ -99,7 +101,7 @@ test.describe('YV NO ve Textar kodları ile Cross Numbers tarayıcı', () => {
                 }
 
                 // Klasör yolunu oluştur
-                const dirPath = path.resolve(`src/data/Gathered_Informations/Pads/CrossNumbers/YV_CODES/${yvNo}`);
+                const dirPath = path.resolve(`src/data/Gathered_Informations/${productType}/CrossNumbers/YV_CODES/${yvNo}`);
 
                 // Klasör yoksa oluştur
                 if (!fs.existsSync(dirPath)) {
