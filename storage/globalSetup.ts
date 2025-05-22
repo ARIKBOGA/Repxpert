@@ -57,7 +57,7 @@ async function globalSetupEnglish() {
 }
 
 async function globalSetupICER() {
-  const browser: Browser = await chromium.launch({ headless: false });
+  const browser: Browser = await chromium.launch({ headless: true });
   const context = await browser.newContext();
   const page: Page = await context.newPage();
 
@@ -79,4 +79,4 @@ async function globalSetupICER() {
   await browser.close();
 }
 
-export default globalSetupEnglish;
+export default globalSetupICER;
