@@ -126,11 +126,3 @@ test.describe('YV NO ve Textar kodları ile Cross Numbers tarayıcı', () => {
 
     }
 });
-
-
-test.describe('Cross Reference Scraper', () => {
-    test('Cross Reference Scraper', async ({ page }) => {
-        await page.goto(ConfigReader.getEnvVariable("CROSS_NUMBERS_URL"));
-        await page.waitForLoadState("domcontentloaded")
-    });
-});
