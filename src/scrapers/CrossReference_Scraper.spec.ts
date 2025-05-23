@@ -21,7 +21,7 @@ const references : ProductReference[] = readProductReferencesFromExcel(productTy
 
 test.describe('YV NO ve Textar kodları ile Cross Numbers tarayıcı', () => {
 
-    for (const ref of references) {
+    for (const ref of balata_katalog_full) {
         const yvNo = ref.yvNo;
         const brandRefs = ref.brandRefs;
         const searchBrand = 'ICER';
@@ -73,6 +73,17 @@ test.describe('YV NO ve Textar kodları ile Cross Numbers tarayıcı', () => {
                 if (!productTitle) {
                     productTitle = 'Unknown Product';
                 }
+
+                // Click to "Others" link
+                const othersLink = iframe.locator("//a[contains(text(), 'Others')]");
+                await othersLink.click();
+                await page.waitForTimeout(2000);
+
+                // Scrooll to the bottom of the page to make visible all elements. Sometimes some of the elements are not visible and not clickable.
+                await page.evaluate(() => {
+                    window.scrollTo(0, document.body.scrollHeight);
+                });
+                await page.waitForTimeout(1000);
 
                 const makerElements = iframe.locator("//div[@id='referenciasOtras']//tr/td[1]").allTextContents();
                 const crossNumbersElements = iframe.locator("//div[@id='referenciasOtras']//tr/td[2]").allInnerTexts();
