@@ -16,7 +16,7 @@ interface StringPair {
 const productType = ConfigReader.getEnvVariable("PRODUCT_TYPE");
 
 // Ürün tipine karşılık gelen Excel dosyasından katalog bilgilerini oku
-const references :ProductReference[] = readProductReferencesFromExcel(productType);
+const references : ProductReference[] = readProductReferencesFromExcel(productType);
 //const existedFolders = getSubfolderNamesSync(`src/data/Gathered_Informations/${productType}/CrossNumbers/YV_CODES`);
 
 test.describe('YV NO ve Textar kodları ile Cross Numbers tarayıcı', () => {
@@ -24,7 +24,7 @@ test.describe('YV NO ve Textar kodları ile Cross Numbers tarayıcı', () => {
     for (const ref of references) {
         const yvNo = ref.yvNo;
         const brandRefs = ref.brandRefs;
-        const searchBrand = 'BREMBO';
+        const searchBrand = 'ICER';
         const refBrand = brandRefs[searchBrand]; // Brand değerini brandRefs objesinden alıyoruz. Excel'deki sütun adı TEXTAR / ICER vb.
 
         if (refBrand === undefined || refBrand === null || refBrand.trim() === '') {
