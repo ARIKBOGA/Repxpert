@@ -1,0 +1,39 @@
+{
+  "reference": "78BD4682-2",
+  "id": "78BD4682-2",
+  "name": "Fren diski",
+  "brand": "ICER",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "CITROËN": [
+      "4246.K2",
+      "4246.K3",
+      "4246.Y3",
+      "4249.36"
+    ],
+    "FIAT": [
+      "1 307 356 080",
+      "4 680 623 4",
+      "5 172 837 8",
+      "5 174 024 7"
+    ],
+    "PEUGEOT": [
+      "4246.K2",
+      "4246.K3",
+      "4246.Y5",
+      "4249.35"
+    ]
+  },
+  "eanNumber": "8424073146113",
+  "dimensions": {
+    "width1": null,
+    "width2": null,
+    "height1": "65,5",
+    "height2": null,
+    "thickness1": "24",
+    "thickness2": null,
+    "manufacturerRestriction": "",
+    "checkmark": "E1 90R-02C0074/0364",
+    "SVHC": ""
+  }
+}

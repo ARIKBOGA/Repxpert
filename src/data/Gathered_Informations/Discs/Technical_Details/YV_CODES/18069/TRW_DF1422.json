@@ -1,0 +1,31 @@
+{
+  "reference": "DF1422",
+  "id": "DF1422",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "KIA": [
+      "0S083-33251"
+    ],
+    "MAZDA": [
+      "S083-33-251",
+      "S083-33-251A",
+      "S083-33-251B",
+      "SE28-33-251",
+      "UB39-33-251A"
+    ]
+  },
+  "eanNumber": "3322936142201",
+  "dimensions": {
+    "width1": null,
+    "width2": null,
+    "height1": "20",
+    "height2": null,
+    "thickness1": null,
+    "thickness2": null,
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!"
+  }
+}

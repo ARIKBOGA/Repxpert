@@ -1,0 +1,28 @@
+{
+  "reference": "DF2785",
+  "id": "DF2785",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "FORD": [
+      "5029816",
+      "5209816",
+      "6952853",
+      "95VX-1125-BA",
+      "EBT247"
+    ]
+  },
+  "eanNumber": "3322937184811",
+  "dimensions": {
+    "width1": null,
+    "width2": null,
+    "height1": "43",
+    "height2": null,
+    "thickness1": null,
+    "thickness2": null,
+    "manufacturerRestriction": "",
+    "checkmark": "E1 90R-02 C0176/0685",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!"
+  }
+}

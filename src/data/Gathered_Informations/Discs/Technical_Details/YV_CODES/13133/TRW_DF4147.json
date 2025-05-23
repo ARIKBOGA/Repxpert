@@ -1,0 +1,41 @@
+{
+  "reference": "DF4147",
+  "id": "DF4147",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "FORD": [
+      "1321488",
+      "1376118",
+      "1388257",
+      "1465618",
+      "1506298",
+      "1681578",
+      "1S7W-1125-AB",
+      "4097477",
+      "4097478",
+      "4110587",
+      "4179398",
+      "4181042"
+    ],
+    "JAGUAR": [
+      "C2S35270",
+      "C2S42667",
+      "C2S4566",
+      "C2S49729"
+    ]
+  },
+  "eanNumber": "3322937288892",
+  "dimensions": {
+    "width1": null,
+    "width2": null,
+    "height1": "47,1",
+    "height2": null,
+    "thickness1": null,
+    "thickness2": null,
+    "manufacturerRestriction": "",
+    "checkmark": "E190R-02C0176/0199",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!"
+  }
+}

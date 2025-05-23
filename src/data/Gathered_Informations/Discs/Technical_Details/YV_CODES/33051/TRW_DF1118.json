@@ -1,0 +1,41 @@
+{
+  "reference": "DF1118",
+  "id": "DF1118",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "ALFA ROMEO": [
+      "7568440",
+      "93500520"
+    ],
+    "CITROËN": [
+      "4246 N5",
+      "7 531 819",
+      "ZF 935 005 20"
+    ],
+    "FIAT": [
+      "71740116",
+      "7531819",
+      "7568440",
+      "93500520"
+    ],
+    "PEUGEOT": [
+      "4246 93",
+      "4246 95",
+      "4246 B4"
+    ]
+  },
+  "eanNumber": "3322936111801",
+  "dimensions": {
+    "width1": null,
+    "width2": null,
+    "height1": "64",
+    "height2": null,
+    "thickness1": null,
+    "thickness2": null,
+    "manufacturerRestriction": "",
+    "checkmark": "E190R-02C0190/0103",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "reference": "DF2754",
+  "id": "DF2754",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "CITROËN": [
+      "4246 H9",
+      "4249 C7",
+      "4249 L4"
+    ],
+    "FIAT": [
+      "0001312833080",
+      "1316323080",
+      "71738144"
+    ],
+    "PEUGEOT": [
+      "4246 H8",
+      "4249 L4"
+    ]
+  },
+  "eanNumber": "3322937136834",
+  "dimensions": {
+    "width1": null,
+    "width2": null,
+    "height1": "40,5",
+    "height2": null,
+    "thickness1": null,
+    "thickness2": null,
+    "manufacturerRestriction": "",
+    "checkmark": "E190R-02C0176/0520",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!"
+  }
+}

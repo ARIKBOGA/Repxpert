@@ -1,0 +1,28 @@
+{
+  "reference": "09.8903.14",
+  "id": "09.8903.14",
+  "name": "Fren diski PRIME LINE",
+  "brand": "BREMBO",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "LADA": [
+      "21120350107000",
+      "21120350107001",
+      "21120350107002",
+      "21123501070",
+      "2112350107001"
+    ]
+  },
+  "eanNumber": "8020584013502",
+  "dimensions": {
+    "width1": null,
+    "width2": null,
+    "height1": "41",
+    "height2": null,
+    "thickness1": null,
+    "thickness2": null,
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": ""
+  }
+}

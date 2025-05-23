@@ -1,0 +1,28 @@
+{
+  "reference": "78BD1057-2",
+  "id": "78BD1057-2",
+  "name": "Fren diski",
+  "brand": "ICER",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "NISSAN": [
+      "40206-2F500",
+      "40206-2F501",
+      "40206-55F01",
+      "40206-55F03",
+      "40206-73L01"
+    ]
+  },
+  "eanNumber": "8424073142887",
+  "dimensions": {
+    "width1": null,
+    "width2": null,
+    "height1": "49,6",
+    "height2": null,
+    "thickness1": "22",
+    "thickness2": null,
+    "manufacturerRestriction": "",
+    "checkmark": "E1 90R-02C0074/0223",
+    "SVHC": ""
+  }
+}

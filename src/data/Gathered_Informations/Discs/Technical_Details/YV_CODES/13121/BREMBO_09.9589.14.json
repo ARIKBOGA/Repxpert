@@ -1,0 +1,37 @@
+{
+  "reference": "09.9589.14",
+  "id": "09.9589.14",
+  "name": "Fren diski PRIME LINE",
+  "brand": "BREMBO",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "FORD": [
+      "1361298",
+      "1361300",
+      "2T141125CA",
+      "2T141125CB",
+      "2T141125CC",
+      "2T141125EA",
+      "2T141125EB",
+      "2T141125EC",
+      "2T1Z1125A",
+      "4367104",
+      "4367105",
+      "4367106",
+      "4455980",
+      "4457985"
+    ]
+  },
+  "eanNumber": "8020584958919",
+  "dimensions": {
+    "width1": null,
+    "width2": null,
+    "height1": "45",
+    "height2": null,
+    "thickness1": null,
+    "thickness2": null,
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": ""
+  }
+}

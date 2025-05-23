@@ -1,0 +1,30 @@
+{
+  "reference": "78BD7829-2",
+  "id": "78BD7829-2",
+  "name": "Fren diski",
+  "brand": "ICER",
+  "wvaNumbers": [
+    "127955FCAL"
+  ],
+  "brand_oe_map": {
+    "RENAULT": [
+      "77 00 426 389",
+      "77 01 205 230",
+      "77 01 205 842",
+      "77 01 206 118",
+      "77 01 207 829"
+    ]
+  },
+  "eanNumber": "8424073148612",
+  "dimensions": {
+    "width1": null,
+    "width2": null,
+    "height1": "44",
+    "height2": null,
+    "thickness1": "24",
+    "thickness2": null,
+    "manufacturerRestriction": "",
+    "checkmark": "E1 90R-02C0289/1129",
+    "SVHC": ""
+  }
+}

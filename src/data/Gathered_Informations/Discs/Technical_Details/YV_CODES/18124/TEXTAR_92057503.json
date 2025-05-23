@@ -1,0 +1,50 @@
+{
+  "reference": "92057503",
+  "id": "92057503",
+  "name": "Fren diski PRO",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "AUDI": [
+      "4A0615301A",
+      "4A0615601A",
+      "8E0615601",
+      "JCW615601C",
+      "JZW615601C",
+      "L4A0615601A"
+    ],
+    "SEAT": [
+      "4A0615301A",
+      "4A0615601A",
+      "8E0615601",
+      "JCW615601C",
+      "JZW615601C"
+    ],
+    "SKODA": [
+      "4A0615301A",
+      "4A0615601A",
+      "8E0615601",
+      "JCW615601C",
+      "JZW615601C"
+    ],
+    "VW": [
+      "4A0615301A",
+      "4A0615601A",
+      "8E0615601",
+      "JCW615601C",
+      "JZW615601C"
+    ]
+  },
+  "eanNumber": "4019722300929",
+  "dimensions": {
+    "width1": null,
+    "width2": null,
+    "height1": "63,7",
+    "height2": null,
+    "thickness1": null,
+    "thickness2": null,
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": ""
+  }
+}

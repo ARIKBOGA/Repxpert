@@ -1,0 +1,28 @@
+{
+  "reference": "DF4107",
+  "id": "DF4107",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "LADA": [
+      "21120350107000",
+      "21120350107001",
+      "21123501070",
+      "2112350107001",
+      "21123501075"
+    ]
+  },
+  "eanNumber": "3322937288007",
+  "dimensions": {
+    "width1": null,
+    "width2": null,
+    "height1": "42,5",
+    "height2": null,
+    "thickness1": null,
+    "thickness2": null,
+    "manufacturerRestriction": "",
+    "checkmark": "E1 90R-02 C0176/0701",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "reference": "09.5707.14",
+  "id": "09.5707.14",
+  "name": "Fren diski PRIME LINE",
+  "brand": "BREMBO",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "FORD": [
+      "1514233",
+      "1757848",
+      "4056029",
+      "4070865",
+      "5026784",
+      "6784094",
+      "93BB1125D3C",
+      "93BX1124AC",
+      "93BX1125AC",
+      "93BX1125AE",
+      "F5RZ1125A",
+      "F5RZ1125AB",
+      "F5RZ1125B"
+    ],
+    "FORD USA": [
+      "F5RZ1125A",
+      "F8RZ1125DA",
+      "YS2Z1V125AA"
+    ],
+    "MERCURY": [
+      "F5RZ1125A",
+      "F5RZ1125B"
+    ]
+  },
+  "eanNumber": "8020584012598",
+  "dimensions": {
+    "width1": null,
+    "width2": null,
+    "height1": "47",
+    "height2": null,
+    "thickness1": null,
+    "thickness2": null,
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": ""
+  }
+}

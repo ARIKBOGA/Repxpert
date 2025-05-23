@@ -1,0 +1,43 @@
+{
+  "reference": "DF1538",
+  "id": "DF1538",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "BMW": [
+      "1 160 674",
+      "1 162 282",
+      "1 162 288",
+      "1 164 199",
+      "1 164 431",
+      "1 164 921",
+      "1 165 455",
+      "34 11 1 160 674",
+      "34 11 1 162 282",
+      "34 11 1 162 288",
+      "34 11 1 164 199",
+      "34 11 1 164 431",
+      "34 11 1 164 921",
+      "34 11 1 165 455",
+      "34 11 6 766 239",
+      "34 11 6 855 153",
+      "34 11 6 864 060",
+      "6 766 239",
+      "6 855 153",
+      "6 864 060"
+    ]
+  },
+  "eanNumber": "3322936153801",
+  "dimensions": {
+    "width1": null,
+    "width2": null,
+    "height1": "51,6",
+    "height2": null,
+    "thickness1": null,
+    "thickness2": null,
+    "manufacturerRestriction": "",
+    "checkmark": "E190R-02C0176/0006",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!"
+  }
+}

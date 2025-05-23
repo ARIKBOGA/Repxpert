@@ -1,0 +1,35 @@
+{
+  "reference": "DF1791",
+  "id": "DF1791",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "AUTOBIANCHI": [
+      "5961814"
+    ],
+    "FIAT": [
+      "5961814",
+      "71738423"
+    ],
+    "INNOCENTI": [
+      "5961814"
+    ],
+    "LANCIA": [
+      "5961814",
+      "71738423"
+    ]
+  },
+  "eanNumber": "3322936179108",
+  "dimensions": {
+    "width1": null,
+    "width2": null,
+    "height1": "46,5",
+    "height2": null,
+    "thickness1": null,
+    "thickness2": null,
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!"
+  }
+}

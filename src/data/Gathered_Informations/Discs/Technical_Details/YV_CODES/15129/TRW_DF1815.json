@@ -1,0 +1,40 @@
+{
+  "reference": "DF1815",
+  "id": "DF1815",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "HONDA": [
+      "45251-SA2-751",
+      "45251-SB2-750",
+      "45251-SB2-751",
+      "45251-SB2-752",
+      "45251-SB2-920",
+      "45251-SB2-930",
+      "45251-SB2-931",
+      "45251-SB2-932",
+      "45251-SB2-940",
+      "45251SB2932HS"
+    ],
+    "ROVER": [
+      "GBD443",
+      "GBD90803",
+      "GBD90814",
+      "GBD90825",
+      "XAP88"
+    ]
+  },
+  "eanNumber": "3322936181507",
+  "dimensions": {
+    "width1": null,
+    "width2": null,
+    "height1": "44,3",
+    "height2": null,
+    "thickness1": null,
+    "thickness2": null,
+    "manufacturerRestriction": "",
+    "checkmark": "E1 90R-02 C0176/0689",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!"
+  }
+}

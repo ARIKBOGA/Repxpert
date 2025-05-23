@@ -1,0 +1,56 @@
+{
+  "reference": "92060903",
+  "id": "92060903",
+  "name": "Fren diski PRO",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "HONDA": [
+      "45251S06000",
+      "45251S5DA10",
+      "45251S5HT10",
+      "45251S6DE10",
+      "45251SCC000",
+      "45251SCC900",
+      "45251SCC901",
+      "45251SK7000",
+      "45251SK7A00",
+      "45251SK7A10",
+      "45251SK7J00",
+      "45251SR0A00",
+      "45251SR0A10",
+      "45251ST3E10",
+      "45251SZY000",
+      "45251T9AT00",
+      "45251T9PJ00",
+      "45251TARG00",
+      "45251TF3E00",
+      "45251TF3E01",
+      "45251TG5H00",
+      "45251TRDT00"
+    ],
+    "MG": [
+      "SDB000990",
+      "SDB000991",
+      "SDB100600"
+    ],
+    "ROVER": [
+      "GBD90840",
+      "SDB000990",
+      "SDB000991",
+      "SDB100600"
+    ]
+  },
+  "eanNumber": "4019722435997",
+  "dimensions": {
+    "width1": null,
+    "width2": null,
+    "height1": "44,7",
+    "height2": null,
+    "thickness1": null,
+    "thickness2": null,
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": ""
+  }
+}

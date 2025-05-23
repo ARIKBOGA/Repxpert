@@ -1,0 +1,27 @@
+{
+  "reference": "09.5906.14",
+  "id": "09.5906.14",
+  "name": "Fren diski PRIME LINE",
+  "brand": "BREMBO",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "CITROËN": [
+      "4246K3"
+    ],
+    "FIAT": [
+      "1307356080"
+    ]
+  },
+  "eanNumber": "8020584012642",
+  "dimensions": {
+    "width1": null,
+    "width2": null,
+    "height1": "66",
+    "height2": null,
+    "thickness1": null,
+    "thickness2": null,
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": ""
+  }
+}

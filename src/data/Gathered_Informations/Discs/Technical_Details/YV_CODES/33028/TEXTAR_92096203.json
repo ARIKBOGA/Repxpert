@@ -1,0 +1,65 @@
+{
+  "reference": "92096203",
+  "id": "92096203",
+  "name": "Fren diski PRO",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "FORD": [
+      "1148202",
+      "1320585",
+      "1323620",
+      "1373771",
+      "1388256",
+      "1464916",
+      "1465622",
+      "1499045",
+      "1522230",
+      "1808479",
+      "2S611125AA",
+      "3049893",
+      "3555344",
+      "3573537",
+      "4077455",
+      "7S611125BA",
+      "98AB1125BC",
+      "98AB1125BD",
+      "98AB1125BE",
+      "98AB1125D1E",
+      "98AB1125DC",
+      "98AG1125E1B",
+      "98AG1125EA",
+      "98AG1125EB",
+      "98AX1125B1F",
+      "98AX1125BE",
+      "98AX1125BF"
+    ],
+    "MAZDA": [
+      "DD323325X",
+      "DD533325XA",
+      "DD593325X",
+      "DD593325XD",
+      "DD593325XE",
+      "DD633325X",
+      "DD633325XA"
+    ],
+    "MITSUBISHI": [
+      "DD593325XA",
+      "DD593325XB",
+      "DD593325XC",
+      "DD633325XA"
+    ]
+  },
+  "eanNumber": "4019722300943",
+  "dimensions": {
+    "width1": null,
+    "width2": null,
+    "height1": "43,6",
+    "height2": null,
+    "thickness1": null,
+    "thickness2": null,
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": ""
+  }
+}

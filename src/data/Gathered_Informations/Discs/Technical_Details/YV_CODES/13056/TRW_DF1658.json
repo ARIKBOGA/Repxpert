@@ -1,0 +1,32 @@
+{
+  "reference": "DF1658",
+  "id": "DF1658",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "FORD": [
+      "1072464",
+      "1107767",
+      "5022652",
+      "5022653",
+      "6191062",
+      "6191063",
+      "89FX-1125-AE",
+      "89FX-1125-BE",
+      "89FX-1125-S1A"
+    ]
+  },
+  "eanNumber": "3322936165804",
+  "dimensions": {
+    "width1": null,
+    "width2": null,
+    "height1": "43",
+    "height2": null,
+    "thickness1": null,
+    "thickness2": null,
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!"
+  }
+}

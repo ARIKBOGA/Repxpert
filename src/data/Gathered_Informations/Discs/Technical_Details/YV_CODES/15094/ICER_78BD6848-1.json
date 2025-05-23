@@ -1,0 +1,36 @@
+{
+  "reference": "78BD6848-1",
+  "id": "78BD6848-1",
+  "name": "Fren diski",
+  "brand": "ICER",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "NISSAN": [
+      "40206-00QAD",
+      "77 00 314 064"
+    ],
+    "OPEL": [
+      "44 03 038",
+      "45 01 421"
+    ],
+    "RENAULT": [
+      "77 00 314 064"
+    ],
+    "VAUXHALL": [
+      "91 110 38",
+      "91 61 721"
+    ]
+  },
+  "eanNumber": "8424073148162",
+  "dimensions": {
+    "width1": null,
+    "width2": null,
+    "height1": "78",
+    "height2": null,
+    "thickness1": "28",
+    "thickness2": null,
+    "manufacturerRestriction": "",
+    "checkmark": "E1 90R-02C0074/1558",
+    "SVHC": ""
+  }
+}

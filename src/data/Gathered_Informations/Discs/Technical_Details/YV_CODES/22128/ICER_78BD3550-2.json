@@ -1,0 +1,40 @@
+{
+  "reference": "78BD3550-2",
+  "id": "78BD3550-2",
+  "name": "Fren diski",
+  "brand": "ICER",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "DACIA": [
+      "60 01 548 578",
+      "77 01 205 653",
+      "77 01 206 339"
+    ],
+    "NISSAN": [
+      "40206-00QAA"
+    ],
+    "RENAULT": [
+      "77 00 780 892",
+      "77 00 813 549",
+      "77 00 842 131",
+      "77 01 204 228",
+      "77 01 204 304",
+      "77 01 204 828",
+      "77 01 205 653",
+      "77 01 206 339",
+      "82 01 464 598"
+    ]
+  },
+  "eanNumber": "8424073145086",
+  "dimensions": {
+    "width1": null,
+    "width2": null,
+    "height1": "41",
+    "height2": null,
+    "thickness1": "20,6",
+    "thickness2": null,
+    "manufacturerRestriction": "",
+    "checkmark": "E1 90R-02C0339/1054",
+    "SVHC": ""
+  }
+}
