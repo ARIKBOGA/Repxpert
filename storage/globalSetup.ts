@@ -79,4 +79,4 @@ async function globalSetupICER() {
   await browser.close();
 }
 
-export default globalSetup;
+export default globalSetupICER;
