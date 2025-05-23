@@ -132,9 +132,8 @@ export function readProductReferencesFromExcel(): ProductReference[] {
         }
       }
     }
-
-    references.push({ yvNo, brandRefs });  // ❗ Bu satır artık dış döngüde!
+    references.push({ yvNo, brandRefs });
   }
-
   return references;
 }
+

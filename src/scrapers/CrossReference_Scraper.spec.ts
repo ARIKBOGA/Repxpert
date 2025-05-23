@@ -1,9 +1,9 @@
 import { test } from '@playwright/test';
-import { readProductReferencesFromExcel } from '../utils/ScraperHelpers';
+import { readProductReferencesFromExcel, ProductReference } from '../utils/ScraperHelpers';
 import ConfigReader from '../utils/ConfigReader';
 import * as fs from 'fs';
 import * as path from 'path';
-import { getSubfolderNamesSync } from '../utils/FileHelpers';
+import { getSubfolderNamesSync, balata_katalog_full } from '../utils/FileHelpers';
 
 // Çiftleri temsil eden arayüz
 interface StringPair {
@@ -13,7 +13,7 @@ interface StringPair {
 
 const productType = ConfigReader.getEnvVariable("PRODUCT_TYPE");
 
-const references = readProductReferencesFromExcel();
+const references :ProductReference[] = readProductReferencesFromExcel();
 //const existedFolders = getSubfolderNamesSync(`src/data/Gathered_Informations/${productType}/CrossNumbers/YV_CODES`);
 
 test.describe('YV NO ve Textar kodları ile Cross Numbers tarayıcı', () => {
@@ -21,7 +21,8 @@ test.describe('YV NO ve Textar kodları ile Cross Numbers tarayıcı', () => {
     for (const ref of references) {
         const yvNo = ref.yvNo;
         const brandRefs = ref.brandRefs;
-        const refBrand = brandRefs['ICER']; // Brand değerini brandRefs objesinden alıyoruz. Excel'deki sütun adı TEXTAR / ICER vb.
+        const searchBrand = 'BREMBO';
+        const refBrand = brandRefs[searchBrand]; // Brand değerini brandRefs objesinden alıyoruz. Excel'deki sütun adı TEXTAR / ICER vb.
 
         if (refBrand === undefined || refBrand === null || refBrand.trim() === '') {
             //console.log(`YV No: ${yvNo} için geçerli bir referans kodu bulunamadı.`);
@@ -36,7 +37,7 @@ test.describe('YV NO ve Textar kodları ile Cross Numbers tarayıcı', () => {
         }
 
         for (const ref of refs) {
-            test(`${yvNo} / ${ref} koduyla veri topla`, async ({ page }) => {
+            test(`${yvNo} / ${searchBrand} - ${ref} koduyla veri topla`, async ({ page }) => {
 
                 await page.goto(ConfigReader.getEnvVariable("CROSS_NUMBERS_URL"));
                 await page.waitForLoadState("domcontentloaded")
@@ -60,7 +61,7 @@ test.describe('YV NO ve Textar kodları ile Cross Numbers tarayıcı', () => {
                     await page.waitForTimeout(1500);
                 } else {
                     // Handle the case where no product links are found, e.g., log a warning or throw an error
-                    console.warn('No product link found for the given reference.');
+                    console.warn(`No product link found for the reference: ${searchBrand} - ${ref}`);
                 }
 
                 await page.waitForLoadState('networkidle')
@@ -121,4 +122,12 @@ test.describe('YV NO ve Textar kodları ile Cross Numbers tarayıcı', () => {
         }
 
     }
+});
+
+
+test.describe('Cross Reference Scraper', () => {
+    test('Cross Reference Scraper', async ({ page }) => {
+        await page.goto(ConfigReader.getEnvVariable("CROSS_NUMBERS_URL"));
+        await page.waitForLoadState("domcontentloaded")
+    });
 });
