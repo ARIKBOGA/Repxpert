@@ -1,0 +1,58 @@
+{
+  "reference": "DF4013",
+  "id": "DF4013",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "SUBARU": [
+      "26310AA001",
+      "26310AA011",
+      "26310AA012",
+      "26310AA130"
+    ]
+  },
+  "eanNumber": "3322937205615",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "18"
+    ],
+    "MinimumThicknessValues": [
+      "16"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "53"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "242"
+    ],
+    "BoltHoleCircle": [
+      "100"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "58"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": [
+      "13"
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "reference": "09.6877.10",
+  "id": "09.6877.10",
+  "name": "Fren diski PRIME LINE",
+  "brand": "BREMBO",
+  "brand_oe_map": {
+    "SUBARU": [
+      "26310AA001",
+      "26310AA011",
+      "26310AA012",
+      "26310AA130",
+      "26310AA140",
+      "26310AA141"
+    ]
+  },
+  "eanNumber": "8020584687710",
+  "disc": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "18"
+    ],
+    "MinimumThicknessValues": [
+      "16"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "53"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "242"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "58"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [
+      "100"
+    ],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

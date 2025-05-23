@@ -1,0 +1,71 @@
+{
+  "reference": "DF6656",
+  "id": "DF6656",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "CITROËN": [
+      "16 095 828 80"
+    ],
+    "DS": [
+      "16 095 828 80"
+    ],
+    "OPEL": [
+      "16 095 828 80"
+    ],
+    "PEUGEOT": [
+      "16 095 828 80"
+    ],
+    "VAUXHALL": [
+      "16 095 828 80"
+    ]
+  },
+  "eanNumber": "3322938269258",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "12"
+    ],
+    "MinimumThicknessValues": [
+      "10"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "35"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "268"
+    ],
+    "BoltHoleCircle": [
+      "108"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E190R-02C0190/0535"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "71"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": []
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "reference": "09.9772.10",
+  "id": "09.9772.10",
+  "name": "Fren diski PRIME LINE",
+  "brand": "BREMBO",
+  "brand_oe_map": {
+    "AUDI": [
+      "1K0615301AA",
+      "5C0615301B",
+      "5N0615301",
+      "5Q0615301F"
+    ],
+    "AUDI (FAW)": [
+      "L1KD615301D"
+    ],
+    "CUPRA": [
+      "5Q0615301F"
+    ],
+    "SEAT": [
+      "1K0615301AA",
+      "5N0615301",
+      "5Q0615301F",
+      "JZW615301H"
+    ],
+    "SKODA": [
+      "1K0615301AA",
+      "5N0615301",
+      "5Q0615301F",
+      "JZW615301H"
+    ],
+    "SKODA (SVW)": [
+      "1K0615301AA",
+      "1KD615301D",
+      "3CD615301"
+    ],
+    "VW": [
+      "1K0615301AA",
+      "561615301",
+      "561615301A",
+      "561615301B",
+      "5C0615301B",
+      "5C0615301E",
+      "5N0615301",
+      "5Q0615301F",
+      "5QM615301A",
+      "JZW615301H"
+    ],
+    "VW (FAW)": [
+      "5C0615301B",
+      "5C0615301E",
+      "L1K0615301AA",
+      "L1KD615301D",
+      "L3CD615301"
+    ],
+    "VW (SVW)": [
+      "1K0615301AA",
+      "1KD615301D"
+    ]
+  },
+  "eanNumber": "8020584977217",
+  "disc": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "25"
+    ],
+    "MinimumThicknessValues": [
+      "22"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "50"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "312"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Cıvatalar ile"
+    ],
+    "CenteringDiameter": [
+      "65"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [
+      "Yüksek karbonlu"
+    ],
+    "TighteningTorque": [
+      "120"
+    ],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

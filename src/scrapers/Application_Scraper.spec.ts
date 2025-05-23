@@ -16,14 +16,14 @@ const crossNumbers: string[] = JSON.parse(
   fs.readFileSync(crossNumbersPath, "utf-8")
 );
 
-const manualArray: string[] = ["2407302","2407304"];
+const manualArray: string[] = ["92232305"];
 
 let retryList = readJsonFile<string[]>(retryListFilePath, []);
 
 test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
   const filterBrand = ConfigReader.getEnvVariable("FILTER_BRAND_APPLICATION");
 
-  for (const cross of crossNumbers) {
+  for (const cross of manualArray) {
     test(`${filterBrand} - ${cross} ürününün araç uyumluluklarını getir`, async ({
       page,
     }) => {
@@ -87,40 +87,40 @@ test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
             const vehicles = page.locator(selector.aria_level_2_vehicle);
             const vehicleEl = vehicles.nth(j);
             const vehicle = (await vehicleEl.textContent())?.trim() || "";
-          
+
             if (processedVehicles.has(vehicle)) continue;
             processedVehicles.add(vehicle);
-          
+
             // scrollIntoViewIfNeeded() DEVRE DIŞI
             // await vehicleEl.scrollIntoViewIfNeeded();
-          
+
             // Eğer araç zaten açıksa (expanded), önce kapat
             const isExpanded = await vehicleEl.getAttribute("aria-expanded");
             if (isExpanded === "true") {
               await vehicleEl.click();
               await page.waitForTimeout(2000); // collapse işlemi tamamlanana kadar bekle
             }
-          
+
             await vehicleEl.click(); // tekrar aç
             await page.waitForTimeout(2500); // açılmasını bekle
             await page.waitForSelector(selector.aria_level_3_rows, {
               state: "visible",
               timeout: 5000,
             });
-            if(!page.locator(selector.aria_level_3_rows) || await page.locator(selector.aria_level_3_rows).count() === 0) {
+            if (!page.locator(selector.aria_level_3_rows) || await page.locator(selector.aria_level_3_rows).count() === 0) {
               console.warn(`⚠️⚠️⚠️ ${brand} - ${vehicle} için satır bulunamadı ⚠️⚠️⚠️`);
               continue;
             }
 
-          
+
             const rows = page.locator(selector.aria_level_3_rows);
             const rowCount = await rows.count();
-          
+
             if (rowCount === 0) {
               console.warn(`⚠️ ${brand} - ${vehicle} için satır bulunamadı`);
               continue;
             }
-          
+
             for (let k = 0; k < rowCount; k++) {
               const cells = page.locator(
                 selector.cells_part_1 + (k + 1) + selector.cells_part_2
@@ -129,7 +129,7 @@ test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
               const cellValues = cellTexts
                 .map((text) => text.trim())
                 .filter((text) => text !== "");
-          
+
               applications.push({
                 brand,
                 model: vehicle,
@@ -142,12 +142,12 @@ test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
                 KBA_Numbers: cellValues[6] || "",
               });
             }
-          
+
             await page.waitForTimeout(500);
             await vehicleEl.click(); // collapse after processing
             await page.waitForTimeout(1000);
           }
-          
+
 
           await brandEl.click(); // collapse
           await page.waitForTimeout(1000);

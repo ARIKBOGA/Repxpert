@@ -1,0 +1,76 @@
+{
+  "reference": "09.5869.14",
+  "id": "09.5869.14",
+  "name": "Fren diski PRIME LINE",
+  "brand": "BREMBO",
+  "brand_oe_map": {
+    "FORD": [
+      "815220001V"
+    ],
+    "FORD ASIA & OCEANIA": [
+      "B4583325XA"
+    ],
+    "KIA": [
+      "KDX503325X"
+    ],
+    "MAZDA": [
+      "B25Y3325XB",
+      "B4583325XC",
+      "B4583325XD",
+      "B5Y23325XC",
+      "NA013325A",
+      "NA013325X",
+      "NA013325XA",
+      "NA013325XB",
+      "NA013325XC",
+      "NA013325XD",
+      "NAO13325XA",
+      "SA013325X"
+    ],
+    "SAO": [
+      "NA013325X"
+    ]
+  },
+  "eanNumber": "8020584012949",
+  "disc": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "18"
+    ],
+    "MinimumThicknessValues": [
+      "16"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "45"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "235"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [
+      "4"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "55"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [
+      "103"
+    ],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

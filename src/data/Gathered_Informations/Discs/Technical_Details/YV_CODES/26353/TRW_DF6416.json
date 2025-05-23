@@ -1,0 +1,55 @@
+{
+  "reference": "DF6416",
+  "id": "DF6416",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {},
+  "eanNumber": "3322938169367",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "28"
+    ],
+    "MinimumThicknessValues": [
+      "26"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "38"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "296"
+    ],
+    "BoltHoleCircle": [
+      "114,3"
+    ],
+    "NumberOfHoles": [
+      "6"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E190R-02C0176/0492"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "68"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": []
+  }
+}

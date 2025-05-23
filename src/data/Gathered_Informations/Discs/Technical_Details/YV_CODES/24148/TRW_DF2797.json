@@ -1,0 +1,65 @@
+{
+  "reference": "DF2797",
+  "id": "DF2797",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "MERCEDES-BENZ": [
+      "638 421 01 12",
+      "638421011205",
+      "A 638 421 01 12"
+    ]
+  },
+  "eanNumber": "3322937187157",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "22"
+    ],
+    "MinimumThicknessValues": [
+      "19"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "60"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "276"
+    ],
+    "BoltHoleCircle": [
+      "112"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E190R-02C0176/0043"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "67"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [
+      "Yüksek karbonlu"
+    ],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "14,8"
+    ]
+  }
+}

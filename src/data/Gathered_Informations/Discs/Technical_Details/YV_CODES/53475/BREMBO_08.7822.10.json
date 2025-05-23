@@ -1,0 +1,62 @@
+{
+  "reference": "08.7822.10",
+  "id": "08.7822.10",
+  "name": "Fren diski PRIME LINE",
+  "brand": "BREMBO",
+  "brand_oe_map": {
+    "CHEVROLET": [
+      "96455424"
+    ],
+    "DAEWOO": [
+      "96254392",
+      "96284392",
+      "96320531",
+      "96455424"
+    ],
+    "FSO": [
+      "96320531"
+    ]
+  },
+  "eanNumber": "8020584782217",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "12,5"
+    ],
+    "MinimumThicknessValues": [
+      "9,7"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "36"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "236"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [
+      "4"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "86"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [
+      "100"
+    ],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

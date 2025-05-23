@@ -1,0 +1,67 @@
+{
+  "reference": "09.C350.11",
+  "id": "09.C350.11",
+  "name": "Fren diski PRIME LINE - UV Coated",
+  "brand": "BREMBO",
+  "brand_oe_map": {
+    "BMW": [
+      "34106891079",
+      "34116799351",
+      "34116860957"
+    ],
+    "BMW (BRILLIANCE)": [
+      "34116860957"
+    ],
+    "MINI": [
+      "34106891079",
+      "34116799351",
+      "34116860957"
+    ]
+  },
+  "eanNumber": "8020584225332",
+  "disc": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "24"
+    ],
+    "MinimumThicknessValues": [
+      "22,4"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "45"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "307"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Cıvatalar ile"
+    ],
+    "CenteringDiameter": [
+      "67"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [
+      "Yüksek karbonlu"
+    ],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

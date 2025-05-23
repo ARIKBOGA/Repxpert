@@ -1,0 +1,83 @@
+{
+  "reference": "08.9597.17",
+  "id": "08.9597.17",
+  "name": "Fren diski PRIME LINE - With Bearing Kit",
+  "brand": "BREMBO",
+  "brand_oe_map": {
+    "NISSAN": [
+      "4320600Q0D",
+      "4320600QAB",
+      "4320600QAC",
+      "4320600QAD",
+      "4320600QAE",
+      "7701206864",
+      "8200218779"
+    ],
+    "OPEL": [
+      "4408276",
+      "4411910",
+      "4413736",
+      "4414633",
+      "91159916",
+      "91166212",
+      "93161254",
+      "93850649"
+    ],
+    "RENAULT": [
+      "7701206846",
+      "7711130076",
+      "8200050013",
+      "8200218779",
+      "8200228610",
+      "8671019313"
+    ],
+    "VAUXHALL": [
+      "91159916",
+      "91166212",
+      "93161254",
+      "93850649"
+    ]
+  },
+  "eanNumber": "8020584016947",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "12"
+    ],
+    "MinimumThicknessValues": [
+      "10"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "103"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "280"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Tekerlek yatağı seti, ABS sensör halkası ile"
+    ],
+    "CenteringDiameter": [
+      "35"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

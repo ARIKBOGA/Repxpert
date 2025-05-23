@@ -1,0 +1,57 @@
+{
+  "reference": "DF6195S",
+  "id": "DF6195S",
+  "name": "Fren diski TRW SINGLE",
+  "brand": "TRW",
+  "brand_oe_map": {},
+  "eanNumber": "3322938162610",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "32"
+    ],
+    "MinimumThicknessValues": [
+      "29,4"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "64,4"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "322"
+    ],
+    "BoltHoleCircle": [
+      "112"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E1 90R-02 C0176/0558"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "67"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "15.5"
+    ]
+  }
+}

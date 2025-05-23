@@ -1,0 +1,80 @@
+{
+  "reference": "78BD4682-2",
+  "id": "78BD4682-2",
+  "name": "Fren diski",
+  "brand": "ICER",
+  "brand_oe_map": {
+    "CITROËN": [
+      "4246.K2",
+      "4246.K3",
+      "4246.Y3",
+      "4249.36"
+    ],
+    "FIAT": [
+      "1 307 356 080",
+      "4 680 623 4",
+      "5 172 837 8",
+      "5 174 024 7"
+    ],
+    "PEUGEOT": [
+      "4246.K2",
+      "4246.K3",
+      "4246.Y5",
+      "4249.35"
+    ]
+  },
+  "eanNumber": "8424073146113",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "21,9"
+    ],
+    "MinimumThicknessValues": [
+      "21,9"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "65,5"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "300"
+    ],
+    "BoltHoleCircle": [
+      "130"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [
+      "Front"
+    ],
+    "TechnicalInformationNumber": [
+      "78BD4682-2"
+    ],
+    "TestMark": [
+      "E1 90R-02C0074/0364, E1 90R-02C0538/0082, E1190R02C01049/52381"
+    ],
+    "Diameter": [
+      "80"
+    ],
+    "Thickness": [
+      "24"
+    ],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "80"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "5"
+    ],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

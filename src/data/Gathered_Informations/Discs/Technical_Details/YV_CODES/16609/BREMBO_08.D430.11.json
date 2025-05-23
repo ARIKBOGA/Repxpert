@@ -1,0 +1,68 @@
+{
+  "reference": "08.D430.11",
+  "id": "08.D430.11",
+  "name": "Fren diski PRIME LINE - UV Coated",
+  "brand": "BREMBO",
+  "brand_oe_map": {
+    "HYUNDAI": [
+      "58411D3700",
+      "58411D7700"
+    ],
+    "HYUNDAI (BEIJING)": [
+      "58411D3700"
+    ],
+    "KIA": [
+      "58411D3700",
+      "58411D7700"
+    ],
+    "KIA (DYK)": [
+      "58411D3700"
+    ]
+  },
+  "eanNumber": "8020584310762",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "10"
+    ],
+    "MinimumThicknessValues": [
+      "8"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "31"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "302"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Cıvatalar ile"
+    ],
+    "CenteringDiameter": [
+      "76"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [
+      "Yüksek karbonlu"
+    ],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "reference": "09.4914.34",
+  "id": "09.4914.34",
+  "name": "Fren diski PRIME LINE",
+  "brand": "BREMBO",
+  "brand_oe_map": {
+    "FORD": [
+      "1096104",
+      "1595875",
+      "1619053",
+      "1619053054",
+      "1619054",
+      "1629474",
+      "1629482",
+      "1644844",
+      "1644845",
+      "1661115",
+      "5022659",
+      "5022660",
+      "5022948",
+      "5023573",
+      "5023802",
+      "6077974",
+      "6133549",
+      "6133550",
+      "6134507",
+      "6155824",
+      "6158202",
+      "6158204",
+      "6158210",
+      "6158211",
+      "87BX1125CA",
+      "87BX1125DA",
+      "87BX1125S1A",
+      "V90BX1125AA"
+    ],
+    "TVR": [
+      "5022659"
+    ]
+  },
+  "eanNumber": "8020584012482",
+  "disc": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "24"
+    ],
+    "MinimumThicknessValues": [
+      "22,2"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "58"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "240"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [
+      "4"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Cıvatalar ile"
+    ],
+    "CenteringDiameter": [
+      "64"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [
+      "100"
+    ],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "reference": "08.3126.14",
+  "id": "08.3126.14",
+  "name": "Fren diski PRIME LINE",
+  "brand": "BREMBO",
+  "brand_oe_map": {
+    "ALFA ROMEO": [
+      "164202610001",
+      "6001073195",
+      "60801390",
+      "60801753",
+      "60801755",
+      "71738913",
+      "71772264",
+      "82394418",
+      "82433859",
+      "82434070"
+    ],
+    "CHRYSLER": [
+      "46831042",
+      "82434070"
+    ],
+    "FIAT": [
+      "46831042",
+      "6001073195",
+      "60801390",
+      "60801753",
+      "60801755",
+      "71738913",
+      "71770930",
+      "71772264",
+      "82394418",
+      "82433859",
+      "82434070"
+    ],
+    "LANCIA": [
+      "46758715",
+      "46831042",
+      "6001073195",
+      "60801390",
+      "60801753",
+      "71738913",
+      "71772264",
+      "82394417",
+      "82394418",
+      "82433859",
+      "82434070"
+    ]
+  },
+  "eanNumber": "8020584012758",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "10"
+    ],
+    "MinimumThicknessValues": [
+      "9"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "51"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "251"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [
+      "4"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Cıvatalar ile"
+    ],
+    "CenteringDiameter": [
+      "59"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [
+      "98"
+    ],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "reference": "DF4410",
+  "id": "DF4410",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {},
+  "eanNumber": "3322937473489",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "24"
+    ],
+    "MinimumThicknessValues": [
+      "22"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "51,5"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "254"
+    ],
+    "BoltHoleCircle": [
+      "100"
+    ],
+    "NumberOfHoles": [
+      "4"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E1 90R-02 C0176/0531"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "55"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [
+      "Yüksek karbonlu"
+    ],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "13,1"
+    ]
+  }
+}

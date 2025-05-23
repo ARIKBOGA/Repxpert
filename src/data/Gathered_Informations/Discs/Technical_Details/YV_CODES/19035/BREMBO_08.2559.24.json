@@ -1,0 +1,56 @@
+{
+  "reference": "08.2559.24",
+  "id": "08.2559.24",
+  "name": "Fren diski PRIME LINE",
+  "brand": "BREMBO",
+  "brand_oe_map": {
+    "LADA": [
+      "21013103002",
+      "21013103010",
+      "21013501070",
+      "3103002"
+    ]
+  },
+  "eanNumber": "8020584013427",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "10,5"
+    ],
+    "MinimumThicknessValues": [
+      "9,2"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "65"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "252"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [
+      "4"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "68"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [
+      "75"
+    ],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

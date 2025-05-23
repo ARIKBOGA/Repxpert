@@ -1,0 +1,63 @@
+{
+  "reference": "DF4122",
+  "id": "DF4122",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "HYUNDAI": [
+      "58411-28300",
+      "58411-29300",
+      "58411-29310"
+    ]
+  },
+  "eanNumber": "3322937288649",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "10"
+    ],
+    "MinimumThicknessValues": [
+      "8"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "40,2"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "258"
+    ],
+    "BoltHoleCircle": [
+      "114"
+    ],
+    "NumberOfHoles": [
+      "4"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E190R-02C0190/0193"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "76"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "12,5"
+    ]
+  }
+}

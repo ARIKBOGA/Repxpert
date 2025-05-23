@@ -1,0 +1,62 @@
+{
+  "reference": "DF4383",
+  "id": "DF4383",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "MERCEDES-BENZ": [
+      "169 421 00 12",
+      "A 169 421 00 12"
+    ]
+  },
+  "eanNumber": "3322937402182",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "12"
+    ],
+    "MinimumThicknessValues": [
+      "10"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "44,6"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "276"
+    ],
+    "BoltHoleCircle": [
+      "112"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E1 90R-02 C0190/0261"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "67"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "15,4"
+    ]
+  }
+}

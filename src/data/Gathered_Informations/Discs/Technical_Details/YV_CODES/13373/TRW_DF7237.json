@@ -1,0 +1,71 @@
+{
+  "reference": "DF7237",
+  "id": "DF7237",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "FORD": [
+      "1497307",
+      "3902839",
+      "XM34-1027-BA"
+    ],
+    "FORD USA": [
+      "3902839",
+      "XM34-1027-BA"
+    ],
+    "MAZDA": [
+      "UH74-33-251",
+      "UN13-33-251"
+    ]
+  },
+  "eanNumber": "3322937421534",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "24"
+    ],
+    "MinimumThicknessValues": [
+      "22"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "24"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "274"
+    ],
+    "BoltHoleCircle": [
+      "116"
+    ],
+    "NumberOfHoles": [
+      "6"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E190R-02C0176/0058"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "93"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "10.7"
+    ]
+  }
+}

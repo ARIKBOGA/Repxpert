@@ -1,0 +1,70 @@
+{
+  "reference": "DF4186",
+  "id": "DF4186",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "AUDI": [
+      "8E0 615 601 B",
+      "8E0 615 601 P"
+    ],
+    "SEAT": [
+      "8E0 615 601 B",
+      "8E0 615 601 P"
+    ],
+    "VW": [
+      "8E0 615 601 B",
+      "8E0 615 601 P"
+    ]
+  },
+  "eanNumber": "3322937320844",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "9,9"
+    ],
+    "MinimumThicknessValues": [
+      "8"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "39,8"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "245"
+    ],
+    "BoltHoleCircle": [
+      "112"
+    ],
+    "NumberOfHoles": [
+      "10"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E190R-02C0190/0539"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "68"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "15,5"
+    ]
+  }
+}

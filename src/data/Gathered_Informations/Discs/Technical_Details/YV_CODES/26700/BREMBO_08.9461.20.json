@@ -1,0 +1,55 @@
+{
+  "reference": "08.9461.20",
+  "id": "08.9461.20",
+  "name": "Fren diski PRIME LINE",
+  "brand": "BREMBO",
+  "brand_oe_map": {
+    "NISSAN": [
+      "432064U101",
+      "432064U102",
+      "432064U103"
+    ]
+  },
+  "eanNumber": "8020584946121",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "10"
+    ],
+    "MinimumThicknessValues": [
+      "9"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "45"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "278"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "68"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [
+      "108"
+    ],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

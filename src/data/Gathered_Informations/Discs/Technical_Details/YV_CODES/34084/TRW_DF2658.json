@@ -1,0 +1,69 @@
+{
+  "reference": "DF2658",
+  "id": "DF2658",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "CHEVROLET": [
+      "94853004",
+      "94854148"
+    ],
+    "GREAT WALL": [
+      "3501011G08"
+    ],
+    "TOYOTA": [
+      "43512-02040",
+      "43512-12550"
+    ]
+  },
+  "eanNumber": "3322937108381",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "22"
+    ],
+    "MinimumThicknessValues": [
+      "20"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "48,3"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "256"
+    ],
+    "BoltHoleCircle": [
+      "100"
+    ],
+    "NumberOfHoles": [
+      "4"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E1 90R-02 C0176/0531"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "55"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "14,6"
+    ]
+  }
+}

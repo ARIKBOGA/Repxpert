@@ -1,0 +1,70 @@
+{
+  "reference": "08.7626.10",
+  "id": "08.7626.10",
+  "name": "Fren diski PRIME LINE",
+  "brand": "BREMBO",
+  "brand_oe_map": {
+    "CHEVROLET": [
+      "90498304",
+      "9117771",
+      "9196587"
+    ],
+    "OPEL": [
+      "569108",
+      "569111",
+      "90498304",
+      "9117771",
+      "9196587"
+    ],
+    "VAUXHALL": [
+      "569111",
+      "90498304",
+      "9117771",
+      "9196587"
+    ]
+  },
+  "eanNumber": "8020584762615",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "10"
+    ],
+    "MinimumThicknessValues": [
+      "8"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "42"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "240"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [
+      "4"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Cıvatalar ile"
+    ],
+    "CenteringDiameter": [
+      "57"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [
+      "110"
+    ],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

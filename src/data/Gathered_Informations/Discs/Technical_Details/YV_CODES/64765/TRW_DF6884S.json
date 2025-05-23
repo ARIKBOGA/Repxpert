@@ -1,0 +1,59 @@
+{
+  "reference": "DF6884S",
+  "id": "DF6884S",
+  "name": "Fren diski TRW SINGLE",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "SSANGYONG": [
+      "4144135000"
+    ]
+  },
+  "eanNumber": "3322938371395",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "23"
+    ],
+    "MinimumThicknessValues": [
+      "21,4"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "37"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "298"
+    ],
+    "BoltHoleCircle": [
+      "112"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E1 90R-02 C0176/0490"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "67"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": []
+  }
+}

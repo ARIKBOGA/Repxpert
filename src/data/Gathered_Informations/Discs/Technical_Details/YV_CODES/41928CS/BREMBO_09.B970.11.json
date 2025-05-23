@@ -1,0 +1,78 @@
+{
+  "reference": "09.B970.11",
+  "id": "09.B970.11",
+  "name": "Fren diski PRIME LINE - UV Coated",
+  "brand": "BREMBO",
+  "brand_oe_map": {
+    "AUDI": [
+      "4G0615301",
+      "4G0615301AE",
+      "4G0615301AF",
+      "4G0615301G",
+      "4G0615301M",
+      "4G0615301Q",
+      "4G0698996"
+    ],
+    "AUDI (FAW)": [
+      "4G0615301",
+      "4G0615301AE",
+      "4G0615301AF",
+      "4G0615301G",
+      "4G0615301M",
+      "4G0615301Q"
+    ],
+    "PORSCHE": [
+      "95B615301B",
+      "95B615301M"
+    ],
+    "VW (SVW)": [
+      "4G0615301AF"
+    ]
+  },
+  "eanNumber": "8020584218389",
+  "disc": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "30"
+    ],
+    "MinimumThicknessValues": [
+      "28"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "52"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "345"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Cıvatalar ile"
+    ],
+    "CenteringDiameter": [
+      "68"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [
+      "Yüksek karbonlu"
+    ],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

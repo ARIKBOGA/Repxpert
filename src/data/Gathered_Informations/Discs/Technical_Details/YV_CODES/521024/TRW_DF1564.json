@@ -1,0 +1,58 @@
+{
+  "reference": "DF1564",
+  "id": "DF1564",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "BMW": [
+      "1 151 632",
+      "1 163 134",
+      "34 11 1 151 632",
+      "34 11 1 163 134"
+    ]
+  },
+  "eanNumber": "3322936156406",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "12"
+    ],
+    "MinimumThicknessValues": [
+      "10,4"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "76"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "284"
+    ],
+    "BoltHoleCircle": [
+      "120"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "79"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": [
+      "15"
+    ]
+  }
+}

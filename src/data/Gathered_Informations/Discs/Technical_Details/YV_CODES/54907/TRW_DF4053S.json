@@ -1,0 +1,68 @@
+{
+  "reference": "DF4053S",
+  "id": "DF4053S",
+  "name": "Fren diski TRW SINGLE",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "VOLVO": [
+      "272404",
+      "2724045",
+      "274170",
+      "2741702",
+      "274559",
+      "31262707",
+      "31262716",
+      "31400740"
+    ]
+  },
+  "eanNumber": "3322937335312",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "28"
+    ],
+    "MinimumThicknessValues": [
+      "25"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "50,3"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "305"
+    ],
+    "BoltHoleCircle": [
+      "108"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E190R-02 C0185/0553"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "68"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "16,5"
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "reference": "78BD6076-2",
+  "id": "78BD6076-2",
+  "name": "Fren diski",
+  "brand": "ICER",
+  "brand_oe_map": {
+    "AUDI": [
+      "8K0 698 301 A"
+    ]
+  },
+  "eanNumber": "8424073147707",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "27"
+    ],
+    "MinimumThicknessValues": [
+      "27"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "52,5"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "320"
+    ],
+    "BoltHoleCircle": [
+      "112"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [
+      "Front"
+    ],
+    "TechnicalInformationNumber": [
+      "78BD6076-2"
+    ],
+    "TestMark": [
+      "E1 90R-02C0339/0981, E1 90R-02C0538/0126, E1190R02C01049/43399"
+    ],
+    "Diameter": [
+      "68"
+    ],
+    "Thickness": [
+      "30"
+    ],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "68"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "5"
+    ],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

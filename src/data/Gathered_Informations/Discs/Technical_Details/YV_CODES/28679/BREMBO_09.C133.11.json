@@ -1,0 +1,92 @@
+{
+  "reference": "09.C133.11",
+  "id": "09.C133.11",
+  "name": "Fren diski PRIME LINE - UV Coated",
+  "brand": "BREMBO",
+  "brand_oe_map": {
+    "CITROËN": [
+      "1642760480",
+      "424993",
+      "4249K1"
+    ],
+    "CITROËN (DF-PSA)": [
+      "4249A3",
+      "9686324780"
+    ],
+    "DS": [
+      "1642760480",
+      "1687772080",
+      "4249K1"
+    ],
+    "IVECO": [
+      "500054547",
+      "500054548"
+    ],
+    "OPEL": [
+      "3641958",
+      "4249K1"
+    ],
+    "PEUGEOT": [
+      "1642760480",
+      "1687772080",
+      "424993",
+      "4249K1"
+    ],
+    "PEUGEOT (DF-PSA)": [
+      "9686324780"
+    ],
+    "TOYOTA": [
+      "SU001A9002"
+    ],
+    "VAUXHALL": [
+      "3641958",
+      "4249K1"
+    ]
+  },
+  "eanNumber": "8020584220993",
+  "disc": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "28"
+    ],
+    "MinimumThicknessValues": [
+      "26"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "48"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "304"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Cıvatalar ile"
+    ],
+    "CenteringDiameter": [
+      "71"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [
+      "Yüksek karbonlu"
+    ],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "reference": "DF1209",
+  "id": "DF1209",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "PEUGEOT": [
+      "4246 69",
+      "4246 B8"
+    ]
+  },
+  "eanNumber": "3322936120902",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "14"
+    ],
+    "MinimumThicknessValues": [
+      "12,6"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "56"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "280"
+    ],
+    "BoltHoleCircle": [
+      "138"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "112"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": [
+      "M10 x 1,50"
+    ]
+  }
+}

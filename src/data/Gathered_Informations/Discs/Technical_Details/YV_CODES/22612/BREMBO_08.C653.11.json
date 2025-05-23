@@ -1,0 +1,60 @@
+{
+  "reference": "08.C653.11",
+  "id": "08.C653.11",
+  "name": "Fren diski PRIME LINE - UV Coated",
+  "brand": "BREMBO",
+  "brand_oe_map": {
+    "MAZDA": [
+      "B45G26251A",
+      "B45G26251B",
+      "BDTS26251",
+      "BJS726251A",
+      "BJS726251B"
+    ],
+    "MAZDA (CHANGAN)": [
+      "BKC326251"
+    ]
+  },
+  "eanNumber": "8020584222492",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "9"
+    ],
+    "MinimumThicknessValues": [
+      "7"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "39"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "265"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "68"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

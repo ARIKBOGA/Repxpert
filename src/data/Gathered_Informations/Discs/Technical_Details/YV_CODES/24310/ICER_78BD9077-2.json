@@ -1,0 +1,65 @@
+{
+  "reference": "78BD9077-2",
+  "id": "78BD9077-2",
+  "name": "Fren diski",
+  "brand": "ICER",
+  "brand_oe_map": {
+    "VOLVO": [
+      "3 076 905 9"
+    ]
+  },
+  "eanNumber": "8424073149299",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "9"
+    ],
+    "MinimumThicknessValues": [
+      "9"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "40,9"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "302"
+    ],
+    "BoltHoleCircle": [
+      "108"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [
+      "Rear"
+    ],
+    "TechnicalInformationNumber": [
+      "78BD9077-2"
+    ],
+    "TestMark": [
+      "E1 90R-02C0100/0131, E1190R02C01049/52507"
+    ],
+    "Diameter": [
+      "63,6"
+    ],
+    "Thickness": [
+      "11"
+    ],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "63,6"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "5"
+    ],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

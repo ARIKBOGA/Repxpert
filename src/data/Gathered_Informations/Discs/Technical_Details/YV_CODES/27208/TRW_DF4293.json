@@ -1,0 +1,81 @@
+{
+  "reference": "DF4293",
+  "id": "DF4293",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "CADILLAC": [
+      "93171497"
+    ],
+    "CHEVROLET": [
+      "93171497"
+    ],
+    "FIAT": [
+      "46836491",
+      "468364910",
+      "46844071",
+      "51819733"
+    ],
+    "OPEL": [
+      "5 69 003",
+      "93171497"
+    ],
+    "SAAB": [
+      "9156807",
+      "93171497"
+    ],
+    "VAUXHALL": [
+      "93171497"
+    ]
+  },
+  "eanNumber": "3322937369928",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "25"
+    ],
+    "MinimumThicknessValues": [
+      "22"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "42,1"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "285"
+    ],
+    "BoltHoleCircle": [
+      "110"
+    ],
+    "NumberOfHoles": [
+      "7"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E190R-02 C0176/0448"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "70"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "14,2"
+    ]
+  }
+}

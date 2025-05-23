@@ -1,0 +1,66 @@
+{
+  "reference": "DF4349S",
+  "id": "DF4349S",
+  "name": "Fren diski TRW SINGLE",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "BMW": [
+      "34 11 6 750 267",
+      "34 11 6 864 057",
+      "6 750 267",
+      "6 864 057"
+    ]
+  },
+  "eanNumber": "3322937462452",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "30"
+    ],
+    "MinimumThicknessValues": [
+      "28"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "81"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "348"
+    ],
+    "BoltHoleCircle": [
+      "115"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E1 90R-02 C0176/0633"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "79"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [
+      "Yüksek karbonlu"
+    ],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "14,5"
+    ]
+  }
+}

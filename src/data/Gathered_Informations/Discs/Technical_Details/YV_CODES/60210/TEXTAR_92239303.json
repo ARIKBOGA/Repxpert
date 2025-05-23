@@ -1,0 +1,65 @@
+{
+  "reference": "92239303",
+  "id": "92239303",
+  "name": "Fren diski PRO",
+  "brand": "TEXTAR",
+  "brand_oe_map": {
+    "KIA": [
+      "517121W000",
+      "517121W050",
+      "S517121W050"
+    ]
+  },
+  "eanNumber": "4019722446337",
+  "disc": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "22"
+    ],
+    "MinimumThicknessValues": [
+      "19,4"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "43,9"
+    ],
+    "InnerDiameter": [
+      "144"
+    ],
+    "OuterDiameter": [
+      "280"
+    ],
+    "BoltHoleCircle": [
+      "100"
+    ],
+    "NumberOfHoles": [
+      "04/06"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "62,2"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "04/06"
+    ],
+    "WheelBoltBoreDiameter": [
+      "12,6"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

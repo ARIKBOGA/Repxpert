@@ -1,0 +1,64 @@
+{
+  "reference": "DF6015S",
+  "id": "DF6015S",
+  "name": "Fren diski TRW SINGLE",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "AUDI": [
+      "8K0 615 301 A"
+    ],
+    "VW": [
+      "8K0 615 301 A"
+    ]
+  },
+  "eanNumber": "3322937967490",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "30"
+    ],
+    "MinimumThicknessValues": [
+      "28"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "52,2"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "320"
+    ],
+    "BoltHoleCircle": [
+      "112"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Cıvatalar ile"
+    ],
+    "CenteringDiameter": [
+      "68"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "15,3"
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "reference": "DF6175S",
+  "id": "DF6175S",
+  "name": "Fren diski TRW SINGLE",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "AUDI": [
+      "4H0 615 601 D",
+      "4H0 615 601 H",
+      "4H0 615 601 K",
+      "4H0 615 601 Q",
+      "80A 615 601 A",
+      "80A 615 601 C",
+      "8W0 615 601 E",
+      "8W0 615 601 K"
+    ],
+    "PORSCHE": [
+      "95B 615 601 A",
+      "95B615601F"
+    ],
+    "SKODA": [
+      "4H0 615 601 K",
+      "4H0 615 601 Q"
+    ],
+    "VW": [
+      "4H0 615 601 D",
+      "4H0 615 601 H",
+      "4H0 615 601 K",
+      "4H0 615 601 Q",
+      "8W0 615 601 E",
+      "8W0 615 601 K"
+    ]
+  },
+  "eanNumber": "3322938162634",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "22"
+    ],
+    "MinimumThicknessValues": [
+      "20"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "36,2"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "330"
+    ],
+    "BoltHoleCircle": [
+      "112"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E190R-02C0176/0577"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "68"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": []
+  }
+}

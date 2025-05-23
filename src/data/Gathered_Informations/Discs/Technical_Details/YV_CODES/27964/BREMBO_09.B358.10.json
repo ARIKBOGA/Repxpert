@@ -1,0 +1,71 @@
+{
+  "reference": "09.B358.10",
+  "id": "09.B358.10",
+  "name": "Fren diski PRIME LINE",
+  "brand": "BREMBO",
+  "brand_oe_map": {
+    "OPEL": [
+      "13501940",
+      "13502215",
+      "13576781",
+      "13579153",
+      "569080",
+      "569081",
+      "569274",
+      "569335"
+    ],
+    "SAAB": [
+      "13576781"
+    ],
+    "VAUXHALL": [
+      "13501940",
+      "13502215",
+      "13576781",
+      "13579153"
+    ]
+  },
+  "eanNumber": "8020584036624",
+  "disc": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "30"
+    ],
+    "MinimumThicknessValues": [
+      "27"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "51"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "337"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "68"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [
+      "Yüksek karbonlu"
+    ],
+    "TighteningTorque": [
+      "150"
+    ],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

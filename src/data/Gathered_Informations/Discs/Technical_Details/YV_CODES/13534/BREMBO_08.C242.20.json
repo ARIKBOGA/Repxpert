@@ -1,0 +1,54 @@
+{
+  "reference": "08.C242.20",
+  "id": "08.C242.20",
+  "name": "Fren diski PRIME LINE",
+  "brand": "BREMBO",
+  "brand_oe_map": {
+    "FORD": [
+      "1764283",
+      "BK212A097BA"
+    ]
+  },
+  "eanNumber": "8020584220917",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "16"
+    ],
+    "MinimumThicknessValues": [
+      "13"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "69"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "288"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "ABS sensör halkası ile"
+    ],
+    "CenteringDiameter": [
+      "96"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

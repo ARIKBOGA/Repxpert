@@ -1,0 +1,67 @@
+{
+  "reference": "DF1436",
+  "id": "DF1436",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "HONDA": [
+      "45251-SH0-A00",
+      "45251-SH1-A00",
+      "45251-SH3-A00",
+      "45251-SH3-A10",
+      "45251-SR3-A00",
+      "45251-SR3-A10",
+      "45251-TG1-T00"
+    ]
+  },
+  "eanNumber": "3322937133321",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "21"
+    ],
+    "MinimumThicknessValues": [
+      "19"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "44,6"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "240"
+    ],
+    "BoltHoleCircle": [
+      "100"
+    ],
+    "NumberOfHoles": [
+      "4"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E1 90R-02 C0176/0617"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "61"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "12,7"
+    ]
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "reference": "DF4323",
+  "id": "DF4323",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "AUDI": [
+      "7D0 615 301",
+      "7D0 615 301 B"
+    ],
+    "FORD": [
+      "1141782",
+      "YM21-1125-BA"
+    ],
+    "SEAT": [
+      "7D0 615 301",
+      "7D0 615 301 B",
+      "7M3 615 301 A"
+    ],
+    "SKODA": [
+      "7D0 615 301"
+    ],
+    "VW": [
+      "7D0 615 301",
+      "7D0 615 301 B",
+      "7M3 615 301 A"
+    ]
+  },
+  "eanNumber": "3322937400515",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "26"
+    ],
+    "MinimumThicknessValues": [
+      "22"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "56"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "300"
+    ],
+    "BoltHoleCircle": [
+      "112"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E190R-02C0176/0492"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "68,2"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [
+      "Yüksek karbonlu"
+    ],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "16,5"
+    ]
+  }
+}

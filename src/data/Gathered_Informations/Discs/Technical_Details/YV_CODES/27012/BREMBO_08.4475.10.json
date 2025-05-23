@@ -1,0 +1,72 @@
+{
+  "reference": "08.4475.10",
+  "id": "08.4475.10",
+  "name": "Fren diski PRIME LINE",
+  "brand": "BREMBO",
+  "brand_oe_map": {
+    "BEDFORD": [
+      "90111242"
+    ],
+    "CHEVROLET": [
+      "90008005"
+    ],
+    "OPEL": [
+      "569013",
+      "569030",
+      "90008005",
+      "93182290"
+    ],
+    "PONTIAC": [
+      "90111242"
+    ],
+    "VAUXHALL": [
+      "90008005",
+      "90111242",
+      "93182290"
+    ]
+  },
+  "eanNumber": "8020584447512",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "12,5"
+    ],
+    "MinimumThicknessValues": [
+      "9,7"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "41"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "236"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [
+      "4"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Cıvatalar ile"
+    ],
+    "CenteringDiameter": [
+      "60"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [
+      "110"
+    ],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

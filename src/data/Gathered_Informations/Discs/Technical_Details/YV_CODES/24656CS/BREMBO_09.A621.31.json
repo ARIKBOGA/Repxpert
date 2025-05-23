@@ -1,0 +1,69 @@
+{
+  "reference": "09.A621.31",
+  "id": "09.A621.31",
+  "name": "Fren diski PRIME LINE - UV Coated",
+  "brand": "BREMBO",
+  "brand_oe_map": {
+    "MERCEDES-BENZ": [
+      "0004211112",
+      "0004213012",
+      "000421301207",
+      "2044211012",
+      "A0004211112",
+      "A0004213012",
+      "A2044211012"
+    ],
+    "MERCEDES-BENZ (BBDC)": [
+      "A0004211112",
+      "A0004213012"
+    ]
+  },
+  "eanNumber": "8020584033647",
+  "disc": {
+    "Type": [
+      "delikli/içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "32"
+    ],
+    "MinimumThicknessValues": [
+      "30"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "65"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "322"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Cıvatalar ile"
+    ],
+    "CenteringDiameter": [
+      "67"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [
+      "Yüksek karbonlu"
+    ],
+    "TighteningTorque": [
+      "130"
+    ],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

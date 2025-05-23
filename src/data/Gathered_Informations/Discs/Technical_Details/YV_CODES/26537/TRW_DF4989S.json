@@ -1,0 +1,65 @@
+{
+  "reference": "DF4989S",
+  "id": "DF4989S",
+  "name": "Fren diski TRW SINGLE",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "NISSAN": [
+      "40206-ET01A"
+    ],
+    "RENAULT": [
+      "40 20 698 28R",
+      "40 20 6JY 01A"
+    ]
+  },
+  "eanNumber": "3322937951550",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "28"
+    ],
+    "MinimumThicknessValues": [
+      "26"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "44"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "320"
+    ],
+    "BoltHoleCircle": [
+      "114,3"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E1 90R-02 C0176/0655"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "68"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "12,8"
+    ]
+  }
+}

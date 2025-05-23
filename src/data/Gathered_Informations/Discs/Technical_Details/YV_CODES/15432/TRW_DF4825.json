@@ -1,0 +1,61 @@
+{
+  "reference": "DF4825",
+  "id": "DF4825",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "HONDA": [
+      "45251-SAA-G50"
+    ]
+  },
+  "eanNumber": "3322937891665",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "21"
+    ],
+    "MinimumThicknessValues": [
+      "19"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "39,2"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "258"
+    ],
+    "BoltHoleCircle": [
+      "100"
+    ],
+    "NumberOfHoles": [
+      "4"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E190R-02C0176/0533"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "64,2"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "12,6"
+    ]
+  }
+}

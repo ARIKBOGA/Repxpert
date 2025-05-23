@@ -62,7 +62,9 @@ export async function getDimensionValuesSmart(page: Page, labelKeywords: string[
   for (let i = 0; i < count; i++) {
     const dt = dtLocator.nth(i);
     const dd = dt.locator('xpath=following-sibling::dd[1]/span');
-    const text = (await dd.textContent())?.trim() ?? '';
+    let texts = await dd.allTextContents();
+    texts = texts.map(text => text.trim());
+    const text = texts.join(', ');
     if (text) {
       values.push(text);
     }

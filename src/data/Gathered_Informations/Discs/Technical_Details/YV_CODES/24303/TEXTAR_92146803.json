@@ -1,0 +1,65 @@
+{
+  "reference": "92146803",
+  "id": "92146803",
+  "name": "Fren diski PRO",
+  "brand": "TEXTAR",
+  "brand_oe_map": {
+    "HYUNDAI": [
+      "5171202501",
+      "5171202550",
+      "5171202551"
+    ]
+  },
+  "eanNumber": "4019722495007",
+  "disc": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "18"
+    ],
+    "MinimumThicknessValues": [
+      "16"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "50,8"
+    ],
+    "InnerDiameter": [
+      "125,8"
+    ],
+    "OuterDiameter": [
+      "234"
+    ],
+    "BoltHoleCircle": [
+      "100"
+    ],
+    "NumberOfHoles": [
+      "04/06"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "63,3"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "04/06"
+    ],
+    "WheelBoltBoreDiameter": [
+      "12,5"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

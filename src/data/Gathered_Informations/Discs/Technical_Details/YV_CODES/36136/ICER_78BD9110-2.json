@@ -1,0 +1,69 @@
+{
+  "reference": "78BD9110-2",
+  "id": "78BD9110-2",
+  "name": "Fren diski",
+  "brand": "ICER",
+  "brand_oe_map": {
+    "OPEL": [
+      "5 69 109"
+    ],
+    "VAUXHALL": [
+      "90 575 113",
+      "91 177 72"
+    ]
+  },
+  "eanNumber": "8424073149350",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "8"
+    ],
+    "MinimumThicknessValues": [
+      "8"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "42"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "264"
+    ],
+    "BoltHoleCircle": [
+      "110"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [
+      "Rear"
+    ],
+    "TechnicalInformationNumber": [
+      "78BD9110-2"
+    ],
+    "TestMark": [
+      "E1 90R-02C0100/1113, E1 90R-02C0415/0009, E4 90R-02C0722/2597"
+    ],
+    "Diameter": [
+      "65,5"
+    ],
+    "Thickness": [
+      "10"
+    ],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "65,5"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "5"
+    ],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

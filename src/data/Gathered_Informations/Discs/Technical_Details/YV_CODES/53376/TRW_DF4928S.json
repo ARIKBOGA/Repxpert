@@ -1,0 +1,82 @@
+{
+  "reference": "DF4928S",
+  "id": "DF4928S",
+  "name": "Fren diski TRW SINGLE",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "CHEVROLET": [
+      "20955857",
+      "48 01 850",
+      "48 08 848",
+      "96625948"
+    ],
+    "CHEVROLET (SGM)": [
+      "20955857"
+    ],
+    "OPEL": [
+      "20955857",
+      "48 01 850",
+      "48 08 848",
+      "48008848",
+      "96625948"
+    ],
+    "VAUXHALL": [
+      "20955857",
+      "48 01 850",
+      "48 08 848",
+      "96625948"
+    ]
+  },
+  "eanNumber": "3322937951048",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "29"
+    ],
+    "MinimumThicknessValues": [
+      "27,4"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "51,6"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "295"
+    ],
+    "BoltHoleCircle": [
+      "115"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E190R-02C0176/0492"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "70,7"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [
+      "Yüksek karbonlu"
+    ],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "12,6"
+    ]
+  }
+}

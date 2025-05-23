@@ -1,0 +1,63 @@
+{
+  "reference": "08.C546.11",
+  "id": "08.C546.11",
+  "name": "Fren diski PRIME LINE - UV Coated",
+  "brand": "BREMBO",
+  "brand_oe_map": {
+    "NISSAN": [
+      "432064CE0B",
+      "432064EA0A",
+      "432064EA0B",
+      "D32064EA0AVA",
+      "D32064EA0BRV"
+    ],
+    "RENAULT": [
+      "432064CE0B",
+      "432068231R"
+    ]
+  },
+  "eanNumber": "8020584220931",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "13"
+    ],
+    "MinimumThicknessValues": [
+      "11"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "47"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "290"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Cıvatalar ile"
+    ],
+    "CenteringDiameter": [
+      "68"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

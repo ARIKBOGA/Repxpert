@@ -1,0 +1,68 @@
+{
+  "reference": "08.4786.10",
+  "id": "08.4786.10",
+  "name": "Fren diski PRIME LINE",
+  "brand": "BREMBO",
+  "brand_oe_map": {
+    "DODGE": [
+      "MB234076",
+      "MB238076",
+      "MB316676"
+    ],
+    "MITSUBISHI": [
+      "MB234076",
+      "MB238076",
+      "MB316676"
+    ],
+    "PLYMOUTH": [
+      "MB234076",
+      "MB238076",
+      "MB316676"
+    ],
+    "PROTON": [
+      "MB234076",
+      "MB238076",
+      "MB316676"
+    ]
+  },
+  "eanNumber": "8020584478615",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "13"
+    ],
+    "MinimumThicknessValues": [
+      "11,4"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "34"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "243"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [
+      "4"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "86"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

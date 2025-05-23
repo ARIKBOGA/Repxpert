@@ -1,0 +1,67 @@
+{
+  "reference": "DF3165",
+  "id": "DF3165",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "SANTANA": [
+      "5521156B00"
+    ],
+    "SUZUKI": [
+      "55211-56B00",
+      "55211-56B00-000",
+      "55211-56B01",
+      "99985-56B00"
+    ]
+  },
+  "eanNumber": "3322937205622",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "17"
+    ],
+    "MinimumThicknessValues": [
+      "15"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "46"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "287"
+    ],
+    "BoltHoleCircle": [
+      "140"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E1 90R-02 C0176/0698"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "107"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "13"
+    ]
+  }
+}

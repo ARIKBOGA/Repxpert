@@ -1,0 +1,70 @@
+{
+  "reference": "DF6148",
+  "id": "DF6148",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "AUDI": [
+      "8R0 615 301",
+      "8R0 615 301 C",
+      "8R0 615 301 D",
+      "8R0 615 301 E",
+      "8R0 615 301 F"
+    ],
+    "AUDI (FAW)": [
+      "L4GD615301A"
+    ]
+  },
+  "eanNumber": "3322938150037",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "30"
+    ],
+    "MinimumThicknessValues": [
+      "28"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "52,2"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "320"
+    ],
+    "BoltHoleCircle": [
+      "112"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E1 90R-02 C0185/0728"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "68"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "15,3 mm",
+      "6,6 mm",
+      "15.3"
+    ]
+  }
+}

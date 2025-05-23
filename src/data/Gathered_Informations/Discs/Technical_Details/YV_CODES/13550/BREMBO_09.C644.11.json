@@ -1,0 +1,62 @@
+{
+  "reference": "09.C644.11",
+  "id": "09.C644.11",
+  "name": "Fren diski PRIME LINE - UV Coated",
+  "brand": "BREMBO",
+  "brand_oe_map": {
+    "FORD": [
+      "1812200",
+      "1822205",
+      "2226523",
+      "2527117",
+      "BK311125AB",
+      "BK311125AC",
+      "KK311125AA",
+      "KK311125AB"
+    ]
+  },
+  "eanNumber": "8020584227275",
+  "disc": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "31"
+    ],
+    "MinimumThicknessValues": [
+      "28"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "61"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "308"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "93"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [
+      "Yüksek karbonlu"
+    ],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

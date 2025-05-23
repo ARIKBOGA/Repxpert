@@ -1,0 +1,73 @@
+{
+  "reference": "92300703",
+  "id": "92300703",
+  "name": "Fren diski PRO",
+  "brand": "TEXTAR",
+  "brand_oe_map": {
+    "ALPINE": [
+      "402062000R"
+    ],
+    "MERCEDES-BENZ": [
+      "4204211800",
+      "A4204211800"
+    ],
+    "NISSAN": [
+      "402066RN0A"
+    ],
+    "RENAULT": [
+      "402062000R"
+    ]
+  },
+  "eanNumber": "4019722532603",
+  "disc": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "26"
+    ],
+    "MinimumThicknessValues": [
+      "23,4"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "44"
+    ],
+    "InnerDiameter": [
+      "148"
+    ],
+    "OuterDiameter": [
+      "296"
+    ],
+    "BoltHoleCircle": [
+      "114,3"
+    ],
+    "NumberOfHoles": [
+      "05/07"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "68"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "05/07"
+    ],
+    "WheelBoltBoreDiameter": [
+      "15,8"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

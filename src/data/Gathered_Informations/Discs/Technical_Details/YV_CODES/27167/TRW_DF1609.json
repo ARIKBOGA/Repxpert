@@ -1,0 +1,90 @@
+{
+  "reference": "DF1609",
+  "id": "DF1609",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "BEDFORD": [
+      "569031"
+    ],
+    "BUICK (SGM)": [
+      "93281952"
+    ],
+    "CHEVROLET": [
+      "90008006",
+      "90121445",
+      "90511111"
+    ],
+    "DAEWOO": [
+      "90121445"
+    ],
+    "OPEL": [
+      "5 69 014",
+      "5 69 054",
+      "569031",
+      "90008006",
+      "90511111",
+      "93182291"
+    ],
+    "PONTIAC": [
+      "90121445"
+    ],
+    "VAUXHALL": [
+      "5 69 014",
+      "90008006",
+      "90121445",
+      "90511111",
+      "93182291"
+    ]
+  },
+  "eanNumber": "3322936160908",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "20"
+    ],
+    "MinimumThicknessValues": [
+      "17"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "41"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "236"
+    ],
+    "BoltHoleCircle": [
+      "100"
+    ],
+    "NumberOfHoles": [
+      "6"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E190R-02 C0176/0617"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "60"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "14,6"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "reference": "09.6967.14",
+  "id": "09.6967.14",
+  "name": "Fren diski PRIME LINE",
+  "brand": "BREMBO",
+  "brand_oe_map": {
+    "FORD": [
+      "1514234",
+      "5025610",
+      "5029815",
+      "5209815",
+      "6952852",
+      "95VX1125AA",
+      "EBT246"
+    ]
+  },
+  "eanNumber": "8020584012963",
+  "disc": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "24"
+    ],
+    "MinimumThicknessValues": [
+      "22,2"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "43"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "254"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "79"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [
+      "100"
+    ],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

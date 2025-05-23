@@ -1,0 +1,53 @@
+{
+  "reference": "08.6911.14",
+  "id": "08.6911.14",
+  "name": "Fren diski PRIME LINE",
+  "brand": "BREMBO",
+  "brand_oe_map": {
+    "AUDI": [
+      "8D0615601B"
+    ]
+  },
+  "eanNumber": "8020584012826",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "10"
+    ],
+    "MinimumThicknessValues": [
+      "8"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "84"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "245"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Tekerlek yatağı seti yok, ABS sensör halkası yok"
+    ],
+    "CenteringDiameter": [
+      "45"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "reference": "DF4471S",
+  "id": "DF4471S",
+  "name": "Fren diski TRW SINGLE",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "MERCEDES-BENZ": [
+      "164 421 04 12",
+      "164 421 13 12",
+      "A 164 421 04 12",
+      "A 164 421 13 12"
+    ]
+  },
+  "eanNumber": "3322937546237",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "32"
+    ],
+    "MinimumThicknessValues": [
+      "29,4"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "54"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "330"
+    ],
+    "BoltHoleCircle": [
+      "112"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E190R- 02 C0176/0556"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "67"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [
+      "Yüksek karbonlu"
+    ],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "15,5"
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "reference": "DF6307S",
+  "id": "DF6307S",
+  "name": "Fren diski TRW SINGLE",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "FUSO (MITSUBISHI)": [
+      "MK374048",
+      "MX925100"
+    ],
+    "MITSUBISHI": [
+      "MK374048"
+    ]
+  },
+  "eanNumber": "3322938184049",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "40"
+    ],
+    "MinimumThicknessValues": [
+      "38"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "69,7"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "310"
+    ],
+    "BoltHoleCircle": [
+      "161"
+    ],
+    "NumberOfHoles": [
+      "12"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "139"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": []
+  }
+}

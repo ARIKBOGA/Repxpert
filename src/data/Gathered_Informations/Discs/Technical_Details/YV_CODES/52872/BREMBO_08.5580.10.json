@@ -1,0 +1,60 @@
+{
+  "reference": "08.5580.10",
+  "id": "08.5580.10",
+  "name": "Fren diski PRIME LINE",
+  "brand": "BREMBO",
+  "brand_oe_map": {
+    "BMW": [
+      "34211157953",
+      "34211159900",
+      "34216757748",
+      "34216757749"
+    ]
+  },
+  "eanNumber": "8020584558010",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "12"
+    ],
+    "MinimumThicknessValues": [
+      "10,4"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "61"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "324"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Cıvatalar ile"
+    ],
+    "CenteringDiameter": [
+      "75"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [
+      "Yüksek karbonlu"
+    ],
+    "TighteningTorque": [
+      "120"
+    ],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

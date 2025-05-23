@@ -1,0 +1,56 @@
+{
+  "reference": "08.B395.17",
+  "id": "08.B395.17",
+  "name": "Fren diski PRIME LINE - With Bearing Kit",
+  "brand": "BREMBO",
+  "brand_oe_map": {
+    "NISSAN": [
+      "4320200Q0E"
+    ],
+    "RENAULT": [
+      "8200381148"
+    ]
+  },
+  "eanNumber": "8020584218419",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "11"
+    ],
+    "MinimumThicknessValues": [
+      "9,5"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "88"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "274"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Tekerlek yatağı seti, ABS sensör halkası ile"
+    ],
+    "CenteringDiameter": [
+      "30"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

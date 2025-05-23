@@ -1,0 +1,66 @@
+{
+  "reference": "92203103",
+  "id": "92203103",
+  "name": "Fren diski PRO",
+  "brand": "TEXTAR",
+  "brand_oe_map": {
+    "SSANGYONG": [
+      "4840121000",
+      "4840121001",
+      "4840121002",
+      "4840121003"
+    ]
+  },
+  "eanNumber": "4019722476204",
+  "disc": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "20"
+    ],
+    "MinimumThicknessValues": [
+      "18,4"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "71"
+    ],
+    "InnerDiameter": [
+      "190"
+    ],
+    "OuterDiameter": [
+      "307"
+    ],
+    "BoltHoleCircle": [
+      "130"
+    ],
+    "NumberOfHoles": [
+      "05/08"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "85"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "05/08"
+    ],
+    "WheelBoltBoreDiameter": [
+      "15"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

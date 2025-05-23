@@ -1,0 +1,62 @@
+{
+  "reference": "DF6743S",
+  "id": "DF6743S",
+  "name": "Fren diski TRW SINGLE",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "MERCEDES-BENZ": [
+      "668 423 03 12",
+      "668 423 05 12",
+      "A 668 423 03 12",
+      "A 668 423 05 12"
+    ]
+  },
+  "eanNumber": "3322938295783",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "30"
+    ],
+    "MinimumThicknessValues": [
+      "26"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "120,5"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "324"
+    ],
+    "BoltHoleCircle": [
+      "192"
+    ],
+    "NumberOfHoles": [
+      "6"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "117"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "M12x1,5"
+    ]
+  }
+}

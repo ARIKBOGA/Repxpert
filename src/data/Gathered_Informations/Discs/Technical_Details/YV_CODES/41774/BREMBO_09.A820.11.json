@@ -1,0 +1,68 @@
+{
+  "reference": "09.A820.11",
+  "id": "09.A820.11",
+  "name": "Fren diski PRIME LINE - UV Coated",
+  "brand": "BREMBO",
+  "brand_oe_map": {
+    "AUDI": [
+      "8K0615301",
+      "8K0615301T",
+      "8W0615301G",
+      "8W0615301T"
+    ],
+    "AUDI (FAW)": [
+      "8WD615301",
+      "L8K0615301",
+      "L8KD615301",
+      "L8WD615301"
+    ]
+  },
+  "eanNumber": "8020584026045",
+  "disc": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "25"
+    ],
+    "MinimumThicknessValues": [
+      "23"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "52"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "314"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Cıvatalar ile"
+    ],
+    "CenteringDiameter": [
+      "68"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [
+      "Yüksek karbonlu"
+    ],
+    "TighteningTorque": [
+      "120"
+    ],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "reference": "DF1581",
+  "id": "DF1581",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "MERCEDES-BENZ": [
+      "124 421 13 12",
+      "124421131264",
+      "A 124 421 13 12",
+      "A124421131264"
+    ]
+  },
+  "eanNumber": "3322936158103",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "12"
+    ],
+    "MinimumThicknessValues": [
+      "10"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "43,5"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "284"
+    ],
+    "BoltHoleCircle": [
+      "112"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E1 90R-02 C0190/0525"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "67"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [
+      "Yüksek karbonlu"
+    ],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": [
+      "15,6"
+    ]
+  }
+}

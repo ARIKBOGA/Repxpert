@@ -1,0 +1,74 @@
+{
+  "reference": "09.5180.30",
+  "id": "09.5180.30",
+  "name": "Fren diski PRIME LINE",
+  "brand": "BREMBO",
+  "brand_oe_map": {
+    "ABARTH": [
+      "52195818"
+    ],
+    "ALFA ROMEO": [
+      "46535086",
+      "46765546",
+      "6001073184",
+      "71773403"
+    ],
+    "CHRYSLER": [
+      "46535086",
+      "46765546"
+    ],
+    "FIAT": [
+      "46535086",
+      "46765546",
+      "52195818"
+    ],
+    "LANCIA": [
+      "46535086",
+      "46765546"
+    ]
+  },
+  "eanNumber": "8020584518038",
+  "disc": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "26"
+    ],
+    "MinimumThicknessValues": [
+      "24,2"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "44"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "281"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [
+      "4"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Cıvatalar ile"
+    ],
+    "CenteringDiameter": [
+      "59"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [
+      "98"
+    ],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

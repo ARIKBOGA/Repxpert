@@ -1,0 +1,68 @@
+{
+  "reference": "78BD4023-1",
+  "id": "78BD4023-1",
+  "name": "Fren diski",
+  "brand": "ICER",
+  "brand_oe_map": {
+    "RENAULT": [
+      "43 20 015 39R",
+      "43 20 075 95R"
+    ]
+  },
+  "eanNumber": "8424073145352",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "7"
+    ],
+    "MinimumThicknessValues": [
+      "7"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "86,1"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "260"
+    ],
+    "BoltHoleCircle": [
+      "114,3"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [
+      "Rear"
+    ],
+    "TechnicalInformationNumber": [
+      "78BD4023-1"
+    ],
+    "TestMark": [
+      "E1 90R-02C0527/1691, E1 90R-02C0559/0132"
+    ],
+    "Diameter": [
+      "50,2"
+    ],
+    "Thickness": [
+      "8"
+    ],
+    "SupplementaryInfo": [
+      "Entegre edilmiş manyetik sensör halkasına sahip"
+    ],
+    "CenteringDiameter": [
+      "50,2"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "5"
+    ],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "reference": "08.9975.10",
+  "id": "08.9975.10",
+  "name": "Fren diski PRIME LINE",
+  "brand": "BREMBO",
+  "brand_oe_map": {
+    "FORD": [
+      "1223566",
+      "1223568",
+      "1253962",
+      "1253963",
+      "1323551",
+      "1373361",
+      "1469081",
+      "1500156",
+      "2025944",
+      "3M512A315E1D",
+      "3M512A315EA",
+      "3M512A315EB",
+      "3M512A315EC",
+      "3M512A315ED",
+      "7M512A315BA",
+      "ME7M5J2A315BA"
+    ],
+    "VOLVO": [
+      "30666802",
+      "30769113",
+      "307691130",
+      "31341645",
+      "31341646",
+      "31471039",
+      "31499632",
+      "314996320"
+    ],
+    "VOLVO (CHANGAN)": [
+      "30769113"
+    ]
+  },
+  "eanNumber": "8020584997512",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "11"
+    ],
+    "MinimumThicknessValues": [
+      "9"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "41"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "280"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "64"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [
+      "100"
+    ],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

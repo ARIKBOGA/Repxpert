@@ -1,0 +1,68 @@
+{
+  "reference": "DF4452BS",
+  "id": "DF4452BS",
+  "name": "Fren diski TRW SINGLE",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "CITROËN": [
+      "4246 Z9",
+      "4249 34",
+      "E 169 195",
+      "E 169 506",
+      "E 169 510"
+    ],
+    "PEUGEOT": [
+      "4246 Z9",
+      "4249 34",
+      "E 169 195",
+      "E 169 506",
+      "E 169 510"
+    ]
+  },
+  "eanNumber": "3322937510948",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "9"
+    ],
+    "MinimumThicknessValues": [
+      "7"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "67,6"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "249"
+    ],
+    "BoltHoleCircle": [
+      "108"
+    ],
+    "NumberOfHoles": [
+      "4"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "ABS sensör halkası ile, Tekerlek rulmanı ile"
+    ],
+    "CenteringDiameter": [
+      "55"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": [
+      "M12x1,25"
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "reference": "DF4102",
+  "id": "DF4102",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "FENGXING": [
+      "30MA01023"
+    ],
+    "HYUNDAI": [
+      "58129-4A000"
+    ],
+    "MITSUBISHI": [
+      "MB895464"
+    ]
+  },
+  "eanNumber": "3322937275496",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "24"
+    ],
+    "MinimumThicknessValues": [
+      "22,4"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "40"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "254"
+    ],
+    "BoltHoleCircle": [
+      "108"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E1 90R-02 C0176/0704"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "87,6"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "10,5"
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "reference": "78BD1815-2",
+  "id": "78BD1815-2",
+  "name": "Fren diski",
+  "brand": "ICER",
+  "brand_oe_map": {
+    "AUTOBIANCHI": [
+      "5 961 814"
+    ],
+    "FIAT": [
+      "5 961 814",
+      "7 173 842 3"
+    ],
+    "INNOCENTI": [
+      "5 961 814"
+    ],
+    "LANCIA": [
+      "5 961 814"
+    ]
+  },
+  "eanNumber": "8424073143372",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "10,8"
+    ],
+    "MinimumThicknessValues": [
+      "10,8"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "46,5"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "240"
+    ],
+    "BoltHoleCircle": [
+      "98"
+    ],
+    "NumberOfHoles": [
+      "4"
+    ],
+    "AxleVersion": [
+      "Front"
+    ],
+    "TechnicalInformationNumber": [
+      "78BD1815-2"
+    ],
+    "TestMark": [
+      "E1 90R-02C0100/1011"
+    ],
+    "Diameter": [
+      "59"
+    ],
+    "Thickness": [
+      "12"
+    ],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "59"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "4"
+    ],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

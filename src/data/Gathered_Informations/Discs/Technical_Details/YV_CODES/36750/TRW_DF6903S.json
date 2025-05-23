@@ -1,0 +1,72 @@
+{
+  "reference": "DF6903S",
+  "id": "DF6903S",
+  "name": "Fren diski TRW SINGLE",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "AUDI": [
+      "5Q0 615 301 A",
+      "5Q0 615 301 E"
+    ],
+    "SEAT": [
+      "5Q0 615 301 A",
+      "5Q0 615 301 E"
+    ],
+    "SKODA": [
+      "5Q0 615 301 A",
+      "5Q0 615 301 E"
+    ],
+    "VW": [
+      "5Q0 615 301 A",
+      "5Q0 615 301 E"
+    ]
+  },
+  "eanNumber": "3322938395445",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "23,5"
+    ],
+    "MinimumThicknessValues": [
+      "21"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "49,5"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "276"
+    ],
+    "BoltHoleCircle": [
+      "112"
+    ],
+    "NumberOfHoles": [
+      "9"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E1 90R-02 C0176/0450"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "65"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": []
+  }
+}

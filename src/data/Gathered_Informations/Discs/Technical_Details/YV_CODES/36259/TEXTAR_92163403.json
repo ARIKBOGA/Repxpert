@@ -1,0 +1,73 @@
+{
+  "reference": "92163403",
+  "id": "92163403",
+  "name": "Fren diski PRO",
+  "brand": "TEXTAR",
+  "brand_oe_map": {
+    "BEIJING BENZ (BBDC)": [
+      "A0004213012"
+    ],
+    "MERCEDES-BENZ": [
+      "0004211112",
+      "0004213012",
+      "00044213012",
+      "2044211012",
+      "A0004211112",
+      "A0004213012",
+      "A00044213012",
+      "A2044211012"
+    ]
+  },
+  "eanNumber": "4019722453328",
+  "disc": {
+    "Type": [
+      "içten havalandırmalı, Delinmiş"
+    ],
+    "ThicknessValues": [
+      "32"
+    ],
+    "MinimumThicknessValues": [
+      "30"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "64,5"
+    ],
+    "InnerDiameter": [
+      "154,2"
+    ],
+    "OuterDiameter": [
+      "322"
+    ],
+    "BoltHoleCircle": [
+      "112"
+    ],
+    "NumberOfHoles": [
+      "05/06"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "67"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "05/06"
+    ],
+    "WheelBoltBoreDiameter": [
+      "15,3"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

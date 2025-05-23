@@ -1,0 +1,87 @@
+{
+  "reference": "09.8969.20",
+  "id": "09.8969.20",
+  "name": "Fren diski PRIME LINE",
+  "brand": "BREMBO",
+  "brand_oe_map": {
+    "DONGFENG FENGDU": [
+      "432061DA0A"
+    ],
+    "INFINITI": [
+      "432068H305",
+      "432068H701",
+      "432068H702"
+    ],
+    "NISSAN": [
+      "43206049VA",
+      "432063NF0A",
+      "432063NL0A",
+      "432063NL0B",
+      "432064BA0A",
+      "432064BT0B",
+      "432064BT0C",
+      "432065HA0A",
+      "432068H304",
+      "432068H305",
+      "432068H700",
+      "432068H701",
+      "432068H702",
+      "D32068H30EVA"
+    ],
+    "NISSAN (DFAC)": [
+      "432061DA0A",
+      "432064CL0A"
+    ],
+    "RENAULT": [
+      "432000016R",
+      "432003112R",
+      "432065HA0A"
+    ],
+    "RENAULT (DFAC)": [
+      "432064CL0A"
+    ],
+    "VENUCIA": [
+      "432064CL0A"
+    ]
+  },
+  "eanNumber": "8020584896921",
+  "disc": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "16"
+    ],
+    "MinimumThicknessValues": [
+      "14"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "62"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "292"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "68"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

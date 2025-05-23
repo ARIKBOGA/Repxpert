@@ -1,0 +1,67 @@
+{
+  "reference": "09.9130.10",
+  "id": "09.9130.10",
+  "name": "Fren diski PRIME LINE",
+  "brand": "BREMBO",
+  "brand_oe_map": {
+    "VOLVO": [
+      "272404",
+      "2724045",
+      "274170",
+      "2741700",
+      "2741702",
+      "274559",
+      "31262707",
+      "312627070",
+      "31262716",
+      "31400740",
+      "31400741",
+      "31471827",
+      "9492715"
+    ]
+  },
+  "eanNumber": "8020584913017",
+  "disc": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "28"
+    ],
+    "MinimumThicknessValues": [
+      "25"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "50"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "305"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Cıvatalar ile"
+    ],
+    "CenteringDiameter": [
+      "68"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [
+      "140"
+    ],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

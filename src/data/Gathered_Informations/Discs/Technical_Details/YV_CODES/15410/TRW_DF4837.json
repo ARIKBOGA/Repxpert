@@ -1,0 +1,66 @@
+{
+  "reference": "DF4837",
+  "id": "DF4837",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "GREAT WALL": [
+      "3501011XJZ08A"
+    ],
+    "HONDA": [
+      "42510-SMG-E20",
+      "42510-SNA-A00",
+      "42510-SNA-A01"
+    ]
+  },
+  "eanNumber": "3322937891740",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "9"
+    ],
+    "MinimumThicknessValues": [
+      "8"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "42"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "260"
+    ],
+    "BoltHoleCircle": [
+      "114,3"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E190R-02C0190/0312"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "64"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "12,6"
+    ]
+  }
+}

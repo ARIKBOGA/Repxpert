@@ -1,0 +1,60 @@
+{
+  "reference": "DF6043BS",
+  "id": "DF6043BS",
+  "name": "Fren diski TRW SINGLE",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "RENAULT": [
+      "40 20 240 76R",
+      "43 20 043 27R",
+      "43 20 208 79R",
+      "43 20 239 39R",
+      "43 20 250 57R",
+      "82 00 381 148"
+    ]
+  },
+  "eanNumber": "3322937975372",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "11"
+    ],
+    "MinimumThicknessValues": [
+      "9,5"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "90"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "275"
+    ],
+    "BoltHoleCircle": [
+      "108"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E1 90R-02 C0950/0739"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "ABS sensör halkası ile, Tekerlek rulmanı ile"
+    ],
+    "CenteringDiameter": [],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

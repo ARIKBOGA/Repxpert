@@ -1,0 +1,94 @@
+{
+  "reference": "09.9464.14",
+  "id": "09.9464.14",
+  "name": "Fren diski PRIME LINE",
+  "brand": "BREMBO",
+  "brand_oe_map": {
+    "FORD": [
+      "1223663",
+      "1223665",
+      "1253729",
+      "1253730",
+      "1320352",
+      "1373369",
+      "1469082",
+      "1501058",
+      "1501069",
+      "1575734",
+      "1734696",
+      "3M512C375A1D",
+      "3M512C375AA",
+      "3M512C375AB",
+      "3M512C375AC",
+      "3M512C375AD",
+      "7M511125FA",
+      "AV611125BA",
+      "AV611125BB"
+    ],
+    "FORD (CHANGAN)": [
+      "1364548",
+      "1771580",
+      "6M512C375AA",
+      "6M512C375AB",
+      "ED8C1125AA",
+      "ED8C1125AB",
+      "ED8C1125AC",
+      "JD8C1125AA"
+    ],
+    "MAZDA (CHANGAN)": [
+      "6M512C375AA"
+    ],
+    "VOLVO": [
+      "274509",
+      "2745090",
+      "31262718"
+    ],
+    "VOLVO (CHANGAN)": [
+      "31262718"
+    ]
+  },
+  "eanNumber": "8020584946411",
+  "disc": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "25"
+    ],
+    "MinimumThicknessValues": [
+      "23"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "49"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "278"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "64"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [
+      "Yüksek karbonlu"
+    ],
+    "TighteningTorque": [
+      "100"
+    ],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

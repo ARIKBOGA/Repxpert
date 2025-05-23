@@ -1,0 +1,73 @@
+{
+  "reference": "78BD2059",
+  "id": "78BD2059-2",
+  "name": "Fren diski",
+  "brand": "ICER",
+  "brand_oe_map": {
+    "NISSAN": [
+      "40206-ET01A"
+    ],
+    "RENAULT": [
+      "402069828R",
+      "40206JY01A"
+    ],
+    "SAMSUNG": [
+      "402069828R",
+      "40206JY01A"
+    ]
+  },
+  "eanNumber": "8424073208484",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "26"
+    ],
+    "MinimumThicknessValues": [
+      "26"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "44"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "320"
+    ],
+    "BoltHoleCircle": [
+      "114,3"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [
+      "Front"
+    ],
+    "TechnicalInformationNumber": [
+      "78BD2059-2"
+    ],
+    "TestMark": [
+      "E1 90R-02C0452/0130"
+    ],
+    "Diameter": [
+      "68"
+    ],
+    "Thickness": [
+      "28"
+    ],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "68"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "5"
+    ],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

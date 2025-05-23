@@ -3,6 +3,9 @@ import ConfigReader from "./ConfigReader";
 import * as xlsx from 'xlsx';
 import * as path from 'path';
 
+// Gerekli ortam degiskenlerini oku
+// const productType = ConfigReader.getEnvVariable("PRODUCT_TYPE");
+
 
 export async function goToSearchResults(
   page: Page,
@@ -12,6 +15,9 @@ export async function goToSearchResults(
   addToRetryList: (oe: string) => void
 ): Promise<Locator[] | null> {
   await page.goto(ConfigReader.getEnvVariable("REPXPERT_URL") || "");
+  await page.waitForLoadState('domcontentloaded');
+  await page.waitForLoadState('networkidle');
+  await page.waitForTimeout(1500);
   await page.getByRole("textbox", { name: /OE numarası/i }).fill(oe);
   await page.getByRole("textbox", { name: /OE numarası/i }).press("Enter");
 
@@ -49,6 +55,9 @@ export async function goToSearchResultsEnglish(
 
   // İngilizce RepXpert sayfasına git
   await page.goto(ConfigReader.getEnvVariable("REPXPERT_HOME_ENGLISH_URL") || "");
+  await page.waitForLoadState('domcontentloaded');
+  await page.waitForLoadState('networkidle');
+  await page.waitForTimeout(1500);
   await page.getByRole("textbox", { name: /OE number/i }).fill(oe);
   await page.getByRole("textbox", { name: /OE number/i }).press("Enter");
 
@@ -82,6 +91,8 @@ export async function loginEnglishRepxpertPage(page: Page) {
   const password = ConfigReader.getEnvVariable("REPXPERT_ENGLISH_PASSWORD");
   await page.goto(url);
   await page.waitForLoadState('domcontentloaded');
+  await page.waitForLoadState('networkidle');
+  await page.waitForTimeout(1500);
   await page.waitForSelector('button:has-text("Accept All Cookies")');
 
   // Click on the "Accept All Cookies" button
@@ -107,8 +118,8 @@ export interface ProductReference {
   brandRefs: { [brand: string]: string }; // { "BREMBO": "09.1234.56", "TRW": "", ... }
 }
 
-export function readProductReferencesFromExcel(): ProductReference[] {
-  const excelPath = path.resolve(__dirname, '../data/katalogInfo/excels/balata_katalog_full.xlsx');
+export function readProductReferencesFromExcel(productType: string): ProductReference[] {
+  const excelPath = path.resolve(__dirname, `../data/katalogInfo/excels/${productType}_katalog_full.xlsx`);
   const workbook = xlsx.readFile(excelPath);
   const sheet = workbook.Sheets[workbook.SheetNames[0]];
   const data = xlsx.utils.sheet_to_json<Record<string, any>>(sheet, { defval: "" });
@@ -129,9 +140,8 @@ export function readProductReferencesFromExcel(): ProductReference[] {
         }
       }
     }
-
-    references.push({ yvNo, brandRefs });  // ❗ Bu satır artık dış döngüde!
+    references.push({ yvNo, brandRefs });
   }
-
   return references;
 }
+

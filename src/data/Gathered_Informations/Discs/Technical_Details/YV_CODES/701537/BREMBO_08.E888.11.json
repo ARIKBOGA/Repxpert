@@ -1,0 +1,67 @@
+{
+  "reference": "08.E888.11",
+  "id": "08.E888.11",
+  "name": "Fren diski PRIME LINE - UV Coated",
+  "brand": "BREMBO",
+  "brand_oe_map": {
+    "CITROËN": [
+      "1643574180"
+    ],
+    "DS": [
+      "1643574180"
+    ],
+    "OPEL": [
+      "1643574180"
+    ],
+    "PEUGEOT": [
+      "1643574180"
+    ],
+    "VAUXHALL": [
+      "1643574180"
+    ]
+  },
+  "eanNumber": "8020584323250",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "10"
+    ],
+    "MinimumThicknessValues": [
+      "8"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "35"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "249"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [
+      "4"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Cıvatalar ile"
+    ],
+    "CenteringDiameter": [
+      "71"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

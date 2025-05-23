@@ -1,0 +1,58 @@
+{
+  "reference": "09.9537.20",
+  "id": "09.9537.20",
+  "name": "Fren diski PRIME LINE",
+  "brand": "BREMBO",
+  "brand_oe_map": {
+    "HYUNDAI": [
+      "5171225061"
+    ],
+    "KIA (DYK)": [
+      "5171225061"
+    ]
+  },
+  "eanNumber": "8020584953723",
+  "disc": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "19"
+    ],
+    "MinimumThicknessValues": [
+      "17"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "52"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "241"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [
+      "4"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "62"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [
+      "Yüksek karbonlu"
+    ],
+    "TighteningTorque": [
+      "100"
+    ],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

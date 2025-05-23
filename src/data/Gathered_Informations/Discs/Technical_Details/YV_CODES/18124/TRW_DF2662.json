@@ -1,0 +1,65 @@
+{
+  "reference": "DF2662",
+  "id": "DF2662",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "KIA": [
+      "DA0133251",
+      "KK150-33251",
+      "MDA01-33251"
+    ],
+    "MAZDA": [
+      "DA01-33-251",
+      "DA01-33-251X"
+    ]
+  },
+  "eanNumber": "3322937108428",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "13"
+    ],
+    "MinimumThicknessValues": [
+      "11"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "37"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "219"
+    ],
+    "BoltHoleCircle": [
+      "94"
+    ],
+    "NumberOfHoles": [
+      "4"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "75"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "10,4"
+    ]
+  }
+}

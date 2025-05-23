@@ -1,0 +1,91 @@
+{
+  "reference": "DF4029",
+  "id": "DF4029",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "GREAT WALL": [
+      "3103102K00"
+    ],
+    "HAVAL": [
+      "3103102K00"
+    ],
+    "ISUZU": [
+      "8943754163",
+      "8943754164",
+      "8943755333",
+      "8943755334",
+      "8970340343",
+      "8970340353",
+      "8970340354",
+      "97034034"
+    ],
+    "OPEL": [
+      "5 69 050",
+      "5 69 051",
+      "8943754163",
+      "94375416",
+      "94375533",
+      "94375553",
+      "97034034",
+      "97034035"
+    ],
+    "VAUXHALL": [
+      "94375416",
+      "94375533",
+      "94375553",
+      "97034034",
+      "97034035"
+    ]
+  },
+  "eanNumber": "3322937237128",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "26"
+    ],
+    "MinimumThicknessValues": [
+      "24,6"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "36"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "280"
+    ],
+    "BoltHoleCircle": [
+      "109"
+    ],
+    "NumberOfHoles": [
+      "6"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E1 90R-02 C0176/0033"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "88"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "M12 x 1,25"
+    ]
+  }
+}

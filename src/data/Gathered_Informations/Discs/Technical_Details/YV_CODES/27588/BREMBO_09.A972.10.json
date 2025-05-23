@@ -1,0 +1,93 @@
+{
+  "reference": "09.A972.10",
+  "id": "09.A972.10",
+  "name": "Fren diski PRIME LINE",
+  "brand": "BREMBO",
+  "brand_oe_map": {
+    "BUICK": [
+      "23118534"
+    ],
+    "BUICK (SGM)": [
+      "13501290",
+      "13501303",
+      "13501314"
+    ],
+    "CADILLAC": [
+      "13501290",
+      "13592623",
+      "23118534"
+    ],
+    "CADILLAC (SGM)": [
+      "13501290",
+      "13592623"
+    ],
+    "CHEVROLET": [
+      "13501314",
+      "13592623",
+      "23118534"
+    ],
+    "CHEVROLET (SGM)": [
+      "13501314"
+    ],
+    "OPEL": [
+      "13501303",
+      "13502199",
+      "569062",
+      "569128"
+    ],
+    "ROEWE (SAIC)": [
+      "13501314"
+    ],
+    "SAAB": [
+      "13502199"
+    ],
+    "VAUXHALL": [
+      "13501303",
+      "13502199"
+    ]
+  },
+  "eanNumber": "8020584025871",
+  "disc": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "23"
+    ],
+    "MinimumThicknessValues": [
+      "21,5"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "48"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "315"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Cıvatalar ile"
+    ],
+    "CenteringDiameter": [
+      "67"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [
+      "150"
+    ],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

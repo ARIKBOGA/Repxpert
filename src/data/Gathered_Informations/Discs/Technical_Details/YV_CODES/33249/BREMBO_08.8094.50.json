@@ -1,0 +1,66 @@
+{
+  "reference": "08.8094.50",
+  "id": "08.8094.50",
+  "name": "Fren diski PRIME LINE",
+  "brand": "BREMBO",
+  "brand_oe_map": {
+    "CITROËN": [
+      "422835",
+      "424931",
+      "4249A1"
+    ],
+    "FIAT": [
+      "51740245",
+      "51749274",
+      "6001073178"
+    ],
+    "PEUGEOT": [
+      "422835",
+      "424930"
+    ]
+  },
+  "eanNumber": "8020584809457",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "16"
+    ],
+    "MinimumThicknessValues": [
+      "14,2"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "80"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "280"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Cıvatalar ile"
+    ],
+    "CenteringDiameter": [
+      "72"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [
+      "160"
+    ],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "reference": "09.D526.13",
+  "id": "09.D526.13",
+  "name": "Fren diski PRIME LINE - Co-Cast",
+  "brand": "BREMBO",
+  "brand_oe_map": {
+    "MERCEDES-BENZ": [
+      "0004212512",
+      "A0004212512"
+    ],
+    "MERCEDES-BENZ (BBDC)": [
+      "A0004212512"
+    ]
+  },
+  "eanNumber": "8020584226209",
+  "disc": {
+    "Type": [
+      "içten havalandırmalı, İki parçalı fren diski, Çelik fren diski potası"
+    ],
+    "ThicknessValues": [
+      "28"
+    ],
+    "MinimumThicknessValues": [
+      "25,4"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "63"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "305"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Cıvatalar ile"
+    ],
+    "CenteringDiameter": [
+      "69"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [
+      "Yüksek karbonlu"
+    ],
+    "TighteningTorque": [
+      "150"
+    ],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

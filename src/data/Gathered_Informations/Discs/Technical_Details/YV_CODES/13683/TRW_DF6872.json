@@ -1,0 +1,64 @@
+{
+  "reference": "DF6872",
+  "id": "DF6872",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "FORD": [
+      "1936154",
+      "2210993",
+      "G1FY-2A315-AA",
+      "JX612A315BEA"
+    ]
+  },
+  "eanNumber": "3322938369897",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "11"
+    ],
+    "MinimumThicknessValues": [
+      "9"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "40,8"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "302"
+    ],
+    "BoltHoleCircle": [
+      "108"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E1 90R-02 C0190/0599"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "63,5"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "13.7"
+    ]
+  }
+}

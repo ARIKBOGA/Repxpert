@@ -1,0 +1,88 @@
+{
+  "reference": "DF4766",
+  "id": "DF4766",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "FORD": [
+      "1379931",
+      "1385590",
+      "1405500",
+      "1864280",
+      "1877765",
+      "1892357",
+      "1892358",
+      "2032691",
+      "2111254",
+      "6G91-2A315-BA",
+      "6G91-2A315-BB",
+      "E1GC-2A315-BB",
+      "E1GC-2A315-BC",
+      "MEDG-9J2A315-BD",
+      "MEE1-GJ2A315-BB",
+      "MEGG-9J2A315-AA"
+    ],
+    "FORD (CHANGAN)": [
+      "7G912A315BA",
+      "8G912A315AA"
+    ],
+    "LAND ROVER": [
+      "BJ322A315AA",
+      "LR027123"
+    ],
+    "LAND ROVER (CHERY)": [
+      "BJ322A315AA",
+      "LR027123"
+    ]
+  },
+  "eanNumber": "3322937688852",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "11"
+    ],
+    "MinimumThicknessValues": [
+      "9"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "50,8"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "302"
+    ],
+    "BoltHoleCircle": [
+      "108"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E190R-02C0190/0599"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "63,5"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "15,8"
+    ]
+  }
+}

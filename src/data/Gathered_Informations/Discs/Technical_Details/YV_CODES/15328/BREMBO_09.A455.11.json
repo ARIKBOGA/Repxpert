@@ -1,0 +1,74 @@
+{
+  "reference": "09.A455.11",
+  "id": "09.A455.11",
+  "name": "Fren diski PRIME LINE - UV Coated",
+  "brand": "BREMBO",
+  "brand_oe_map": {
+    "CIIMO": [
+      "45251SNVH00"
+    ],
+    "HONDA": [
+      "45251S7AE10",
+      "45251S7AE11",
+      "45251SMGE30",
+      "45251SMGE31",
+      "45251SMGG10",
+      "45251SMGG11",
+      "45251SNLT60",
+      "45251TEAT00",
+      "45251TR0E00"
+    ],
+    "HONDA (DONGFENG)": [
+      "45251SNVH00"
+    ],
+    "HONDA (GAC)": [
+      "45251SNVH00"
+    ]
+  },
+  "eanNumber": "8020584222188",
+  "disc": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "23"
+    ],
+    "MinimumThicknessValues": [
+      "21"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "47"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "282"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Cıvatalar ile"
+    ],
+    "CenteringDiameter": [
+      "64"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [
+      "108"
+    ],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

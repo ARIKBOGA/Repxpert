@@ -1,0 +1,77 @@
+{
+  "reference": "DF4422",
+  "id": "DF4422",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "FORD": [
+      "1223566",
+      "1223568",
+      "1253962",
+      "1253963",
+      "1323551",
+      "1373361",
+      "1469081",
+      "1500156",
+      "2025944",
+      "3M51-2A315-EC",
+      "3M51-2A315-ED",
+      "3M512A315E1D",
+      "7M51-2A315-BA"
+    ],
+    "VOLVO": [
+      "30666802",
+      "30769113"
+    ]
+  },
+  "eanNumber": "3322937474172",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "11"
+    ],
+    "MinimumThicknessValues": [
+      "9"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "40,8"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "280"
+    ],
+    "BoltHoleCircle": [
+      "108"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E1 90R-02 C0190/0525"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "63,6"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "13,75"
+    ]
+  }
+}

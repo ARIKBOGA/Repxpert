@@ -1,0 +1,71 @@
+{
+  "reference": "DF2784",
+  "id": "DF2784",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "MITSUBISHI": [
+      "MB699288",
+      "MB699289",
+      "MR249356",
+      "MR913846"
+    ],
+    "PROTON": [
+      "PW820195"
+    ],
+    "VOLVO": [
+      "30872940",
+      "308729409"
+    ]
+  },
+  "eanNumber": "3322937184804",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "10"
+    ],
+    "MinimumThicknessValues": [
+      "8,4"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "41"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "260"
+    ],
+    "BoltHoleCircle": [
+      "114"
+    ],
+    "NumberOfHoles": [
+      "4"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E190R-02C0190/0167"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "90"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "12,5"
+    ]
+  }
+}

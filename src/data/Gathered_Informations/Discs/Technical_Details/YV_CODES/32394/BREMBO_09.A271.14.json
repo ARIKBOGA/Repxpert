@@ -1,0 +1,74 @@
+{
+  "reference": "09.A271.14",
+  "id": "09.A271.14",
+  "name": "Fren diski PRIME LINE",
+  "brand": "BREMBO",
+  "brand_oe_map": {
+    "OPEL": [
+      "4700455",
+      "4708241",
+      "4710944",
+      "93192978",
+      "93194988",
+      "95513700"
+    ],
+    "SUZUKI": [
+      "5531158M50",
+      "5531162J00",
+      "5531162J01",
+      "5531162J02",
+      "5531162J10",
+      "5531163J00",
+      "5531163J01"
+    ],
+    "VAUXHALL": [
+      "93192978",
+      "93194988",
+      "95513700"
+    ]
+  },
+  "eanNumber": "8020584016299",
+  "disc": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "20"
+    ],
+    "MinimumThicknessValues": [
+      "18"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "40"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "252"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [
+      "4"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Cıvatalar ile"
+    ],
+    "CenteringDiameter": [
+      "60"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [
+      "85"
+    ],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

@@ -30,7 +30,7 @@ interface MarkaData {
 const filterBrand = ConfigReader.getEnvVariable("FILTER_BRAND_APPLICATION") || "BREMBO";
 const formattedDate = formatDateTime(new Date());
 
-const OUTPUT_FILE = `PAD_APPLICATIONS_${filterBrand}_${formattedDate}.xlsx`;
+const OUTPUT_FILE = `PAD_APPLICATIONS_${filterBrand}_${formattedDate.numericDate}.xlsx`;
 const ROOT_PATH = "src/data/Gathered_Informations/Pads/Applications/" + filterBrand;
 const MARKA_FILE_PATH = "src/data/katalogInfo/jsons/marka_seri_no.json";
 const MODEL_FILE_PATH = "src/data/katalogInfo/jsons/model_seri_no.json";

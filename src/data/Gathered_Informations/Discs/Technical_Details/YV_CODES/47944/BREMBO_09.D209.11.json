@@ -1,0 +1,74 @@
+{
+  "reference": "09.D209.11",
+  "id": "09.D209.11",
+  "name": "Fren diski PRIME LINE - UV Coated",
+  "brand": "BREMBO",
+  "brand_oe_map": {
+    "ALFA ROMEO": [
+      "51937304"
+    ],
+    "FIAT": [
+      "51937304"
+    ],
+    "JEEP": [
+      "51937304",
+      "51963548",
+      "52056675",
+      "68249840AC",
+      "68254087AA",
+      "68254087AB",
+      "K68249840AA",
+      "K68249840AB",
+      "K68249840AC",
+      "K68254087AA",
+      "K68254087AB",
+      "K68350239AA"
+    ],
+    "JEEP (GAC FCA)": [
+      "53376436",
+      "53409035"
+    ]
+  },
+  "eanNumber": "8020584238974",
+  "disc": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "28"
+    ],
+    "MinimumThicknessValues": [
+      "26"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "40"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "305"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "70"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

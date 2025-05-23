@@ -1,0 +1,68 @@
+{
+  "reference": "08.A602.10",
+  "id": "08.A602.10",
+  "name": "Fren diski PRIME LINE",
+  "brand": "BREMBO",
+  "brand_oe_map": {
+    "HYUNDAI": [
+      "584111C800"
+    ],
+    "HYUNDAI (BEIJING)": [
+      "584111C800"
+    ],
+    "INOKOM": [
+      "584111C800"
+    ],
+    "KIA": [
+      "584111C800",
+      "584111G300"
+    ],
+    "KIA (DYK)": [
+      "584111C800"
+    ]
+  },
+  "eanNumber": "8020584019245",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "10"
+    ],
+    "MinimumThicknessValues": [
+      "8,4"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "64"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "262"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [
+      "4"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Cıvatalar ile"
+    ],
+    "CenteringDiameter": [
+      "63"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [
+      "100"
+    ],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

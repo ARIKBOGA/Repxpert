@@ -1,0 +1,66 @@
+{
+  "reference": "DF2755",
+  "id": "DF2755",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "SEAT": [
+      "6N0 615 301",
+      "6NO 615 301"
+    ],
+    "VW": [
+      "6N0 615 301",
+      "6NO 615 301"
+    ]
+  },
+  "eanNumber": "3322937136858",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "10"
+    ],
+    "MinimumThicknessValues": [
+      "8"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "33,5"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "239"
+    ],
+    "BoltHoleCircle": [
+      "100"
+    ],
+    "NumberOfHoles": [
+      "4"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Cıvatalar ile"
+    ],
+    "CenteringDiameter": [
+      "65"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "13,6"
+    ]
+  }
+}

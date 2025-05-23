@@ -1,0 +1,96 @@
+{
+  "reference": "DF4246",
+  "id": "DF4246",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "CHEVROLET": [
+      "5 69 061",
+      "90 05 171",
+      "9184405",
+      "9194477",
+      "95526651"
+    ],
+    "OPEL": [
+      "05391560",
+      "1688144880",
+      "5 69 061",
+      "5391560",
+      "90 05 171",
+      "91158407",
+      "9184405",
+      "9194477",
+      "95526651"
+    ],
+    "SAAB": [
+      "4567798",
+      "5 69 061",
+      "5055389",
+      "5084769",
+      "5122833",
+      "5391560",
+      "90 05 171",
+      "9184405",
+      "9194477"
+    ],
+    "VAUXHALL": [
+      "5 69 061",
+      "90 05 171",
+      "9184405",
+      "9194477",
+      "95526651"
+    ]
+  },
+  "eanNumber": "3322937363117",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "25"
+    ],
+    "MinimumThicknessValues": [
+      "22"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "42,1"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "308"
+    ],
+    "BoltHoleCircle": [
+      "110"
+    ],
+    "NumberOfHoles": [
+      "7"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E190R-02 C0185/0619"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "70"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [
+      "Yüksek karbonlu"
+    ],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "14"
+    ]
+  }
+}

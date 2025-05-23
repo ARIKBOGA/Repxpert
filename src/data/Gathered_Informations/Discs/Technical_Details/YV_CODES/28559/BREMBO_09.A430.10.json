@@ -1,0 +1,75 @@
+{
+  "reference": "09.A430.10",
+  "id": "09.A430.10",
+  "name": "Fren diski PRIME LINE",
+  "brand": "BREMBO",
+  "brand_oe_map": {
+    "CITROËN": [
+      "1611841980",
+      "1618865180",
+      "424925",
+      "424992",
+      "4249K0"
+    ],
+    "FIAT": [
+      "1440027088",
+      "9467548488",
+      "9467548587",
+      "9467548588"
+    ],
+    "PEUGEOT": [
+      "1611841980",
+      "1618865180",
+      "424924",
+      "424992",
+      "4249K0"
+    ],
+    "TOYOTA": [
+      "SU001A1064"
+    ]
+  },
+  "eanNumber": "8020584019030",
+  "disc": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "28"
+    ],
+    "MinimumThicknessValues": [
+      "26"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "48"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "304"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Cıvatalar ile"
+    ],
+    "CenteringDiameter": [
+      "71"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [
+      "90"
+    ],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

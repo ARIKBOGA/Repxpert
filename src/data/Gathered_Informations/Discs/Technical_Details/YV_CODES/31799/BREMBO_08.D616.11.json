@@ -1,0 +1,58 @@
+{
+  "reference": "08.D616.11",
+  "id": "08.D616.11",
+  "name": "Fren diski PRIME LINE - UV Coated",
+  "brand": "BREMBO",
+  "brand_oe_map": {
+    "SKODA": [
+      "5Q0615601C"
+    ],
+    "SKODA (SVW)": [
+      "5QD615601B"
+    ]
+  },
+  "eanNumber": "8020584236284",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "10"
+    ],
+    "MinimumThicknessValues": [
+      "8"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "61"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "253"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [
+      "9"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Cıvatalar ile"
+    ],
+    "CenteringDiameter": [
+      "65"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

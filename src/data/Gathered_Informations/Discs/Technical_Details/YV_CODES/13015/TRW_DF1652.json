@@ -1,0 +1,73 @@
+{
+  "reference": "DF1652",
+  "id": "DF1652",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "FORD": [
+      "1629475",
+      "1629477",
+      "1644857",
+      "5022648",
+      "5022658",
+      "5022947",
+      "5024744",
+      "6077975",
+      "6101928",
+      "6137291",
+      "6158203",
+      "6158205",
+      "86AX-1125-SA"
+    ]
+  },
+  "eanNumber": "3322936165200",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "10"
+    ],
+    "MinimumThicknessValues": [
+      "8,7"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "58"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "239"
+    ],
+    "BoltHoleCircle": [
+      "108"
+    ],
+    "NumberOfHoles": [
+      "4"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Cıvatalar ile"
+    ],
+    "CenteringDiameter": [
+      "63,5"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "13,7"
+    ]
+  }
+}

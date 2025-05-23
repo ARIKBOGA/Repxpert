@@ -1,0 +1,62 @@
+{
+  "reference": "DF1414",
+  "id": "DF1414",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "NISSAN": [
+      "40206-01G00",
+      "40206-01G01",
+      "40206-01G03",
+      "40206-03N00"
+    ]
+  },
+  "eanNumber": "3322936141402",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "22"
+    ],
+    "MinimumThicknessValues": [
+      "20"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "37"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "249"
+    ],
+    "BoltHoleCircle": [
+      "103"
+    ],
+    "NumberOfHoles": [
+      "6"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "81"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "10,7"
+    ]
+  }
+}

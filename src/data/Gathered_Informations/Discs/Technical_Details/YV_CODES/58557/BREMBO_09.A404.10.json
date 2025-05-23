@@ -1,0 +1,113 @@
+{
+  "reference": "09.A404.10",
+  "id": "09.A404.10",
+  "name": "Fren diski PRIME LINE",
+  "brand": "BREMBO",
+  "brand_oe_map": {
+    "CHRYSLER": [
+      "04779197AA",
+      "04779197AB",
+      "04779197AC",
+      "04779197AD",
+      "04779197AE",
+      "04779197AF",
+      "04779197AG",
+      "05154118AA",
+      "05154118AB",
+      "05154118AC",
+      "05154118AD",
+      "4755537AA",
+      "4779197AA",
+      "4779197AB",
+      "4779197AC",
+      "4779197AD",
+      "4779197AE",
+      "4779197AF",
+      "4779197AG",
+      "5154118AA",
+      "5154118AB",
+      "5154118AC",
+      "5154118AD",
+      "68368065AA",
+      "K04779197AA",
+      "K04779197AB",
+      "K04779197AC",
+      "K04779197AD",
+      "K04779197AE",
+      "K04779197AF",
+      "K04779197AG",
+      "K05154118AA",
+      "K05154118AB",
+      "K05154118AC",
+      "K05154118AD"
+    ],
+    "CHRYSLER (BBDC)": [
+      "4779197AD",
+      "4779197AE",
+      "4779197AF"
+    ],
+    "DODGE": [
+      "4779197AE",
+      "4779197AG",
+      "5154118AB",
+      "5154118AC",
+      "5154118AD",
+      "68368065AA"
+    ],
+    "LANCIA": [
+      "K04779197AA",
+      "K04779197AB",
+      "K04779197AC",
+      "K04779197AD",
+      "K04779197AE",
+      "K04779197AF",
+      "K04779197AG",
+      "K05154118AA",
+      "K05154118AB",
+      "K05154118AC",
+      "K05154118AD"
+    ]
+  },
+  "eanNumber": "8020584029282",
+  "disc": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "28"
+    ],
+    "MinimumThicknessValues": [
+      "26,5"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "55"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "345"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "73"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [
+      "Yüksek karbonlu"
+    ],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

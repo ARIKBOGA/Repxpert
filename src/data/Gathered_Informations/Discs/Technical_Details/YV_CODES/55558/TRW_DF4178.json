@@ -1,0 +1,64 @@
+{
+  "reference": "DF4178",
+  "id": "DF4178",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "CHRYSLER": [
+      "52098666"
+    ],
+    "JEEP": [
+      "52098666"
+    ]
+  },
+  "eanNumber": "3322937289202",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "10"
+    ],
+    "MinimumThicknessValues": [
+      "8,5"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "75,3"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "305"
+    ],
+    "BoltHoleCircle": [
+      "127"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E190R-02C0204/0599"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "72,2"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "15,5"
+    ]
+  }
+}

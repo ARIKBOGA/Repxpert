@@ -1,0 +1,84 @@
+{
+  "reference": "DF4081",
+  "id": "DF4081",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "HYUNDAI": [
+      "51712-M2000"
+    ],
+    "KIA": [
+      "51712-M2000"
+    ],
+    "MITSUBISHI": [
+      "MB407639",
+      "MB668107",
+      "MB928994",
+      "MB928995",
+      "MR128153",
+      "MR205584",
+      "MR205585",
+      "MR389722",
+      "MR475330",
+      "MR955637"
+    ],
+    "PROTON": [
+      "PW820577"
+    ],
+    "VOLVO": [
+      "30872319",
+      "30872926",
+      "308729268"
+    ]
+  },
+  "eanNumber": "3322937275373",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "24"
+    ],
+    "MinimumThicknessValues": [
+      "22,4"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "45,8"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "256"
+    ],
+    "BoltHoleCircle": [
+      "114,3"
+    ],
+    "NumberOfHoles": [
+      "4"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E1 90R-02 C0176/0706"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "69"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "12.6"
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "reference": "DF6419",
+  "id": "DF6419",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "CITROËN": [
+      "16 427 604 80",
+      "16 877 720 80",
+      "4249 93",
+      "4249 A3",
+      "4249 K1"
+    ],
+    "DS": [
+      "16 427 604 80",
+      "16 877 720 80",
+      "4249 K1"
+    ],
+    "OPEL": [
+      "16 877 720 80",
+      "3641958",
+      "4249 K1"
+    ],
+    "PEUGEOT": [
+      "16 427 604 80",
+      "16 877 720 80",
+      "4249 93",
+      "4249 K1"
+    ],
+    "PEUGEOT (DF-PSA)": [
+      "9686324780"
+    ],
+    "TOYOTA": [
+      "SU001-A9002"
+    ],
+    "VAUXHALL": [
+      "16 877 720 80",
+      "3641958",
+      "4249 K1"
+    ]
+  },
+  "eanNumber": "3322938169541",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "28"
+    ],
+    "MinimumThicknessValues": [
+      "26"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "48"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "304"
+    ],
+    "BoltHoleCircle": [
+      "108"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E1 90R-02 C0176/0642"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "71"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": []
+  }
+}

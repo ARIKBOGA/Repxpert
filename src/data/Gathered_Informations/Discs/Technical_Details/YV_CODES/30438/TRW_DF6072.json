@@ -1,0 +1,96 @@
+{
+  "reference": "DF6072",
+  "id": "DF6072",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "DACIA": [
+      "40 20 600 10R",
+      "40 20 600 Q2M",
+      "40 20 637 93R",
+      "40 20 641 51R",
+      "40 20 679 02R",
+      "40 20 697 41R",
+      "40 20 698 41R",
+      "82 01 703 980",
+      "86 60 001 232"
+    ],
+    "MERCEDES-BENZ": [
+      "420 421 33 00",
+      "A 420 421 33 00"
+    ],
+    "NISSAN": [
+      "40206-0010R",
+      "40206-00Q0L",
+      "40206-00Q1B",
+      "40206-00Q2A",
+      "40206-00Q2D",
+      "40206-00Q3G-",
+      "40206-9341R",
+      "4020600Q2M"
+    ],
+    "RENAULT": [
+      "40 20 600 10R",
+      "40 20 600 Q2M",
+      "40 20 631 40R",
+      "40 20 637 93R",
+      "40 20 641 51R",
+      "40 20 655 85R",
+      "40 20 678 16R",
+      "40 20 679 02R",
+      "40 20 697 41R",
+      "82 01 703 980",
+      "86 60 001 232"
+    ]
+  },
+  "eanNumber": "3322937991716",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "24"
+    ],
+    "MinimumThicknessValues": [
+      "21,8"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "44"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "280"
+    ],
+    "BoltHoleCircle": [
+      "114,3"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E1 90R-02 C0185/0659"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "68"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "15.7"
+    ]
+  }
+}

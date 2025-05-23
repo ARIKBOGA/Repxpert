@@ -1,0 +1,62 @@
+{
+  "reference": "09.9752.14",
+  "id": "09.9752.14",
+  "name": "Fren diski PRIME LINE",
+  "brand": "BREMBO",
+  "brand_oe_map": {
+    "BMW": [
+      "34116764641",
+      "34116854997"
+    ],
+    "BMW (BRILLIANCE)": [
+      "34116764641",
+      "34116854997"
+    ]
+  },
+  "eanNumber": "8020584975213",
+  "disc": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "22"
+    ],
+    "MinimumThicknessValues": [
+      "20,4"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "73"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "292"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Cıvatalar ile"
+    ],
+    "CenteringDiameter": [
+      "79"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [
+      "Yüksek karbonlu"
+    ],
+    "TighteningTorque": [
+      "120"
+    ],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "reference": "DF2669",
+  "id": "DF2669",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "HONDA": [
+      "42510-SM4-950",
+      "42510-SN7-000",
+      "42510-SV4-A00"
+    ],
+    "ROVER": [
+      "GBD90835"
+    ]
+  },
+  "eanNumber": "3322937108497",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "10"
+    ],
+    "MinimumThicknessValues": [
+      "8"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "48,6"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "260"
+    ],
+    "BoltHoleCircle": [
+      "114"
+    ],
+    "NumberOfHoles": [
+      "4"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E190R-02C0190/0151"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Cıvatalar ile"
+    ],
+    "CenteringDiameter": [
+      "64"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": [
+      "12,6"
+    ]
+  }
+}
