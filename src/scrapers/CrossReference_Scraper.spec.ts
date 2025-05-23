@@ -11,9 +11,12 @@ interface StringPair {
     crossNumber: string;
 }
 
+
+// Çalışılacak ürün tipini seç
 const productType = ConfigReader.getEnvVariable("PRODUCT_TYPE");
 
-const references :ProductReference[] = readProductReferencesFromExcel();
+// Ürün tipine karşılık gelen Excel dosyasından katalog bilgilerini oku
+const references :ProductReference[] = readProductReferencesFromExcel(productType);
 //const existedFolders = getSubfolderNamesSync(`src/data/Gathered_Informations/${productType}/CrossNumbers/YV_CODES`);
 
 test.describe('YV NO ve Textar kodları ile Cross Numbers tarayıcı', () => {

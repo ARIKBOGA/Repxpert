@@ -4,7 +4,7 @@ import * as xlsx from 'xlsx';
 import * as path from 'path';
 
 // Gerekli ortam degiskenlerini oku
-const productType = ConfigReader.getEnvVariable("PRODUCT_TYPE");
+// const productType = ConfigReader.getEnvVariable("PRODUCT_TYPE");
 
 
 export async function goToSearchResults(
@@ -110,7 +110,7 @@ export interface ProductReference {
   brandRefs: { [brand: string]: string }; // { "BREMBO": "09.1234.56", "TRW": "", ... }
 }
 
-export function readProductReferencesFromExcel(): ProductReference[] {
+export function readProductReferencesFromExcel(productType: string): ProductReference[] {
   const excelPath = path.resolve(__dirname, `../data/katalogInfo/excels/${productType}_katalog_full.xlsx`);
   const workbook = xlsx.readFile(excelPath);
   const sheet = workbook.Sheets[workbook.SheetNames[0]];
