@@ -15,6 +15,9 @@ export async function goToSearchResults(
   addToRetryList: (oe: string) => void
 ): Promise<Locator[] | null> {
   await page.goto(ConfigReader.getEnvVariable("REPXPERT_URL") || "");
+  await page.waitForLoadState('domcontentloaded');
+  await page.waitForLoadState('networkidle');
+  await page.waitForTimeout(1500);
   await page.getByRole("textbox", { name: /OE numarası/i }).fill(oe);
   await page.getByRole("textbox", { name: /OE numarası/i }).press("Enter");
 
@@ -52,6 +55,9 @@ export async function goToSearchResultsEnglish(
 
   // İngilizce RepXpert sayfasına git
   await page.goto(ConfigReader.getEnvVariable("REPXPERT_HOME_ENGLISH_URL") || "");
+  await page.waitForLoadState('domcontentloaded');
+  await page.waitForLoadState('networkidle');
+  await page.waitForTimeout(1500);
   await page.getByRole("textbox", { name: /OE number/i }).fill(oe);
   await page.getByRole("textbox", { name: /OE number/i }).press("Enter");
 
@@ -85,6 +91,8 @@ export async function loginEnglishRepxpertPage(page: Page) {
   const password = ConfigReader.getEnvVariable("REPXPERT_ENGLISH_PASSWORD");
   await page.goto(url);
   await page.waitForLoadState('domcontentloaded');
+  await page.waitForLoadState('networkidle');
+  await page.waitForTimeout(1500);
   await page.waitForSelector('button:has-text("Accept All Cookies")');
 
   // Click on the "Accept All Cookies" button

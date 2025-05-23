@@ -110,6 +110,8 @@ test.describe('YV NO ve Marka bazlı teknik veri tarayıcı', async () => {
               Machining: await getDimensionValuesSmart(page, ['İşleme']),
               TighteningTorque : await getDimensionValuesSmart(page, ['Sıkma torku']),
               Weight : await getDimensionValuesSmart(page, ['Agırlık']),
+              Color : await getDimensionValuesSmart(page, ['Renk']),
+              ThreadSize : await getDimensionValuesSmart(page, ['Dişli ölçüsü']),
             }
 
             await page.waitForTimeout(1000); // Sayfanın tam yüklenmesi için bekle
