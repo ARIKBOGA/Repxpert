@@ -1,0 +1,67 @@
+{
+  "reference": "DF4794",
+  "id": "DF4794",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "LAND ROVER": [
+      "4H221027DA",
+      "6H221027CA",
+      "SDB000632",
+      "SDB000634",
+      "SDB000635",
+      "SDB000636",
+      "SDB500150"
+    ]
+  },
+  "eanNumber": "3322937735341",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "20"
+    ],
+    "MinimumThicknessValues": [
+      "17"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "59"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "325"
+    ],
+    "BoltHoleCircle": [
+      "120"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "79"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [
+      "Yüksek karbonlu"
+    ],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "15"
+    ]
+  }
+}

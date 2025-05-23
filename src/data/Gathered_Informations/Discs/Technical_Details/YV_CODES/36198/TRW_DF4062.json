@@ -1,0 +1,66 @@
+{
+  "reference": "DF4062",
+  "id": "DF4062",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "SEAT": [
+      "6N0 615 601 A",
+      "6N0 615 601 B"
+    ],
+    "VW": [
+      "6N0 615 601 A",
+      "6N0 615 601 B"
+    ]
+  },
+  "eanNumber": "3322937268986",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "8,9"
+    ],
+    "MinimumThicknessValues": [
+      "7"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "39,4"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "232"
+    ],
+    "BoltHoleCircle": [
+      "100"
+    ],
+    "NumberOfHoles": [
+      "4"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E1 90R-02 C0190/0694"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "65"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "13,8"
+    ]
+  }
+}

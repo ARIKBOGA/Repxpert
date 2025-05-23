@@ -1,0 +1,90 @@
+{
+  "reference": "DF7475",
+  "id": "DF7475",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "BUICK": [
+      "13502044",
+      "5 69 073"
+    ],
+    "BUICK (SGM)": [
+      "13502045"
+    ],
+    "CHEVROLET": [
+      "13502044",
+      "13502045",
+      "13502824",
+      "5 69 069",
+      "5 69 073"
+    ],
+    "CHEVROLET (SGM)": [
+      "13502045"
+    ],
+    "OPEL": [
+      "13502044",
+      "13502045",
+      "13502824",
+      "5 69 069",
+      "5 69 073",
+      "95527030"
+    ],
+    "VAUXHALL": [
+      "13502044",
+      "13502045",
+      "5 69 069",
+      "5 69 073",
+      "95527030"
+    ]
+  },
+  "eanNumber": "3322937950041",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "26"
+    ],
+    "MinimumThicknessValues": [
+      "23"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "45,5"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "276"
+    ],
+    "BoltHoleCircle": [
+      "105"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E190R-02C0176/0059"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "60"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "14.3"
+    ]
+  }
+}

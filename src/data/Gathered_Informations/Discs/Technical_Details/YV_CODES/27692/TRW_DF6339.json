@@ -1,0 +1,64 @@
+{
+  "reference": "DF6339",
+  "id": "DF6339",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "OPEL": [
+      "5 69 418",
+      "93190227"
+    ],
+    "VAUXHALL": [
+      "5 69 418",
+      "93190227"
+    ]
+  },
+  "eanNumber": "3322938168605",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "10"
+    ],
+    "MinimumThicknessValues": [
+      "8"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "40,6"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "264"
+    ],
+    "BoltHoleCircle": [
+      "110"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E1 90R-02 C0190/0537"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "70"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": []
+  }
+}

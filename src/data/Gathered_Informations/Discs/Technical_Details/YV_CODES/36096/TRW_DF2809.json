@@ -1,0 +1,77 @@
+{
+  "reference": "DF2809",
+  "id": "DF2809",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "AUDI": [
+      "7D0 615 301 A",
+      "7D0 615 301 C"
+    ],
+    "SEAT": [
+      "701 615 301 F",
+      "7D0 615 301 A",
+      "7D0 615 301 C"
+    ],
+    "SKODA": [
+      "701 615 301 F",
+      "7D0 615 301 A",
+      "7D0 615 301 C"
+    ],
+    "VW": [
+      "701 615 301 F",
+      "7D0 615 301 A",
+      "7D0 615 301 C"
+    ]
+  },
+  "eanNumber": "3322937204977",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "24"
+    ],
+    "MinimumThicknessValues": [
+      "20"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "55"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "280"
+    ],
+    "BoltHoleCircle": [
+      "112"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E190R-02C0176/0450"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "68"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "16,6"
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "reference": "09.6997.10",
+  "id": "09.6997.10",
+  "name": "Fren diski PRIME LINE",
+  "brand": "BREMBO",
+  "brand_oe_map": {
+    "BAIC": [
+      "5390786"
+    ],
+    "CHEVROLET": [
+      "90496327",
+      "90512029"
+    ],
+    "LOTUS": [
+      "B117J0028F"
+    ],
+    "OPEL": [
+      "32025723",
+      "4801584",
+      "4801628",
+      "569009",
+      "569056",
+      "569357",
+      "90512029",
+      "93177674",
+      "93179053",
+      "93182284"
+    ],
+    "SAAB": [
+      "32025723",
+      "4566840",
+      "4837019",
+      "4839007",
+      "4839320",
+      "5390786"
+    ],
+    "SATURN": [
+      "21019227",
+      "21019788"
+    ],
+    "VAUXHALL": [
+      "32025723",
+      "569056",
+      "90496327",
+      "90512029",
+      "93177674",
+      "93179053",
+      "93182284"
+    ]
+  },
+  "eanNumber": "8020584699713",
+  "disc": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "25"
+    ],
+    "MinimumThicknessValues": [
+      "22"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "42"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "288"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "70"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [
+      "Yüksek karbonlu"
+    ],
+    "TighteningTorque": [
+      "110"
+    ],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

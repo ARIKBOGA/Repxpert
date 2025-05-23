@@ -1,0 +1,88 @@
+{
+  "reference": "09.8690.11",
+  "id": "09.8690.11",
+  "name": "Fren diski PRIME LINE - UV Coated",
+  "brand": "BREMBO",
+  "brand_oe_map": {
+    "AUDI": [
+      "3B0615301B",
+      "4B0615301A",
+      "8D0615301J",
+      "8E0615301R"
+    ],
+    "AUDI (FAW)": [
+      "4B0615301A",
+      "L8E0615301R"
+    ],
+    "SEAT": [
+      "4B0615301A",
+      "8D0615301J",
+      "8E0615301R"
+    ],
+    "SKODA": [
+      "3B0615301B",
+      "4B0615301A",
+      "4B0615301C",
+      "8D0615301J",
+      "8E0615301R"
+    ],
+    "VW": [
+      "3B0615301B",
+      "4B0615301A",
+      "4B0615301C",
+      "8D0615301J",
+      "8E0615301R"
+    ],
+    "VW (SVW)": [
+      "4B0615301C"
+    ]
+  },
+  "eanNumber": "8020584013526",
+  "disc": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "25"
+    ],
+    "MinimumThicknessValues": [
+      "23"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "46"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "312"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Cıvatalar ile"
+    ],
+    "CenteringDiameter": [
+      "68"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [
+      "Yüksek karbonlu"
+    ],
+    "TighteningTorque": [
+      "120"
+    ],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

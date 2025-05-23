@@ -1,0 +1,109 @@
+{
+  "reference": "DF2734",
+  "id": "DF2734",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "ALFA ROMEO": [
+      "0000060812137",
+      "46401356",
+      "46831041",
+      "51896287",
+      "51896288",
+      "52015293",
+      "60812137",
+      "71739640"
+    ],
+    "CHRYSLER": [
+      "0051896288",
+      "51896287",
+      "51896288"
+    ],
+    "CITROËN": [
+      "16 063 219 80",
+      "16 188 797 80",
+      "4249 73",
+      "4249 74",
+      "4249 E5",
+      "4249 L2"
+    ],
+    "FIAT": [
+      "0000051896288",
+      "0000071765641",
+      "46401356",
+      "46542383",
+      "46831041",
+      "51896287",
+      "51896288",
+      "52015293",
+      "52063172",
+      "59064264",
+      "60812137",
+      "71739640"
+    ],
+    "LANCIA": [
+      "0000060812137",
+      "46401356",
+      "51896287",
+      "51896288"
+    ],
+    "PEUGEOT": [
+      "16 063 219 80",
+      "16 188 797 80",
+      "4249 73",
+      "4249 74",
+      "4249 E5",
+      "4249 L2"
+    ]
+  },
+  "eanNumber": "3322937131778",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "22"
+    ],
+    "MinimumThicknessValues": [
+      "20,2"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "40,4"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "257"
+    ],
+    "BoltHoleCircle": [
+      "98"
+    ],
+    "NumberOfHoles": [
+      "4"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E190R-02C0176/0520"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "59"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "13"
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "reference": "DF1654",
+  "id": "DF1654",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "AC": [
+      "5022666"
+    ],
+    "FORD": [
+      "1073756",
+      "1197572",
+      "1323621",
+      "1373781",
+      "1456666",
+      "1473006",
+      "1507058",
+      "1514237",
+      "1630149",
+      "1637969",
+      "1659810",
+      "1756882",
+      "1780880",
+      "4083484",
+      "5022666",
+      "5023483",
+      "5030658",
+      "7204066",
+      "95GB-2A315-FA",
+      "95GB-2A315-FB",
+      "95GB2A315B1C",
+      "95GJ-2A315-EC",
+      "95GX-2A315-EA",
+      "95GX-2A315-EB",
+      "95GX-2A315-FB",
+      "C1BC-2A315-AA",
+      "V85BX 2A315 AB"
+    ],
+    "PANTHER": [
+      "5022666"
+    ],
+    "TVR": [
+      "5022666"
+    ]
+  },
+  "eanNumber": "3322936165408",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "10"
+    ],
+    "MinimumThicknessValues": [
+      "8,9"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "33"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "253"
+    ],
+    "BoltHoleCircle": [
+      "108"
+    ],
+    "NumberOfHoles": [
+      "4"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E190R-02C0190/0016"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "63,5"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "13,7"
+    ]
+  }
+}

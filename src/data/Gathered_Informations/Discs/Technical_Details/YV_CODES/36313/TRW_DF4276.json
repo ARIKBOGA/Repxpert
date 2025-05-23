@@ -1,0 +1,85 @@
+{
+  "reference": "DF4276",
+  "id": "DF4276",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "AUDI": [
+      "1K0 615 601 AB",
+      "1K0 615 601 K",
+      "5Q0 615 601 F",
+      "8P0 098 601"
+    ],
+    "SEAT": [
+      "1K0 615 601 AB",
+      "1K0 615 601 K",
+      "5Q0 615 601 F"
+    ],
+    "SKODA": [
+      "1K0 615 601 AB",
+      "1K0 615 601 K",
+      "5C0 615 601",
+      "5Q0 615 601 F"
+    ],
+    "VW": [
+      "1K0 615 601 AB",
+      "1K0 615 601 K",
+      "5C0 615 601",
+      "5C0 615 601 A",
+      "5Q0 615 601 F",
+      "8P0 098 601"
+    ]
+  },
+  "eanNumber": "3322937369911",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "10"
+    ],
+    "MinimumThicknessValues": [
+      "7"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "51"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "253"
+    ],
+    "BoltHoleCircle": [
+      "112"
+    ],
+    "NumberOfHoles": [
+      "9"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E1 90R-02 C0190/0016"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Cıvatalar ile"
+    ],
+    "CenteringDiameter": [
+      "65"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "15,3"
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "reference": "78BD5271-2",
+  "id": "78BD5271-2",
+  "name": "Fren diski",
+  "brand": "ICER",
+  "brand_oe_map": {
+    "HYUNDAI": [
+      "51712-2T000",
+      "51712-2T100",
+      "51712-4C000"
+    ],
+    "KIA": [
+      "51712-2T000",
+      "51712-2T100"
+    ],
+    "MITSUBISHI": [
+      "4615A230"
+    ]
+  },
+  "eanNumber": "8424073146847",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "26,4"
+    ],
+    "MinimumThicknessValues": [
+      "26,4"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "47,3"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "320"
+    ],
+    "BoltHoleCircle": [
+      "114,3"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [
+      "Front"
+    ],
+    "TechnicalInformationNumber": [
+      "78BD5271-2"
+    ],
+    "TestMark": [
+      "E1 90R-02C0074/1462, E1 90R-02C0452/0130"
+    ],
+    "Diameter": [
+      "69"
+    ],
+    "Thickness": [
+      "28"
+    ],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "69"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "5"
+    ],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

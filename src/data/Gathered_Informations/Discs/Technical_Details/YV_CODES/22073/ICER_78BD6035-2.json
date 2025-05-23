@@ -1,0 +1,79 @@
+{
+  "reference": "78BD6035-2",
+  "id": "78BD6035-2",
+  "name": "Fren diski",
+  "brand": "ICER",
+  "brand_oe_map": {
+    "OPEL": [
+      "47 00 455",
+      "47 08 241",
+      "47 10 944",
+      "93 192 978",
+      "93 194 988",
+      "95 513 700"
+    ],
+    "SUZUKI": [
+      "55311-62J00",
+      "55311-62J01"
+    ],
+    "VAUXHALL": [
+      "93 192 978",
+      "93 194 988",
+      "93 513 700"
+    ]
+  },
+  "eanNumber": "8424073147608",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "18,5"
+    ],
+    "MinimumThicknessValues": [
+      "18,5"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "40"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "252"
+    ],
+    "BoltHoleCircle": [
+      "100"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [
+      "Front"
+    ],
+    "TechnicalInformationNumber": [
+      "78BD6035-2"
+    ],
+    "TestMark": [
+      "E1 90R-02C0074/0053, E1 90R-02C0452/0074, E1190R02C01049/52492"
+    ],
+    "Diameter": [
+      "60"
+    ],
+    "Thickness": [
+      "20"
+    ],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "60"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "5"
+    ],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

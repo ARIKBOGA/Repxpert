@@ -1,0 +1,97 @@
+{
+  "reference": "92051003",
+  "id": "92051003",
+  "name": "Fren diski PRO",
+  "brand": "TEXTAR",
+  "brand_oe_map": {
+    "FORD": [
+      "1018277",
+      "1019604",
+      "1066271",
+      "1107768",
+      "1320581",
+      "1320582",
+      "1373289",
+      "1473005",
+      "1524589",
+      "3N211125AA",
+      "4071714",
+      "4084226",
+      "5022654",
+      "5028281",
+      "6191064",
+      "89FB1125CE",
+      "89FX1125CE",
+      "93FX1125AA",
+      "93FX1125S1A",
+      "93FX1125SA",
+      "96FB1125CA",
+      "96FX1125CA",
+      "YS6J1125CB",
+      "YS6J1125CC",
+      "YS6W1125AA",
+      "YS6W1125AC",
+      "YS6W1125B1B",
+      "YS6W1125CA",
+      "YS6W1125CB"
+    ],
+    "MAZDA": [
+      "1E0533251",
+      "1E0633251",
+      "1E0833251",
+      "1E0933251"
+    ]
+  },
+  "eanNumber": "4019722309014",
+  "disc": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "20"
+    ],
+    "MinimumThicknessValues": [
+      "18"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "43"
+    ],
+    "InnerDiameter": [
+      "136,5"
+    ],
+    "OuterDiameter": [
+      "240"
+    ],
+    "BoltHoleCircle": [
+      "108"
+    ],
+    "NumberOfHoles": [
+      "04/04"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "63,6"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "04/04"
+    ],
+    "WheelBoltBoreDiameter": [
+      "13,7"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

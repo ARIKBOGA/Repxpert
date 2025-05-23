@@ -1,0 +1,90 @@
+{
+  "reference": "08.3636.10",
+  "id": "08.3636.10",
+  "name": "Fren diski PRIME LINE",
+  "brand": "BREMBO",
+  "brand_oe_map": {
+    "AUTOBIANCHI": [
+      "4385812",
+      "94385812"
+    ],
+    "FIAT": [
+      "4139010",
+      "4208311",
+      "4319010",
+      "4385812",
+      "71738422"
+    ],
+    "FSO": [
+      "4208311",
+      "4385812",
+      "655438512",
+      "655439010"
+    ],
+    "INNOCENTI": [
+      "4385812",
+      "94385812"
+    ],
+    "LANCIA": [
+      "4385812",
+      "71738422",
+      "94385812"
+    ],
+    "SEAT": [
+      "16500253",
+      "984385812",
+      "RF16500250",
+      "RF16500253",
+      "SE022165002A"
+    ],
+    "YUGO": [
+      "4385812",
+      "46618703"
+    ],
+    "ZASTAVA": [
+      "4385812"
+    ]
+  },
+  "eanNumber": "8020584363614",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "10,8"
+    ],
+    "MinimumThicknessValues": [
+      "9"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "46"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "227"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [
+      "4"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "62"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [
+      "86"
+    ],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

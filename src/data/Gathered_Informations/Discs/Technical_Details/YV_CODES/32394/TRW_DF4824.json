@@ -1,0 +1,76 @@
+{
+  "reference": "DF4824",
+  "id": "DF4824",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "OPEL": [
+      "47 00 455",
+      "47 08 241",
+      "93192978",
+      "95513700"
+    ],
+    "SUZUKI": [
+      "55311-62J00",
+      "55311-62J01",
+      "55311-62J02-000",
+      "55311-62J10"
+    ],
+    "VAUXHALL": [
+      "47 00 455",
+      "47 08 241",
+      "93192978",
+      "95513700"
+    ]
+  },
+  "eanNumber": "3322937891658",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "20"
+    ],
+    "MinimumThicknessValues": [
+      "18"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "40"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "252"
+    ],
+    "BoltHoleCircle": [
+      "100"
+    ],
+    "NumberOfHoles": [
+      "4"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E190R-02C0176/0533"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "60"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "12,7"
+    ]
+  }
+}

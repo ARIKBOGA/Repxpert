@@ -1,0 +1,68 @@
+{
+  "reference": "DF4112",
+  "id": "DF4112",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "TOYOTA": [
+      "43512-0D010",
+      "43512-52010",
+      "43512-52020",
+      "43512-52050",
+      "43512-YZZAH"
+    ],
+    "TOYOTA (FAW)": [
+      "43512-YZZAH"
+    ]
+  },
+  "eanNumber": "3322937288557",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "18"
+    ],
+    "MinimumThicknessValues": [
+      "16"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "43,1"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "235"
+    ],
+    "BoltHoleCircle": [
+      "100"
+    ],
+    "NumberOfHoles": [
+      "4"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E190R-02 C0176/0617"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "55"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "15,2"
+    ]
+  }
+}

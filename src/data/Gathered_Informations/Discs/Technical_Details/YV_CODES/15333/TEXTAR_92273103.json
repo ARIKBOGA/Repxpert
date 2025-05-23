@@ -1,0 +1,79 @@
+{
+  "reference": "92273103",
+  "id": "92273103",
+  "name": "Fren diski PRO",
+  "brand": "TEXTAR",
+  "brand_oe_map": {
+    "BMW": [
+      "34116866297",
+      "34118835362",
+      "6866297",
+      "8835362"
+    ],
+    "BMW (BRILLIANCE)": [
+      "34116864439",
+      "6864439"
+    ],
+    "IME": [
+      "6154510"
+    ],
+    "KAROSA": [
+      "6154510"
+    ],
+    "LEYLAND": [
+      "09C34911"
+    ]
+  },
+  "eanNumber": "4019722478031",
+  "disc": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "22"
+    ],
+    "MinimumThicknessValues": [
+      "20,4"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "45,2"
+    ],
+    "InnerDiameter": [
+      "150,7"
+    ],
+    "OuterDiameter": [
+      "294"
+    ],
+    "BoltHoleCircle": [
+      "112"
+    ],
+    "NumberOfHoles": [
+      "05/06"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "67"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "05/06"
+    ],
+    "WheelBoltBoreDiameter": [
+      "16,8"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

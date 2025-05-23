@@ -1,0 +1,58 @@
+{
+  "reference": "09.A334.20",
+  "id": "09.A334.20",
+  "name": "Fren diski PRIME LINE",
+  "brand": "BREMBO",
+  "brand_oe_map": {
+    "LEXUS": [
+      "4243160311"
+    ],
+    "TOYOTA": [
+      "424310K230",
+      "4243160311"
+    ],
+    "TOYOTA (FAW)": [
+      "4243160311"
+    ]
+  },
+  "eanNumber": "8020584213605",
+  "disc": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "18"
+    ],
+    "MinimumThicknessValues": [
+      "16"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "68"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "312"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [
+      "6"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "108"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

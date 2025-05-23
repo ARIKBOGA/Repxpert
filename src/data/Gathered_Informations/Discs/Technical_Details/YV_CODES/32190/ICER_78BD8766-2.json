@@ -1,0 +1,72 @@
+{
+  "reference": "78BD8766-2",
+  "id": "78BD8766-2",
+  "name": "Fren diski",
+  "brand": "ICER",
+  "brand_oe_map": {
+    "NISSAN": [
+      "40206-00Q0G"
+    ],
+    "OPEL": [
+      "44 19 359",
+      "93197403"
+    ],
+    "RENAULT": [
+      "82 00 688 880"
+    ]
+  },
+  "eanNumber": "8424073148957",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "26"
+    ],
+    "MinimumThicknessValues": [
+      "26"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "69,9"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "302"
+    ],
+    "BoltHoleCircle": [
+      "130"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [
+      "Front"
+    ],
+    "TechnicalInformationNumber": [
+      "78BD8766-2"
+    ],
+    "TestMark": [
+      "E1 90R-02C0074/1558, E1 90R-02C0452/0114, E1190R02C01049/52498"
+    ],
+    "Diameter": [
+      "90"
+    ],
+    "Thickness": [
+      "28"
+    ],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "90"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "5"
+    ],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "reference": "09.8475.10",
+  "id": "09.8475.10",
+  "name": "Fren diski PRIME LINE",
+  "brand": "BREMBO",
+  "brand_oe_map": {
+    "DODGE": [
+      "5103606AA"
+    ],
+    "MERCEDES-BENZ": [
+      "9044230212",
+      "9044230312",
+      "9044230512",
+      "A9044230212",
+      "A9044230312",
+      "A9044230512"
+    ],
+    "VW": [
+      "2D0615601B",
+      "2D0615601E"
+    ]
+  },
+  "eanNumber": "8020584847510",
+  "disc": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "22"
+    ],
+    "MinimumThicknessValues": [
+      "19"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "93"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "285"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [
+      "6"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "120"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [
+      "Yüksek karbonlu"
+    ],
+    "TighteningTorque": [
+      "175"
+    ],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

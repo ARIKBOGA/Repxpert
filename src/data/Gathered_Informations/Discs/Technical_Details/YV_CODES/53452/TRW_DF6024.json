@@ -1,0 +1,74 @@
+{
+  "reference": "DF6024",
+  "id": "DF6024",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "CHEVROLET": [
+      "20968395",
+      "48 01 857",
+      "48 04 637",
+      "96625873"
+    ],
+    "OPEL": [
+      "20968395",
+      "48 01 857",
+      "48 04 637",
+      "96625873"
+    ],
+    "VAUXHALL": [
+      "20968395",
+      "48 01 857",
+      "48 04 637",
+      "96625873"
+    ]
+  },
+  "eanNumber": "3322937972531",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "20"
+    ],
+    "MinimumThicknessValues": [
+      "18,4"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "71,6"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "303"
+    ],
+    "BoltHoleCircle": [
+      "115"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "70,7"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "12,7"
+    ]
+  }
+}

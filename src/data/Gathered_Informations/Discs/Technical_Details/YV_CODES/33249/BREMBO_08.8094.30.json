@@ -1,0 +1,90 @@
+{
+  "reference": "08.8094.30",
+  "id": "08.8094.30",
+  "name": "Fren diski PRIME LINE",
+  "brand": "BREMBO",
+  "brand_oe_map": {
+    "CITROËN": [
+      "1607880480",
+      "1618862980",
+      "1673602180",
+      "4246Y7",
+      "4249G4",
+      "4249K7",
+      "4249L0",
+      "E169247"
+    ],
+    "FIAT": [
+      "1341046080",
+      "46833806",
+      "51848616",
+      "51848617",
+      "71740118",
+      "71770939",
+      "71772268"
+    ],
+    "OPEL": [
+      "1607880480",
+      "1673602180"
+    ],
+    "PEUGEOT": [
+      "1606306680",
+      "1607880480",
+      "1618862980",
+      "1673602180",
+      "4246Y9",
+      "4249G4",
+      "4249K7",
+      "4249L0",
+      "E169247"
+    ],
+    "VAUXHALL": [
+      "1607880480",
+      "1673602180"
+    ]
+  },
+  "eanNumber": "8020584809433",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "16"
+    ],
+    "MinimumThicknessValues": [
+      "14,2"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "82"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "280"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Cıvatalar ile"
+    ],
+    "CenteringDiameter": [
+      "72"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [
+      "160"
+    ],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "reference": "08.8682.20",
+  "id": "08.8682.20",
+  "name": "Fren diski PRIME LINE",
+  "brand": "BREMBO",
+  "brand_oe_map": {
+    "CITROËN": [
+      "1611841580",
+      "1618864880",
+      "4249F7"
+    ],
+    "CITROËN (DF-PSA)": [
+      "YL00111080"
+    ],
+    "DS": [
+      "1611841580",
+      "1618864880",
+      "4249F7"
+    ],
+    "DS (CAPSA)": [
+      "1612905680",
+      "4249F7"
+    ],
+    "PEUGEOT": [
+      "1611841580",
+      "1618864880",
+      "4249F7"
+    ],
+    "PEUGEOT (DF-PSA)": [
+      "YL00111080"
+    ]
+  },
+  "eanNumber": "8020584868225",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "12"
+    ],
+    "MinimumThicknessValues": [
+      "10"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "35"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "290"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [
+      "4"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Cıvatalar ile"
+    ],
+    "CenteringDiameter": [
+      "71"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [
+      "90"
+    ],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

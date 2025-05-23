@@ -1,0 +1,68 @@
+{
+  "reference": "78BD1068-2",
+  "id": "78BD1068-2",
+  "name": "Fren diski",
+  "brand": "ICER",
+  "brand_oe_map": {
+    "SKODA": [
+      "4B0 615 301 B",
+      "JZW 615 301 B"
+    ],
+    "VW": [
+      "4B0 615 301 B",
+      "JZW 615 301 B"
+    ]
+  },
+  "eanNumber": "8424073142924",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "23"
+    ],
+    "MinimumThicknessValues": [
+      "23"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "46,2"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "288"
+    ],
+    "BoltHoleCircle": [
+      "112"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [
+      "Front"
+    ],
+    "TechnicalInformationNumber": [
+      "78BD1068-2"
+    ],
+    "TestMark": [],
+    "Diameter": [
+      "68"
+    ],
+    "Thickness": [
+      "25"
+    ],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "68"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "5"
+    ],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

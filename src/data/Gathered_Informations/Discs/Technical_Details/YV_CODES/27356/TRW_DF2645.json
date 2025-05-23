@@ -1,0 +1,82 @@
+{
+  "reference": "DF2645",
+  "id": "DF2645",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "CADILLAC": [
+      "90392559"
+    ],
+    "CHEVROLET": [
+      "90344650"
+    ],
+    "OPEL": [
+      "5 69 016",
+      "5 69 044",
+      "5 69 045",
+      "90344650",
+      "90392559",
+      "90393496",
+      "93182283"
+    ],
+    "VAUXHALL": [
+      "5 69 016",
+      "90344650",
+      "90392559",
+      "90393496",
+      "93182283"
+    ]
+  },
+  "eanNumber": "3322937076673",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "28"
+    ],
+    "MinimumThicknessValues": [
+      "25"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "58,3"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "296"
+    ],
+    "BoltHoleCircle": [
+      "110"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E1 90R-02 C0176/0492"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "70"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [
+      "Yüksek karbonlu"
+    ],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "14"
+    ]
+  }
+}

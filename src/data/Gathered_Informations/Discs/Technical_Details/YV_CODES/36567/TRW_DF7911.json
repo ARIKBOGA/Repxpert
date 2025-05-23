@@ -1,0 +1,84 @@
+{
+  "reference": "DF7911",
+  "id": "DF7911",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "AUDI": [
+      "1K0 615 601 AA",
+      "5Q0 615 601 D"
+    ],
+    "AUDI (FAW)": [
+      "5QD 615 601 A"
+    ],
+    "CUPRA": [
+      "5Q0 615 601 D"
+    ],
+    "SEAT": [
+      "1K0 615 601 AA",
+      "5Q0 615 601 D"
+    ],
+    "SKODA": [
+      "1K0 615 601 AA",
+      "5Q0 615 601 D"
+    ],
+    "VW": [
+      "1K0 615 601 AA",
+      "5Q0 615 601 D"
+    ],
+    "VW (FAW)": [
+      "1K0 615 601 AA",
+      "5QD 615 601 A"
+    ]
+  },
+  "eanNumber": "3322938101459",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "10"
+    ],
+    "MinimumThicknessValues": [
+      "8"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "48,3"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "272"
+    ],
+    "BoltHoleCircle": [
+      "112"
+    ],
+    "NumberOfHoles": [
+      "9"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E190R-02C0190/0261"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "65"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "15,3"
+    ]
+  }
+}

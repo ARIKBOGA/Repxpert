@@ -1,0 +1,82 @@
+{
+  "reference": "09.A200.10",
+  "id": "09.A200.10",
+  "name": "Fren diski PRIME LINE",
+  "brand": "BREMBO",
+  "brand_oe_map": {
+    "AUDI": [
+      "1K0615601N",
+      "5Q0615601E"
+    ],
+    "AUDI (SAIC)": [
+      "3QD615601A"
+    ],
+    "SEAT": [
+      "1K0615601N",
+      "5Q0615601E"
+    ],
+    "SKODA": [
+      "1K0615601N",
+      "5Q0615601E",
+      "5Q0615601S"
+    ],
+    "VW": [
+      "1K0615601N",
+      "3QF615601A",
+      "5Q0615601E",
+      "5QM615601A"
+    ],
+    "VW (FAW)": [
+      "3QD615601A"
+    ],
+    "VW (SVW)": [
+      "3QD615601A"
+    ]
+  },
+  "eanNumber": "8020584015896",
+  "disc": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "22"
+    ],
+    "MinimumThicknessValues": [
+      "20"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "48"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "310"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Cıvatalar ile"
+    ],
+    "CenteringDiameter": [
+      "65"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [
+      "Yüksek karbonlu"
+    ],
+    "TighteningTorque": [
+      "120"
+    ],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

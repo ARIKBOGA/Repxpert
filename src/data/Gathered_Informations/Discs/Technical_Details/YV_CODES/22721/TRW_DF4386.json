@@ -1,0 +1,63 @@
+{
+  "reference": "DF4386",
+  "id": "DF4386",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "MAZDA": [
+      "G26Y-33-25XA",
+      "GJ6Y-33-25X",
+      "GJ6Y-33-25XA"
+    ]
+  },
+  "eanNumber": "3322937402694",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "25"
+    ],
+    "MinimumThicknessValues": [
+      "23"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "48,5"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "283"
+    ],
+    "BoltHoleCircle": [
+      "114,3"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E190R-02C0176/0064"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "72"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "13"
+    ]
+  }
+}

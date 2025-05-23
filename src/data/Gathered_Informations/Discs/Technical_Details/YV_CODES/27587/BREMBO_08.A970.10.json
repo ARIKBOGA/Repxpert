@@ -1,0 +1,79 @@
+{
+  "reference": "08.A970.10",
+  "id": "08.A970.10",
+  "name": "Fren diski PRIME LINE",
+  "brand": "BREMBO",
+  "brand_oe_map": {
+    "BUICK": [
+      "13501289",
+      "23118537"
+    ],
+    "BUICK (SGM)": [
+      "13501313",
+      "13582356"
+    ],
+    "CHEVROLET": [
+      "13501302",
+      "13501313",
+      "23118537"
+    ],
+    "CHEVROLET (SGM)": [
+      "13582356"
+    ],
+    "OPEL": [
+      "13501302",
+      "13502198",
+      "569025",
+      "569127"
+    ],
+    "SAAB": [
+      "13502198"
+    ],
+    "VAUXHALL": [
+      "13501302",
+      "13502198"
+    ]
+  },
+  "eanNumber": "8020584023785",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "12"
+    ],
+    "MinimumThicknessValues": [
+      "10,5"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "48"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "292"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "67"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [
+      "150"
+    ],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

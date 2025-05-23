@@ -1,0 +1,63 @@
+{
+  "reference": "DF7152",
+  "id": "DF7152",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "KIA": [
+      "0K60A-33251",
+      "0K60A-33251A",
+      "0K60A33251AC"
+    ]
+  },
+  "eanNumber": "3322937402007",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "24"
+    ],
+    "MinimumThicknessValues": [
+      "22"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "24"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "261"
+    ],
+    "BoltHoleCircle": [
+      "108"
+    ],
+    "NumberOfHoles": [
+      "6"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E1 90R-02 C0176/0529"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "86"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "10,2"
+    ]
+  }
+}

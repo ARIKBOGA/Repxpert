@@ -1,0 +1,70 @@
+{
+  "reference": "DF4312",
+  "id": "DF4312",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "SEAT": [
+      "7E0 615 601 D"
+    ],
+    "SKODA": [
+      "7E0 615 601 D"
+    ],
+    "VW": [
+      "7E0 615 601 D",
+      "7H0 615 601 B"
+    ]
+  },
+  "eanNumber": "3322937400393",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "22"
+    ],
+    "MinimumThicknessValues": [
+      "19,5"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "44,4"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "294"
+    ],
+    "BoltHoleCircle": [
+      "120"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E190R-02C0185/0551"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "76"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [
+      "Yüksek karbonlu"
+    ],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "16.6"
+    ]
+  }
+}

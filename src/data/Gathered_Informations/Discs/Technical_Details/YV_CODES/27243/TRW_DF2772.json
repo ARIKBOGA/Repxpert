@@ -1,0 +1,72 @@
+{
+  "reference": "DF2772",
+  "id": "DF2772",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "CHEVROLET": [
+      "90512909"
+    ],
+    "OPEL": [
+      "0569117",
+      "5 69 209",
+      "90512909",
+      "93182288"
+    ],
+    "VAUXHALL": [
+      "0569117",
+      "90512909",
+      "93182288"
+    ]
+  },
+  "eanNumber": "3322937187027",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "10"
+    ],
+    "MinimumThicknessValues": [
+      "8"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "69,2"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "270"
+    ],
+    "BoltHoleCircle": [
+      "100"
+    ],
+    "NumberOfHoles": [
+      "4"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E1 90R-02 C0204/0261"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "57"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "14"
+    ]
+  }
+}

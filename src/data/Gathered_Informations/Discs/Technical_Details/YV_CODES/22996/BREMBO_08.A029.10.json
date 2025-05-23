@@ -1,0 +1,63 @@
+{
+  "reference": "08.A029.10",
+  "id": "08.A029.10",
+  "name": "Fren diski PRIME LINE",
+  "brand": "BREMBO",
+  "brand_oe_map": {
+    "MAZDA": [
+      "BP4Y26251B",
+      "BP4Y26251C",
+      "BP4Y26251D",
+      "C24Y26251A",
+      "C24Y26251B",
+      "C24Y26251C",
+      "C24Y26251C9A",
+      "C24Y26251D"
+    ],
+    "MAZDA (CHANGAN)": [
+      "BFF426251"
+    ]
+  },
+  "eanNumber": "8020584014820",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "11"
+    ],
+    "MinimumThicknessValues": [
+      "9"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "41"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "265"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "72"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [
+      "103"
+    ],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

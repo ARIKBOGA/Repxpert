@@ -1,0 +1,56 @@
+{
+  "reference": "DF4077",
+  "id": "DF4077",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "MITSUBISHI": [
+      "MB928120",
+      "MR129649"
+    ]
+  },
+  "eanNumber": "3322937275366",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "27"
+    ],
+    "MinimumThicknessValues": [
+      "25,4"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "45,3"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "276"
+    ],
+    "BoltHoleCircle": [
+      "108"
+    ],
+    "NumberOfHoles": [
+      "6"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "87"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": [
+      "10,6"
+    ]
+  }
+}

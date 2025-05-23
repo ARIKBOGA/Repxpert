@@ -1,0 +1,77 @@
+{
+  "reference": "78BD9115-2",
+  "id": "78BD9115-2",
+  "name": "Fren diski",
+  "brand": "ICER",
+  "brand_oe_map": {
+    "FIAT": [
+      "4 683 648 9",
+      "5 179 923 5"
+    ],
+    "OPEL": [
+      "5 69 115",
+      "93 188 377"
+    ],
+    "SAAB": [
+      "12 762 290",
+      "91 56 785"
+    ],
+    "VAUXHALL": [
+      "93 171 848"
+    ]
+  },
+  "eanNumber": "8424073149374",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "10"
+    ],
+    "MinimumThicknessValues": [
+      "10"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "41,6"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "278"
+    ],
+    "BoltHoleCircle": [
+      "110"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [
+      "Rear"
+    ],
+    "TechnicalInformationNumber": [
+      "78BD9115-2"
+    ],
+    "TestMark": [
+      "E1 90R-02C0100/0677, E1 90R-02C0415/0088"
+    ],
+    "Diameter": [
+      "65,5"
+    ],
+    "Thickness": [
+      "12"
+    ],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "65,5"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "5"
+    ],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

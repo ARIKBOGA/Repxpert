@@ -1,0 +1,73 @@
+{
+  "reference": "08.9138.10",
+  "id": "08.9138.10",
+  "name": "Fren diski PRIME LINE",
+  "brand": "BREMBO",
+  "brand_oe_map": {
+    "DAIHATSU": [
+      "4351287524",
+      "4351297203",
+      "4351297204",
+      "4351297204000",
+      "4351297206",
+      "4351297206000",
+      "4351297207",
+      "4351297207000",
+      "43512B2060",
+      "43512B2100",
+      "43512B2130"
+    ],
+    "PERODUA": [
+      "4351287524",
+      "4351297204",
+      "4351297204000",
+      "4351297206000",
+      "43512BZ150"
+    ],
+    "SUBARU": [
+      "43512B2130"
+    ]
+  },
+  "eanNumber": "8020584913819",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "11"
+    ],
+    "MinimumThicknessValues": [
+      "10"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "41"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "211"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [
+      "4"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "55"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [
+      "103"
+    ],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

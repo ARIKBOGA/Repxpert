@@ -1,0 +1,78 @@
+{
+  "reference": "09.C882.11",
+  "id": "09.C882.11",
+  "name": "Fren diski PRIME LINE - UV Coated",
+  "brand": "BREMBO",
+  "brand_oe_map": {
+    "AUDI": [
+      "7L6615301K",
+      "7L6615302K",
+      "7L8615301",
+      "7L8615302"
+    ],
+    "PORSCHE": [
+      "95535140110",
+      "95535140150",
+      "95535140151",
+      "95535140210",
+      "95535140250",
+      "95535140251"
+    ],
+    "VW": [
+      "7L5615301E",
+      "7L6615301E",
+      "7L6615301K",
+      "7L6615302E",
+      "7L6615302K",
+      "7L8315302",
+      "7L8615301",
+      "7L8615302"
+    ]
+  },
+  "eanNumber": "8020584225288",
+  "disc": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "34"
+    ],
+    "MinimumThicknessValues": [
+      "32"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "69"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "350"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "85"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [
+      "Yüksek karbonlu"
+    ],
+    "TighteningTorque": [
+      "160"
+    ],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

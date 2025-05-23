@@ -1,0 +1,64 @@
+{
+  "reference": "DF4917",
+  "id": "DF4917",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "TOYOTA": [
+      "43512-0K060",
+      "43512-0K070"
+    ]
+  },
+  "eanNumber": "3322937950935",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "25"
+    ],
+    "MinimumThicknessValues": [
+      "23"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "69,4"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "297"
+    ],
+    "BoltHoleCircle": [
+      "140"
+    ],
+    "NumberOfHoles": [
+      "6"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E1 90R-02 C0176/0199"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "108"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [
+      "Yüksek karbonlu"
+    ],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "14,4"
+    ]
+  }
+}

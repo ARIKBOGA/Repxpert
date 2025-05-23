@@ -1,0 +1,68 @@
+{
+  "reference": "DF4037",
+  "id": "DF4037",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "FIAT": [
+      "0000007645056",
+      "0000007779409",
+      "0000046416712",
+      "0000060811266",
+      "46419204",
+      "71740120"
+    ],
+    "LANCIA": [
+      "0000007645056",
+      "0000060811266"
+    ]
+  },
+  "eanNumber": "3322937237388",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "20"
+    ],
+    "MinimumThicknessValues": [
+      "18,2"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "47"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "240"
+    ],
+    "BoltHoleCircle": [
+      "98"
+    ],
+    "NumberOfHoles": [
+      "4"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "59"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "13"
+    ]
+  }
+}

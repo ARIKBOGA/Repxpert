@@ -1,0 +1,72 @@
+{
+  "reference": "DF1013",
+  "id": "DF1013",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "DACIA": [
+      "26 77 509 716",
+      "60 01 547 684",
+      "60 01 549 211",
+      "77 01 204 282",
+      "86 71 000 083"
+    ],
+    "RENAULT": [
+      "60 01 547 684",
+      "60 01 549 211",
+      "77 00 704 705",
+      "77 01 204 282",
+      "86 71 000 083"
+    ]
+  },
+  "eanNumber": "3322936101307",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "12"
+    ],
+    "MinimumThicknessValues": [
+      "10,5"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "41"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "238"
+    ],
+    "BoltHoleCircle": [
+      "100"
+    ],
+    "NumberOfHoles": [
+      "4"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E190R-02C0190/0541"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "61"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "12,6"
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "reference": "DF1016",
+  "id": "DF1016",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "NISSAN": [
+      "40206-00Q0D",
+      "40206-00QAJ"
+    ],
+    "RENAULT": [
+      "77 00 756 572",
+      "77 01 204 286",
+      "86 71 000 085"
+    ]
+  },
+  "eanNumber": "3322936101604",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "20,1"
+    ],
+    "MinimumThicknessValues": [
+      "17,7"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "41"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "238"
+    ],
+    "BoltHoleCircle": [
+      "100"
+    ],
+    "NumberOfHoles": [
+      "4"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E190R-02 C0176/0617"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "61"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "13"
+    ]
+  }
+}

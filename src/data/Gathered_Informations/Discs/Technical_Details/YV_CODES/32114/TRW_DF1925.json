@@ -1,0 +1,90 @@
+{
+  "reference": "DF1925",
+  "id": "DF1925",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "BEDFORD": [
+      "5551182"
+    ],
+    "BYD": [
+      "3501104"
+    ],
+    "CHANGAN": [
+      "5511182000"
+    ],
+    "MARUTI": [
+      "5551182000"
+    ],
+    "OPEL": [
+      "4291567",
+      "91138222"
+    ],
+    "SUZUKI": [
+      "5,5511784e+012",
+      "55311-60B11",
+      "55311-60B11-000",
+      "55511-78400",
+      "55511-78401",
+      "55511-82000",
+      "55511-82001",
+      "5551178401000",
+      "5551182000000",
+      "5551182001000",
+      "55511M82000",
+      "55511M82010A"
+    ],
+    "VAUXHALL": [
+      "91122289",
+      "91138222"
+    ]
+  },
+  "eanNumber": "3322936192503",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "10"
+    ],
+    "MinimumThicknessValues": [
+      "9"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "33"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "215"
+    ],
+    "BoltHoleCircle": [
+      "102"
+    ],
+    "NumberOfHoles": [
+      "4"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "86"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "M10 x 1.25"
+    ]
+  }
+}

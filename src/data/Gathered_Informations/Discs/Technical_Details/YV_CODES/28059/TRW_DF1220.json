@@ -1,0 +1,77 @@
+{
+  "reference": "DF1220",
+  "id": "DF1220",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "CITROËN": [
+      "1690 02",
+      "4246 97",
+      "4246 B1",
+      "4246 R5",
+      "4246 W6",
+      "4249 F0",
+      "95 632 048",
+      "95 667 809",
+      "E 169 002"
+    ],
+    "PEUGEOT": [
+      "4246 97",
+      "4246 B1",
+      "4246 R3",
+      "4246 W5",
+      "4249 F0",
+      "E 169 002"
+    ]
+  },
+  "eanNumber": "3322936122005",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "20,5"
+    ],
+    "MinimumThicknessValues": [
+      "18,5"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "27,4"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "266"
+    ],
+    "BoltHoleCircle": [
+      "108"
+    ],
+    "NumberOfHoles": [
+      "4"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E190R-02C0185/0603"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "66"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "13,6"
+    ]
+  }
+}

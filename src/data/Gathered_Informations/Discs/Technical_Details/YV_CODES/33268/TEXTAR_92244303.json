@@ -1,0 +1,68 @@
+{
+  "reference": "92244303",
+  "id": "92244303",
+  "name": "Fren diski PRO",
+  "brand": "TEXTAR",
+  "brand_oe_map": {
+    "FIAT": [
+      "51808471",
+      "51885409",
+      "52048984",
+      "52048985",
+      "52067389",
+      "52067390"
+    ]
+  },
+  "eanNumber": "4019722450402",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "10"
+    ],
+    "MinimumThicknessValues": [
+      "8"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "40,6"
+    ],
+    "InnerDiameter": [
+      "128"
+    ],
+    "OuterDiameter": [
+      "251"
+    ],
+    "BoltHoleCircle": [
+      "98"
+    ],
+    "NumberOfHoles": [
+      "05/10"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "59"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "05/10"
+    ],
+    "WheelBoltBoreDiameter": [
+      "13,3"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

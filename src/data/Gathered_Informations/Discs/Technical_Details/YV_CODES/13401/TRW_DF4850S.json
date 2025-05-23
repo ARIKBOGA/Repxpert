@@ -1,0 +1,85 @@
+{
+  "reference": "DF4850S",
+  "id": "DF4850S",
+  "name": "Fren diski TRW SINGLE",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "FORD": [
+      "1379965",
+      "1384689",
+      "1405510",
+      "1420600",
+      "1420601",
+      "1469085",
+      "1500158",
+      "6G91-2C375-FA",
+      "7G91-1125-BA"
+    ],
+    "LAND ROVER": [
+      "LR000571",
+      "LR007055"
+    ],
+    "VOLVO": [
+      "30736311",
+      "30769056",
+      "31202327",
+      "31202331",
+      "31341382"
+    ],
+    "VOLVO ASIA": [
+      "31341382"
+    ]
+  },
+  "eanNumber": "3322937928620",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "28"
+    ],
+    "MinimumThicknessValues": [
+      "26"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "52"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "300"
+    ],
+    "BoltHoleCircle": [
+      "108"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E190R-02C0176/0492"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "63,5"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [
+      "Yüksek karbonlu"
+    ],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "15,75"
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "reference": "DF2777",
+  "id": "DF2777",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "FORD": [
+      "1001094",
+      "1023605",
+      "1044570",
+      "1045995",
+      "1137985",
+      "1137986",
+      "1526694",
+      "95VW-X2A315-A1D",
+      "95VWX 2A315 AD",
+      "95VWX2A315AE",
+      "95WX-2A315-AB"
+    ],
+    "SEAT": [
+      "7M0 615 601 A",
+      "7M0 615 601 B",
+      "7M0 615 601 C",
+      "7MO 615 601 C"
+    ],
+    "VW": [
+      "7M0 615 601 A",
+      "7M0 615 601 B",
+      "7M0 615 601 C",
+      "7MO 615 601 A"
+    ]
+  },
+  "eanNumber": "3322937187041",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "10"
+    ],
+    "MinimumThicknessValues": [
+      "8"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "45,8"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "268"
+    ],
+    "BoltHoleCircle": [
+      "112"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E190R-02C0190/0535"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "68"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "16,8"
+    ]
+  }
+}

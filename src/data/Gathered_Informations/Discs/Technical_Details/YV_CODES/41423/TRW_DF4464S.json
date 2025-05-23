@@ -1,0 +1,94 @@
+{
+  "reference": "DF4464S",
+  "id": "DF4464S",
+  "name": "Fren diski TRW SINGLE",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "AUDI": [
+      "1K0 615 301 AA",
+      "5C0 615 301 B",
+      "5Q0 615 301 F"
+    ],
+    "CUPRA": [
+      "5Q0 615 301 F"
+    ],
+    "SEAT": [
+      "1K0 615 301 AA",
+      "5C0 615 301 B",
+      "5Q0 615 301 F",
+      "JZW 615 301 H"
+    ],
+    "SKODA": [
+      "1K0 615 301 AA",
+      "5C0 615 301 B",
+      "5Q0 615 301 F",
+      "JZW 615 301 H"
+    ],
+    "VW": [
+      "1K0 615 301 AA",
+      "5C0 615 301 B",
+      "5C0 615 301 E",
+      "5Q0 615 301 F",
+      "JZW 615 301 H"
+    ],
+    "VW (FAW)": [
+      "1K0 615 301",
+      "L3CD615301"
+    ],
+    "VW (SVW)": [
+      "1KD 615 301 D"
+    ]
+  },
+  "eanNumber": "3322937685219",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "25"
+    ],
+    "MinimumThicknessValues": [
+      "22"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "49,9"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "312"
+    ],
+    "BoltHoleCircle": [
+      "112"
+    ],
+    "NumberOfHoles": [
+      "9"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E190R-02 C0176/0613"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Cıvatalar ile"
+    ],
+    "CenteringDiameter": [
+      "65"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "15,4"
+    ]
+  }
+}

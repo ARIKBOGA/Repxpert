@@ -1,0 +1,80 @@
+{
+  "reference": "DF6113S",
+  "id": "DF6113S",
+  "name": "Fren diski TRW SINGLE",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "OPEL": [
+      "13501940",
+      "13502215",
+      "13576781",
+      "13579153",
+      "5 69 080",
+      "5 69 081",
+      "5 69 274",
+      "5 69 335"
+    ],
+    "SAAB": [
+      "13576781",
+      "5 69 080"
+    ],
+    "VAUXHALL": [
+      "13501940",
+      "13502215",
+      "13576781",
+      "13579153",
+      "5 69 080",
+      "5 69 081",
+      "5 69 274",
+      "5 69 335"
+    ]
+  },
+  "eanNumber": "3322938090142",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "30"
+    ],
+    "MinimumThicknessValues": [
+      "27"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "50,1"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "337"
+    ],
+    "BoltHoleCircle": [
+      "120"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E1 90R-02 C0176/0601"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "67,4"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": []
+  }
+}

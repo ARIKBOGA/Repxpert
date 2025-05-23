@@ -1,0 +1,77 @@
+{
+  "reference": "DF4828S",
+  "id": "DF4828S",
+  "name": "Fren diski TRW SINGLE",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "LEXUS": [
+      "43512-33130",
+      "43512-33140",
+      "43512-42050",
+      "43512-42090"
+    ],
+    "SCION": [
+      "43512-42050"
+    ],
+    "TOYOTA": [
+      "43512-33130",
+      "43512-33140",
+      "43512-42050",
+      "43512-42090",
+      "43512-42100"
+    ],
+    "TOYOTA (GAC)": [
+      "43512-0F040"
+    ]
+  },
+  "eanNumber": "3322937891696",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "28"
+    ],
+    "MinimumThicknessValues": [
+      "25"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "49,3"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "296"
+    ],
+    "BoltHoleCircle": [
+      "114,3"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E190R-02C0176/0492"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "62"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "14,6"
+    ]
+  }
+}

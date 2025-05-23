@@ -1,0 +1,70 @@
+{
+  "reference": "78BD6548-1",
+  "id": "78BD6548-1",
+  "name": "Fren diski",
+  "brand": "ICER",
+  "brand_oe_map": {
+    "FORD": [
+      "1 812 200",
+      "1 822 205",
+      "BK31-1125-AB",
+      "BK31-1125-AC",
+      "CK4Z-1125-A",
+      "CK4Z-1125-B"
+    ]
+  },
+  "eanNumber": "8424073148018",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "28"
+    ],
+    "MinimumThicknessValues": [
+      "28"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "61"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "308"
+    ],
+    "BoltHoleCircle": [
+      "113,5"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [
+      "Front"
+    ],
+    "TechnicalInformationNumber": [
+      "78BD6548-1"
+    ],
+    "TestMark": [
+      "E1 90R-02C0339/1729"
+    ],
+    "Diameter": [
+      "93,1"
+    ],
+    "Thickness": [
+      "31"
+    ],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "93,1"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "5"
+    ],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

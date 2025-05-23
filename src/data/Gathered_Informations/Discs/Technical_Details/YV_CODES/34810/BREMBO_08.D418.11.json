@@ -1,0 +1,66 @@
+{
+  "reference": "08.D418.11",
+  "id": "08.D418.11",
+  "name": "Fren diski PRIME LINE - UV Coated",
+  "brand": "BREMBO",
+  "brand_oe_map": {
+    "LEXUS": [
+      "4243178010"
+    ],
+    "TOYOTA": [
+      "4243106180",
+      "4243178010",
+      "4343106180"
+    ],
+    "TOYOTA (FAW)": [
+      "4243106190",
+      "42431F4010"
+    ],
+    "TOYOTA (GAC)": [
+      "4243106190",
+      "4243178010"
+    ]
+  },
+  "eanNumber": "8020584236659",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "112"
+    ],
+    "MinimumThicknessValues": [
+      "10,5"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "44"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "281"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "62"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}
