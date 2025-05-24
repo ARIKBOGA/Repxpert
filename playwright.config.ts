@@ -7,7 +7,8 @@ import path from "path";
  * https://github.com/motdotla/dotenv
  */
 
-dotenv.config({ path: path.resolve(__dirname, '.env') });
+// .env dosyasını yükle
+dotenv.config({ path: path.resolve(__dirname, 'src/data/Configs/.env') });
 
 /**
  * See https://playwright.dev/docs/test-configuration.
