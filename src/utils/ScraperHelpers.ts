@@ -14,7 +14,7 @@ export async function goToSearchResults(
   retryList: string[],
   addToRetryList: (oe: string) => void
 ): Promise<Locator[] | null> {
-  await page.goto(ConfigReader.getEnvVariable("REPXPERT_URL") || "");
+  await page.goto(process.env.REPXPERT_URL as string);
   await page.waitForLoadState('domcontentloaded');
   await page.waitForLoadState('networkidle');
   await page.waitForTimeout(1500);
@@ -54,7 +54,7 @@ export async function goToSearchResultsEnglish(
 ): Promise<Locator[] | null> {
 
   // İngilizce RepXpert sayfasına git
-  await page.goto(ConfigReader.getEnvVariable("REPXPERT_HOME_ENGLISH_URL") || "");
+  await page.goto(process.env.REPXPERT_HOME_ENGLISH_URL as string);
   await page.waitForLoadState('domcontentloaded');
   await page.waitForLoadState('networkidle');
   await page.waitForTimeout(1500);
@@ -86,9 +86,9 @@ export async function goToSearchResultsEnglish(
 }
 
 export async function loginEnglishRepxpertPage(page: Page) {
-  const url = ConfigReader.getEnvVariable("REPXPERT_ENGLISH_URL");
-  const email = ConfigReader.getEnvVariable("REPXPERT_ENGLISH_EMAIL");
-  const password = ConfigReader.getEnvVariable("REPXPERT_ENGLISH_PASSWORD");
+  const url = process.env.REPXPERT_ENGLISH_URL as string;
+  const email = process.env.REPXPERT_ENGLISH_EMAIL as string;
+  const password = process.env.REPXPERT_ENGLISH_PASSWORD as string;
   await page.goto(url);
   await page.waitForLoadState('domcontentloaded');
   await page.waitForLoadState('networkidle');
@@ -119,6 +119,9 @@ export interface ProductReference {
 }
 
 export function readProductReferencesFromExcel(productType: string): ProductReference[] {
+  if (!productType) {
+    throw new Error("productType is undefined. Please provide a valid productType.");
+  }
   const excelPath = path.resolve(__dirname, `../data/katalogInfo/excels/${productType}_katalog_full.xlsx`);
   const workbook = xlsx.readFile(excelPath);
   const sheet = workbook.Sheets[workbook.SheetNames[0]];
