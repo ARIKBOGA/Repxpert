@@ -10,9 +10,11 @@
   "description": "",
   "devDependencies": {
     "@playwright/test": "^1.52.0",
+    "@types/dotenv": "^6.1.1",
     "@types/fs-extra": "^11.0.4",
     "@types/node": "^22.14.1",
-    "@types/xlsx": "^0.0.35"
+    "@types/xlsx": "^0.0.35",
+    "dotenv": "^16.5.0"
   },
   "dependencies": {
     "fast-glob": "^3.3.3",
