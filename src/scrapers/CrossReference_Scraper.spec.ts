@@ -4,6 +4,7 @@ import ConfigReader from '../utils/ConfigReader';
 import * as fs from 'fs';
 import * as path from 'path';
 import { getSubfolderNamesSync, balata_katalog_full } from '../utils/FileHelpers';
+import { time } from 'console';
 
 // Çiftleri temsil eden arayüz
 interface StringPair {
@@ -51,21 +52,29 @@ test.describe('YV NO ve Textar kodları ile Cross Numbers tarayıcı', () => {
                 await page.getByText('&amp;lt;br /&amp;gt;&amp;lt;p').contentFrame().getByRole('textbox', { name: 'Cross reference' }).fill(ref);
                 await page.getByText('&amp;lt;br /&amp;gt;&amp;lt;p').contentFrame().getByRole('button', { name: 'Filter' }).click();
                 await page.waitForLoadState('networkidle')
-                await page.waitForTimeout(2000);
+                await page.waitForTimeout(1200);
 
                 // iframe e gir
                 const iframe = page.frameLocator('#frmCatalogo');
 
                 // Birden fazla ürün çıksa dahi aranan kodun bulunduğu ilk ürünü seç
-                const productLink = iframe.locator("//h3/a");
-                if (await productLink.count() > 0) { // Check if at least one product link exists
-                    // Always click the first one, whether there's one or many
-                    await productLink.first().click();
-                    await page.waitForTimeout(1500);
-                } else {
-                    // Handle the case where no product links are found, e.g., log a warning or throw an error
-                    console.warn(`No product link found for the reference: ${searchBrand} - ${ref}`);
+                const productLink = iframe.locator(`//h3/a[.='${refBrand} Brake pad set']`);
+
+                try {
+                    await productLink.click({timeout: 3000}); // Click the product link if it exists in 3 seconds
+                } catch (error) {
+                    if( error instanceof Error && error.message.includes('Timeout')) {
+                        console.warn(`Product link for ${searchBrand} - ${ref} not found within 3 seconds.`);
+                    }
                 }
+                // if (await productLink.count() > 0) { // Check if at least one product link exists
+                //     // Always click the first one, whether there's one or many
+                //     await productLink.first().click();
+                //     await page.waitForTimeout(1500);
+                // } else {
+                //     // Handle the case where no product links are found, e.g., log a warning or throw an error
+                //     console.warn(`No product link found for the reference: ${searchBrand} - ${ref}`);
+                // }
 
                 await page.waitForLoadState('networkidle')
                 const productTitlePromise = iframe.locator('//h2').nth(1).textContent() || 'Unknown Product';
@@ -81,6 +90,8 @@ test.describe('YV NO ve Textar kodları ile Cross Numbers tarayıcı', () => {
 
                 // Scrooll to the bottom of the page to make visible all elements. Sometimes some of the elements are not visible and not clickable.
                 await page.evaluate(() => {
+                    window.resizeTo(1920, 1080); // Set the window size to 1920x1080
+                    window.resizeBy(0, 1000); // Resize the window to make sure the content is fully visible
                     window.scrollTo(0, document.body.scrollHeight);
                 });
                 await page.waitForTimeout(1000);
