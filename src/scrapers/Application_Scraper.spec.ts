@@ -21,7 +21,7 @@ const manualArray: string[] = ["92232305"];
 let retryList = readJsonFile<string[]>(retryListFilePath, []);
 
 test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
-  const filterBrand = ConfigReader.getEnvVariable("FILTER_BRAND_APPLICATION");
+  const filterBrand = process.env.FILTER_BRAND_APPLICATION || "BREMBO";
 
   for (const cross of manualArray) {
     test(`${filterBrand} - ${cross} ürününün araç uyumluluklarını getir`, async ({

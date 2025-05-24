@@ -9,7 +9,7 @@ import { getTextContent, getMultipleTexts, addToRetryList, getDimensionValuesSma
 import { goToSearchResults, mapToSerializableObject, readProductReferencesFromExcel } from '../utils/ScraperHelpers';
 
 // Çalışılacak ürün tipini seç
-const productType = ConfigReader.getEnvVariable("PRODUCT_TYPE");
+const productType = process.env.PRODUCT_TYPE as string; // Örnek: 'Pads', 'Discs', 'Drums' vb.
 
 // JSON dosyasından OE numaralarını oku
 const oePath = path.resolve(__dirname, '../data/Configs/search_references.json');

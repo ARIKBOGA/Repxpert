@@ -2,9 +2,10 @@ import * as fs from 'fs';
 import * as path from 'path';
 import * as xlsx from 'xlsx';
 import { formatDateTime } from '../utils/DateHelper';
-import ConfigReader from '../utils/ConfigReader';
+import dotenv from 'dotenv';
+dotenv.config({ path: path.resolve(__dirname, '../../.env') });
 
-const productType = ConfigReader.getEnvVariable("PRODUCT_TYPE");
+const productType = process.env.PRODUCT_TYPE || 'Pads'; // 'Pads' default. .env file içinden atanabilir.
 
 async function convertCrossNumbersJsonToExcel() {
     const rootDir = path.join(__dirname, '..', 'data', 'Gathered_Informations', productType, 'CrossNumbers', 'YV_CODES');
