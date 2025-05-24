@@ -32,19 +32,16 @@ export function getSubfolderNamesSync(dirPath: string): string[] {
 
 export const balata_katalog_full = [
 
-  { yvNo: "22235201", brandRefs: { "ICER": "182235" } },
-  { yvNo: "23183201", brandRefs: { "ICER": "181550" } },
-  { yvNo: "23652201", brandRefs: { "ICER": "181187" } },
-  { yvNo: "23709204", brandRefs: { "ICER": "181440-203" } },
-  { yvNo: "23793201", brandRefs: { "ICER": "181683" } },
-  { yvNo: "24137201", brandRefs: { "ICER": "181651" } },
-  { yvNo: "24142201", brandRefs: { "ICER": "181805" } },
-  { yvNo: "24170201", brandRefs: { "ICER": "181919" } },
-  { yvNo: "25014201", brandRefs: { "ICER": "182063" } },
-  { yvNo: "25147303", brandRefs: { "ICER": "141999" } },
-  { yvNo: "25965201", brandRefs: { "ICER": "182188" } },
-  { yvNo: "25603206", brandRefs: { "ICER": "142116-203" } },
-  { yvNo: "24098401", brandRefs: { "ICER": "181789" } },
+  { yvNo: "21719201", brandRefs: { "ICER": "180798" } },
+  // { yvNo: "23793201", brandRefs: { "ICER": "181683" } },
+  // { yvNo: "24137201", brandRefs: { "ICER": "181651" } },
+  // { yvNo: "24142201", brandRefs: { "ICER": "181805" } },
+  // { yvNo: "24170201", brandRefs: { "ICER": "181919" } },
+  // { yvNo: "25014201", brandRefs: { "ICER": "182063" } },
+  // { yvNo: "25147303", brandRefs: { "ICER": "141999" } },
+  // { yvNo: "25965201", brandRefs: { "ICER": "182188" } },
+  // { yvNo: "25603206", brandRefs: { "ICER": "142116-203" } },
+  // { yvNo: "24098401", brandRefs: { "ICER": "181789" } },
   
 
 ];
