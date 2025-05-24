@@ -4,7 +4,7 @@ import ConfigReader from '../utils/ConfigReader';
 import * as fs from 'fs';
 import * as path from 'path';
 import { getSubfolderNamesSync, balata_katalog_full } from '../utils/FileHelpers';
-import { time } from 'console';
+
 
 // Çiftleri temsil eden arayüz
 interface StringPair {
@@ -14,7 +14,7 @@ interface StringPair {
 
 
 // Çalışılacak ürün tipini seç
-const productType = ConfigReader.getEnvVariable("PRODUCT_TYPE");
+const productType = process.env.PRODUCT_TYPE as string; // Örnek: 'Pads', 'Discs', 'Drums' vb.
 
 // Ürün tipine karşılık gelen Excel dosyasından katalog bilgilerini oku
 const references : ProductReference[] = readProductReferencesFromExcel(productType);
@@ -22,7 +22,7 @@ const references : ProductReference[] = readProductReferencesFromExcel(productTy
 
 test.describe('YV NO ve Textar kodları ile Cross Numbers tarayıcı', () => {
 
-    for (const ref of balata_katalog_full) {
+    for (const ref of references) {
         const yvNo = ref.yvNo;
         const brandRefs = ref.brandRefs;
         const searchBrand = 'ICER';
@@ -43,7 +43,7 @@ test.describe('YV NO ve Textar kodları ile Cross Numbers tarayıcı', () => {
         for (const ref of refs) {
             test(`${yvNo} / ${searchBrand} - ${ref} koduyla veri topla`, async ({ page }) => {
 
-                await page.goto(ConfigReader.getEnvVariable("CROSS_NUMBERS_URL"));
+                await page.goto(process.env.CROSS_NUMBERS_URL as string);
                 await page.waitForLoadState("domcontentloaded")
 
                 await page.getByText('&amp;lt;br /&amp;gt;&amp;lt;p').contentFrame().getByRole('link', { name: 'Cross reference' }).click();
