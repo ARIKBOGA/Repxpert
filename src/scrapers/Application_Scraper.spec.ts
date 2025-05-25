@@ -3,38 +3,52 @@ import { Application } from "../types/Application";
 import fs from "fs";
 import path from "path";
 import { addToRetryList, getTextContent } from "../utils/extractHelpers";
-import ConfigReader from "../utils/ConfigReader";
 import { selector } from "../utils/Selectors";
-import { readJsonFile, retryListFilePath } from "../utils/FileHelpers";
-import { goToSearchResults } from "../utils/ScraperHelpers";
+import { readJsonFile, retryListFilePath, padPairs } from "../utils/FileHelpers";
+import { goToSearchResults, ProductReference, readProductReferencesFromExcel } from "../utils/ScraperHelpers";
 
-const crossNumbersPath = path.resolve(
-  __dirname,
-  "../data/Gathered_Informations/Pads/Resources/references_of_pads.json"
-);
-const crossNumbers: string[] = JSON.parse(
-  fs.readFileSync(crossNumbersPath, "utf-8")
-);
 
-const manualArray: string[] = ["92232305"];
+// Çalışılacak ürün tipini seç
+const productType = process.env.PRODUCT_TYPE as string; // Örnek: 'Pads', 'Discs', 'Drums' vb.
+const filterBrand = process.env.FILTER_BRAND_APPLICATION as string; // Örnek: 'ICER', 'TEXTAR' vb.
+
+// Ürün tipine karşılık gelen Excel dosyasından katalog bilgilerini oku
+const references : ProductReference[] = readProductReferencesFromExcel(productType);
+
+const scrapedCrosses : Set<string> = new Set<string>();
 
 let retryList = readJsonFile<string[]>(retryListFilePath, []);
 
 test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
-  const filterBrand = process.env.FILTER_BRAND_APPLICATION || "BREMBO";
 
-  for (const cross of manualArray) {
-    test(`${filterBrand} - ${cross} ürününün araç uyumluluklarını getir`, async ({
-      page,
-    }) => {
+  for (const ref of references) {
+    // Excel den okunan satırlardan yvNo ve brandRefs değerlerini al
+    const YV = ref.yvNo;
+    let cross = ref.brandRefs && (ref.brandRefs[filterBrand] as string);
+
+    if (!cross || cross === "") {
+      console.log(`YV No: ${YV} için geçerli bir referans kodu bulunamadı.`);
+      continue; // Geçerli bir referans kodu yoksa next iteration a geç
+    }
+
+    if(cross.includes(",")){
+      console.warn(`⚠️ ${cross} birden fazla referans içeriyor, bu durumda sadece ilk referansı kullanılıyor.`);
+      const firstCross = cross.split(",")[0].trim();
+      console.log(`İlk referans: ${firstCross}`);
+      cross = firstCross; // Sadece ilk referansı kullan
+    }
+
+    if (scrapedCrosses.has(cross)) {
+      console.log(`✅ ${cross} zaten işlendi, atlanıyor.`);
+      continue; // Eğer bu cross zaten işlendi ise atla
+    }
+    scrapedCrosses.add(cross); // İşlenen crossları kaydet
+    
+    test(`${filterBrand} - ${cross} ürününün araç uyumluluklarını getir`, async ({page,}) => {
+      
       try {
-        const productLinks = await goToSearchResults(
-          page,
-          cross,
-          filterBrand,
-          retryList,
-          addToRetryList
-        );
+        const productLinks = await goToSearchResults(page, cross, filterBrand, retryList, addToRetryList);
+        
         if (!productLinks) return;
 
         console.log(`🔍 ${cross} için ürünü işliyor...`);
@@ -48,9 +62,7 @@ test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
         await page.waitForSelector(selector.aria_level_1_brand);
         await page.waitForTimeout(500); // Kısa bekleme
 
-        const productTitle =
-          (await getTextContent(page.locator(".h1").nth(0))) ||
-          "Unknown Product";
+        const productTitle = (await getTextContent(page.locator(".h1").nth(0))) || "Unknown Product";
         const productProducer = productTitle.split(" ")[0];
         const brands = page.locator(selector.aria_level_1_brand);
         const applications = new Array<Application>();
@@ -68,9 +80,7 @@ test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
           await page.waitForTimeout(2000); // Kısa bekleme
 
           try {
-            await page.waitForSelector(selector.aria_level_2_vehicle, {
-              timeout: 5000,
-            });
+            await page.waitForSelector(selector.aria_level_2_vehicle, {timeout: 5000});
           } catch {
             console.warn(`⚠️ ${brand} için araç listesi yüklenemedi.`);
             continue;
@@ -78,9 +88,7 @@ test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
 
           const processedVehicles = new Set<string>();
 
-          const vehicleCount = await page
-            .locator(selector.aria_level_2_vehicle)
-            .count();
+          const vehicleCount = await page.locator(selector.aria_level_2_vehicle).count();
 
           // Vehicle listesindeki her bir item için
           for (let j = 0; j < vehicleCount; j++) {
@@ -103,16 +111,13 @@ test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
           
             await vehicleEl.click(); // tekrar aç
             await page.waitForTimeout(2500); // açılmasını bekle
-            await page.waitForSelector(selector.aria_level_3_rows, {
-              state: "visible",
-              timeout: 5000,
-            });
+            await page.waitForSelector(selector.aria_level_3_rows, { state: "visible", timeout: 5000});
+            
             if(!page.locator(selector.aria_level_3_rows) || await page.locator(selector.aria_level_3_rows).count() === 0) {
               console.warn(`⚠️⚠️⚠️ ${brand} - ${vehicle} için satır bulunamadı ⚠️⚠️⚠️`);
               continue;
             }
 
-          
             const rows = page.locator(selector.aria_level_3_rows);
             const rowCount = await rows.count();
           
@@ -122,13 +127,16 @@ test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
             }
           
             for (let k = 0; k < rowCount; k++) {
-              const cells = page.locator(
-                selector.cells_part_1 + (k + 1) + selector.cells_part_2
-              );
+
+              const rowSelector = selector.cells_part_1 + (k + 1) + selector.cells_part_2;
+              const cells = page.locator(rowSelector);
               const cellTexts = await cells.allTextContents();
               const cellValues = cellTexts
                 .map((text) => text.trim())
                 .filter((text) => text !== "");
+
+              const engineCodes =  (await page.locator(`(${rowSelector})[6]//span`).allTextContents()).map(text => text.trim()).join(", ").trim();
+              const KBA_Numbers =  (await page.locator(`(${rowSelector})[7]//span`).allTextContents()).map(text => text.trim()).join(", ").trim();
           
               applications.push({
                 brand,
@@ -138,8 +146,8 @@ test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
                 kw: cellValues[2] || "",
                 hp: cellValues[3] || "",
                 cc: cellValues[4] || "",
-                engineCodes: cellValues[5] || "",
-                KBA_Numbers: cellValues[6] || "",
+                engineCodes: engineCodes,
+                KBA_Numbers: KBA_Numbers
               });
             }
           
@@ -153,10 +161,7 @@ test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
           await page.waitForTimeout(1000);
         }
 
-        const productProducerFolderPath = path.join(
-          "src/data/Gathered_Informations/Pads/Applications",
-          productProducer || "UnknownBrand"
-        );
+        const productProducerFolderPath = path.join("src/data/Gathered_Informations/Pads/Applications",productProducer || "UnknownBrand");
 
         if (!fs.existsSync(productProducerFolderPath)) {
           fs.mkdirSync(productProducerFolderPath, { recursive: true });
@@ -170,14 +175,8 @@ test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
         const fileName = `${productProducer}_${cross}.json`;
         const filePath = path.join(oeFolderPath, fileName);
 
-        fs.writeFileSync(
-          filePath,
-          JSON.stringify(applications, null, 2),
-          "utf-8"
-        );
-        console.log(
-          `✅ ${cross} için ${fileName} üzerine yazılarak kaydedildi.`
-        );
+        fs.writeFileSync(filePath, JSON.stringify(applications, null, 2), "utf-8");
+        console.log(`✅ ${cross} için ${fileName} üzerine yazılarak kaydedildi.`);
       } catch (err) {
         console.error(`❌ ${cross} için hata:`, err);
         addToRetryList(cross);

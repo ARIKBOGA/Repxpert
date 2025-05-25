@@ -1,18 +1,18 @@
 [
   {
-    "brand": " SEAT ",
-    "model": " CORDOBA (6K1, 6K2) ",
+    "brand": "SEAT",
+    "model": "CORDOBA (6K1, 6K2)",
     "engineType": "1.0 i",
     "madeYear": "09.1996 - 10.2002",
     "kw": "37",
     "hp": "50",
     "cc": "999",
-    "engineCodes": "AUC  ANV  ALD  AER",
-    "KBA_Numbers": "7593424  7593463"
+    "engineCodes": "AUC, ANV, ALD, AER",
+    "KBA_Numbers": "7593424, 7593463"
   },
   {
-    "brand": " SEAT ",
-    "model": " CORDOBA (6K1, 6K2) ",
+    "brand": "SEAT",
+    "model": "CORDOBA (6K1, 6K2)",
     "engineType": "1.4",
     "madeYear": "12.1997 - 04.1999",
     "kw": "40",
@@ -22,30 +22,30 @@
     "KBA_Numbers": "7593436"
   },
   {
-    "brand": " SEAT ",
-    "model": " CORDOBA (6K1, 6K2) ",
+    "brand": "SEAT",
+    "model": "CORDOBA (6K1, 6K2)",
     "engineType": "1.4 i",
     "madeYear": "06.1994 - 10.2002",
     "kw": "44",
     "hp": "60",
     "cc": "1389",
-    "engineCodes": "AKK  ANW  AUD  APQ  AKV  AEX  ABD",
-    "KBA_Numbers": "7593403  7593446  7593362"
+    "engineCodes": "AKK, ANW, AUD, APQ, AKV, AEX, ABD",
+    "KBA_Numbers": "7593403, 7593446, 7593362"
   },
   {
-    "brand": " SEAT ",
-    "model": " CORDOBA (6K1, 6K2) ",
+    "brand": "SEAT",
+    "model": "CORDOBA (6K1, 6K2)",
     "engineType": "1.4 i 16V",
     "madeYear": "09.1996 - 10.2002",
     "kw": "74",
     "hp": "101",
     "cc": "1390",
-    "engineCodes": "AUB  AQQ  AFH",
-    "KBA_Numbers": "7593409  7593471"
+    "engineCodes": "AUB, AQQ, AFH",
+    "KBA_Numbers": "7593409, 7593471"
   },
   {
-    "brand": " SEAT ",
-    "model": " IBIZA II (6K1) ",
+    "brand": "SEAT",
+    "model": "IBIZA II (6K1)",
     "engineType": "1.0",
     "madeYear": "03.1993 - 09.1996",
     "kw": "33",
@@ -55,30 +55,30 @@
     "KBA_Numbers": "7593355"
   },
   {
-    "brand": " SEAT ",
-    "model": " IBIZA II (6K1) ",
+    "brand": "SEAT",
+    "model": "IBIZA II (6K1)",
     "engineType": "1.0 i",
     "madeYear": "09.1996 - 02.2002",
     "kw": "37",
     "hp": "50",
     "cc": "999",
-    "engineCodes": "ALD  ANV  AUC  AER",
-    "KBA_Numbers": "7593423  7593464"
+    "engineCodes": "ALD, ANV, AUC, AER",
+    "KBA_Numbers": "7593423, 7593464"
   },
   {
-    "brand": " SEAT ",
-    "model": " IBIZA II (6K1) ",
+    "brand": "SEAT",
+    "model": "IBIZA II (6K1)",
     "engineType": "1.3 i",
     "madeYear": "03.1993 - 08.1999",
     "kw": "40",
     "hp": "54",
     "cc": "1272",
-    "engineCodes": "AAV  2G",
+    "engineCodes": "AAV, 2G",
     "KBA_Numbers": "7593356"
   },
   {
-    "brand": " SEAT ",
-    "model": " IBIZA II (6K1) ",
+    "brand": "SEAT",
+    "model": "IBIZA II (6K1)",
     "engineType": "1.4",
     "madeYear": "12.1997 - 04.1999",
     "kw": "40",
@@ -88,30 +88,30 @@
     "KBA_Numbers": "7593435"
   },
   {
-    "brand": " SEAT ",
-    "model": " IBIZA II (6K1) ",
+    "brand": "SEAT",
+    "model": "IBIZA II (6K1)",
     "engineType": "1.4 i",
     "madeYear": "09.1993 - 02.2002",
     "kw": "44",
     "hp": "60",
     "cc": "1389",
-    "engineCodes": "ANW  AKK  AUD  APQ  AEX  AKV  ABD",
-    "KBA_Numbers": "7593370  7593402  7593448"
+    "engineCodes": "ANW, AKK, AUD, APQ, AEX, AKV, ABD",
+    "KBA_Numbers": "7593370, 7593402, 7593448"
   },
   {
-    "brand": " SEAT ",
-    "model": " IBIZA II (6K1) ",
+    "brand": "SEAT",
+    "model": "IBIZA II (6K1)",
     "engineType": "1.4 i 16V",
     "madeYear": "06.1997 - 02.2002",
     "kw": "74",
     "hp": "101",
     "cc": "1390",
-    "engineCodes": "AUB  AQQ  AFH",
-    "KBA_Numbers": "7593408  7593472"
+    "engineCodes": "AUB, AQQ, AFH",
+    "KBA_Numbers": "7593408, 7593472"
   },
   {
-    "brand": " VW ",
-    "model": " DERBY (86C, 80) ",
+    "brand": "VW",
+    "model": "DERBY (86C, 80)",
     "engineType": "1.0",
     "madeYear": "10.1981 - 12.1984",
     "kw": "29",
@@ -121,8 +121,8 @@
     "KBA_Numbers": "0600572"
   },
   {
-    "brand": " VW ",
-    "model": " DERBY (86C, 80) ",
+    "brand": "VW",
+    "model": "DERBY (86C, 80)",
     "engineType": "1.1",
     "madeYear": "10.1981 - 07.1983",
     "kw": "37",
@@ -132,8 +132,8 @@
     "KBA_Numbers": "0600574"
   },
   {
-    "brand": " VW ",
-    "model": " DERBY (86C, 80) ",
+    "brand": "VW",
+    "model": "DERBY (86C, 80)",
     "engineType": "1.3",
     "madeYear": "08.1981 - 07.1983",
     "kw": "44",
@@ -143,8 +143,8 @@
     "KBA_Numbers": "0600575"
   },
   {
-    "brand": " VW ",
-    "model": " DERBY (86C, 80) ",
+    "brand": "VW",
+    "model": "DERBY (86C, 80)",
     "engineType": "1.3",
     "madeYear": "09.1982 - 12.1984",
     "kw": "55",
@@ -154,8 +154,8 @@
     "KBA_Numbers": "0600581"
   },
   {
-    "brand": " VW ",
-    "model": " DERBY (86C, 80) ",
+    "brand": "VW",
+    "model": "DERBY (86C, 80)",
     "engineType": "1.3",
     "madeYear": "08.1983 - 12.1984",
     "kw": "40",
@@ -165,8 +165,8 @@
     "KBA_Numbers": "0600600"
   },
   {
-    "brand": " VW ",
-    "model": " POLO CLASSIC (86C, 80) ",
+    "brand": "VW",
+    "model": "POLO CLASSIC (86C, 80)",
     "engineType": "1.0",
     "madeYear": "01.1985 - 10.1986",
     "kw": "29",
@@ -176,41 +176,41 @@
     "KBA_Numbers": "0600572"
   },
   {
-    "brand": " VW ",
-    "model": " POLO CLASSIC (86C, 80) ",
+    "brand": "VW",
+    "model": "POLO CLASSIC (86C, 80)",
     "engineType": "1.0",
     "madeYear": "01.1985 - 09.1994",
     "kw": "33",
     "hp": "45",
     "cc": "1043",
-    "engineCodes": "AAK  AAU  ACM  HZ",
+    "engineCodes": "AAK, AAU, ACM, HZ",
     "KBA_Numbers": "0600663"
   },
   {
-    "brand": " VW ",
-    "model": " POLO CLASSIC (86C, 80) ",
+    "brand": "VW",
+    "model": "POLO CLASSIC (86C, 80)",
     "engineType": "1.3",
     "madeYear": "01.1985 - 07.1987",
     "kw": "40",
     "hp": "55",
     "cc": "1272",
-    "engineCodes": "MH  HK",
+    "engineCodes": "MH, HK",
     "KBA_Numbers": "0600600"
   },
   {
-    "brand": " VW ",
-    "model": " POLO CLASSIC (86C, 80) ",
+    "brand": "VW",
+    "model": "POLO CLASSIC (86C, 80)",
     "engineType": "1.3 Cat",
     "madeYear": "07.1987 - 09.1994",
     "kw": "40",
     "hp": "55",
     "cc": "1272",
-    "engineCodes": "NZ  MH",
+    "engineCodes": "NZ, MH",
     "KBA_Numbers": "0600600"
   },
   {
-    "brand": " VW ",
-    "model": " POLO CLASSIC (86C, 80) ",
+    "brand": "VW",
+    "model": "POLO CLASSIC (86C, 80)",
     "engineType": "1.3 D",
     "madeYear": "08.1986 - 12.1988",
     "kw": "33",
@@ -220,8 +220,8 @@
     "KBA_Numbers": "0600690"
   },
   {
-    "brand": " VW ",
-    "model": " POLO CLASSIC (86C, 80) ",
+    "brand": "VW",
+    "model": "POLO CLASSIC (86C, 80)",
     "engineType": "1.4 D",
     "madeYear": "10.1990 - 09.1994",
     "kw": "35",
@@ -231,8 +231,8 @@
     "KBA_Numbers": "0600842"
   },
   {
-    "brand": " VW ",
-    "model": " POLO Coupe (86C, 80) ",
+    "brand": "VW",
+    "model": "POLO Coupe (86C, 80)",
     "engineType": "1.0",
     "madeYear": "05.1982 - 10.1986",
     "kw": "29",
@@ -242,8 +242,8 @@
     "KBA_Numbers": "0600576"
   },
   {
-    "brand": " VW ",
-    "model": " POLO Coupe (86C, 80) ",
+    "brand": "VW",
+    "model": "POLO Coupe (86C, 80)",
     "engineType": "1.0",
     "madeYear": "08.1985 - 01.1992",
     "kw": "33",
@@ -253,19 +253,19 @@
     "KBA_Numbers": "0600662"
   },
   {
-    "brand": " VW ",
-    "model": " POLO Coupe (86C, 80) ",
+    "brand": "VW",
+    "model": "POLO Coupe (86C, 80)",
     "engineType": "1.0 Cat",
     "madeYear": "08.1989 - 09.1994",
     "kw": "33",
     "hp": "45",
     "cc": "1043",
-    "engineCodes": "ACM  AAK  AAU",
+    "engineCodes": "ACM, AAK, AAU",
     "KBA_Numbers": "0600662"
   },
   {
-    "brand": " VW ",
-    "model": " POLO Coupe (86C, 80) ",
+    "brand": "VW",
+    "model": "POLO Coupe (86C, 80)",
     "engineType": "1.3",
     "madeYear": "09.1982 - 09.1989",
     "kw": "55",
@@ -275,19 +275,19 @@
     "KBA_Numbers": "0600579"
   },
   {
-    "brand": " VW ",
-    "model": " POLO Coupe (86C, 80) ",
+    "brand": "VW",
+    "model": "POLO Coupe (86C, 80)",
     "engineType": "1.3",
     "madeYear": "08.1983 - 06.1987",
     "kw": "40",
     "hp": "55",
     "cc": "1272",
-    "engineCodes": "MH  HK",
+    "engineCodes": "MH, HK",
     "KBA_Numbers": "0600601"
   },
   {
-    "brand": " VW ",
-    "model": " POLO Coupe (86C, 80) ",
+    "brand": "VW",
+    "model": "POLO Coupe (86C, 80)",
     "engineType": "1.3",
     "madeYear": "03.1991 - 09.1994",
     "kw": "57",
@@ -297,19 +297,19 @@
     "KBA_Numbers": "0600773"
   },
   {
-    "brand": " VW ",
-    "model": " POLO Coupe (86C, 80) ",
+    "brand": "VW",
+    "model": "POLO Coupe (86C, 80)",
     "engineType": "1.3 Cat",
     "madeYear": "07.1987 - 08.1994",
     "kw": "40",
     "hp": "55",
     "cc": "1272",
-    "engineCodes": "2G  AAV  NZ  MH",
+    "engineCodes": "2G, AAV, NZ, MH",
     "KBA_Numbers": "0600601"
   },
   {
-    "brand": " VW ",
-    "model": " POLO Coupe (86C, 80) ",
+    "brand": "VW",
+    "model": "POLO Coupe (86C, 80)",
     "engineType": "1.3 Cat",
     "madeYear": "10.1989 - 09.1994",
     "kw": "55",
@@ -319,8 +319,8 @@
     "KBA_Numbers": "0600579"
   },
   {
-    "brand": " VW ",
-    "model": " POLO Coupe (86C, 80) ",
+    "brand": "VW",
+    "model": "POLO Coupe (86C, 80)",
     "engineType": "1.3 D",
     "madeYear": "08.1986 - 08.1990",
     "kw": "33",
@@ -330,8 +330,8 @@
     "KBA_Numbers": "0600691"
   },
   {
-    "brand": " VW ",
-    "model": " POLO Coupe (86C, 80) ",
+    "brand": "VW",
+    "model": "POLO Coupe (86C, 80)",
     "engineType": "1.4 D",
     "madeYear": "08.1990 - 09.1994",
     "kw": "35",
@@ -341,8 +341,8 @@
     "KBA_Numbers": "0600843"
   },
   {
-    "brand": " VW ",
-    "model": " POLO II (86C, 80) ",
+    "brand": "VW",
+    "model": "POLO II (86C, 80)",
     "engineType": "1.0",
     "madeYear": "10.1981 - 10.1986",
     "kw": "29",
@@ -352,8 +352,8 @@
     "KBA_Numbers": "0600568"
   },
   {
-    "brand": " VW ",
-    "model": " POLO II (86C, 80) ",
+    "brand": "VW",
+    "model": "POLO II (86C, 80)",
     "engineType": "1.0",
     "madeYear": "08.1985 - 01.1992",
     "kw": "33",
@@ -363,19 +363,19 @@
     "KBA_Numbers": "0600661"
   },
   {
-    "brand": " VW ",
-    "model": " POLO II (86C, 80) ",
+    "brand": "VW",
+    "model": "POLO II (86C, 80)",
     "engineType": "1.0 Cat",
     "madeYear": "08.1989 - 09.1994",
     "kw": "33",
     "hp": "45",
     "cc": "1043",
-    "engineCodes": "AAK  ACM  AAU",
+    "engineCodes": "AAK, ACM, AAU",
     "KBA_Numbers": "0600661"
   },
   {
-    "brand": " VW ",
-    "model": " POLO II (86C, 80) ",
+    "brand": "VW",
+    "model": "POLO II (86C, 80)",
     "engineType": "1.1",
     "madeYear": "10.1981 - 09.1989",
     "kw": "37",
@@ -385,8 +385,8 @@
     "KBA_Numbers": "0600570"
   },
   {
-    "brand": " VW ",
-    "model": " POLO II (86C, 80) ",
+    "brand": "VW",
+    "model": "POLO II (86C, 80)",
     "engineType": "1.3",
     "madeYear": "09.1982 - 09.1989",
     "kw": "55",
@@ -396,8 +396,8 @@
     "KBA_Numbers": "0600580"
   },
   {
-    "brand": " VW ",
-    "model": " POLO II (86C, 80) ",
+    "brand": "VW",
+    "model": "POLO II (86C, 80)",
     "engineType": "1.3",
     "madeYear": "08.1983 - 07.1985",
     "kw": "37",
@@ -407,30 +407,30 @@
     "KBA_Numbers": ""
   },
   {
-    "brand": " VW ",
-    "model": " POLO II (86C, 80) ",
+    "brand": "VW",
+    "model": "POLO II (86C, 80)",
     "engineType": "1.3",
     "madeYear": "08.1983 - 07.1988",
     "kw": "40",
     "hp": "55",
     "cc": "1272",
-    "engineCodes": "MH  HK",
+    "engineCodes": "MH, HK",
     "KBA_Numbers": "0600599"
   },
   {
-    "brand": " VW ",
-    "model": " POLO II (86C, 80) ",
+    "brand": "VW",
+    "model": "POLO II (86C, 80)",
     "engineType": "1.3 Cat",
     "madeYear": "07.1987 - 09.1994",
     "kw": "40",
     "hp": "55",
     "cc": "1272",
-    "engineCodes": "AAV  2G  NZ  MH",
+    "engineCodes": "AAV, 2G, NZ, MH",
     "KBA_Numbers": "0600599"
   },
   {
-    "brand": " VW ",
-    "model": " POLO II (86C, 80) ",
+    "brand": "VW",
+    "model": "POLO II (86C, 80)",
     "engineType": "1.3 Cat",
     "madeYear": "10.1989 - 03.1991",
     "kw": "55",
@@ -440,8 +440,8 @@
     "KBA_Numbers": "0600580"
   },
   {
-    "brand": " VW ",
-    "model": " POLO II (86C, 80) ",
+    "brand": "VW",
+    "model": "POLO II (86C, 80)",
     "engineType": "1.3 D",
     "madeYear": "08.1986 - 07.1990",
     "kw": "33",
@@ -451,8 +451,8 @@
     "KBA_Numbers": "0600689"
   },
   {
-    "brand": " VW ",
-    "model": " POLO II (86C, 80) ",
+    "brand": "VW",
+    "model": "POLO II (86C, 80)",
     "engineType": "1.4 D",
     "madeYear": "10.1990 - 09.1994",
     "kw": "35",
@@ -462,19 +462,19 @@
     "KBA_Numbers": "0600841"
   },
   {
-    "brand": " VW ",
-    "model": " POLO III (6N1) ",
+    "brand": "VW",
+    "model": "POLO III (6N1)",
     "engineType": "1.7 SDI",
     "madeYear": "04.1997 - 10.1999",
     "kw": "42",
     "hp": "57",
     "cc": "1716",
     "engineCodes": "AHG",
-    "KBA_Numbers": "0603538  0600270"
+    "KBA_Numbers": "0603538, 0600270"
   },
   {
-    "brand": " VW ",
-    "model": " POLO III (6N1) ",
+    "brand": "VW",
+    "model": "POLO III (6N1)",
     "engineType": "45 1.0",
     "madeYear": "10.1994 - 09.1996",
     "kw": "33",
@@ -484,19 +484,19 @@
     "KBA_Numbers": "0600960"
   },
   {
-    "brand": " VW ",
-    "model": " POLO III (6N1) ",
+    "brand": "VW",
+    "model": "POLO III (6N1)",
     "engineType": "50 1.0",
     "madeYear": "09.1996 - 10.1999",
     "kw": "37",
     "hp": "50",
     "cc": "999",
-    "engineCodes": "ALL  AER",
+    "engineCodes": "ALL, AER",
     "KBA_Numbers": "0600276"
   },
   {
-    "brand": " VW ",
-    "model": " POLO III (6N1) ",
+    "brand": "VW",
+    "model": "POLO III (6N1)",
     "engineType": "55 1.3",
     "madeYear": "10.1994 - 04.1997",
     "kw": "40",
@@ -506,30 +506,30 @@
     "KBA_Numbers": "0600952"
   },
   {
-    "brand": " VW ",
-    "model": " POLO III (6N1) ",
+    "brand": "VW",
+    "model": "POLO III (6N1)",
     "engineType": "55 1.4",
     "madeYear": "08.1995 - 10.1999",
     "kw": "40",
     "hp": "55",
     "cc": "1390",
-    "engineCodes": "AEX  ANX",
+    "engineCodes": "AEX, ANX",
     "KBA_Numbers": "0600299"
   },
   {
-    "brand": " VW ",
-    "model": " POLO III (6N1) ",
+    "brand": "VW",
+    "model": "POLO III (6N1)",
     "engineType": "60 1.4",
     "madeYear": "07.1995 - 10.1999",
     "kw": "44",
     "hp": "60",
     "cc": "1390",
-    "engineCodes": "AKV  APQ  AEX",
+    "engineCodes": "AKV, APQ, AEX",
     "KBA_Numbers": "0600300"
   },
   {
-    "brand": " VW ",
-    "model": " POLO III (6N1) ",
+    "brand": "VW",
+    "model": "POLO III (6N1)",
     "engineType": "60 1.7 SDI",
     "madeYear": "08.1997 - 10.1999",
     "kw": "44",
@@ -539,19 +539,19 @@
     "KBA_Numbers": "0600269"
   },
   {
-    "brand": " VW ",
-    "model": " POLO III (6N1) ",
+    "brand": "VW",
+    "model": "POLO III (6N1)",
     "engineType": "64 1.9 D",
     "madeYear": "10.1994 - 10.1999",
     "kw": "47",
     "hp": "64",
     "cc": "1896",
     "engineCodes": "AEF",
-    "KBA_Numbers": "0600964  0600258"
+    "KBA_Numbers": "0600964, 0600258"
   },
   {
-    "brand": " VW ",
-    "model": " POLO III (6N1) ",
+    "brand": "VW",
+    "model": "POLO III (6N1)",
     "engineType": "64 1.9 SDI",
     "madeYear": "07.1996 - 10.1999",
     "kw": "47",
@@ -561,19 +561,19 @@
     "KBA_Numbers": "0600964"
   },
   {
-    "brand": " VW ",
-    "model": " POLO III (6N1) ",
+    "brand": "VW",
+    "model": "POLO III (6N1)",
     "engineType": "75 1.6",
     "madeYear": "10.1994 - 10.1999",
     "kw": "55",
     "hp": "75",
     "cc": "1598",
-    "engineCodes": "AEA  AEE",
+    "engineCodes": "AEA, AEE",
     "KBA_Numbers": "0600953"
   },
   {
-    "brand": " VW ",
-    "model": " POLO III (6N1) ",
+    "brand": "VW",
+    "model": "POLO III (6N1)",
     "engineType": "75 1.6 4motion",
     "madeYear": "08.1995 - 10.1999",
     "kw": "55",
@@ -583,30 +583,30 @@
     "KBA_Numbers": ""
   },
   {
-    "brand": " VW ",
-    "model": " POLO III CLASSIC (6V2) | FLIGHT | DERBY ",
+    "brand": "VW",
+    "model": "POLO III CLASSIC (6V2) | FLIGHT | DERBY",
     "engineType": "100 1.6",
     "madeYear": "12.1995 - 09.2001",
     "kw": "74",
     "hp": "100",
     "cc": "1595",
-    "engineCodes": "AKL  AEH  AUR  APF  AFT",
+    "engineCodes": "AKL, AEH, AUR, APF, AFT",
     "KBA_Numbers": "0600284"
   },
   {
-    "brand": " VW ",
-    "model": " POLO III CLASSIC (6V2) | FLIGHT | DERBY ",
+    "brand": "VW",
+    "model": "POLO III CLASSIC (6V2) | FLIGHT | DERBY",
     "engineType": "110 1.9 TDI",
     "madeYear": "06.1998 - 01.2002",
     "kw": "81",
     "hp": "110",
     "cc": "1896",
-    "engineCodes": "ASV  AFN",
+    "engineCodes": "ASV, AFN",
     "KBA_Numbers": "0600274"
   },
   {
-    "brand": " VW ",
-    "model": " POLO III CLASSIC (6V2) | FLIGHT | DERBY ",
+    "brand": "VW",
+    "model": "POLO III CLASSIC (6V2) | FLIGHT | DERBY",
     "engineType": "54 1.4",
     "madeYear": "01.1998 - 08.1999",
     "kw": "40",
@@ -616,8 +616,8 @@
     "KBA_Numbers": "0603453"
   },
   {
-    "brand": " VW ",
-    "model": " POLO III CLASSIC (6V2) | FLIGHT | DERBY ",
+    "brand": "VW",
+    "model": "POLO III CLASSIC (6V2) | FLIGHT | DERBY",
     "engineType": "57 1.7 SDI",
     "madeYear": "07.1997 - 09.2001",
     "kw": "42",
@@ -627,19 +627,19 @@
     "KBA_Numbers": "0600268"
   },
   {
-    "brand": " VW ",
-    "model": " POLO III CLASSIC (6V2) | FLIGHT | DERBY ",
+    "brand": "VW",
+    "model": "POLO III CLASSIC (6V2) | FLIGHT | DERBY",
     "engineType": "60 1.4",
     "madeYear": "12.1995 - 09.2001",
     "kw": "44",
     "hp": "60",
     "cc": "1390",
-    "engineCodes": "AKV  AUD  AKK  APQ  ANW  AEX",
+    "engineCodes": "AKV, AUD, AKK, APQ, ANW, AEX",
     "KBA_Numbers": "0600282"
   },
   {
-    "brand": " VW ",
-    "model": " POLO III CLASSIC (6V2) | FLIGHT | DERBY ",
+    "brand": "VW",
+    "model": "POLO III CLASSIC (6V2) | FLIGHT | DERBY",
     "engineType": "64 1.9 SDI",
     "madeYear": "12.1995 - 08.1999",
     "kw": "47",
@@ -649,41 +649,41 @@
     "KBA_Numbers": "0600283"
   },
   {
-    "brand": " VW ",
-    "model": " POLO III CLASSIC (6V2) | FLIGHT | DERBY ",
+    "brand": "VW",
+    "model": "POLO III CLASSIC (6V2) | FLIGHT | DERBY",
     "engineType": "68 1.9 SDI",
     "madeYear": "08.1999 - 01.2002",
     "kw": "50",
     "hp": "68",
     "cc": "1896",
-    "engineCodes": "AQM  AGP",
+    "engineCodes": "AQM, AGP",
     "KBA_Numbers": "0603543"
   },
   {
-    "brand": " VW ",
-    "model": " POLO III CLASSIC (6V2) | FLIGHT | DERBY ",
+    "brand": "VW",
+    "model": "POLO III CLASSIC (6V2) | FLIGHT | DERBY",
     "engineType": "75 1.4 16V",
     "madeYear": "10.1999 - 09.2001",
     "kw": "55",
     "hp": "75",
     "cc": "1390",
-    "engineCodes": "APE  AUA",
+    "engineCodes": "APE, AUA",
     "KBA_Numbers": "0603545"
   },
   {
-    "brand": " VW ",
-    "model": " POLO III CLASSIC (6V2) | FLIGHT | DERBY ",
+    "brand": "VW",
+    "model": "POLO III CLASSIC (6V2) | FLIGHT | DERBY",
     "engineType": "75 1.6",
     "madeYear": "11.1995 - 09.2001",
     "kw": "55",
     "hp": "75",
     "cc": "1598",
-    "engineCodes": "ALM  AEE",
+    "engineCodes": "ALM, AEE",
     "KBA_Numbers": "0600288"
   },
   {
-    "brand": " VW ",
-    "model": " POLO III CLASSIC (6V2) | FLIGHT | DERBY ",
+    "brand": "VW",
+    "model": "POLO III CLASSIC (6V2) | FLIGHT | DERBY",
     "engineType": "75 1.6",
     "madeYear": "11.1995 - 09.1997",
     "kw": "55",
@@ -693,8 +693,8 @@
     "KBA_Numbers": "0600288"
   },
   {
-    "brand": " VW ",
-    "model": " POLO III CLASSIC (6V2) | FLIGHT | DERBY ",
+    "brand": "VW",
+    "model": "POLO III CLASSIC (6V2) | FLIGHT | DERBY",
     "engineType": "90 1.8",
     "madeYear": "01.1997 - 09.2001",
     "kw": "66",
@@ -704,19 +704,19 @@
     "KBA_Numbers": "0600271"
   },
   {
-    "brand": " VW ",
-    "model": " POLO III CLASSIC (6V2) | FLIGHT | DERBY ",
+    "brand": "VW",
+    "model": "POLO III CLASSIC (6V2) | FLIGHT | DERBY",
     "engineType": "90 1.9 TDI",
     "madeYear": "09.1996 - 09.2001",
     "kw": "66",
     "hp": "90",
     "cc": "1896",
-    "engineCodes": "AGR  ALH  ALE  AHU",
+    "engineCodes": "AGR, ALH, ALE, AHU",
     "KBA_Numbers": "0600275"
   },
   {
-    "brand": " VW ",
-    "model": " POLO Kasa/eğik arka (86CF) ",
+    "brand": "VW",
+    "model": "POLO Kasa/eğik arka (86CF)",
     "engineType": "1.0",
     "madeYear": "08.1992 - 07.1994",
     "kw": "33",
@@ -726,8 +726,8 @@
     "KBA_Numbers": "0600241"
   },
   {
-    "brand": " VW ",
-    "model": " POLO Kasa/eğik arka (86CF) ",
+    "brand": "VW",
+    "model": "POLO Kasa/eğik arka (86CF)",
     "engineType": "1.3",
     "madeYear": "08.1992 - 07.1994",
     "kw": "40",
@@ -737,8 +737,8 @@
     "KBA_Numbers": "0600242"
   },
   {
-    "brand": " VW ",
-    "model": " POLO Kasa/eğik arka (86CF) ",
+    "brand": "VW",
+    "model": "POLO Kasa/eğik arka (86CF)",
     "engineType": "1.4 D",
     "madeYear": "08.1992 - 07.1994",
     "kw": "35",
@@ -748,19 +748,8 @@
     "KBA_Numbers": "0600243"
   },
   {
-    "brand": " VW ",
-    "model": " POLO PLAYA ",
-    "engineType": "1.0",
-    "madeYear": "05.1999 - 05.2002",
-    "kw": "37",
-    "hp": "50",
-    "cc": "999",
-    "engineCodes": "ALD",
-    "KBA_Numbers": ""
-  },
-  {
-    "brand": " VW ",
-    "model": " POLO Van Kasa/eğik arka (6N1) ",
+    "brand": "VW",
+    "model": "POLO Van Kasa/eğik arka (6N1)",
     "engineType": "1.0",
     "madeYear": "10.1994 - 12.1999",
     "kw": "33",
@@ -770,8 +759,8 @@
     "KBA_Numbers": "0600255"
   },
   {
-    "brand": " VW ",
-    "model": " POLO Van Kombi van (6V5) ",
+    "brand": "VW",
+    "model": "POLO Van Kombi van (6V5)",
     "engineType": "1.4",
     "madeYear": "08.1997 - 12.1999",
     "kw": "44",
@@ -781,8 +770,8 @@
     "KBA_Numbers": "0600262"
   },
   {
-    "brand": " VW ",
-    "model": " POLO Van Kombi van (6V5) ",
+    "brand": "VW",
+    "model": "POLO Van Kombi van (6V5)",
     "engineType": "1.4",
     "madeYear": "06.2000 - 09.2001",
     "kw": "55",
@@ -792,8 +781,8 @@
     "KBA_Numbers": ""
   },
   {
-    "brand": " VW ",
-    "model": " POLO Van Kombi van (6V5) ",
+    "brand": "VW",
+    "model": "POLO Van Kombi van (6V5)",
     "engineType": "1.6",
     "madeYear": "09.1997 - 12.1998",
     "kw": "55",
@@ -803,8 +792,8 @@
     "KBA_Numbers": ""
   },
   {
-    "brand": " VW ",
-    "model": " POLO Van Kombi van (6V5) ",
+    "brand": "VW",
+    "model": "POLO Van Kombi van (6V5)",
     "engineType": "1.9 SDI",
     "madeYear": "12.1995 - 08.1999",
     "kw": "47",
@@ -814,30 +803,30 @@
     "KBA_Numbers": "0600258"
   },
   {
-    "brand": " VW ",
-    "model": " POLO Van Kombi van (6V5) ",
+    "brand": "VW",
+    "model": "POLO Van Kombi van (6V5)",
     "engineType": "1.9 SDI",
     "madeYear": "10.1999 - 09.2001",
     "kw": "50",
     "hp": "68",
     "cc": "1896",
-    "engineCodes": "AGP  AQM",
+    "engineCodes": "AGP, AQM",
     "KBA_Numbers": ""
   },
   {
-    "brand": " VW ",
-    "model": " POLO Variant (6V5) ",
+    "brand": "VW",
+    "model": "POLO Variant (6V5)",
     "engineType": "1.4",
     "madeYear": "05.1997 - 09.2001",
     "kw": "44",
     "hp": "60",
     "cc": "1390",
-    "engineCodes": "AUD  AKV  AKK  APQ  AEX  ANW",
+    "engineCodes": "AUD, AKV, AKK, APQ, AEX, ANW",
     "KBA_Numbers": "0603353"
   },
   {
-    "brand": " VW ",
-    "model": " POLO Variant (6V5) ",
+    "brand": "VW",
+    "model": "POLO Variant (6V5)",
     "engineType": "1.4",
     "madeYear": "01.1998 - 08.1999",
     "kw": "40",
@@ -847,41 +836,41 @@
     "KBA_Numbers": "0603454"
   },
   {
-    "brand": " VW ",
-    "model": " POLO Variant (6V5) ",
+    "brand": "VW",
+    "model": "POLO Variant (6V5)",
     "engineType": "1.4 16V",
     "madeYear": "10.1999 - 09.2001",
     "kw": "55",
     "hp": "75",
     "cc": "1390",
-    "engineCodes": "APE  AUA",
+    "engineCodes": "APE, AUA",
     "KBA_Numbers": "0603546"
   },
   {
-    "brand": " VW ",
-    "model": " POLO Variant (6V5) ",
+    "brand": "VW",
+    "model": "POLO Variant (6V5)",
     "engineType": "1.6",
     "madeYear": "05.1997 - 09.2001",
     "kw": "55",
     "hp": "75",
     "cc": "1598",
-    "engineCodes": "ALM  AEE",
+    "engineCodes": "ALM, AEE",
     "KBA_Numbers": "0603355"
   },
   {
-    "brand": " VW ",
-    "model": " POLO Variant (6V5) ",
+    "brand": "VW",
+    "model": "POLO Variant (6V5)",
     "engineType": "1.6",
     "madeYear": "05.1997 - 09.2001",
     "kw": "74",
     "hp": "101",
     "cc": "1595",
-    "engineCodes": "AEH  AKL  AUR  APF  AFT",
+    "engineCodes": "AEH, AKL, AUR, APF, AFT",
     "KBA_Numbers": "0603357"
   },
   {
-    "brand": " VW ",
-    "model": " POLO Variant (6V5) ",
+    "brand": "VW",
+    "model": "POLO Variant (6V5)",
     "engineType": "1.7 SDI",
     "madeYear": "08.1997 - 09.2001",
     "kw": "42",
@@ -891,8 +880,8 @@
     "KBA_Numbers": "0603446"
   },
   {
-    "brand": " VW ",
-    "model": " POLO Variant (6V5) ",
+    "brand": "VW",
+    "model": "POLO Variant (6V5)",
     "engineType": "1.8",
     "madeYear": "05.1997 - 09.2001",
     "kw": "66",
@@ -902,8 +891,8 @@
     "KBA_Numbers": "0603366"
   },
   {
-    "brand": " VW ",
-    "model": " POLO Variant (6V5) ",
+    "brand": "VW",
+    "model": "POLO Variant (6V5)",
     "engineType": "1.9 SDI",
     "madeYear": "06.1997 - 09.2001",
     "kw": "47",
@@ -913,36 +902,36 @@
     "KBA_Numbers": "0603354"
   },
   {
-    "brand": " VW ",
-    "model": " POLO Variant (6V5) ",
+    "brand": "VW",
+    "model": "POLO Variant (6V5)",
     "engineType": "1.9 SDI",
     "madeYear": "08.1999 - 09.2001",
     "kw": "50",
     "hp": "68",
     "cc": "1896",
-    "engineCodes": "AQM  AGP",
+    "engineCodes": "AQM, AGP",
     "KBA_Numbers": "0603544"
   },
   {
-    "brand": " VW ",
-    "model": " POLO Variant (6V5) ",
+    "brand": "VW",
+    "model": "POLO Variant (6V5)",
     "engineType": "1.9 TDI",
     "madeYear": "05.1997 - 09.2001",
     "kw": "66",
     "hp": "90",
     "cc": "1896",
-    "engineCodes": "AGR  ALH  ALE  AHU",
+    "engineCodes": "AGR, ALH, ALE, AHU",
     "KBA_Numbers": "0603356"
   },
   {
-    "brand": " VW ",
-    "model": " POLO Variant (6V5) ",
+    "brand": "VW",
+    "model": "POLO Variant (6V5)",
     "engineType": "1.9 TDI",
     "madeYear": "06.1998 - 09.2001",
     "kw": "81",
     "hp": "110",
     "cc": "1896",
-    "engineCodes": "AFN  ASV",
+    "engineCodes": "AFN, ASV",
     "KBA_Numbers": "0603358"
   }
 ]

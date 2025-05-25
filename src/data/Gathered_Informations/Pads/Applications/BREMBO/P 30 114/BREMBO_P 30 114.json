@@ -1,29 +1,29 @@
 [
   {
-    "brand": " KIA ",
-    "model": " PICANTO III (JA) | MORNING ",
+    "brand": "KIA",
+    "model": "PICANTO III (JA) | MORNING",
     "engineType": "1.0",
     "madeYear": "Başlangıç 03.2017",
     "kw": "49",
     "hp": "67",
     "cc": "998",
-    "engineCodes": "G3LA  G3LD",
-    "KBA_Numbers": "8253AHB  2233AAM"
+    "engineCodes": "G3LA, G3LD",
+    "KBA_Numbers": "8253AHB, 2233AAM"
   },
   {
-    "brand": " KIA ",
-    "model": " PICANTO III (JA) | MORNING ",
+    "brand": "KIA",
+    "model": "PICANTO III (JA) | MORNING",
     "engineType": "1.0 LPG",
     "madeYear": "Başlangıç 11.2018",
     "kw": "48",
     "hp": "65",
     "cc": "998",
-    "engineCodes": "G3LA  G3LD",
+    "engineCodes": "G3LA, G3LD",
     "KBA_Numbers": ""
   },
   {
-    "brand": " KIA ",
-    "model": " PICANTO III (JA) | MORNING ",
+    "brand": "KIA",
+    "model": "PICANTO III (JA) | MORNING",
     "engineType": "1.2",
     "madeYear": "Başlangıç 03.2017",
     "kw": "62",
@@ -33,14 +33,14 @@
     "KBA_Numbers": "8253AHC"
   },
   {
-    "brand": " KIA ",
-    "model": " PICANTO III (JA) | MORNING ",
+    "brand": "KIA",
+    "model": "PICANTO III (JA) | MORNING",
     "engineType": "1.2 MPI",
     "madeYear": "Başlangıç 07.2020",
     "kw": "62",
     "hp": "84",
     "cc": "1197",
     "engineCodes": "G4LF",
-    "KBA_Numbers": "8253AJB  2233AAN"
+    "KBA_Numbers": "8253AJB, 2233AAN"
   }
 ]

@@ -1,0 +1,90 @@
+[
+  {
+    "brand": "LAND ROVER",
+    "model": "DISCOVERY III (L319) | LR3",
+    "engineType": "2.7 TD 4x4",
+    "madeYear": "07.2004 - 09.2009",
+    "kw": "140",
+    "hp": "190",
+    "cc": "2720",
+    "engineCodes": "276DT(TDV6)",
+    "KBA_Numbers": "2143011, 2143AAK"
+  },
+  {
+    "brand": "LAND ROVER",
+    "model": "DISCOVERY III (L319) | LR3",
+    "engineType": "4.0 V6 4x4",
+    "madeYear": "10.2004 - 09.2009",
+    "kw": "160",
+    "hp": "218",
+    "cc": "4009",
+    "engineCodes": "406PN(COLOGNE V6)",
+    "KBA_Numbers": "2143013"
+  },
+  {
+    "brand": "LAND ROVER",
+    "model": "DISCOVERY IV (L319) | LR4",
+    "engineType": "2.7 TD 4x4",
+    "madeYear": "09.2009 - 12.2018",
+    "kw": "140",
+    "hp": "190",
+    "cc": "2720",
+    "engineCodes": "276DT(TDV6)",
+    "KBA_Numbers": "2143AAK, 2143AAU"
+  },
+  {
+    "brand": "LAND ROVER",
+    "model": "DISCOVERY IV (L319) | LR4",
+    "engineType": "3.0 4x4",
+    "madeYear": "08.2013 - 12.2018",
+    "kw": "250",
+    "hp": "340",
+    "cc": "2995",
+    "engineCodes": "306PS(AJ126)",
+    "KBA_Numbers": "1590AFD, 1590ACU"
+  },
+  {
+    "brand": "LAND ROVER",
+    "model": "DISCOVERY IV (L319) | LR4",
+    "engineType": "3.0 TD 4x4",
+    "madeYear": "09.2009 - 12.2018",
+    "kw": "180",
+    "hp": "245",
+    "cc": "2993",
+    "engineCodes": "306DT(TDV6)",
+    "KBA_Numbers": "2143ABL, 2143AAY"
+  },
+  {
+    "brand": "LAND ROVER",
+    "model": "DISCOVERY IV (L319) | LR4",
+    "engineType": "3.0 TD 4x4",
+    "madeYear": "07.2012 - 12.2018",
+    "kw": "183",
+    "hp": "249",
+    "cc": "2993",
+    "engineCodes": "306DT(TDV6)",
+    "KBA_Numbers": "2143ACG, 2143ACH, 1590AAY, 1590ABH"
+  },
+  {
+    "brand": "LAND ROVER",
+    "model": "RANGE ROVER III (L322)",
+    "engineType": "3.0 D 4x4",
+    "madeYear": "03.2002 - 08.2012",
+    "kw": "130",
+    "hp": "177",
+    "cc": "2926",
+    "engineCodes": "306D1(M57D30)",
+    "KBA_Numbers": "2143009, 2143AAB, 2143AAA"
+  },
+  {
+    "brand": "LAND ROVER",
+    "model": "RANGE ROVER III (L322)",
+    "engineType": "4.4 4x4",
+    "madeYear": "05.2005 - 08.2012",
+    "kw": "225",
+    "hp": "306",
+    "cc": "4394",
+    "engineCodes": "448PN(AJV8)",
+    "KBA_Numbers": "2143018, 2143AAE, 2143AAF"
+  }
+]

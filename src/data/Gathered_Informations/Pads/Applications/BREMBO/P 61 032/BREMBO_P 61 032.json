@@ -84,8 +84,8 @@
     "kw": "55",
     "hp": "75",
     "cc": "1360",
-    "engineCodes": "KFX (TU3JP)  KFW (TU3JP)",
-    "KBA_Numbers": "3001740  3001641"
+    "engineCodes": "KFX (TU3JP), KFW (TU3JP)",
+    "KBA_Numbers": "3001740, 3001641"
   },
   {
     "brand": "CITROËN",
@@ -139,7 +139,7 @@
     "kw": "43",
     "hp": "58",
     "cc": "1769",
-    "engineCodes": "A9A (XUD7)  161A (XUD7)",
+    "engineCodes": "A9A (XUD7), 161A (XUD7)",
     "KBA_Numbers": "3001677"
   },
   {
@@ -194,8 +194,8 @@
     "kw": "51",
     "hp": "70",
     "cc": "1868",
-    "engineCodes": "WJY (DW8B)  WJZ (DW8)",
-    "KBA_Numbers": "3001738  3001712"
+    "engineCodes": "WJY (DW8B), WJZ (DW8)",
+    "KBA_Numbers": "3001738, 3001712"
   },
   {
     "brand": "CITROËN",
@@ -261,7 +261,7 @@
     "hp": "90",
     "cc": "1997",
     "engineCodes": "RHY (DW10TD)",
-    "KBA_Numbers": "3001747  3001718"
+    "KBA_Numbers": "3001747, 3001718"
   },
   {
     "brand": "CITROËN",
@@ -360,7 +360,7 @@
     "hp": "90",
     "cc": "1997",
     "engineCodes": "RHY (DW10TD)",
-    "KBA_Numbers": "3001748  3001719"
+    "KBA_Numbers": "3001748, 3001719"
   },
   {
     "brand": "CITROËN",
@@ -381,8 +381,8 @@
     "kw": "55",
     "hp": "75",
     "cc": "1360",
-    "engineCodes": "KFX (TU3JP)  KFW (TU3JP)",
-    "KBA_Numbers": "3001740  3001641"
+    "engineCodes": "KFX (TU3JP), KFW (TU3JP)",
+    "KBA_Numbers": "3001740, 3001641"
   },
   {
     "brand": "CITROËN",
@@ -469,8 +469,8 @@
     "kw": "51",
     "hp": "70",
     "cc": "1868",
-    "engineCodes": "WJZ (DW8)  WJY (DW8B)",
-    "KBA_Numbers": "3001738  3001712"
+    "engineCodes": "WJZ (DW8), WJY (DW8B)",
+    "KBA_Numbers": "3001738, 3001712"
   },
   {
     "brand": "CITROËN",
@@ -514,7 +514,7 @@
     "hp": "90",
     "cc": "1997",
     "engineCodes": "RHY (DW10TD)",
-    "KBA_Numbers": "3001747  3001718"
+    "KBA_Numbers": "3001747, 3001718"
   },
   {
     "brand": "CITROËN",
@@ -557,8 +557,8 @@
     "kw": "65",
     "hp": "88",
     "cc": "1580",
-    "engineCodes": "BFZ (XU5JP)  BDY (XU5M)",
-    "KBA_Numbers": "3001209  3001612"
+    "engineCodes": "BFZ (XU5JP), BDY (XU5M)",
+    "KBA_Numbers": "3001209, 3001612"
   },
   {
     "brand": "CITROËN",
@@ -569,7 +569,7 @@
     "hp": "101",
     "cc": "1761",
     "engineCodes": "LFZ (XU7JP)",
-    "KBA_Numbers": "3001218  3001613"
+    "KBA_Numbers": "3001218, 3001613"
   },
   {
     "brand": "CITROËN",
@@ -624,7 +624,7 @@
     "hp": "90",
     "cc": "1905",
     "engineCodes": "DHY (XUD9TE/Y)",
-    "KBA_Numbers": "3001219  3001617"
+    "KBA_Numbers": "3001219, 3001617"
   },
   {
     "brand": "CITROËN",
@@ -635,7 +635,7 @@
     "hp": "121",
     "cc": "1998",
     "engineCodes": "RFX (XU10J2C)",
-    "KBA_Numbers": "3001220  3001614"
+    "KBA_Numbers": "3001220, 3001614"
   },
   {
     "brand": "CITROËN",
@@ -645,7 +645,7 @@
     "kw": "112",
     "hp": "152",
     "cc": "1998",
-    "engineCodes": "RFT (XU10J4/Z)  RFY (XU10J4/Z)",
+    "engineCodes": "RFT (XU10J4/Z), RFY (XU10J4/Z)",
     "KBA_Numbers": "3001221"
   },
   {
@@ -668,7 +668,7 @@
     "hp": "163",
     "cc": "1998",
     "engineCodes": "RFS (XU10J4RS)",
-    "KBA_Numbers": "3001298  3001615"
+    "KBA_Numbers": "3001298, 3001615"
   },
   {
     "brand": "CITROËN",
@@ -678,8 +678,8 @@
     "kw": "65",
     "hp": "88",
     "cc": "1580",
-    "engineCodes": "BFZ (XU5JP)  BDY (XU5M)",
-    "KBA_Numbers": "3001242  3001619"
+    "engineCodes": "BFZ (XU5JP), BDY (XU5M)",
+    "KBA_Numbers": "3001242, 3001619"
   },
   {
     "brand": "CITROËN",
@@ -690,7 +690,7 @@
     "hp": "101",
     "cc": "1761",
     "engineCodes": "LFZ (XU7JP)",
-    "KBA_Numbers": "3001239  3001620"
+    "KBA_Numbers": "3001239, 3001620"
   },
   {
     "brand": "CITROËN",
@@ -712,7 +712,7 @@
     "hp": "90",
     "cc": "1905",
     "engineCodes": "DHY (XUD9TE/Y)",
-    "KBA_Numbers": "3001241  3001622"
+    "KBA_Numbers": "3001241, 3001622"
   },
   {
     "brand": "PEUGEOT",
@@ -722,7 +722,7 @@
     "kw": "74",
     "hp": "101",
     "cc": "1587",
-    "engineCodes": "NFY (TU5J2)  NFW (TU5J2)",
+    "engineCodes": "NFY (TU5J2), NFW (TU5J2)",
     "KBA_Numbers": "3003785"
   },
   {
@@ -778,7 +778,7 @@
     "hp": "102",
     "cc": "1905",
     "engineCodes": "DFZ (XU9J1)",
-    "KBA_Numbers": "3003245  3003268  3003660"
+    "KBA_Numbers": "3003245, 3003268, 3003660"
   },
   {
     "brand": "PEUGEOT",
@@ -822,7 +822,7 @@
     "hp": "72",
     "cc": "1580",
     "engineCodes": "B1E (XU51C)",
-    "KBA_Numbers": "3003249  3003257"
+    "KBA_Numbers": "3003249, 3003257"
   },
   {
     "brand": "PEUGEOT",
@@ -832,8 +832,8 @@
     "kw": "55",
     "hp": "75",
     "cc": "1580",
-    "engineCodes": "B1A (XU51C)  BAZ (XU5CP)",
-    "KBA_Numbers": "3003279  3003285"
+    "engineCodes": "B1A (XU51C), BAZ (XU5CP)",
+    "KBA_Numbers": "3003279, 3003285"
   },
   {
     "brand": "PEUGEOT",
@@ -855,7 +855,7 @@
     "hp": "64",
     "cc": "1905",
     "engineCodes": "DJZ (XUD9A)",
-    "KBA_Numbers": "3003663  3003666  3003636  3003637"
+    "KBA_Numbers": "3003663, 3003666, 3003636, 3003637"
   },
   {
     "brand": "PEUGEOT",
@@ -866,7 +866,7 @@
     "hp": "102",
     "cc": "1905",
     "engineCodes": "D2A (XU92C)",
-    "KBA_Numbers": "3003254  3003297"
+    "KBA_Numbers": "3003254, 3003297"
   },
   {
     "brand": "PEUGEOT",
@@ -877,7 +877,7 @@
     "hp": "120",
     "cc": "1905",
     "engineCodes": "DKZ (XU9JAZ)",
-    "KBA_Numbers": "3003662  3003286"
+    "KBA_Numbers": "3003662, 3003286"
   },
   {
     "brand": "PEUGEOT",
@@ -899,7 +899,7 @@
     "hp": "102",
     "cc": "1905",
     "engineCodes": "DFZ (XU9J1)",
-    "KBA_Numbers": "3003254  3003661  3003665  3003297"
+    "KBA_Numbers": "3003254, 3003661, 3003665, 3003297"
   },
   {
     "brand": "PEUGEOT",
@@ -921,7 +921,7 @@
     "hp": "109",
     "cc": "1587",
     "engineCodes": "NFU (TU5JP4)",
-    "KBA_Numbers": "3003ABB  3003529"
+    "KBA_Numbers": "3003ABB, 3003529"
   },
   {
     "brand": "PEUGEOT",
@@ -932,7 +932,7 @@
     "hp": "109",
     "cc": "1560",
     "engineCodes": "9HZ (DV6TED4)",
-    "KBA_Numbers": "3003ACG  3003150"
+    "KBA_Numbers": "3003ACG, 3003150"
   },
   {
     "brand": "PEUGEOT",
@@ -943,7 +943,7 @@
     "hp": "136",
     "cc": "1997",
     "engineCodes": "RFN (EW10J4)",
-    "KBA_Numbers": "3003ABQ  3003531"
+    "KBA_Numbers": "3003ABQ, 3003531"
   },
   {
     "brand": "PEUGEOT",
@@ -954,7 +954,7 @@
     "hp": "88",
     "cc": "1360",
     "engineCodes": "KFU (ET3J4)",
-    "KBA_Numbers": "3003114  3003ABZ"
+    "KBA_Numbers": "3003114, 3003ABZ"
   },
   {
     "brand": "PEUGEOT",
@@ -965,7 +965,7 @@
     "hp": "109",
     "cc": "1587",
     "engineCodes": "NFU (TU5JP4)",
-    "KBA_Numbers": "3003ABN  3003528"
+    "KBA_Numbers": "3003ABN, 3003528"
   },
   {
     "brand": "PEUGEOT",
@@ -997,8 +997,8 @@
     "kw": "80",
     "hp": "109",
     "cc": "1560",
-    "engineCodes": "9HY (DV6TED4)  9HZ (DV6TED4)",
-    "KBA_Numbers": "3003AGB  3003134"
+    "engineCodes": "9HY (DV6TED4), 9HZ (DV6TED4)",
+    "KBA_Numbers": "3003AGB, 3003134"
   },
   {
     "brand": "PEUGEOT",
@@ -1008,8 +1008,8 @@
     "kw": "51",
     "hp": "69",
     "cc": "1868",
-    "engineCodes": "WJY (DW8B)  WJZ (DW8)",
-    "KBA_Numbers": "3003863  3003885"
+    "engineCodes": "WJY (DW8B), WJZ (DW8)",
+    "KBA_Numbers": "3003863, 3003885"
   },
   {
     "brand": "PEUGEOT",
@@ -1031,7 +1031,7 @@
     "hp": "177",
     "cc": "1997",
     "engineCodes": "RFK (EW10J4S)",
-    "KBA_Numbers": "3003ABO  3003586"
+    "KBA_Numbers": "3003ABO, 3003586"
   },
   {
     "brand": "PEUGEOT",
@@ -1053,7 +1053,7 @@
     "hp": "136",
     "cc": "1997",
     "engineCodes": "RFN (EW10J4)",
-    "KBA_Numbers": "3003ABP  3003530"
+    "KBA_Numbers": "3003ABP, 3003530"
   },
   {
     "brand": "PEUGEOT",
@@ -1085,8 +1085,8 @@
     "kw": "55",
     "hp": "75",
     "cc": "1360",
-    "engineCodes": "KFV (TU3A)  KFW (TU3JP)",
-    "KBA_Numbers": "3003AAB  3003576"
+    "engineCodes": "KFV (TU3A), KFW (TU3JP)",
+    "KBA_Numbers": "3003AAB, 3003576"
   },
   {
     "brand": "PEUGEOT",
@@ -1097,7 +1097,7 @@
     "hp": "88",
     "cc": "1360",
     "engineCodes": "KFU (ET3J4)",
-    "KBA_Numbers": "3003115  3003ACA"
+    "KBA_Numbers": "3003115, 3003ACA"
   },
   {
     "brand": "PEUGEOT",
@@ -1108,7 +1108,7 @@
     "hp": "68",
     "cc": "1398",
     "engineCodes": "8HX (DV4TD)",
-    "KBA_Numbers": "3003AAS  3003589  3003579"
+    "KBA_Numbers": "3003AAS, 3003589, 3003579"
   },
   {
     "brand": "PEUGEOT",
@@ -1119,7 +1119,7 @@
     "hp": "109",
     "cc": "1587",
     "engineCodes": "NFU (TU5JP4)",
-    "KBA_Numbers": "3003ABA  3003577"
+    "KBA_Numbers": "3003ABA, 3003577"
   },
   {
     "brand": "PEUGEOT",
@@ -1130,7 +1130,7 @@
     "hp": "109",
     "cc": "1560",
     "engineCodes": "9HZ (DV6TED4)",
-    "KBA_Numbers": "3003AGC  3003135"
+    "KBA_Numbers": "3003AGC, 3003135"
   },
   {
     "brand": "PEUGEOT",
@@ -1141,7 +1141,7 @@
     "hp": "136",
     "cc": "1997",
     "engineCodes": "RFN (EW10J4)",
-    "KBA_Numbers": "3003ABR  3003578"
+    "KBA_Numbers": "3003ABR, 3003578"
   },
   {
     "brand": "PEUGEOT",
@@ -1162,7 +1162,7 @@
     "kw": "50",
     "hp": "68",
     "cc": "1398",
-    "engineCodes": "8HZ (DV4TD)  8HX (DV4TD)",
+    "engineCodes": "8HZ (DV4TD), 8HX (DV4TD)",
     "KBA_Numbers": ""
   },
   {
@@ -1173,7 +1173,7 @@
     "kw": "51",
     "hp": "69",
     "cc": "1868",
-    "engineCodes": "WJZ (DW8)  WJY (DW8B)",
+    "engineCodes": "WJZ (DW8), WJY (DW8B)",
     "KBA_Numbers": ""
   },
   {
@@ -1283,8 +1283,8 @@
     "kw": "51",
     "hp": "69",
     "cc": "1868",
-    "engineCodes": "WJZ (DW8)  WJY (DW8B)",
-    "KBA_Numbers": "3003507  3003878"
+    "engineCodes": "WJZ (DW8), WJY (DW8B)",
+    "KBA_Numbers": "3003507, 3003878"
   },
   {
     "brand": "PEUGEOT",
@@ -1294,7 +1294,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1905",
-    "engineCodes": "DHY (XUD9TE)  D8A (XUD9TE)",
+    "engineCodes": "DHY (XUD9TE), D8A (XUD9TE)",
     "KBA_Numbers": "3003825"
   },
   {
@@ -1372,7 +1372,7 @@
     "hp": "101",
     "cc": "1761",
     "engineCodes": "LFZ (XU7JP)",
-    "KBA_Numbers": "3003720  3003729  3003833"
+    "KBA_Numbers": "3003720, 3003729, 3003833"
   },
   {
     "brand": "PEUGEOT",
@@ -1427,7 +1427,7 @@
     "hp": "98",
     "cc": "1905",
     "engineCodes": "DFZ (XU9J1)",
-    "KBA_Numbers": "3003238  3003220"
+    "KBA_Numbers": "3003238, 3003220"
   },
   {
     "brand": "PEUGEOT",
@@ -1438,7 +1438,7 @@
     "hp": "109",
     "cc": "1905",
     "engineCodes": "DDZ (XU9M)",
-    "KBA_Numbers": "3003288  3003290"
+    "KBA_Numbers": "3003288, 3003290"
   },
   {
     "brand": "PEUGEOT",
@@ -1460,7 +1460,7 @@
     "hp": "120",
     "cc": "1905",
     "engineCodes": "DKZ (XU9JAZ)",
-    "KBA_Numbers": "3003289  3003291"
+    "KBA_Numbers": "3003289, 3003291"
   },
   {
     "brand": "PEUGEOT",
@@ -1482,7 +1482,7 @@
     "hp": "98",
     "cc": "1905",
     "engineCodes": "DFZ (XU9J1)",
-    "KBA_Numbers": "3003670  3003609  3003619  3003648"
+    "KBA_Numbers": "3003670, 3003609, 3003619, 3003648"
   },
   {
     "brand": "PEUGEOT",
@@ -1493,7 +1493,7 @@
     "hp": "109",
     "cc": "1905",
     "engineCodes": "DDZ (XU9M)",
-    "KBA_Numbers": "3003669  3003608  3003618  3003647"
+    "KBA_Numbers": "3003669, 3003608, 3003618, 3003647"
   },
   {
     "brand": "PEUGEOT",
@@ -1504,7 +1504,7 @@
     "hp": "120",
     "cc": "1905",
     "engineCodes": "DKZ (XU9JAZ)",
-    "KBA_Numbers": "3003671  3003610  3003620  3003649"
+    "KBA_Numbers": "3003671, 3003610, 3003620, 3003649"
   },
   {
     "brand": "PEUGEOT",
@@ -1547,7 +1547,7 @@
     "kw": "77",
     "hp": "105",
     "cc": "1397",
-    "engineCodes": "C1J 764  C1J 760",
+    "engineCodes": "C1J 764, C1J 760",
     "KBA_Numbers": "3004430"
   },
   {
@@ -1558,7 +1558,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "1397",
-    "engineCodes": "C1J 782  C1J 770",
+    "engineCodes": "C1J 782, C1J 770",
     "KBA_Numbers": "3004495"
   },
   {
@@ -1580,7 +1580,7 @@
     "kw": "69",
     "hp": "94",
     "cc": "1721",
-    "engineCodes": "F2N 722  F2N 721",
+    "engineCodes": "F2N 722, F2N 721",
     "KBA_Numbers": ""
   },
   {
@@ -1613,7 +1613,7 @@
     "kw": "54",
     "hp": "73",
     "cc": "1721",
-    "engineCodes": "F3N 741  F3N 740",
+    "engineCodes": "F3N 741, F3N 740",
     "KBA_Numbers": "3004617"
   },
   {
@@ -1624,8 +1624,8 @@
     "kw": "66",
     "hp": "90",
     "cc": "1721",
-    "engineCodes": "F3N 743  F3N 742",
-    "KBA_Numbers": "3004619  3004626"
+    "engineCodes": "F3N 743, F3N 742",
+    "KBA_Numbers": "3004619, 3004626"
   },
   {
     "brand": "RENAULT",
@@ -1646,7 +1646,7 @@
     "kw": "47",
     "hp": "64",
     "cc": "1870",
-    "engineCodes": "F8Q 706  F8Q 742",
+    "engineCodes": "F8Q 706, F8Q 742",
     "KBA_Numbers": "3004615"
   },
   {
@@ -1690,7 +1690,7 @@
     "kw": "70",
     "hp": "95",
     "cc": "1721",
-    "engineCodes": "F3N 743  F3N 742",
+    "engineCodes": "F3N 743, F3N 742",
     "KBA_Numbers": "3004681"
   },
   {
@@ -1712,7 +1712,7 @@
     "kw": "43",
     "hp": "58",
     "cc": "1390",
-    "engineCodes": "C2J 772  C3J 710",
+    "engineCodes": "C2J 772, C3J 710",
     "KBA_Numbers": "3004645"
   },
   {
@@ -1734,7 +1734,7 @@
     "kw": "68",
     "hp": "92",
     "cc": "1721",
-    "engineCodes": "F2N 720  F2N 721",
+    "engineCodes": "F2N 720, F2N 721",
     "KBA_Numbers": ""
   },
   {
@@ -1745,7 +1745,7 @@
     "kw": "54",
     "hp": "73",
     "cc": "1721",
-    "engineCodes": "F3N 741  F3N 740",
+    "engineCodes": "F3N 741, F3N 740",
     "KBA_Numbers": "3004647"
   },
   {
@@ -1756,7 +1756,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1721",
-    "engineCodes": "F3N 743  F3N 742",
+    "engineCodes": "F3N 743, F3N 742",
     "KBA_Numbers": "3004646"
   },
   {
@@ -1789,7 +1789,7 @@
     "kw": "47",
     "hp": "64",
     "cc": "1870",
-    "engineCodes": "F8Q 742  F8Q 706",
+    "engineCodes": "F8Q 742, F8Q 706",
     "KBA_Numbers": "3004644"
   },
   {
@@ -1833,7 +1833,7 @@
     "kw": "48",
     "hp": "65",
     "cc": "1870",
-    "engineCodes": "F8Q 742  F8Q 706",
+    "engineCodes": "F8Q 742, F8Q 706",
     "KBA_Numbers": ""
   },
   {
@@ -1855,7 +1855,7 @@
     "kw": "59",
     "hp": "80",
     "cc": "1390",
-    "engineCodes": "E7J 706  E6J 700",
+    "engineCodes": "E7J 706, E6J 700",
     "KBA_Numbers": ""
   },
   {
@@ -1889,7 +1889,7 @@
     "hp": "75",
     "cc": "1390",
     "engineCodes": "E7J 742",
-    "KBA_Numbers": "3004716  3004627"
+    "KBA_Numbers": "3004716, 3004627"
   },
   {
     "brand": "RENAULT",
@@ -1899,7 +1899,7 @@
     "kw": "54",
     "hp": "73",
     "cc": "1721",
-    "engineCodes": "F3N 741  F3N 740",
+    "engineCodes": "F3N 741, F3N 740",
     "KBA_Numbers": "3004691"
   },
   {
@@ -1921,7 +1921,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1794",
-    "engineCodes": "F3P 760  F3P 706",
+    "engineCodes": "F3P 760, F3P 706",
     "KBA_Numbers": "3004693"
   },
   {
@@ -1932,7 +1932,7 @@
     "kw": "79",
     "hp": "107",
     "cc": "1794",
-    "engineCodes": "F3P 682  F3P 765",
+    "engineCodes": "F3P 682, F3P 765",
     "KBA_Numbers": "3004725"
   },
   {
@@ -1954,8 +1954,8 @@
     "kw": "65",
     "hp": "88",
     "cc": "1794",
-    "engineCodes": "F3P 760  F3P 708  F3P 707  F3P 706",
-    "KBA_Numbers": "3004697  3004618"
+    "engineCodes": "F3P 760, F3P 708, F3P 707, F3P 706",
+    "KBA_Numbers": "3004697, 3004618"
   },
   {
     "brand": "RENAULT",
@@ -1987,7 +1987,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1721",
-    "engineCodes": "F3N 743  F3N 742",
+    "engineCodes": "F3N 743, F3N 742",
     "KBA_Numbers": "3004681"
   },
   {
@@ -1998,7 +1998,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1794",
-    "engineCodes": "F3P 760  F3P 706",
+    "engineCodes": "F3P 760, F3P 706",
     "KBA_Numbers": "3004681"
   },
   {
@@ -2009,7 +2009,7 @@
     "kw": "65",
     "hp": "88",
     "cc": "1794",
-    "engineCodes": "F3P 704  F3P 760  F3P 708  F3P 707  F3P 706  F3P 705",
+    "engineCodes": "F3P 704, F3P 760, F3P 708, F3P 707, F3P 706, F3P 705",
     "KBA_Numbers": "3004705"
   },
   {
@@ -2020,7 +2020,7 @@
     "kw": "44",
     "hp": "60",
     "cc": "1390",
-    "engineCodes": "C3J 710  C2J 772  C1J 742",
+    "engineCodes": "C3J 710, C2J 772, C1J 742",
     "KBA_Numbers": ""
   },
   {
@@ -2075,7 +2075,7 @@
     "kw": "68",
     "hp": "92",
     "cc": "1721",
-    "engineCodes": "F2N 721  F2N 720",
+    "engineCodes": "F2N 721, F2N 720",
     "KBA_Numbers": ""
   },
   {
@@ -2086,7 +2086,7 @@
     "kw": "54",
     "hp": "73",
     "cc": "1721",
-    "engineCodes": "F3N 741  F3N 740",
+    "engineCodes": "F3N 741, F3N 740",
     "KBA_Numbers": "3004692"
   },
   {
@@ -2097,7 +2097,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1721",
-    "engineCodes": "F3N 742  F3N 743",
+    "engineCodes": "F3N 742, F3N 743",
     "KBA_Numbers": ""
   },
   {
@@ -2119,7 +2119,7 @@
     "kw": "79",
     "hp": "107",
     "cc": "1794",
-    "engineCodes": "F3P 700  F3P 706",
+    "engineCodes": "F3P 700, F3P 706",
     "KBA_Numbers": ""
   },
   {
@@ -2130,7 +2130,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1794",
-    "engineCodes": "F3P 760  F3P 706",
+    "engineCodes": "F3P 760, F3P 706",
     "KBA_Numbers": "3004694"
   },
   {
@@ -2163,8 +2163,8 @@
     "kw": "65",
     "hp": "88",
     "cc": "1794",
-    "engineCodes": "F3P 707  F3P 704  F3P 708  F3P 760  F3P 705  F3P 706",
-    "KBA_Numbers": "3004698  3004649"
+    "engineCodes": "F3P 707, F3P 704, F3P 708, F3P 760, F3P 705, F3P 706",
+    "KBA_Numbers": "3004698, 3004649"
   },
   {
     "brand": "RENAULT",
@@ -2174,7 +2174,7 @@
     "kw": "68",
     "hp": "92",
     "cc": "1870",
-    "engineCodes": "F8Q 744  F8Q 740",
+    "engineCodes": "F8Q 744, F8Q 740",
     "KBA_Numbers": ""
   },
   {
@@ -2229,7 +2229,7 @@
     "kw": "48",
     "hp": "65",
     "cc": "1870",
-    "engineCodes": "F8Q 742  F8Q 706",
+    "engineCodes": "F8Q 742, F8Q 706",
     "KBA_Numbers": ""
   },
   {
@@ -2262,7 +2262,7 @@
     "kw": "77",
     "hp": "105",
     "cc": "1397",
-    "engineCodes": "C1J 764  C1J 760",
+    "engineCodes": "C1J 764, C1J 760",
     "KBA_Numbers": "3004437"
   },
   {
@@ -2274,7 +2274,7 @@
     "hp": "54",
     "cc": "1149",
     "engineCodes": "D7F 730",
-    "KBA_Numbers": "3004570  3004760"
+    "KBA_Numbers": "3004570, 3004760"
   },
   {
     "brand": "RENAULT",
@@ -2317,7 +2317,7 @@
     "kw": "43",
     "hp": "58",
     "cc": "1171",
-    "engineCodes": "E7F 750  E7F 708  E7F 700",
+    "engineCodes": "E7F 750, E7F 708, E7F 700",
     "KBA_Numbers": "3004785"
   },
   {
@@ -2328,7 +2328,7 @@
     "kw": "40",
     "hp": "54",
     "cc": "1171",
-    "engineCodes": "E7F 706  E7F 700  E7F 704  E7F 708  E7F 750",
+    "engineCodes": "E7F 706, E7F 700, E7F 704, E7F 708, E7F 750",
     "KBA_Numbers": "3004667"
   },
   {
@@ -2339,8 +2339,8 @@
     "kw": "58",
     "hp": "79",
     "cc": "1390",
-    "engineCodes": "E7J 754  E7J 718  E7J 719  E7J 601",
-    "KBA_Numbers": "3004761  3004668"
+    "engineCodes": "E7J 754, E7J 718, E7J 719, E7J 601",
+    "KBA_Numbers": "3004761, 3004668"
   },
   {
     "brand": "RENAULT",
@@ -2350,7 +2350,7 @@
     "kw": "55",
     "hp": "75",
     "cc": "1390",
-    "engineCodes": "E6J 718  E7J 757  E7J 756",
+    "engineCodes": "E6J 718, E7J 757, E7J 756",
     "KBA_Numbers": "3004668"
   },
   {
@@ -2372,7 +2372,7 @@
     "kw": "65",
     "hp": "88",
     "cc": "1794",
-    "engineCodes": "F3P 714  F3P 710",
+    "engineCodes": "F3P 714, F3P 710",
     "KBA_Numbers": "3004678"
   },
   {
@@ -2383,7 +2383,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1794",
-    "engineCodes": "F3P 712  F3P 710  F3P 714",
+    "engineCodes": "F3P 712, F3P 710, F3P 714",
     "KBA_Numbers": "3004723"
   },
   {
@@ -2406,7 +2406,7 @@
     "hp": "107",
     "cc": "1794",
     "engineCodes": "F3P 758",
-    "KBA_Numbers": "3004786  3004724  3004763"
+    "KBA_Numbers": "3004786, 3004724, 3004763"
   },
   {
     "brand": "RENAULT",
@@ -2416,7 +2416,7 @@
     "kw": "48",
     "hp": "65",
     "cc": "1870",
-    "engineCodes": "F8Q 632  F8Q 676  F8Q 696  F8Q 714",
+    "engineCodes": "F8Q 632, F8Q 676, F8Q 696, F8Q 714",
     "KBA_Numbers": ""
   },
   {
@@ -2427,8 +2427,8 @@
     "kw": "47",
     "hp": "64",
     "cc": "1870",
-    "engineCodes": "F8Q 732  F8Q 730",
-    "KBA_Numbers": "3004764  3004666"
+    "engineCodes": "F8Q 732, F8Q 730",
+    "KBA_Numbers": "3004764, 3004666"
   },
   {
     "brand": "RENAULT",
@@ -2438,239 +2438,437 @@
     "kw": "21",
     "hp": "30",
     "cc": "2DB 701",
+    "engineCodes": "2DB 701",
+    "KBA_Numbers": ""
+  },
+  {
+    "brand": "RENAULT",
+    "model": "CLIO I Kasa/eğik arka (S57_)",
+    "engineType": "1.7",
+    "madeYear": "07.1991 - 04.1992",
+    "kw": "55",
+    "hp": "75",
+    "cc": "1721",
+    "engineCodes": "F2N 724",
+    "KBA_Numbers": ""
+  },
+  {
+    "brand": "RENAULT",
+    "model": "CLIO I Kasa/eğik arka (S57_)",
+    "engineType": "1.7",
+    "madeYear": "07.1991 - 04.1992",
+    "kw": "70",
+    "hp": "95",
+    "cc": "1721",
+    "engineCodes": "F3N 743, F3N 742",
+    "KBA_Numbers": "3004681"
+  },
+  {
+    "brand": "RENAULT",
+    "model": "CLIO I Kasa/eğik arka (S57_)",
+    "engineType": "1.2 (B/C/S572)",
+    "madeYear": "05.1990 - 03.1996",
+    "kw": "44",
+    "hp": "60",
+    "cc": "1171",
+    "engineCodes": "E5F 710",
+    "KBA_Numbers": ""
+  },
+  {
+    "brand": "RENAULT",
+    "model": "CLIO I Kasa/eğik arka (S57_)",
+    "engineType": "1.2 (B/C/S577)",
+    "madeYear": "01.1996 - 12.1996",
+    "kw": "40",
+    "hp": "54",
+    "cc": "1239",
+    "engineCodes": "C3G 720",
+    "KBA_Numbers": ""
+  },
+  {
+    "brand": "RENAULT",
+    "model": "CLIO I Kasa/eğik arka (S57_)",
+    "engineType": "1.2 (B/C/S57A, B/C57S, 5/357F, 5/357J, 5/357L, 5/357R)",
+    "madeYear": "05.1990 - 09.1998",
+    "kw": "43",
+    "hp": "58",
+    "cc": "1171",
+    "engineCodes": "E7F 750, E7F 708, E7F 700",
+    "KBA_Numbers": "3004785"
+  },
+  {
+    "brand": "RENAULT",
+    "model": "CLIO I Kasa/eğik arka (S57_)",
+    "engineType": "1.2 (B/C57R, B575, B57A)",
+    "madeYear": "01.1991 - 06.1996",
+    "kw": "40",
+    "hp": "54",
+    "cc": "1171",
+    "engineCodes": "E7F 706, E7F 700, E7F 704, E7F 708, E7F 750",
+    "KBA_Numbers": "3004667"
+  },
+  {
+    "brand": "RENAULT",
+    "model": "CLIO I Kasa/eğik arka (S57_)",
+    "engineType": "1.4 (B/C57T, B/C57Y)",
+    "madeYear": "01.1991 - 09.1998",
+    "kw": "58",
+    "hp": "79",
+    "cc": "1390",
+    "engineCodes": "E7J 754, E7J 718, E7J 719, E7J 601",
+    "KBA_Numbers": "3004761, 3004668"
+  },
+  {
+    "brand": "RENAULT",
+    "model": "CLIO I Kasa/eğik arka (S57_)",
+    "engineType": "1.4 (B57J, C57J, B57P)",
+    "madeYear": "01.1991 - 09.1998",
+    "kw": "55",
+    "hp": "75",
+    "cc": "1390",
+    "engineCodes": "E6J 718, E7J 757, E7J 756",
+    "KBA_Numbers": "3004668"
+  },
+  {
+    "brand": "RENAULT",
+    "model": "CLIO I Kasa/eğik arka (S57_)",
+    "engineType": "1.7 (B/C574)",
+    "madeYear": "01.1991 - 12.1993",
+    "kw": "68",
+    "hp": "92",
+    "cc": "1721",
+    "engineCodes": "F2N 770",
+    "KBA_Numbers": ""
+  },
+  {
+    "brand": "RENAULT",
+    "model": "CLIO I Kasa/eğik arka (S57_)",
+    "engineType": "1.8 (B/C57C, B/C57U)",
+    "madeYear": "01.1991 - 09.1998",
+    "kw": "65",
+    "hp": "88",
+    "cc": "1794",
+    "engineCodes": "F3P 714, F3P 710",
+    "KBA_Numbers": "3004678"
+  },
+  {
+    "brand": "RENAULT",
+    "model": "CLIO I Kasa/eğik arka (S57_)",
+    "engineType": "1.8 (B/C57C, C579, B/C57U)",
+    "madeYear": "08.1994 - 04.1996",
+    "kw": "66",
+    "hp": "90",
+    "cc": "1794",
+    "engineCodes": "F3P 712, F3P 710, F3P 714",
+    "KBA_Numbers": "3004723"
+  },
+  {
+    "brand": "RENAULT",
+    "model": "CLIO I Kasa/eğik arka (S57_)",
+    "engineType": "1.8 Rsi (B/C579)",
+    "madeYear": "01.1993 - 08.1995",
+    "kw": "80",
+    "hp": "109",
+    "cc": "1794",
+    "engineCodes": "F3P 712",
+    "KBA_Numbers": "3004711"
+  },
+  {
+    "brand": "RENAULT",
+    "model": "CLIO I Kasa/eğik arka (S57_)",
+    "engineType": "1.8 Rsi (B/C57H)",
+    "madeYear": "08.1995 - 09.1998",
+    "kw": "79",
+    "hp": "107",
+    "cc": "1794",
+    "engineCodes": "F3P 758",
+    "KBA_Numbers": "3004786, 3004724, 3004763"
+  },
+  {
+    "brand": "RENAULT",
+    "model": "CLIO I Kasa/eğik arka (S57_)",
+    "engineType": "1.9 D",
+    "madeYear": "05.1996 - 02.1998",
+    "kw": "48",
+    "hp": "65",
+    "cc": "1870",
+    "engineCodes": "F8Q 632, F8Q 676, F8Q 696, F8Q 714",
+    "KBA_Numbers": ""
+  },
+  {
+    "brand": "RENAULT",
+    "model": "CLIO I Kasa/eğik arka (S57_)",
+    "engineType": "1.9 D (B/C/S576, B/C/S57L)",
+    "madeYear": "01.1991 - 09.1998",
+    "kw": "47",
+    "hp": "64",
+    "cc": "1870",
+    "engineCodes": "F8Q 732, F8Q 730",
+    "KBA_Numbers": "3004764, 3004666"
+  },
+  {
+    "brand": "RENAULT",
+    "model": "CLIO I Kasa/eğik arka (S57_)",
+    "engineType": "Electric",
+    "madeYear": "05.1996 - 02.1998",
+    "kw": "21",
+    "hp": "30",
+    "cc": "2DB 701",
+    "engineCodes": "2DB 701",
+    "KBA_Numbers": ""
+  },
+  {
+    "brand": "RENAULT",
+    "model": "CLIO I Kasa/eğik arka (S57_)",
+    "engineType": "",
+    "madeYear": "",
+    "kw": "",
+    "hp": "",
+    "cc": "",
     "engineCodes": "",
     "KBA_Numbers": ""
   },
   {
     "brand": "RENAULT",
     "model": "CLIO I Kasa/eğik arka (S57_)",
-    "engineType": "1.1",
-    "madeYear": "01.1991 - 09.1998",
-    "kw": "34",
-    "hp": "46",
-    "cc": "1108",
-    "engineCodes": "C1E 700",
+    "engineType": "",
+    "madeYear": "",
+    "kw": "",
+    "hp": "",
+    "cc": "",
+    "engineCodes": "",
     "KBA_Numbers": ""
   },
   {
     "brand": "RENAULT",
     "model": "CLIO I Kasa/eğik arka (S57_)",
-    "engineType": "1.2",
-    "madeYear": "01.1991 - 09.1998",
-    "kw": "40",
-    "hp": "54",
-    "cc": "1171",
-    "engineCodes": "E7F 706",
+    "engineType": "",
+    "madeYear": "",
+    "kw": "",
+    "hp": "",
+    "cc": "",
+    "engineCodes": "",
     "KBA_Numbers": ""
   },
   {
     "brand": "RENAULT",
     "model": "CLIO I Kasa/eğik arka (S57_)",
-    "engineType": "1.2",
-    "madeYear": "01.1991 - 09.1998",
-    "kw": "44",
-    "hp": "60",
-    "cc": "1171",
-    "engineCodes": "E5F 710  E7F 750",
+    "engineType": "",
+    "madeYear": "",
+    "kw": "",
+    "hp": "",
+    "cc": "",
+    "engineCodes": "",
     "KBA_Numbers": ""
   },
   {
     "brand": "RENAULT",
     "model": "CLIO I Kasa/eğik arka (S57_)",
-    "engineType": "1.9 D",
-    "madeYear": "01.1991 - 09.1998",
-    "kw": "48",
-    "hp": "65",
-    "cc": "1870",
-    "engineCodes": "F8Q 730  F8Q 732",
+    "engineType": "",
+    "madeYear": "",
+    "kw": "",
+    "hp": "",
+    "cc": "",
+    "engineCodes": "",
     "KBA_Numbers": ""
   },
   {
     "brand": "RENAULT",
     "model": "CLIO I Kasa/eğik arka (S57_)",
-    "engineType": "1.9 RND",
-    "madeYear": "04.1996 - 02.1998",
-    "kw": "40",
-    "hp": "54",
-    "cc": "1870",
-    "engineCodes": "F8Q 678",
+    "engineType": "",
+    "madeYear": "",
+    "kw": "",
+    "hp": "",
+    "cc": "",
+    "engineCodes": "",
+    "KBA_Numbers": ""
+  },
+  {
+    "brand": "RENAULT",
+    "model": "CLIO I Kasa/eğik arka (S57_)",
+    "engineType": "",
+    "madeYear": "",
+    "kw": "",
+    "hp": "",
+    "cc": "",
+    "engineCodes": "",
     "KBA_Numbers": ""
   },
   {
     "brand": "RENAULT",
     "model": "CLIO II (BB_, CB_) | CLIO MIO | LUTECIA",
-    "engineType": "1.2 (BB0A, BB0F, BB10, BB1K, BB28, BB2D, BB2H, CB0A,...",
-    "madeYear": "09.1998 - 02.2010",
-    "kw": "43",
-    "hp": "58",
-    "cc": "1149",
-    "engineCodes": "D7F 766  D7F 710  D7F 764  D7F 726  D7F 720  D7F 722  D7F 746  D7F 744",
-    "KBA_Numbers": "3004566  3333ABC"
-  },
-  {
-    "brand": "RENAULT",
-    "model": "CLIO II (BB_, CB_) | CLIO MIO | LUTECIA",
-    "engineType": "1.2 16V (BB05, BB0W, BB11, BB27, BB2T, BB2U, BB2V, CB05,...",
-    "madeYear": "06.2001 - 08.2016",
+    "engineType": "1.7",
+    "madeYear": "07.1991 - 04.1992",
     "kw": "55",
     "hp": "75",
-    "cc": "1149",
-    "engineCodes": "D4F 722  D4F 728  D4F 706  D4F 714  D4F 712",
-    "KBA_Numbers": "3004147  3333208  3333ABB"
+    "cc": "1721",
+    "engineCodes": "F2N 724",
+    "KBA_Numbers": ""
   },
   {
     "brand": "RENAULT",
     "model": "CLIO II (BB_, CB_) | CLIO MIO | LUTECIA",
-    "engineType": "1.2 LPG",
-    "madeYear": "09.1998 - 06.2009",
-    "kw": "43",
-    "hp": "58",
-    "cc": "1149",
-    "engineCodes": "D7F 766  D7F 764",
-    "KBA_Numbers": "3004566"
-  },
-  {
-    "brand": "RENAULT",
-    "model": "CLIO II (BB_, CB_) | CLIO MIO | LUTECIA",
-    "engineType": "1.2 LPG (BB0A, CB0A)",
-    "madeYear": "03.1999 - 05.2001",
-    "kw": "44",
-    "hp": "60",
-    "cc": "1149",
-    "engineCodes": "D7F 722",
-    "KBA_Numbers": "3333066  3333AJN"
-  },
-  {
-    "brand": "RENAULT",
-    "model": "CLIO II (BB_, CB_) | CLIO MIO | LUTECIA",
-    "engineType": "1.4 (B/CB0C, B/CB0S)",
-    "madeYear": "09.1998 - 05.2005",
-    "kw": "55",
-    "hp": "75",
-    "cc": "1390",
-    "engineCodes": "E7J 635  K7J 700  E7J 780  E7J 634",
-    "KBA_Numbers": "3004567  3004127"
-  },
-  {
-    "brand": "RENAULT",
-    "model": "CLIO II (BB_, CB_) | CLIO MIO | LUTECIA",
-    "engineType": "1.4 16V (B/CB0L)",
-    "madeYear": "10.1999 - 09.2004",
+    "engineType": "1.7",
+    "madeYear": "07.1991 - 04.1992",
     "kw": "70",
     "hp": "95",
-    "cc": "1390",
-    "engineCodes": "K4J 713  K4J 712",
-    "KBA_Numbers": "3004104"
+    "cc": "1721",
+    "engineCodes": "F3N 743, F3N 742",
+    "KBA_Numbers": "3004681"
   },
   {
     "brand": "RENAULT",
     "model": "CLIO II (BB_, CB_) | CLIO MIO | LUTECIA",
-    "engineType": "1.4 16V (B/CB0P, BB13)",
-    "madeYear": "02.2000 - 07.2008",
-    "kw": "72",
-    "hp": "98",
-    "cc": "1390",
-    "engineCodes": "K4J 715  K4J 710  K4J 713  K4J 711  K4J 712",
-    "KBA_Numbers": "3004111  3333ABD"
-  },
-  {
-    "brand": "RENAULT",
-    "model": "CLIO II (BB_, CB_) | CLIO MIO | LUTECIA",
-    "engineType": "1.5 dCi",
-    "madeYear": "10.2003 - 04.2005",
-    "kw": "74",
-    "hp": "100",
-    "cc": "1461",
-    "engineCodes": "K9K 712",
-    "KBA_Numbers": "3333ABE  3004969"
-  },
-  {
-    "brand": "RENAULT",
-    "model": "CLIO II (BB_, CB_) | CLIO MIO | LUTECIA",
-    "engineType": "1.5 dCi (B/C2J)",
-    "madeYear": "08.2004 - 12.2012",
-    "kw": "50",
-    "hp": "68",
-    "cc": "1461",
-    "engineCodes": "K9K 714",
-    "KBA_Numbers": "3333ABI  3333207"
-  },
-  {
-    "brand": "RENAULT",
-    "model": "CLIO II (BB_, CB_) | CLIO MIO | LUTECIA",
-    "engineType": "1.5 dCi (B/CB03)",
-    "madeYear": "06.2001 - 10.2003",
-    "kw": "59",
-    "hp": "80",
-    "cc": "1461",
-    "engineCodes": "K9K 702",
+    "engineType": "1.2 (B/C/S572)",
+    "madeYear": "05.1990 - 03.1996",
+    "kw": "44",
+    "hp": "60",
+    "cc": "1171",
+    "engineCodes": "E5F 710",
     "KBA_Numbers": ""
   },
   {
     "brand": "RENAULT",
     "model": "CLIO II (BB_, CB_) | CLIO MIO | LUTECIA",
-    "engineType": "1.5 dCi (B/CB07)",
-    "madeYear": "06.2001 - 07.2009",
-    "kw": "48",
-    "hp": "65",
-    "cc": "1461",
-    "engineCodes": "K9K 704  K9K 700",
-    "KBA_Numbers": "3004142  3333ABH"
+    "engineType": "1.2 (B/C/S577)",
+    "madeYear": "01.1996 - 12.1996",
+    "kw": "40",
+    "hp": "54",
+    "cc": "1239",
+    "engineCodes": "C3G 720",
+    "KBA_Numbers": ""
   },
   {
     "brand": "RENAULT",
     "model": "CLIO II (BB_, CB_) | CLIO MIO | LUTECIA",
-    "engineType": "1.5 dCi (B/CB08)",
-    "madeYear": "06.2001 - 04.2005",
-    "kw": "60",
-    "hp": "82",
-    "cc": "1461",
-    "engineCodes": "K9K 702",
-    "KBA_Numbers": "3004174  3333ABF"
+    "engineType": "1.2 (B/C/S57A, B/C57S, 5/357F, 5/357J, 5/357L, 5/357R)",
+    "madeYear": "05.1990 - 09.1998",
+    "kw": "43",
+    "hp": "58",
+    "cc": "1171",
+    "engineCodes": "E7F 750, E7F 708, E7F 700",
+    "KBA_Numbers": "3004785"
   },
   {
     "brand": "RENAULT",
     "model": "CLIO II (BB_, CB_) | CLIO MIO | LUTECIA",
-    "engineType": "1.5 dCi (B/CB3M)",
-    "madeYear": "06.2005 - 12.2010",
-    "kw": "47",
-    "hp": "64",
-    "cc": "1461",
-    "engineCodes": "K9K 740",
-    "KBA_Numbers": "3333AOY"
+    "engineType": "1.2 (B/C57R, B575, B57A)",
+    "madeYear": "01.1991 - 06.1996",
+    "kw": "40",
+    "hp": "54",
+    "cc": "1171",
+    "engineCodes": "E7F 706, E7F 700, E7F 704, E7F 708, E7F 750",
+    "KBA_Numbers": "3004667"
   },
   {
     "brand": "RENAULT",
     "model": "CLIO II (BB_, CB_) | CLIO MIO | LUTECIA",
-    "engineType": "1.5 dCi (BB3N, CB3N)",
-    "madeYear": "02.2007 - 06.2009",
-    "kw": "62",
-    "hp": "84",
-    "cc": "1461",
-    "engineCodes": "K9K 718",
-    "KBA_Numbers": "3333APG"
+    "engineType": "1.4 (B/C57T, B/C57Y)",
+    "madeYear": "01.1991 - 09.1998",
+    "kw": "58",
+    "hp": "79",
+    "cc": "1390",
+    "engineCodes": "E7J 754, E7J 718, E7J 719, E7J 601",
+    "KBA_Numbers": "3004761, 3004668"
   },
   {
     "brand": "RENAULT",
     "model": "CLIO II (BB_, CB_) | CLIO MIO | LUTECIA",
-    "engineType": "1.6 (B/CB0D, BB00)",
-    "madeYear": "09.1998 - 05.2005",
+    "engineType": "1.4 (B57J, C57J, B57P)",
+    "madeYear": "01.1991 - 09.1998",
+    "kw": "55",
+    "hp": "75",
+    "cc": "1390",
+    "engineCodes": "E6J 718, E7J 757, E7J 756",
+    "KBA_Numbers": "3004668"
+  },
+  {
+    "brand": "RENAULT",
+    "model": "CLIO II (BB_, CB_) | CLIO MIO | LUTECIA",
+    "engineType": "1.7 (B/C574)",
+    "madeYear": "01.1991 - 12.1993",
+    "kw": "68",
+    "hp": "92",
+    "cc": "1721",
+    "engineCodes": "F2N 770",
+    "KBA_Numbers": ""
+  },
+  {
+    "brand": "RENAULT",
+    "model": "CLIO II (BB_, CB_) | CLIO MIO | LUTECIA",
+    "engineType": "1.8 (B/C57C, B/C57U)",
+    "madeYear": "01.1991 - 09.1998",
+    "kw": "65",
+    "hp": "88",
+    "cc": "1794",
+    "engineCodes": "F3P 714, F3P 710",
+    "KBA_Numbers": "3004678"
+  },
+  {
+    "brand": "RENAULT",
+    "model": "CLIO II (BB_, CB_) | CLIO MIO | LUTECIA",
+    "engineType": "1.8 (B/C57C, C579, B/C57U)",
+    "madeYear": "08.1994 - 04.1996",
     "kw": "66",
     "hp": "90",
-    "cc": "1598",
-    "engineCodes": "K7M 746  K7M 745  K7M 744",
-    "KBA_Numbers": "3004568"
+    "cc": "1794",
+    "engineCodes": "F3P 712, F3P 710, F3P 714",
+    "KBA_Numbers": "3004723"
   },
   {
     "brand": "RENAULT",
     "model": "CLIO II (BB_, CB_) | CLIO MIO | LUTECIA",
-    "engineType": "1.6 16V (BB01, BB0H, BB0T, BB14, BB1D, BB1R, BB2KL, BB3G...",
-    "madeYear": "09.1998 - 04.2005",
+    "engineType": "1.8 Rsi (B/C579)",
+    "madeYear": "01.1993 - 08.1995",
+    "kw": "80",
+    "hp": "109",
+    "cc": "1794",
+    "engineCodes": "F3P 712",
+    "KBA_Numbers": "3004711"
+  },
+  {
+    "brand": "RENAULT",
+    "model": "CLIO II (BB_, CB_) | CLIO MIO | LUTECIA",
+    "engineType": "1.8 Rsi (B/C57H)",
+    "madeYear": "08.1995 - 09.1998",
     "kw": "79",
     "hp": "107",
-    "cc": "1598",
-    "engineCodes": "K4M 740  K4M 745  K4M 743  K4M 744  K4M 742  K4M 708  K4M 748",
-    "KBA_Numbers": "3004572  3333ABG"
+    "cc": "1794",
+    "engineCodes": "F3P 758",
+    "KBA_Numbers": "3004786, 3004724, 3004763"
+  },
+  {
+    "brand": "RENAULT",
+    "model": "CLIO II (BB_, CB_) | CLIO MIO | LUTECIA",
+    "engineType": "1.9 D",
+    "madeYear": "05.1996 - 02.1998",
+    "kw": "48",
+    "hp": "65",
+    "cc": "1870",
+    "engineCodes": "F8Q 632, F8Q 676, F8Q 696, F8Q 714",
+    "KBA_Numbers": ""
+  },
+  {
+    "brand": "RENAULT",
+    "model": "CLIO II (BB_, CB_) | CLIO MIO | LUTECIA",
+    "engineType": "1.9 D (B/C/S576, B/C/S57L)",
+    "madeYear": "01.1991 - 09.1998",
+    "kw": "47",
+    "hp": "64",
+    "cc": "1870",
+    "engineCodes": "F8Q 732, F8Q 730",
+    "KBA_Numbers": "3004764, 3004666"
+  },
+  {
+    "brand": "RENAULT",
+    "model": "CLIO II (BB_, CB_) | CLIO MIO | LUTECIA",
+    "engineType": "Electric",
+    "madeYear": "05.1996 - 02.1998",
+    "kw": "21",
+    "hp": "30",
+    "cc": "2DB 701",
+    "engineCodes": "2DB 701",
+    "KBA_Numbers": ""
   },
   {
     "brand": "RENAULT",
@@ -2680,7 +2878,7 @@
     "kw": "47",
     "hp": "64",
     "cc": "1870",
-    "engineCodes": "F8Q 630  F8Q 632",
+    "engineCodes": "F8Q 630, F8Q 632",
     "KBA_Numbers": "3004569"
   },
   {
@@ -2691,7 +2889,7 @@
     "kw": "48",
     "hp": "65",
     "cc": "1870",
-    "engineCodes": "F8Q 630  F8Q 632",
+    "engineCodes": "F8Q 630, F8Q 632",
     "KBA_Numbers": ""
   },
   {
@@ -2702,7 +2900,7 @@
     "kw": "59",
     "hp": "80",
     "cc": "1870",
-    "engineCodes": "F9Q 782  F9Q 780",
+    "engineCodes": "F9Q 782, F9Q 780",
     "KBA_Numbers": "3004103"
   },
   {
@@ -2714,7 +2912,7 @@
     "hp": "179",
     "cc": "1998",
     "engineCodes": "F4R 738",
-    "KBA_Numbers": "3333067  3333ABM"
+    "KBA_Numbers": "3333067, 3333ABM"
   },
   {
     "brand": "RENAULT",
@@ -2724,667 +2922,205 @@
     "kw": "124",
     "hp": "169",
     "cc": "1998",
-    "engineCodes": "F4R 730  F4R 736",
-    "KBA_Numbers": "3004108  3333ABK"
+    "engineCodes": "F4R 730, F4R 736",
+    "KBA_Numbers": "3004108, 3333ABK"
   },
   {
     "brand": "RENAULT",
-    "model": "MEGANE I (BA0/1_)",
-    "engineType": "1.4 16V (BA0D, BA1H, BA0W, BA10)",
-    "madeYear": "03.1999 - 08.2003",
-    "kw": "70",
-    "hp": "95",
-    "cc": "1390",
-    "engineCodes": "K4J 750  K4J 714",
-    "KBA_Numbers": "3004588"
-  },
-  {
-    "brand": "RENAULT",
-    "model": "MEGANE I (BA0/1_)",
-    "engineType": "1.4 e (BA0E, BA0V)",
-    "madeYear": "01.1996 - 08.2003",
-    "kw": "55",
-    "hp": "75",
-    "cc": "1390",
-    "engineCodes": "E7J 626  E7J 764",
-    "KBA_Numbers": "3004738"
-  },
-  {
-    "brand": "RENAULT",
-    "model": "MEGANE I (BA0/1_)",
-    "engineType": "1.4 Eco (BA0T)",
-    "madeYear": "01.1996 - 03.1999",
-    "kw": "52",
-    "hp": "71",
-    "cc": "1390",
-    "engineCodes": "E7J 624",
-    "KBA_Numbers": "3004752"
-  },
-  {
-    "brand": "RENAULT",
-    "model": "MEGANE I (BA0/1_)",
-    "engineType": "1.6 16V (BA04, BA0B, BA11, BA1J, BA16, BA19, BA1K, BA1V,...",
-    "madeYear": "03.1999 - 08.2002",
-    "kw": "79",
-    "hp": "107",
-    "cc": "1598",
-    "engineCodes": "K4M 709  K4M 706  K4M 701  K4M 700  K4M 708  K4M 704",
-    "KBA_Numbers": "3004587"
-  },
-  {
-    "brand": "RENAULT",
-    "model": "MEGANE I (BA0/1_)",
-    "engineType": "1.6 e (BA0F, BA0S)",
-    "madeYear": "01.1996 - 03.1999",
-    "kw": "66",
-    "hp": "90",
-    "cc": "1598",
-    "engineCodes": "K7M 703  K7M 702  K7M 790",
-    "KBA_Numbers": "3004739"
-  },
-  {
-    "brand": "RENAULT",
-    "model": "MEGANE I (BA0/1_)",
-    "engineType": "1.6 i (BA0L)",
-    "madeYear": "01.1996 - 03.1999",
-    "kw": "55",
-    "hp": "75",
-    "cc": "1598",
-    "engineCodes": "K7M 720",
-    "KBA_Numbers": "3004750"
-  },
-  {
-    "brand": "RENAULT",
-    "model": "MEGANE I (BA0/1_)",
-    "engineType": "1.8 16V (BA06, BA12, BA1A, BA1M, BA1R)",
-    "madeYear": "01.2001 - 08.2003",
-    "kw": "85",
-    "hp": "115",
-    "cc": "1783",
-    "engineCodes": "F4P 722  F4P 720",
-    "KBA_Numbers": "3004126"
-  },
-  {
-    "brand": "RENAULT",
-    "model": "MEGANE I (BA0/1_)",
-    "engineType": "1.9 D Eco (BA0A, BA0U, BA0R)",
-    "madeYear": "01.1996 - 08.2003",
-    "kw": "47",
-    "hp": "64",
-    "cc": "1870",
-    "engineCodes": "F8Q 624  F8Q 622  F8Q 620",
-    "KBA_Numbers": "3004737"
-  },
-  {
-    "brand": "RENAULT",
-    "model": "MEGANE I (BA0/1_)",
-    "engineType": "1.9 dCi (BA05, BA1F)",
-    "madeYear": "02.2001 - 08.2003",
-    "kw": "75",
-    "hp": "102",
-    "cc": "1870",
-    "engineCodes": "F9Q 733  F9Q 732",
-    "KBA_Numbers": "3004113"
-  },
-  {
-    "brand": "RENAULT",
-    "model": "MEGANE I (BA0/1_)",
-    "engineType": "1.9 dT (B/SA0K, B/SA0Y)",
-    "madeYear": "01.1996 - 08.2003",
-    "kw": "66",
-    "hp": "90",
-    "cc": "1870",
-    "engineCodes": "F8Q 786  F8Q 784",
-    "KBA_Numbers": "3004751"
-  },
-  {
-    "brand": "RENAULT",
-    "model": "MEGANE I (BA0/1_)",
-    "engineType": "1.9 dTi (BA08, BA0N)",
-    "madeYear": "03.1997 - 02.2001",
-    "kw": "72",
-    "hp": "98",
-    "cc": "1870",
-    "engineCodes": "F9Q 736  F9Q 731  F9Q 734  F9Q 730",
-    "KBA_Numbers": "3004797"
-  },
-  {
-    "brand": "RENAULT",
-    "model": "MEGANE I (BA0/1_)",
-    "engineType": "1.9 dTi (BA1U)",
-    "madeYear": "02.2001 - 08.2003",
-    "kw": "59",
-    "hp": "80",
-    "cc": "1870",
-    "engineCodes": "F9Q 744",
-    "KBA_Numbers": "3004145"
-  },
-  {
-    "brand": "RENAULT",
-    "model": "MEGANE I (BA0/1_)",
-    "engineType": "1.9 TDI",
-    "madeYear": "09.1996 - 08.2003",
-    "kw": "69",
-    "hp": "94",
-    "cc": "1870",
-    "engineCodes": "F8Q 784  F8Q 786",
-    "KBA_Numbers": "3004789"
-  },
-  {
-    "brand": "RENAULT",
-    "model": "MEGANE I (BA0/1_)",
-    "engineType": "2.0 16V (BA0H)",
-    "madeYear": "07.1996 - 08.2003",
-    "kw": "108",
-    "hp": "147",
-    "cc": "1998",
-    "engineCodes": "F7R 714  F7R 710",
-    "KBA_Numbers": "3004788"
-  },
-  {
-    "brand": "RENAULT",
-    "model": "MEGANE I (BA0/1_)",
-    "engineType": "2.0 i",
-    "madeYear": "03.1999 - 08.2003",
-    "kw": "80",
-    "hp": "109",
-    "cc": "1998",
-    "engineCodes": "F3R 750  F3R 751",
-    "KBA_Numbers": "3004580"
-  },
-  {
-    "brand": "RENAULT",
-    "model": "MEGANE I (BA0/1_)",
-    "engineType": "2.0 i (BA0G)",
-    "madeYear": "01.1996 - 08.2003",
-    "kw": "84",
-    "hp": "114",
-    "cc": "1998",
-    "engineCodes": "F3R 751  F3R 750",
-    "KBA_Numbers": "3004740"
-  },
-  {
-    "brand": "RENAULT",
-    "model": "MEGANE I Cabriolet (EA0/1_)",
-    "engineType": "1.4 16V (EA0D, EA1H, EA0W, EA10)",
-    "madeYear": "03.1999 - 08.2003",
-    "kw": "70",
-    "hp": "95",
-    "cc": "1390",
-    "engineCodes": "K4J 750  K4J 714",
-    "KBA_Numbers": "3004591"
-  },
-  {
-    "brand": "RENAULT",
-    "model": "MEGANE I Cabriolet (EA0/1_)",
-    "engineType": "1.6 16V (EA04, EA0B, EA11, EA1J)",
-    "madeYear": "03.1999 - 07.2003",
-    "kw": "79",
-    "hp": "107",
-    "cc": "1598",
-    "engineCodes": "K4M 701  K4M 709  K4M 708  K4M 700",
-    "KBA_Numbers": "3004592"
-  },
-  {
-    "brand": "RENAULT",
-    "model": "MEGANE I Cabriolet (EA0/1_)",
-    "engineType": "1.6 e (EA0F)",
-    "madeYear": "10.1996 - 03.1999",
-    "kw": "66",
-    "hp": "90",
-    "cc": "1598",
-    "engineCodes": "K7M 702  K7M 703",
-    "KBA_Numbers": "3004790"
-  },
-  {
-    "brand": "RENAULT",
-    "model": "MEGANE I Cabriolet (EA0/1_)",
-    "engineType": "2.0 (EA0G)",
-    "madeYear": "04.1997 - 08.2003",
-    "kw": "84",
-    "hp": "114",
-    "cc": "1998",
-    "engineCodes": "F3R 798  F3R 750",
-    "KBA_Numbers": "3004550"
-  },
-  {
-    "brand": "RENAULT",
-    "model": "MEGANE I Cabriolet (EA0/1_)",
-    "engineType": "2.0 16V",
-    "madeYear": "01.2002 - 08.2003",
-    "kw": "102",
-    "hp": "139",
-    "cc": "1998",
-    "engineCodes": "F4R 746  F4R 770",
-    "KBA_Numbers": "3004191"
-  },
-  {
-    "brand": "RENAULT",
-    "model": "MEGANE I Cabriolet (EA0/1_)",
-    "engineType": "2.0 16V (EA0H)",
-    "madeYear": "10.1996 - 11.1999",
-    "kw": "108",
-    "hp": "147",
-    "cc": "1998",
-    "engineCodes": "F7R 710  F7R 714",
-    "KBA_Numbers": "3004791"
-  },
-  {
-    "brand": "RENAULT",
-    "model": "MEGANE I Cabriolet (EA0/1_)",
-    "engineType": "2.0 16V IDE (EA03, EA0P, EA14)",
-    "madeYear": "11.1999 - 08.2003",
-    "kw": "103",
-    "hp": "140",
-    "cc": "1998",
-    "engineCodes": "F5R 740",
-    "KBA_Numbers": "3004106"
-  },
-  {
-    "brand": "RENAULT",
-    "model": "MEGANE I Cabriolet (EA0/1_)",
-    "engineType": "2.0 i (EA0G)",
-    "madeYear": "03.1999 - 08.2003",
-    "kw": "80",
-    "hp": "109",
-    "cc": "1998",
-    "engineCodes": "F3R 796  F3R 791",
-    "KBA_Numbers": "3004576"
-  },
-  {
-    "brand": "RENAULT",
-    "model": "MEGANE I Classic (LA0/1_)",
-    "engineType": "1.4 (LA0E, LA0V)",
-    "madeYear": "09.1996 - 08.2003",
-    "kw": "55",
-    "hp": "75",
-    "cc": "1390",
-    "engineCodes": "E7J 626  E7J 764",
-    "KBA_Numbers": "3004771"
-  },
-  {
-    "brand": "RENAULT",
-    "model": "MEGANE I Classic (LA0/1_)",
-    "engineType": "1.4 16V (LA0D, LA1H, lA0W, LA10)",
-    "madeYear": "03.1999 - 08.2003",
-    "kw": "70",
-    "hp": "95",
-    "cc": "1390",
-    "engineCodes": "K4J 714  K4J 750",
-    "KBA_Numbers": "3004590"
-  },
-  {
-    "brand": "RENAULT",
-    "model": "MEGANE I Classic (LA0/1_)",
-    "engineType": "1.6 16V (LA00, LA04, LA0B, LA11, LA16, LA19, LA1J, LA1K,...",
-    "madeYear": "03.1999 - 07.2003",
-    "kw": "79",
-    "hp": "107",
-    "cc": "1598",
-    "engineCodes": "K4M 706  K4M 709  K4M 701  K4M 700  K4M 708",
-    "KBA_Numbers": "3004589"
-  },
-  {
-    "brand": "RENAULT",
-    "model": "MEGANE I Classic (LA0/1_)",
-    "engineType": "1.6 e (LA0F, LA0S)",
-    "madeYear": "09.1996 - 03.1999",
-    "kw": "66",
-    "hp": "90",
-    "cc": "1598",
-    "engineCodes": "K7M 790  K7M 703  K7M 702",
-    "KBA_Numbers": "3004772"
-  },
-  {
-    "brand": "RENAULT",
-    "model": "MEGANE I Classic (LA0/1_)",
-    "engineType": "1.6 i (LA0L)",
-    "madeYear": "09.1996 - 03.1999",
-    "kw": "55",
-    "hp": "75",
-    "cc": "1598",
-    "engineCodes": "K7M 720",
-    "KBA_Numbers": "3004775"
-  },
-  {
-    "brand": "RENAULT",
-    "model": "MEGANE I Classic (LA0/1_)",
-    "engineType": "1.8 16V (LA06, LA12, LA1A, LA1M, LA1R)",
-    "madeYear": "01.2001 - 08.2003",
-    "kw": "85",
-    "hp": "115",
-    "cc": "1783",
-    "engineCodes": "F4P 722  F4P 720",
-    "KBA_Numbers": "3004124"
-  },
-  {
-    "brand": "RENAULT",
-    "model": "MEGANE I Classic (LA0/1_)",
-    "engineType": "1.9 D (LA0A, LA0U, LA0R)",
-    "madeYear": "09.1996 - 08.2003",
-    "kw": "47",
-    "hp": "64",
-    "cc": "1870",
-    "engineCodes": "F8Q 624  F8Q 620  F8Q 622",
-    "KBA_Numbers": "3004770"
-  },
-  {
-    "brand": "RENAULT",
-    "model": "MEGANE I Classic (LA0/1_)",
-    "engineType": "1.9 dCi (LA05)",
-    "madeYear": "03.1999 - 07.2003",
-    "kw": "77",
-    "hp": "105",
-    "cc": "1870",
-    "engineCodes": "F9Q 732  F9Q 733",
+    "model": "CLIO II (BB_, CB_) | CLIO MIO | LUTECIA",
+    "engineType": "",
+    "madeYear": "",
+    "kw": "",
+    "hp": "",
+    "cc": "",
+    "engineCodes": "",
     "KBA_Numbers": ""
   },
   {
     "brand": "RENAULT",
-    "model": "MEGANE I Classic (LA0/1_)",
-    "engineType": "1.9 dCi (LA05, LA1F)",
-    "madeYear": "02.2001 - 08.2003",
-    "kw": "75",
-    "hp": "102",
-    "cc": "1870",
-    "engineCodes": "F9Q 733  F9Q 738  F9Q 732",
-    "KBA_Numbers": "3004112"
-  },
-  {
-    "brand": "RENAULT",
-    "model": "MEGANE I Classic (LA0/1_)",
-    "engineType": "1.9 dT (LA0K, LA0Y)",
-    "madeYear": "09.1996 - 08.2003",
-    "kw": "66",
-    "hp": "90",
-    "cc": "1870",
-    "engineCodes": "F8Q 786  F8Q 784",
-    "KBA_Numbers": "3004774"
-  },
-  {
-    "brand": "RENAULT",
-    "model": "MEGANE I Classic (LA0/1_)",
-    "engineType": "1.9 dTi (LA08, LA0N, LA0K)",
-    "madeYear": "03.1997 - 02.2001",
-    "kw": "72",
-    "hp": "98",
-    "cc": "1870",
-    "engineCodes": "F9Q 736  F9Q 734  F9Q 731  F9Q 730",
-    "KBA_Numbers": "3004798"
-  },
-  {
-    "brand": "RENAULT",
-    "model": "MEGANE I Classic (LA0/1_)",
-    "engineType": "1.9 dTi (LA1U)",
-    "madeYear": "02.2001 - 08.2003",
-    "kw": "59",
-    "hp": "80",
-    "cc": "1870",
-    "engineCodes": "F9Q 744",
-    "KBA_Numbers": "3004155"
-  },
-  {
-    "brand": "RENAULT",
-    "model": "MEGANE I Classic (LA0/1_)",
-    "engineType": "1.9 TDI",
-    "madeYear": "09.1996 - 08.2003",
-    "kw": "69",
-    "hp": "94",
-    "cc": "1870",
-    "engineCodes": "F8Q 784  F8Q 786",
-    "KBA_Numbers": "3004776"
-  },
-  {
-    "brand": "RENAULT",
-    "model": "MEGANE I Classic (LA0/1_)",
-    "engineType": "2.0 i (LA07, LA0G)",
-    "madeYear": "09.1996 - 08.2003",
-    "kw": "84",
-    "hp": "114",
-    "cc": "1998",
-    "engineCodes": "F3R 752  F3R 798  F3R 797  F3R 751  F3R 796  F3R 791  F3R 750",
-    "KBA_Numbers": "3004773"
-  },
-  {
-    "brand": "RENAULT",
-    "model": "MEGANE I Classic (LA0/1_)",
-    "engineType": "2.0 i (LA0G)",
-    "madeYear": "03.1999 - 08.2003",
-    "kw": "80",
-    "hp": "109",
-    "cc": "1998",
-    "engineCodes": "F3R 798  F3R 797  F3R 751  F3R 796  F3R 791  F3R 750  F3R 752",
-    "KBA_Numbers": "3004577"
-  },
-  {
-    "brand": "RENAULT",
-    "model": "MEGANE I Classic (LA0/1_)",
-    "engineType": "2.0 RT",
-    "madeYear": "03.2001 - 08.2003",
-    "kw": "103",
-    "hp": "140",
-    "cc": "1998",
-    "engineCodes": "F4R 747  F5R 740",
+    "model": "CLIO II (BB_, CB_) | CLIO MIO | LUTECIA",
+    "engineType": "",
+    "madeYear": "",
+    "kw": "",
+    "hp": "",
+    "cc": "",
+    "engineCodes": "",
     "KBA_Numbers": ""
   },
   {
     "brand": "RENAULT",
-    "model": "MEGANE I Coach (DA0/1_)",
-    "engineType": "1.4 16V (DA0D, DA1H, DA0W, DA10)",
-    "madeYear": "03.1999 - 07.2003",
-    "kw": "70",
-    "hp": "95",
-    "cc": "1390",
-    "engineCodes": "K4J 714  K4J 700  K4J 750",
-    "KBA_Numbers": "3004586"
-  },
-  {
-    "brand": "RENAULT",
-    "model": "MEGANE I Coach (DA0/1_)",
-    "engineType": "1.6 16V (DA0B, DA04, DA11)",
-    "madeYear": "03.1999 - 07.2003",
-    "kw": "79",
-    "hp": "107",
-    "cc": "1598",
-    "engineCodes": "K4M 709  K4M 701  K4M 708  K4M 700",
-    "KBA_Numbers": "3004585"
-  },
-  {
-    "brand": "RENAULT",
-    "model": "MEGANE I Coach (DA0/1_)",
-    "engineType": "1.6 e (DA0F)",
-    "madeYear": "03.1996 - 03.1999",
-    "kw": "66",
-    "hp": "90",
-    "cc": "1598",
-    "engineCodes": "K7M 702  K7M 703",
-    "KBA_Numbers": "3004747"
-  },
-  {
-    "brand": "RENAULT",
-    "model": "MEGANE I Coach (DA0/1_)",
-    "engineType": "1.9 DCi",
-    "madeYear": "03.1999 - 09.2000",
-    "kw": "77",
-    "hp": "105",
-    "cc": "1870",
-    "engineCodes": "F9Q 733  F9Q 732",
+    "model": "CLIO II (BB_, CB_) | CLIO MIO | LUTECIA",
+    "engineType": "",
+    "madeYear": "",
+    "kw": "",
+    "hp": "",
+    "cc": "",
+    "engineCodes": "",
     "KBA_Numbers": ""
   },
   {
     "brand": "RENAULT",
-    "model": "MEGANE I Coach (DA0/1_)",
-    "engineType": "1.9 dCi (DA05, DA1F)",
-    "madeYear": "02.2001 - 08.2003",
-    "kw": "75",
-    "hp": "102",
-    "cc": "1870",
-    "engineCodes": "F9Q 733  F9Q 732",
-    "KBA_Numbers": "3004114"
-  },
-  {
-    "brand": "RENAULT",
-    "model": "MEGANE I Coach (DA0/1_)",
-    "engineType": "1.9 dTi (DA0N)",
-    "madeYear": "03.1997 - 02.2001",
-    "kw": "72",
-    "hp": "98",
-    "cc": "1870",
-    "engineCodes": "F9Q 736  F9Q 731  F9Q 734",
-    "KBA_Numbers": "3004799"
-  },
-  {
-    "brand": "RENAULT",
-    "model": "MEGANE I Coach (DA0/1_)",
-    "engineType": "2.0 16V",
-    "madeYear": "01.2002 - 08.2003",
-    "kw": "102",
-    "hp": "139",
-    "cc": "1998",
-    "engineCodes": "F4R 746",
-    "KBA_Numbers": "3004190"
-  },
-  {
-    "brand": "RENAULT",
-    "model": "MEGANE I Coach (DA0/1_)",
-    "engineType": "2.0 16V (DA0H)",
-    "madeYear": "03.1996 - 11.1999",
-    "kw": "108",
-    "hp": "147",
-    "cc": "1998",
-    "engineCodes": "F7R 710  F7R 714",
-    "KBA_Numbers": "3004749"
-  },
-  {
-    "brand": "RENAULT",
-    "model": "MEGANE I Coach (DA0/1_)",
-    "engineType": "2.0 16V IDE (DA03, DA0P, DA14)",
-    "madeYear": "11.1999 - 08.2003",
-    "kw": "103",
-    "hp": "140",
-    "cc": "1998",
-    "engineCodes": "F5R 740",
-    "KBA_Numbers": "3004105"
-  },
-  {
-    "brand": "RENAULT",
-    "model": "MEGANE I Coach (DA0/1_)",
-    "engineType": "2.0 i",
-    "madeYear": "03.1999 - 08.2003",
-    "kw": "80",
-    "hp": "109",
-    "cc": "1998",
-    "engineCodes": "F3R 796  F3R 791  F3R 750  F3R 751  F3R 797  F3R 798",
-    "KBA_Numbers": "3004579"
-  },
-  {
-    "brand": "RENAULT",
-    "model": "MEGANE I Coach (DA0/1_)",
-    "engineType": "2.0 i (DA0G)",
-    "madeYear": "03.1996 - 08.2003",
-    "kw": "84",
-    "hp": "114",
-    "cc": "1998",
-    "engineCodes": "F3R 798  F3R 751  F3R 750",
-    "KBA_Numbers": "3004748"
-  },
-  {
-    "brand": "RENAULT",
-    "model": "MEGANE I Grandtour (KA0/1_)",
-    "engineType": "1.4 e (KA0V)",
-    "madeYear": "03.1999 - 08.2003",
-    "kw": "55",
-    "hp": "75",
-    "cc": "1390",
-    "engineCodes": "E7J 626",
-    "KBA_Numbers": "3004595"
-  },
-  {
-    "brand": "RENAULT",
-    "model": "MEGANE I Grandtour (KA0/1_)",
-    "engineType": "1.6 e (KA0F)",
-    "madeYear": "03.1999 - 08.2003",
-    "kw": "66",
-    "hp": "90",
-    "cc": "1598",
-    "engineCodes": "K7M 703  K7M 702",
-    "KBA_Numbers": "3004594"
-  },
-  {
-    "brand": "RENAULT",
-    "model": "MEGANE I Grandtour (KA0/1_)",
-    "engineType": "1.9 D (KA0J, KA0R)",
-    "madeYear": "04.1999 - 08.2003",
-    "kw": "47",
-    "hp": "64",
-    "cc": "1870",
-    "engineCodes": "F8Q 622  F8Q 790",
-    "KBA_Numbers": "3004598"
-  },
-  {
-    "brand": "RENAULT",
-    "model": "MEGANE I Hatchback Van (SA0/1_)",
-    "engineType": "1.9 (SA0U, SA0R, SA0A)",
-    "madeYear": "08.1995 - 09.2000",
-    "kw": "47",
-    "hp": "64",
-    "cc": "1870",
-    "engineCodes": "F8Q 624  F8Q 620  F8Q 622",
+    "model": "CLIO II (BB_, CB_) | CLIO MIO | LUTECIA",
+    "engineType": "",
+    "madeYear": "",
+    "kw": "",
+    "hp": "",
+    "cc": "",
+    "engineCodes": "",
     "KBA_Numbers": ""
   },
   {
     "brand": "RENAULT",
-    "model": "MEGANE I Hatchback Van (SA0/1_)",
-    "engineType": "1.9 dCi",
-    "madeYear": "10.2000 - 07.2003",
-    "kw": "59",
-    "hp": "80",
-    "cc": "1870",
-    "engineCodes": "F9Q 738  F9Q 744",
+    "model": "CLIO II (BB_, CB_) | CLIO MIO | LUTECIA",
+    "engineType": "",
+    "madeYear": "",
+    "kw": "",
+    "hp": "",
+    "cc": "",
+    "engineCodes": "",
     "KBA_Numbers": ""
   },
   {
     "brand": "RENAULT",
-    "model": "SUPER 5 (B/C40_)",
-    "engineType": "1.4 Turbo (C405)",
-    "madeYear": "04.1985 - 08.1990",
-    "kw": "88",
-    "hp": "120",
-    "cc": "1397",
-    "engineCodes": "C1J 788  C1J 784  C1J 782",
-    "KBA_Numbers": "3004446"
+    "model": "CLIO II (BB_, CB_) | CLIO MIO | LUTECIA",
+    "engineType": "",
+    "madeYear": "",
+    "kw": "",
+    "hp": "",
+    "cc": "",
+    "engineCodes": "",
+    "KBA_Numbers": ""
   },
   {
     "brand": "RENAULT",
-    "model": "SUPER 5 (B/C40_)",
-    "engineType": "1.7 (B/C40K, B/C40G)",
-    "madeYear": "06.1987 - 03.1995",
-    "kw": "64",
-    "hp": "87",
-    "cc": "1721",
-    "engineCodes": "F2N 740  F2N 742",
-    "KBA_Numbers": "3004604"
+    "model": "CLIO II (BB_, CB_) | CLIO MIO | LUTECIA",
+    "engineType": "",
+    "madeYear": "",
+    "kw": "",
+    "hp": "",
+    "cc": "",
+    "engineCodes": "",
+    "KBA_Numbers": ""
   },
   {
     "brand": "RENAULT",
-    "model": "SUPER 5 (B/C40_)",
-    "engineType": "1.7 i (C409)",
-    "madeYear": "10.1986 - 08.1991",
-    "kw": "69",
-    "hp": "94",
-    "cc": "1721",
-    "engineCodes": "F3N 722  F3N 702",
-    "KBA_Numbers": "3004610"
+    "model": "CLIO II (BB_, CB_) | CLIO MIO | LUTECIA",
+    "engineType": "",
+    "madeYear": "",
+    "kw": "",
+    "hp": "",
+    "cc": "",
+    "engineCodes": "",
+    "KBA_Numbers": ""
   },
   {
     "brand": "RENAULT",
-    "model": "THALIA I (LB_) | SYMBOL | CLIO SYMBOL | CLIO",
-    "engineType": "1.2 16V",
-    "madeYear": "Başlangıç 04.2002",
-    "kw": "55",
-    "hp": "75",
-    "cc": "1149",
-    "engineCodes": "D4F 728",
-    "KBA_Numbers": "3333ABS"
+    "model": "CLIO II (BB_, CB_) | CLIO MIO | LUTECIA",
+    "engineType": "",
+    "madeYear": "",
+    "kw": "",
+    "hp": "",
+    "cc": "",
+    "engineCodes": "",
+    "KBA_Numbers": ""
+  },
+  {
+    "brand": "RENAULT",
+    "model": "CLIO II (BB_, CB_) | CLIO MIO | LUTECIA",
+    "engineType": "",
+    "madeYear": "",
+    "kw": "",
+    "hp": "",
+    "cc": "",
+    "engineCodes": "",
+    "KBA_Numbers": ""
+  },
+  {
+    "brand": "RENAULT",
+    "model": "CLIO II (BB_, CB_) | CLIO MIO | LUTECIA",
+    "engineType": "",
+    "madeYear": "",
+    "kw": "",
+    "hp": "",
+    "cc": "",
+    "engineCodes": "",
+    "KBA_Numbers": ""
+  },
+  {
+    "brand": "RENAULT",
+    "model": "CLIO II (BB_, CB_) | CLIO MIO | LUTECIA",
+    "engineType": "",
+    "madeYear": "",
+    "kw": "",
+    "hp": "",
+    "cc": "",
+    "engineCodes": "",
+    "KBA_Numbers": ""
+  },
+  {
+    "brand": "RENAULT",
+    "model": "CLIO II (BB_, CB_) | CLIO MIO | LUTECIA",
+    "engineType": "",
+    "madeYear": "",
+    "kw": "",
+    "hp": "",
+    "cc": "",
+    "engineCodes": "",
+    "KBA_Numbers": ""
+  },
+  {
+    "brand": "RENAULT",
+    "model": "CLIO II (BB_, CB_) | CLIO MIO | LUTECIA",
+    "engineType": "",
+    "madeYear": "",
+    "kw": "",
+    "hp": "",
+    "cc": "",
+    "engineCodes": "",
+    "KBA_Numbers": ""
+  },
+  {
+    "brand": "RENAULT",
+    "model": "CLIO II (BB_, CB_) | CLIO MIO | LUTECIA",
+    "engineType": "",
+    "madeYear": "",
+    "kw": "",
+    "hp": "",
+    "cc": "",
+    "engineCodes": "",
+    "KBA_Numbers": ""
+  },
+  {
+    "brand": "RENAULT",
+    "model": "CLIO II (BB_, CB_) | CLIO MIO | LUTECIA",
+    "engineType": "",
+    "madeYear": "",
+    "kw": "",
+    "hp": "",
+    "cc": "",
+    "engineCodes": "",
+    "KBA_Numbers": ""
+  },
+  {
+    "brand": "RENAULT",
+    "model": "CLIO II (BB_, CB_) | CLIO MIO | LUTECIA",
+    "engineType": "",
+    "madeYear": "",
+    "kw": "",
+    "hp": "",
+    "cc": "",
+    "engineCodes": "",
+    "KBA_Numbers": ""
+  },
+  {
+    "brand": "RENAULT",
+    "model": "CLIO II (BB_, CB_) | CLIO MIO | LUTECIA",
+    "engineType": "",
+    "madeYear": "",
+    "kw": "",
+    "hp": "",
+    "cc": "",
+    "engineCodes": "",
+    "KBA_Numbers": ""
   }
 ]

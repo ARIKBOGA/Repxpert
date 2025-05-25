@@ -1,0 +1,101 @@
+[
+  {
+    "brand": "HYUNDAI",
+    "model": "ELANTRA VI Sedan (AD, ADA) | AVANTE",
+    "engineType": "1.6",
+    "madeYear": "02.2016 - 12.2020",
+    "kw": "94",
+    "hp": "128",
+    "cc": "1591",
+    "engineCodes": "G4FG",
+    "KBA_Numbers": "8252AHF"
+  },
+  {
+    "brand": "HYUNDAI",
+    "model": "ELANTRA VI Sedan (AD, ADA) | AVANTE",
+    "engineType": "1.6 D",
+    "madeYear": "02.2016 - 12.2020",
+    "kw": "100",
+    "hp": "136",
+    "cc": "1582",
+    "engineCodes": "D4FB",
+    "KBA_Numbers": "8252AHH"
+  },
+  {
+    "brand": "HYUNDAI",
+    "model": "ELANTRA VI Sedan (AD, ADA) | AVANTE",
+    "engineType": "2.0",
+    "madeYear": "10.2015 - 12.2020",
+    "kw": "112",
+    "hp": "152",
+    "cc": "1999",
+    "engineCodes": "G4NA",
+    "KBA_Numbers": "8252AHG"
+  },
+  {
+    "brand": "HYUNDAI",
+    "model": "IONIQ (AE)",
+    "engineType": "1.6 GDI Hybrid",
+    "madeYear": "03.2016 - 07.2022",
+    "kw": "104",
+    "hp": "141",
+    "cc": "1580",
+    "engineCodes": "G4LE",
+    "KBA_Numbers": "8252AHM"
+  },
+  {
+    "brand": "HYUNDAI",
+    "model": "IONIQ (AE)",
+    "engineType": "Electric",
+    "madeYear": "03.2016 - 08.2019",
+    "kw": "88",
+    "hp": "120",
+    "cc": "EM09",
+    "engineCodes": "EM09",
+    "KBA_Numbers": "8252AHL"
+  },
+  {
+    "brand": "HYUNDAI",
+    "model": "IONIQ (AE)",
+    "engineType": "Electric",
+    "madeYear": "07.2019 - 07.2022",
+    "kw": "100",
+    "hp": "136",
+    "cc": "EM10",
+    "engineCodes": "EM10",
+    "KBA_Numbers": ""
+  },
+  {
+    "brand": "KIA",
+    "model": "NIRO I (DE)",
+    "engineType": "1.6 GDI Plug-in Hybrid",
+    "madeYear": "09.2016 - 08.2022",
+    "kw": "104",
+    "hp": "141",
+    "cc": "1580",
+    "engineCodes": "G4LE",
+    "KBA_Numbers": "2233AAJ, 8253AGL"
+  },
+  {
+    "brand": "KIA",
+    "model": "NIRO I (DE)",
+    "engineType": "E-NIRO",
+    "madeYear": "08.2018 - 08.2022",
+    "kw": "100",
+    "hp": "136",
+    "cc": "0",
+    "engineCodes": "EM16",
+    "KBA_Numbers": "8253AIC, 2233AAL"
+  },
+  {
+    "brand": "KIA",
+    "model": "NIRO I (DE)",
+    "engineType": "E-NIRO",
+    "madeYear": "08.2018 - 08.2022",
+    "kw": "150",
+    "hp": "204",
+    "cc": "0",
+    "engineCodes": "EM16",
+    "KBA_Numbers": "8253AIB, 2233AAK"
+  }
+]

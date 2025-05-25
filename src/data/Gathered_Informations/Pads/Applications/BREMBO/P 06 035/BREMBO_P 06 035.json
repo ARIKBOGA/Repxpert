@@ -1,0 +1,35 @@
+[
+  {
+    "brand": "BMW",
+    "model": "3 (E90)",
+    "engineType": "318 d",
+    "madeYear": "02.2007 - 10.2011",
+    "kw": "105",
+    "hp": "143",
+    "cc": "1995",
+    "engineCodes": "N47 D20 C, N47 D20 A",
+    "KBA_Numbers": "0005ALH, 0005AVX"
+  },
+  {
+    "brand": "BMW",
+    "model": "3 Touring (E91)",
+    "engineType": "318 d",
+    "madeYear": "09.2005 - 08.2007",
+    "kw": "90",
+    "hp": "122",
+    "cc": "1995",
+    "engineCodes": "M47 D20 (204D4)",
+    "KBA_Numbers": "0005ABZ, 0005ACA"
+  },
+  {
+    "brand": "BMW",
+    "model": "3 Touring (E91)",
+    "engineType": "318 i",
+    "madeYear": "01.2006 - 08.2007",
+    "kw": "95",
+    "hp": "129",
+    "cc": "1995",
+    "engineCodes": "N46 B20 B",
+    "KBA_Numbers": "0005ABX"
+  }
+]

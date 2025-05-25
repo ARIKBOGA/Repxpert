@@ -1,0 +1,35 @@
+[
+  {
+    "brand": "CITROËN",
+    "model": "C5 I (DC_)",
+    "engineType": "1.8 16V (DC6FZB, DC6FZE)",
+    "madeYear": "03.2001 - 08.2004",
+    "kw": "85",
+    "hp": "115",
+    "cc": "1749",
+    "engineCodes": "6FZ (EW7J4)",
+    "KBA_Numbers": "3001837, 3001753"
+  },
+  {
+    "brand": "CITROËN",
+    "model": "C5 II (RC_)",
+    "engineType": "1.8 16V",
+    "madeYear": "09.2005 - 01.2008",
+    "kw": "92",
+    "hp": "125",
+    "cc": "1749",
+    "engineCodes": "6FY (EW7A)",
+    "KBA_Numbers": "3001006, 3001ACV"
+  },
+  {
+    "brand": "CITROËN",
+    "model": "C5 II (RC_)",
+    "engineType": "1.8 16V (RC6FZB)",
+    "madeYear": "09.2004 - 08.2005",
+    "kw": "85",
+    "hp": "116",
+    "cc": "1749",
+    "engineCodes": "6FZ (EW7J4)",
+    "KBA_Numbers": "3001837"
+  }
+]

@@ -29,12 +29,16 @@ export function getSubfolderNamesSync(dirPath: string): string[] {
     .map(entry => entry.name);
 }
 
+type StringPair = {
+  yvNo: string;
+  brandRefs: { [brand: string]: string };
+};
 
-export const padPairs = [
+export const padPairs: StringPair[] = [
 
-  { yvNo: "21827201", brandRefs: { "ICER": "181121" } },
-  { yvNo: "21934201", brandRefs: { "ICER": "181707" } },
-  { yvNo: "23215208", brandRefs: { "ICER": "181431" } },
+  { yvNo: "20906201", brandRefs: { "BREMBO": "P 61 097" } },
+  // { yvNo: "21934201", brandRefs: { "ICER": "181707" } },
+  // { yvNo: "23215208", brandRefs: { "ICER": "181431" } },
   // { yvNo: "24137201", brandRefs: { "ICER": "181651" } },
   // { yvNo: "24142201", brandRefs: { "ICER": "181805" } },
   // { yvNo: "24170201", brandRefs: { "ICER": "181919" } },
