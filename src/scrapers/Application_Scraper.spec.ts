@@ -15,7 +15,7 @@ const filterBrand = process.env.FILTER_BRAND_APPLICATION as string; // Örnek: '
 // Ürün tipine karşılık gelen Excel dosyasından katalog bilgilerini oku
 const references : ProductReference[] = readProductReferencesFromExcel(productType);
 
-
+const scrapedCrosses : Set<string> = new Set<string>();
 
 let retryList = readJsonFile<string[]>(retryListFilePath, []);
 
@@ -37,6 +37,12 @@ test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
       console.log(`İlk referans: ${firstCross}`);
       cross = firstCross; // Sadece ilk referansı kullan
     }
+
+    if (scrapedCrosses.has(cross)) {
+      console.log(`✅ ${cross} zaten işlendi, atlanıyor.`);
+      continue; // Eğer bu cross zaten işlendi ise atla
+    }
+    scrapedCrosses.add(cross); // İşlenen crossları kaydet
     
     test(`${filterBrand} - ${cross} ürününün araç uyumluluklarını getir`, async ({page,}) => {
       
