@@ -3,7 +3,7 @@ import { readProductReferencesFromExcel, ProductReference } from '../utils/Scrap
 import ConfigReader from '../utils/ConfigReader';
 import * as fs from 'fs';
 import * as path from 'path';
-import { getSubfolderNamesSync, balata_katalog_full } from '../utils/FileHelpers';
+import { getSubfolderNamesSync, padPairs } from '../utils/FileHelpers';
 
 
 // Çiftleri temsil eden arayüz
@@ -22,7 +22,7 @@ const references : ProductReference[] = readProductReferencesFromExcel(productTy
 
 test.describe('YV NO ve Textar kodları ile Cross Numbers tarayıcı', () => {
 
-    for (const ref of references) {
+    for (const ref of padPairs) {
         const yvNo = ref.yvNo;
         const brandRefs = ref.brandRefs;
         const searchBrand = 'ICER';
@@ -77,8 +77,9 @@ test.describe('YV NO ve Textar kodları ile Cross Numbers tarayıcı', () => {
                 // }
 
                 await page.waitForLoadState('networkidle')
-                const productTitlePromise = iframe.locator('//h2').nth(1).textContent() || 'Unknown Product';
-                let productTitle = await productTitlePromise;
+                const productTitleLocator = iframe.locator('//h2').nth(1);
+                await productTitleLocator.waitFor({state: 'visible', timeout: 3000 });
+                let productTitle = await productTitleLocator.textContent();
                 if (!productTitle) {
                     productTitle = 'Unknown Product';
                 }
