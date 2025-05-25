@@ -1,0 +1,134 @@
+[
+  {
+    "brand": "CITROËN",
+    "model": "C1 (PM_, PN_)",
+    "engineType": "1.0",
+    "madeYear": "06.2005 - 09.2014",
+    "kw": "50",
+    "hp": "68",
+    "cc": "998",
+    "engineCodes": "CFB (1KR), CFA (384F)",
+    "KBA_Numbers": "3001872, 3001ACO"
+  },
+  {
+    "brand": "CITROËN",
+    "model": "C1 (PM_, PN_)",
+    "engineType": "1.4 HDi",
+    "madeYear": "06.2005 - 09.2014",
+    "kw": "40",
+    "hp": "54",
+    "cc": "1398",
+    "engineCodes": "8HT (DV4TD)",
+    "KBA_Numbers": "3001878, 3001ACP"
+  },
+  {
+    "brand": "CITROËN",
+    "model": "C1 II (PA_, PS_)",
+    "engineType": "1.0 VTi 68",
+    "madeYear": "04.2014 - 04.2018",
+    "kw": "51",
+    "hp": "69",
+    "cc": "998",
+    "engineCodes": "CFB (1KR)",
+    "KBA_Numbers": "3001AUC"
+  },
+  {
+    "brand": "CITROËN",
+    "model": "C1 II (PA_, PS_)",
+    "engineType": "1.0 VTi 72",
+    "madeYear": "06.2018 - 07.2021",
+    "kw": "53",
+    "hp": "72",
+    "cc": "998",
+    "engineCodes": "CFB (1KR)",
+    "KBA_Numbers": "3001BAE, 3001AZH"
+  },
+  {
+    "brand": "CITROËN",
+    "model": "C1 II (PA_, PS_)",
+    "engineType": "1.2 VTi 82",
+    "madeYear": "04.2014 - 04.2018",
+    "kw": "60",
+    "hp": "82",
+    "cc": "1199",
+    "engineCodes": "HMT (EB2D), HMZ (EB2F), HMZ (EB2)",
+    "KBA_Numbers": "3001AUD"
+  },
+  {
+    "brand": "PEUGEOT",
+    "model": "108",
+    "engineType": "1.0 VTi",
+    "madeYear": "Başlangıç 05.2014",
+    "kw": "51",
+    "hp": "69",
+    "cc": "998",
+    "engineCodes": "CFB (1KR)",
+    "KBA_Numbers": "3003ATW"
+  },
+  {
+    "brand": "PEUGEOT",
+    "model": "108",
+    "engineType": "1.0 VTi 72",
+    "madeYear": "Başlangıç 05.2018",
+    "kw": "53",
+    "hp": "72",
+    "cc": "998",
+    "engineCodes": "CFB (1KR)",
+    "KBA_Numbers": "3003AZQ, 3003BAJ"
+  },
+  {
+    "brand": "PEUGEOT",
+    "model": "108",
+    "engineType": "1.2",
+    "madeYear": "Başlangıç 05.2014",
+    "kw": "60",
+    "hp": "82",
+    "cc": "1199",
+    "engineCodes": "HMT (EB2D), HMZ (EB2), HMZ (EB2F)",
+    "KBA_Numbers": "3003ATX"
+  },
+  {
+    "brand": "TOYOTA",
+    "model": "AYGO (_B1_) | WIGO",
+    "engineType": "1.0 (KGB10_, KGB10R)",
+    "madeYear": "07.2005 - 05.2014",
+    "kw": "50",
+    "hp": "68",
+    "cc": "998",
+    "engineCodes": "1KR-FE",
+    "KBA_Numbers": "5048100, 5048AAM, 5013AAE"
+  },
+  {
+    "brand": "TOYOTA",
+    "model": "AYGO (_B1_) | WIGO",
+    "engineType": "1.4 D-4D (WNB10_, WNB10R)",
+    "madeYear": "07.2005 - 08.2010",
+    "kw": "40",
+    "hp": "54",
+    "cc": "1398",
+    "engineCodes": "2W-ZTV",
+    "KBA_Numbers": "5048108, 5048AAN, 5013AAF"
+  },
+  {
+    "brand": "TOYOTA",
+    "model": "AYGO (_B4_)",
+    "engineType": "1.0 (KGB40)",
+    "madeYear": "Başlangıç 05.2014",
+    "kw": "51",
+    "hp": "69",
+    "cc": "998",
+    "engineCodes": "1KR-FE",
+    "KBA_Numbers": "5013AJG"
+  },
+  {
+    "brand": "TOYOTA",
+    "model": "AYGO (_B4_)",
+    "engineType": "1.0 VVTi (KGB40)",
+    "madeYear": "Başlangıç 03.2018",
+    "kw": "53",
+    "hp": "72",
+    "cc": "998",
+    "engineCodes": "1KR-FE",
+    "KBA_Numbers": "5013ALR"
+  }
+]

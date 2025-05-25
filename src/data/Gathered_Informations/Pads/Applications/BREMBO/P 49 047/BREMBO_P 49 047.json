@@ -1,0 +1,79 @@
+[
+  {
+    "brand": "MAZDA",
+    "model": "CX-3 (DK)",
+    "engineType": "1.5 SKYACTIV-D (DK2WS, DK5FW)",
+    "madeYear": "02.2015 - 01.2018",
+    "kw": "77",
+    "hp": "105",
+    "cc": "1499",
+    "engineCodes": "S5Y2, S5Y5, S5Y7, S5Y9",
+    "KBA_Numbers": "7118AGX"
+  },
+  {
+    "brand": "MAZDA",
+    "model": "CX-3 (DK)",
+    "engineType": "1.5 SKYACTIV-D AWD (DK4WS, DK5AW)",
+    "madeYear": "02.2015 - 01.2018",
+    "kw": "77",
+    "hp": "105",
+    "cc": "1499",
+    "engineCodes": "S5Y5, S5Y2, S5Y9, S5Y7",
+    "KBA_Numbers": "7118AGY"
+  },
+  {
+    "brand": "MAZDA",
+    "model": "CX-3 (DK)",
+    "engineType": "2.0 SKYACTIV-G (DK2W7, DKEFW)",
+    "madeYear": "Başlangıç 05.2018",
+    "kw": "110",
+    "hp": "150",
+    "cc": "1998",
+    "engineCodes": "PEXB",
+    "KBA_Numbers": ""
+  },
+  {
+    "brand": "MAZDA",
+    "model": "CX-3 (DK)",
+    "engineType": "2.0 SKYACTIV-G (DK5W, DK6W)",
+    "madeYear": "Başlangıç 05.2015",
+    "kw": "88",
+    "hp": "120",
+    "cc": "1998",
+    "engineCodes": "PEX3, PEXB",
+    "KBA_Numbers": "7118AGW"
+  },
+  {
+    "brand": "MAZDA",
+    "model": "CX-3 (DK)",
+    "engineType": "2.0 SKYACTIV-G AWD (DK4W7, DKEAW)",
+    "madeYear": "Başlangıç 05.2015",
+    "kw": "110",
+    "hp": "150",
+    "cc": "1998",
+    "engineCodes": "PEXT, PEX3, PEXB",
+    "KBA_Numbers": "7118AGV"
+  },
+  {
+    "brand": "MAZDA",
+    "model": "CX-5 (KE, GH)",
+    "engineType": "2.0 (KEEFW)",
+    "madeYear": "11.2011 - 02.2017",
+    "kw": "121",
+    "hp": "165",
+    "cc": "1998",
+    "engineCodes": "PEY7, PEY6",
+    "KBA_Numbers": "7118AGA, 7118AFB"
+  },
+  {
+    "brand": "MAZDA",
+    "model": "CX-5 (KE, GH)",
+    "engineType": "2.2 D AWD (KE102)",
+    "madeYear": "04.2012 - 02.2017",
+    "kw": "129",
+    "hp": "175",
+    "cc": "2191",
+    "engineCodes": "SHY4",
+    "KBA_Numbers": "7118AGD, 7118AFE"
+  }
+]

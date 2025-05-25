@@ -1,0 +1,233 @@
+[
+  {
+    "brand": "BMW",
+    "model": "5 (E60)",
+    "engineType": "535 d",
+    "madeYear": "09.2004 - 03.2010",
+    "kw": "200",
+    "hp": "272",
+    "cc": "2993",
+    "engineCodes": "M57 D30 (306D4)",
+    "KBA_Numbers": "0005ABO, 0005809"
+  },
+  {
+    "brand": "BMW",
+    "model": "5 (E60)",
+    "engineType": "535 d",
+    "madeYear": "01.2007 - 03.2010",
+    "kw": "210",
+    "hp": "286",
+    "cc": "2993",
+    "engineCodes": "M57 D30 (306D5)",
+    "KBA_Numbers": "0005AIE"
+  },
+  {
+    "brand": "BMW",
+    "model": "5 (E60)",
+    "engineType": "550 i",
+    "madeYear": "09.2005 - 12.2009",
+    "kw": "270",
+    "hp": "367",
+    "cc": "4799",
+    "engineCodes": "N62 B48 B",
+    "KBA_Numbers": "0005ABN, 0005857, 0005ABG"
+  },
+  {
+    "brand": "BMW",
+    "model": "5 (E60)",
+    "engineType": "M5",
+    "madeYear": "09.2004 - 12.2009",
+    "kw": "373",
+    "hp": "507",
+    "cc": "4999",
+    "engineCodes": "S85 B50 A",
+    "KBA_Numbers": "7909317, 7909AAE, 7909AAO"
+  },
+  {
+    "brand": "BMW",
+    "model": "5 Touring (E61)",
+    "engineType": "535 d",
+    "madeYear": "09.2004 - 12.2010",
+    "kw": "200",
+    "hp": "272",
+    "cc": "2993",
+    "engineCodes": "M57 D30 (306D4)",
+    "KBA_Numbers": "0005810, 0005ABW"
+  },
+  {
+    "brand": "BMW",
+    "model": "5 Touring (E61)",
+    "engineType": "535 d",
+    "madeYear": "01.2007 - 12.2010",
+    "kw": "210",
+    "hp": "286",
+    "cc": "2993",
+    "engineCodes": "M57 D30 (306D5)",
+    "KBA_Numbers": "0005AIK"
+  },
+  {
+    "brand": "BMW",
+    "model": "5 Touring (E61)",
+    "engineType": "550 i",
+    "madeYear": "07.2005 - 12.2010",
+    "kw": "270",
+    "hp": "367",
+    "cc": "4799",
+    "engineCodes": "N62 B48 B, N62 B48 A",
+    "KBA_Numbers": "0005858, 0005AAX"
+  },
+  {
+    "brand": "BMW",
+    "model": "5 Touring (E61)",
+    "engineType": "M5",
+    "madeYear": "02.2007 - 12.2010",
+    "kw": "373",
+    "hp": "507",
+    "cc": "4999",
+    "engineCodes": "S85 B50 A",
+    "KBA_Numbers": "7909AAG, 7909AAP"
+  },
+  {
+    "brand": "BMW",
+    "model": "6 (E63)",
+    "engineType": "635 d",
+    "madeYear": "07.2007 - 07.2010",
+    "kw": "210",
+    "hp": "286",
+    "cc": "2993",
+    "engineCodes": "M57 D30 (306D5)",
+    "KBA_Numbers": "0005AKH"
+  },
+  {
+    "brand": "BMW",
+    "model": "6 (E63)",
+    "engineType": "650 i",
+    "madeYear": "09.2005 - 08.2010",
+    "kw": "270",
+    "hp": "367",
+    "cc": "4799",
+    "engineCodes": "N62 B48 B",
+    "KBA_Numbers": "0005861, 0005AGX"
+  },
+  {
+    "brand": "BMW",
+    "model": "6 (E63)",
+    "engineType": "M",
+    "madeYear": "09.2005 - 07.2010",
+    "kw": "373",
+    "hp": "507",
+    "cc": "4999",
+    "engineCodes": "S85 B50 A",
+    "KBA_Numbers": "7909318, 7909AAD, 7909AAQ"
+  },
+  {
+    "brand": "BMW",
+    "model": "6 Cabrio (E64)",
+    "engineType": "635 d",
+    "madeYear": "07.2007 - 07.2010",
+    "kw": "210",
+    "hp": "286",
+    "cc": "2993",
+    "engineCodes": "M57 D30 (306D5)",
+    "KBA_Numbers": "0005AKI"
+  },
+  {
+    "brand": "BMW",
+    "model": "6 Cabrio (E64)",
+    "engineType": "650 i",
+    "madeYear": "09.2005 - 08.2010",
+    "kw": "270",
+    "hp": "367",
+    "cc": "4799",
+    "engineCodes": "N62 B48 B",
+    "KBA_Numbers": "0005862, 0005AHA"
+  },
+  {
+    "brand": "BMW",
+    "model": "6 Cabrio (E64)",
+    "engineType": "M6",
+    "madeYear": "09.2006 - 08.2010",
+    "kw": "373",
+    "hp": "507",
+    "cc": "4999",
+    "engineCodes": "S85 B50 A",
+    "KBA_Numbers": "7909AAF, 7909AAR"
+  },
+  {
+    "brand": "BMW",
+    "model": "7 (E65, E66, E67)",
+    "engineType": "745 d",
+    "madeYear": "03.2005 - 08.2005",
+    "kw": "220",
+    "hp": "300",
+    "cc": "4423",
+    "engineCodes": "M67 D44 (448D1)",
+    "KBA_Numbers": "0005826"
+  },
+  {
+    "brand": "BMW",
+    "model": "7 (E65, E66, E67)",
+    "engineType": "745 d",
+    "madeYear": "07.2005 - 07.2008",
+    "kw": "242",
+    "hp": "329",
+    "cc": "4423",
+    "engineCodes": "M67 D44 (448D1)",
+    "KBA_Numbers": "0005886, 0005ACJ"
+  },
+  {
+    "brand": "BMW",
+    "model": "7 (E65, E66, E67)",
+    "engineType": "750 i, Li",
+    "madeYear": "03.2005 - 08.2008",
+    "kw": "270",
+    "hp": "367",
+    "cc": "4799",
+    "engineCodes": "N62 B48 B",
+    "KBA_Numbers": "0005828, 0005ACG"
+  },
+  {
+    "brand": "BMW",
+    "model": "7 (E65, E66, E67)",
+    "engineType": "760 i, Li",
+    "madeYear": "01.2003 - 08.2008",
+    "kw": "327",
+    "hp": "445",
+    "cc": "5972",
+    "engineCodes": "N73 B60 A, N73 B60 B",
+    "KBA_Numbers": "0005AGU, 0005751, 0005891, 0005ACH, 0005782"
+  },
+  {
+    "brand": "ROLLS-ROYCE",
+    "model": "PHANTOM VII (RR1)",
+    "engineType": "V12",
+    "madeYear": "01.2003 - 07.2017",
+    "kw": "338",
+    "hp": "460",
+    "cc": "6749",
+    "engineCodes": "N73 B68 A",
+    "KBA_Numbers": "2009001, 2196001, 2197AAA, 2197001, 2197AAE"
+  },
+  {
+    "brand": "ROLLS-ROYCE",
+    "model": "PHANTOM VII Coupe (RR3)",
+    "engineType": "6.75 V12",
+    "madeYear": "06.2008 - 07.2017",
+    "kw": "338",
+    "hp": "460",
+    "cc": "6749",
+    "engineCodes": "N73 B68 A",
+    "KBA_Numbers": "2197AAC, 2197AAG"
+  },
+  {
+    "brand": "ROLLS-ROYCE",
+    "model": "PHANTOM VII Drophead Coupe (RR2)",
+    "engineType": "6.75 V12",
+    "madeYear": "06.2007 - 07.2017",
+    "kw": "338",
+    "hp": "460",
+    "cc": "6749",
+    "engineCodes": "N73 B68 A",
+    "KBA_Numbers": "2197AAB, 2197AAF"
+  }
+]
