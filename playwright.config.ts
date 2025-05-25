@@ -1,12 +1,14 @@
 import { defineConfig, devices } from "@playwright/test";
+import dotenv from "dotenv";
+import path from "path";
 
 /**
  * Read environment variables from file.
  * https://github.com/motdotla/dotenv
  */
-// import dotenv from 'dotenv';
-// import path from 'path';
-// dotenv.config({ path: path.resolve(__dirname, '.env') });
+
+// .env dosyasını yükle
+dotenv.config({ path: path.resolve(__dirname, 'src/data/Configs/.env') });
 
 /**
  * See https://playwright.dev/docs/test-configuration.
@@ -36,7 +38,7 @@ export default defineConfig({
     // Her bir adımın (örn. locator.click, locator.getByText) timeout süresi
     actionTimeout: 10 * 1000, // örneğin 30 saniye
     navigationTimeout: 60 * 1000,
-    storageState: "storage/LoginAuth.json" // Oturum açma bilgilerini içeren dosya
+    storageState: "storage/LoginAuthICER.json" // Oturum açma bilgilerini içeren dosya
   },
 
   /* Configure projects for major browsers */
@@ -46,10 +48,10 @@ export default defineConfig({
       use: { ...devices["Desktop Chrome"] },
     },
 
-    {
-      name: 'firefox',
-      use: { ...devices['Desktop Firefox'] },
-    },
+    // {
+    //   name: 'firefox',
+    //   use: { ...devices['Desktop Firefox'] },
+    // },
 
     // {
     //   name: 'webkit',

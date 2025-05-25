@@ -5,7 +5,7 @@ import * as XLSX from "xlsx";
 import { Application } from "../types/Application";
 import { extractYears, cleanKBA } from "../utils/extractHelpers";
 import markaMap from "../data/katalogInfo/jsons/marka_seri_no.json";
-import ConfigReader from "../utils/ConfigReader";
+import dotenv from "dotenv";
 import { formatDateTime } from "../utils/DateHelper";
 
 interface ModelData {
@@ -27,7 +27,10 @@ interface MarkaData {
   [key: string]: string;
 }
 
-const filterBrand = ConfigReader.getEnvVariable("FILTER_BRAND_APPLICATION") || "BREMBO";
+// Load environment variables from .env file
+dotenv.config({ path: path.resolve(__dirname, '../../.env') });
+
+const filterBrand = process.env.FILTER_BRAND_APPLICATION || "BREMBO";
 const formattedDate = formatDateTime(new Date());
 
 const OUTPUT_FILE = `PAD_APPLICATIONS_${filterBrand}_${formattedDate.numericDate}.xlsx`;

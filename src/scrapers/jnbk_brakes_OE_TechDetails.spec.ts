@@ -17,7 +17,7 @@ test.describe('JNBK Brakes OE Tech Details', () => {
             try {
 
                 // Search results sayfasına git
-                await page.goto(ConfigReader.getEnvVariable('JNKB_BRAKES_URL'));
+                await page.goto(process.env.JNKB_BRAKES_URL as string);
                 await page.waitForLoadState('domcontentloaded');
                 await page.waitForTimeout(1000); // Sayfanın yüklenmesini bekle
                 await page.getByRole('textbox', { name: 'Enter OEM, NiBK, WVA, FMSI or' }).waitFor(); // Arama çubuğunun yüklendiğinden emin olmak için bekle

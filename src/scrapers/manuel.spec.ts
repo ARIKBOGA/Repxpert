@@ -14,7 +14,7 @@ const crossNumbers: string[] = JSON.parse(fs.readFileSync(crossNumbersPath, "utf
 let retryList = readJsonFile<string[]>(retryListFilePath, []);
 
 test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
-    const filterBrand = ConfigReader.getEnvVariable("FILTER_BRAND_APPLICATION");
+    const filterBrand = process.env.FILTER_BRAND_APPLICATION as string;
 
     for (const cross of crossNumbers) {
         test(`${filterBrand} No: ${cross} ile ${filterBrand} ürünlerini getir`, async ({ page }) => {

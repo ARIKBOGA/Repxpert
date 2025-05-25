@@ -48,7 +48,7 @@ test.describe('Model Name Scraper', () => {
         // Wait for the user name to be visible
         await page.waitForSelector("//*[@class='name']");
         const userName = await page.locator("//*[@class='name']").textContent().then((text) => text?.trim());
-        expect(userName).toBe(ConfigReader.getEnvVariable("REPXPERT_ENGLISH_NAME"));
+        expect(userName).toBe(process.env.REPXPERT_ENGLISH_NAME);
 
         // Navigate to the "Vehicles Globally" section
         const vehiclesGloballyButton = page.locator("//button[.='Vehicles Globally']");
