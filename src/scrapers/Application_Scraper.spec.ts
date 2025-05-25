@@ -21,14 +21,21 @@ let retryList = readJsonFile<string[]>(retryListFilePath, []);
 
 test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
 
-  for (const ref of padPairs) {
+  for (const ref of references) {
     // Excel den okunan satırlardan yvNo ve brandRefs değerlerini al
     const YV = ref.yvNo;
-    const cross = ref.brandRefs && (ref.brandRefs[filterBrand] as string);
+    let cross = ref.brandRefs && (ref.brandRefs[filterBrand] as string);
 
     if (!cross || cross === "") {
       console.log(`YV No: ${YV} için geçerli bir referans kodu bulunamadı.`);
       continue; // Geçerli bir referans kodu yoksa next iteration a geç
+    }
+
+    if(cross.includes(",")){
+      console.warn(`⚠️ ${cross} birden fazla referans içeriyor, bu durumda sadece ilk referansı kullanılıyor.`);
+      const firstCross = cross.split(",")[0].trim();
+      console.log(`İlk referans: ${firstCross}`);
+      cross = firstCross; // Sadece ilk referansı kullan
     }
     
     test(`${filterBrand} - ${cross} ürününün araç uyumluluklarını getir`, async ({page,}) => {
