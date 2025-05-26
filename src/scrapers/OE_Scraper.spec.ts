@@ -4,7 +4,7 @@ import * as path from 'path';
 import ConfigReader from '../utils/ConfigReader';
 import { Product } from '../types/Product';
 import { Dimensions } from '../types/Dimensions';
-import { getSubfolderNamesSync, readJsonFile, retryListFilePath, balata_katalog_full } from '../utils/FileHelpers';
+import { getSubfolderNamesSync, readJsonFile, retryListFilePath, padPairs } from '../utils/FileHelpers';
 import { getTextContent, getMultipleTexts, addToRetryList, getDimensionValuesSmart } from '../utils/extractHelpers';
 import { goToSearchResults, mapToSerializableObject, readProductReferencesFromExcel } from '../utils/ScraperHelpers';
 
