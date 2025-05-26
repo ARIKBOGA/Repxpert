@@ -27,6 +27,13 @@ interface MarkaData {
   [key: string]: string;
 }
 
+interface UnmatchedModel {
+  marka_name: string;
+  model_name: string;
+  original_brand: string; // Orjinal marka adını tutmak için
+  original_model: string; // Orjinal model adını tutmak için
+}
+
 // Load environment variables from .env file
 dotenv.config({ path: path.resolve(__dirname, '../../.env') });
 
@@ -39,6 +46,7 @@ const MARKA_FILE_PATH = "src/data/katalogInfo/jsons/marka_seri_no.json";
 const MODEL_FILE_PATH = "src/data/katalogInfo/jsons/model_seri_no.json";
 const LOOKUP_FILE_PATH = "src/data/katalogInfo/excels/balata_katalog_full.xlsx";
 const MODEL_MATCH_POOL_PATH = "src/data/katalogInfo/jsons/modelMatchPool.json"; // Yeni dosya yolu
+const UNMATCHED_MODELS_PATH = "src/data/katalogInfo/jsons/unmatchedModels.json"; // Eşleşmeyen modeller için yeni dosya
 
 // Lookup verisini başlangıçta bir Map içinde saklayarak arama hızını artırıyoruz.
 const lookupDataMap = new Map<string, string | undefined>();
@@ -59,13 +67,14 @@ function findYvNoOptimized(partNumber: string): string | null {
   return lookupDataMap.get(partNumber.trim()) || null;
 }
 
-async function loadJsonData<T>(filePath: string): Promise<T> {
+async function loadJsonData<T>(filePath: string, defaultValue: T): Promise<T> {
   try {
-    return await fs.readJSON(filePath);
+    const data = await fs.readJSON(filePath);
+    return data as T;
   } catch (error: any) {
     if (error.code === 'ENOENT') {
       // @ts-ignore
-      return {} as T; // Dosya yoksa boş bir obje döndür
+      return defaultValue; // Dosya yoksa belirtilen varsayılan değeri döndür
     }
     throw error;
   }
@@ -119,9 +128,12 @@ function normalizeModel(model: string): string {
 }
 
 async function main() {
-  const markaData = await loadJsonData<MarkaData>(MARKA_FILE_PATH);
-  const modelData = await loadJsonData<ModelData[]>(MODEL_FILE_PATH) as ModelData[];
-  const files = await glob(`${ROOT_PATH}/**/${filterBrand}*.json`);
+  const markaData = await loadJsonData<MarkaData>(MARKA_FILE_PATH, {});
+  const modelData = await loadJsonData<ModelData[]>(MODEL_FILE_PATH, []);
+  const files = await glob([
+  `${ROOT_PATH}/**/${filterBrand}*.json`, // Örneğin, BREMBO_*.json dosyaları
+  `${ROOT_PATH}/**/ICER_*.json`           // ICER_*.json dosyaları
+  ]);
   const workbook = XLSX.utils.book_new();
 
   // markaData'yı bir Map'e dönüştürerek arama hızını artırıyoruz.
@@ -137,13 +149,24 @@ async function main() {
   });
 
   // modelMatchPool.json dosyasını yükle veya boş bir array oluştur
-  let modelMatchPool: ModelMatch[] = await loadJsonData<ModelMatch[]>(MODEL_MATCH_POOL_PATH) || [];
+  let modelMatchPool: ModelMatch[] = await loadJsonData<ModelMatch[]>(MODEL_MATCH_POOL_PATH, []);
   const existingMatches = new Map<string, boolean>();
   modelMatchPool.forEach(match => {
     existingMatches.set(match.normalized, true);
   });
 
   const newlyAddedModels: ModelMatch[] = [];
+
+  // ID'si bulunamayan modeller için yeni bir liste yükle veya oluştur
+  let unmatchedModels: UnmatchedModel[] = await loadJsonData<UnmatchedModel[]>(UNMATCHED_MODELS_PATH, []);
+  // Mevcut eşleşmeyen modelleri takip etmek için bir Set kullan
+  const existingUnmatched = new Map<string, boolean>();
+  unmatchedModels.forEach(um => {
+    // normalized marka ve model adlarını birleştirerek benzersiz bir anahtar oluştur
+    existingUnmatched.set(`${normalizeString(um.marka_name)}_${normalizeModel(um.model_name)}`, true);
+  });
+  const newlyAddedUnmatchedModels: UnmatchedModel[] = [];
+
 
   for (const file of files) {
     const json: Application[] = await fs.readJSON(file);
@@ -154,17 +177,21 @@ async function main() {
     const rows = json.map(async (app) => { // map içinde async kullanıldığına dikkat
       const { start, end } = extractYears(app.madeYear);
 
-      const normalizedBrand = normalizeBrand(app.brand);
-      const marka_id_raw = markaDataMap.get(normalizeString(normalizedBrand)) ?? null;
-      const marka_id = marka_id_raw !== null ? marka_id_raw : null;
+      const originalBrand = app.brand.trim();
+      const originalModel = app.model.trim();
 
-      const normalizedModel = normalizeModel(app.model);
+      const normalizedBrand = normalizeBrand(originalBrand);
+      const marka_id_raw = markaDataMap.get(normalizeString(normalizedBrand)); // undefined yerine null kontrolü için
+      const marka_id = marka_id_raw !== undefined ? marka_id_raw : null;
+
+      const normalizedModel = normalizeModel(originalModel);
       const modelEntry = modelDataMap.get(normalizedModel);
       const model_id = modelEntry ? modelEntry.id : null;
 
+      // ModelMatchPool'a ekleme mantığı
       if (model_id !== null && marka_id !== null && !existingMatches.has(normalizedModel)) {
         const newMatch: ModelMatch = {
-          original: app.model.trim(),
+          original: originalModel,
           normalized: normalizedModel,
           model_id: model_id,
           marka_id: marka_id,
@@ -174,15 +201,31 @@ async function main() {
         existingMatches.set(normalizedModel, true); // Hemen işaretle ki aynı model tekrar eklenmesin
       }
 
+      // Eşleşmeyen modelleri kaydetme
+      if (model_id === null || marka_id === null) {
+        const unmatchedKey = `${normalizeString(normalizedBrand)}_${normalizeModel(normalizedModel)}`;
+        if (!existingUnmatched.has(unmatchedKey)) {
+          const newUnmatched: UnmatchedModel = {
+            marka_name: normalizedBrand,
+            model_name: normalizedModel,
+            original_brand: originalBrand,
+            original_model: originalModel
+          };
+          unmatchedModels.push(newUnmatched);
+          newlyAddedUnmatchedModels.push(newUnmatched);
+          existingUnmatched.set(unmatchedKey, true);
+        }
+      }
+
       const katalogMarkaKey = marka_id !== null ? marka_id.toString() : null;
-      const katalogMarka = katalogMarkaKey && markaMap[katalogMarkaKey as keyof typeof markaMap] ? markaMap[katalogMarkaKey as keyof typeof markaMap].trim() : app.brand.trim();
+      const katalogMarka = katalogMarkaKey && markaMap[katalogMarkaKey as keyof typeof markaMap] ? markaMap[katalogMarkaKey as keyof typeof markaMap].trim() : originalBrand; // app.brand.trim() yerine originalBrand
 
       return {
         "YV No": yvNo,
         marka_id,
         marka: katalogMarka,
         model_id,
-        model: app.model.trim(),
+        model: originalModel, // app.model.trim() yerine originalModel
         "Baş. Yıl": start,
         "Bit. Yıl": end,
         motor: app.engineType.trim(),
@@ -207,8 +250,9 @@ async function main() {
     XLSX.utils.book_append_sheet(workbook, worksheet, sheetName.slice(0, 31));
   }
 
-  // Tüm dosyalar işlendikten sonra modelMatchPool'u kaydet
+  // Tüm dosyalar işlendikten sonra modelMatchPool ve unmatchedModels'ı kaydet
   await saveJsonData(MODEL_MATCH_POOL_PATH, modelMatchPool);
+  await saveJsonData(UNMATCHED_MODELS_PATH, unmatchedModels);
 
   // Yeni eklenen modelleri konsola yazdır
   if (newlyAddedModels.length > 0) {
@@ -220,9 +264,20 @@ async function main() {
     console.log("\nℹ️ Yeni model eşleşmesi bulunamadı.");
   }
 
+  // Yeni eklenen eşleşmeyen modelleri konsola yazdır
+  if (newlyAddedUnmatchedModels.length > 0) {
+    console.log("\n⚠️ Yeni eşleşmeyen modeller (veri tabanına eklenmesi gerekenler):");
+    newlyAddedUnmatchedModels.forEach(unmatched => {
+      console.log(`Original Marka: "${unmatched.original_brand}", Original Model: "${unmatched.original_model}" -> Normalized Marka: "${unmatched.marka_name}", Normalized Model: "${unmatched.model_name}"`);
+    });
+  } else {
+    console.log("\n✅ Yeni eşleşmeyen model bulunamadı.");
+  }
+
   XLSX.writeFile(workbook, OUTPUT_FILE);
   console.log(`✅ Excel oluşturuldu: ${OUTPUT_FILE}`);
   console.log(`💾 Model eşleşmeleri kaydedildi: ${MODEL_MATCH_POOL_PATH}`);
+  console.log(`❌ Eşleşmeyen modeller kaydedildi: ${UNMATCHED_MODELS_PATH}`);
 }
 
 const normalizeString = (input: string): string => {
@@ -230,8 +285,8 @@ const normalizeString = (input: string): string => {
     .toUpperCase()
     .normalize("NFD")
     .replace(/[\u0300-\u036f]/g, "")
-    .replace(/İ/g, "I")  // Türkçe büyük İ düzeltmesi
-    .replace(/[^A-Z0-9]/g, "")  // sadece harf ve rakam
+    .replace(/İ/g, "I")  // Türkçe büyük İ düzeltmesi
+    .replace(/[^A-Z0-9]/g, "")  // sadece harf ve rakam
     .trim();
 };
 
@@ -267,11 +322,13 @@ const REPLACE_MAP: Record<string, string> = {
   "ŞASİ": "SASI",
   "MINIBUS OTOBUS": "BUS",
   "KASA EGIK ARKA": "HB VAN",
+  "HATCHBACK VAN": "KASA EGIK ARKA",
   "SERISI": "CLASS",
   "COMBI": "KOMBI",
   "CEE'D": "CEED",
   "PRO CEED": "PROCEED",
   "PRO CEE'D": "PROCEED",
+  "SEDAN": "SALOON"
 };
 
 main().catch(console.error);
