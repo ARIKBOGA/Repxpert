@@ -40,7 +40,9 @@ async function oeNumbersToExcel() {
                                 oeNumbers.forEach(oeNumber => {
                                     sheetData.push({
                                         YV: yvCode, // Burayı 'folder' değişkeniyle güncelledik
+                                        Cross: jsonData.id,
                                         Brand: brand,
+                                        VWA: jsonData.wvaNumbers.join(', '),
                                         OE_Number: oeNumber
                                     });
                                 });
