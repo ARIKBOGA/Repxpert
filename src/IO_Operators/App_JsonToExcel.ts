@@ -194,8 +194,8 @@ async function main() {
           kw: app.kw.trim(),
           hp: app.hp.trim(),
           cc: app.cc.trim(),
-          "motor kodu": app.engineCodes.trim(),
-          KBA: cleanKBA(app.KBA_Numbers),
+          "motor kodu": app.engineCodes.trim() || "",
+          KBA: app.KBA_Numbers.trim() || "",
         };
       });
 
