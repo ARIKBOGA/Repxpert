@@ -13,7 +13,7 @@ export function formatDateTime(date: Date): { lettericDate: string, numericDate:
   const seconds = pad(date.getSeconds());
 
   const lettericDate = `${day} ${monthNameTR} ${year}-${dayNameTR}`;
-  const numericDate = `${day}.${month}.${year}-${hours}:${minutes}:${seconds}`;
+  const numericDate = `${day}-${month}-${year}-${hours}-${minutes}-${seconds}`;
 
   // 22 Mayıs 2025-Perşembe
   // 22.05.2025-11:54:49
