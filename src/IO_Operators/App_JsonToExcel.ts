@@ -3,12 +3,13 @@ import path from "path";
 import glob from "fast-glob";
 import * as XLSX from "xlsx";
 import { Application } from "../types/Application";
-import { cleanKBA, extractYears_Turkish } from "../utils/extractHelpers";
+import { extractYears } from "../utils/extractHelpers";
 import markaMap from "../data/katalogInfo/jsons/marka_tur.json";
 import dotenv from "dotenv";
 import { formatDateTime } from "../utils/DateHelper";
 import { MarkaData, ModelData, ModelMatch, UnmatchedModel, LookupExcelRow } from "../types/AppToJson_Types"
 import { getTargetBrandName, normalizeModel, normalizeString } from "../utils/NormalizersForJsonToExcels"
+import { Locale } from "locale-enum";
 // .env dosyasındaki ortam değişkenlerini yükle
 dotenv.config({ path: path.resolve(__dirname, '../../.env') });
 
@@ -141,7 +142,7 @@ async function main() {
       }
 
       const rows = json.map(async (app) => {
-        const { start, end } = extractYears_Turkish(app.madeYear);
+        const { start, end } = extractYears(app.madeYear, Locale.tr_TR);
 
         const targetNormalizedBrand = getTargetBrandName(app.brand);
         const marka_id_raw = markaDataMap.get(targetNormalizedBrand) ?? null;
