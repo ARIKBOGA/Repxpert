@@ -30,16 +30,13 @@ async function oeNumbersToExcel() {
                         const fileContent = fs.readFileSync(filePath, 'utf-8');
                         const jsonData = JSON.parse(fileContent);
 
-                        // YV değerini, JSON dosyasının bulunduğu klasör adından alıyoruz
-                        const yvCode = folder; // Direkt 'folder' değişkenini kullanıyoruz
-
                         for (const brand in jsonData.brand_oe_map) {
                             if (jsonData.brand_oe_map.hasOwnProperty(brand)) {
                                 const oeNumbers: string[] = jsonData.brand_oe_map[brand];
 
                                 oeNumbers.forEach(oeNumber => {
                                     sheetData.push({
-                                        YV: yvCode, // Burayı 'folder' değişkeniyle güncelledik
+                                        YV: folder, // folder name = yvNO
                                         Cross: jsonData.id,
                                         Brand: brand,
                                         VWA: jsonData.wvaNumbers.join(', '),
