@@ -2,6 +2,7 @@
 import { Locator, Page } from '@playwright/test';
 import * as fs from 'fs';
 import path from 'path';
+import { Locale } from 'locale-enum';
 
 export async function getTextContent(locator: Locator): Promise<string> {
   try {
@@ -73,9 +74,9 @@ export async function getDimensionValuesSmart(page: Page, labelKeywords: string[
   return values;
 }
 
-export function extractYears(madeYear: string): { start: string; end: string } {
+export function extractYears(madeYear: string, locale: Locale): { start: string; end: string } {
   madeYear = madeYear.trim();
-
+  
   // 1. Tam aralık: "06.2009 - 12.2012"
   const fullMatch = madeYear.match(/(\d{2})\.(\d{4})\s*-\s*(\d{2})\.(\d{4})/);
   if (fullMatch) {
@@ -83,69 +84,31 @@ export function extractYears(madeYear: string): { start: string; end: string } {
       start: fullMatch[2].slice(-2),
       end: fullMatch[4].slice(-2),
     };
+  }
+
+  let startMatch, endMatch;
+  if (locale === Locale.tr_TR) {
+    // Türkçe için başlangıç ve bitiş kelimeleri
+    startMatch = madeYear.match(/başlangıç\s+(\d{2})\.(\d{4})/i);
+    endMatch = madeYear.match(/bitiş\s+(\d{2})\.(\d{4})/i);
+  } else if (locale === Locale.en_US) {
+    // İngilizce için başlangıç ve bitiş kelimeleri
+    startMatch = madeYear.match(/from\s+(\d{2})\.(\d{4})/i);
+    endMatch = madeYear.match(/to\s+(\d{2})\.(\d{4})/i);
   }
 
   // 2. Başlangıç: "from 06.2009"
-  const startMatch = madeYear.match(/from\s+(\d{2})\.(\d{4})/i);
   if (startMatch) {
-    return {
-      start: startMatch[2].slice(-2),
-      end: "",
-    };
+    return {start: startMatch[2].slice(-2), end: ""};
   }
 
   // 3. Bitiş: "to 06.2009"
-  const endMatch = madeYear.match(/to\s+(\d{2})\.(\d{4})/i);
   if (endMatch) {
-    return {
-      start: "",
-      end: endMatch[2].slice(-2),
-    };
+    return {start: "", end: endMatch[2].slice(-2)};
   }
-
   // Hiçbir eşleşme yoksa
   return { start: "", end: "" };
 }
-
-export function extractYears_Turkish(madeYear: string): { start: string; end: string } {
-  madeYear = madeYear.trim();
-
-  // 1. Tam aralık: "06.2009 - 12.2012"
-  const fullMatch = madeYear.match(/(\d{2})\.(\d{4})\s*-\s*(\d{2})\.(\d{4})/);
-  if (fullMatch) {
-    return {
-      start: fullMatch[2].slice(-2),
-      end: fullMatch[4].slice(-2),
-    };
-  }
-
-  // 2. Başlangıç: "Başlangıç 06.2009"
-  const startMatch = madeYear.match(/başlangıç\s+(\d{2})\.(\d{4})/i);
-  if (startMatch) {
-    return {
-      start: startMatch[2].slice(-2),
-      end: "",
-    };
-  }
-
-  // 3. Bitiş: "Bitiş 06.2009"
-  const endMatch = madeYear.match(/bitiş\s+(\d{2})\.(\d{4})/i);
-  if (endMatch) {
-    return {
-      start: "",
-      end: endMatch[2].slice(-2),
-    };
-  }
-
-  // Hiçbir eşleşme yoksa
-  return { start: "", end: "" };
-}
-
-
-export function cleanKBA(kba: string): string {
-  return kba.trim().split(/\s+/).join(", ");
-}
-
 
 const matchLogFile = path.join("src/data/katalogInfo/jsons", "modelMatchPool.json");
 
