@@ -46,6 +46,7 @@
     ],
     "HONDA": [
       "40522SHJ415",
+      "450223C0T00",
       "45022SHJA00",
       "45022SHJA50M",
       "45022SHJA51",
@@ -75,7 +76,7 @@
     ]
   },
   "eanNumber": "8020584104958",
-  "dimensions": {
+  "pad_attributes": {
     "width1": "155",
     "width2": null,
     "height1": "59",

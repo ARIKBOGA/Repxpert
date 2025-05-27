@@ -7,9 +7,23 @@
     "24692",
     "D2013 9244"
   ],
-  "brand_oe_map": {},
+  "brand_oe_map": {
+    "MERCEDES-BENZ": [
+      "4154210400",
+      "4154210410",
+      "A4154210400",
+      "A4154210410"
+    ],
+    "NISSAN": [
+      "4406000Q3B",
+      "4406000Q3E"
+    ],
+    "RENAULT": [
+      "8660000763"
+    ]
+  },
   "eanNumber": "8020584109427",
-  "dimensions": {
+  "pad_attributes": {
     "width1": "95",
     "width2": null,
     "height1": "44",

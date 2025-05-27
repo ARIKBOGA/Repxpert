@@ -9,9 +9,23 @@
     "23708",
     "D1618 8921"
   ],
-  "brand_oe_map": {},
+  "brand_oe_map": {
+    "FIAT": [
+      "0000077366481",
+      "68190118AA",
+      "77366481"
+    ],
+    "GENERAL MOTORS": [
+      "93189816"
+    ],
+    "OPEL": [
+      "1605354",
+      "93169175",
+      "93189816"
+    ]
+  },
   "eanNumber": "8020584061565",
-  "dimensions": {
+  "pad_attributes": {
     "width1": "137",
     "width2": null,
     "height1": "57",

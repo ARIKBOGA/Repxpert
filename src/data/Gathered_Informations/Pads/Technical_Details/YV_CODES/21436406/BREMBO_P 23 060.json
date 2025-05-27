@@ -1,0 +1,31 @@
+{
+  "reference": "P 23 060",
+  "id": "P 23 060",
+  "name": "Fren balata seti, diskli fren PRIME LINE",
+  "brand": "BREMBO",
+  "wvaNumbers": [
+    "21436",
+    "D1619 8831"
+  ],
+  "brand_oe_map": {
+    "FIAT": [
+      "5892736",
+      "71737178",
+      "71772226",
+      "8660004666",
+      "8671016577"
+    ]
+  },
+  "eanNumber": "8020584051306",
+  "pad_attributes": {
+    "width1": "115",
+    "width2": null,
+    "height1": "55",
+    "height2": null,
+    "thickness1": "17",
+    "thickness2": null,
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": ""
+  }
+}

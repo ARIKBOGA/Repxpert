@@ -1,0 +1,54 @@
+{
+  "reference": "P 65 017",
+  "id": "P 65 017",
+  "name": "Fren balata seti, diskli fren PRIME LINE",
+  "brand": "BREMBO",
+  "wvaNumbers": [
+    "24553",
+    "D1349 8459"
+  ],
+  "brand_oe_map": {
+    "AUDI": [
+      "7L0698151M",
+      "7L0698151N"
+    ],
+    "PORSCHE": [
+      "95535193960",
+      "95535193961",
+      "95535193962",
+      "95535193963",
+      "95535193965",
+      "95835193920",
+      "95835193921",
+      "95835193970",
+      "9J1698151",
+      "9J1698151D"
+    ],
+    "SEAT": [
+      "7L0698151M",
+      "7L0698151N"
+    ],
+    "SKODA": [
+      "7L0698151M",
+      "7L0698151N"
+    ],
+    "VW": [
+      "7L0698151K",
+      "7L0698151L",
+      "7L0698151M",
+      "7L0698151N"
+    ]
+  },
+  "eanNumber": "8020584061886",
+  "pad_attributes": {
+    "width1": "210",
+    "width2": null,
+    "height1": "94",
+    "height2": null,
+    "thickness1": "16",
+    "thickness2": null,
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": ""
+  }
+}

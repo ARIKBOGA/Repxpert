@@ -1,0 +1,45 @@
+{
+  "reference": "P 44 021",
+  "id": "P 44 021",
+  "name": "Fren balata seti, diskli fren PRIME LINE",
+  "brand": "BREMBO",
+  "wvaNumbers": [
+    "25720",
+    "D1692 8919"
+  ],
+  "brand_oe_map": {
+    "LAND ROVER": [
+      "LR036574",
+      "LR065492",
+      "LR068303",
+      "LR079910",
+      "LR079935",
+      "LR084118",
+      "LR106326",
+      "LR108260",
+      "LR123717",
+      "LR139173",
+      "LR146155",
+      "LR146247",
+      "LR147981",
+      "LR162042",
+      "LR162043",
+      "LR162046",
+      "LR162047",
+      "LR162048",
+      "LR164821"
+    ]
+  },
+  "eanNumber": "8020584103197",
+  "pad_attributes": {
+    "width1": "131",
+    "width2": null,
+    "height1": "58",
+    "height2": null,
+    "thickness1": "17",
+    "thickness2": null,
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": ""
+  }
+}

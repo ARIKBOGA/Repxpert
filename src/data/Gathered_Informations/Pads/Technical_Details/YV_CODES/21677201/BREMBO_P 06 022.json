@@ -1,0 +1,37 @@
+{
+  "reference": "P 06 022",
+  "id": "P 06 022",
+  "name": "Fren balata seti, diskli fren PRIME LINE",
+  "brand": "BREMBO",
+  "wvaNumbers": [
+    "21677",
+    "21676",
+    "D1410 8522",
+    "D725 7592",
+    "D947 7592"
+  ],
+  "brand_oe_map": {
+    "BMW": [
+      "34111163387",
+      "34111163953",
+      "34111164330",
+      "34111164331",
+      "34112157587",
+      "34112157588",
+      "34116761277",
+      "34116761279"
+    ]
+  },
+  "eanNumber": "8020584050224",
+  "pad_attributes": {
+    "width1": "155",
+    "width2": null,
+    "height1": "64",
+    "height2": null,
+    "thickness1": "20",
+    "thickness2": null,
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": ""
+  }
+}

@@ -10,6 +10,7 @@
   ],
   "brand_oe_map": {
     "DACIA": [
+      "410609896R",
       "8660000781",
       "8660004545"
     ],
@@ -37,7 +38,7 @@
     ]
   },
   "eanNumber": "8020584090817",
-  "dimensions": {
+  "pad_attributes": {
     "width1": "155",
     "width2": null,
     "height1": "59",

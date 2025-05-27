@@ -1,0 +1,56 @@
+{
+  "reference": "P 24 153",
+  "id": "P 24 153",
+  "name": "Fren balata seti, diskli fren PRIME LINE",
+  "brand": "BREMBO",
+  "wvaNumbers": [
+    "25633",
+    "25634",
+    "25632",
+    "D1676 8905"
+  ],
+  "brand_oe_map": {
+    "FORD": [
+      "1723410",
+      "1723538",
+      "2138027",
+      "2566170",
+      "AB312001AB",
+      "AB312L361AB",
+      "AB3Z2V001A",
+      "MEAB3J2L361AB",
+      "UCYR3323ZA"
+    ],
+    "FORD ASIA & OCEANIA": [
+      "MB3Z2001A"
+    ],
+    "FORD AUSTRALIA": [
+      "AB3Z2V001A",
+      "UCYR3323ZA"
+    ],
+    "FORD USA": [
+      "2566170",
+      "AB3Z2001B",
+      "MB3C2001AA"
+    ],
+    "MAZDA": [
+      "UCYE3323Z"
+    ],
+    "VW": [
+      "2HJ698137",
+      "2HJ698137B"
+    ]
+  },
+  "eanNumber": "8020584103050",
+  "pad_attributes": {
+    "width1": "194",
+    "width2": null,
+    "height1": "68",
+    "height2": null,
+    "thickness1": "16",
+    "thickness2": null,
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": ""
+  }
+}

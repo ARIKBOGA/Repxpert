@@ -3,6 +3,7 @@ import * as path from "path";
 import * as XLSX from "xlsx";
 import { formatDateTime } from "../utils/DateHelper";
 
+
 async function jsonToExcel() {
     const yvCodesFolderPath = path.resolve("src/data/Gathered_Informations/Pads/Technical_Details/YV_Codes");
     const excelFolderPath = path.resolve("src/data/Gathered_Informations/Pads/Technical_Details/excels");
@@ -80,7 +81,7 @@ async function jsonToExcel() {
             XLSX.writeFile(workbook, excelFilePath);
             console.log(`Veriler başarıyla "${excelFilePath}" dosyasına aktarıldı. Toplam sayfa sayısı: ${sheetCount}`);
         } else {
-            console.log("İşlenecek herhangi bir JSON dosyası bulunamadı.");
+            console.log("Excel dosyası oluşturulamadı ya da işlenecek herhangi bir JSON dosyası bulunamadı.");
         }
     } catch (error) {
         console.error("Klasör okuma veya genel bir hata oluştu:", error);

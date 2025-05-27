@@ -1,0 +1,38 @@
+{
+  "reference": "P 49 027",
+  "id": "P 49 027",
+  "name": "Fren balata seti, diskli fren PRIME LINE",
+  "brand": "BREMBO",
+  "wvaNumbers": [
+    "23490",
+    "D798 7670"
+  ],
+  "brand_oe_map": {
+    "MAZDA": [
+      "1U1H3328Z",
+      "A15019K2",
+      "B2YD3323Z",
+      "B2YD3328Z",
+      "BJYD3323Z",
+      "BJYD3328Z",
+      "BJYL3323Z",
+      "BJYM3323Z",
+      "BJYM3328Z"
+    ],
+    "MITSUBISHI": [
+      "B2YD3329Z"
+    ]
+  },
+  "eanNumber": "8020584053645",
+  "pad_attributes": {
+    "width1": "123",
+    "width2": null,
+    "height1": "52",
+    "height2": null,
+    "thickness1": "15",
+    "thickness2": null,
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": ""
+  }
+}

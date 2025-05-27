@@ -7,7 +7,8 @@
   "brand_oe_map": {
     "CITROËN": [
       "1635254980",
-      "1647887380"
+      "1647887380",
+      "1688139780"
     ],
     "FIAT": [
       "155255394"
@@ -27,7 +28,7 @@
     ]
   },
   "eanNumber": "8020584116630",
-  "dimensions": {
+  "pad_attributes": {
     "width1": "92",
     "width2": null,
     "height1": "47",

@@ -1,0 +1,48 @@
+{
+  "reference": "P A6 017",
+  "id": "P A6 017",
+  "name": "Fren balata seti, diskli fren PRIME LINE",
+  "brand": "BREMBO",
+  "wvaNumbers": [
+    "29121",
+    "D1487 8835"
+  ],
+  "brand_oe_map": {
+    "IRISBUS": [
+      "2996535"
+    ],
+    "IVECO": [
+      "00000002995633",
+      "0000001906401",
+      "0000002996465",
+      "1906401",
+      "2992339",
+      "2995633",
+      "2995693",
+      "2996465",
+      "2996535",
+      "42470846",
+      "42535791",
+      "42548194",
+      "500055565",
+      "503643886",
+      "504093780",
+      "504329186"
+    ],
+    "PEUGEOT (DF-PSA)": [
+      "425481"
+    ]
+  },
+  "eanNumber": "8020584059272",
+  "pad_attributes": {
+    "width1": "165",
+    "width2": null,
+    "height1": "66",
+    "height2": null,
+    "thickness1": "20",
+    "thickness2": null,
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": ""
+  }
+}
