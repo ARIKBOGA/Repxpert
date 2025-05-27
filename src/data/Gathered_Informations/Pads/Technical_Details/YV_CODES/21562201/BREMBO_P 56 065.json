@@ -1,0 +1,70 @@
+{
+  "reference": "P 56 065",
+  "id": "P 56 065",
+  "name": "Fren balata seti, diskli fren PRIME LINE",
+  "brand": "BREMBO",
+  "wvaNumbers": [
+    "21562",
+    "21561",
+    "D815 7318",
+    "D815 7783"
+  ],
+  "brand_oe_map": {
+    "INFINITI": [
+      "410602Y091",
+      "410605Y790",
+      "41060AM892",
+      "D10601FC0A",
+      "D1060AM80A"
+    ],
+    "NISSAN": [
+      "410602Y091",
+      "410602Y991",
+      "410609J425",
+      "41060AM800",
+      "41060AX000",
+      "41060AX086",
+      "41060ZB590",
+      "41061JA00A",
+      "4106M2Y9XO",
+      "411202Y028",
+      "AY040NS177",
+      "D10601FE0A",
+      "D10601KA1A",
+      "D10602Y990",
+      "D10603TA0B",
+      "D10609AJ0A",
+      "D10609J40A",
+      "D10609W00B",
+      "D1060AC20A",
+      "D1060EM10A",
+      "D1060EM30A",
+      "D1060EM30C",
+      "D1060EM30D",
+      "D1060JN00A",
+      "D1060JN01A",
+      "D1061AC20A",
+      "D1061JA00A",
+      "D106M2Y990"
+    ],
+    "NISSAN (DFAC)": [
+      "D1060JN01A",
+      "D1060ZB50A"
+    ],
+    "RENAULT": [
+      "4811152110K1"
+    ]
+  },
+  "eanNumber": "8020584061503",
+  "pad_attributes": {
+    "width1": "137",
+    "width2": null,
+    "height1": "53",
+    "height2": null,
+    "thickness1": "17",
+    "thickness2": null,
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": ""
+  }
+}

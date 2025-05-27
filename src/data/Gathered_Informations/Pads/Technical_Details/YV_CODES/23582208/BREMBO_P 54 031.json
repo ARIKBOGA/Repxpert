@@ -1,0 +1,81 @@
+{
+  "reference": "P 54 031",
+  "id": "P 54 031",
+  "name": "Fren balata seti, diskli fren PRIME LINE",
+  "brand": "BREMBO",
+  "wvaNumbers": [
+    "23583",
+    "23582",
+    "D868 7743"
+  ],
+  "brand_oe_map": {
+    "BAIC WEIWANG": [
+      "128419107"
+    ],
+    "CHRYSLER": [
+      "068020256AA",
+      "68020256AA",
+      "K68028671AA",
+      "V2011271AA",
+      "V2011271AB",
+      "V2018671AA"
+    ],
+    "CITROËN": [
+      "1606294580",
+      "1617265280",
+      "425390",
+      "425391",
+      "425448"
+    ],
+    "DODGE": [
+      "2AMV4671AA",
+      "68028671AA",
+      "68033078AA",
+      "K68033078AA",
+      "V2018671AA",
+      "V2018671AB"
+    ],
+    "JEEP": [
+      "V2018671AA"
+    ],
+    "LANCIA": [
+      "K68020256AA",
+      "K68020262AA",
+      "K68028671AA"
+    ],
+    "MITSUBISHI": [
+      "1606294580",
+      "4605A265",
+      "4605A447",
+      "4605A448",
+      "4605A487",
+      "4605A502",
+      "MN102628",
+      "MR510544",
+      "MZ690183",
+      "MZ690346",
+      "MZ690574"
+    ],
+    "MITSUBISHI (GAC)": [
+      "4605B253"
+    ],
+    "PEUGEOT": [
+      "1611838980",
+      "425390",
+      "425391",
+      "425448"
+    ]
+  },
+  "eanNumber": "8020584054789",
+  "pad_attributes": {
+    "width1": "91",
+    "width2": "111",
+    "height1": "45",
+    "height2": null,
+    "thickness1": "16",
+    "thickness2": null,
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": ""
+  }
+}

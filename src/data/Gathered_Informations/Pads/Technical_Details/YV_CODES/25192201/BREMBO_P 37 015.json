@@ -1,0 +1,37 @@
+{
+  "reference": "P 37 015",
+  "id": "P 37 015",
+  "name": "Fren balata seti, diskli fren PRIME LINE",
+  "brand": "BREMBO",
+  "wvaNumbers": [
+    "25191",
+    "25192",
+    "25190",
+    "D1455 8856"
+  ],
+  "brand_oe_map": {
+    "CHRYSLER": [
+      "00K68052370AB"
+    ],
+    "JEEP": [
+      "00K68052370AA",
+      "00K68052370AB",
+      "68052370AA",
+      "68052370AB",
+      "K68052370AA",
+      "K68052370AB"
+    ]
+  },
+  "eanNumber": "8020584103173",
+  "pad_attributes": {
+    "width1": "194",
+    "width2": "193",
+    "height1": "64",
+    "height2": null,
+    "thickness1": "21",
+    "thickness2": null,
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": ""
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "reference": "P 86 027",
+  "id": "P 86 027",
+  "name": "Fren balata seti, diskli fren PRIME LINE",
+  "brand": "BREMBO",
+  "wvaNumbers": [
+    "22318",
+    "22317",
+    "D1865 9094"
+  ],
+  "brand_oe_map": {
+    "VOLVO": [
+      "31445975",
+      "314459750",
+      "31445976",
+      "314459760",
+      "31476722",
+      "314767220",
+      "31476723",
+      "314767230",
+      "31499905",
+      "314999050",
+      "31499906",
+      "314999060",
+      "31665288",
+      "316652880",
+      "32373124",
+      "32373125",
+      "32373126"
+    ]
+  },
+  "eanNumber": "8020584084489",
+  "pad_attributes": {
+    "width1": "182",
+    "width2": null,
+    "height1": "75",
+    "height2": null,
+    "thickness1": "18",
+    "thickness2": null,
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": ""
+  }
+}

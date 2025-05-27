@@ -1,0 +1,43 @@
+{
+  "reference": "P 61 069",
+  "id": "P 61 069",
+  "name": "Fren balata seti, diskli fren PRIME LINE",
+  "brand": "BREMBO",
+  "wvaNumbers": [
+    "23346"
+  ],
+  "brand_oe_map": {
+    "CITROËN": [
+      "1617273180",
+      "425213",
+      "425234",
+      "425333",
+      "425378",
+      "425380",
+      "E172073",
+      "E172536"
+    ],
+    "PEUGEOT": [
+      "1617273180",
+      "425213",
+      "425234",
+      "425333",
+      "425378",
+      "425379",
+      "425380",
+      "E172536"
+    ]
+  },
+  "eanNumber": "8020584056455",
+  "pad_attributes": {
+    "width1": "130",
+    "width2": null,
+    "height1": "56",
+    "height2": null,
+    "thickness1": "19",
+    "thickness2": null,
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": ""
+  }
+}

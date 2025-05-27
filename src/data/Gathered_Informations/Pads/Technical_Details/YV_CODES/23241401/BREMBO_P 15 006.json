@@ -1,0 +1,66 @@
+{
+  "reference": "P 15 006",
+  "id": "P 15 006",
+  "name": "Fren balata seti, diskli fren PRIME LINE",
+  "brand": "BREMBO",
+  "wvaNumbers": [
+    "23241",
+    "D1321 8433",
+    "D1937 9162"
+  ],
+  "brand_oe_map": {
+    "BAOJUN (SGMW)": [
+      "23905118",
+      "23905119",
+      "24558836"
+    ],
+    "CHANGAN": [
+      "3501180K01",
+      "3501210C01",
+      "3501220C01",
+      "3501280K01",
+      "A1010361100",
+      "A1010361101",
+      "CV60601501",
+      "CV60601502",
+      "CV60601600"
+    ],
+    "CHERY": [
+      "S111ET3501080",
+      "S113501080",
+      "S116AD3501080BC"
+    ],
+    "CHEVROLET": [
+      "01110040240",
+      "93747541",
+      "96288629",
+      "96446175",
+      "96446176",
+      "96596770"
+    ],
+    "DAEWOO": [
+      "96273708",
+      "96281945",
+      "96316582",
+      "S4510004"
+    ],
+    "FENGSHEN": [
+      "4546006"
+    ],
+    "NETA (HOZON)": [
+      "S003001060"
+    ]
+  },
+  "eanNumber": "8020584050590",
+  "pad_attributes": {
+    "width1": "127",
+    "width2": null,
+    "height1": "48",
+    "height2": null,
+    "thickness1": "17",
+    "thickness2": null,
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": ""
+  }
+}

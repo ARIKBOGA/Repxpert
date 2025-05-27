@@ -1,0 +1,41 @@
+{
+  "reference": "P 65 020",
+  "id": "P 65 020",
+  "name": "Fren balata seti, diskli fren PRIME LINE",
+  "brand": "BREMBO",
+  "wvaNumbers": [
+    "24554",
+    "D1416 8531",
+    "D1417 8532",
+    "D1919 8531"
+  ],
+  "brand_oe_map": {
+    "PORSCHE": [
+      "97035194905",
+      "97035294902",
+      "97035294904",
+      "97035294905",
+      "97035294908",
+      "97035294910",
+      "971698451A",
+      "971698451D",
+      "971698451H",
+      "971698451K",
+      "971698451L",
+      "971698451M",
+      "9Y0698451M"
+    ]
+  },
+  "eanNumber": "8020584090800",
+  "pad_attributes": {
+    "width1": "187",
+    "width2": null,
+    "height1": "70",
+    "height2": null,
+    "thickness1": "16",
+    "thickness2": null,
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": ""
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "reference": "P 24 055",
+  "id": "P 24 055",
+  "name": "Fren balata seti, diskli fren PRIME LINE",
+  "brand": "BREMBO",
+  "wvaNumbers": [
+    "23604",
+    "23202",
+    "D1175 8289"
+  ],
+  "brand_oe_map": {
+    "FORD": [
+      "1101462",
+      "1101463",
+      "1101464",
+      "1128463",
+      "1145299",
+      "1206064",
+      "1236880",
+      "1521328",
+      "1783839",
+      "1911169",
+      "2S612K021AA",
+      "MEY96J2K021DD",
+      "MEYS6J2K021DD",
+      "MEYS6J2K021DE",
+      "MEYS6J2K021DF",
+      "XS4Q8K579DA",
+      "YS612K021CA",
+      "YS612K021DA",
+      "YS6J2K021DA",
+      "YS6J2K021DB",
+      "YS6J2K021DC"
+    ],
+    "MAZDA": [
+      "1E073323Z",
+      "1E073323ZA",
+      "1E073323ZB",
+      "1E103323Z",
+      "D3Y03328ZA",
+      "D3Y03328ZB",
+      "D3Y03328ZC",
+      "DDY23328Z",
+      "DDY23328Z9C",
+      "DDY23328ZA",
+      "DDY23328ZA9C"
+    ]
+  },
+  "eanNumber": "8020584052273",
+  "pad_attributes": {
+    "width1": "150",
+    "width2": "151",
+    "height1": "58",
+    "height2": "61",
+    "thickness1": "19",
+    "thickness2": null,
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": ""
+  }
+}
