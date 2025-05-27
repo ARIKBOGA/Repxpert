@@ -21,7 +21,7 @@ let retryList = readJsonFile<string[]>(retryListFilePath, []);
 
 test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
 
-  for (const ref of references) {
+  for (const ref of padPairs) {
     // Excel den okunan satırlardan yvNo ve brandRefs değerlerini al
     const YV = ref.yvNo;
     let cross = ref.brandRefs && (ref.brandRefs[filterBrand] as string);
@@ -161,7 +161,7 @@ test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
           await page.waitForTimeout(1000);
         }
 
-        const productProducerFolderPath = path.join("src/data/Gathered_Informations/Pads/Applications",productProducer || "UnknownBrand");
+        const productProducerFolderPath = path.join(`src/data/Gathered_Informations/${productType}/Applications`,productProducer || "UnknownBrand");
 
         if (!fs.existsSync(productProducerFolderPath)) {
           fs.mkdirSync(productProducerFolderPath, { recursive: true });

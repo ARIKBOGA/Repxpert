@@ -107,6 +107,40 @@ export function extractYears(madeYear: string): { start: string; end: string } {
   return { start: "", end: "" };
 }
 
+export function extractYears_Turkish(madeYear: string): { start: string; end: string } {
+  madeYear = madeYear.trim();
+
+  // 1. Tam aralık: "06.2009 - 12.2012"
+  const fullMatch = madeYear.match(/(\d{2})\.(\d{4})\s*-\s*(\d{2})\.(\d{4})/);
+  if (fullMatch) {
+    return {
+      start: fullMatch[2].slice(-2),
+      end: fullMatch[4].slice(-2),
+    };
+  }
+
+  // 2. Başlangıç: "Başlangıç 06.2009"
+  const startMatch = madeYear.match(/başlangıç\s+(\d{2})\.(\d{4})/i);
+  if (startMatch) {
+    return {
+      start: startMatch[2].slice(-2),
+      end: "",
+    };
+  }
+
+  // 3. Bitiş: "Bitiş 06.2009"
+  const endMatch = madeYear.match(/bitiş\s+(\d{2})\.(\d{4})/i);
+  if (endMatch) {
+    return {
+      start: "",
+      end: endMatch[2].slice(-2),
+    };
+  }
+
+  // Hiçbir eşleşme yoksa
+  return { start: "", end: "" };
+}
+
 
 export function cleanKBA(kba: string): string {
   return kba.trim().split(/\s+/).join(", ");

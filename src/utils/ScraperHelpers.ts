@@ -23,7 +23,7 @@ export async function goToSearchResults(
 
   await page
     .getByRole("combobox", { name: /Markalar/i })
-    .fill(filterBrand.toLowerCase() || "");
+    .fill(filterBrand || "");
   await page
     .getByRole("checkbox", { name: new RegExp(filterBrand, "i") })
     .first()

@@ -46,7 +46,7 @@ const formattedDate = formatDateTime(new Date());
 
 const OUTPUT_FILE = `English_DISC_APPLICATIONS_${filterBrand}_${formattedDate.numericDate}.xlsx`;
 const ROOT_PATH = `src/data/Gathered_Informations/Discs/Applications/English/${filterBrand}`;
-const LOOKUP_FILE_PATH = "src/data/katalogInfo/excels/disc_katalog_full.xlsx";
+const LOOKUP_FILE_PATH = "src/data/katalogInfo/excels/Discs_katalog_full.xlsx";
 const MODEL_MATCH_POOL_PATH = "src/data/katalogInfo/jsons/modelMatchPool.json";
 
 // Arama hızını artırmak için tüm veri Excel'den okunup MAP'te saklandı
