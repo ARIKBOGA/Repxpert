@@ -20,7 +20,9 @@ async function oeNumbersToExcel() {
         for (const folder of jsonFolders) { // folder değişkeni burada 'YV_CODE' olan klasör adını temsil ediyor
             const folderPath = path.join(jsonFilesFolderPath, folder);
             if (fs.statSync(folderPath).isDirectory()) {
-                const jsonFiles = fs.readdirSync(folderPath).filter(file => file.endsWith('.json'));
+                const jsonFiles = fs.readdirSync(folderPath)
+                    .filter(file => file.includes("BREMBO"))
+                    .filter(file => file.endsWith('.json'));
                 const sheetData: any[] = [];
 
                 for (const file of jsonFiles) {
@@ -35,12 +37,14 @@ async function oeNumbersToExcel() {
                                 const oeNumbers: string[] = jsonData.brand_oe_map[brand];
 
                                 oeNumbers.forEach(oeNumber => {
+                                    if(oeNumber.startsWith("0")) oeNumber = "|".concat(oeNumber);
                                     sheetData.push({
                                         YV: folder, // folder name = yvNO
                                         Cross: jsonData.id,
+                                        Dosya: jsonData.brand,
                                         Brand: brand,
-                                        VWA: jsonData.wvaNumbers.join(', '),
-                                        OE_Number: oeNumber
+                                        OE_Number: oeNumber,
+                                        VWA: jsonData.wvaNumbers.join(', ')
                                     });
                                 });
                             }

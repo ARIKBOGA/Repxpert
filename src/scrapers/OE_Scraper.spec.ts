@@ -18,7 +18,7 @@ const existedFolders = getSubfolderNamesSync(`src/data/Gathered_Informations/${p
 
 test.describe('YV NO ve Marka bazlı teknik veri tarayıcı', async () => {
 
-  for (const ref of references) {
+  for (const ref of padPairs) {
 
     const { yvNo, brandRefs } = ref;
     // yvNo daha önce işlenmişse atla

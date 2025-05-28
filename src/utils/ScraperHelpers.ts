@@ -27,7 +27,7 @@ export async function goToSearchResults(
   await page
     .getByRole("checkbox", { name: new RegExp(filterBrand, "i") })
     .first()
-    .click();
+    .click({timeout: 5000});
   await page.waitForTimeout(2000);
 
   const productLinks = await page
@@ -67,7 +67,7 @@ export async function goToSearchResultsEnglish(
   await page
     .getByRole("checkbox", { name: new RegExp(filterBrand, "i") })
     .first()
-    .click();
+    .click({timeout: 5000});
   await page.waitForTimeout(2000);
 
   const productLinks = await page
