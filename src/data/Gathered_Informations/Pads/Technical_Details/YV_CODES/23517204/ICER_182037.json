@@ -1,0 +1,43 @@
+{
+  "reference": "182037",
+  "id": "182037",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "ICER",
+  "wvaNumbers": [
+    "23517",
+    "25237",
+    "25637"
+  ],
+  "brand_oe_map": {
+    "ALFA ROMEO": [
+      "7 177 010 8",
+      "7 736 575 2"
+    ],
+    "FIAT": [
+      "7 736 575 2"
+    ]
+  },
+  "eanNumber": "8424073105110",
+  "attributes": {
+    "width1": "95,6",
+    "width2": null,
+    "height1": "44",
+    "height2": null,
+    "thickness1": "16,6",
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [
+      "944"
+    ],
+    "AxleVersion": [
+      "Rear"
+    ],
+    "BrakeSystem": [
+      "LUCAS-TRW"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "E9 90R-01110/3221",
+    "SVHC": "",
+    "Weight": []
+  }
+}

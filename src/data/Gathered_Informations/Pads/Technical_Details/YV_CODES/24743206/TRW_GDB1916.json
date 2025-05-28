@@ -1,0 +1,32 @@
+{
+  "reference": "GDB1916",
+  "id": "GDB1916",
+  "name": "Fren balata seti, diskli fren COTEC",
+  "brand": "TRW",
+  "wvaNumbers": [
+    "24310",
+    "24408",
+    "24409",
+    "24743"
+  ],
+  "brand_oe_map": {},
+  "eanNumber": "3322938132392",
+  "attributes": {
+    "width1": "188",
+    "width2": null,
+    "height1": "73",
+    "height2": "73,6",
+    "thickness1": "19",
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [
+      "Karbon seramik fren diskleri için değil, Sadece çelik fren diskiyle birlikte"
+    ],
+    "manufacturerRestriction": "TRW",
+    "checkmark": "E9 90R - 01107/2234",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!",
+    "Weight": []
+  }
+}

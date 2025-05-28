@@ -1,0 +1,94 @@
+{
+  "reference": "2500801",
+  "id": "2500801",
+  "name": "Fren balata seti, diskli fren Q+",
+  "brand": "TEXTAR",
+  "wvaNumbers": [
+    "25008",
+    "25008 164  0 5",
+    "25010",
+    "8990D1761"
+  ],
+  "brand_oe_map": {
+    "AUDI": [
+      "5Q0698451AD",
+      "5Q0698451C",
+      "5Q0698451N",
+      "5Q0698451Q",
+      "8Q0698451N",
+      "8V0698451",
+      "8V0698451B",
+      "8V0698451F"
+    ],
+    "AUDI (FAW)": [
+      "L5Q0698451C",
+      "L8V0698451"
+    ],
+    "SEAT": [
+      "5Q0698451AD",
+      "5Q0698451C",
+      "5Q0698451N",
+      "8V0698451",
+      "8V0698451B",
+      "8V0698451F"
+    ],
+    "SKODA": [
+      "5Q0698451AD",
+      "5Q0698451C",
+      "5Q0698451N",
+      "8V0698451",
+      "8V0698451B",
+      "8V0698451F",
+      "JZW698451AA"
+    ],
+    "SKODA (SVW)": [
+      "5QD698451D",
+      "5QD698451H"
+    ],
+    "VW": [
+      "5Q0698451AD",
+      "5Q0698451AF",
+      "5Q0698451AK",
+      "5Q0698451AP",
+      "5Q0698451C",
+      "5Q0698451N",
+      "5Q0698451Q",
+      "5Q0698451R",
+      "5Q0698491N",
+      "8V0698451",
+      "8V0698451B",
+      "8V0698451F",
+      "8V0698491B",
+      "JZW698601BF"
+    ],
+    "VW (FAW)": [
+      "L8V0698451"
+    ],
+    "VW (SVW)": [
+      "5QD698451E"
+    ]
+  },
+  "eanNumber": "4019722452536",
+  "attributes": {
+    "width1": "123,2",
+    "width2": null,
+    "height1": "61,2",
+    "height2": "56,2",
+    "thickness1": "16,4",
+    "thickness2": null,
+    "wvaNumber": [
+      "25008"
+    ],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [
+      "Teves"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": "",
+    "Weight": [
+      "1,1"
+    ]
+  }
+}

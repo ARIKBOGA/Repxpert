@@ -1,0 +1,62 @@
+{
+  "reference": "2460682",
+  "id": "2460682",
+  "name": "Fren balata seti, diskli fren epad",
+  "brand": "TEXTAR",
+  "wvaNumbers": [
+    "24606",
+    "24606 175  2 4 epad",
+    "8494D1386"
+  ],
+  "brand_oe_map": {
+    "AUDI": [
+      "8K0698451A",
+      "8K0698451B",
+      "8K0698451C",
+      "8K0698451F"
+    ],
+    "SEAT": [
+      "8K0698451A",
+      "8K0698451B",
+      "8K0698451C",
+      "8K0698451F"
+    ],
+    "SKODA": [
+      "8K0698451A",
+      "8K0698451B",
+      "8K0698451C",
+      "8K0698451F"
+    ],
+    "VW": [
+      "8K0098601E",
+      "8K0098601F",
+      "8K0698451A",
+      "8K0698451B",
+      "8K0698451C",
+      "8K0698451F"
+    ]
+  },
+  "eanNumber": "4019722446788",
+  "attributes": {
+    "width1": "116,6",
+    "width2": null,
+    "height1": "58,5",
+    "height2": null,
+    "thickness1": "17,5",
+    "thickness2": null,
+    "wvaNumber": [
+      "24606"
+    ],
+    "Quality": [
+      "epad"
+    ],
+    "AxleVersion": [],
+    "BrakeSystem": [
+      "Lucas"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": "",
+    "Weight": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "reference": "141425-700",
+  "id": "141425-700",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "ICER",
+  "wvaNumbers": [
+    "21478",
+    "21479",
+    "23174",
+    "23445",
+    "23735",
+    "D852-7729"
+  ],
+  "brand_oe_map": {
+    "VW": [
+      "7D0 698 151 B",
+      "7D0 698 151 G"
+    ]
+  },
+  "eanNumber": "8424073081780",
+  "attributes": {
+    "width1": "129,5",
+    "width2": null,
+    "height1": "65,3",
+    "height2": null,
+    "thickness1": "19,2",
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [
+      "639"
+    ],
+    "AxleVersion": [
+      "Front"
+    ],
+    "BrakeSystem": [
+      "LUCAS-TRW"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "E9 90R-01109/2275",
+    "SVHC": "",
+    "Weight": []
+  }
+}

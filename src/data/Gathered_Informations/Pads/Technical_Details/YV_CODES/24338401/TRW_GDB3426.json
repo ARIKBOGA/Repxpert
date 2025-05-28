@@ -1,0 +1,65 @@
+{
+  "reference": "GDB3426",
+  "id": "GDB3426",
+  "name": "Fren balata seti, diskli fren COTEC",
+  "brand": "TRW",
+  "wvaNumbers": [
+    "24338"
+  ],
+  "brand_oe_map": {
+    "LEXUS": [
+      "04466-02220",
+      "04466-06060",
+      "04466-06090",
+      "04466-06210",
+      "04466-33160",
+      "04466-33180",
+      "04466-33200",
+      "04466-42060",
+      "04466-75010",
+      "04466YZZE8",
+      "D6234",
+      "D6247",
+      "PS558",
+      "PS558-FF"
+    ],
+    "TOYOTA": [
+      "04466-02220",
+      "04466-06060",
+      "04466-06070",
+      "04466-06090",
+      "04466-06210",
+      "04466-33160",
+      "04466-33180",
+      "04466-33200",
+      "04466-42060",
+      "04466-75010",
+      "04466YZZE8",
+      "D6234",
+      "D6247",
+      "PS558",
+      "PS558-FF"
+    ],
+    "TOYOTA (GAC)": [
+      "04466-33200",
+      "446633180"
+    ]
+  },
+  "eanNumber": "3322937511730",
+  "attributes": {
+    "width1": "96,8",
+    "width2": null,
+    "height1": "49,3",
+    "height2": null,
+    "thickness1": "15,4",
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [],
+    "manufacturerRestriction": "AKEBONO",
+    "checkmark": "E9 90R - 01120/1624",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!",
+    "Weight": []
+  }
+}

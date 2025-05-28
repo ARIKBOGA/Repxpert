@@ -1,0 +1,59 @@
+{
+  "reference": "181304",
+  "id": "181304",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "ICER",
+  "wvaNumbers": [
+    "23348",
+    "23349",
+    "23350",
+    "D1534-7704",
+    "D831-7704"
+  ],
+  "brand_oe_map": {
+    "RENAULT": [
+      "86 60 004 693",
+      "86 71 016 640"
+    ],
+    "TOYOTA": [
+      "04465-52031",
+      "04465-52032",
+      "04465-52040",
+      "04465-52041",
+      "04465-52050",
+      "04465-52052",
+      "04465-52070",
+      "04465-52090",
+      "04465-52091",
+      "04465-52130",
+      "04465-52140",
+      "04465-52280",
+      "04465-59010",
+      "04465-59020",
+      "04465-YZZCJ"
+    ]
+  },
+  "eanNumber": "8424073059345",
+  "attributes": {
+    "width1": "112,4",
+    "width2": null,
+    "height1": "46,7",
+    "height2": null,
+    "thickness1": "16,5",
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [
+      "300"
+    ],
+    "AxleVersion": [
+      "Front"
+    ],
+    "BrakeSystem": [
+      "Akebono"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "E9 90R-01111/097",
+    "SVHC": "",
+    "Weight": []
+  }
+}

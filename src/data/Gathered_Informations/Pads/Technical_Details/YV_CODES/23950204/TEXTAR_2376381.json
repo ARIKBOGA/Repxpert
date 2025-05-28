@@ -1,0 +1,69 @@
+{
+  "reference": "2376381",
+  "id": "2376381",
+  "name": "Fren balata seti, diskli fren epad",
+  "brand": "TEXTAR",
+  "wvaNumbers": [
+    "23763",
+    "23763 203  0 5 epad",
+    "23801",
+    "7796D1111",
+    "7796D915"
+  ],
+  "brand_oe_map": {
+    "AUDI": [
+      "4E0698151F",
+      "4E0698151M",
+      "4E0698151S",
+      "4F0698151A",
+      "8E0698151G",
+      "8E0698151L"
+    ],
+    "SEAT": [
+      "4E0698151F",
+      "4E0698151M",
+      "4F0698151A",
+      "8E0698151G",
+      "8E0698151L"
+    ],
+    "SKODA": [
+      "4E0698151F",
+      "4E0698151M",
+      "4F0698151A",
+      "8E0698151G",
+      "8E0698151L"
+    ],
+    "VW": [
+      "4E0698151F",
+      "4E0698151M",
+      "4F0698151A",
+      "8E0698151G",
+      "8E0698151L"
+    ]
+  },
+  "eanNumber": "4019722446719",
+  "attributes": {
+    "width1": "155,3",
+    "width2": "156,5",
+    "height1": "72,9",
+    "height2": null,
+    "thickness1": "20,3",
+    "thickness2": null,
+    "wvaNumber": [
+      "23763"
+    ],
+    "Quality": [
+      "epad"
+    ],
+    "AxleVersion": [],
+    "BrakeSystem": [
+      "Teves"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": "",
+    "Weight": [
+      "2,2"
+    ]
+  }
+}

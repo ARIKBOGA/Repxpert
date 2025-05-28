@@ -1,0 +1,67 @@
+{
+  "reference": "181828",
+  "id": "181828",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "ICER",
+  "wvaNumbers": [
+    "24351",
+    "24352",
+    "24568",
+    "24569",
+    "D1202-8322",
+    "D1202-8400",
+    "D1384-8400"
+  ],
+  "brand_oe_map": {
+    "HYUNDAI": [
+      "58101-0WA00",
+      "58101-2BA00",
+      "58101-2BA10",
+      "58101-2PA00",
+      "58101-2WA01",
+      "58101-2WA70",
+      "58101-2WA90",
+      "58101-3MA00",
+      "58101-3MA01",
+      "58101-3MA20",
+      "S58101-2BA10",
+      "S58101-2PA70"
+    ],
+    "KIA": [
+      "58101-2JA10",
+      "58101-2JA11",
+      "58101-2JA50",
+      "58101-2PA70",
+      "58101-4DA60",
+      "58101-4DU00"
+    ],
+    "SSANGYONG": [
+      "48130-341A0",
+      "48130-36B00",
+      "48130-36B10"
+    ]
+  },
+  "eanNumber": "8424073096272",
+  "attributes": {
+    "width1": "156,8",
+    "width2": null,
+    "height1": "60,7",
+    "height2": null,
+    "thickness1": "17",
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [
+      "300"
+    ],
+    "AxleVersion": [
+      "Front"
+    ],
+    "BrakeSystem": [
+      "Mando"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "E9 90R-01111/2242",
+    "SVHC": "",
+    "Weight": []
+  }
+}

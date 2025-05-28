@@ -1,0 +1,42 @@
+{
+  "reference": "2378704",
+  "id": "2378704",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "TEXTAR",
+  "wvaNumbers": [
+    "23787",
+    "23787 205  1 5",
+    "23788"
+  ],
+  "brand_oe_map": {
+    "FORD": [
+      "3L842L361BA",
+      "4547849",
+      "4588141",
+      "4L842L361AB"
+    ]
+  },
+  "eanNumber": "4019722536403",
+  "attributes": {
+    "width1": "156,4",
+    "width2": null,
+    "height1": "66,2",
+    "height2": null,
+    "thickness1": "20,5",
+    "thickness2": "19,8",
+    "wvaNumber": [
+      "23787"
+    ],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [
+      "Teves"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": "",
+    "Weight": [
+      "2"
+    ]
+  }
+}

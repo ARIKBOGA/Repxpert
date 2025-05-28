@@ -1,0 +1,48 @@
+{
+  "reference": "2371481",
+  "id": "2371481",
+  "name": "Fren balata seti, diskli fren epad",
+  "brand": "TEXTAR",
+  "wvaNumbers": [
+    "23714",
+    "23714 155  1 4 epad"
+  ],
+  "brand_oe_map": {
+    "FIAT": [
+      "6001073153",
+      "71769094",
+      "71770014",
+      "71772225",
+      "71796094",
+      "77362271",
+      "77362768",
+      "77364590",
+      "9949280"
+    ]
+  },
+  "eanNumber": "4019722446689",
+  "attributes": {
+    "width1": "94,8",
+    "width2": null,
+    "height1": "42,9",
+    "height2": null,
+    "thickness1": "16,3",
+    "thickness2": null,
+    "wvaNumber": [
+      "23714"
+    ],
+    "Quality": [
+      "epad"
+    ],
+    "AxleVersion": [],
+    "BrakeSystem": [
+      "Bosch"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": "",
+    "Weight": [
+      "0,85"
+    ]
+  }
+}

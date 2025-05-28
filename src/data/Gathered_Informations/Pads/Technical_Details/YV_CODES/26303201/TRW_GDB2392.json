@@ -1,0 +1,49 @@
+{
+  "reference": "GDB2392",
+  "id": "GDB2392",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "TRW",
+  "wvaNumbers": [
+    "26169"
+  ],
+  "brand_oe_map": {
+    "AUDI": [
+      "5WA698151Q"
+    ],
+    "CUPRA": [
+      "5WA 698 151 P"
+    ],
+    "SEAT": [
+      "5WA 698 151",
+      "5WA 698 151 P"
+    ],
+    "SKODA": [
+      "5WA 698 151",
+      "5WA 698 151 A",
+      "5WA 698 151 P"
+    ],
+    "VW": [
+      "5WA 698 151",
+      "5WA 698 151 A",
+      "5WA 698 151 P",
+      "5WA698151Q"
+    ]
+  },
+  "eanNumber": "3322938551414",
+  "attributes": {
+    "width1": "148,3",
+    "width2": null,
+    "height1": "63,6",
+    "height2": null,
+    "thickness1": "18,8",
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [],
+    "manufacturerRestriction": "TRW",
+    "checkmark": "E9 90R-02A0107/5483",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!",
+    "Weight": []
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "reference": "2231701",
+  "id": "2231701",
+  "name": "Fren balata seti, diskli fren Q+",
+  "brand": "TEXTAR",
+  "wvaNumbers": [
+    "22317",
+    "22317 184  0 5",
+    "22318",
+    "9094D1865"
+  ],
+  "brand_oe_map": {
+    "POLESTAR": [
+      "31499905"
+    ],
+    "VOLVO": [
+      "31445975",
+      "31445976",
+      "31476722",
+      "31476723",
+      "31499905",
+      "31499906",
+      "31665288",
+      "32373126"
+    ]
+  },
+  "eanNumber": "4019722481178",
+  "attributes": {
+    "width1": "180,2",
+    "width2": null,
+    "height1": "74,6",
+    "height2": null,
+    "thickness1": "18,4",
+    "thickness2": null,
+    "wvaNumber": [
+      "22317"
+    ],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [
+      "Teves"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": "",
+    "Weight": [
+      "2,9"
+    ]
+  }
+}

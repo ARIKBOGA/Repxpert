@@ -1,0 +1,77 @@
+{
+  "reference": "182232",
+  "id": "182232",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "ICER",
+  "wvaNumbers": [
+    "22141",
+    "22142",
+    "D1821-9057"
+  ],
+  "brand_oe_map": {
+    "JAGUAR": [
+      "FK72-2M008-BB",
+      "GX73-2M008-AA",
+      "J9C14009",
+      "J9C17943",
+      "LR-160504",
+      "T2H 53849",
+      "T2H 7439",
+      "T2H 9989",
+      "T2H41074",
+      "T2H42286",
+      "T2H52754",
+      "T2H53866",
+      "T2H53872",
+      "T2R36215",
+      "T4K11469"
+    ],
+    "LAND ROVER": [
+      "LR-061385",
+      "LR-090707",
+      "LR-095295",
+      "LR-110327",
+      "LR-123010",
+      "LR-123519",
+      "LR-123595",
+      "LR-155059",
+      "LR-155123",
+      "LR-160436",
+      "LR-160459",
+      "LR-160532",
+      "LR-160580"
+    ],
+    "VOLVO": [
+      "3 140 043 2",
+      "3 144 562 1",
+      "3 144 562 2",
+      "3 147 126 5",
+      "3 147 126 6",
+      "3 223 303 5",
+      "32379535"
+    ]
+  },
+  "eanNumber": "8424073110749",
+  "attributes": {
+    "width1": "122,5",
+    "width2": null,
+    "height1": "56,2",
+    "height2": "59,7",
+    "thickness1": "16,2",
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [
+      "300"
+    ],
+    "AxleVersion": [
+      "Rear"
+    ],
+    "BrakeSystem": [
+      "ATE"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "E9 90R-02A0111/4335",
+    "SVHC": "",
+    "Weight": []
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "reference": "2346302",
+  "id": "2346302",
+  "name": "Fren balata seti, diskli fren Q+",
+  "brand": "TEXTAR",
+  "wvaNumbers": [
+    "23093",
+    "23463",
+    "23463 166  0 4",
+    "8257D1147"
+  ],
+  "brand_oe_map": {
+    "NISSAN": [
+      "410602F028",
+      "410602F525",
+      "410602F526",
+      "410602F527",
+      "410602F528",
+      "410605M325",
+      "410605M326",
+      "41060BM525",
+      "D1060BM50A"
+    ]
+  },
+  "eanNumber": "4019722241734",
+  "attributes": {
+    "width1": "124,2",
+    "width2": null,
+    "height1": "57,1",
+    "height2": null,
+    "thickness1": "16,6",
+    "thickness2": null,
+    "wvaNumber": [
+      "23463"
+    ],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [
+      "Lucas"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": "",
+    "Weight": [
+      "1,4"
+    ]
+  }
+}

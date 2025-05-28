@@ -1,0 +1,40 @@
+{
+  "reference": "181985",
+  "id": "181985",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "ICER",
+  "wvaNumbers": [
+    "25184",
+    "25185",
+    "25186",
+    "D2167-9411"
+  ],
+  "brand_oe_map": {
+    "KIA": [
+      "58101-1PA00"
+    ]
+  },
+  "eanNumber": "8424073102638",
+  "attributes": {
+    "width1": "131,5",
+    "width2": null,
+    "height1": "60,5",
+    "height2": null,
+    "thickness1": "19,5",
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [
+      "300"
+    ],
+    "AxleVersion": [
+      "Front"
+    ],
+    "BrakeSystem": [
+      "LUCAS-TRW"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "E9 90R-01111/2949",
+    "SVHC": "",
+    "Weight": []
+  }
+}

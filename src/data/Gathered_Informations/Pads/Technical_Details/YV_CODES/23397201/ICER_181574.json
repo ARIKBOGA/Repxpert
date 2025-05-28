@@ -1,0 +1,44 @@
+{
+  "reference": "181574",
+  "id": "181574",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "ICER",
+  "wvaNumbers": [
+    "23397",
+    "23398",
+    "23399",
+    "D992-7893"
+  ],
+  "brand_oe_map": {
+    "LAND ROVER": [
+      "SFC000010",
+      "SFC500050",
+      "SFC500070",
+      "SFC500080",
+      "SFC500090"
+    ]
+  },
+  "eanNumber": "8424073088673",
+  "attributes": {
+    "width1": "155",
+    "width2": "156,3",
+    "height1": "73,2",
+    "height2": null,
+    "thickness1": "19,4",
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [
+      "300"
+    ],
+    "AxleVersion": [
+      "Front"
+    ],
+    "BrakeSystem": [
+      "ATE"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "E9 90R-01111/713",
+    "SVHC": "",
+    "Weight": []
+  }
+}

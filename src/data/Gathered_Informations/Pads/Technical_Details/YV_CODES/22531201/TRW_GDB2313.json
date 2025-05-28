@@ -1,0 +1,32 @@
+{
+  "reference": "GDB2313",
+  "id": "GDB2313",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "TRW",
+  "wvaNumbers": [
+    "25798",
+    "25799"
+  ],
+  "brand_oe_map": {
+    "FORD": [
+      "2110582"
+    ]
+  },
+  "eanNumber": "3322938529369",
+  "attributes": {
+    "width1": "123",
+    "width2": null,
+    "height1": "48,6",
+    "height2": null,
+    "thickness1": "16",
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [],
+    "manufacturerRestriction": "ATE",
+    "checkmark": "E9 90R-02A0120/4202",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!",
+    "Weight": []
+  }
+}

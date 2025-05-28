@@ -1,0 +1,55 @@
+{
+  "reference": "2448401",
+  "id": "2448401",
+  "name": "Fren balata seti, diskli fren Q+",
+  "brand": "TEXTAR",
+  "wvaNumbers": [
+    "24484",
+    "24484 189  1 4",
+    "8767D1555"
+  ],
+  "brand_oe_map": {
+    "BYD": [
+      "S6DM3501110"
+    ],
+    "FORD": [
+      "1371402",
+      "1433952",
+      "1488962",
+      "1553797",
+      "1560014",
+      "1721087",
+      "1824346",
+      "6C112K021AB",
+      "6C112K021AC",
+      "6C112K021AD",
+      "6C112K021AE",
+      "9C112K021AA",
+      "ME6C1J2K021AA",
+      "ME6C1J2K021AB"
+    ]
+  },
+  "eanNumber": "4019722281990",
+  "attributes": {
+    "width1": "164,9",
+    "width2": null,
+    "height1": "66,7",
+    "height2": null,
+    "thickness1": "18,9",
+    "thickness2": null,
+    "wvaNumber": [
+      "24484"
+    ],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [
+      "Bosch"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": "",
+    "Weight": [
+      "2,38"
+    ]
+  }
+}

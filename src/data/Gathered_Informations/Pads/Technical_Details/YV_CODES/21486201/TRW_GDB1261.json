@@ -1,0 +1,59 @@
+{
+  "reference": "GDB1261",
+  "id": "GDB1261",
+  "name": "Fren balata seti, diskli fren COTEC",
+  "brand": "TRW",
+  "wvaNumbers": [
+    "21486"
+  ],
+  "brand_oe_map": {
+    "ALPINA": [
+      "34 11 6 761 252"
+    ],
+    "BMW": [
+      "1 163 227",
+      "1 163 307",
+      "1 165 227",
+      "2 157 589",
+      "2 180 419",
+      "2 229 031",
+      "2 282 090",
+      "2 282 165",
+      "2 282 166",
+      "2 282 556",
+      "2 357 230",
+      "3 427 503",
+      "34 11 1 163 227",
+      "34 11 1 163 307",
+      "34 11 1 165 227",
+      "34 11 2 157 589",
+      "34 11 2 180 419",
+      "34 11 2 229 031",
+      "34 11 2 282 090",
+      "34 11 2 282 165",
+      "34 11 2 282 166",
+      "34 11 2 282 556",
+      "34 11 2 357 230",
+      "34 11 3 427 503",
+      "34 11 6 761 252",
+      "6 761 252"
+    ]
+  },
+  "eanNumber": "3322937145249",
+  "attributes": {
+    "width1": "156,4",
+    "width2": null,
+    "height1": "73,6",
+    "height2": null,
+    "thickness1": "19",
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [],
+    "manufacturerRestriction": "ATE",
+    "checkmark": "E9 90R 01705/035 Ext",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!",
+    "Weight": []
+  }
+}

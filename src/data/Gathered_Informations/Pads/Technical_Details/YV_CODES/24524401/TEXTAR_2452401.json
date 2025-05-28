@@ -1,0 +1,56 @@
+{
+  "reference": "2452401",
+  "id": "2452401",
+  "name": "Fren balata seti, diskli fren Q+",
+  "brand": "TEXTAR",
+  "wvaNumbers": [
+    "24524",
+    "24524 194  1 4",
+    "8546D1429"
+  ],
+  "brand_oe_map": {
+    "BMW": [
+      "34114073048",
+      "34116789079",
+      "34116793643",
+      "34116794880",
+      "34116798857",
+      "34116799964",
+      "4073048",
+      "6789079",
+      "6793643",
+      "6794880",
+      "6798857",
+      "6799964"
+    ],
+    "ROLLS-ROYCE": [
+      "34116858540",
+      "34116883892",
+      "6858540",
+      "6883892"
+    ]
+  },
+  "eanNumber": "4019722448171",
+  "attributes": {
+    "width1": "135",
+    "width2": null,
+    "height1": "113,8",
+    "height2": null,
+    "thickness1": "19,4",
+    "thickness2": null,
+    "wvaNumber": [
+      "24524"
+    ],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [
+      "Brembo"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": "",
+    "Weight": [
+      "3,8"
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "reference": "180930-700",
+  "id": "180930-700",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "ICER",
+  "wvaNumbers": [
+    "20916",
+    "20919",
+    "21388",
+    "D1496-8696"
+  ],
+  "brand_oe_map": {
+    "ALPINE": [
+      "60 00 008 895"
+    ],
+    "DAEWOO": [
+      "32321800",
+      "LU20 9191"
+    ],
+    "RENAULT": [
+      "41 06 015 31R",
+      "60 00 008 895",
+      "77 01 202 050",
+      "77 01 203 730",
+      "77 01 203 968",
+      "77 01 204 417",
+      "77 01 206 288",
+      "77 01 209 077",
+      "86 60 004 591",
+      "86 71 004 149",
+      "86 71 005 931",
+      "86 71 016 175"
+    ]
+  },
+  "eanNumber": "8424073052704",
+  "attributes": {
+    "width1": "129,9",
+    "width2": null,
+    "height1": "55,5",
+    "height2": null,
+    "thickness1": "18,3",
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [
+      "300"
+    ],
+    "AxleVersion": [
+      "Front"
+    ],
+    "BrakeSystem": [
+      "LUCAS-TRW"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "E1 90R-01101/045",
+    "SVHC": "",
+    "Weight": []
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "reference": "181509",
+  "id": "181509",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "ICER",
+  "wvaNumbers": [
+    "23814",
+    "23871",
+    "23872",
+    "24088",
+    "24453",
+    "D905-7784"
+  ],
+  "brand_oe_map": {
+    "INFINITI": [
+      "44060-8H385",
+      "AY060-NS041"
+    ],
+    "NISSAN": [
+      "44060-8H385",
+      "44060-AM485",
+      "44060-CB10J",
+      "44060-EG00J",
+      "44060-EG00K",
+      "44060-EG085",
+      "AY060-NS030",
+      "AY060-NS038",
+      "AY060-NS039",
+      "AY060-NS043",
+      "AY060-NS048",
+      "AY060-NS052",
+      "D4060-045VA",
+      "D4060-1JZ0A",
+      "D4060-3DN1A",
+      "D4060-8H385",
+      "D4060-8H38E-VA",
+      "D4060-9HM0A",
+      "D406C-J025",
+      "D4080-EG50C"
+    ],
+    "NISSAN (DFAC)": [
+      "D4060-3AW0A"
+    ],
+    "RENAULT": [
+      "86 60 004 497",
+      "86 71 019 167"
+    ]
+  },
+  "eanNumber": "8424073083050",
+  "attributes": {
+    "width1": "105,5",
+    "width2": null,
+    "height1": "38,1",
+    "height2": null,
+    "thickness1": "14,3",
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [
+      "944"
+    ],
+    "AxleVersion": [
+      "Rear"
+    ],
+    "BrakeSystem": [
+      "Akebono"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "E1 90R-01100/345",
+    "SVHC": "",
+    "Weight": []
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "reference": "GDB3201",
+  "id": "GDB3201",
+  "name": "Fren balata seti, diskli fren COTEC",
+  "brand": "TRW",
+  "wvaNumbers": [
+    "23536"
+  ],
+  "brand_oe_map": {
+    "FENGXING": [
+      "A1301023"
+    ],
+    "HYUNDAI": [
+      "58101-4AA00",
+      "58101-4AA10",
+      "58101-4AA11",
+      "58101-4AA30",
+      "58101-4AA31",
+      "58101-4AA32",
+      "58101-4AA60",
+      "58101-4AA61",
+      "58101-4AA80",
+      "58101-4AA81",
+      "58101-4FA00"
+    ],
+    "JAC": [
+      "581014AA32"
+    ]
+  },
+  "eanNumber": "3322937237579",
+  "attributes": {
+    "width1": "147",
+    "width2": null,
+    "height1": "53,8",
+    "height2": null,
+    "thickness1": "16,3",
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [],
+    "manufacturerRestriction": "MANDO",
+    "checkmark": "E9 90R 01107/194",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!",
+    "Weight": []
+  }
+}

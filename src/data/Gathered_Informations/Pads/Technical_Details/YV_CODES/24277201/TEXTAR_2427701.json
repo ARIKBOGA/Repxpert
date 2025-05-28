@@ -1,0 +1,46 @@
+{
+  "reference": "2427701",
+  "id": "2427701",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "TEXTAR",
+  "wvaNumbers": [
+    "24277",
+    "24277 165  0 5",
+    "24397",
+    "24398",
+    "8253D1142"
+  ],
+  "brand_oe_map": {
+    "AC": [
+      "AC698281D"
+    ],
+    "HYUNDAI": [
+      "5810102A10",
+      "5810105A10",
+      "5810105A30"
+    ]
+  },
+  "eanNumber": "4019722275999",
+  "attributes": {
+    "width1": "104,6",
+    "width2": null,
+    "height1": "47,1",
+    "height2": null,
+    "thickness1": "16,5",
+    "thickness2": null,
+    "wvaNumber": [
+      "24277"
+    ],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [
+      "Mando"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": "",
+    "Weight": [
+      "1,05"
+    ]
+  }
+}

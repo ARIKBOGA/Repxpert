@@ -1,0 +1,110 @@
+{
+  "reference": "2387101",
+  "id": "2387101",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "TEXTAR",
+  "wvaNumbers": [
+    "23871",
+    "23871 138  0 5",
+    "23872",
+    "24088",
+    "24453",
+    "7784D905",
+    "8405D1288"
+  ],
+  "brand_oe_map": {
+    "FENGSHEN": [
+      "4586001"
+    ],
+    "INFINITI": [
+      "44060AM485",
+      "44060EG00J",
+      "44060EG085",
+      "D40603WU0A",
+      "D4060EG50C"
+    ],
+    "NISSAN": [
+      "440608H385",
+      "44060AL585",
+      "44060AL586",
+      "44060AL587",
+      "44060AL588",
+      "44060CB10J",
+      "44060EG00K",
+      "44060NS026",
+      "44060RN14D",
+      "AY060NS026",
+      "AY060NS030",
+      "AY060NS038",
+      "AY060NS039",
+      "AY060NS040",
+      "AY060NS041",
+      "AY060NS043",
+      "AY060NS045",
+      "AY060NS047",
+      "AY060NS050",
+      "AY060NS051",
+      "AY060NS052",
+      "AY060NS906",
+      "D4060045VA",
+      "D40603AW0A",
+      "D40608H385",
+      "D40608H38EVA",
+      "D40609HM0A",
+      "D40609N00B",
+      "D40609N00C",
+      "D4060CY025",
+      "D4060EM11A",
+      "D4060JA00A",
+      "D4060JA00J",
+      "D4060JA00JRV"
+    ],
+    "NISSAN (DFAC)": [
+      "D40601JZ0A",
+      "D40601JZ1A",
+      "D40603DN1A"
+    ],
+    "RENAULT": [
+      "410601408R"
+    ],
+    "SAMSUNG": [
+      "410601408R",
+      "4831152200K0",
+      "D4060JA00A",
+      "D4060JA00J"
+    ],
+    "SUZUKI": [
+      "5581050Z01",
+      "5581050Z01000",
+      "5581050Z02",
+      "5581050Z02000",
+      "5581050Z10",
+      "5581050Z10000",
+      "5581050Z20",
+      "5581050Z20000"
+    ]
+  },
+  "eanNumber": "4019722261749",
+  "attributes": {
+    "width1": "105,6",
+    "width2": null,
+    "height1": "37,9",
+    "height2": null,
+    "thickness1": "13,8",
+    "thickness2": null,
+    "wvaNumber": [
+      "23871"
+    ],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [
+      "Akebono"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": "",
+    "Weight": [
+      "0,75"
+    ]
+  }
+}

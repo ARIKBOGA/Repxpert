@@ -1,0 +1,57 @@
+{
+  "reference": "2179701",
+  "id": "2179701",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "TEXTAR",
+  "wvaNumbers": [
+    "21797",
+    "21797 197  2 5",
+    "21798",
+    "7556D676"
+  ],
+  "brand_oe_map": {
+    "CITROËN": [
+      "1611458080",
+      "1617280480",
+      "425116",
+      "425117",
+      "425451"
+    ],
+    "FIAT": [
+      "71752980",
+      "71770972",
+      "77362212",
+      "9945788"
+    ],
+    "PEUGEOT": [
+      "1611458080",
+      "1617280480",
+      "425116",
+      "425117",
+      "425451"
+    ]
+  },
+  "eanNumber": "4019722180187",
+  "attributes": {
+    "width1": "145",
+    "width2": null,
+    "height1": "72,2",
+    "height2": null,
+    "thickness1": "19,7",
+    "thickness2": null,
+    "wvaNumber": [
+      "21797"
+    ],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [
+      "Lucas"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": "",
+    "Weight": [
+      "1,947"
+    ]
+  }
+}

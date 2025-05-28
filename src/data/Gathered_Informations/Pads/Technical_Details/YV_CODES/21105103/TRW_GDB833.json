@@ -1,0 +1,70 @@
+{
+  "reference": "GDB833",
+  "id": "GDB833",
+  "name": "Fren balata seti, diskli fren COTEC",
+  "brand": "TRW",
+  "wvaNumbers": [
+    "21100",
+    "21105"
+  ],
+  "brand_oe_map": {
+    "ALFA ROMEO": [
+      "793 382"
+    ],
+    "AUTOBIANCHI": [
+      "77362268",
+      "793470"
+    ],
+    "FIAT": [
+      "0000000792489",
+      "0000000792588",
+      "0000000793120",
+      "0000000793220",
+      "0000000793355",
+      "0000000793356",
+      "58290330",
+      "5888781",
+      "5892330",
+      "71770951",
+      "77362268",
+      "791449",
+      "793 382",
+      "793470",
+      "794 079",
+      "794 870",
+      "9939913",
+      "9943830"
+    ],
+    "INNOCENTI": [
+      "793470"
+    ],
+    "LANCIA": [
+      "0000000793355",
+      "5892330",
+      "77362268",
+      "791449",
+      "793 382",
+      "793470",
+      "794 079",
+      "794 870",
+      "9943830"
+    ]
+  },
+  "eanNumber": "3322936408338",
+  "attributes": {
+    "width1": "90",
+    "width2": null,
+    "height1": "63,4",
+    "height2": null,
+    "thickness1": "16,8",
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [],
+    "manufacturerRestriction": "TRW",
+    "checkmark": "E9 90R 027017",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!",
+    "Weight": []
+  }
+}

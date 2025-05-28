@@ -1,0 +1,49 @@
+{
+  "reference": "2615301",
+  "id": "2615301",
+  "name": "Fren balata seti, diskli fren Q+",
+  "brand": "TEXTAR",
+  "wvaNumbers": [
+    "26153",
+    "26153 158  1 5",
+    "26154",
+    "26155"
+  ],
+  "brand_oe_map": {
+    "MAZDA": [
+      "1M002628Z"
+    ],
+    "SUZUKI": [
+      "T044660240"
+    ],
+    "TOYOTA": [
+      "0446602400",
+      "0446602401",
+      "04466F4010",
+      "04466K0000"
+    ]
+  },
+  "eanNumber": "4019722543661",
+  "attributes": {
+    "width1": "118,2",
+    "width2": null,
+    "height1": "48,4",
+    "height2": "50,7",
+    "thickness1": "15,8",
+    "thickness2": null,
+    "wvaNumber": [
+      "26153"
+    ],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [
+      "TRW"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": "",
+    "Weight": [
+      "1,08"
+    ]
+  }
+}

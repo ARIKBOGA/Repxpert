@@ -1,0 +1,32 @@
+{
+  "reference": "GDB1447",
+  "id": "GDB1447",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "TRW",
+  "wvaNumbers": [
+    "23276"
+  ],
+  "brand_oe_map": {
+    "CITROËN": [
+      "4252 14",
+      "4252 87"
+    ]
+  },
+  "eanNumber": "3322937283712",
+  "attributes": {
+    "width1": "148,8",
+    "width2": null,
+    "height1": "49,5",
+    "height2": null,
+    "thickness1": "17,5",
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [],
+    "manufacturerRestriction": "BOSCH",
+    "checkmark": "E2 90R - 01124/018",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!",
+    "Weight": []
+  }
+}

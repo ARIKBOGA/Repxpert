@@ -1,0 +1,142 @@
+{
+  "reference": "2372381",
+  "id": "2372381",
+  "name": "Fren balata seti, diskli fren epad",
+  "brand": "TEXTAR",
+  "wvaNumbers": [
+    "23723",
+    "23723 182  0 5 epad",
+    "23724",
+    "7947D1044"
+  ],
+  "brand_oe_map": {
+    "FORD": [
+      "1223682",
+      "1321517",
+      "1360305",
+      "1508074",
+      "1519528",
+      "1566093",
+      "1695810",
+      "1712024",
+      "1753844",
+      "1759370",
+      "1765766",
+      "1809256",
+      "1816524",
+      "1820037",
+      "1826241",
+      "2188058",
+      "2253406",
+      "2271968",
+      "2390587",
+      "2454098",
+      "2492033",
+      "2614606",
+      "3M512K021AA",
+      "3M512K021AB",
+      "3M5J2K021A1A",
+      "3M5J2K021AA",
+      "5M512K021AA",
+      "6M512K021AA",
+      "7M5Z2V001A",
+      "8V412K021AA",
+      "8V412K021AB",
+      "AV612K021BA",
+      "AV612K021BB",
+      "BV612001B3A",
+      "BV612001C3B",
+      "BV612001CB",
+      "CN152K021AA",
+      "CN1Z2001A",
+      "CN1Z2001B",
+      "CV612001BC",
+      "CV6Z2001A",
+      "CV6Z2001E",
+      "FU2Z2V001B",
+      "GN152K021AC",
+      "GN152K021AD",
+      "KTKV6C2K021AA",
+      "KTKV6C2K021AB",
+      "KTKV6C2K021AC",
+      "ME3M5J2K021AA",
+      "MEAV6J2K021AA",
+      "MEAV6J2K021BA",
+      "MEMV6J2K021A2A"
+    ],
+    "FORD (CHANGAN)": [
+      "1517765",
+      "1782890",
+      "5134102",
+      "7M512K021AA",
+      "7M512K021AALC",
+      "BV612001BA",
+      "CN152K021CA",
+      "CV6Z2001C"
+    ],
+    "FORD ASIA & OCEANIA": [
+      "7M592K021AA"
+    ],
+    "FORD AUSTRALIA": [
+      "BRF14"
+    ],
+    "MAZDA": [
+      "B3YH3323Z",
+      "B3YH3323ZA",
+      "B4YB3323Z",
+      "B4YB3323ZA",
+      "BPYK3323Z",
+      "BPYK3323ZA",
+      "BPYK3323ZA9C",
+      "BPYK3323ZC",
+      "BPYK3323ZC9C",
+      "C2Y33323Z",
+      "C2Y33323ZA",
+      "C2Y33323ZB",
+      "C2Y33323ZC"
+    ],
+    "MITSUBISHI": [
+      "BPYK3323ZA9C",
+      "BPYK3323ZB9C"
+    ],
+    "NISSAN": [
+      "41060HA00A",
+      "41060HA00B",
+      "AY040MA031"
+    ],
+    "VOLVO": [
+      "30681739",
+      "30683554",
+      "30715023",
+      "30736923",
+      "30742030",
+      "30793618",
+      "31341301"
+    ]
+  },
+  "eanNumber": "4019722446696",
+  "attributes": {
+    "width1": "155,1",
+    "width2": "156,3",
+    "height1": "62,4",
+    "height2": "67",
+    "thickness1": "18,2",
+    "thickness2": null,
+    "wvaNumber": [
+      "23723"
+    ],
+    "Quality": [
+      "epad"
+    ],
+    "AxleVersion": [],
+    "BrakeSystem": [
+      "Teves"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": "",
+    "Weight": [
+      "1,7"
+    ]
+  }
+}

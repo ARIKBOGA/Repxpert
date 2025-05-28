@@ -1,0 +1,41 @@
+{
+  "reference": "GDB2203",
+  "id": "GDB2203",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "TRW",
+  "wvaNumbers": [
+    "25913",
+    "25914"
+  ],
+  "brand_oe_map": {
+    "HYUNDAI": [
+      "58101-B1A00",
+      "58101-F2A00",
+      "58101-F3A00",
+      "58101-G2A00",
+      "58101-G2A10"
+    ],
+    "KIA": [
+      "58101-F3A00",
+      "58101-G2A00",
+      "58101-G2A10"
+    ]
+  },
+  "eanNumber": "3322938425234",
+  "attributes": {
+    "width1": "132,8",
+    "width2": null,
+    "height1": "60",
+    "height2": null,
+    "thickness1": "17,5",
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [],
+    "manufacturerRestriction": "MANDO",
+    "checkmark": "E9 90R-02A0107/3792",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!",
+    "Weight": []
+  }
+}

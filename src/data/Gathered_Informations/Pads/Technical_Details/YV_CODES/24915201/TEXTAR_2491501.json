@@ -1,0 +1,57 @@
+{
+  "reference": "2491501",
+  "id": "2491501",
+  "name": "Fren balata seti, diskli fren Q+",
+  "brand": "TEXTAR",
+  "wvaNumbers": [
+    "24915",
+    "24915 173  1 5",
+    "24916",
+    "24917",
+    "8527D1413"
+  ],
+  "brand_oe_map": {
+    "HYUNDAI": [
+      "581012MA00",
+      "581012VA20",
+      "581012VA25",
+      "581012VA70",
+      "58101A6A20",
+      "58101A6A70",
+      "58101A6A75"
+    ],
+    "KIA": [
+      "581012TA20",
+      "581012TA21",
+      "581012TA61",
+      "58101A2A25",
+      "58101A6A20",
+      "58101A6A70",
+      "58101A7A20",
+      "58101A7A21"
+    ]
+  },
+  "eanNumber": "4019722448263",
+  "attributes": {
+    "width1": "140,9",
+    "width2": null,
+    "height1": "59,9",
+    "height2": null,
+    "thickness1": "17,3",
+    "thickness2": null,
+    "wvaNumber": [
+      "24915"
+    ],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [
+      "Sumitomo"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": "",
+    "Weight": [
+      "1,8"
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "reference": "GDB1921",
+  "id": "GDB1921",
+  "name": "Fren balata seti, diskli fren COTEC",
+  "brand": "TRW",
+  "wvaNumbers": [
+    "20908",
+    "25323",
+    "25324"
+  ],
+  "brand_oe_map": {
+    "CHRYSLER": [
+      "77365927",
+      "77365945",
+      "77366212",
+      "77366274",
+      "77366378"
+    ],
+    "FIAT": [
+      "77365927",
+      "77365945",
+      "77366212",
+      "77366274",
+      "77366378"
+    ],
+    "LANCIA": [
+      "77365927",
+      "77365945",
+      "77366212",
+      "77366274",
+      "77366378"
+    ]
+  },
+  "eanNumber": "3322938132361",
+  "attributes": {
+    "width1": "149,5",
+    "width2": null,
+    "height1": "52,5",
+    "height2": null,
+    "thickness1": "17,8",
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [],
+    "manufacturerRestriction": "ATE",
+    "checkmark": "E9 90R - 01107/466",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!",
+    "Weight": []
+  }
+}

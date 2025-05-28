@@ -1,0 +1,66 @@
+{
+  "reference": "140405",
+  "id": "140405",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "ICER",
+  "wvaNumbers": [
+    "20784",
+    "21056",
+    "D1580-8792",
+    "D927-7828"
+  ],
+  "brand_oe_map": {
+    "MERCEDES-BENZ": [
+      "000 586 89 42",
+      "001 420 14 20",
+      "001 586 70 42",
+      "001 586 89 42",
+      "003 420 07 20",
+      "004 420 14 20",
+      "005 420 98 20",
+      "008 420 40 20",
+      "008 420 61 20",
+      "460 420 00 20",
+      "601 420 87 20",
+      "601 421 02 08",
+      "601 421 04 08",
+      "601 421 06 08",
+      "601 586 00 42",
+      "669 421 00 08"
+    ],
+    "PORTARO": [
+      "001 420 14 20"
+    ],
+    "PUCH": [
+      "001 420 14 20"
+    ],
+    "VW": [
+      "291 698 151",
+      "291 698 151 A",
+      "291 698 151 B"
+    ]
+  },
+  "eanNumber": "8424073011107",
+  "attributes": {
+    "width1": "149,1",
+    "width2": null,
+    "height1": "75,2",
+    "height2": null,
+    "thickness1": "18",
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [
+      "975"
+    ],
+    "AxleVersion": [
+      "Front"
+    ],
+    "BrakeSystem": [
+      "Perrot"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "E9 90R-02A0154/3607",
+    "SVHC": "",
+    "Weight": []
+  }
+}

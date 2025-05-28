@@ -1,0 +1,40 @@
+{
+  "reference": "GDB2190",
+  "id": "GDB2190",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "TRW",
+  "wvaNumbers": [
+    "25861",
+    "25862"
+  ],
+  "brand_oe_map": {
+    "AUDI": [
+      "4M0 698 151 AP",
+      "4M0 698 151 H",
+      "8W0 698 151 BD",
+      "8W0 698 151 N"
+    ],
+    "VW": [
+      "4M0 698 151 AP"
+    ]
+  },
+  "eanNumber": "3322938412265",
+  "attributes": {
+    "width1": "194,2",
+    "width2": null,
+    "height1": "74",
+    "height2": null,
+    "thickness1": "16,4",
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [
+      "Karbon seramik fren diskleri için değil, Sadece çelik fren diskiyle birlikte"
+    ],
+    "manufacturerRestriction": "AKEBONO",
+    "checkmark": "E9 90R-02A0107/4659",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!",
+    "Weight": []
+  }
+}

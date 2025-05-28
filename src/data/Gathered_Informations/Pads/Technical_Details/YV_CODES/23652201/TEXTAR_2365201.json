@@ -1,0 +1,74 @@
+{
+  "reference": "2365201",
+  "id": "2365201",
+  "name": "Fren balata seti, diskli fren Q+",
+  "brand": "TEXTAR",
+  "wvaNumbers": [
+    "23652",
+    "23652 148  0 5",
+    "23653",
+    "23736",
+    "7418D536",
+    "7418D537"
+  ],
+  "brand_oe_map": {
+    "ACURA": [
+      "43022S9AA01",
+      "43022SEPA00",
+      "43022SEPA01",
+      "43022SEPC00",
+      "43022STKA00",
+      "43022STKA01"
+    ],
+    "HONDA": [
+      "06430S6D000",
+      "06430S9AA00",
+      "06430SEDE60",
+      "43022S2A000",
+      "43022S3N000",
+      "43022S3N010",
+      "43022S3NE50",
+      "43022S7S010",
+      "43022S9AA00",
+      "43022S9AE51",
+      "43022S9AE52",
+      "43022SCVA01",
+      "43022SDMA00",
+      "43022SEDE60",
+      "43022SJFE00",
+      "43022SV4A20",
+      "43022SV4A22",
+      "43022SV4A23",
+      "43022SX0A50",
+      "43022SX0A51",
+      "43022SX0A52",
+      "43022SZ3A01",
+      "H4302S3N003",
+      "H4302S7S003",
+      "H4302SZ3003"
+    ]
+  },
+  "eanNumber": "4019722243394",
+  "attributes": {
+    "width1": "88,9",
+    "width2": null,
+    "height1": "47,5",
+    "height2": null,
+    "thickness1": "14,8",
+    "thickness2": null,
+    "wvaNumber": [
+      "23652"
+    ],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [
+      "Nissin"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": "",
+    "Weight": [
+      "0,8"
+    ]
+  }
+}

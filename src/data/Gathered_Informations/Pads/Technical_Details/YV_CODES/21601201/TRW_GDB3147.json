@@ -1,0 +1,39 @@
+{
+  "reference": "GDB3147",
+  "id": "GDB3147",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "TRW",
+  "wvaNumbers": [
+    "21601",
+    "21602",
+    "21603"
+  ],
+  "brand_oe_map": {
+    "TOYOTA": [
+      "04465-20140",
+      "04465-20450",
+      "04465-33021",
+      "04465-42011",
+      "04465-42012",
+      "04465-42060",
+      "04491-2B050"
+    ]
+  },
+  "eanNumber": "3322937205387",
+  "attributes": {
+    "width1": "133,2",
+    "width2": null,
+    "height1": "53",
+    "height2": null,
+    "thickness1": "17,5",
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [],
+    "manufacturerRestriction": "AKEBONO",
+    "checkmark": "E1 90R 01024/258",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!",
+    "Weight": []
+  }
+}

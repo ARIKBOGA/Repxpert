@@ -1,0 +1,71 @@
+{
+  "reference": "181343",
+  "id": "181343",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "ICER",
+  "wvaNumbers": [
+    "23202",
+    "23203",
+    "23604",
+    "86 60 004 753",
+    "86 71 016 733",
+    "D1175-8289"
+  ],
+  "brand_oe_map": {
+    "FORD": [
+      "1 101 462",
+      "1 101 463",
+      "1 101 464",
+      "1 128 463",
+      "1 145 299",
+      "1 206 064",
+      "1 236 880",
+      "1 521 328",
+      "1 633 674",
+      "1 783 839",
+      "1 911 169",
+      "M2N15-2K021-BA",
+      "MEYS6J-2K021-DD",
+      "MEYS6J-2K021-DE",
+      "MEYS6J-2K021-DF",
+      "YS61-2K021-CA",
+      "YS61-2K021-DA",
+      "YS61-2K021-FA",
+      "YS6J-2K021-DB",
+      "YS6J-2K021-DC"
+    ],
+    "MAZDA": [
+      "1E07-33-23Z",
+      "1E07-33-23ZA",
+      "1E07-33-23ZB",
+      "1E10-33-23Z",
+      "D3Y0-33-28ZA",
+      "D3Y0-38-28ZA",
+      "D9Y0-33-28ZA",
+      "DDY2-33-28Z"
+    ]
+  },
+  "eanNumber": "8424073080288",
+  "attributes": {
+    "width1": "150,1",
+    "width2": "151,3",
+    "height1": "61,2",
+    "height2": "58,4",
+    "thickness1": "18,8",
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [
+      "300"
+    ],
+    "AxleVersion": [
+      "Front"
+    ],
+    "BrakeSystem": [
+      "ATE"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "E9 90R-01111/175",
+    "SVHC": "",
+    "Weight": []
+  }
+}

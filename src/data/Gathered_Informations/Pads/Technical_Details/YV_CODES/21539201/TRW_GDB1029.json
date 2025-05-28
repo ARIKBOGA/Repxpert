@@ -1,0 +1,60 @@
+{
+  "reference": "GDB1029",
+  "id": "GDB1029",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "TRW",
+  "wvaNumbers": [
+    "21277",
+    "21539",
+    "21540",
+    "21541"
+  ],
+  "brand_oe_map": {
+    "FORD USA": [
+      "F1CZ2001B",
+      "F4CZ2001A",
+      "F4CZ2001B",
+      "F7CZ2001BA",
+      "XS4Z2001AA"
+    ],
+    "MAZDA": [
+      "B0YW-33-23ZC",
+      "B0YW3323Z",
+      "B0YW3323ZA",
+      "B0YW3328Z",
+      "B0YW3328ZA",
+      "B4Y3323ZA",
+      "BCYA3323Z",
+      "BRY4-33-23Z",
+      "BRY4-33-28Z",
+      "BRY43323Z9A",
+      "BRY43323ZA",
+      "BRY43328ZA",
+      "BRY5-33-23Z A"
+    ],
+    "MERCURY": [
+      "F1CZ2001B",
+      "F4CZ2001A",
+      "F4CZ2001B",
+      "F7CZ2001BA",
+      "XS4Z2001AA"
+    ]
+  },
+  "eanNumber": "3322936410294",
+  "attributes": {
+    "width1": "91,7",
+    "width2": null,
+    "height1": "71",
+    "height2": null,
+    "thickness1": "15",
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [],
+    "manufacturerRestriction": "SUMITOMO",
+    "checkmark": "E9 90R 01107/244",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!",
+    "Weight": []
+  }
+}

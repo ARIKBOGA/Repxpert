@@ -1,0 +1,51 @@
+{
+  "reference": "2358102",
+  "id": "2358102",
+  "name": "Fren balata seti, diskli fren Q+",
+  "brand": "TEXTAR",
+  "wvaNumbers": [
+    "23581",
+    "23581 190  1 5",
+    "23843"
+  ],
+  "brand_oe_map": {
+    "AUDI": [
+      "6Q0698151C"
+    ],
+    "SEAT": [
+      "6Q0698151C",
+      "6Q0698151E"
+    ],
+    "SKODA": [
+      "6Q0698151C",
+      "6Q0698151E"
+    ],
+    "VW": [
+      "6Q0698151C",
+      "6Q0698151E"
+    ]
+  },
+  "eanNumber": "4019722272400",
+  "attributes": {
+    "width1": "131,6",
+    "width2": null,
+    "height1": "62,6",
+    "height2": null,
+    "thickness1": "19",
+    "thickness2": null,
+    "wvaNumber": [
+      "23581"
+    ],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [
+      "Lucas"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": "",
+    "Weight": [
+      "1,84"
+    ]
+  }
+}

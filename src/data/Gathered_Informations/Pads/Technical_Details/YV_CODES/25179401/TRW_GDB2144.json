@@ -1,0 +1,51 @@
+{
+  "reference": "GDB2144",
+  "id": "GDB2144",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "TRW",
+  "wvaNumbers": [
+    "25706"
+  ],
+  "brand_oe_map": {
+    "DAIMLER": [
+      "A 000 420 33 05"
+    ],
+    "MERCEDES-BENZ": [
+      "006 420 50 20",
+      "006 420 88 20",
+      "007 420 33 20",
+      "008 420 02 20",
+      "008 420 09 20",
+      "008 420 33 20",
+      "64208820",
+      "74203320",
+      "84200220",
+      "84200920",
+      "A 006 420 50 20",
+      "A 006 420 88 20",
+      "A 007 420 33 20",
+      "A 008 420 02 20",
+      "A 008 420 09 20",
+      "A 008 420 33 20"
+    ]
+  },
+  "eanNumber": "3322938346508",
+  "attributes": {
+    "width1": "132,2",
+    "width2": null,
+    "height1": "97,8",
+    "height2": null,
+    "thickness1": "18",
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [
+      "Karbon seramik fren diskleri için değil, Sadece çelik fren diskiyle birlikte"
+    ],
+    "manufacturerRestriction": "BREMBO",
+    "checkmark": "E9 90R-02A0107/3570",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!",
+    "Weight": []
+  }
+}

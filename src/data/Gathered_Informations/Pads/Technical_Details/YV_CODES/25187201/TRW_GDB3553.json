@@ -1,0 +1,45 @@
+{
+  "reference": "GDB3553",
+  "id": "GDB3553",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "TRW",
+  "wvaNumbers": [
+    "25187"
+  ],
+  "brand_oe_map": {
+    "HYUNDAI": [
+      "58101-1KA00",
+      "58101-2SA00",
+      "58101-3SA25",
+      "58101-D4A00"
+    ],
+    "HYUNDAI (BEIJING)": [
+      "58101B3A00"
+    ],
+    "KIA": [
+      "58101-B2A10",
+      "58101-B2A70",
+      "58101-D4A00"
+    ],
+    "KIA (DYK)": [
+      "K58101D1A00"
+    ]
+  },
+  "eanNumber": "3322938162337",
+  "attributes": {
+    "width1": "130",
+    "width2": null,
+    "height1": "58,7",
+    "height2": null,
+    "thickness1": "17,6",
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [],
+    "manufacturerRestriction": "",
+    "checkmark": "E1190R-02A0918/15689",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!",
+    "Weight": []
+  }
+}

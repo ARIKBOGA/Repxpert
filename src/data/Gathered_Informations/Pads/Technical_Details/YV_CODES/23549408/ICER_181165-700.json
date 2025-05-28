@@ -1,0 +1,74 @@
+{
+  "reference": "181165-700",
+  "id": "181165-700",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "ICER",
+  "wvaNumbers": [
+    "21860",
+    "21861",
+    "23548",
+    "23549",
+    "D838-7713"
+  ],
+  "brand_oe_map": {
+    "MITSUBISHI": [
+      "M 620 770",
+      "M 850 978",
+      "MB 850 978",
+      "MN 125 772",
+      "MR 850 978",
+      "MW 306 207 7",
+      "MW30620770",
+      "MZ 690 345",
+      "MZ 690 594"
+    ],
+    "PROTON": [
+      "PW 890 084"
+    ],
+    "RENAULT": [
+      "86 60 004 457",
+      "86 71 016 524"
+    ],
+    "SMART": [
+      "454 420 10 20"
+    ],
+    "VOLVO": [
+      "3 062 077 0",
+      "3 062 077 05",
+      "3 062 326 4",
+      "3 063 061 3",
+      "3 063 845 5",
+      "3 076 918 6",
+      "3 079 918 6",
+      "3 085 097 8",
+      "3 085 097 85",
+      "3 126 246 8",
+      "3 345 678",
+      "3 345 678 1",
+      "X3 516 005"
+    ]
+  },
+  "eanNumber": "8424073081087",
+  "attributes": {
+    "width1": "87,1",
+    "width2": null,
+    "height1": "47,1",
+    "height2": null,
+    "thickness1": "15,3",
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [
+      "944"
+    ],
+    "AxleVersion": [
+      "Rear"
+    ],
+    "BrakeSystem": [
+      "LUCAS-TRW"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "E1 90R-01100/176",
+    "SVHC": "",
+    "Weight": []
+  }
+}

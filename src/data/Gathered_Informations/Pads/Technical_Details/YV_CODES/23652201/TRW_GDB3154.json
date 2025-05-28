@@ -1,0 +1,75 @@
+{
+  "reference": "GDB3154",
+  "id": "GDB3154",
+  "name": "Fren balata seti, diskli fren COTEC",
+  "brand": "TRW",
+  "wvaNumbers": [
+    "21719",
+    "21720",
+    "21721"
+  ],
+  "brand_oe_map": {
+    "ACURA": [
+      "43022-S9A-A00",
+      "43022-SN7-E50",
+      "43022-SP0-000",
+      "43022-SP0-010",
+      "43022-SP0-020",
+      "43022-SP0-E01",
+      "43022-SX0-A52"
+    ],
+    "HONDA": [
+      "06430-S0K-J00",
+      "06430-S0K-J01",
+      "06430-S2X-J00",
+      "06430-S3N-J00",
+      "06430-S7A-J00",
+      "06430-S7S-000",
+      "06430-SCV-A00",
+      "43022-S84-A10",
+      "43022-S9A-A00",
+      "43022-SCV-A00",
+      "43022-SM4-G00",
+      "43022-SN7-000",
+      "43022-SN7-E50",
+      "43022-SP0-000",
+      "43022-SP0-010",
+      "43022-SP0-020",
+      "43022-SP0-305",
+      "43022-SP0-E00",
+      "43022-SP0-E01",
+      "43022-SP0-E02",
+      "43022-SP0-E03",
+      "43022-SV4-A00",
+      "43022-SV4-G00",
+      "43022-SX0-A52",
+      "43022-SY8-A00",
+      "43022-SY8-A01",
+      "43022-SY8-E50",
+      "43022-SZ3-A00",
+      "43022SN7E50HE",
+      "43022SP0E01HS",
+      "6430S2XJ00"
+    ],
+    "ROVER": [
+      "GBP90331"
+    ]
+  },
+  "eanNumber": "3322937201358",
+  "attributes": {
+    "width1": "88,9",
+    "width2": null,
+    "height1": "47,4",
+    "height2": null,
+    "thickness1": "14,8",
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [],
+    "manufacturerRestriction": "AKEBONO",
+    "checkmark": "E1 90R 01025/422",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!",
+    "Weight": []
+  }
+}

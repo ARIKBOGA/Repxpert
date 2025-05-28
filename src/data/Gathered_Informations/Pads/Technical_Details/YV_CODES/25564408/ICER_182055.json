@@ -1,0 +1,45 @@
+{
+  "reference": "182055",
+  "id": "182055",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "ICER",
+  "wvaNumbers": [
+    "25564",
+    "D1623-8836"
+  ],
+  "brand_oe_map": {
+    "MAZDA": [
+      "K0Y1-33-23Z",
+      "K0Y1-33-28Z",
+      "K0Y1-33-28ZA",
+      "KCYR-33-28Z",
+      "KDY9-33-28Z",
+      "KDY9-33-28Z9C",
+      "KGY0-33-28Z",
+      "KRY2-33-28Z"
+    ]
+  },
+  "eanNumber": "8424073105356",
+  "attributes": {
+    "width1": "141,9",
+    "width2": null,
+    "height1": "61",
+    "height2": null,
+    "thickness1": "15,8",
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [
+      "300"
+    ],
+    "AxleVersion": [
+      "Front"
+    ],
+    "BrakeSystem": [
+      "Akebono"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "E9 90R-02A0111/3455",
+    "SVHC": "",
+    "Weight": []
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "reference": "141224",
+  "id": "141224",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "ICER",
+  "wvaNumbers": [
+    "23784",
+    "23785",
+    "23786",
+    "D1513-8722"
+  ],
+  "brand_oe_map": {
+    "ASIA MOTORS": [
+      "RB91-33-11261",
+      "RB91-33-1626"
+    ],
+    "KIA": [
+      "0K60A-33-28ZA",
+      "0K60B-33-28Z",
+      "0K60B-33-28ZA",
+      "S0K60A-33-28ZA"
+    ]
+  },
+  "eanNumber": "8424073054098",
+  "attributes": {
+    "width1": "154",
+    "width2": null,
+    "height1": "63,6",
+    "height2": null,
+    "thickness1": "15",
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [
+      "300"
+    ],
+    "AxleVersion": [
+      "Front"
+    ],
+    "BrakeSystem": [
+      "Sumitomo"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": "",
+    "Weight": []
+  }
+}
