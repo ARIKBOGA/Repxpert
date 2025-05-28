@@ -14,14 +14,14 @@
     "@types/fs-extra": "^11.0.4",
     "@types/node": "^22.14.1",
     "@types/xlsx": "^0.0.35",
-    "dotenv": "^16.5.0"
+    "ts-node": "^10.9.2"
   },
   "dependencies": {
+    "dotenv": "^16.5.0",
     "fast-glob": "^3.3.3",
     "fs-extra": "^11.3.0",
     "locale-enum": "^1.1.1",
     "playwright": "^1.52.0",
-    "ts-node": "^10.9.2",
     "xlsx": "^0.18.5"
   }
 }
