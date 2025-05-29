@@ -2,7 +2,9 @@ import fs from 'fs';
 import path from 'path';
 import XLSX from 'xlsx';
 import { formatDateTime } from '../utils/DateHelper'; // Bu fonksiyonun düzgün çalıştığını varsayıyorum
+import dotenv from 'dotenv';
 
+dotenv.config({ path: path.resolve(__dirname, '../data/Configs/.env') });
 const productType = process.env.PRODUCT_TYPE as string;
 
 async function oeNumbersToExcel() {
@@ -18,6 +20,7 @@ async function oeNumbersToExcel() {
     try {
         const jsonFolders = fs.readdirSync(jsonFilesFolderPath);
         console.log("jsonFolders count: ", jsonFolders.length);
+        //console.log(jsonFolders);
 
         for (const folder of jsonFolders) { // folder değişkeni burada 'YV_CODE' olan klasör adını temsil ediyor
             const folderPath = path.join(jsonFilesFolderPath, folder);
@@ -46,7 +49,7 @@ async function oeNumbersToExcel() {
                                         Cross_Marka: jsonData.brand,
                                         Marka: brand,
                                         OE_Number: oeNumber,
-                                        VWA: jsonData.wvaNumbers.join(', ')
+                                        //VWA: jsonData.wvaNumbers.join(', ')
                                     });
                                 });
                             }
