@@ -1,0 +1,52 @@
+{
+  "reference": "2619601",
+  "id": "2619601",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "TEXTAR",
+  "wvaNumbers": [
+    "26196",
+    "26196 161  0 5",
+    "26197"
+  ],
+  "brand_oe_map": {
+    "AUDI": [
+      "80A698151B",
+      "80A698151F"
+    ],
+    "SEAT": [
+      "80A698151B",
+      "80A698151F"
+    ],
+    "SKODA": [
+      "80A698151B",
+      "80A698151F"
+    ],
+    "VW": [
+      "80A698151B",
+      "80A698151F"
+    ]
+  },
+  "eanNumber": "4019722543067",
+  "attributes": {
+    "width1": "135,6",
+    "width2": null,
+    "height1": "81",
+    "height2": null,
+    "thickness1": "16,1",
+    "thickness2": null,
+    "wvaNumber": [
+      "26196"
+    ],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [
+      "Brembo"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": "",
+    "Weight": [
+      "2,16"
+    ]
+  }
+}

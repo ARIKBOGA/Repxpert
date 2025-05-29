@@ -1,0 +1,64 @@
+{
+  "reference": "GDB1685",
+  "id": "GDB1685",
+  "name": "Fren balata seti, diskli fren COTEC",
+  "brand": "TRW",
+  "wvaNumbers": [
+    "24496"
+  ],
+  "brand_oe_map": {
+    "FORD": [
+      "1426143",
+      "1426144",
+      "1439866",
+      "1459450",
+      "1503969",
+      "1566233",
+      "1752093",
+      "6G91-2M008-FA",
+      "6G91-2M008-FB",
+      "6G91-2M008-FC",
+      "6G91-2M008-FD",
+      "ME6G-9J2M008-FA"
+    ],
+    "LAND ROVER": [
+      "BJ322M008AB",
+      "LR027129",
+      "LR043285",
+      "LR043714",
+      "LR134695"
+    ],
+    "LAND ROVER (CHERY)": [
+      "BJ322M008AB",
+      "LR043714",
+      "LR134695"
+    ],
+    "VOLVO": [
+      "30671574",
+      "30671575",
+      "306715750",
+      "30742491",
+      "30742516",
+      "30794554",
+      "30794555",
+      "31317482"
+    ]
+  },
+  "eanNumber": "3322937511778",
+  "attributes": {
+    "width1": "106,2",
+    "width2": null,
+    "height1": "48,6",
+    "height2": null,
+    "thickness1": "16,8",
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [],
+    "manufacturerRestriction": "TRW",
+    "checkmark": "E9 90R - 01120/2048",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!",
+    "Weight": []
+  }
+}

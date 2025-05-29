@@ -1,0 +1,50 @@
+{
+  "reference": "GDB2147",
+  "id": "GDB2147",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "TRW",
+  "wvaNumbers": [
+    "22392"
+  ],
+  "brand_oe_map": {
+    "BMW": [
+      "34 10 6 883 510",
+      "34 10 8 064 560",
+      "34 10 8 064 561",
+      "34 11 6 874 431",
+      "34 11 6 889 585",
+      "6 874 431",
+      "6 883 510",
+      "6 889 585",
+      "8 064 560",
+      "8 064 561"
+    ],
+    "ROLLS-ROYCE": [
+      "34 10 6 883 510",
+      "34 11 6 874 431",
+      "34 11 6 889 585",
+      "6 874 431",
+      "6 883 510",
+      "6 889 585"
+    ]
+  },
+  "eanNumber": "3322938346577",
+  "attributes": {
+    "width1": "124,7",
+    "width2": null,
+    "height1": "117,6",
+    "height2": null,
+    "thickness1": "19,6",
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [
+      "Karbon seramik fren diskleri için değil, Sadece çelik fren diskiyle birlikte"
+    ],
+    "manufacturerRestriction": "BREMBO",
+    "checkmark": "E9 90R-02A0107/4545",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!",
+    "Weight": []
+  }
+}

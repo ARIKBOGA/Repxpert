@@ -28,15 +28,26 @@
     ]
   },
   "eanNumber": "8424073058379",
-  "pad_attributes": {
+  "attributes": {
     "width1": "164,6",
     "width2": null,
     "height1": "72,9",
     "height2": null,
     "thickness1": "20",
     "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [
+      "300"
+    ],
+    "AxleVersion": [
+      "Front & Rear"
+    ],
+    "BrakeSystem": [
+      "Perrot"
+    ],
     "manufacturerRestriction": "",
     "checkmark": "E1 90R-01101/195",
-    "SVHC": ""
+    "SVHC": "",
+    "Weight": []
   }
 }

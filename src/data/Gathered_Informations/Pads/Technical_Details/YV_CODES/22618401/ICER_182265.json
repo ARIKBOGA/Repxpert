@@ -1,0 +1,56 @@
+{
+  "reference": "182265",
+  "id": "182265",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "ICER",
+  "wvaNumbers": [
+    "22392",
+    "22618",
+    "D1868-9098"
+  ],
+  "brand_oe_map": {
+    "BMW": [
+      "34 10 6 883 510",
+      "34 10 6 888 459",
+      "34 10 8 064 560",
+      "34 10 8 064 562",
+      "34 10 8 094 045",
+      "34 11 6 874 431",
+      "34 11 6 874 432",
+      "34 11 6 888 460",
+      "34 11 6 889 585",
+      "34108064561",
+      "6874431",
+      "6874432",
+      "6883510",
+      "6888459",
+      "6888460",
+      "6889585",
+      "8064560",
+      "8064561"
+    ]
+  },
+  "eanNumber": "8424073149930",
+  "attributes": {
+    "width1": "124,9",
+    "width2": null,
+    "height1": "117,3",
+    "height2": null,
+    "thickness1": "19,5",
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [
+      "300"
+    ],
+    "AxleVersion": [
+      "Front"
+    ],
+    "BrakeSystem": [
+      "Brembo"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "E9 90R-02A0111/4545",
+    "SVHC": "",
+    "Weight": []
+  }
+}

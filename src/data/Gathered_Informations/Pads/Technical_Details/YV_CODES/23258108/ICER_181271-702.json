@@ -41,15 +41,26 @@
     ]
   },
   "eanNumber": "8424073081476",
-  "pad_attributes": {
+  "attributes": {
     "width1": "104,7",
     "width2": null,
     "height1": "42,7",
     "height2": null,
     "thickness1": "16,9",
     "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [
+      "944"
+    ],
+    "AxleVersion": [
+      "Rear"
+    ],
+    "BrakeSystem": [
+      "Bosch"
+    ],
     "manufacturerRestriction": "",
     "checkmark": "",
-    "SVHC": ""
+    "SVHC": "",
+    "Weight": []
   }
 }

@@ -1,0 +1,48 @@
+{
+  "reference": "2169101",
+  "id": "2169101-0766-01",
+  "name": "Fren takımı, diskli fren Virtual Brake Set",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "BMW": [
+      "1163207",
+      "1163395",
+      "1163669",
+      "1163835",
+      "1164129",
+      "2157591",
+      "2157592",
+      "34211163395",
+      "34211163669",
+      "34211163835",
+      "34211164129",
+      "34212157591",
+      "34212157592",
+      "34216761281",
+      "34216767049",
+      "34351163207",
+      "6761281",
+      "6767049"
+    ]
+  },
+  "eanNumber": "",
+  "attributes": {
+    "width1": null,
+    "width2": null,
+    "height1": null,
+    "height2": null,
+    "thickness1": null,
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [
+      "Teves"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": "",
+    "Weight": []
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "reference": "182202",
+  "id": "182202",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "ICER",
+  "wvaNumbers": [
+    "22117",
+    "22118",
+    "22119",
+    "25910",
+    "25911",
+    "25912",
+    "D1736-8906",
+    "D1736-9154"
+  ],
+  "brand_oe_map": {
+    "INFINITI": [
+      "D1060-4GA0A",
+      "D1060-4GA5A",
+      "D1060-4GS1B",
+      "D1060-5NA0A"
+    ],
+    "INFINITI (DFAC)": [
+      "D1060-3WU0A",
+      "D1060-4GA0B",
+      "D1060-6HH0C"
+    ],
+    "NISSAN": [
+      "41060-8710R",
+      "D1060-4CC0A",
+      "D1060-4GA0J",
+      "D1060-4GA5A",
+      "D1060-6GP03"
+    ],
+    "RENAULT": [
+      "401 06 071 85R",
+      "41 06 071 85R",
+      "41 06 087 10R"
+    ]
+  },
+  "eanNumber": "8424073109637",
+  "attributes": {
+    "width1": "151,9",
+    "width2": null,
+    "height1": "61,6",
+    "height2": null,
+    "thickness1": "16",
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [
+      "300"
+    ],
+    "AxleVersion": [
+      "Front"
+    ],
+    "BrakeSystem": [
+      "Akebono"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "E9 90R-02A0111/4205",
+    "SVHC": "",
+    "Weight": []
+  }
+}

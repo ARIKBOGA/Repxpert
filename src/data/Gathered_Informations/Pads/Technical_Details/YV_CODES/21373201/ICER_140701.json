@@ -1,0 +1,54 @@
+{
+  "reference": "140701",
+  "id": "140701",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "ICER",
+  "wvaNumbers": [
+    "21373",
+    "21374",
+    "21375",
+    "D349-7241"
+  ],
+  "brand_oe_map": {
+    "MITSUBISHI": [
+      "MB 500 812",
+      "MB 500 813",
+      "MB 500 814",
+      "MB 500 815",
+      "MB 500 816",
+      "MB 500 819",
+      "MB 699 087",
+      "MB 699 088",
+      "MR 162 523",
+      "MR 162 524",
+      "MR 389 523",
+      "MR 389 526",
+      "MZ 690 003E",
+      "MZ 690 017",
+      "MZ 690 334"
+    ]
+  },
+  "eanNumber": "8424073011527",
+  "attributes": {
+    "width1": "128",
+    "width2": null,
+    "height1": "56,9",
+    "height2": null,
+    "thickness1": "16,5",
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [
+      "639"
+    ],
+    "AxleVersion": [
+      "Front"
+    ],
+    "BrakeSystem": [
+      "Sumitomo"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "E9 90R-01109/1642",
+    "SVHC": "",
+    "Weight": []
+  }
+}

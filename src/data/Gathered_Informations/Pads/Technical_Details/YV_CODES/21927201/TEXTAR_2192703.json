@@ -1,0 +1,54 @@
+{
+  "reference": "2192703",
+  "id": "2192703",
+  "name": "Fren balata seti, diskli fren Q+",
+  "brand": "TEXTAR",
+  "wvaNumbers": [
+    "21927",
+    "21927 179  9 5",
+    "21928",
+    "9246D2015"
+  ],
+  "brand_oe_map": {
+    "ALFA ROMEO": [
+      "71752986",
+      "71769140"
+    ],
+    "FIAT": [
+      "6001073516",
+      "71752986",
+      "71769140",
+      "77362149",
+      "77362269",
+      "77363321",
+      "9949555"
+    ],
+    "LANCIA": [
+      "71752986",
+      "71769140"
+    ]
+  },
+  "eanNumber": "4019722265501",
+  "attributes": {
+    "width1": "156,5",
+    "width2": null,
+    "height1": "52,7",
+    "height2": null,
+    "thickness1": "17,9",
+    "thickness2": null,
+    "wvaNumber": [
+      "21927"
+    ],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [
+      "Teves"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": "",
+    "Weight": [
+      "1,528"
+    ]
+  }
+}

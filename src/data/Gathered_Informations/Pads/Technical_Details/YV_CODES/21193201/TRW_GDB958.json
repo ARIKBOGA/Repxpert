@@ -1,0 +1,37 @@
+{
+  "reference": "GDB958",
+  "id": "GDB958",
+  "name": "Fren balata seti, diskli fren COTEC",
+  "brand": "TRW",
+  "wvaNumbers": [
+    "21193",
+    "21194"
+  ],
+  "brand_oe_map": {
+    "FIAT": [
+      "5882984",
+      "5888528",
+      "71738153"
+    ],
+    "INNOCENTI": [
+      "5888528"
+    ]
+  },
+  "eanNumber": "3322936409588",
+  "attributes": {
+    "width1": "151,4",
+    "width2": null,
+    "height1": "49",
+    "height2": null,
+    "thickness1": "18",
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [],
+    "manufacturerRestriction": "ATE",
+    "checkmark": "E9 90R 01107/158",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!",
+    "Weight": []
+  }
+}

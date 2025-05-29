@@ -1,0 +1,71 @@
+{
+  "reference": "2453703",
+  "id": "2453703",
+  "name": "Fren balata seti, diskli fren Q+",
+  "brand": "TEXTAR",
+  "wvaNumbers": [
+    "24537",
+    "24537 157  3 4",
+    "8429D1314"
+  ],
+  "brand_oe_map": {
+    "FORD": [
+      "1438867",
+      "1439867",
+      "1459408",
+      "1477803",
+      "1566234",
+      "1682005",
+      "1699667",
+      "1756395",
+      "1917249",
+      "1917250",
+      "2613323",
+      "6G9012M008GD",
+      "6G912M008GA",
+      "6G912M008GB",
+      "6G912M008GC",
+      "6G912M008GD",
+      "6G912M008GF",
+      "6G912MM08GA",
+      "6G912MM08GB",
+      "6G912MM08GC",
+      "71BG8200AA",
+      "ME6G9J2M008GA",
+      "ME6G9J2M008GB",
+      "ME6G9J2M008GC",
+      "MEMG9J2M008A2A"
+    ],
+    "FORD (CHANGAN)": [
+      "1445214",
+      "1585939",
+      "1699667",
+      "7G9N2M008AA",
+      "7G9N2M008AB",
+      "7G9N2M008AC"
+    ]
+  },
+  "eanNumber": "4019722303418",
+  "attributes": {
+    "width1": "95,4",
+    "width2": null,
+    "height1": "43,2",
+    "height2": null,
+    "thickness1": "15,7",
+    "thickness2": null,
+    "wvaNumber": [
+      "24537"
+    ],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [
+      "TRW"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": "",
+    "Weight": [
+      "0,8"
+    ]
+  }
+}

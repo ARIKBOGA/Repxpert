@@ -1,0 +1,76 @@
+{
+  "reference": "2263101",
+  "id": "2263101",
+  "name": "Fren balata seti, diskli fren Q+",
+  "brand": "TEXTAR",
+  "wvaNumbers": [
+    "22631",
+    "22631 177  0 5",
+    "22632"
+  ],
+  "brand_oe_map": {
+    "AUDI": [
+      "2Q0698151B",
+      "2Q0698151C",
+      "2Q0698151E",
+      "2Q0698151G",
+      "2Q0698151Q",
+      "2Q0698151R",
+      "5Q0698151E",
+      "5Q0698151H"
+    ],
+    "SEAT": [
+      "2Q0698151B",
+      "2Q0698151C",
+      "2Q0698151E",
+      "2Q0698151Q",
+      "5Q0698151E",
+      "5Q0698151H"
+    ],
+    "SKODA": [
+      "2Q0698151B",
+      "2Q0698151C",
+      "2Q0698151E",
+      "2Q0698151Q",
+      "5Q0698151E",
+      "5Q0698151H"
+    ],
+    "VW": [
+      "2Q0698151AA",
+      "2Q0698151B",
+      "2Q0698151C",
+      "2Q0698151E",
+      "2Q0698151Q",
+      "5Q0698151E",
+      "5Q0698151H"
+    ],
+    "VW (SVW)": [
+      "5QD698151B",
+      "5QD698151C",
+      "5QD698151D"
+    ]
+  },
+  "eanNumber": "4019722498770",
+  "attributes": {
+    "width1": "146,2",
+    "width2": null,
+    "height1": "61,5",
+    "height2": null,
+    "thickness1": "17,7",
+    "thickness2": null,
+    "wvaNumber": [
+      "22631"
+    ],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [
+      "Mando"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": "",
+    "Weight": [
+      "1,63"
+    ]
+  }
+}

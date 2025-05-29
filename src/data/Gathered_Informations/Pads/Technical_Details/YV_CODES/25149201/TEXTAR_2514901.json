@@ -1,0 +1,51 @@
+{
+  "reference": "2514901",
+  "id": "2514901",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "TEXTAR",
+  "wvaNumbers": [
+    "25149",
+    "25149 158  1 5",
+    "25150",
+    "25151",
+    "8906D1677"
+  ],
+  "brand_oe_map": {
+    "CHEVROLET": [
+      "94770229"
+    ],
+    "ISUZU": [
+      "8979474660",
+      "8979475710",
+      "8979479960",
+      "8980791040",
+      "8982983840",
+      "97947466",
+      "97947571",
+      "97947996"
+    ]
+  },
+  "eanNumber": "4019722445293",
+  "attributes": {
+    "width1": "152",
+    "width2": null,
+    "height1": "60,4",
+    "height2": null,
+    "thickness1": "16,4",
+    "thickness2": null,
+    "wvaNumber": [
+      "25149"
+    ],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [
+      "Akebono"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": "",
+    "Weight": [
+      "1,9"
+    ]
+  }
+}

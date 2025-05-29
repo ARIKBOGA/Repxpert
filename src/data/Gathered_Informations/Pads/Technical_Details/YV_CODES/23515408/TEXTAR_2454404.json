@@ -1,0 +1,69 @@
+{
+  "reference": "2454404",
+  "id": "2351503",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "TEXTAR",
+  "wvaNumbers": [
+    "23515",
+    "23515 174  1 4"
+  ],
+  "brand_oe_map": {
+    "FORD": [
+      "7T432001AA",
+      "7T4Z2001A",
+      "7T4Z2V001AA",
+      "7U2J2C452AA",
+      "8T432200BA",
+      "BT432001AB",
+      "BT4Z2001B"
+    ],
+    "FORD USA": [
+      "BT432001AA",
+      "BT4Z2001A"
+    ],
+    "MAZDA": [
+      "EHY23328Z",
+      "EHY43328Z",
+      "EHY53328ZA",
+      "EHY53328ZB",
+      "KCYR3328Z",
+      "L2Y63323Z",
+      "L2Y63328Z",
+      "L2Y63328ZA",
+      "L2Y63328ZB",
+      "TAY03328Z",
+      "TKY83328Z",
+      "TKY83328ZA",
+      "TKY83328ZB"
+    ],
+    "MITSUBISHI": [
+      "4605B541",
+      "4605C248",
+      "L2Y63328Z",
+      "L2Y63329Z"
+    ]
+  },
+  "eanNumber": "4019722498763",
+  "attributes": {
+    "width1": "139,1",
+    "width2": null,
+    "height1": "58",
+    "height2": null,
+    "thickness1": "17,4",
+    "thickness2": null,
+    "wvaNumber": [
+      "23515"
+    ],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [
+      "Advics"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": "",
+    "Weight": [
+      "1,74"
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "reference": "182256",
+  "id": "182256",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "ICER",
+  "wvaNumbers": [
+    "22308",
+    "22309",
+    "D1898-9126"
+  ],
+  "brand_oe_map": {
+    "AUDI": [
+      "4N0 698 451",
+      "80A 698 451 B",
+      "8W0 698 451 BG",
+      "8W0 698 451 F",
+      "8W0 698 451 G",
+      "8W0 698 451 H",
+      "8W0 698 451 J",
+      "8W0 698 451 K",
+      "8W0 698 451 L",
+      "8W0 698 451 N",
+      "8W0 698 451 P",
+      "8W0 698 451 Q",
+      "8W0 698 451 R",
+      "8W0 698 451 S",
+      "8W0 698 451 T"
+    ],
+    "AUDI (FAW)": [
+      "8WD 698 151"
+    ]
+  },
+  "eanNumber": "8424073141330",
+  "attributes": {
+    "width1": "129,1",
+    "width2": null,
+    "height1": "59",
+    "height2": null,
+    "thickness1": "17,5",
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [
+      "300"
+    ],
+    "AxleVersion": [
+      "Rear"
+    ],
+    "BrakeSystem": [
+      "LUCAS-TRW"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "E9 90R-02A0111/4422",
+    "SVHC": "",
+    "Weight": []
+  }
+}

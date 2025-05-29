@@ -1,0 +1,65 @@
+{
+  "reference": "182099",
+  "id": "182099",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "ICER",
+  "wvaNumbers": [
+    "22171",
+    "22172",
+    "25008",
+    "25010",
+    "D1761-8990"
+  ],
+  "brand_oe_map": {
+    "AUDI": [
+      "5Q0 698 451 C",
+      "8Q0 698 451 N",
+      "8V0 698 451",
+      "8V0 698 451 F",
+      "8V0 698 451 H",
+      "L5Q 698 451 C",
+      "L8V 698 451"
+    ],
+    "SEAT": [
+      "5Q0 698 451 AG",
+      "5Q0 698 451 Q"
+    ],
+    "SKODA": [
+      "5QD 698 451 D"
+    ],
+    "VW": [
+      "5Q0 698 451 AD",
+      "5Q0 698 451 C",
+      "5Q0 698 451 N",
+      "5Q0 698 451 R",
+      "5Q0 698 491 N",
+      "8V0 698 451",
+      "8V0 698 451 B",
+      "8V0 698 491 B",
+      "JZW 698 451 AA"
+    ]
+  },
+  "eanNumber": "8424073105899",
+  "attributes": {
+    "width1": "123,1",
+    "width2": null,
+    "height1": "56,3",
+    "height2": "61,3",
+    "thickness1": "16,4",
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [
+      "300"
+    ],
+    "AxleVersion": [
+      "Rear"
+    ],
+    "BrakeSystem": [
+      "ATE"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "E9 90R-02A0111/3530",
+    "SVHC": "",
+    "Weight": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "reference": "2344605",
+  "id": "2344605",
+  "name": "Fren balata seti, diskli fren Q+",
+  "brand": "TEXTAR",
+  "wvaNumbers": [
+    "23224",
+    "23446",
+    "23446 165  1 5",
+    "7754D877"
+  ],
+  "brand_oe_map": {
+    "AUDI": [
+      "7D0698451B",
+      "7D0698451F",
+      "7M3698451D",
+      "7M3698451F"
+    ],
+    "FORD": [
+      "1109015",
+      "1133448",
+      "1205697",
+      "1207518",
+      "1345339",
+      "1386603",
+      "5M212M008BA",
+      "5M212M008BB",
+      "YM212021BA",
+      "YM212M008BA",
+      "YM2J2M008AA",
+      "YM2J2M008BA"
+    ],
+    "SEAT": [
+      "7D0698451B",
+      "7D0698451F",
+      "7M3698451D",
+      "7M3698451F"
+    ],
+    "SKODA": [
+      "7D0698451B",
+      "7D0698451F",
+      "7M3698451D",
+      "7M3698451F"
+    ],
+    "VW": [
+      "7D0698451B",
+      "7D0698451F",
+      "7M3698451D",
+      "7M3698451F"
+    ]
+  },
+  "eanNumber": "4019722259159",
+  "attributes": {
+    "width1": "94,8",
+    "width2": null,
+    "height1": "51",
+    "height2": null,
+    "thickness1": "16,5",
+    "thickness2": null,
+    "wvaNumber": [
+      "23446"
+    ],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [
+      "Lucas"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": "",
+    "Weight": [
+      "1"
+    ]
+  }
+}

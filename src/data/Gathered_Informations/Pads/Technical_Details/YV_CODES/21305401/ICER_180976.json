@@ -1,0 +1,54 @@
+{
+  "reference": "180976",
+  "id": "180976",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "ICER",
+  "wvaNumbers": [
+    "21287",
+    "21305",
+    "D603-7484",
+    "D603-7526"
+  ],
+  "brand_oe_map": {
+    "CHRYSLER": [
+      "05143633AA",
+      "5143633AA"
+    ],
+    "MERCEDES-BENZ": [
+      "002 420 05 20",
+      "002 420 16 20",
+      "002 420 46 20",
+      "002 420 80 20",
+      "003 420 30 20",
+      "003 420 48 20",
+      "003 420 49 20",
+      "004 420 16 20",
+      "004 420 92 20",
+      "004 420 93 20",
+      "213 051 55 04"
+    ]
+  },
+  "eanNumber": "8424073015921",
+  "attributes": {
+    "width1": "61,7",
+    "width2": null,
+    "height1": "69,7",
+    "height2": null,
+    "thickness1": "15,5",
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [
+      "944"
+    ],
+    "AxleVersion": [
+      "Rear"
+    ],
+    "BrakeSystem": [
+      "ATE"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "E9 90R-01110/1049",
+    "SVHC": "",
+    "Weight": []
+  }
+}

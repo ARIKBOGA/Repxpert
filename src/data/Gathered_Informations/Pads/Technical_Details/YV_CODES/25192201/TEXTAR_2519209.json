@@ -1,0 +1,42 @@
+{
+  "reference": "2519209",
+  "id": "2519209",
+  "name": "Fren balata seti, diskli fren Q+",
+  "brand": "TEXTAR",
+  "wvaNumbers": [
+    "22563",
+    "22564",
+    "25192",
+    "25192 190  0 5"
+  ],
+  "brand_oe_map": {
+    "JEEP": [
+      "00K68052369AB",
+      "68052369AB",
+      "K68052369AB"
+    ]
+  },
+  "eanNumber": "4019722541315",
+  "attributes": {
+    "width1": "193,3",
+    "width2": "193,2",
+    "height1": "64",
+    "height2": null,
+    "thickness1": "19",
+    "thickness2": null,
+    "wvaNumber": [
+      "25192"
+    ],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [
+      "TRW"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": "",
+    "Weight": [
+      "2,65"
+    ]
+  }
+}

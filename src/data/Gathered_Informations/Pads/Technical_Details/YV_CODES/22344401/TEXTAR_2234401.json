@@ -1,0 +1,44 @@
+{
+  "reference": "2234401",
+  "id": "2234401",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "TEXTAR",
+  "wvaNumbers": [
+    "22344",
+    "8991D1875",
+    "9222D1875"
+  ],
+  "brand_oe_map": {
+    "MINI": [
+      "34106860020",
+      "34106884224",
+      "34106889266",
+      "6860020",
+      "6884224",
+      "6889266"
+    ]
+  },
+  "eanNumber": "4019722489396",
+  "attributes": {
+    "width1": "114,7",
+    "width2": null,
+    "height1": "91,2",
+    "height2": null,
+    "thickness1": "15",
+    "thickness2": null,
+    "wvaNumber": [
+      "22344"
+    ],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [
+      "Brembo"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": "",
+    "Weight": [
+      "1,9"
+    ]
+  }
+}

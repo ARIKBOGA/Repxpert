@@ -29,7 +29,7 @@
     "kw": "60",
     "hp": "82",
     "cc": "1995",
-    "engineCodes": "X 20 DTL  Y 20 DTL",
+    "engineCodes": "X 20 DTL, Y 20 DTL",
     "KBA_Numbers": "0035348"
   },
   {
@@ -62,7 +62,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1389",
-    "engineCodes": "Z 14 XE  X 14 XE",
+    "engineCodes": "Z 14 XE, X 14 XE",
     "KBA_Numbers": "0035361"
   },
   {
@@ -117,7 +117,7 @@
     "kw": "60",
     "hp": "82",
     "cc": "1995",
-    "engineCodes": "X 20 DTL  Y 20 DTL",
+    "engineCodes": "X 20 DTL, Y 20 DTL",
     "KBA_Numbers": "0035366"
   },
   {
@@ -150,7 +150,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1389",
-    "engineCodes": "X 14 XE  Z 14 XE",
+    "engineCodes": "X 14 XE, Z 14 XE",
     "KBA_Numbers": "0035351"
   },
   {
@@ -172,8 +172,8 @@
     "kw": "74",
     "hp": "101",
     "cc": "1598",
-    "engineCodes": "X 16 XEL  Z 16 XE",
-    "KBA_Numbers": "0035353  0035359"
+    "engineCodes": "X 16 XEL, Z 16 XE",
+    "KBA_Numbers": "0035353, 0035359"
   },
   {
     "brand": "OPEL",
@@ -227,7 +227,7 @@
     "kw": "60",
     "hp": "82",
     "cc": "1995",
-    "engineCodes": "Y 20 DTL  X 20 DTL",
+    "engineCodes": "Y 20 DTL, X 20 DTL",
     "KBA_Numbers": "0035356"
   },
   {

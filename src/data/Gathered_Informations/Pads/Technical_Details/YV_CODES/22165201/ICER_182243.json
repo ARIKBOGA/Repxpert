@@ -1,0 +1,72 @@
+{
+  "reference": "182243",
+  "id": "182243",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "ICER",
+  "wvaNumbers": [
+    "22165",
+    "22166",
+    "22167",
+    "77369311",
+    "D1811-9046"
+  ],
+  "brand_oe_map": {
+    "FIAT": [
+      "5 209 417 4",
+      "7 736 721 4",
+      "7 736 728 2",
+      "7 736 821 1",
+      "7 736 834 4",
+      "7 736 857 7"
+    ],
+    "JEEP": [
+      "00K2AMV3886AB",
+      "2AMV3886AA",
+      "5 209 417 4",
+      "68273005AA",
+      "68299399AA",
+      "68346917AA",
+      "68346917AB",
+      "68368829AA",
+      "68379582AA",
+      "68379582AB",
+      "68404783AA",
+      "7 736 721 4",
+      "7 736 793 6",
+      "7 736 821 1",
+      "7 736 857 7",
+      "7 736 877 8",
+      "K2AMV3886AA",
+      "K2AMV3886AB",
+      "K68346917AA",
+      "K68346917AB",
+      "K68346986AA",
+      "K68346986AB",
+      "K68379582AA",
+      "K68379582AB"
+    ]
+  },
+  "eanNumber": "8424073140678",
+  "attributes": {
+    "width1": "140,8",
+    "width2": null,
+    "height1": "63,5",
+    "height2": null,
+    "thickness1": "20,1",
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [
+      "300"
+    ],
+    "AxleVersion": [
+      "Front"
+    ],
+    "BrakeSystem": [
+      "Mando"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "E9 90R-02A0111/4273",
+    "SVHC": "",
+    "Weight": []
+  }
+}

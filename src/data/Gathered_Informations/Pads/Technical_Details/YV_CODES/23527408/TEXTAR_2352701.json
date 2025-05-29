@@ -1,0 +1,44 @@
+{
+  "reference": "2352701",
+  "id": "2352701",
+  "name": "Fren balata seti, diskli fren Q+",
+  "brand": "TEXTAR",
+  "wvaNumbers": [
+    "23527",
+    "23527 150  1 4",
+    "9200D1973"
+  ],
+  "brand_oe_map": {
+    "HONDA": [
+      "43022S1AE02",
+      "43022S1AE03",
+      "43022S1AE30",
+      "43022S1AE50",
+      "43022SEAE01",
+      "43022SEAE10"
+    ]
+  },
+  "eanNumber": "4019722243219",
+  "attributes": {
+    "width1": "87,4",
+    "width2": null,
+    "height1": "52,7",
+    "height2": null,
+    "thickness1": "15",
+    "thickness2": null,
+    "wvaNumber": [
+      "23527"
+    ],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [
+      "Lucas"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": "",
+    "Weight": [
+      "0,8"
+    ]
+  }
+}

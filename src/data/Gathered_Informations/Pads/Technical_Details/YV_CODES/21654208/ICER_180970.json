@@ -1,0 +1,90 @@
+{
+  "reference": "180970",
+  "id": "180970",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "ICER",
+  "wvaNumbers": [
+    "21654",
+    "21655",
+    "21656",
+    "D466-7219",
+    "D466-7613"
+  ],
+  "brand_oe_map": {
+    "KIA": [
+      "K0BA2-33-28Z",
+      "KK370-33-28Z",
+      "KQBA2-33-28Z"
+    ],
+    "MAZDA": [
+      "0K30A-33-28Z",
+      "1I06-33-28Z",
+      "1U052-33-28Z",
+      "1U06-33-28Z",
+      "1U0B-33-28Z",
+      "B092-33-29Z",
+      "B455-33-292",
+      "B4Y5-33-29Z",
+      "B4Y6-33-23Z",
+      "B4Y6-33-23ZA",
+      "B5Y6-33-23Z",
+      "B5Y6-33-23Z9A",
+      "B5Y6-33-23ZA",
+      "B5Y6-33-28Z",
+      "B5Y6-33-28Z9A",
+      "B5Y6-33-28Z9C",
+      "B5Y6-33-28ZA",
+      "B5Y6-33-28ZA9C",
+      "B5Y8-33-23Z",
+      "B5Y8-33-23ZA",
+      "B5Y8-33-28ZB",
+      "BCYC-33-23Z",
+      "BCYW-33-23Z",
+      "BCYW-33-23ZC",
+      "BRY0-33-28Z",
+      "BRY4-33-28ZA",
+      "BRY7-33-23ZA",
+      "DCY0-33-23Z",
+      "DCY0-33-23ZA",
+      "DCY0-33-23ZB",
+      "DCY0-33-28ZA",
+      "DCY0-33-28ZB",
+      "DCY1-33-23Z",
+      "DCY1-33-28Z",
+      "DCY5-33-23Z",
+      "DCY9-33-23Z",
+      "DCY9-33-28Z",
+      "SK0BA2-33-28Z"
+    ],
+    "RENAULT": [
+      "86 60 004 640",
+      "86 71 016 549"
+    ],
+    "SAO": [
+      "B5Y6-33-23Z"
+    ]
+  },
+  "eanNumber": "8424073015808",
+  "attributes": {
+    "width1": "91,5",
+    "width2": null,
+    "height1": "64,1",
+    "height2": null,
+    "thickness1": "15",
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [
+      "300"
+    ],
+    "AxleVersion": [
+      "Front"
+    ],
+    "BrakeSystem": [
+      "Sumitomo"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "E9 90R-01111/1032",
+    "SVHC": "",
+    "Weight": []
+  }
+}

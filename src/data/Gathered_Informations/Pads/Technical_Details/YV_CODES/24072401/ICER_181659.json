@@ -17,15 +17,26 @@
     ]
   },
   "eanNumber": "8424073091017",
-  "pad_attributes": {
+  "attributes": {
     "width1": "122,9",
     "width2": null,
     "height1": "51,8",
     "height2": null,
     "thickness1": "17,7",
     "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [
+      "300"
+    ],
+    "AxleVersion": [
+      "Front"
+    ],
+    "BrakeSystem": [
+      "Bosch"
+    ],
     "manufacturerRestriction": "",
     "checkmark": "E9 90R-01111/881",
-    "SVHC": ""
+    "SVHC": "",
+    "Weight": []
   }
 }

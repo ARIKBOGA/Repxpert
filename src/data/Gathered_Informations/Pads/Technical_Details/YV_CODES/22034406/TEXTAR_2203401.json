@@ -1,0 +1,65 @@
+{
+  "reference": "2203401",
+  "id": "2203401",
+  "name": "Fren balata seti, diskli fren Q+",
+  "brand": "TEXTAR",
+  "wvaNumbers": [
+    "22034",
+    "22034 170  1 4",
+    "9004D1774"
+  ],
+  "brand_oe_map": {
+    "FORD": [
+      "1824121",
+      "1829400",
+      "1840479",
+      "1916326",
+      "2005987",
+      "2006028",
+      "2325323",
+      "2391870",
+      "2511705",
+      "2584851",
+      "2600766",
+      "BK312K021AA",
+      "BK312K021AB",
+      "BK312K021AC",
+      "BK312K021AD",
+      "BK312K021AE",
+      "BK312K021AF",
+      "CK4Z2001A",
+      "CK4Z2001B",
+      "KTJK212K021GB",
+      "MEBK2J2K021AA",
+      "MEBK2J2K021BA",
+      "MEBK3J2K021AA",
+      "MEMK3J2K021A1A"
+    ],
+    "FORD (JMC)": [
+      "GK292K021AB"
+    ]
+  },
+  "eanNumber": "4019722465437",
+  "attributes": {
+    "width1": "171,7",
+    "width2": null,
+    "height1": "66,1",
+    "height2": null,
+    "thickness1": "17",
+    "thickness2": null,
+    "wvaNumber": [
+      "22034"
+    ],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [
+      "Bosch"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": "",
+    "Weight": [
+      "2,32"
+    ]
+  }
+}

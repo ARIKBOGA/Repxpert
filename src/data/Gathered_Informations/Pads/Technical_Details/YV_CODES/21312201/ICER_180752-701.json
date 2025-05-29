@@ -55,15 +55,26 @@
     ]
   },
   "eanNumber": "8424073003805",
-  "pad_attributes": {
+  "attributes": {
     "width1": "89",
     "width2": null,
     "height1": "35,2",
     "height2": null,
     "thickness1": "13",
     "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [
+      "944"
+    ],
+    "AxleVersion": [
+      "Rear"
+    ],
+    "BrakeSystem": [
+      "Akebono"
+    ],
     "manufacturerRestriction": "",
     "checkmark": "E1 90R-01100/174",
-    "SVHC": ""
+    "SVHC": "",
+    "Weight": []
   }
 }

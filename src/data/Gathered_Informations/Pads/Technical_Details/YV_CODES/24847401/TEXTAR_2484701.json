@@ -1,0 +1,73 @@
+{
+  "reference": "2484701",
+  "id": "2484701",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "TEXTAR",
+  "wvaNumbers": [
+    "24847",
+    "24847 170  0 4",
+    "8788D1575"
+  ],
+  "brand_oe_map": {
+    "AUDI": [
+      "4G0698151AB",
+      "4G0698151AF",
+      "4G0698151F",
+      "4H0698151F",
+      "4H0698151J",
+      "4H0698151Q",
+      "4H0698151R",
+      "4H0698151S",
+      "4H6698151"
+    ],
+    "BENTLEY": [
+      "3Y0698151",
+      "3Y0698151F"
+    ],
+    "SEAT": [
+      "4G0698151AB",
+      "4G0698151F",
+      "4H0698151F",
+      "4H0698151J",
+      "4H0698151Q"
+    ],
+    "SKODA": [
+      "4G0698151AB",
+      "4G0698151F",
+      "4H0698151F",
+      "4H0698151J",
+      "4H0698151Q"
+    ],
+    "VW": [
+      "4G0698151AB",
+      "4G0698151F",
+      "4H0698151F",
+      "4H0698151J",
+      "4H0698151Q",
+      "4H0698151S"
+    ]
+  },
+  "eanNumber": "4019722406393",
+  "attributes": {
+    "width1": "190",
+    "width2": null,
+    "height1": "92,9",
+    "height2": null,
+    "thickness1": "17",
+    "thickness2": null,
+    "wvaNumber": [
+      "24847"
+    ],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [
+      "Brembo"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": "",
+    "Weight": [
+      "4,7"
+    ]
+  }
+}

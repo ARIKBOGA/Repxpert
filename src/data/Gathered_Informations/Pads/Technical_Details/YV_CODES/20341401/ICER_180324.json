@@ -28,15 +28,26 @@
     ]
   },
   "eanNumber": "8424073007926",
-  "pad_attributes": {
+  "attributes": {
     "width1": "89,7",
     "width2": null,
     "height1": "74",
     "height2": null,
     "thickness1": "17,5",
     "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [
+      "300"
+    ],
+    "AxleVersion": [
+      "Front"
+    ],
+    "BrakeSystem": [
+      "ATE"
+    ],
     "manufacturerRestriction": "",
     "checkmark": "",
-    "SVHC": ""
+    "SVHC": "",
+    "Weight": []
   }
 }

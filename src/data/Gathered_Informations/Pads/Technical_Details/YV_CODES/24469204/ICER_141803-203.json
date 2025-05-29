@@ -1,0 +1,60 @@
+{
+  "reference": "141803-203",
+  "id": "141803-203",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "ICER",
+  "wvaNumbers": [
+    "24468",
+    "24469",
+    "D1489-8689"
+  ],
+  "brand_oe_map": {
+    "CITROËN": [
+      "14 114 573 80",
+      "16 078 785 80",
+      "16 118 391 80",
+      "16 124 338 80",
+      "16 172 739 80",
+      "16 238 424 80",
+      "16 478 638 80"
+    ],
+    "FIAT": [
+      "16 478 639 80",
+      "60 01 073 131",
+      "7 177 002 6",
+      "7 736 601 7",
+      "7 736 709 2",
+      "7 736 845 2"
+    ],
+    "PEUGEOT": [
+      "16 114 573 80",
+      "16 124 338 80",
+      "16 172 739 80",
+      "16 238 424 80",
+      "16 478 638 80"
+    ]
+  },
+  "eanNumber": "8424073107954",
+  "attributes": {
+    "width1": "168,9",
+    "width2": null,
+    "height1": "61,7",
+    "height2": null,
+    "thickness1": "19,2",
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [
+      "300"
+    ],
+    "AxleVersion": [
+      "Front"
+    ],
+    "BrakeSystem": [
+      "Brembo"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "E9 90R-02A0111/3784",
+    "SVHC": "",
+    "Weight": []
+  }
+}

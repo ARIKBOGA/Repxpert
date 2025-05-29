@@ -1,0 +1,46 @@
+{
+  "reference": "181987",
+  "id": "181987",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "ICER",
+  "wvaNumbers": [
+    "24721",
+    "D1453-8643"
+  ],
+  "brand_oe_map": {
+    "PORSCHE": [
+      "958 352 939 00",
+      "958 352 939 81"
+    ],
+    "VW": [
+      "7P0 698 451",
+      "7P0 698 451 A",
+      "7P6 698 451",
+      "7P6 698 451 C",
+      "JZW 698 451 R"
+    ]
+  },
+  "eanNumber": "8424073102669",
+  "attributes": {
+    "width1": "187,5",
+    "width2": null,
+    "height1": "76,1",
+    "height2": null,
+    "thickness1": "17,2",
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [
+      "300"
+    ],
+    "AxleVersion": [
+      "Rear"
+    ],
+    "BrakeSystem": [
+      "Brembo"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "E9 90R-01111/2755",
+    "SVHC": "",
+    "Weight": []
+  }
+}

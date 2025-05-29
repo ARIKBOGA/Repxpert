@@ -1,0 +1,58 @@
+{
+  "reference": "2596501",
+  "id": "2596501",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "TEXTAR",
+  "wvaNumbers": [
+    "25965",
+    "25965 151  0 5",
+    "25966",
+    "25967",
+    "9190D1965"
+  ],
+  "brand_oe_map": {
+    "NISSAN": [
+      "D40604CA0A",
+      "D40604CA0B",
+      "D40604CA0C",
+      "D40604CA0CRV",
+      "D40604EA0A",
+      "D40604EA0B",
+      "D40604EA0BVA",
+      "D40605SA0A"
+    ],
+    "RENAULT": [
+      "440603981R",
+      "440605889R",
+      "440606446R",
+      "440606633R"
+    ],
+    "SAMSUNG": [
+      "440603981R",
+      "440606446R"
+    ]
+  },
+  "eanNumber": "4019722465659",
+  "attributes": {
+    "width1": "103,9",
+    "width2": null,
+    "height1": "44,9",
+    "height2": "47,3",
+    "thickness1": "15,1",
+    "thickness2": null,
+    "wvaNumber": [
+      "25965"
+    ],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [
+      "TRW"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": "",
+    "Weight": [
+      "0,9"
+    ]
+  }
+}

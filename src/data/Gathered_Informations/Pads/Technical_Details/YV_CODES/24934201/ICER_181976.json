@@ -1,0 +1,73 @@
+{
+  "reference": "181976",
+  "id": "181976",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "ICER",
+  "wvaNumbers": [
+    "24934",
+    "24935",
+    "24936",
+    "25647",
+    "25648",
+    "D1313-8428",
+    "D1446-8428",
+    "D1544-8428"
+  ],
+  "brand_oe_map": {
+    "GEELY": [
+      "4050004000"
+    ],
+    "HYUNDAI": [
+      "58302-2EA31",
+      "58302-2HA50",
+      "58302-3KA62",
+      "58302-3KA63",
+      "58302-3LA10",
+      "58302-3LA20",
+      "58302-3XA30",
+      "S58302-2EA31"
+    ],
+    "KIA": [
+      "58302-0AA10",
+      "58302-2HA51",
+      "58302-2KA00",
+      "58302-2KA10",
+      "58302-2KA50",
+      "58302-3FA01",
+      "58302-3FA02",
+      "58302-3FA11",
+      "58302-3KA52",
+      "58302-3KS52"
+    ],
+    "PROTON": [
+      "1014026445"
+    ],
+    "SSANGYONG": [
+      "48413-341A0",
+      "48413-350D0"
+    ]
+  },
+  "eanNumber": "8424073102478",
+  "attributes": {
+    "width1": "99,9",
+    "width2": null,
+    "height1": "41,1",
+    "height2": null,
+    "thickness1": "14,8",
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [
+      "300"
+    ],
+    "AxleVersion": [
+      "Rear"
+    ],
+    "BrakeSystem": [
+      "Akebono"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "E9 90R-01111/2689",
+    "SVHC": "",
+    "Weight": []
+  }
+}

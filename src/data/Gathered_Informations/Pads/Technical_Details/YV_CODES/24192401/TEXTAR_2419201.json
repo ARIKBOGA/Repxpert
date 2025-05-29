@@ -1,0 +1,54 @@
+{
+  "reference": "2419201",
+  "id": "2419201",
+  "name": "Fren balata seti, diskli fren Q+",
+  "brand": "TEXTAR",
+  "wvaNumbers": [
+    "24192",
+    "24192 173  1 4",
+    "8203D1099",
+    "8541D1099",
+    "8666D1099"
+  ],
+  "brand_oe_map": {
+    "LAND ROVER": [
+      "5H322C562AC",
+      "AH222M008AA",
+      "LR010664",
+      "LR016808",
+      "LR019627",
+      "LR021316",
+      "LR032903",
+      "LR055454",
+      "LR134696",
+      "SFP500020",
+      "SFP500021",
+      "SFP500022",
+      "SFP500040",
+      "SFP500140"
+    ]
+  },
+  "eanNumber": "4019722278402",
+  "attributes": {
+    "width1": "116,9",
+    "width2": null,
+    "height1": "46,3",
+    "height2": null,
+    "thickness1": "17,3",
+    "thickness2": null,
+    "wvaNumber": [
+      "24192"
+    ],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [
+      "Lucas"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": "",
+    "Weight": [
+      "1,15"
+    ]
+  }
+}

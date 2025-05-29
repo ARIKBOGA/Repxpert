@@ -1,0 +1,75 @@
+{
+  "reference": "2230701",
+  "id": "2230701",
+  "name": "Fren balata seti, diskli fren Q+",
+  "brand": "TEXTAR",
+  "wvaNumbers": [
+    "22307",
+    "22307 170  1 4",
+    "9123D1895"
+  ],
+  "brand_oe_map": {
+    "AUDI": [
+      "4KE698451A",
+      "4M0698451BM",
+      "4M0698451BP",
+      "4M0698451F",
+      "4M0698451G",
+      "4M0698451L",
+      "4M0698451M",
+      "4M0698451N",
+      "4M0698451P",
+      "4M0698451R",
+      "4N0698451C"
+    ],
+    "SEAT": [
+      "4M0698451F",
+      "4M0698451G",
+      "4M0698451M",
+      "4M0698451N",
+      "4M0698451P",
+      "4M0698451R"
+    ],
+    "SKODA": [
+      "4M0698451F",
+      "4M0698451G",
+      "4M0698451M",
+      "4M0698451N",
+      "4M0698451P",
+      "4M0698451R"
+    ],
+    "VW": [
+      "4M0698451BN",
+      "4M0698451F",
+      "4M0698451G",
+      "4M0698451L",
+      "4M0698451M",
+      "4M0698451N",
+      "4M0698451P",
+      "4M0698451R"
+    ]
+  },
+  "eanNumber": "4019722489914",
+  "attributes": {
+    "width1": "129,3",
+    "width2": null,
+    "height1": "64,7",
+    "height2": null,
+    "thickness1": "17",
+    "thickness2": null,
+    "wvaNumber": [
+      "22307"
+    ],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [
+      "TRW"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": "",
+    "Weight": [
+      "1,7"
+    ]
+  }
+}

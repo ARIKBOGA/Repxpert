@@ -1,0 +1,35 @@
+{
+  "reference": "GDB325",
+  "id": "GDB325",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "TRW",
+  "wvaNumbers": [
+    "20959"
+  ],
+  "brand_oe_map": {
+    "HONDA": [
+      "45022-SH3-306",
+      "45022-SH3-903",
+      "45022-SH3-N30",
+      "45022-SH3-N32",
+      "45022-SR3-910"
+    ]
+  },
+  "eanNumber": "3322936403258",
+  "attributes": {
+    "width1": "116",
+    "width2": null,
+    "height1": "45",
+    "height2": null,
+    "thickness1": "15",
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [],
+    "manufacturerRestriction": "AKEBONO",
+    "checkmark": "",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!",
+    "Weight": []
+  }
+}

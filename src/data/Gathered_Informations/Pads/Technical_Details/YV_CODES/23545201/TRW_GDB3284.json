@@ -1,0 +1,74 @@
+{
+  "reference": "GDB3284",
+  "id": "GDB3284",
+  "name": "Fren balata seti, diskli fren COTEC",
+  "brand": "TRW",
+  "wvaNumbers": [
+    "23543"
+  ],
+  "brand_oe_map": {
+    "HYUNDAI": [
+      "58302-1CA00",
+      "58302-1CA10",
+      "58302-1FA50",
+      "58302-26A20",
+      "58302-26A30",
+      "58302-2EA00",
+      "58302-2EA30",
+      "58302-2HA00",
+      "58302-34A10",
+      "58302-38A10",
+      "58302-38A30",
+      "58302-39A40",
+      "58302-3CA10",
+      "58302-3FA00",
+      "58302-3FA10",
+      "58302-3KA10",
+      "58302-3KA30",
+      "58302-3KA40",
+      "58302-3KA50",
+      "58302-3KA51",
+      "58302-3KA60",
+      "58302-3KA70"
+    ],
+    "HYUNDAI (BEIJING)": [
+      "5830238A10"
+    ],
+    "KIA": [
+      "58302-1FA50",
+      "58302-1FE00",
+      "58302-26A20",
+      "58302-2EA00",
+      "58302-2GA00",
+      "58302-2HA00",
+      "58302-34A10",
+      "58302-38A10",
+      "58302-39A40",
+      "58302-3CA10",
+      "58302-3FA00",
+      "58302-3FA10",
+      "58302-3KA10",
+      "58302-3KA50",
+      "58302-3KA51",
+      "58302-3KA60",
+      "58302-3KA70"
+    ]
+  },
+  "eanNumber": "3322937287932",
+  "attributes": {
+    "width1": "98,8",
+    "width2": null,
+    "height1": "41",
+    "height2": null,
+    "thickness1": "16",
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [],
+    "manufacturerRestriction": "MANDO",
+    "checkmark": "E9 90R 01120/221",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!",
+    "Weight": []
+  }
+}

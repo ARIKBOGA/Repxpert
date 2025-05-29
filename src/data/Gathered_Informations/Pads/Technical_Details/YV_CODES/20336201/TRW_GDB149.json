@@ -1,0 +1,66 @@
+{
+  "reference": "GDB149",
+  "id": "GDB149",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "TRW",
+  "wvaNumbers": [
+    "20336",
+    "20337",
+    "20338",
+    "20339"
+  ],
+  "brand_oe_map": {
+    "ALPINA": [
+      "7701602289"
+    ],
+    "FIAT": [
+      "425099"
+    ],
+    "LOTUS": [
+      "7701602289"
+    ],
+    "PEUGEOT": [
+      "4250 99"
+    ],
+    "RENAULT": [
+      "60 25 071 055",
+      "60 25 071 056",
+      "60 25 170 585",
+      "60 25 170 586",
+      "60 25 170 860",
+      "77 01 200 360",
+      "77 01 200 596",
+      "77 01 200 885",
+      "77 01 200 992",
+      "77 01 201 311",
+      "77 01 201 321",
+      "77 01 201 684",
+      "77 01 201 781",
+      "77 01 202 148",
+      "77 01 202 788",
+      "77 01 203 068",
+      "77 01 348 112",
+      "77 01 348 689"
+    ],
+    "TALBOT": [
+      "4250 99"
+    ]
+  },
+  "eanNumber": "3322936401490",
+  "attributes": {
+    "width1": "108,8",
+    "width2": null,
+    "height1": "49,6",
+    "height2": null,
+    "thickness1": "14",
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [],
+    "manufacturerRestriction": "BENDIX",
+    "checkmark": "E9 90R 01120/149",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!",
+    "Weight": []
+  }
+}

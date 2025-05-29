@@ -1,0 +1,39 @@
+{
+  "reference": "GDB1923",
+  "id": "GDB1923",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "TRW",
+  "wvaNumbers": [
+    "21719",
+    "21720"
+  ],
+  "brand_oe_map": {
+    "ALFA ROMEO": [
+      "71768576"
+    ],
+    "FIAT": [
+      "71750931",
+      "71768576"
+    ],
+    "LANCIA": [
+      "71768576"
+    ]
+  },
+  "eanNumber": "3322938132286",
+  "attributes": {
+    "width1": "88,9",
+    "width2": null,
+    "height1": "47,4",
+    "height2": null,
+    "thickness1": "15,4",
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [],
+    "manufacturerRestriction": "AKEBONO",
+    "checkmark": "E1 90R - 01025/422",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!",
+    "Weight": []
+  }
+}

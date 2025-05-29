@@ -1,0 +1,35 @@
+{
+  "reference": "GDB2103",
+  "id": "GDB2103",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "TRW",
+  "wvaNumbers": [
+    "22062"
+  ],
+  "brand_oe_map": {
+    "MERCEDES-BENZ": [
+      "447 420 00 20",
+      "447 420 02 20",
+      "A 447 420 00 20",
+      "A 447 420 02 20",
+      "A447420020"
+    ]
+  },
+  "eanNumber": "3322938304959",
+  "attributes": {
+    "width1": "184,1",
+    "width2": null,
+    "height1": "75",
+    "height2": null,
+    "thickness1": "20,8",
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [],
+    "manufacturerRestriction": "BREMBO",
+    "checkmark": "E9 90R-02A1054/4200",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!",
+    "Weight": []
+  }
+}

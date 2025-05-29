@@ -1,0 +1,43 @@
+{
+  "reference": "2345801",
+  "id": "2345801",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "TEXTAR",
+  "wvaNumbers": [
+    "23458",
+    "23458 156  1 4",
+    "7601D493"
+  ],
+  "brand_oe_map": {
+    "LAND ROVER": [
+      "SFP100470",
+      "SFP100490",
+      "SFP500130",
+      "STC1879",
+      "STC3684"
+    ]
+  },
+  "eanNumber": "4019722242243",
+  "attributes": {
+    "width1": "94,7",
+    "width2": null,
+    "height1": "51,8",
+    "height2": null,
+    "thickness1": "15,6",
+    "thickness2": null,
+    "wvaNumber": [
+      "23458"
+    ],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [
+      "Lucas"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": "",
+    "Weight": [
+      "1,02"
+    ]
+  }
+}

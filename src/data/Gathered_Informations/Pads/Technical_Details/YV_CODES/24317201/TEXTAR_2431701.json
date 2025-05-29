@@ -1,0 +1,49 @@
+{
+  "reference": "2431701",
+  "id": "2431701",
+  "name": "Fren balata seti, diskli fren Q+",
+  "brand": "TEXTAR",
+  "wvaNumbers": [
+    "24317",
+    "24317 175  0 5",
+    "24318",
+    "24319",
+    "8266D1156"
+  ],
+  "brand_oe_map": {
+    "HYUNDAI": [
+      "581011GA00",
+      "581011GA10",
+      "581011GA20",
+      "581011GE00",
+      "AL0041GA00",
+      "S581011GE00"
+    ],
+    "KIA": [
+      "581011GA00"
+    ]
+  },
+  "eanNumber": "4019722277412",
+  "attributes": {
+    "width1": "129,8",
+    "width2": null,
+    "height1": "56",
+    "height2": null,
+    "thickness1": "17,5",
+    "thickness2": null,
+    "wvaNumber": [
+      "24317"
+    ],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [
+      "Mando"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": "",
+    "Weight": [
+      "1,5"
+    ]
+  }
+}

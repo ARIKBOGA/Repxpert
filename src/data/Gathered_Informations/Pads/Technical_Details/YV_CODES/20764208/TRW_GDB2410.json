@@ -1,0 +1,45 @@
+{
+  "reference": "GDB2410",
+  "id": "GDB2410",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "TRW",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "CITROËN": [
+      "16 352 549 80",
+      "16 478 873 80"
+    ],
+    "OPEL": [
+      "16 352 549 80",
+      "1688139780",
+      "39166045"
+    ],
+    "PEUGEOT": [
+      "16 352 549 80",
+      "16 478 873 80",
+      "1688139780"
+    ],
+    "VAUXHALL": [
+      "16 352 549 80",
+      "1688139780",
+      "39166045"
+    ]
+  },
+  "eanNumber": "3322938554811",
+  "attributes": {
+    "width1": "92",
+    "width2": null,
+    "height1": "47,2",
+    "height2": null,
+    "thickness1": "17,3",
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [],
+    "manufacturerRestriction": "TRW",
+    "checkmark": "E9 90R-02A0120/5317",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!",
+    "Weight": []
+  }
+}

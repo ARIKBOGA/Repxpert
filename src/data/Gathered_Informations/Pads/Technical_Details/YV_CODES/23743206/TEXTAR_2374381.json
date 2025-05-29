@@ -1,0 +1,50 @@
+{
+  "reference": "2374381",
+  "id": "2374381",
+  "name": "Fren balata seti, diskli fren epad",
+  "brand": "TEXTAR",
+  "wvaNumbers": [
+    "23743",
+    "23743 205  2 5 epad",
+    "23744",
+    "7889D987",
+    "8517D987"
+  ],
+  "brand_oe_map": {
+    "MERCEDES-BENZ": [
+      "0034206520",
+      "0034209920",
+      "0044207920",
+      "0044208720",
+      "A0034206520",
+      "A0034209920",
+      "A0044207920",
+      "A0044208720"
+    ]
+  },
+  "eanNumber": "4019722417306",
+  "attributes": {
+    "width1": "136,9",
+    "width2": null,
+    "height1": "67,8",
+    "height2": null,
+    "thickness1": "20",
+    "thickness2": null,
+    "wvaNumber": [
+      "23743"
+    ],
+    "Quality": [
+      "epad"
+    ],
+    "AxleVersion": [],
+    "BrakeSystem": [
+      "Bosch"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": "",
+    "Weight": [
+      "1,9"
+    ]
+  }
+}

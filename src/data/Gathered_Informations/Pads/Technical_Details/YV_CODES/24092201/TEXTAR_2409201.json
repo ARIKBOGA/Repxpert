@@ -1,0 +1,45 @@
+{
+  "reference": "2409201",
+  "id": "2409201",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "TEXTAR",
+  "wvaNumbers": [
+    "24092",
+    "24092 173  0 5",
+    "24178",
+    "24179"
+  ],
+  "brand_oe_map": {
+    "KIA": [
+      "581013ED00",
+      "581013ED01",
+      "581013ED02",
+      "581013ED03",
+      "581013EE00",
+      "581013EE01"
+    ]
+  },
+  "eanNumber": "4019722269448",
+  "attributes": {
+    "width1": "155",
+    "width2": null,
+    "height1": "60",
+    "height2": null,
+    "thickness1": "17,3",
+    "thickness2": null,
+    "wvaNumber": [
+      "24092"
+    ],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [
+      "Sumitomo"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": "",
+    "Weight": [
+      "2"
+    ]
+  }
+}

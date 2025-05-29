@@ -1,0 +1,71 @@
+{
+  "reference": "181143-700",
+  "id": "181143-700",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "ICER",
+  "wvaNumbers": [
+    "23101",
+    "23102",
+    "D1196-8316"
+  ],
+  "brand_oe_map": {
+    "FORD": [
+      "1 010 502",
+      "1 013 843",
+      "1 030 601",
+      "1 042 687",
+      "1 064 762",
+      "1 079 919",
+      "1 465 126",
+      "1 659 938",
+      "2S65-2K021-CA",
+      "5 025 929",
+      "6 162 190",
+      "6 188 427",
+      "6 203 650",
+      "91FX-2K021-AA",
+      "91FX-2K021-AB",
+      "96FB-2K021-AA",
+      "96FB-2K021-CA",
+      "96FX-2K021-AA",
+      "97FB-2K021-AA",
+      "97FU-2K021-CA",
+      "98FB-2K021-AA",
+      "98FX-2K021-AA"
+    ],
+    "MAZDA": [
+      "1E03-33-23Z",
+      "1E03-33-23ZA",
+      "1E03-33-23ZB",
+      "1E03-33-23ZB-9C",
+      "1E03-33-23ZC-9C"
+    ],
+    "RENAULT": [
+      "86 60 004 609",
+      "86 71 016 513"
+    ]
+  },
+  "eanNumber": "8424073086679",
+  "attributes": {
+    "width1": "140,1",
+    "width2": "141,3",
+    "height1": "44,5",
+    "height2": null,
+    "thickness1": "17,2",
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [
+      "300"
+    ],
+    "AxleVersion": [
+      "Front"
+    ],
+    "BrakeSystem": [
+      "ATE"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "E1 90R-01101/062",
+    "SVHC": "",
+    "Weight": []
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "reference": "181674-203",
+  "id": "181674-203",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "ICER",
+  "wvaNumbers": [
+    "23326",
+    "23882",
+    "D1018-7921"
+  ],
+  "brand_oe_map": {
+    "AUDI": [
+      "7E0 698 451",
+      "7E0 698 451A",
+      "7H0 698 451",
+      "7H0 698 451 B",
+      "7H0 698 451C",
+      "JZW 698 451K"
+    ],
+    "SEAT": [
+      "7E0 698 451",
+      "7E0 698 451B",
+      "7E06 984 51A",
+      "7H0 698 451",
+      "7H0 698 451C",
+      "7H06 984 51B",
+      "JZW 698 451K"
+    ],
+    "SKODA": [
+      "7E0 698 451",
+      "7E0 698 451A",
+      "7E06 984 51B",
+      "7H0 698 451",
+      "7H0 698 451B",
+      "7H0 698 451C",
+      "JZW 698 451K"
+    ],
+    "VW": [
+      "7E0 698 451",
+      "7E0 698 451 A",
+      "7E0 698 451 B",
+      "7E0 698 451A",
+      "7E0 698 451C",
+      "7E0 698 451D",
+      "7H0 698 451",
+      "7H0 698 451 B",
+      "7H0 698 451 C",
+      "7H0 698 451D",
+      "7H0 698 451E",
+      "JZW 698 451 K"
+    ]
+  },
+  "eanNumber": "8424073092281",
+  "attributes": {
+    "width1": "116,1",
+    "width2": null,
+    "height1": "59,1",
+    "height2": null,
+    "thickness1": "17,4",
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [
+      "944"
+    ],
+    "AxleVersion": [
+      "Rear"
+    ],
+    "BrakeSystem": [
+      "LUCAS-TRW"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "E9 90R-01110/715",
+    "SVHC": "",
+    "Weight": []
+  }
+}

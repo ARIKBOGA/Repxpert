@@ -1,0 +1,47 @@
+{
+  "reference": "GDB3629",
+  "id": "GDB3629",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "TRW",
+  "wvaNumbers": [
+    "22165"
+  ],
+  "brand_oe_map": {
+    "ALFA ROMEO": [
+      "77361006",
+      "77369311"
+    ],
+    "FIAT": [
+      "77367214",
+      "77367936",
+      "77368577"
+    ],
+    "JEEP": [
+      "68273005AA",
+      "68346917AA",
+      "77367214",
+      "77367936",
+      "77368577"
+    ],
+    "JEEP (GAC FCA)": [
+      "155250158"
+    ]
+  },
+  "eanNumber": "3322938304966",
+  "attributes": {
+    "width1": "140,8",
+    "width2": null,
+    "height1": "65,4",
+    "height2": null,
+    "thickness1": "20",
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [],
+    "manufacturerRestriction": "",
+    "checkmark": "E9 90R-02A0107/4273",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!",
+    "Weight": []
+  }
+}

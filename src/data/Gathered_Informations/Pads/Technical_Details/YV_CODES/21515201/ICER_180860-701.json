@@ -1,0 +1,75 @@
+{
+  "reference": "180860-701",
+  "id": "180860-701",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "ICER",
+  "wvaNumbers": [
+    "21515",
+    "21516",
+    "21517",
+    "23158"
+  ],
+  "brand_oe_map": {
+    "HONDA": [
+      "45022-S6D-E01",
+      "45022-S6D-E50",
+      "45022-S6D-E51",
+      "45022-S74-E10",
+      "45022-S74-E50",
+      "45022-SK3-E00",
+      "45022-ST3-E00",
+      "45022-ST3-E01",
+      "45022-ST3-E10",
+      "45022-ST3-E11"
+    ],
+    "LOTUS": [
+      "GBP90336"
+    ],
+    "MG": [
+      "GBP90325"
+    ],
+    "RENAULT": [
+      "86 60 004 604",
+      "86 71 016 507"
+    ],
+    "ROVER": [
+      "GBP90313",
+      "GBP90315",
+      "GBP90315AF",
+      "GBP90324",
+      "GBP90325",
+      "GBP90325AF",
+      "GBP90336",
+      "GBP90336AF",
+      "GBP90340",
+      "GBP90340AF",
+      "SEB000290",
+      "SFP000390",
+      "SFP000410",
+      "SFP100260"
+    ]
+  },
+  "eanNumber": "8424073053879",
+  "attributes": {
+    "width1": "129,1",
+    "width2": null,
+    "height1": "68,7",
+    "height2": null,
+    "thickness1": "18",
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [
+      "300"
+    ],
+    "AxleVersion": [
+      "Front"
+    ],
+    "BrakeSystem": [
+      "LUCAS-TRW"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "E1 90R-01101/165",
+    "SVHC": "",
+    "Weight": []
+  }
+}

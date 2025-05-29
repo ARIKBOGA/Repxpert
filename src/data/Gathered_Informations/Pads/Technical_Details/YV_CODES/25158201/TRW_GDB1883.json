@@ -1,0 +1,43 @@
+{
+  "reference": "GDB1883",
+  "id": "GDB1883",
+  "name": "Fren balata seti, diskli fren COTEC",
+  "brand": "TRW",
+  "wvaNumbers": [
+    "25158",
+    "25159"
+  ],
+  "brand_oe_map": {
+    "AUDI": [
+      "4G0 698 151 B",
+      "4G0 698 151 G",
+      "4G0 698 151 S",
+      "4G0698151AG",
+      "4H0 698 151 D",
+      "4H0 698 151 G"
+    ],
+    "VW": [
+      "4G0 698 151 B",
+      "4G0 698 151 S"
+    ]
+  },
+  "eanNumber": "3322938075064",
+  "attributes": {
+    "width1": "193",
+    "width2": null,
+    "height1": "73,8",
+    "height2": "70,8",
+    "thickness1": "20",
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [
+      "Karbon seramik fren diskleri için değil, Sadece çelik fren diskiyle birlikte"
+    ],
+    "manufacturerRestriction": "ATE",
+    "checkmark": "E9 90R - 01107/2923",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!",
+    "Weight": []
+  }
+}

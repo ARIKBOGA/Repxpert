@@ -1,0 +1,42 @@
+{
+  "reference": "2214701",
+  "id": "2214701",
+  "name": "Fren balata seti, diskli fren Q+",
+  "brand": "TEXTAR",
+  "wvaNumbers": [
+    "22147",
+    "22147 211  1 4",
+    "9483D2247"
+  ],
+  "brand_oe_map": {
+    "MAN": [
+      "65508206000"
+    ],
+    "VW": [
+      "2N0698151"
+    ]
+  },
+  "eanNumber": "4019722498299",
+  "attributes": {
+    "width1": "163,8",
+    "width2": null,
+    "height1": "67,3",
+    "height2": null,
+    "thickness1": "21,1",
+    "thickness2": null,
+    "wvaNumber": [
+      "22147"
+    ],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [
+      "CBI"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": "",
+    "Weight": [
+      "2,88"
+    ]
+  }
+}

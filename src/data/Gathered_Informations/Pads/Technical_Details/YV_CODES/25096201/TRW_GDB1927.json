@@ -1,0 +1,38 @@
+{
+  "reference": "GDB1927",
+  "id": "GDB1927",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "TRW",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "CHEVROLET": [
+      "13319293",
+      "16 05 140"
+    ],
+    "OPEL": [
+      "13319293",
+      "16 05 140"
+    ],
+    "VAUXHALL": [
+      "13319293",
+      "16 05 140"
+    ]
+  },
+  "eanNumber": "3322938142346",
+  "attributes": {
+    "width1": "116,6",
+    "width2": null,
+    "height1": "42,8",
+    "height2": null,
+    "thickness1": "17",
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [],
+    "manufacturerRestriction": "ATE",
+    "checkmark": "E9 90R - 01120/2806",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!",
+    "Weight": []
+  }
+}

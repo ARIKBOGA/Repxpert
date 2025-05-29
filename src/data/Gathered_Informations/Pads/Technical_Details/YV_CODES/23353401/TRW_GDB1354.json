@@ -1,0 +1,45 @@
+{
+  "reference": "GDB1354",
+  "id": "GDB1354",
+  "name": "Fren balata seti, diskli fren COTEC",
+  "brand": "TRW",
+  "wvaNumbers": [
+    "23353"
+  ],
+  "brand_oe_map": {
+    "FORD": [
+      "1075565",
+      "1107698",
+      "1425407",
+      "1780884",
+      "1802317",
+      "1810990",
+      "98AB-2M008-BA",
+      "98AX-2M008-BA",
+      "98AX-2M008-BB",
+      "C1BC-2M008-AA",
+      "C1BC-2M008-AB",
+      "C1BC-2M008-AC"
+    ],
+    "FORD USA": [
+      "1S4Z2200BA"
+    ]
+  },
+  "eanNumber": "3322937242023",
+  "attributes": {
+    "width1": "87,2",
+    "width2": null,
+    "height1": "42,5",
+    "height2": null,
+    "thickness1": "14,5",
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [],
+    "manufacturerRestriction": "TRW",
+    "checkmark": "E2 90R 01125/006",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!",
+    "Weight": []
+  }
+}

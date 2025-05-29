@@ -1,0 +1,71 @@
+{
+  "reference": "2401401",
+  "id": "2401401",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "TEXTAR",
+  "wvaNumbers": [
+    "24014",
+    "24014 154  1 5",
+    "24015",
+    "7940D1037"
+  ],
+  "brand_oe_map": {
+    "CHRYSLER": [
+      "05191271AA",
+      "05191271AB",
+      "05191271AC",
+      "K05191271AA",
+      "K05191271AB",
+      "K05191271AC"
+    ],
+    "DODGE": [
+      "05191271AA",
+      "05191271AB",
+      "5191271AC"
+    ],
+    "JEEP": [
+      "2AMV4271AA",
+      "5191271AA",
+      "5191271AB",
+      "K5191271AA",
+      "K5191271AB"
+    ],
+    "MITSUBISHI": [
+      "4605A336",
+      "4605A337",
+      "4605A479",
+      "4605A493",
+      "4605A558",
+      "5191217AC",
+      "MN116929",
+      "MR955068",
+      "MZ690187",
+      "MZ690350",
+      "MZ690586",
+      "TS200051"
+    ]
+  },
+  "eanNumber": "4019722265280",
+  "attributes": {
+    "width1": "85,5",
+    "width2": "106",
+    "height1": "39,8",
+    "height2": "35,3",
+    "thickness1": "15,4",
+    "thickness2": null,
+    "wvaNumber": [
+      "24014"
+    ],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [
+      "Akebono"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": "",
+    "Weight": [
+      "0,6"
+    ]
+  }
+}

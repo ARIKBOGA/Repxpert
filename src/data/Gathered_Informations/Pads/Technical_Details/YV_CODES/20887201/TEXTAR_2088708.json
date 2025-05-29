@@ -1,0 +1,50 @@
+{
+  "reference": "2088708",
+  "id": "2088708",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "TEXTAR",
+  "wvaNumbers": [
+    "20887",
+    "20887 173  2 5",
+    "20888",
+    "7210D307",
+    "7243D280"
+  ],
+  "brand_oe_map": {
+    "AUDI": [
+      "867698151"
+    ],
+    "SEAT": [
+      "867698151"
+    ],
+    "SKODA": [
+      "867698151"
+    ],
+    "VW": [
+      "867698151"
+    ]
+  },
+  "eanNumber": "4019722169656",
+  "attributes": {
+    "width1": "137,8",
+    "width2": null,
+    "height1": "50",
+    "height2": null,
+    "thickness1": "17,3",
+    "thickness2": null,
+    "wvaNumber": [
+      "20887"
+    ],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [
+      "Kelsey-Hayes"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": "",
+    "Weight": [
+      "1,25"
+    ]
+  }
+}

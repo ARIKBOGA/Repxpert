@@ -1,0 +1,53 @@
+{
+  "reference": "GDB1497",
+  "id": "GDB1497",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "TRW",
+  "wvaNumbers": [
+    "23787",
+    "23788"
+  ],
+  "brand_oe_map": {
+    "FORD": [
+      "4096346",
+      "4099896",
+      "YL8Z-2001-BA"
+    ],
+    "FORD USA": [
+      "1U2Z-2V001-BA",
+      "4L8Z2001AA",
+      "6L8Z2001BA",
+      "YL8Z-2001-BA"
+    ],
+    "MAZDA": [
+      "EC25-33-23Z A",
+      "EC253323ZB",
+      "EC253323ZC",
+      "EC253323ZD",
+      "EFY13323Z",
+      "ZZC03323Z"
+    ],
+    "MERCURY": [
+      "4L8Z2001AA",
+      "6L8Z2001BA",
+      "YL8Z-2001-BA"
+    ]
+  },
+  "eanNumber": "3322937300563",
+  "attributes": {
+    "width1": "156,4",
+    "width2": null,
+    "height1": "66,5",
+    "height2": null,
+    "thickness1": "19,6",
+    "thickness2": "20,6",
+    "wvaNumber": [],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [],
+    "manufacturerRestriction": "ATE",
+    "checkmark": "E9 90R - 01107/597",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!",
+    "Weight": []
+  }
+}

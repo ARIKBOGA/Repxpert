@@ -98,15 +98,26 @@
     ]
   },
   "eanNumber": "8424073082213",
-  "pad_attributes": {
+  "attributes": {
     "width1": "87",
     "width2": null,
     "height1": "52,8",
     "height2": null,
     "thickness1": "17,2",
     "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [
+      "944"
+    ],
+    "AxleVersion": [
+      "Rear"
+    ],
+    "BrakeSystem": [
+      "LUCAS-TRW"
+    ],
     "manufacturerRestriction": "",
     "checkmark": "E1 90R-01033/142",
-    "SVHC": ""
+    "SVHC": "",
+    "Weight": []
   }
 }
