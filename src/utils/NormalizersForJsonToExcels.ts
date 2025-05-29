@@ -16,8 +16,12 @@ const rawBrandAliases = {
     "MERCEDES BENZ": "MERCEDES",
     "DAEWOO": "DAEWOO - CHEVROLET",
     "CHEVROLET": "DAEWOO - CHEVROLET",
+    "CHEVROLET GM": "DAEWOO - CHEVROLET",
     "TOFAS": "FIAT",
-    "EMGRAND": "GEELY"
+    "EMGRAND": "GEELY",
+    "MG (SAIC)" : "MG",
+    "CADILLAC": "CADILLAC (GM)",
+    "JAECOO (CHERY)" : "JAECOO",
 };
 
 const REPLACE_MAP: Record<string, string> = {
