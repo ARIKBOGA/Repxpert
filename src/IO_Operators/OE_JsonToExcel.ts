@@ -3,25 +3,27 @@ import path from 'path';
 import XLSX from 'xlsx';
 import { formatDateTime } from '../utils/DateHelper'; // Bu fonksiyonun düzgün çalıştığını varsayıyorum
 
+const productType = process.env.PRODUCT_TYPE as string;
+
 async function oeNumbersToExcel() {
-    const jsonFilesFolderPath = path.resolve("src/data/Gathered_Informations/Pads/Technical_Details/YV_Codes");
-    const outputExcelFolderPath = path.resolve("src/data/Gathered_Informations/Pads/Technical_Details/excels");
+    const jsonFilesFolderPath = path.resolve(`src/data/Gathered_Informations/${productType}/Technical_Details/NewlyAdded`);
+    const outputExcelFolderPath = path.resolve(`src/data/Gathered_Informations/${productType}/Technical_Details/excels`);
 
     const formattedDateTime = formatDateTime(new Date());
-    const excelFileName = `PAD_OE_NUMBERS_${formattedDateTime.numericDate}.xlsx`;
+    const excelFileName = `${productType}_OE_Numbers_${formattedDateTime.numericDate}.xlsx`;
     const excelFilePath = path.join(outputExcelFolderPath, excelFileName);
 
     const workbook = XLSX.utils.book_new();
 
     try {
         const jsonFolders = fs.readdirSync(jsonFilesFolderPath);
-        console.log("jsonFolders length", jsonFolders.length);
+        console.log("jsonFolders count: ", jsonFolders.length);
 
         for (const folder of jsonFolders) { // folder değişkeni burada 'YV_CODE' olan klasör adını temsil ediyor
             const folderPath = path.join(jsonFilesFolderPath, folder);
             if (fs.statSync(folderPath).isDirectory()) {
                 const jsonFiles = fs.readdirSync(folderPath)
-                    .filter(file => file.includes("BREMBO"))
+                    //.filter(file => file.includes("BREMBO"))
                     .filter(file => file.endsWith('.json'));
                 const sheetData: any[] = [];
 
@@ -41,8 +43,8 @@ async function oeNumbersToExcel() {
                                     sheetData.push({
                                         YV: folder, // folder name = yvNO
                                         Cross: jsonData.id,
-                                        Dosya: jsonData.brand,
-                                        Brand: brand,
+                                        Cross_Marka: jsonData.brand,
+                                        Marka: brand,
                                         OE_Number: oeNumber,
                                         VWA: jsonData.wvaNumbers.join(', ')
                                     });
