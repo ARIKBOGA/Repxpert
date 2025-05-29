@@ -76,36 +76,70 @@ export async function getDimensionValuesSmart(page: Page, labelKeywords: string[
 
 export function extractYears(madeYear: string, locale: Locale): { start: string; end: string } {
   madeYear = madeYear.trim();
-  
-  // 1. Tam aralık: "06.2009 - 12.2012"
-  const fullMatch = madeYear.match(/(\d{2})\.(\d{4})\s*-\s*(\d{2})\.(\d{4})/);
-  if (fullMatch) {
+
+  // 1. RepXpert - Tam aralık: "06.2009 - 12.2012"
+  const repxpertFullMatch = madeYear.match(/(\d{2})\.(\d{4})\s*-\s*(\d{2})\.(\d{4})/);
+  if (repxpertFullMatch) {
     return {
-      start: fullMatch[2].slice(-2),
-      end: fullMatch[4].slice(-2),
+      start: repxpertFullMatch[2].slice(-2),
+      end: repxpertFullMatch[4].slice(-2),
     };
   }
 
+  // 2. JNBK - Tam aralık: "04.16~11.20"
+  const jnbkFullMatch = madeYear.match(/(\d{2})\.(\d{2})~(\d{2})\.(\d{2})/);
+  if (jnbkFullMatch) {
+    return {
+      start: jnbkFullMatch[2], // Zaten son iki hane
+      end: jnbkFullMatch[4],   // Zaten son iki hane
+    };
+  }
+
+  // 3. JNBK - Bitiş yılı belirtilmiş: "~11.20"
+  const jnbkEndMatch = madeYear.match(/~?(\d{2})\.(\d{2})$/); // "~" ile başlayabilir veya başlamayabilir
+  if (jnbkEndMatch && madeYear.startsWith("~")) { // Sadece "~" ile başlayanları yakala
+    return {
+      start: "",
+      end: jnbkEndMatch[2], // Zaten son iki hane
+    };
+  }
+
+  // 4. JNBK - Başlangıç yılı belirtilmiş: "04.16~"
+  const jnbkStartMatch = madeYear.match(/^(\d{2})\.(\d{2})~$/);
+  if (jnbkStartMatch) {
+    return {
+      start: jnbkStartMatch[2], // Zaten son iki hane
+      end: "",
+    };
+  }
+
+  // 5. RepXpert / Diğer kaynaklar - Başlangıç/Bitiş kelimeleri ile
   let startMatch, endMatch;
   if (locale === Locale.tr_TR) {
-    // Türkçe için başlangıç ve bitiş kelimeleri
     startMatch = madeYear.match(/başlangıç\s+(\d{2})\.(\d{4})/i);
     endMatch = madeYear.match(/bitiş\s+(\d{2})\.(\d{4})/i);
   } else if (locale === Locale.en_US) {
-    // İngilizce için başlangıç ve bitiş kelimeleri
     startMatch = madeYear.match(/from\s+(\d{2})\.(\d{4})/i);
     endMatch = madeYear.match(/to\s+(\d{2})\.(\d{4})/i);
   }
 
-  // 2. Başlangıç: "from 06.2009"
   if (startMatch) {
-    return {start: startMatch[2].slice(-2), end: ""};
+    return { start: startMatch[2].slice(-2), end: "" };
   }
 
-  // 3. Bitiş: "to 06.2009"
   if (endMatch) {
-    return {start: "", end: endMatch[2].slice(-2)};
+    return { start: "", end: endMatch[2].slice(-2) };
   }
+
+  // 6. Sadece dört haneli yıl: "2009" veya "09" (güvenlik için)
+  const singleYearMatch = madeYear.match(/^(\d{2}|\d{4})$/);
+  if (singleYearMatch) {
+    return {
+      start: singleYearMatch[1].slice(-2),
+      end: singleYearMatch[1].slice(-2)
+    };
+  }
+
   // Hiçbir eşleşme yoksa
   return { start: "", end: "" };
 }

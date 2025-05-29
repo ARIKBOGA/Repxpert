@@ -1,0 +1,27 @@
+{
+  "reference": "511577",
+  "id": "RN2452V",
+  "brand": "JNBK",
+  "brand_oe_map": {
+    "DAIHATSU": [
+      "43512-BZ090",
+      "43512-BZ090-001",
+      "43512-BZ100"
+    ],
+    "TOYOTA": [
+      "43512-BZ100"
+    ]
+  },
+  "specifications": {
+    "Type": "Vented",
+    "Outter Ø": "237.7",
+    "Num. of holes": "5",
+    "Disc Thickness (Max)": "25",
+    "Disc Thickness (Min)": "24",
+    "Height": "41.9",
+    "Centering Diameter": "69",
+    "Pitch Circle Ø": "88",
+    "Front/Rear": "Front",
+    "Structure Material": "G3000"
+  }
+}

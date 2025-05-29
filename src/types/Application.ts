@@ -8,4 +8,5 @@ export type Application = {
   cc: string;
   engineCodes: string;
   KBA_Numbers: string;
+  [key: string]: any;
 }
