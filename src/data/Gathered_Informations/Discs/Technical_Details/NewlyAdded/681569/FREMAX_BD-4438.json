@@ -1,0 +1,52 @@
+{
+  "reference": "BD-4438",
+  "id": "BD-4438",
+  "name": "Fren diski",
+  "brand": "FREMAX",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "CHERY": [
+      "T153502075EP"
+    ]
+  },
+  "eanNumber": "7893233044384",
+  "attributes": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "10"
+    ],
+    "MinimumThicknessValues": [
+      "8"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "33"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "313"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "62"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [
+      "5,13"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

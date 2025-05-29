@@ -1,0 +1,54 @@
+{
+  "reference": "BD-5452",
+  "id": "BD-5452",
+  "name": "Fren diski",
+  "brand": "FREMAX",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "CHEVROLET": [
+      "13514522"
+    ]
+  },
+  "eanNumber": "7893233054529",
+  "attributes": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "30"
+    ],
+    "MinimumThicknessValues": [
+      "28"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "59"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "343"
+    ],
+    "BoltHoleCircle": [
+      "139,7"
+    ],
+    "NumberOfHoles": [],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "78,5"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [
+      "13,2"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

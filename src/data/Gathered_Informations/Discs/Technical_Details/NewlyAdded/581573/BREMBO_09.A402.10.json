@@ -1,0 +1,71 @@
+{
+  "reference": "09.A402.10",
+  "id": "09.A402.10",
+  "name": "Fren diski PRIME LINE",
+  "brand": "BREMBO",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "CHRYSLER": [
+      "04779196AA",
+      "04779196AB",
+      "04779196AD",
+      "04779196AE",
+      "04779196AF",
+      "04779196AG",
+      "4779196AA",
+      "4779196AB",
+      "4779196AD",
+      "4779196AE",
+      "4779196AF",
+      "4779196AG",
+      "68368064AA"
+    ],
+    "DODGE": [
+      "4779196AE",
+      "4779196AF",
+      "4779196AG"
+    ]
+  },
+  "eanNumber": "8020584218983",
+  "attributes": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "28"
+    ],
+    "MinimumThicknessValues": [
+      "26,5"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "55"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "320"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "73"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [
+      "Yüksek karbonlu"
+    ],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}
