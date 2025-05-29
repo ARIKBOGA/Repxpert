@@ -2,7 +2,7 @@ import { test } from '@playwright/test';
 import * as fs from 'fs';
 import * as path from 'path';
 import { Product, ProductAttributes } from '../types/ProductTypes';
-import { getSubfolderNamesSync, readJsonFile, retryListFilePath, padPairs } from '../utils/FileHelpers';
+import { getSubfolderNamesSync, readJsonFile, retryListFilePath, padPairs, discPairs } from '../utils/FileHelpers';
 import { getTextContent, getMultipleTexts, addToRetryList, getDimensionValuesSmart } from '../utils/extractHelpers';
 import { goToSearchResults, mapToSerializableObject, readProductReferencesFromExcel } from '../utils/ScraperHelpers';
 
@@ -18,7 +18,7 @@ const existedFolders = getSubfolderNamesSync(`src/data/Gathered_Informations/${p
 
 test.describe('YV NO ve Marka bazlı teknik veri tarayıcı', async () => {
 
-  for (const ref of padPairs) {
+  for (const ref of discPairs) {
 
     const { yvNo, brandRefs } = ref;
     // yvNo daha önce işlenmişse atla
@@ -37,8 +37,8 @@ test.describe('YV NO ve Marka bazlı teknik veri tarayıcı', async () => {
       }
       for (const productCode of productCodes) {
 
-        if (yvNo && brand === 'TEXTAR' && productCode.includes(" ")) continue;
-        if (brand === 'BREMBO') continue;
+        //if (yvNo && brand === 'TEXTAR' && productCode.includes(" ")) continue;
+        //if (brand === 'BREMBO') continue;
 
         test(`${yvNo} / ${productCode} koduyla veri topla`, async ({ page }) => {
           const filterBrand = brand.toUpperCase();
@@ -150,10 +150,10 @@ test.describe('YV NO ve Marka bazlı teknik veri tarayıcı', async () => {
               //oeNumbers,
               brand_oe_map: brand_oe_map_serializable,
               eanNumber: eanNumber,
-              attributes: pad_attributes // change it accordingly
+              attributes: disc_attributes // change it accordingly
             };
 
-            const basePath = path.join('src', 'data', 'Gathered_Informations', productType, 'Technical_Details', "YV_CODES", yvNo);
+            const basePath = path.join('src', 'data', 'Gathered_Informations', productType, 'Technical_Details', "NewlyAdded", yvNo);
             if (!fs.existsSync(basePath)) fs.mkdirSync(basePath, { recursive: true });
 
             const fileName = `${brand}_${productCode}.json`;
