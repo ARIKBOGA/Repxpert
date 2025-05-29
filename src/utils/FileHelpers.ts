@@ -54,27 +54,47 @@ export const padPairs: ProductReference[] = [
 ];
 
 export const discPairs: ProductReference[] = [
-  
-  // { yvNo: "261579", brandRefs: { "BREMBO": "09.B630.10" } }, // 40206EB70B
-  // { yvNo: "511578", brandRefs: { "BREMBO": "09.B524.10" } }, // 43512B1030
-  // { yvNo: "511576", brandRefs: { "BREMBO": "08.9138.10" } }, // 4351297204
-  // { yvNo: "341575", brandRefs: { "BREMBO": "08.A273.10" } }, // 4243112250
-  // { yvNo: "261574", brandRefs: { "BREMBO": "09.7263.30" } }, // 432079X100
-  // { yvNo: "531572", brandRefs: { "FREMAX": "BD-5452" } }, // 13514522
-  // { yvNo: "531571", brandRefs: { "BOSCH": "0 986 479 W30" } }, // 22950036
-  // { yvNo: "581573", brandRefs: { "BREMBO": "09.A402.10" } }, // 780255
-  // { yvNo: "731570", brandRefs: { "TEXTAR": "92343203" } }, // 10174827
-  // { yvNo: "681569", brandRefs: { "FREMAX": "BD-4438" } }, // T153502075EP
-  // { yvNo: "34759CS", brandRefs: { "BREMBO": "09.E229.1X" } }, // 4351202390
-  // { yvNo: "15672CS", brandRefs: { "BREMBO": "09.D218.11" } }, // 45251T1GG01
-  // { yvNo: "52657CS", brandRefs: { "BREMBO": "09.9793.1X" } }, // 34216783754
-  // { yvNo: "301520", brandRefs: { "BREMBO": "08.A135.17" } }, // 432004943R
-  // { yvNo: "30438CS", brandRefs: { "BREMBO": "09.A727.1X" } }, // 402060010R
-  // { yvNo: "15443CS", brandRefs: { "BREMBO": "09.A866.1X" } }, // 45251SWWG01
-  // { yvNo: "18486CS", brandRefs: { "BREMBO": "09.A807.11" } }, // 517120Z000
-  // { yvNo: "511089", brandRefs: { "TEXTAR ": "94036400" } }, // 42431B1020
-  // { yvNo: "261090", brandRefs: { "TRW": "DB4141" } }, // 43206VM00B
-  // { yvNo: "261091", brandRefs: { "TEXTAR": "94026900" } }, // 432064M400
-  // { yvNo: "341092", brandRefs: { "TEXTAR": "94045200" } }, // 424310D030
-  
+
+ //{ yvNo: "261579", brandRefs: { "BREMBO": "09.B630.10" } }, // 40206EB70B
+ //{ yvNo: "511578", brandRefs: { "BREMBO": "09.B524.10" } }, // 43512B1030
+ //{ yvNo: "511576", brandRefs: { "BREMBO": "08.9138.10" } }, // 4351297204
+ //{ yvNo: "341575", brandRefs: { "BREMBO": "08.A273.10" } }, // 4243112250
+ //{ yvNo: "261574", brandRefs: { "BREMBO": "09.7263.30" } }, // 432079X100
+ //{ yvNo: "531572", brandRefs: { "FREMAX": "BD-5452" } }, // 13514522       **************************
+ //{ yvNo: "531571", brandRefs: { "BOSCH": "0 986 479 W30" } }, // 22950036
+ //{ yvNo: "581573", brandRefs: { "BREMBO": "09.A402.10" } }, // 780255
+ //{ yvNo: "731570", brandRefs: { "TEXTAR": "92343203" } }, // 10174827      **************************
+ //{ yvNo: "681569", brandRefs: { "FREMAX": "BD-4438" } }, // T153502075EP   **************************
+ //{ yvNo: "34759CS", brandRefs: { "BREMBO": "09.E229.1X" } }, // 4351202390
+ //{ yvNo: "15672CS", brandRefs: { "BREMBO": "09.D218.11" } }, // 45251T1GG01
+ //{ yvNo: "52657CS", brandRefs: { "BREMBO": "09.9793.1X" } }, // 34216783754
+ //{ yvNo: "301520", brandRefs: { "BREMBO": "08.A135.17" } }, // 432004943R
+ //{ yvNo: "30438CS", brandRefs: { "BREMBO": "09.A727.1X" } }, // 402060010R
+ //{ yvNo: "15443CS", brandRefs: { "BREMBO": "09.A866.1X" } }, // 45251SWWG01
+ //{ yvNo: "18486CS", brandRefs: { "BREMBO": "09.A807.11" } }, // 517120Z000
+ //{ yvNo: "511089", brandRefs: { "TEXTAR": "94036400" } }, // 42431B1020 
+ //{ yvNo: "261090", brandRefs: { "TRW": "DB4141" } }, // 43206VM00B
+ //{ yvNo: "261091", brandRefs: { "TEXTAR": "94026900" } }, // 432064M400
+ //{ yvNo: "341092", brandRefs: { "TEXTAR": "94045200" } }, // 424310D030
+  { yvNo: "681569", brandRefs: { "JNBK": "RN2502" } }, // T153502075EP - FREMAX - BD-4438
+  { yvNo: "731570", brandRefs: { "JNBK": "RN2530V" } }, // 10174827 - TEXTAR - 92343203
+  { yvNo: "531572", brandRefs: { "JNBK": "RN2289V" } }, // 582458R - FREMAX - BD-5452
+  { yvNo: "511577", brandRefs: { "JNBK": "RN2452V" } }, // 43512BZ100
+
 ];
+
+export function lookupReference(productType: string): Map<string, string> {
+  switch (productType) {
+    case "Pads":
+      return new Map<string, string>(discPairs.map(x => [Object.values(x.brandRefs)[0], x.yvNo]));
+    case "Discs":
+      return new Map<string, string>(discPairs.map(x => [Object.values(x.brandRefs)[0], x.yvNo]));
+    default:
+      console.log("Unknown product type:", productType);
+      return new Map<string, string>();
+  }
+
+}
+
+
+// console.log(lookupProductReference);
