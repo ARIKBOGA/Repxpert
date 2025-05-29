@@ -4,13 +4,13 @@ import fs from "fs";
 import path from "path";
 import { addToRetryList, getTextContent } from "../utils/extractHelpers";
 import { selector } from "../utils/Selectors";
-import { readJsonFile, retryListFilePath, padPairs } from "../utils/FileHelpers";
+import { readJsonFile, retryListFilePath, padPairs, discPairs } from "../utils/FileHelpers";
 import { goToSearchResults, ProductReference, readProductReferencesFromExcel } from "../utils/ScraperHelpers";
 
 
 // Çalışılacak ürün tipini seç
 const productType = process.env.PRODUCT_TYPE as string; // Örnek: 'Pads', 'Discs', 'Drums' vb.
-const filterBrand = process.env.FILTER_BRAND_APPLICATION as string; // Örnek: 'ICER', 'TEXTAR' vb.
+//const filterBrand = process.env.FILTER_BRAND_APPLICATION as string; // Örnek: 'ICER', 'TEXTAR' vb.
 
 // Ürün tipine karşılık gelen Excel dosyasından katalog bilgilerini oku
 const references : ProductReference[] = readProductReferencesFromExcel(productType);
@@ -21,37 +21,38 @@ let retryList = readJsonFile<string[]>(retryListFilePath, []);
 
 test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
 
-  for (const ref of padPairs) {
+  for (const ref of discPairs) {
     // Excel den okunan satırlardan yvNo ve brandRefs değerlerini al
-    const YV = ref.yvNo;
-    let cross = ref.brandRefs && (ref.brandRefs[filterBrand] as string);
+    const { yvNo, brandRefs } = ref;
+    const filterBrand = Object.keys(brandRefs)[0];
+    let crossNumber = ref.brandRefs && (ref.brandRefs[filterBrand] as string);
 
-    if (!cross || cross === "") {
-      console.log(`YV No: ${YV} için geçerli bir referans kodu bulunamadı.`);
+    if (!crossNumber || crossNumber === "") {
+      console.log(`YV No: ${yvNo} için geçerli bir referans kodu bulunamadı.`);
       continue; // Geçerli bir referans kodu yoksa next iteration a geç
     }
 
-    if(cross.includes(",")){
-      console.warn(`⚠️ ${cross} birden fazla referans içeriyor, bu durumda sadece ilk referansı kullanılıyor.`);
-      const firstCross = cross.split(",")[0].trim();
+    if(crossNumber.includes(",")){
+      console.warn(`⚠️ ${crossNumber} birden fazla referans içeriyor, bu durumda sadece ilk referansı kullanılıyor.`);
+      const firstCross = crossNumber.split(",")[0].trim();
       console.log(`İlk referans: ${firstCross}`);
-      cross = firstCross; // Sadece ilk referansı kullan
+      crossNumber = firstCross; // Sadece ilk referansı kullan
     }
 
-    if (scrapedCrosses.has(cross)) {
-      console.log(`✅ ${cross} zaten işlendi, atlanıyor.`);
+    if (scrapedCrosses.has(crossNumber)) {
+      console.log(`✅ ${crossNumber} zaten işlendi, atlanıyor.`);
       continue; // Eğer bu cross zaten işlendi ise atla
     }
-    scrapedCrosses.add(cross); // İşlenen crossları kaydet
+    scrapedCrosses.add(crossNumber); // İşlenen crossları kaydet
     
-    test(`${filterBrand} - ${cross} ürününün araç uyumluluklarını getir`, async ({page,}) => {
+    test(`${filterBrand} - ${crossNumber} ürününün araç uyumluluklarını getir`, async ({page,}) => {
       
       try {
-        const productLinks = await goToSearchResults(page, cross, filterBrand, retryList, addToRetryList);
+        const productLinks = await goToSearchResults(page, crossNumber, filterBrand, retryList, addToRetryList);
         
         if (!productLinks) return;
 
-        console.log(`🔍 ${cross} için ürünü işliyor...`);
+        console.log(`🔍 ${crossNumber} için ürünü işliyor...`);
 
         await Promise.all([
           page.waitForLoadState("domcontentloaded"),
@@ -161,25 +162,25 @@ test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
           await page.waitForTimeout(1000);
         }
 
-        const productProducerFolderPath = path.join(`src/data/Gathered_Informations/${productType}/Applications`,productProducer || "UnknownBrand");
+        const productProducerFolderPath = path.join(`src/data/Gathered_Informations/${productType}/Applications/TR/NewlyAdded`,productProducer || "UnknownBrand");
 
         if (!fs.existsSync(productProducerFolderPath)) {
           fs.mkdirSync(productProducerFolderPath, { recursive: true });
         }
 
-        const oeFolderPath = path.join(productProducerFolderPath, cross);
+        const oeFolderPath = path.join(productProducerFolderPath, crossNumber);
         if (!fs.existsSync(oeFolderPath)) {
           fs.mkdirSync(oeFolderPath, { recursive: true });
         }
 
-        const fileName = `${productProducer}_${cross}.json`;
+        const fileName = `${productProducer}_${crossNumber}.json`;
         const filePath = path.join(oeFolderPath, fileName);
 
         fs.writeFileSync(filePath, JSON.stringify(applications, null, 2), "utf-8");
-        console.log(`✅ ${cross} için ${fileName} üzerine yazılarak kaydedildi.`);
+        console.log(`✅ ${crossNumber} için ${fileName} üzerine yazılarak kaydedildi.`);
       } catch (err) {
-        console.error(`❌ ${cross} için hata:`, err);
-        addToRetryList(cross);
+        console.error(`❌ ${crossNumber} için hata:`, err);
+        addToRetryList(crossNumber);
       }
     });
   }
