@@ -22801,18 +22801,21 @@
   {
     "id": 3549,
     "marka_id": 126,
+    "modeller_markalar::marka": "CADILLAC (GM)",
     "model": "PHANTOM VII (RR1)",
     "model_Web": "PHANTOM VII (RR1)"
   },
   {
     "id": 3550,
     "marka_id": 126,
+    "modeller_markalar::marka": "CADILLAC (GM)",
     "model": "PHANTOM VII Coupe (RR3)",
     "model_Web": "PHANTOM VII Coupe (RR3)"
   },
   {
     "id": 3551,
     "marka_id": 126,
+    "modeller_markalar::marka": "CADILLAC (GM)",
     "model": "PHANTOM VII Drophead Coupe (RR2)",
     "model_Web": "PHANTOM VII Drophead Coupe (RR2)"
   },
@@ -22910,18 +22913,21 @@
   {
     "id": 3565,
     "marka_id": 126,
+    "modeller_markalar::marka": "CADILLAC (GM)",
     "model": "DAWN (RR6)",
     "model_Web": "DAWN (RR6)"
   },
   {
     "id": 3566,
     "marka_id": 126,
+    "modeller_markalar::marka": "CADILLAC (GM)",
     "model": "GHOST I (RR4)",
     "model_Web": "GHOST I (RR4)"
   },
   {
     "id": 3567,
     "marka_id": 126,
+    "modeller_markalar::marka": "CADILLAC (GM)",
     "model": "WRAITH (RR5)",
     "model_Web": "WRAITH (RR5)"
   },
@@ -23019,24 +23025,28 @@
   {
     "id": 3581,
     "marka_id": 126,
+    "modeller_markalar::marka": "CADILLAC (GM)",
     "model": "CULLINAN (RR31)",
     "model_Web": "CULLINAN (RR31)"
   },
   {
     "id": 3582,
     "marka_id": 126,
+    "modeller_markalar::marka": "CADILLAC (GM)",
     "model": "GHOST II (RR21)",
     "model_Web": "GHOST II (RR21)"
   },
   {
     "id": 3583,
     "marka_id": 126,
+    "modeller_markalar::marka": "CADILLAC (GM)",
     "model": "GHOST II Extended Wheelbase (RR22)",
     "model_Web": "GHOST II Extended Wheelbase (RR22)"
   },
   {
     "id": 3584,
     "marka_id": 126,
+    "modeller_markalar::marka": "CADILLAC (GM)",
     "model": "PHANTOM VIII (RR11, RR12)",
     "model_Web": "PHANTOM VIII (RR11, RR12)"
   },
@@ -32640,12 +32650,14 @@
   {
     "id": 4956,
     "marka_id": 127,
+    "modeller_markalar::marka": "GMC",
     "model": "WORK Panelvan/Van",
     "model_Web": "WORK Panelvan/Van"
   },
   {
     "id": 4957,
     "marka_id": 127,
+    "modeller_markalar::marka": "GMC",
     "model": "WORK Platform şasi",
     "model_Web": "WORK Platform şasi"
   },
@@ -33488,5 +33500,271 @@
     "modeller_markalar::marka": "MERCEDES",
     "model": "VARIO Platform şasi (B670, B668, B667)",
     "model_Web": "VARIO Platform şasi (B670, B668, B667)"
+  },
+  {
+    "id": 5078,
+    "marka_id": 74,
+    "modeller_markalar::marka": "CHRYSLER",
+    "model": "300C (LX)",
+    "model_Web": "300C (LX)"
+  },
+  {
+    "id": 5079,
+    "marka_id": 74,
+    "modeller_markalar::marka": "CHRYSLER",
+    "model": "300C (LX, LE)",
+    "model_Web": "300C (LX, LE)"
+  },
+  {
+    "id": 5080,
+    "marka_id": 74,
+    "modeller_markalar::marka": "CHRYSLER",
+    "model": "300C Touring (LX, LE)",
+    "model_Web": "300C Touring (LX, LE)"
+  },
+  {
+    "id": 5081,
+    "marka_id": 61,
+    "modeller_markalar::marka": "DODGE",
+    "model": "CHALLENGER Coupe",
+    "model_Web": "CHALLENGER Coupe"
+  },
+  {
+    "id": 5082,
+    "marka_id": 61,
+    "modeller_markalar::marka": "DODGE",
+    "model": "CHARGER",
+    "model_Web": "CHARGER"
+  },
+  {
+    "id": 5083,
+    "marka_id": 31,
+    "modeller_markalar::marka": "TOYOTA",
+    "model": "HIGHLANDER (GSU7_, AXUH7_, TXUA7_)",
+    "model_Web": "HIGHLANDER (GSU7_, AXUH7_, TXUA7_)"
+  },
+  {
+    "id": 5084,
+    "marka_id": 43,
+    "modeller_markalar::marka": "NISSAN",
+    "model": "CABSTAR (F24M, F24W) | CABSTAR E",
+    "model_Web": "CABSTAR (F24M, F24W) | CABSTAR E"
+  },
+  {
+    "id": 5085,
+    "marka_id": 43,
+    "modeller_markalar::marka": "NISSAN",
+    "model": "CABSTAR E (TL_, VL_)",
+    "model_Web": "CABSTAR E (TL_, VL_)"
+  },
+  {
+    "id": 5086,
+    "marka_id": 43,
+    "modeller_markalar::marka": "NISSAN",
+    "model": "NT400 CABSTAR (F24M)",
+    "model_Web": "NT400 CABSTAR (F24M)"
+  },
+  {
+    "id": 5087,
+    "marka_id": 126,
+    "modeller_markalar::marka": "CADILLAC (GM)",
+    "model": "Escalade",
+    "model_Web": "Escalade"
+  },
+  {
+    "id": 5088,
+    "marka_id": 52,
+    "modeller_markalar::marka": "DAEWOO- CHEVROLET",
+    "model": "Silverado 1500",
+    "model_Web": "Silverado 1500"
+  },
+  {
+    "id": 5089,
+    "marka_id": 52,
+    "modeller_markalar::marka": "DAEWOO- CHEVROLET",
+    "model": "Suburban",
+    "model_Web": "Suburban"
+  },
+  {
+    "id": 5090,
+    "marka_id": 52,
+    "modeller_markalar::marka": "DAEWOO- CHEVROLET",
+    "model": "Tahoe",
+    "model_Web": "Tahoe"
+  },
+  {
+    "id": 5091,
+    "marka_id": 127,
+    "modeller_markalar::marka": "GMC",
+    "model": "Sierra 1500",
+    "model_Web": "Sierra 1500"
+  },
+  {
+    "id": 5092,
+    "marka_id": 127,
+    "modeller_markalar::marka": "GMC",
+    "model": "Yukon",
+    "model_Web": "Yukon"
+  },
+  {
+    "id": 5093,
+    "marka_id": 67,
+    "modeller_markalar::marka": "DAIHATSU",
+    "model": "Gran Max",
+    "model_Web": "Gran Max"
+  },
+  {
+    "id": 5094,
+    "marka_id": 67,
+    "modeller_markalar::marka": "DAIHATSU",
+    "model": "Luxio",
+    "model_Web": "Luxio"
+  },
+  {
+    "id": 5095,
+    "marka_id": 31,
+    "modeller_markalar::marka": "TOYOTA",
+    "model": "Lite/Townace",
+    "model_Web": "Lite/Townace"
+  },
+  {
+    "id": 5096,
+    "marka_id": 31,
+    "modeller_markalar::marka": "TOYOTA",
+    "model": "Liteace",
+    "model_Web": "Liteace"
+  },
+  {
+    "id": 5097,
+    "marka_id": 31,
+    "modeller_markalar::marka": "TOYOTA",
+    "model": "Liteace Truck",
+    "model_Web": "Liteace Truck"
+  },
+  {
+    "id": 5098,
+    "marka_id": 31,
+    "modeller_markalar::marka": "TOYOTA",
+    "model": "Liteace Van",
+    "model_Web": "Liteace Van"
+  },
+  {
+    "id": 5099,
+    "marka_id": 31,
+    "modeller_markalar::marka": "TOYOTA",
+    "model": "Townace Truck",
+    "model_Web": "Townace Truck"
+  },
+  {
+    "id": 5100,
+    "marka_id": 69,
+    "modeller_markalar::marka": "CHERY",
+    "model": "Tiggo 8 Pro Max",
+    "model_Web": "Tiggo 8 Pro Max"
+  },
+  {
+    "id": 5101,
+    "marka_id": 99,
+    "modeller_markalar::marka": "JAECOO",
+    "model": "J7",
+    "model_Web": "J7"
+  },
+  {
+    "id": 5102,
+    "marka_id": 87,
+    "modeller_markalar::marka": "MG",
+    "model": "GS",
+    "model_Web": "GS"
+  },
+  {
+    "id": 5103,
+    "marka_id": 87,
+    "modeller_markalar::marka": "MG",
+    "model": "HS",
+    "model_Web": "HS"
+  },
+  {
+    "id": 5104,
+    "marka_id": 87,
+    "modeller_markalar::marka": "MG",
+    "model": "RX5",
+    "model_Web": "RX5"
+  },
+  {
+    "id": 5105,
+    "marka_id": 52,
+    "modeller_markalar::marka": "DAEWOO- CHEVROLET",
+    "model": "AVALANCHE",
+    "model_Web": "AVALANCHE"
+  },
+  {
+    "id": 5106,
+    "marka_id": 110,
+    "modeller_markalar::marka": "GEELY",
+    "model": "VISION Sedan | FC",
+    "model_Web": "VISION Sedan | FC"
+  },
+  {
+    "id": 5107,
+    "marka_id": 46,
+    "modeller_markalar::marka": "RENAULT",
+    "model": "DUSTER (HM_)",
+    "model_Web": "DUSTER (HM_)"
+  },
+  {
+    "id": 5108,
+    "marka_id": 46,
+    "modeller_markalar::marka": "RENAULT",
+    "model": "DUSTER (HS_)",
+    "model_Web": "DUSTER (HS_)"
+  },
+  {
+    "id": 5109,
+    "marka_id": 43,
+    "modeller_markalar::marka": "NISSAN",
+    "model": "PATHFINDER I (WD21) | TERRANO",
+    "model_Web": "PATHFINDER I (WD21) | TERRANO"
+  },
+  {
+    "id": 5110,
+    "marka_id": 43,
+    "modeller_markalar::marka": "NISSAN",
+    "model": "PICK UP (D21) | NAVARA | DATSUN",
+    "model_Web": "PICK UP (D21) | NAVARA | DATSUN"
+  },
+  {
+    "id": 5111,
+    "marka_id": 43,
+    "modeller_markalar::marka": "NISSAN",
+    "model": "TERRANO I (WD21) | PATHFINDER",
+    "model_Web": "TERRANO I (WD21) | PATHFINDER"
+  },
+  {
+    "id": 5112,
+    "marka_id": 43,
+    "modeller_markalar::marka": "NISSAN",
+    "model": "URVAN Minibüs/Otobüs (E23)",
+    "model_Web": "URVAN Minibüs/Otobüs (E23)"
+  },
+  {
+    "id": 5113,
+    "marka_id": 43,
+    "modeller_markalar::marka": "NISSAN",
+    "model": "URVAN Minibüs/Otobüs (E24) | CARAVAN",
+    "model_Web": "URVAN Minibüs/Otobüs (E24) | CARAVAN"
+  },
+  {
+    "id": 5114,
+    "marka_id": 43,
+    "modeller_markalar::marka": "NISSAN",
+    "model": "URVAN Panelvan/Van (E24) | CARAVAN",
+    "model_Web": "URVAN Panelvan/Van (E24) | CARAVAN"
+  },
+  {
+    "id": 5115,
+    "marka_id": 43,
+    "modeller_markalar::marka": "NISSAN",
+    "model": "VANETTE Minibüs/Otobüs (C22) | ICHI VAN | NOMAD | VANETTE / LARGO VAN",
+    "model_Web": "VANETTE Minibüs/Otobüs (C22) | ICHI VAN | NOMAD | VANETTE / LARGO VAN"
   }
 ]
