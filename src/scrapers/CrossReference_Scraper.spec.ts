@@ -1,6 +1,5 @@
 import { test } from '@playwright/test';
 import { readProductReferencesFromExcel, ProductReference } from '../utils/ScraperHelpers';
-import ConfigReader from '../utils/ConfigReader';
 import * as fs from 'fs';
 import * as path from 'path';
 import { getSubfolderNamesSync, padPairs } from '../utils/FileHelpers';

@@ -1,0 +1,57 @@
+{
+  "reference": "09.B524.10",
+  "id": "09.B524.10",
+  "name": "Fren diski PRIME LINE",
+  "brand": "BREMBO",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "DAIHATSU": [
+      "43512B1030",
+      "43512B1030000",
+      "43512B1031"
+    ],
+    "SUBARU": [
+      "43512B1030"
+    ]
+  },
+  "eanNumber": "8020584216811",
+  "attributes": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "22"
+    ],
+    "MinimumThicknessValues": [
+      "21"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "42"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "254"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [
+      "4"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "55"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

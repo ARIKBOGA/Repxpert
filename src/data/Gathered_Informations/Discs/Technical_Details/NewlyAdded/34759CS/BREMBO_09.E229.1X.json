@@ -1,0 +1,57 @@
+{
+  "reference": "09.E229.1X",
+  "id": "09.E229.1X",
+  "name": "Fren diski XTRA LINE - Xtra",
+  "brand": "BREMBO",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "SUZUKI": [
+      "T435120239"
+    ],
+    "TOYOTA": [
+      "4351202390"
+    ]
+  },
+  "eanNumber": "8020584340387",
+  "attributes": {
+    "Type": [
+      "delikli/içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "25"
+    ],
+    "MinimumThicknessValues": [
+      "22,8"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "46"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "282"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "62"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}
