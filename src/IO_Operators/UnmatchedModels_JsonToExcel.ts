@@ -8,19 +8,19 @@ const outputPath = path.resolve('src/data/katalogInfo/excels/unmatched_models.xl
 
 // 📥 JSON dosyasını oku
 const jsonData = JSON.parse(fs.readFileSync(inputPath, 'utf-8')) as {
-  originalModel: string;
+  Model: string;
   normalizedModel: string;
-  originalBrand: string;
+  Marka: string;
   marka_id: number;
 }[];
 
 // 🧾 Excel için satırlar
 const worksheetData = [
-  ['originalModel', 'normalizedModel', 'originalBrand', 'marka_id'], // Başlık satırı
+  ['Model', 'normalizedModel', 'Marka', 'marka_id'], // Başlık satırı
   ...jsonData.map(item => [
-    item.originalModel,
+    item.Model,
     item.normalizedModel,
-    item.originalBrand,
+    item.Marka,
     item.marka_id
   ])
 ];

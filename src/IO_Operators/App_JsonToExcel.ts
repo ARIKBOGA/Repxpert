@@ -18,13 +18,15 @@ import { lookupReference } from "../utils/FileHelpers";
 
 // .env dosyasındaki ortam değişkenlerini yükle
 dotenv.config({ path: path.resolve(__dirname, '../data/Configs/.env') });
-
-const filterBrand = process.env.FILTER_BRAND_APPLICATION as string;
 const productType = process.env.PRODUCT_TYPE as string;
+
+//const filterBrand = process.env.FILTER_BRAND_APPLICATION as string;
+
+const lookupDataMap = lookupReference(productType);
 const formattedDate = formatDateTime(new Date());
 
-const OUTPUT_FILE = `${productType}_APPLICATIONS_${filterBrand}_${formattedDate.numericDate}.xlsx`;
-const ROOT_PATH = `src/data/Gathered_Informations/${productType}/Applications/TR/NewlyAdded`;
+const OUTPUT_FILE = `${productType}_APPLICATIONS_${formattedDate.numericDate}.xlsx`;
+const ROOT_PATH = `src/data/Gathered_Informations/${productType}/Applications/TR`;
 const MARKA_FILE_PATH = "src/data/katalogInfo/jsons/marka_tur.json";
 const MODEL_FILE_PATH = "src/data/katalogInfo/jsons/model_tur.json";
 const LOOKUP_FILE_PATH = `src/data/katalogInfo/excels/${productType}_katalog_full.xlsx`;
@@ -34,14 +36,12 @@ const MODEL_MATCH_POOL_PATH = "src/data/katalogInfo/jsons/modelMatchPool.json";
 const UNMATCHED_MODELS_FILE = `src/data/katalogInfo/jsons/unmatched_models_ALWAYS_UPDATED.json`;
 
 // --- Lookup Verisi İşleme Başlangıcı ---
-const lookupDataMap = lookupReference(productType);
 
 function findYvNoOptimized(partNumber: string | undefined): string[] {
     if (!partNumber || partNumber.trim() === "") {
         console.warn(`⚠️ findYvNoOptimized'a geçersiz (boş veya undefined) partNumber geldi.`);
         return [];
     }
-    console.log("partNumber: ", partNumber);
     const result = lookupDataMap.get(partNumber.trim());
     return result ? [result] : [];
 }
@@ -151,9 +151,9 @@ async function main() {
                     const uniqueKey = `${marka_id || 'UNKNOWN'}_${normalizedModel}`; // Marka ID'si de bulunamamış olabilir
                     if (!unmatchedModelsMap.has(uniqueKey)) {
                         unmatchedModelsMap.set(uniqueKey, {
-                            originalModel: app.model.trim(),
+                            Model: app.model.trim(),
                             normalizedModel: normalizedModel,
-                            originalBrand: app.brand.trim(),
+                            Marka: app.brand.trim(),
                             marka_id: marka_id // mark_id'nin null olma ihtimali var
                         });
                     }

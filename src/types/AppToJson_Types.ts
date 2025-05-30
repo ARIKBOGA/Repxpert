@@ -20,9 +20,9 @@ interface MarkaData {
 }
 
 interface UnmatchedModel {
-  originalModel: string;
+  Model: string;
   normalizedModel: string;
-  originalBrand: string;
+  Marka: string;
   marka_id: number | null;
 }
 
