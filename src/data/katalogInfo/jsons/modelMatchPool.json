@@ -36706,5 +36706,71 @@
     "normalized": "TGE PANELVAN VAN",
     "model_id": 5044,
     "marka_id": 82
+  },
+  {
+    "original": "HR-V (GH_)",
+    "normalized": "HR V GH",
+    "model_id": 5145,
+    "marka_id": 35
+  },
+  {
+    "original": "XC90 I (275)",
+    "normalized": "XC90 I 275",
+    "model_id": 5157,
+    "marka_id": 77
+  },
+  {
+    "original": "REZZO MPV (U100) | TACUMA",
+    "normalized": "REZZO MPV U100 TACUMA",
+    "model_id": 5146,
+    "marka_id": 52
+  },
+  {
+    "original": "REZZO (U100) | TACUMA",
+    "normalized": "REZZO U100 TACUMA",
+    "model_id": 5147,
+    "marka_id": 52
+  },
+  {
+    "original": "ECLIPSE I (D2_A)",
+    "normalized": "ECLIPSE I D2 A",
+    "model_id": 5148,
+    "marka_id": 42
+  },
+  {
+    "original": "GALANT VI (E3_A) | ETERNA",
+    "normalized": "GALANT VI E3 A ETERNA",
+    "model_id": 5149,
+    "marka_id": 42
+  },
+  {
+    "original": "GALANT VI Sedan (E3_A) | ETERNA",
+    "normalized": "GALANT VI SEDAN E3 A ETERNA",
+    "model_id": 5150,
+    "marka_id": 42
+  },
+  {
+    "original": "GALANT VII (E5_A, E7_A, E8_A)",
+    "normalized": "GALANT VII E5 A E7 A E8 A",
+    "model_id": 5151,
+    "marka_id": 42
+  },
+  {
+    "original": "GALANT VII Sedan (E5_A, E7_A, E8_A) | ETERNA",
+    "normalized": "GALANT VII SEDAN E5 A E7 A E8 A ETERNA",
+    "model_id": 5152,
+    "marka_id": 42
+  },
+  {
+    "original": "LANCER V (CB_A, CD_A, CE_A) | LIBERO",
+    "normalized": "LANCER V CB A CD A CE A LIBERO",
+    "model_id": 5153,
+    "marka_id": 42
+  },
+  {
+    "original": "SPACE WAGON (N3_W, N4_W) | EXPO | NIMBUS | CHARIOT",
+    "normalized": "SPACE WAGON N3 W N4 W EXPO NIMBUS CHARIOT",
+    "model_id": 5154,
+    "marka_id": 42
   }
 ]

@@ -19502,13 +19502,6 @@
     "model_Web": "Transporter T6 Platform Şasi (SFD, SFE,SFL,SFZ,SJD,SJE)"
   },
   {
-    "id": 3092,
-    "marka_id": 51,
-    "modeller_markalar::marka": "SUZUKI",
-    "model": "Wagon R+ HB (MM) I Wagon R Solio",
-    "model_Web": "Wagon R+ HB (MM) I Wagon R Solio"
-  },
-  {
     "id": 3071,
     "marka_id": 37,
     "modeller_markalar::marka": "ISUZU",
@@ -19654,6 +19647,13 @@
     "modeller_markalar::marka": "OPEL",
     "model": "Corsa E HB Van (X15)",
     "model_Web": "Corsa E HB Van (X15)"
+  },
+  {
+    "id": 3092,
+    "marka_id": 51,
+    "modeller_markalar::marka": "SUZUKI",
+    "model": "Wagon R+ HB (MM) I Wagon R Solio",
+    "model_Web": "Wagon R+ HB (MM) I Wagon R Solio"
   },
   {
     "id": 3093,
@@ -33969,5 +33969,96 @@
     "modeller_markalar::marka": "CUPRA",
     "model": "FORMENTOR (KM7, KMP) | CUPRA",
     "model_Web": "FORMENTOR (KM7, KMP) | CUPRA"
+  },
+  {
+    "id": 5145,
+    "marka_id": 35,
+    "modeller_markalar::marka": "HONDA",
+    "model": "HR-V (GH_)",
+    "model_Web": "HR-V (GH_)"
+  },
+  {
+    "id": 5146,
+    "marka_id": 52,
+    "modeller_markalar::marka": "DAEWOO- CHEVROLET",
+    "model": "REZZO MPV (U100) | TACUMA",
+    "model_Web": "REZZO MPV (U100) | TACUMA"
+  },
+  {
+    "id": 5147,
+    "marka_id": 52,
+    "modeller_markalar::marka": "DAEWOO- CHEVROLET",
+    "model": "REZZO (U100) | TACUMA",
+    "model_Web": "REZZO (U100) | TACUMA"
+  },
+  {
+    "id": 5148,
+    "marka_id": 42,
+    "modeller_markalar::marka": "MITSUBISHI",
+    "model": "ECLIPSE I (D2_A)",
+    "model_Web": "ECLIPSE I (D2_A)"
+  },
+  {
+    "id": 5149,
+    "marka_id": 42,
+    "modeller_markalar::marka": "MITSUBISHI",
+    "model": "GALANT VI (E3_A) | ETERNA",
+    "model_Web": "GALANT VI (E3_A) | ETERNA"
+  },
+  {
+    "id": 5150,
+    "marka_id": 42,
+    "modeller_markalar::marka": "MITSUBISHI",
+    "model": "GALANT VI Sedan (E3_A) | ETERNA",
+    "model_Web": "GALANT VI Sedan (E3_A) | ETERNA"
+  },
+  {
+    "id": 5151,
+    "marka_id": 42,
+    "modeller_markalar::marka": "MITSUBISHI",
+    "model": "GALANT VII (E5_A, E7_A, E8_A)",
+    "model_Web": "GALANT VII (E5_A, E7_A, E8_A)"
+  },
+  {
+    "id": 5152,
+    "marka_id": 42,
+    "modeller_markalar::marka": "MITSUBISHI",
+    "model": "GALANT VII Sedan (E5_A, E7_A, E8_A) | ETERNA",
+    "model_Web": "GALANT VII Sedan (E5_A, E7_A, E8_A) | ETERNA"
+  },
+  {
+    "id": 5153,
+    "marka_id": 42,
+    "modeller_markalar::marka": "MITSUBISHI",
+    "model": "LANCER V (CB_A, CD_A, CE_A) | LIBERO",
+    "model_Web": "LANCER V (CB_A, CD_A, CE_A) | LIBERO"
+  },
+  {
+    "id": 5154,
+    "marka_id": 42,
+    "modeller_markalar::marka": "MITSUBISHI",
+    "model": "SPACE WAGON (N3_W, N4_W) | EXPO | NIMBUS | CHARIOT",
+    "model_Web": "SPACE WAGON (N3_W, N4_W) | EXPO | NIMBUS | CHARIOT"
+  },
+  {
+    "id": 5155,
+    "marka_id": 41,
+    "modeller_markalar::marka": "MERCEDES",
+    "model": "GL-SERISI (X166)",
+    "model_Web": "GL-SERISI (X166)"
+  },
+  {
+    "id": 5156,
+    "marka_id": 77,
+    "modeller_markalar::marka": "VOLVO",
+    "model": "XC70 I Cross Country (295) | V70 XC | V70 XC / XC70",
+    "model_Web": "XC70 I Cross Country (295) | V70 XC | V70 XC / XC70"
+  },
+  {
+    "id": 5157,
+    "marka_id": 77,
+    "modeller_markalar::marka": "VOLVO",
+    "model": "XC90 I (275)",
+    "model_Web": "XC90 I (275)"
   }
 ]
