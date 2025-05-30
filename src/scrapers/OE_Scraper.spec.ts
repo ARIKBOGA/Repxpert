@@ -2,7 +2,7 @@ import { test } from '@playwright/test';
 import * as fs from 'fs';
 import * as path from 'path';
 import { Product, ProductAttributes } from '../types/ProductTypes';
-import { getSubfolderNamesSync, readJsonFile, retryListFilePath, padPairs, discPairs } from '../utils/FileHelpers';
+import { getSubfolderNamesSync, readJsonFile, retryListFilePath, padPairs, discPairs, crankshaftPairs } from '../utils/FileHelpers';
 import { getTextContent, getMultipleTexts, addToRetryList, getDimensionValuesSmart } from '../utils/extractHelpers';
 import { goToSearchResults, mapToSerializableObject, readProductReferencesFromExcel } from '../utils/ScraperHelpers';
 
@@ -18,7 +18,7 @@ const existedFolders = getSubfolderNamesSync(`src/data/Gathered_Informations/${p
 
 test.describe('YV NO ve Marka bazlı teknik veri tarayıcı', async () => {
 
-  for (const ref of discPairs) {
+  for (const ref of crankshaftPairs) {
 
     const { yvNo, brandRefs } = ref;
     // yvNo daha önce işlenmişse atla
@@ -123,6 +123,22 @@ test.describe('YV NO ve Marka bazlı teknik veri tarayıcı', async () => {
               ThreadSize: await getDimensionValuesSmart(page, ['Dişli ölçüsü']),
             }
 
+            const crankshaft_attributes: ProductAttributes | any = {
+              BoltHoleCircle: await getDimensionValuesSmart(page, ['Delik çemberi']),
+              NumberOfGrooves: await getDimensionValuesSmart(page, ['Olukların sayısı']),
+              Diameter: await getDimensionValuesSmart(page, ['Çap']),
+              InnerDiameter_1: await getDimensionValuesSmart(page, ['İç Çap 1']),
+              InnerDiameter_2: await getDimensionValuesSmart(page, ['İç Çap 2']),
+              KaburgaSayisi: await getDimensionValuesSmart(page, ['Kaburga sayısı']),
+              SupplementaryInfo: await getDimensionValuesSmart(page, ['İlave Ürün/Bilgi']),
+              OuterDiameter: await getDimensionValuesSmart(page, ['Dış çap']),
+              Parameter: await getDimensionValuesSmart(page, ['Parametre']),
+              VehicleEquipment: await getDimensionValuesSmart(page, ['Araç donanımı']),
+              Thickness: await getDimensionValuesSmart(page, ['Kalınlık/Kuvvet']),
+              Weight: await getDimensionValuesSmart(page, ['Ağırlık [kg]']),
+              Color: await getDimensionValuesSmart(page, ['Renk']),
+            }
+
             await page.waitForTimeout(1000); // Sayfanın tam yüklenmesi için bekle
             //await page.pause(); // Sayfayı durdur
             const oeBrands = await getMultipleTexts(page.locator("//mat-panel-title"));
@@ -150,7 +166,7 @@ test.describe('YV NO ve Marka bazlı teknik veri tarayıcı', async () => {
               //oeNumbers,
               brand_oe_map: brand_oe_map_serializable,
               eanNumber: eanNumber,
-              attributes: disc_attributes // change it accordingly
+              attributes: crankshaft_attributes // change it accordingly
             };
 
             const basePath = path.join('src', 'data', 'Gathered_Informations', productType, 'Technical_Details', "NewlyAdded", yvNo);

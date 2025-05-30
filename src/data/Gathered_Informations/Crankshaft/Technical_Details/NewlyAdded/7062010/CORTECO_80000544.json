@@ -1,0 +1,41 @@
+{
+  "reference": "80000544",
+  "id": "80000544",
+  "name": "Kayış kasnağı, krank mili",
+  "brand": "CORTECO",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "MERCEDES-BENZ": [
+      "166 030 00 03",
+      "166 030 01 03",
+      "166 030 02 03",
+      "166 030 03 03"
+    ]
+  },
+  "eanNumber": "3358960205902",
+  "attributes": {
+    "BoltHoleCircle": [],
+    "NumberOfGrooves": [],
+    "Diameter": [],
+    "InnerDiameter_1": [],
+    "InnerDiameter_2": [],
+    "KaburgaSayisi": [
+      "4"
+    ],
+    "SupplementaryInfo": [
+      "Bağlantısı ayrılmış, Montaj talimatı ile"
+    ],
+    "OuterDiameter": [
+      "154"
+    ],
+    "Parameter": [
+      "5PK"
+    ],
+    "VehicleEquipment": [],
+    "Thickness": [],
+    "Weight": [
+      "1,4"
+    ],
+    "Color": []
+  }
+}

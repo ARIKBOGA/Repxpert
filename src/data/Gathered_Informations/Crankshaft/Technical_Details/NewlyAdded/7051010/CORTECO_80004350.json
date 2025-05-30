@@ -1,0 +1,77 @@
+{
+  "reference": "80004350",
+  "id": "80004350",
+  "name": "Kayış kasnağı, krank mili",
+  "brand": "CORTECO",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "AUDI": [
+      "059 105 251 AA",
+      "059 105 251 AD",
+      "059 105 251 AF",
+      "059 105 251 AG",
+      "059 105 251 AH",
+      "059 105 251 AJ",
+      "059 105 251 AQ",
+      "059 105 251 AR",
+      "059 105 251 AS",
+      "059 105 251 AT",
+      "059 105 251 BB",
+      "059 105 251 BN",
+      "059 105 251 BP",
+      "059 105 251 BQ",
+      "059 105 251 DB",
+      "059 105 251 DJ",
+      "059 105 251 DL",
+      "059 105 251 S"
+    ],
+    "VW": [
+      "059 105 251 AA",
+      "059 105 251 AD",
+      "059 105 251 AF",
+      "059 105 251 AG",
+      "059 105 251 AH",
+      "059 105 251 AJ",
+      "059 105 251 AQ",
+      "059 105 251 AR",
+      "059 105 251 AS",
+      "059 105 251 AT",
+      "059 105 251 BB",
+      "059 105 251 BN",
+      "059 105 251 BP",
+      "059 105 251 BQ",
+      "059 105 251 DB",
+      "059 105 251 DJ",
+      "059 105 251 DL",
+      "059 105 251 S"
+    ]
+  },
+  "eanNumber": "3358960548955",
+  "attributes": {
+    "BoltHoleCircle": [],
+    "NumberOfGrooves": [],
+    "Diameter": [],
+    "InnerDiameter_1": [],
+    "InnerDiameter_2": [],
+    "KaburgaSayisi": [
+      "5"
+    ],
+    "SupplementaryInfo": [
+      "Bağlantısı ayrılmış, Montaj talimatı ile"
+    ],
+    "OuterDiameter": [
+      "193"
+    ],
+    "Parameter": [
+      "6PK"
+    ],
+    "VehicleEquipment": [
+      "Start stop fonksiyonuna sahip araçlar için, Start stop fonksiyonuna sahip olmayan araçlar için"
+    ],
+    "Thickness": [],
+    "Weight": [
+      "4,04"
+    ],
+    "Color": []
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "reference": "80000919",
+  "id": "80000919",
+  "name": "Kayış kasnağı, krank mili",
+  "brand": "CORTECO",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "FIAT": [
+      "504017415",
+      "504078435"
+    ],
+    "IVECO": [
+      "504017415",
+      "504078435"
+    ]
+  },
+  "eanNumber": "3358960344052",
+  "attributes": {
+    "BoltHoleCircle": [],
+    "NumberOfGrooves": [],
+    "Diameter": [],
+    "InnerDiameter_1": [],
+    "InnerDiameter_2": [],
+    "KaburgaSayisi": [
+      "6"
+    ],
+    "SupplementaryInfo": [
+      "Montaj talimatı ile"
+    ],
+    "OuterDiameter": [],
+    "Parameter": [
+      "7PK"
+    ],
+    "VehicleEquipment": [],
+    "Thickness": [],
+    "Weight": [
+      "2,37"
+    ],
+    "Color": []
+  }
+}

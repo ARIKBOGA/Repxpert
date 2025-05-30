@@ -1,176 +1,80 @@
 [
   {
-    "originalModel": "Escalade",
-    "normalizedModel": "ESCALADE",
-    "originalBrand": "CADILLAC (GM)",
-    "marka_id": 126
+    "Model": "HR-V (GH_)",
+    "normalizedModel": "HR V GH",
+    "Marka": "HONDA",
+    "marka_id": 35
   },
   {
-    "originalModel": "Silverado 1500",
-    "normalizedModel": "SILVERADO 1500",
-    "originalBrand": "CHEVROLET (GM)",
+    "Model": "REZZO MPV (U100) | TACUMA",
+    "normalizedModel": "REZZO MPV U100 TACUMA",
+    "Marka": "CHEVROLET",
     "marka_id": 52
   },
   {
-    "originalModel": "Suburban",
-    "normalizedModel": "SUBURBAN",
-    "originalBrand": "CHEVROLET (GM)",
+    "Model": "REZZO (U100) | TACUMA",
+    "normalizedModel": "REZZO U100 TACUMA",
+    "Marka": "DAEWOO",
     "marka_id": 52
   },
   {
-    "originalModel": "Tahoe",
-    "normalizedModel": "TAHOE",
-    "originalBrand": "CHEVROLET (GM)",
-    "marka_id": 52
+    "Model": "ECLIPSE I (D2_A)",
+    "normalizedModel": "ECLIPSE I D2 A",
+    "Marka": "MITSUBISHI",
+    "marka_id": 42
   },
   {
-    "originalModel": "Sierra 1500",
-    "normalizedModel": "SIERRA 1500",
-    "originalBrand": "GMC",
-    "marka_id": 127
+    "Model": "GALANT VI (E3_A) | ETERNA",
+    "normalizedModel": "GALANT VI E3 A ETERNA",
+    "Marka": "MITSUBISHI",
+    "marka_id": 42
   },
   {
-    "originalModel": "Yukon",
-    "normalizedModel": "YUKON",
-    "originalBrand": "GMC",
-    "marka_id": 127
+    "Model": "GALANT VI Sedan (E3_A) | ETERNA",
+    "normalizedModel": "GALANT VI SEDAN E3 A ETERNA",
+    "Marka": "MITSUBISHI",
+    "marka_id": 42
   },
   {
-    "originalModel": "Gran Max",
-    "normalizedModel": "GRAN MAX",
-    "originalBrand": "DAIHATSU",
-    "marka_id": 67
+    "Model": "GALANT VII (E5_A, E7_A, E8_A)",
+    "normalizedModel": "GALANT VII E5 A E7 A E8 A",
+    "Marka": "MITSUBISHI",
+    "marka_id": 42
   },
   {
-    "originalModel": "Luxio",
-    "normalizedModel": "LUXIO",
-    "originalBrand": "DAIHATSU",
-    "marka_id": 67
+    "Model": "GALANT VII Sedan (E5_A, E7_A, E8_A) | ETERNA",
+    "normalizedModel": "GALANT VII SEDAN E5 A E7 A E8 A ETERNA",
+    "Marka": "MITSUBISHI",
+    "marka_id": 42
   },
   {
-    "originalModel": "Lite/Townace",
-    "normalizedModel": "LITE TOWNACE",
-    "originalBrand": "TOYOTA",
-    "marka_id": 31
+    "Model": "LANCER V (CB_A, CD_A, CE_A) | LIBERO",
+    "normalizedModel": "LANCER V CB A CD A CE A LIBERO",
+    "Marka": "MITSUBISHI",
+    "marka_id": 42
   },
   {
-    "originalModel": "Liteace",
-    "normalizedModel": "LITEACE",
-    "originalBrand": "TOYOTA",
-    "marka_id": 31
+    "Model": "SPACE WAGON (N3_W, N4_W) | EXPO | NIMBUS | CHARIOT",
+    "normalizedModel": "SPACE WAGON N3 W N4 W EXPO NIMBUS CHARIOT",
+    "Marka": "MITSUBISHI",
+    "marka_id": 42
   },
   {
-    "originalModel": "Liteace Truck",
-    "normalizedModel": "LITEACE TRUCK",
-    "originalBrand": "TOYOTA",
-    "marka_id": 31
+    "Model": "GL-SERISI (X166)",
+    "normalizedModel": "GL CLASS X166",
+    "Marka": "MERCEDES-BENZ",
+    "marka_id": 41
   },
   {
-    "originalModel": "Liteace Van",
-    "normalizedModel": "LITEACE VAN",
-    "originalBrand": "TOYOTA",
-    "marka_id": 31
+    "Model": "XC70 I Cross Country (295) | V70 XC | V70 XC / XC70",
+    "normalizedModel": "XC70 I CROSS COUNTRY 295 V70 XC V70 XC XC70",
+    "Marka": "VOLVO",
+    "marka_id": 77
   },
   {
-    "originalModel": "Townace Truck",
-    "normalizedModel": "TOWNACE TRUCK",
-    "originalBrand": "TOYOTA",
-    "marka_id": 31
-  },
-  {
-    "originalModel": "Tiggo 8 Pro Max",
-    "normalizedModel": "TIGGO 8 PRO MAX",
-    "originalBrand": "CHERY",
-    "marka_id": 69
-  },
-  {
-    "originalModel": "J7",
-    "normalizedModel": "J7",
-    "originalBrand": "JAECOO (CHERY)",
-    "marka_id": 99
-  },
-  {
-    "originalModel": "GS",
-    "normalizedModel": "GS",
-    "originalBrand": "MG (SAIC)",
-    "marka_id": 87
-  },
-  {
-    "originalModel": "HS",
-    "normalizedModel": "HS",
-    "originalBrand": "MG (SAIC)",
-    "marka_id": 87
-  },
-  {
-    "originalModel": "RX5",
-    "normalizedModel": "RX5",
-    "originalBrand": "MG (SAIC)",
-    "marka_id": 87
-  },
-  {
-    "originalModel": "AVALANCHE",
-    "normalizedModel": "AVALANCHE",
-    "originalBrand": "CHEVROLET",
-    "marka_id": 52
-  },
-  {
-    "originalModel": "VISION Sedan | FC",
-    "normalizedModel": "VISION SEDAN FC",
-    "originalBrand": "GEELY",
-    "marka_id": 110
-  },
-  {
-    "originalModel": "DUSTER (HM_)",
-    "normalizedModel": "DUSTER HM",
-    "originalBrand": "RENAULT",
-    "marka_id": 46
-  },
-  {
-    "originalModel": "DUSTER (HS_)",
-    "normalizedModel": "DUSTER HS",
-    "originalBrand": "RENAULT",
-    "marka_id": 46
-  },
-  {
-    "originalModel": "PATHFINDER I (WD21) | TERRANO",
-    "normalizedModel": "PATHFINDER I WD21 TERRANO",
-    "originalBrand": "NISSAN",
-    "marka_id": 43
-  },
-  {
-    "originalModel": "PICK UP (D21) | NAVARA | DATSUN",
-    "normalizedModel": "PICK UP D21 NAVARA DATSUN",
-    "originalBrand": "NISSAN",
-    "marka_id": 43
-  },
-  {
-    "originalModel": "TERRANO I (WD21) | PATHFINDER",
-    "normalizedModel": "TERRANO I WD21 PATHFINDER",
-    "originalBrand": "NISSAN",
-    "marka_id": 43
-  },
-  {
-    "originalModel": "URVAN Minibüs/Otobüs (E23)",
-    "normalizedModel": "URVAN BUS E23",
-    "originalBrand": "NISSAN",
-    "marka_id": 43
-  },
-  {
-    "originalModel": "URVAN Minibüs/Otobüs (E24) | CARAVAN",
-    "normalizedModel": "URVAN BUS E24 CARAVAN",
-    "originalBrand": "NISSAN",
-    "marka_id": 43
-  },
-  {
-    "originalModel": "URVAN Panelvan/Van (E24) | CARAVAN",
-    "normalizedModel": "URVAN PANELVAN VAN E24 CARAVAN",
-    "originalBrand": "NISSAN",
-    "marka_id": 43
-  },
-  {
-    "originalModel": "VANETTE Minibüs/Otobüs (C22) | ICHI VAN | NOMAD | VANETTE / LARGO VAN",
-    "normalizedModel": "VANETTE BUS C22 ICHI VAN NOMAD VANETTE LARGO VAN",
-    "originalBrand": "NISSAN",
-    "marka_id": 43
+    "Model": "XC90 I (275)",
+    "normalizedModel": "XC90 I 275",
+    "Marka": "VOLVO",
+    "marka_id": 77
   }
 ]

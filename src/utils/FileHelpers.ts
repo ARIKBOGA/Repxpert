@@ -32,7 +32,7 @@ export function getSubfolderNamesSync(dirPath: string): string[] {
 
 
 export const padPairs: ProductReference[] = [
-  // { yvNo: "20341401", brandRefs: { "ICER": "180324" } },
+  { yvNo: "20341401", brandRefs: { "ICER": "180324" } },
   { yvNo: "21201201", brandRefs: { "ICER": "181366" } },
   { yvNo: "21312201", brandRefs: { "ICER": "180752-701" } },
   { yvNo: "21347201", brandRefs: { "ICER": "140884" } },
@@ -83,12 +83,38 @@ export const discPairs: ProductReference[] = [
 
 ];
 
+export const crankshaftPairs : ProductReference[] = [
+  { yvNo: "7050010", brandRefs: { "FAI": "FVD1117" } }, // 04L105251
+  { yvNo: "7051010", brandRefs: { "CORTECO": "80004350" } }, // 059105251AA
+  { yvNo: "7052010", brandRefs: { "CORTECO": "80000835" } }, // 6C1Q6B319EA
+  { yvNo: "7053010", brandRefs: { "RIDEX": "3213B0103" } }, // 12303AD200
+  { yvNo: "7054010", brandRefs: { "WILMINK": "WG2258147" } }, // 12303EB300
+  { yvNo: "7055010", brandRefs: { "CAUTEX": "754662" } }, // 13810P2K003
+  { yvNo: "7056010", brandRefs: { "RUVILLE": "520378" } }, // 13810PWA003
+  { yvNo: "7057010", brandRefs: { "CORTECO": "80000990" } }, // 30637335
+  { yvNo: "7058010", brandRefs: { "RIDEX": "3213B0013" } }, // 96419497
+  { yvNo: "7059010", brandRefs: { "CORTECO": "80000919" } }, // 504017415
+  { yvNo: "7060010", brandRefs: { "RUVILLE": "520398" } }, // 1340811012
+  { yvNo: "7061010", brandRefs: { "CORTECO": "49378102" } }, // 1347015110
+  { yvNo: "7062010", brandRefs: { "CORTECO": "80000544" } }, // 1660300103
+  { yvNo: "7063010", brandRefs: { "CORTECO": "80001111" } }, // 640 030 02 03
+  { yvNo: "7064010", brandRefs: { "CORTECO": "80001108" } }, // 6110300103
+  { yvNo: "7065010", brandRefs: { "CORTECO": "80000819" } }, // 6420300403
+  { yvNo: "7066010", brandRefs: { "KRAFTVOLL": "15050090" } }, // 7700273916
+  { yvNo: "7067010", brandRefs: { "CORTECO": "49467798" } }, // 11238477129
+  { yvNo: "7068010", brandRefs: { "RIDEX": "3213B0032" } }, // MD338316
+];
+
+
+
 export function lookupReference(productType: string): Map<string, string> {
   switch (productType) {
-    case "Pads":
+    case "Pad":
+      return new Map<string, string>(padPairs.map(x => [Object.values(x.brandRefs)[0], x.yvNo]));
+    case "Disc":
       return new Map<string, string>(discPairs.map(x => [Object.values(x.brandRefs)[0], x.yvNo]));
-    case "Discs":
-      return new Map<string, string>(discPairs.map(x => [Object.values(x.brandRefs)[0], x.yvNo]));
+    case "Crankshaft":
+      return new Map<string, string>(crankshaftPairs.map(x => [Object.values(x.brandRefs)[0], x.yvNo]));
     default:
       console.log("Unknown product type:", productType);
       return new Map<string, string>();

@@ -4,8 +4,8 @@ import fs from "fs";
 import path from "path";
 import { addToRetryList, getTextContent } from "../utils/extractHelpers";
 import { selector } from "../utils/Selectors";
-import { readJsonFile, retryListFilePath, padPairs, discPairs } from "../utils/FileHelpers";
-import { goToSearchResults, ProductReference, readProductReferencesFromExcel } from "../utils/ScraperHelpers";
+import { readJsonFile, retryListFilePath, padPairs, discPairs, crankshaftPairs } from "../utils/FileHelpers";
+import { goToSearchResults, ProductReference } from "../utils/ScraperHelpers";
 
 
 // Çalışılacak ürün tipini seç
@@ -13,7 +13,7 @@ const productType = process.env.PRODUCT_TYPE as string; // Örnek: 'Pads', 'Disc
 //const filterBrand = process.env.FILTER_BRAND_APPLICATION as string; // Örnek: 'ICER', 'TEXTAR' vb.
 
 // Ürün tipine karşılık gelen Excel dosyasından katalog bilgilerini oku
-const references : ProductReference[] = readProductReferencesFromExcel(productType);
+// const references : ProductReference[] = readProductReferencesFromExcel(productType);
 
 const scrapedCrosses : Set<string> = new Set<string>();
 
@@ -21,7 +21,7 @@ let retryList = readJsonFile<string[]>(retryListFilePath, []);
 
 test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
 
-  for (const ref of discPairs) {
+  for (const ref of crankshaftPairs) {
     // Excel den okunan satırlardan yvNo ve brandRefs değerlerini al
     const { yvNo, brandRefs } = ref;
     const filterBrand = Object.keys(brandRefs)[0];
@@ -162,7 +162,7 @@ test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
           await page.waitForTimeout(1000);
         }
 
-        const productProducerFolderPath = path.join(`src/data/Gathered_Informations/${productType}/Applications/TR/NewlyAdded`,productProducer || "UnknownBrand");
+        const productProducerFolderPath = path.join(`src/data/Gathered_Informations/${productType}/Applications/TR`,productProducer || "UnknownBrand");
 
         if (!fs.existsSync(productProducerFolderPath)) {
           fs.mkdirSync(productProducerFolderPath, { recursive: true });

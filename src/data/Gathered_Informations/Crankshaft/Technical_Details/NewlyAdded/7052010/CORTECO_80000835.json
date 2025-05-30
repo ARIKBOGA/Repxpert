@@ -1,0 +1,45 @@
+{
+  "reference": "80000835",
+  "id": "80000835",
+  "name": "Kayış kasnağı, krank mili",
+  "brand": "CORTECO",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "FORD": [
+      "1379766",
+      "1727140",
+      "1748942",
+      "6C1Q 6B319 EA",
+      "BK3Q 6B319 CA",
+      "BK3Q 6B319 CB"
+    ]
+  },
+  "eanNumber": "3358960283351",
+  "attributes": {
+    "BoltHoleCircle": [],
+    "NumberOfGrooves": [],
+    "Diameter": [],
+    "InnerDiameter_1": [],
+    "InnerDiameter_2": [],
+    "KaburgaSayisi": [
+      "6"
+    ],
+    "SupplementaryInfo": [
+      "Bağlantısı ayrılmış, Montaj talimatı ile"
+    ],
+    "OuterDiameter": [
+      "167"
+    ],
+    "Parameter": [
+      "7PK"
+    ],
+    "VehicleEquipment": [
+      "Start stop fonksiyonuna sahip araçlar için, Start stop fonksiyonuna sahip olmayan araçlar için"
+    ],
+    "Thickness": [],
+    "Weight": [
+      "2,6"
+    ],
+    "Color": []
+  }
+}

@@ -14,7 +14,7 @@ dotenv.config({ path: path.resolve(__dirname, 'src/data/Configs/.env') });
  * See https://playwright.dev/docs/test-configuration.
  */
 export default defineConfig({
-  //globalSetup: "./storage/globalSetup.ts",
+  globalSetup: "./storage/globalSetup.ts",
   timeout: 40 * 60 * 1000, // 40 dakika
   testDir: "./src",
   /* Run tests in files in parallel */

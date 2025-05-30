@@ -19502,13 +19502,6 @@
     "model_Web": "Transporter T6 Platform Şasi (SFD, SFE,SFL,SFZ,SJD,SJE)"
   },
   {
-    "id": 3092,
-    "marka_id": 51,
-    "modeller_markalar::marka": "SUZUKI",
-    "model": "Wagon R+ HB (MM) I Wagon R Solio",
-    "model_Web": "Wagon R+ HB (MM) I Wagon R Solio"
-  },
-  {
     "id": 3071,
     "marka_id": 37,
     "modeller_markalar::marka": "ISUZU",
@@ -19654,6 +19647,13 @@
     "modeller_markalar::marka": "OPEL",
     "model": "Corsa E HB Van (X15)",
     "model_Web": "Corsa E HB Van (X15)"
+  },
+  {
+    "id": 3092,
+    "marka_id": 51,
+    "modeller_markalar::marka": "SUZUKI",
+    "model": "Wagon R+ HB (MM) I Wagon R Solio",
+    "model_Web": "Wagon R+ HB (MM) I Wagon R Solio"
   },
   {
     "id": 3093,
@@ -33766,5 +33766,299 @@
     "modeller_markalar::marka": "NISSAN",
     "model": "VANETTE Minibüs/Otobüs (C22) | ICHI VAN | NOMAD | VANETTE / LARGO VAN",
     "model_Web": "VANETTE Minibüs/Otobüs (C22) | ICHI VAN | NOMAD | VANETTE / LARGO VAN"
+  },
+  {
+    "id": 5116,
+    "marka_id": 43,
+    "modeller_markalar::marka": "NISSAN",
+    "model": "URVAN Minibüs/Otobüs (E24)",
+    "model_Web": "URVAN Minibüs/Otobüs (E24)"
+  },
+  {
+    "id": 5117,
+    "marka_id": 43,
+    "modeller_markalar::marka": "NISSAN",
+    "model": "URVAN Panelvan/Van (E24)",
+    "model_Web": "URVAN Panelvan/Van (E24)"
+  },
+  {
+    "id": 5118,
+    "marka_id": 41,
+    "modeller_markalar::marka": "MERCEDES",
+    "model": "SPRINTER 4-t Minibüs/Otobüs (B904)",
+    "model_Web": "SPRINTER 4-t Minibüs/Otobüs (B904)"
+  },
+  {
+    "id": 5119,
+    "marka_id": 41,
+    "modeller_markalar::marka": "MERCEDES",
+    "model": "SPRINTER 4-t Panelvan/Van (B904)",
+    "model_Web": "SPRINTER 4-t Panelvan/Van (B904)"
+  },
+  {
+    "id": 5120,
+    "marka_id": 41,
+    "modeller_markalar::marka": "MERCEDES",
+    "model": "SPRINTER 4-t Platform şasi (B904)",
+    "model_Web": "SPRINTER 4-t Platform şasi (B904)"
+  },
+  {
+    "id": 5121,
+    "marka_id": 50,
+    "modeller_markalar::marka": "ALFA ROMEO",
+    "model": "33 (907_)",
+    "model_Web": "33 (907_)"
+  },
+  {
+    "id": 5122,
+    "marka_id": 50,
+    "modeller_markalar::marka": "ALFA ROMEO",
+    "model": "33 Sportwagon (907_)",
+    "model_Web": "33 Sportwagon (907_)"
+  },
+  {
+    "id": 5123,
+    "marka_id": 50,
+    "modeller_markalar::marka": "ALFA ROMEO",
+    "model": "GTV (916_)",
+    "model_Web": "GTV (916_)"
+  },
+  {
+    "id": 5124,
+    "marka_id": 34,
+    "modeller_markalar::marka": "FIAT",
+    "model": "COUPE (175_)",
+    "model_Web": "COUPE (175_)"
+  },
+  {
+    "id": 5125,
+    "marka_id": 75,
+    "modeller_markalar::marka": "LANCIA",
+    "model": "THEMA (834_)",
+    "model_Web": "THEMA (834_)"
+  },
+  {
+    "id": 5126,
+    "marka_id": 75,
+    "modeller_markalar::marka": "LANCIA",
+    "model": "THEMA SW (834_)",
+    "model_Web": "THEMA SW (834_)"
+  },
+  {
+    "id": 5127,
+    "marka_id": 76,
+    "modeller_markalar::marka": "SEAT",
+    "model": "CORDOBA VARIO Kombi van (6K5)",
+    "model_Web": "CORDOBA VARIO Kombi van (6K5)"
+  },
+  {
+    "id": 5128,
+    "marka_id": 35,
+    "modeller_markalar::marka": "HONDA",
+    "model": "PRELUDE III (BA)",
+    "model_Web": "PRELUDE III (BA)"
+  },
+  {
+    "id": 5129,
+    "marka_id": 47,
+    "modeller_markalar::marka": "ROVER",
+    "model": "CITYROVER Hatchback",
+    "model_Web": "CITYROVER Hatchback"
+  },
+  {
+    "id": 5130,
+    "marka_id": 47,
+    "modeller_markalar::marka": "ROVER",
+    "model": "COUPE",
+    "model_Web": "COUPE"
+  },
+  {
+    "id": 5131,
+    "marka_id": 52,
+    "modeller_markalar::marka": "DAEWOO- CHEVROLET",
+    "model": "ARANOS | ESPERO",
+    "model_Web": "ARANOS | ESPERO"
+  },
+  {
+    "id": 5132,
+    "marka_id": 52,
+    "modeller_markalar::marka": "DAEWOO- CHEVROLET",
+    "model": "CIELO",
+    "model_Web": "CIELO"
+  },
+  {
+    "id": 5133,
+    "marka_id": 52,
+    "modeller_markalar::marka": "DAEWOO- CHEVROLET",
+    "model": "ESPERO (KLEJ)",
+    "model_Web": "ESPERO (KLEJ)"
+  },
+  {
+    "id": 5134,
+    "marka_id": 52,
+    "modeller_markalar::marka": "DAEWOO- CHEVROLET",
+    "model": "CAPTIVA (C100, C140)",
+    "model_Web": "CAPTIVA (C100, C140)"
+  },
+  {
+    "id": 5135,
+    "marka_id": 52,
+    "modeller_markalar::marka": "DAEWOO- CHEVROLET",
+    "model": "CAPTIVA SPORT",
+    "model_Web": "CAPTIVA SPORT"
+  },
+  {
+    "id": 5136,
+    "marka_id": 52,
+    "modeller_markalar::marka": "DAEWOO- CHEVROLET",
+    "model": "CAPTIVA Van (C100)",
+    "model_Web": "CAPTIVA Van (C100)"
+  },
+  {
+    "id": 5137,
+    "marka_id": 44,
+    "modeller_markalar::marka": "OPEL",
+    "model": "ANTARA A (L07)",
+    "model_Web": "ANTARA A (L07)"
+  },
+  {
+    "id": 5138,
+    "marka_id": 32,
+    "modeller_markalar::marka": "FORD",
+    "model": "FOCUS IV (HN)",
+    "model_Web": "FOCUS IV (HN)"
+  },
+  {
+    "id": 5139,
+    "marka_id": 32,
+    "modeller_markalar::marka": "FORD",
+    "model": "FOCUS IV Sedan (HM)",
+    "model_Web": "FOCUS IV Sedan (HM)"
+  },
+  {
+    "id": 5140,
+    "marka_id": 32,
+    "modeller_markalar::marka": "FORD",
+    "model": "FOCUS IV Turnier (HP)",
+    "model_Web": "FOCUS IV Turnier (HP)"
+  },
+  {
+    "id": 5141,
+    "marka_id": 32,
+    "modeller_markalar::marka": "FORD",
+    "model": "GALAXY III (CK)",
+    "model_Web": "GALAXY III (CK)"
+  },
+  {
+    "id": 5142,
+    "marka_id": 32,
+    "modeller_markalar::marka": "FORD",
+    "model": "GALAXY MK III VAN (CK)",
+    "model_Web": "GALAXY MK III VAN (CK)"
+  },
+  {
+    "id": 5143,
+    "marka_id": 85,
+    "modeller_markalar::marka": "FORD USA",
+    "model": "EDGE",
+    "model_Web": "EDGE"
+  },
+  {
+    "id": 5144,
+    "marka_id": 114,
+    "modeller_markalar::marka": "CUPRA",
+    "model": "FORMENTOR (KM7, KMP) | CUPRA",
+    "model_Web": "FORMENTOR (KM7, KMP) | CUPRA"
+  },
+  {
+    "id": 5145,
+    "marka_id": 35,
+    "modeller_markalar::marka": "HONDA",
+    "model": "HR-V (GH_)",
+    "model_Web": "HR-V (GH_)"
+  },
+  {
+    "id": 5146,
+    "marka_id": 52,
+    "modeller_markalar::marka": "DAEWOO- CHEVROLET",
+    "model": "REZZO MPV (U100) | TACUMA",
+    "model_Web": "REZZO MPV (U100) | TACUMA"
+  },
+  {
+    "id": 5147,
+    "marka_id": 52,
+    "modeller_markalar::marka": "DAEWOO- CHEVROLET",
+    "model": "REZZO (U100) | TACUMA",
+    "model_Web": "REZZO (U100) | TACUMA"
+  },
+  {
+    "id": 5148,
+    "marka_id": 42,
+    "modeller_markalar::marka": "MITSUBISHI",
+    "model": "ECLIPSE I (D2_A)",
+    "model_Web": "ECLIPSE I (D2_A)"
+  },
+  {
+    "id": 5149,
+    "marka_id": 42,
+    "modeller_markalar::marka": "MITSUBISHI",
+    "model": "GALANT VI (E3_A) | ETERNA",
+    "model_Web": "GALANT VI (E3_A) | ETERNA"
+  },
+  {
+    "id": 5150,
+    "marka_id": 42,
+    "modeller_markalar::marka": "MITSUBISHI",
+    "model": "GALANT VI Sedan (E3_A) | ETERNA",
+    "model_Web": "GALANT VI Sedan (E3_A) | ETERNA"
+  },
+  {
+    "id": 5151,
+    "marka_id": 42,
+    "modeller_markalar::marka": "MITSUBISHI",
+    "model": "GALANT VII (E5_A, E7_A, E8_A)",
+    "model_Web": "GALANT VII (E5_A, E7_A, E8_A)"
+  },
+  {
+    "id": 5152,
+    "marka_id": 42,
+    "modeller_markalar::marka": "MITSUBISHI",
+    "model": "GALANT VII Sedan (E5_A, E7_A, E8_A) | ETERNA",
+    "model_Web": "GALANT VII Sedan (E5_A, E7_A, E8_A) | ETERNA"
+  },
+  {
+    "id": 5153,
+    "marka_id": 42,
+    "modeller_markalar::marka": "MITSUBISHI",
+    "model": "LANCER V (CB_A, CD_A, CE_A) | LIBERO",
+    "model_Web": "LANCER V (CB_A, CD_A, CE_A) | LIBERO"
+  },
+  {
+    "id": 5154,
+    "marka_id": 42,
+    "modeller_markalar::marka": "MITSUBISHI",
+    "model": "SPACE WAGON (N3_W, N4_W) | EXPO | NIMBUS | CHARIOT",
+    "model_Web": "SPACE WAGON (N3_W, N4_W) | EXPO | NIMBUS | CHARIOT"
+  },
+  {
+    "id": 5155,
+    "marka_id": 41,
+    "modeller_markalar::marka": "MERCEDES",
+    "model": "GL-SERISI (X166)",
+    "model_Web": "GL-SERISI (X166)"
+  },
+  {
+    "id": 5156,
+    "marka_id": 77,
+    "modeller_markalar::marka": "VOLVO",
+    "model": "XC70 I Cross Country (295) | V70 XC | V70 XC / XC70",
+    "model_Web": "XC70 I Cross Country (295) | V70 XC | V70 XC / XC70"
+  },
+  {
+    "id": 5157,
+    "marka_id": 77,
+    "modeller_markalar::marka": "VOLVO",
+    "model": "XC90 I (275)",
+    "model_Web": "XC90 I (275)"
   }
 ]
