@@ -1,0 +1,67 @@
+{
+  "reference": "09.N235.21",
+  "id": "09.N235.21",
+  "name": "Fren diski PRIME LINE - UV Coated",
+  "brand": "BREMBO",
+  "brand_oe_map": {
+    "DODGE": [
+      "68035022AB"
+    ],
+    "JEEP": [
+      "00K68035022AB",
+      "00K68035022AC",
+      "00K68035022AD",
+      "00K68035022AE",
+      "2AMV5022AD",
+      "68035022AB",
+      "68035022AC",
+      "68035022AD",
+      "68035022AE",
+      "68040048AA",
+      "68240048AA",
+      "68240048AB"
+    ]
+  },
+  "eanNumber": "8020584238950",
+  "disc": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "22"
+    ],
+    "MinimumThicknessValues": [
+      "20,5"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "64"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "330"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [
+      "6"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "72"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

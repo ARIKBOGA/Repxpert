@@ -1,0 +1,61 @@
+{
+  "reference": "DF2607",
+  "id": "DF2607",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "MAZDA": [
+      "GJ96-33-25XA"
+    ]
+  },
+  "eanNumber": "3322937076338",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "20"
+    ],
+    "MinimumThicknessValues": [
+      "18"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "37,5"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "242"
+    ],
+    "BoltHoleCircle": [
+      "94"
+    ],
+    "NumberOfHoles": [
+      "4"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E1 90R-02 C0176/0732"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "75"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "10,6"
+    ]
+  }
+}

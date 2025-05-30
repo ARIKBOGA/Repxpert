@@ -1,0 +1,71 @@
+{
+  "reference": "78BD4692-2",
+  "id": "78BD4692-2",
+  "name": "Fren diski",
+  "brand": "ICER",
+  "brand_oe_map": {
+    "CITROËN": [
+      "16 188 903 80",
+      "4246.R1",
+      "4246.R4",
+      "4249.82"
+    ],
+    "PEUGEOT": [
+      "4246.R2"
+    ]
+  },
+  "eanNumber": "8424073146199",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "11"
+    ],
+    "MinimumThicknessValues": [
+      "11"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "27"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "266"
+    ],
+    "BoltHoleCircle": [
+      "108"
+    ],
+    "NumberOfHoles": [
+      "4"
+    ],
+    "AxleVersion": [
+      "Front"
+    ],
+    "TechnicalInformationNumber": [
+      "78BD4692-2"
+    ],
+    "TestMark": [
+      "E1 90R-02C0100/0776, E1 90R-02C0415/0009, E4 90R-02C0722/2597"
+    ],
+    "Diameter": [
+      "66"
+    ],
+    "Thickness": [
+      "13"
+    ],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "66"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "4"
+    ],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

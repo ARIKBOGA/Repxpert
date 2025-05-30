@@ -1,0 +1,96 @@
+{
+  "reference": "DF2804",
+  "id": "DF2804",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "AUDI": [
+      "1J0 615 301 E",
+      "1J0 615 301 M",
+      "1J0 615 301 P",
+      "1JO 615 301 E"
+    ],
+    "BRILLIANCE": [
+      "4096025"
+    ],
+    "SEAT": [
+      "1J0 615 301 E",
+      "1J0 615 301 M",
+      "1J0 615 301 P",
+      "1JO 615 301 E",
+      "JZW 615 301"
+    ],
+    "SKODA": [
+      "1J0 615 301 E",
+      "1J0 615 301 M",
+      "1J0 615 301 P",
+      "1JO 615 301 E",
+      "JZW 615 301"
+    ],
+    "VW": [
+      "1J0 615 301 E",
+      "1J0 615 301 M",
+      "1J0 615 301 P",
+      "1JO 615 301 E",
+      "1JO 615 301 M",
+      "JZW 615 301"
+    ],
+    "VW (SVW)": [
+      "1JD 615 301"
+    ]
+  },
+  "eanNumber": "3322937204939",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "22"
+    ],
+    "MinimumThicknessValues": [
+      "19"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "36,6"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "280"
+    ],
+    "BoltHoleCircle": [
+      "100"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E190R-02 C0185/0609"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Cıvatalar ile"
+    ],
+    "CenteringDiameter": [
+      "65"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [
+      "Yüksek karbonlu"
+    ],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "16"
+    ]
+  }
+}

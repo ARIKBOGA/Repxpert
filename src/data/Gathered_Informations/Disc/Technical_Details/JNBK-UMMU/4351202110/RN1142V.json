@@ -1,0 +1,60 @@
+{
+  "oe": "4351202110",
+  "productID": "RN1142V",
+  "productType": "ROTOR DISC",
+  "specifications": {
+    "Type": "Vented",
+    "Disc Thickness (Max)": "25",
+    "Num. of holes": "5",
+    "Height": "49.4",
+    "Centering Diameter": "55",
+    "Front/Rear": "Front",
+    "Pitch Circle Ø": "100",
+    "Outter Ø": "275",
+    "Disc Thickness (Min)": "23",
+    "Drum Ø:": "129",
+    "Structure Material": "G3000"
+  },
+  "crossReferences": [
+    {
+      "brand": "GM",
+      "oe": "88970123"
+    },
+    {
+      "brand": "GM",
+      "oe": "88970124"
+    },
+    {
+      "brand": "GM",
+      "oe": "88974262"
+    },
+    {
+      "brand": "OEM",
+      "oe": "4351220740"
+    },
+    {
+      "brand": "TOYOTA",
+      "oe": "43512-02110"
+    },
+    {
+      "brand": "TOYOTA",
+      "oe": "43512-02111"
+    },
+    {
+      "brand": "TOYOTA",
+      "oe": "43512-02130"
+    },
+    {
+      "brand": "TOYOTA",
+      "oe": "43512-20710"
+    },
+    {
+      "brand": "TOYOTA",
+      "oe": "43512-20711"
+    },
+    {
+      "brand": "TOYOTA",
+      "oe": "43512-63010"
+    }
+  ]
+}

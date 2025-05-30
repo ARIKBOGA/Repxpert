@@ -1,0 +1,32 @@
+{
+  "oe": "26700FG000",
+  "productID": "RN1529",
+  "productType": "ROTOR DISC",
+  "specifications": {
+    "Type": "Solid",
+    "Disc Thickness (Max)": "10",
+    "Num. of holes": "5",
+    "Height": "63.4",
+    "Centering Diameter": "58",
+    "Front/Rear": "Rear",
+    "Pitch Circle Ø": "100",
+    "Outter Ø": "286",
+    "Drum Ø:": "190",
+    "Disc Thickness (Min)": "8.5",
+    "Structure Material": "G3000"
+  },
+  "crossReferences": [
+    {
+      "brand": "SUBARU",
+      "oe": "26700-AJ00A"
+    },
+    {
+      "brand": "SUBARU",
+      "oe": "26700-FG000"
+    },
+    {
+      "brand": "TOYOTA",
+      "oe": "SU003-00639"
+    }
+  ]
+}

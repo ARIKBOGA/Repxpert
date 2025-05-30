@@ -1,0 +1,70 @@
+{
+  "reference": "DF2780",
+  "id": "DF2780",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "SEAT": [
+      "6N0 615 301 C",
+      "6N0 615 301 F",
+      "6NO 615 301 C"
+    ],
+    "VW": [
+      "6N0 615 301 C",
+      "6N0 615 301 F",
+      "6NO 615 301 C"
+    ]
+  },
+  "eanNumber": "3322937184798",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "18"
+    ],
+    "MinimumThicknessValues": [
+      "16"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "34,3"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "239"
+    ],
+    "BoltHoleCircle": [
+      "100"
+    ],
+    "NumberOfHoles": [
+      "4"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E190R-02 C0185/0624"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "65"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [
+      "Yüksek karbonlu"
+    ],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "13,6"
+    ]
+  }
+}

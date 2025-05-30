@@ -1,0 +1,78 @@
+{
+  "reference": "92115603",
+  "id": "92115603",
+  "name": "Fren diski PRO",
+  "brand": "TEXTAR",
+  "brand_oe_map": {
+    "ENGLON": [
+      "1014001811"
+    ],
+    "GEELY": [
+      "1014001811"
+    ],
+    "TOYOTA": [
+      "435120D020",
+      "435120D030",
+      "435120D050",
+      "435120D120",
+      "4351217120",
+      "4351217130",
+      "4351217131",
+      "4351252030",
+      "4351252040",
+      "4351252090"
+    ]
+  },
+  "eanNumber": "4019722309328",
+  "disc": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "20"
+    ],
+    "MinimumThicknessValues": [
+      "18"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "43"
+    ],
+    "InnerDiameter": [
+      "129"
+    ],
+    "OuterDiameter": [
+      "255"
+    ],
+    "BoltHoleCircle": [
+      "100"
+    ],
+    "NumberOfHoles": [
+      "04/06"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "55"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "04/06"
+    ],
+    "WheelBoltBoreDiameter": [
+      "14,5"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

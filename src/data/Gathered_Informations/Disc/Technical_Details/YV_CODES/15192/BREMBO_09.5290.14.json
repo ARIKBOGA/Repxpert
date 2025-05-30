@@ -1,0 +1,62 @@
+{
+  "reference": "09.5290.14",
+  "id": "09.5290.14",
+  "name": "Fren diski PRIME LINE",
+  "brand": "BREMBO",
+  "brand_oe_map": {
+    "ACURA": [
+      "45251SM4000",
+      "45251SM4010",
+      "45251SM4020"
+    ],
+    "HONDA": [
+      "45251SM4000",
+      "45251SM4010",
+      "45251SM4020",
+      "45251SM4020A",
+      "45251SN7E40"
+    ]
+  },
+  "eanNumber": "8020584012840",
+  "disc": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "23"
+    ],
+    "MinimumThicknessValues": [
+      "21"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "34"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "259"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [
+      "4"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "92"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [
+      "108"
+    ],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

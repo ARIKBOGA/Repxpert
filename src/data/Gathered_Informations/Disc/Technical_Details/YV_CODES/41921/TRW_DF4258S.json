@@ -1,0 +1,71 @@
+{
+  "reference": "DF4258S",
+  "id": "DF4258S",
+  "name": "Fren diski TRW SINGLE",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "AUDI": [
+      "8D0 615 301 K",
+      "8D0 615 301 M",
+      "8E0 615 301 AD"
+    ],
+    "SEAT": [
+      "8E0 615 301 AD"
+    ],
+    "SKODA": [
+      "8E0 615 301 AD"
+    ]
+  },
+  "eanNumber": "3322937404926",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "30"
+    ],
+    "MinimumThicknessValues": [
+      "28"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "46,5"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "321"
+    ],
+    "BoltHoleCircle": [
+      "112"
+    ],
+    "NumberOfHoles": [
+      "10"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E1 90R-02 C0185/0631"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Cıvatalar ile"
+    ],
+    "CenteringDiameter": [
+      "68"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "15,3"
+    ]
+  }
+}

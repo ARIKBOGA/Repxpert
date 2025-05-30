@@ -1,0 +1,61 @@
+{
+  "reference": "DF4992S",
+  "id": "DF4992S",
+  "name": "Fren diski TRW SINGLE",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "IVECO": [
+      "2996028"
+    ]
+  },
+  "eanNumber": "3322937951581",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "16"
+    ],
+    "MinimumThicknessValues": [
+      "13"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "69,5"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "296"
+    ],
+    "BoltHoleCircle": [
+      "125"
+    ],
+    "NumberOfHoles": [
+      "6"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E190R-02C0190/0640"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "76"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "15,6"
+    ]
+  }
+}

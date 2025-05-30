@@ -1,0 +1,64 @@
+{
+  "reference": "09.B267.10",
+  "id": "09.B267.10",
+  "name": "Fren diski PRIME LINE",
+  "brand": "BREMBO",
+  "brand_oe_map": {
+    "CHEVROLET": [
+      "8973606770",
+      "94712570"
+    ],
+    "ISUZU": [
+      "8973606770",
+      "8973606771",
+      "8973606772",
+      "8973606780",
+      "8980062590",
+      "8980062591",
+      "97360677",
+      "98006259"
+    ]
+  },
+  "eanNumber": "8020584034491",
+  "disc": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "27"
+    ],
+    "MinimumThicknessValues": [
+      "25,6"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "40"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "280"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [
+      "6"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "88"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [
+      "118"
+    ],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

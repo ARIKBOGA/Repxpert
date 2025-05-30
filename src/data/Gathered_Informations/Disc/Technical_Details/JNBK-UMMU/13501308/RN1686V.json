@@ -1,0 +1,56 @@
+{
+  "oe": "13501308",
+  "productID": "RN1686V",
+  "productType": "ROTOR DISC",
+  "specifications": {
+    "Type": "Vented",
+    "Front/Rear": "Front",
+    "Outter Ø": "321",
+    "Num. of holes": "5",
+    "Disc Thickness (Max)": "30",
+    "Height": "51",
+    "Centering Diameter": "67.4",
+    "Pitch Circle Ø": "120",
+    "Drum Ø:": "160",
+    "Disc Thickness (Min)": "28.6",
+    "Structure Material": "G3000"
+  },
+  "crossReferences": [
+    {
+      "brand": "GM",
+      "oe": "13501308"
+    },
+    {
+      "brand": "GM",
+      "oe": "13501320"
+    },
+    {
+      "brand": "GM",
+      "oe": "13502214"
+    },
+    {
+      "brand": "GM",
+      "oe": "13579150"
+    },
+    {
+      "brand": "GM",
+      "oe": "23118055"
+    },
+    {
+      "brand": "GM",
+      "oe": "23118530"
+    },
+    {
+      "brand": "OPEL",
+      "oe": "05 69 064"
+    },
+    {
+      "brand": "OPEL",
+      "oe": "05 69 083"
+    },
+    {
+      "brand": "OPEL",
+      "oe": "05 69 422"
+    }
+  ]
+}

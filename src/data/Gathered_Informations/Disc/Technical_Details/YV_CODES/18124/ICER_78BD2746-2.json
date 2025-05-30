@@ -1,0 +1,69 @@
+{
+  "reference": "78BD2746-2",
+  "id": "78BD2746-2",
+  "name": "Fren diski",
+  "brand": "ICER",
+  "brand_oe_map": {
+    "AUDI": [
+      "8D0 615 601 A"
+    ],
+    "VW": [
+      "8D0 615 601 A",
+      "8E0 615 601 A"
+    ]
+  },
+  "eanNumber": "8424073144058",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "8"
+    ],
+    "MinimumThicknessValues": [
+      "8"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "48"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "245"
+    ],
+    "BoltHoleCircle": [
+      "112"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [
+      "Rear"
+    ],
+    "TechnicalInformationNumber": [
+      "78BD2746-2"
+    ],
+    "TestMark": [
+      "E1 90R-02C0100/0097, E1190R02C01049/43386"
+    ],
+    "Diameter": [
+      "68"
+    ],
+    "Thickness": [
+      "10"
+    ],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "68"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "5"
+    ],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

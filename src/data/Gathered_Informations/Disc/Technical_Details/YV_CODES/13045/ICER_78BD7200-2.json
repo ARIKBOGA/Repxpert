@@ -1,0 +1,67 @@
+{
+  "reference": "78BD7200-2",
+  "id": "78BD7200-2",
+  "name": "Fren diski",
+  "brand": "ICER",
+  "brand_oe_map": {
+    "MERCEDES-BENZ": [
+      "124 421 16 12",
+      "124 421 27 12",
+      "129 421 03 12"
+    ]
+  },
+  "eanNumber": "8424073148315",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "19,4"
+    ],
+    "MinimumThicknessValues": [
+      "19,4"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "43,5"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "284"
+    ],
+    "BoltHoleCircle": [
+      "120"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [
+      "Front"
+    ],
+    "TechnicalInformationNumber": [
+      "78BD7200-2"
+    ],
+    "TestMark": [
+      "E1 90R-02C0074/0858, E1 90R-02C0452/0083"
+    ],
+    "Diameter": [
+      "67"
+    ],
+    "Thickness": [
+      "22"
+    ],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "67"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "5"
+    ],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "reference": "DF4208",
+  "id": "DF4208",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "FORD": [
+      "1110251",
+      "1140278",
+      "YM212A315AB"
+    ],
+    "SEAT": [
+      "7D0 615 601 A",
+      "7D0 615 601 C"
+    ],
+    "SKODA": [
+      "7D0 615 601 A",
+      "7D0 615 601 C"
+    ],
+    "VW": [
+      "7D0 615 601 A",
+      "7D0 615 601 C"
+    ]
+  },
+  "eanNumber": "3322937321056",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "13,5"
+    ],
+    "MinimumThicknessValues": [
+      "11,5"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "41,2"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "294"
+    ],
+    "BoltHoleCircle": [
+      "112"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E190R-02C0190/0681"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "68,2"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "16,5"
+    ]
+  }
+}

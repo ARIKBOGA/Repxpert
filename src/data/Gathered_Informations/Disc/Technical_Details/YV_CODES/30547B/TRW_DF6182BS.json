@@ -1,0 +1,61 @@
+{
+  "reference": "DF6182BS",
+  "id": "DF6182BS",
+  "name": "Fren diski TRW SINGLE",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "RENAULT": [
+      "43 20 015 39R",
+      "43 20 018 68R",
+      "43 20 075 95R"
+    ]
+  },
+  "eanNumber": "3322938374495",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "8"
+    ],
+    "MinimumThicknessValues": [
+      "7"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "86,2"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "260"
+    ],
+    "BoltHoleCircle": [
+      "114,3"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "ABS sensör halkası ile, Tekerlek rulmanı ile"
+    ],
+    "CenteringDiameter": [
+      "54,9"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": []
+  }
+}

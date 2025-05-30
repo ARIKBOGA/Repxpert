@@ -1,0 +1,68 @@
+{
+  "reference": "78BD6028-2",
+  "id": "78BD6028-2",
+  "name": "Fren diski",
+  "brand": "ICER",
+  "brand_oe_map": {
+    "CHEVROLET": [
+      "9654 9630"
+    ],
+    "DAEWOO": [
+      "9654 9630"
+    ]
+  },
+  "eanNumber": "8424073147554",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "9"
+    ],
+    "MinimumThicknessValues": [
+      "9"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "57,5"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "258"
+    ],
+    "BoltHoleCircle": [
+      "114,3"
+    ],
+    "NumberOfHoles": [
+      "4"
+    ],
+    "AxleVersion": [
+      "Rear"
+    ],
+    "TechnicalInformationNumber": [
+      "78BD6028-2"
+    ],
+    "TestMark": [
+      "E1 90R-02C0241/1152, E1 90R-02C0453/0107"
+    ],
+    "Diameter": [
+      "60"
+    ],
+    "Thickness": [
+      "10,5"
+    ],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "60"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "4"
+    ],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

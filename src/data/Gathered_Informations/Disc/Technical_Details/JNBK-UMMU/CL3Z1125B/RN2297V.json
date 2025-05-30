@@ -1,0 +1,77 @@
+{
+  "oe": "CL3Z1125B",
+  "productID": "RN2297V",
+  "productType": "ROTOR DISC",
+  "specifications": {
+    "Type": "Vented",
+    "Outter Ø": "350",
+    "Num. of holes": "6",
+    "Hole Ø:": "15.6",
+    "Disc Thickness (Max)": "34",
+    "Disc Thickness (Min)": "32",
+    "Height": "49.5",
+    "Centering Diameter": "90",
+    "Pitch Circle Ø": "135",
+    "Drum Ø:": "195.5",
+    "Front/Rear": "Front",
+    "Structure Material": "G3000"
+  },
+  "crossReferences": [
+    {
+      "brand": "BENDIX",
+      "oe": "PRT5698"
+    },
+    {
+      "brand": "FORD",
+      "oe": "7L1Z-1125-A"
+    },
+    {
+      "brand": "FORD",
+      "oe": "7U2Z-1V125-HA"
+    },
+    {
+      "brand": "FORD",
+      "oe": "7U2Z-1V125-HC"
+    },
+    {
+      "brand": "FORD",
+      "oe": "8L1Z-1125-A"
+    },
+    {
+      "brand": "FORD",
+      "oe": "9L1Z-1125-A"
+    },
+    {
+      "brand": "FORD",
+      "oe": "AL3Z-1125-B"
+    },
+    {
+      "brand": "FORD",
+      "oe": "CL3Z-1125-B"
+    },
+    {
+      "brand": "FORD",
+      "oe": "CL3Z-1125-D"
+    },
+    {
+      "brand": "FORD",
+      "oe": "FL3Z-1125-A"
+    },
+    {
+      "brand": "FORD",
+      "oe": "G2MZ-1V125-AA"
+    },
+    {
+      "brand": "FORD",
+      "oe": "JL3Z-1125-A"
+    },
+    {
+      "brand": "FORD",
+      "oe": "JL3Z-1125-B"
+    },
+    {
+      "brand": "FORD",
+      "oe": "JL3Z-1125-C"
+    }
+  ]
+}

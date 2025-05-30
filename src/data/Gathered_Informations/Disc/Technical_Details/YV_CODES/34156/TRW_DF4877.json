@@ -1,0 +1,76 @@
+{
+  "reference": "DF4877",
+  "id": "DF4877",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "LEXUS": [
+      "43512-47040",
+      "43512-47050"
+    ],
+    "TOYOTA": [
+      "43512-20470",
+      "43512-20480",
+      "43512-20580",
+      "43512-20620",
+      "43512-20700",
+      "43512-20701",
+      "43512-32300",
+      "43512-47040",
+      "43512-47050"
+    ],
+    "TOYOTA (GAC)": [
+      "43512-47040"
+    ]
+  },
+  "eanNumber": "3322937950546",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "25"
+    ],
+    "MinimumThicknessValues": [
+      "23"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "49,3"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "255"
+    ],
+    "BoltHoleCircle": [
+      "100"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E1 90R-02 C0176/0704"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "55"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "14,8"
+    ]
+  }
+}

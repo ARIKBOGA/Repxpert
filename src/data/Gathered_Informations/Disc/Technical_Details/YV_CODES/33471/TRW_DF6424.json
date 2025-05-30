@@ -1,0 +1,76 @@
+{
+  "reference": "DF6424",
+  "id": "DF6424",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "FIAT": [
+      "51854567",
+      "51897455",
+      "51914663",
+      "52199580"
+    ],
+    "OPEL": [
+      "5 69 087",
+      "5 69 096",
+      "95511283",
+      "95515332"
+    ],
+    "VAUXHALL": [
+      "5 69 087",
+      "5 69 096",
+      "95511283",
+      "95515332"
+    ]
+  },
+  "eanNumber": "3322938169596",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "28"
+    ],
+    "MinimumThicknessValues": [
+      "26"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "45,8"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "305"
+    ],
+    "BoltHoleCircle": [
+      "98"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E1 90R-02 C0176/0650"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "59"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "13,2"
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "reference": "DF4806",
+  "id": "DF4806",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "SCION": [
+      "43512-52120"
+    ],
+    "TOYOTA": [
+      "43512-0D090",
+      "43512-0D190",
+      "43512-52120"
+    ],
+    "TOYOTA (FAW)": [
+      "435120D220"
+    ],
+    "TOYOTA (GAC)": [
+      "43512-0D230"
+    ]
+  },
+  "eanNumber": "3322937885442",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "22"
+    ],
+    "MinimumThicknessValues": [
+      "19"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "46,3"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "255"
+    ],
+    "BoltHoleCircle": [
+      "100"
+    ],
+    "NumberOfHoles": [
+      "4"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E1 90R-02 C0176/0531"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "55"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "14,5"
+    ]
+  }
+}

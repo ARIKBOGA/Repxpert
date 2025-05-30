@@ -1,0 +1,68 @@
+{
+  "reference": "09.9554.10",
+  "id": "09.9554.10",
+  "name": "Fren diski PRIME LINE",
+  "brand": "BREMBO",
+  "brand_oe_map": {
+    "HONDA": [
+      "45251S2G000",
+      "45251S50G00",
+      "45251S50J00",
+      "45251S50J01",
+      "45251SAAG00",
+      "45251SAAG10",
+      "45251SAAG11",
+      "45251SAAG12",
+      "45251SELT00",
+      "45251SELT10"
+    ],
+    "HONDA (GAC)": [
+      "45251SENH20",
+      "45251SENH30"
+    ]
+  },
+  "eanNumber": "8020584955413",
+  "disc": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "21"
+    ],
+    "MinimumThicknessValues": [
+      "19"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "39"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "240"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [
+      "4"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Cıvatalar ile"
+    ],
+    "CenteringDiameter": [
+      "61"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [
+      "108"
+    ],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

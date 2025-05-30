@@ -1,0 +1,70 @@
+{
+  "reference": "DF4905",
+  "id": "DF4905",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "DAIHATSU": [
+      "43512-97402",
+      "43512-97402-000",
+      "43512-B1110"
+    ],
+    "SUBARU": [
+      "4351297402"
+    ],
+    "TOYOTA": [
+      "43512-97402",
+      "43512-B1110"
+    ]
+  },
+  "eanNumber": "3322937950829",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "17"
+    ],
+    "MinimumThicknessValues": [
+      "16"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "41,9"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "246"
+    ],
+    "BoltHoleCircle": [
+      "100"
+    ],
+    "NumberOfHoles": [
+      "4"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E1 90R-02 C0176/0732"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "55"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "13,2"
+    ]
+  }
+}

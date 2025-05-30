@@ -1,0 +1,68 @@
+[
+  {
+    "brand": "BMW",
+    "model": "1 Convertible (E88)",
+    "engineType": "123 d",
+    "madeYear": "09.2008 - 12.2013",
+    "kw": "150",
+    "hp": "204",
+    "cc": "1995",
+    "engineCodes": "N47 D20 D  N47 D20 B",
+    "KBA_Numbers": "0005ARB  0005AND"
+  },
+  {
+    "brand": "BMW",
+    "model": "1 Convertible (E88)",
+    "engineType": "135 i",
+    "madeYear": "03.2008 - 10.2013",
+    "kw": "225",
+    "hp": "306",
+    "cc": "2979",
+    "engineCodes": "N55 B30 A  N54 B30 A",
+    "KBA_Numbers": "0005AQT  0005AMO"
+  },
+  {
+    "brand": "BMW",
+    "model": "1 Convertible (E88)",
+    "engineType": "135 i",
+    "madeYear": "03.2008 - 12.2013",
+    "kw": "240",
+    "hp": "326",
+    "cc": "2979",
+    "engineCodes": "N55 B30 A",
+    "KBA_Numbers": "0005ASX  0005APC"
+  },
+  {
+    "brand": "BMW",
+    "model": "1 Coupe (E82)",
+    "engineType": "123 d",
+    "madeYear": "10.2007 - 09.2013",
+    "kw": "150",
+    "hp": "204",
+    "cc": "1995",
+    "engineCodes": "N47 D20 D  N47 D20 B",
+    "KBA_Numbers": "0005AKE  0005ARA"
+  },
+  {
+    "brand": "BMW",
+    "model": "1 Coupe (E82)",
+    "engineType": "135 i",
+    "madeYear": "10.2007 - 10.2013",
+    "kw": "225",
+    "hp": "306",
+    "cc": "2979",
+    "engineCodes": "N55 B30 A  N54 B30 A",
+    "KBA_Numbers": "0005AQU  0005AKB"
+  },
+  {
+    "brand": "BMW",
+    "model": "1 Coupe (E82)",
+    "engineType": "135 i",
+    "madeYear": "10.2007 - 10.2013",
+    "kw": "240",
+    "hp": "326",
+    "cc": "2979",
+    "engineCodes": "N55 B30 A  N54 B30 A",
+    "KBA_Numbers": "0005ASW  0005APD"
+  }
+]

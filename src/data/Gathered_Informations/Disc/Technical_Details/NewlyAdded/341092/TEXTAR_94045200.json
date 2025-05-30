@@ -1,0 +1,55 @@
+{
+  "reference": "94045200",
+  "id": "94045200",
+  "name": "Fren kampanası",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "DAIHATSU": [
+      "424310D030000"
+    ],
+    "TOYOTA": [
+      "424310D030"
+    ]
+  },
+  "eanNumber": "4019722543104",
+  "attributes": {
+    "Type": [],
+    "ThicknessValues": [],
+    "MinimumThicknessValues": [],
+    "Surface": [],
+    "HeightValues": [],
+    "InnerDiameter": [],
+    "OuterDiameter": [],
+    "BoltHoleCircle": [
+      "100"
+    ],
+    "NumberOfHoles": [
+      "04/06"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "55"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "04/06"
+    ],
+    "WheelBoltBoreDiameter": [
+      "8"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [
+      "4,1"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

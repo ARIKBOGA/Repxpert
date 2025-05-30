@@ -1,0 +1,65 @@
+{
+  "reference": "78BD4669-2",
+  "id": "78BD4669-2",
+  "name": "Fren diski",
+  "brand": "ICER",
+  "brand_oe_map": {
+    "BMW": [
+      "34 11 6 792 223"
+    ]
+  },
+  "eanNumber": "8424073146069",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "28,5"
+    ],
+    "MinimumThicknessValues": [
+      "28,5"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "73,3"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "340"
+    ],
+    "BoltHoleCircle": [
+      "120"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [
+      "Front"
+    ],
+    "TechnicalInformationNumber": [
+      "78BD4669-2"
+    ],
+    "TestMark": [
+      "E1 90R-02C0339/1376, E1190R02C01049/52382"
+    ],
+    "Diameter": [
+      "79"
+    ],
+    "Thickness": [
+      "30"
+    ],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "79"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "5"
+    ],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

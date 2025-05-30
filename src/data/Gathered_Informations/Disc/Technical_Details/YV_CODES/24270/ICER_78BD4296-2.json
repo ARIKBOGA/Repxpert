@@ -1,0 +1,67 @@
+{
+  "reference": "78BD4296-2",
+  "id": "78BD4296-2",
+  "name": "Fren diski",
+  "brand": "ICER",
+  "brand_oe_map": {
+    "RENAULT": [
+      "77 00 800 003",
+      "77 01 204 296",
+      "77 01 205 845"
+    ]
+  },
+  "eanNumber": "8424073145833",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "9,5"
+    ],
+    "MinimumThicknessValues": [
+      "9,5"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "44,4"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "265"
+    ],
+    "BoltHoleCircle": [
+      "108"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [
+      "Rear"
+    ],
+    "TechnicalInformationNumber": [
+      "78BD4296-2"
+    ],
+    "TestMark": [
+      "E1 90R-02C0100/1257"
+    ],
+    "Diameter": [
+      "66"
+    ],
+    "Thickness": [
+      "10,5"
+    ],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "66"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "5"
+    ],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

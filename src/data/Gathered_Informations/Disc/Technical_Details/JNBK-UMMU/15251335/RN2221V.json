@@ -1,0 +1,44 @@
+{
+  "oe": "15251335",
+  "productID": "RN2221V",
+  "productType": "ROTOR DISC",
+  "specifications": {
+    "Type": "Vented",
+    "Outter Ø": "303",
+    "Num. of holes": "5",
+    "Disc Thickness (Max)": "30",
+    "Disc Thickness (Min)": "28.6",
+    "Height": "52",
+    "Centering Diameter": "70.6",
+    "Pitch Circle Ø": "115",
+    "Drum Ø:": "149",
+    "Front/Rear": "Front",
+    "Structure Material": "G3000"
+  },
+  "crossReferences": [
+    {
+      "brand": "BENDIX",
+      "oe": "PRT5654"
+    },
+    {
+      "brand": "GM",
+      "oe": "15251335"
+    },
+    {
+      "brand": "GM",
+      "oe": "20879454"
+    },
+    {
+      "brand": "GM",
+      "oe": "23127613"
+    },
+    {
+      "brand": "GM",
+      "oe": "25862792"
+    },
+    {
+      "brand": "GM",
+      "oe": "25955931"
+    }
+  ]
+}

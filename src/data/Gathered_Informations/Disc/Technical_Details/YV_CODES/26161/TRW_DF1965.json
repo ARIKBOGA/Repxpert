@@ -1,0 +1,69 @@
+{
+  "reference": "DF1965",
+  "id": "DF1965",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "FORD": [
+      "1954433",
+      "1954434"
+    ],
+    "NISSAN": [
+      "40206-0F000-",
+      "40206-0F001-",
+      "40206-31G00-",
+      "40206-31G01",
+      "40206-VJ200-"
+    ]
+  },
+  "eanNumber": "3322936196501",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "26"
+    ],
+    "MinimumThicknessValues": [
+      "24"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "39,2"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "277"
+    ],
+    "BoltHoleCircle": [
+      "124"
+    ],
+    "NumberOfHoles": [
+      "6"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E1 90R-02 C0176/0450"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "100"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "M10 x 1.25"
+    ]
+  }
+}

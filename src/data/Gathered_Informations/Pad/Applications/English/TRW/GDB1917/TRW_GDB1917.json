@@ -1,0 +1,79 @@
+[
+  {
+    "brand": "CITROËN",
+    "model": "C4 II (NC_)",
+    "engineType": "1.2 THP 110 (NCHNZ6, NCHNV6)",
+    "madeYear": "02.2015 - 12.2017",
+    "kw": "81",
+    "hp": "110",
+    "cc": "1199",
+    "engineCodes": "HNZ (EB2DT)  HNV (EB2DTM)",
+    "KBA_Numbers": "3001AUP"
+  },
+  {
+    "brand": "CITROËN",
+    "model": "C4 II (NC_)",
+    "engineType": "1.4 VTi 95 (NC8FP0)",
+    "madeYear": "11.2009 - 11.2015",
+    "kw": "70",
+    "hp": "95",
+    "cc": "1397",
+    "engineCodes": "8FP (EP3C)",
+    "KBA_Numbers": "3001AOB"
+  },
+  {
+    "brand": "CITROËN",
+    "model": "C4 II (NC_)",
+    "engineType": "1.6 BlueHDi 100",
+    "madeYear": "07.2014 - 05.2018",
+    "kw": "73",
+    "hp": "99",
+    "cc": "1560",
+    "engineCodes": "BHY (DV6FD)",
+    "KBA_Numbers": "3001AUN"
+  },
+  {
+    "brand": "CITROËN",
+    "model": "C4 II (NC_)",
+    "engineType": "1.6 HDi 90",
+    "madeYear": "from 11.2009",
+    "kw": "68",
+    "hp": "92",
+    "cc": "1560",
+    "engineCodes": "9HP (DV6DTED)  9HJ (DV6DTEDM)",
+    "KBA_Numbers": "3001ALZ  3001AKV"
+  },
+  {
+    "brand": "CITROËN",
+    "model": "C4 II Hatchback Van (NC_)",
+    "engineType": "1.6 HDi",
+    "madeYear": "from 06.2010",
+    "kw": "68",
+    "hp": "92",
+    "cc": "1560",
+    "engineCodes": "9HP (DV6DTED)",
+    "KBA_Numbers": ""
+  },
+  {
+    "brand": "CITROËN",
+    "model": "DS4 (NX_)",
+    "engineType": "1.6 HDi 110",
+    "madeYear": "04.2011 - 07.2015",
+    "kw": "82",
+    "hp": "112",
+    "cc": "1560",
+    "engineCodes": "9HR (DV6C)",
+    "KBA_Numbers": "3001AMB"
+  },
+  {
+    "brand": "CITROËN",
+    "model": "DS4 (NX_)",
+    "engineType": "1.6 HDi 90",
+    "madeYear": "05.2011 - 07.2015",
+    "kw": "68",
+    "hp": "92",
+    "cc": "1560",
+    "engineCodes": "9HP (DV6DTED)",
+    "KBA_Numbers": "3001APC"
+  }
+]

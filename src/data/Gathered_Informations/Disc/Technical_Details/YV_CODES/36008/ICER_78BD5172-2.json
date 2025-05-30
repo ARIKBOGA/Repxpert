@@ -1,0 +1,69 @@
+{
+  "reference": "78BD5172-2",
+  "id": "78BD5172-2",
+  "name": "Fren diski",
+  "brand": "ICER",
+  "brand_oe_map": {
+    "HYUNDAI": [
+      "51712-3D100",
+      "51712-3D300"
+    ],
+    "KIA": [
+      "51712-3C100"
+    ]
+  },
+  "eanNumber": "8424073146779",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "24,4"
+    ],
+    "MinimumThicknessValues": [
+      "24,4"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "47,3"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "280"
+    ],
+    "BoltHoleCircle": [
+      "114,3"
+    ],
+    "NumberOfHoles": [
+      "4"
+    ],
+    "AxleVersion": [
+      "Front"
+    ],
+    "TechnicalInformationNumber": [
+      "78BD5172-2"
+    ],
+    "TestMark": [
+      "E1 90R-02C0074/0431, E1 90R-02C0452/0078, E1190R02C01049/52496"
+    ],
+    "Diameter": [
+      "69"
+    ],
+    "Thickness": [
+      "26"
+    ],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "69"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "4"
+    ],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

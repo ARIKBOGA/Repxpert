@@ -1,0 +1,86 @@
+{
+  "reference": "DF4932",
+  "id": "DF4932",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "CHRYSLER": [
+      "2AMV5514AA",
+      "5105514",
+      "5105514AA"
+    ],
+    "CITROËN": [
+      "16 075 005 80",
+      "16 106 230 80"
+    ],
+    "DODGE": [
+      "5105514AA"
+    ],
+    "JEEP": [
+      "2AMV5514AA",
+      "5105514AA"
+    ],
+    "LANCIA": [
+      "K05105514AA"
+    ],
+    "MITSUBISHI": [
+      "4615A178"
+    ],
+    "PEUGEOT": [
+      "16 075 005 80",
+      "16 106 230 80"
+    ]
+  },
+  "eanNumber": "3322937951086",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "26"
+    ],
+    "MinimumThicknessValues": [
+      "24,4"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "45,5"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "294"
+    ],
+    "BoltHoleCircle": [
+      "114,3"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E190R-02C0176/0493"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "69"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [
+      "Yüksek karbonlu"
+    ],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "13"
+    ]
+  }
+}

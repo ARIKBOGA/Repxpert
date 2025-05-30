@@ -1,0 +1,70 @@
+{
+  "reference": "DF4055",
+  "id": "DF4055",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "BMW": [
+      "1 164 539",
+      "34 11 1 164 539",
+      "34 11 6 757 526",
+      "34 11 6 766 224",
+      "34 11 6 855 152",
+      "34 11 6 864 058",
+      "6 757 526",
+      "6 766 224",
+      "6 855 152",
+      "6 864 058"
+    ]
+  },
+  "eanNumber": "3322937275281",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "22"
+    ],
+    "MinimumThicknessValues": [
+      "20,4"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "51,6"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "300"
+    ],
+    "BoltHoleCircle": [
+      "120"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "79"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [
+      "Yüksek karbonlu"
+    ],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "14,5"
+    ]
+  }
+}

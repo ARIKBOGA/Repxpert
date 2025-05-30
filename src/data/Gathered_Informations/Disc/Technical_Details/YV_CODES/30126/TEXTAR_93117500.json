@@ -1,0 +1,61 @@
+{
+  "reference": "93117500",
+  "id": "93117500",
+  "name": "Fren diski",
+  "brand": "TEXTAR",
+  "brand_oe_map": {
+    "RENAULT TRUCKS": [
+      "5010260603"
+    ]
+  },
+  "eanNumber": "4019722261046",
+  "disc": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "26"
+    ],
+    "MinimumThicknessValues": [
+      "23"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "43"
+    ],
+    "InnerDiameter": [
+      "145"
+    ],
+    "OuterDiameter": [
+      "290"
+    ],
+    "BoltHoleCircle": [
+      "120"
+    ],
+    "NumberOfHoles": [
+      "05/10"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "102"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "05/10"
+    ],
+    "WheelBoltBoreDiameter": [
+      "10,5"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

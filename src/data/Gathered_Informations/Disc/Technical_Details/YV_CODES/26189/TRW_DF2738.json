@@ -1,0 +1,58 @@
+{
+  "reference": "DF2738",
+  "id": "DF2738",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "NISSAN": [
+      "40206-10W00",
+      "40206-10W01",
+      "40206-35G00",
+      "40206-35G01"
+    ]
+  },
+  "eanNumber": "3322937131853",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "22"
+    ],
+    "MinimumThicknessValues": [
+      "20"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "39"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "267"
+    ],
+    "BoltHoleCircle": [
+      "124"
+    ],
+    "NumberOfHoles": [
+      "6"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "100"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": [
+      "M10 x 1.25"
+    ]
+  }
+}

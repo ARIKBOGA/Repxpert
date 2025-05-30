@@ -1,0 +1,82 @@
+{
+  "reference": "DF1538",
+  "id": "DF1538",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "BMW": [
+      "1 160 674",
+      "1 162 282",
+      "1 162 288",
+      "1 164 199",
+      "1 164 431",
+      "1 164 921",
+      "1 165 455",
+      "34 11 1 160 674",
+      "34 11 1 162 282",
+      "34 11 1 162 288",
+      "34 11 1 164 199",
+      "34 11 1 164 431",
+      "34 11 1 164 921",
+      "34 11 1 165 455",
+      "34 11 6 766 239",
+      "34 11 6 855 153",
+      "34 11 6 864 060",
+      "6 766 239",
+      "6 855 153",
+      "6 864 060"
+    ]
+  },
+  "eanNumber": "3322936153801",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "22"
+    ],
+    "MinimumThicknessValues": [
+      "20,4"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "51,6"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "286"
+    ],
+    "BoltHoleCircle": [
+      "120"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E190R-02C0176/0006"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "79"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [
+      "Yüksek karbonlu"
+    ],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "14,5"
+    ]
+  }
+}

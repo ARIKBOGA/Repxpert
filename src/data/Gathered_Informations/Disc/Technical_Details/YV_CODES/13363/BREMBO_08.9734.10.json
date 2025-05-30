@@ -1,0 +1,83 @@
+{
+  "reference": "08.9734.10",
+  "id": "08.9734.10",
+  "name": "Fren diski PRIME LINE",
+  "brand": "BREMBO",
+  "brand_oe_map": {
+    "FORD": [
+      "1323102",
+      "1376138",
+      "1464914",
+      "1465619",
+      "1506339",
+      "1676983",
+      "1S7J2A315CB",
+      "1S7W2A315AB",
+      "1S7W2A315AD",
+      "1S7W2A315B3E",
+      "1S7W2A315CA",
+      "1S7W2A315CB",
+      "4098427",
+      "4098428",
+      "4110588",
+      "4141711",
+      "4143445",
+      "4176921",
+      "4179406",
+      "7S712A315BA",
+      "7S7J2A315BB"
+    ],
+    "JAGUAR": [
+      "C259231",
+      "C2S35271",
+      "C2S42668",
+      "C2S49730",
+      "C2S52088",
+      "C2S9231"
+    ]
+  },
+  "eanNumber": "8020584973417",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "12"
+    ],
+    "MinimumThicknessValues": [
+      "10"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "34"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "280"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "64"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [
+      "Yüksek karbonlu"
+    ],
+    "TighteningTorque": [
+      "100"
+    ],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "reference": "DF4272BS",
+  "id": "DF4272BS",
+  "name": "Fren diski TRW SINGLE",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "RENAULT": [
+      "77 01 206 327",
+      "77 01 206 328"
+    ]
+  },
+  "eanNumber": "3322937510900",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "11"
+    ],
+    "MinimumThicknessValues": [
+      "9,5"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "81"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "274"
+    ],
+    "BoltHoleCircle": [
+      "100"
+    ],
+    "NumberOfHoles": [
+      "4"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E1 90R-02 C0950/0740"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Tekerlek rulmanı ile, ABS sensör halkası ile"
+    ],
+    "CenteringDiameter": [
+      "62"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": [
+      "M12 x 1,5"
+    ]
+  }
+}

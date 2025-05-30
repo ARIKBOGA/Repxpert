@@ -1,0 +1,44 @@
+{
+  "oe": "52009968AA",
+  "productID": "RN2210V",
+  "productType": "ROTOR DISC",
+  "specifications": {
+    "Type": "Vented",
+    "Outter Ø": "352",
+    "Num. of holes": "5",
+    "Disc Thickness (Max)": "22",
+    "Disc Thickness (Min)": "20",
+    "Height": "72",
+    "Centering Diameter": "78.4",
+    "Pitch Circle Ø": "139.7",
+    "Drum Ø:": "205",
+    "Front/Rear": "Rear",
+    "Structure Material": "G3000"
+  },
+  "crossReferences": [
+    {
+      "brand": "BENDIX",
+      "oe": "520888"
+    },
+    {
+      "brand": "CHRYSLER",
+      "oe": "2AMV9 968AC"
+    },
+    {
+      "brand": "CHRYSLER",
+      "oe": "52009 968AA"
+    },
+    {
+      "brand": "CHRYSLER",
+      "oe": "52009 968AB"
+    },
+    {
+      "brand": "CHRYSLER",
+      "oe": "52009 968AC"
+    },
+    {
+      "brand": "CHRYSLER",
+      "oe": "52009 968AD"
+    }
+  ]
+}

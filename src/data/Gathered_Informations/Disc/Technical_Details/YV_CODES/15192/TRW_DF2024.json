@@ -1,0 +1,74 @@
+{
+  "reference": "DF2024",
+  "id": "DF2024",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "HONDA": [
+      "45251-SM4-000",
+      "45251-SM4-010",
+      "45251-SM4-020",
+      "45251-SM4-320",
+      "45251-SN7-E40",
+      "45251SM4020HS"
+    ],
+    "MG": [
+      "SDB090836SLP"
+    ],
+    "ROVER": [
+      "GBD90836",
+      "SDB090836EVA",
+      "SDB090836SLP"
+    ]
+  },
+  "eanNumber": "3322937076178",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "23"
+    ],
+    "MinimumThicknessValues": [
+      "21"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "34"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "259"
+    ],
+    "BoltHoleCircle": [
+      "114,3"
+    ],
+    "NumberOfHoles": [
+      "4"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E1 90R-02 C0176/0706"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "92"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "M10 x 1.25"
+    ]
+  }
+}

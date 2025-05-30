@@ -1,0 +1,80 @@
+{
+  "reference": "DF2776",
+  "id": "DF2776",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "FORD": [
+      "1001093",
+      "1044569",
+      "1045994",
+      "1143640",
+      "1143641",
+      "1526686",
+      "95VW-X1125-BD",
+      "95VWX1125B1D",
+      "95WX-1125-BC"
+    ],
+    "SEAT": [
+      "7M0 615 301 E",
+      "7M0 615 301 G"
+    ],
+    "VW": [
+      "7M0 615 301 E",
+      "7M0 615 301 G",
+      "7MO 615 301 G"
+    ]
+  },
+  "eanNumber": "3322937184774",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "25"
+    ],
+    "MinimumThicknessValues": [
+      "21"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "55,4"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "288"
+    ],
+    "BoltHoleCircle": [
+      "112"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E190R-02C0176/0490"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "68,2"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [
+      "Yüksek karbonlu"
+    ],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "16,4"
+    ]
+  }
+}

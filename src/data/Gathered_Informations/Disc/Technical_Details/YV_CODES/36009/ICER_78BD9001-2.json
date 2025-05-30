@@ -1,0 +1,70 @@
+{
+  "reference": "78BD9001-2",
+  "id": "78BD9001-2",
+  "name": "Fren diski",
+  "brand": "ICER",
+  "brand_oe_map": {
+    "OPEL": [
+      "5 69 006",
+      "93 175 376"
+    ],
+    "VAUXHALL": [
+      "56 90 06",
+      "93 175 376"
+    ]
+  },
+  "eanNumber": "8424073149053",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "22"
+    ],
+    "MinimumThicknessValues": [
+      "22"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "42"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "280"
+    ],
+    "BoltHoleCircle": [
+      "100"
+    ],
+    "NumberOfHoles": [
+      "6"
+    ],
+    "AxleVersion": [
+      "Front"
+    ],
+    "TechnicalInformationNumber": [
+      "78BD9001-2"
+    ],
+    "TestMark": [
+      "E1 90R-02C0074/1235, E1 90R-02C0370/0018"
+    ],
+    "Diameter": [
+      "60"
+    ],
+    "Thickness": [
+      "24,8"
+    ],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "60"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "6"
+    ],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

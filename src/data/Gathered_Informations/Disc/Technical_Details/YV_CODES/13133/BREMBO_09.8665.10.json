@@ -1,0 +1,76 @@
+{
+  "reference": "09.8665.10",
+  "id": "09.8665.10",
+  "name": "Fren diski PRIME LINE",
+  "brand": "BREMBO",
+  "brand_oe_map": {
+    "FORD": [
+      "1321488",
+      "1376118",
+      "1388257",
+      "1465618",
+      "1506298",
+      "1565017",
+      "1681578",
+      "1S7W1125AB",
+      "4097477",
+      "4097478",
+      "4110587",
+      "4179398",
+      "4181042",
+      "7S7J1125BB",
+      "7S7JJ1125BB"
+    ],
+    "JAGUAR": [
+      "C2S35270",
+      "C2S42667",
+      "C2S4566",
+      "C2S49729",
+      "C2S52091"
+    ]
+  },
+  "eanNumber": "8020584866511",
+  "disc": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "24"
+    ],
+    "MinimumThicknessValues": [
+      "22"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "47"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "300"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "64"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [
+      "Yüksek karbonlu"
+    ],
+    "TighteningTorque": [
+      "100"
+    ],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

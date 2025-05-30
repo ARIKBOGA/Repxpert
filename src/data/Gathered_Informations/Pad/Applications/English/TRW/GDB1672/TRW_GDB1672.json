@@ -1,0 +1,46 @@
+[
+  {
+    "brand": "VW",
+    "model": "TOUAREG (7LA, 7L6, 7L7)",
+    "engineType": "2.5 R5 TDI",
+    "madeYear": "01.2003 - 05.2010",
+    "kw": "128",
+    "hp": "174",
+    "cc": "2461",
+    "engineCodes": "BPE  BAC",
+    "KBA_Numbers": "0603AGS  0603681"
+  },
+  {
+    "brand": "VW",
+    "model": "TOUAREG (7LA, 7L6, 7L7)",
+    "engineType": "2.5 R5 TDI",
+    "madeYear": "08.2003 - 05.2010",
+    "kw": "120",
+    "hp": "163",
+    "cc": "2461",
+    "engineCodes": "BPD  BLK",
+    "KBA_Numbers": "0603AGX  0603719"
+  },
+  {
+    "brand": "VW",
+    "model": "TOUAREG (7LA, 7L6, 7L7)",
+    "engineType": "4.2 V8",
+    "madeYear": "12.2002 - 11.2006",
+    "kw": "228",
+    "hp": "310",
+    "cc": "4172",
+    "engineCodes": "AXQ",
+    "KBA_Numbers": "0603AGP  0603AGZ  0603678"
+  },
+  {
+    "brand": "VW",
+    "model": "TOUAREG (7LA, 7L6, 7L7)",
+    "engineType": "4.2 V8 FSI",
+    "madeYear": "06.2006 - 05.2010",
+    "kw": "257",
+    "hp": "350",
+    "cc": "4163",
+    "engineCodes": "BAR",
+    "KBA_Numbers": "0603ALB"
+  }
+]

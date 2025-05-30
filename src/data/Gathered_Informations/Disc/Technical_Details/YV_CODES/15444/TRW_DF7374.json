@@ -1,0 +1,75 @@
+{
+  "reference": "DF7374",
+  "id": "DF7374",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "ACURA": [
+      "42510-TX4-A01"
+    ],
+    "HONDA": [
+      "42510-S9A-E50",
+      "42510-SA9-E50",
+      "42510-SCA-E50",
+      "42510-SWA-000",
+      "42510-SWA-A00",
+      "42510-SWA-A01",
+      "42510-SWW-G01",
+      "42510-T1G-G00",
+      "42510-T1G-G01"
+    ],
+    "HONDA (DONGFENG)": [
+      "42510T0TH00"
+    ]
+  },
+  "eanNumber": "3322937690923",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "9"
+    ],
+    "MinimumThicknessValues": [
+      "7,5"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "60,7"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "305"
+    ],
+    "BoltHoleCircle": [
+      "114,3"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E190R-02C0204/0599"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "64"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "12,7"
+    ]
+  }
+}

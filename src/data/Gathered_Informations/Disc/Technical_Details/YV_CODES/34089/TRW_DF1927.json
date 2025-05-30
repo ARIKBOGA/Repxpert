@@ -1,0 +1,71 @@
+{
+  "reference": "DF1927",
+  "id": "DF1927",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "TOYOTA": [
+      "43512-26040",
+      "43512-26070",
+      "43512-35170",
+      "43512-35180",
+      "43512-35220",
+      "43512-35260"
+    ],
+    "VW": [
+      "J43 512 351 70",
+      "J43 512 351 80",
+      "J43 512 601 00"
+    ]
+  },
+  "eanNumber": "3322936192701",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "25"
+    ],
+    "MinimumThicknessValues": [
+      "23"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "46,6"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "257"
+    ],
+    "BoltHoleCircle": [
+      "110"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E190R-02C0176/0074"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "84"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "M10 x 1.25"
+    ]
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "reference": "DF4424",
+  "id": "DF4424",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "FORD": [
+      "1223664",
+      "1223666",
+      "1253965",
+      "1323560",
+      "1373370",
+      "1469083",
+      "1500152",
+      "1501059",
+      "1520297",
+      "1797226",
+      "1829606",
+      "3M51-2C375-BC",
+      "3M51-2C375-BD",
+      "3M512C375B1D",
+      "7M51-1125-BB",
+      "DV61-1125-DA",
+      "DV61-1125-EA"
+    ],
+    "FORD (CHANGAN)": [
+      "DV611125AA"
+    ],
+    "VOLVO": [
+      "274510",
+      "30666801",
+      "31262719",
+      "31362412",
+      "31400817",
+      "31400937",
+      "31400941"
+    ]
+  },
+  "eanNumber": "3322937465811",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "25"
+    ],
+    "MinimumThicknessValues": [
+      "23"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "48,5"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "300"
+    ],
+    "BoltHoleCircle": [
+      "108"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E190R-02C0176/0199"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "63,5"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [
+      "Yüksek karbonlu"
+    ],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "13,8"
+    ]
+  }
+}

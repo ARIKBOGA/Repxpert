@@ -1,0 +1,68 @@
+{
+  "reference": "08.5178.30",
+  "id": "08.5178.30",
+  "name": "Fren diski PRIME LINE",
+  "brand": "BREMBO",
+  "brand_oe_map": {
+    "CHRYSLER": [
+      "5098065AA",
+      "5098066AA",
+      "68031811AA"
+    ],
+    "MERCEDES-BENZ": [
+      "2034230012",
+      "2034230112",
+      "2104230112",
+      "2104230412",
+      "2104230912",
+      "A2034230012",
+      "A2034230112",
+      "A2104230412",
+      "A2104230912"
+    ]
+  },
+  "eanNumber": "8020584517833",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "9"
+    ],
+    "MinimumThicknessValues": [
+      "7,3"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "55"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "278"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Cıvatalar ile"
+    ],
+    "CenteringDiameter": [
+      "67"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [
+      "110"
+    ],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

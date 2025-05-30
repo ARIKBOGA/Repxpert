@@ -1,0 +1,80 @@
+{
+  "reference": "09.9928.11",
+  "id": "09.9928.11",
+  "name": "Fren diski PRIME LINE - UV Coated",
+  "brand": "BREMBO",
+  "brand_oe_map": {
+    "CITROËN": [
+      "1613819880",
+      "1618862380",
+      "1630633180",
+      "4246J0",
+      "424954",
+      "424955",
+      "424994",
+      "E169256"
+    ],
+    "JAC": [
+      "3501030U8050"
+    ],
+    "PEUGEOT": [
+      "1613819880",
+      "1618862380",
+      "1630633180",
+      "4246F0",
+      "424954",
+      "424994",
+      "E169256"
+    ],
+    "TOYOTA": [
+      "435120H010",
+      "435120H020",
+      "435120H040",
+      "43512YZZAJ"
+    ]
+  },
+  "eanNumber": "8020584216897",
+  "disc": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "20"
+    ],
+    "MinimumThicknessValues": [
+      "18"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "35"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "247"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [
+      "4"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "55"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [
+      "100"
+    ],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

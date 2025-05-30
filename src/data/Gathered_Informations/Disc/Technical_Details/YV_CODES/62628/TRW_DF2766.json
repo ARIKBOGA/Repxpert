@@ -1,0 +1,61 @@
+{
+  "reference": "DF2766",
+  "id": "DF2766",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "LAND ROVER": [
+      "NTC8780"
+    ]
+  },
+  "eanNumber": "3322937184460",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "25"
+    ],
+    "MinimumThicknessValues": [
+      "22"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "64,7"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "297"
+    ],
+    "BoltHoleCircle": [
+      "120"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "70"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [
+      "Yüksek karbonlu"
+    ],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "14,25"
+    ]
+  }
+}

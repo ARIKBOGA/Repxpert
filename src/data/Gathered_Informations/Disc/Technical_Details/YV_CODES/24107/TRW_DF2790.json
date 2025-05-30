@@ -1,0 +1,95 @@
+{
+  "reference": "DF2790",
+  "id": "DF2790",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "AUDI": [
+      "2D0 407 617",
+      "2D0 407 617 A",
+      "2D0 615 601 E"
+    ],
+    "MERCEDES-BENZ": [
+      "901 421 03 12",
+      "901 421 06 12",
+      "902 421 03 12",
+      "902 421 04 12",
+      "902 421 06 12",
+      "902 421 07 12",
+      "902 421 09 12",
+      "902421061204",
+      "902421091211",
+      "902421091264",
+      "A 901 421 03 12",
+      "A 901 421 06 12",
+      "A 902 421 03 12",
+      "A 902 421 04 12",
+      "A 902 421 06 12",
+      "A 902 421 07 12",
+      "A 902 421 09 12",
+      "A902421091211",
+      "A902421091264"
+    ],
+    "VW": [
+      "2D0 407 617",
+      "2D0 407 617 A",
+      "2D0 615 301 A",
+      "2D0 615 301 B",
+      "2D0 615 301 C",
+      "2D0 615 301 D",
+      "2D0 615 601 E",
+      "2DO 615 301 A",
+      "2DO 615 301 C"
+    ]
+  },
+  "eanNumber": "3322937184866",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "22"
+    ],
+    "MinimumThicknessValues": [
+      "19"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "77"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "276"
+    ],
+    "BoltHoleCircle": [
+      "130"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E190R-02C0176/0569"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "85"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "15"
+    ]
+  }
+}

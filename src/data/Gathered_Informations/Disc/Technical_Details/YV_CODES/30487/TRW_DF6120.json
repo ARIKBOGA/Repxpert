@@ -1,0 +1,77 @@
+{
+  "reference": "DF6120",
+  "id": "DF6120",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "NISSAN": [
+      "43206-00Q0A",
+      "43206-00Q0J"
+    ],
+    "OPEL": [
+      "44 19 362",
+      "93197406",
+      "95528683"
+    ],
+    "RENAULT": [
+      "43 20 003 67R",
+      "43 20 098 22R",
+      "86 60 003 519"
+    ],
+    "VAUXHALL": [
+      "44 19 362",
+      "93197406",
+      "95528683"
+    ]
+  },
+  "eanNumber": "3322938088002",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "12"
+    ],
+    "MinimumThicknessValues": [
+      "10"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "71,5"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "305"
+    ],
+    "BoltHoleCircle": [
+      "130"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E1 90R 02 C0190-0599"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "90"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "15,5"
+    ]
+  }
+}

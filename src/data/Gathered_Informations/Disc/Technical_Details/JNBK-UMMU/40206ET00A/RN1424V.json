@@ -1,0 +1,68 @@
+{
+  "oe": "40206ET00A",
+  "productID": "RN1424V",
+  "productType": "ROTOR DISC",
+  "specifications": {
+    "Type": "Vented",
+    "Disc Thickness (Max)": "24",
+    "Num. of holes": "4",
+    "Height": "44",
+    "Centering Diameter": "68",
+    "Front/Rear": "Front",
+    "Pitch Circle Ø": "114.3",
+    "Outter Ø": "280",
+    "Drum Ø:": "143",
+    "Disc Thickness (Min)": "22",
+    "Structure Material": "G3000"
+  },
+  "crossReferences": [
+    {
+      "brand": "NISSAN",
+      "oe": "40206-EM10A"
+    },
+    {
+      "brand": "NISSAN",
+      "oe": "40206-EM10B"
+    },
+    {
+      "brand": "NISSAN",
+      "oe": "40206-ET00A"
+    },
+    {
+      "brand": "NISSAN",
+      "oe": "40206-ET00C"
+    },
+    {
+      "brand": "NISSAN",
+      "oe": "40206-ET01C"
+    },
+    {
+      "brand": "NISSAN",
+      "oe": "40206-EW81B"
+    },
+    {
+      "brand": "NISSAN",
+      "oe": "40206-EW81C"
+    },
+    {
+      "brand": "NISSAN",
+      "oe": "40206-ZW90A"
+    },
+    {
+      "brand": "NISSAN",
+      "oe": "D0206-EM10B"
+    },
+    {
+      "brand": "NISSAN",
+      "oe": "D0206-EW81C-KV"
+    },
+    {
+      "brand": "OEM",
+      "oe": "40206ET00A"
+    },
+    {
+      "brand": "OEM",
+      "oe": "40206EW81A"
+    }
+  ]
+}

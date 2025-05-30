@@ -1,0 +1,67 @@
+{
+  "reference": "DF3118",
+  "id": "DF3118",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "CHANGFENG": [
+      "MB618716"
+    ],
+    "MITSUBISHI": [
+      "MB618716",
+      "MB928697",
+      "MR129648",
+      "MR569483"
+    ]
+  },
+  "eanNumber": "3322937184538",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "24"
+    ],
+    "MinimumThicknessValues": [
+      "22,4"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "45,3"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "276"
+    ],
+    "BoltHoleCircle": [
+      "108"
+    ],
+    "NumberOfHoles": [
+      "6"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E1 90R-02 C0176/0450"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "87"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "10,5"
+    ]
+  }
+}

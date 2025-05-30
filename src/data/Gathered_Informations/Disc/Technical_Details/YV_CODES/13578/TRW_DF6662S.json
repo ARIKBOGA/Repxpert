@@ -1,0 +1,79 @@
+{
+  "reference": "DF6662S",
+  "id": "DF6662S",
+  "name": "Fren diski TRW SINGLE",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "FORD": [
+      "1368548",
+      "1384290",
+      "1677434",
+      "1724956",
+      "1746793",
+      "1770767",
+      "1829608",
+      "1844117",
+      "3M51-2C375-CB",
+      "3M51-2C375-CC",
+      "3M51-2C375-CD",
+      "3M51-2C375-CE",
+      "9M51-2C375-AA",
+      "CV61-1125-FA",
+      "CV61-1125-GA",
+      "DV61-1125-FA"
+    ],
+    "FORD USA": [
+      "CV6Z1125B"
+    ]
+  },
+  "eanNumber": "3322938269289",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "25"
+    ],
+    "MinimumThicknessValues": [
+      "23"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "48,8"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "320"
+    ],
+    "BoltHoleCircle": [
+      "108"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E1 90R-02 C0176/0671"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "63,6"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "13,75"
+    ]
+  }
+}

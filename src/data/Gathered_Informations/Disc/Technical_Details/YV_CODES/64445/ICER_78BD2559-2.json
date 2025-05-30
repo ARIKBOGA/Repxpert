@@ -1,0 +1,72 @@
+{
+  "reference": "78BD2559-2",
+  "id": "78BD2559-2",
+  "name": "Fren diski",
+  "brand": "ICER",
+  "brand_oe_map": {
+    "CHEVROLET": [
+      "9628 6933",
+      "9630 0035",
+      "9631 2559"
+    ],
+    "DAEWOO": [
+      "9628 6933",
+      "9630 0035",
+      "9631 2559"
+    ]
+  },
+  "eanNumber": "8424073143914",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "22"
+    ],
+    "MinimumThicknessValues": [
+      "22"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "47,1"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "255,8"
+    ],
+    "BoltHoleCircle": [
+      "100"
+    ],
+    "NumberOfHoles": [
+      "4"
+    ],
+    "AxleVersion": [
+      "Front"
+    ],
+    "TechnicalInformationNumber": [
+      "78BD2559-2"
+    ],
+    "TestMark": [
+      "E1 90R-02C0074/0061, E1 90R-02C0452/0077"
+    ],
+    "Diameter": [
+      "60"
+    ],
+    "Thickness": [
+      "23,8"
+    ],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "60"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "4"
+    ],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

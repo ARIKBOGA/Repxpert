@@ -1,0 +1,62 @@
+{
+  "reference": "DF3112",
+  "id": "DF3112",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "NISSAN": [
+      "40206-9C100",
+      "40206-9C101"
+    ]
+  },
+  "eanNumber": "3322937184439",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "26"
+    ],
+    "MinimumThicknessValues": [
+      "24"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "52"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "257"
+    ],
+    "BoltHoleCircle": [
+      "114"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E190R-02C0176/0070"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "68"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "12,75"
+    ]
+  }
+}

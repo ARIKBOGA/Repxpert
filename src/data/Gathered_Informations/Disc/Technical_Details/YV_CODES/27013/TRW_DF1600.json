@@ -1,0 +1,75 @@
+{
+  "reference": "DF1600",
+  "id": "DF1600",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "BEDFORD": [
+      "90065903"
+    ],
+    "OPEL": [
+      "5 69 008",
+      "5 69 011",
+      "5 69 013",
+      "5 69 018",
+      "5 69 041",
+      "90065903",
+      "90272326",
+      "93182282",
+      "93182286",
+      "93182290"
+    ],
+    "VAUXHALL": [
+      "5 69 008",
+      "5 69 013",
+      "90065903",
+      "90272326",
+      "93182282",
+      "93182290"
+    ]
+  },
+  "eanNumber": "3322936160007",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "10,9"
+    ],
+    "MinimumThicknessValues": [
+      "8"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "55,5"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "238"
+    ],
+    "BoltHoleCircle": [
+      "92"
+    ],
+    "NumberOfHoles": [
+      "4"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "73"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": [
+      "10,6"
+    ]
+  }
+}

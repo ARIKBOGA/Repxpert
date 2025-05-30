@@ -1,0 +1,95 @@
+{
+  "reference": "DF4087S",
+  "id": "DF4087S",
+  "name": "Fren diski TRW SINGLE",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "AUDI": [
+      "2D0 501 203",
+      "2D0 501 204",
+      "2D0 501 205",
+      "2D0 501 205 B",
+      "2D0 501 205 C",
+      "2D0 501 206",
+      "2D0 501 206 A",
+      "2D0 501 206 B"
+    ],
+    "MERCEDES-BENZ": [
+      "901 423 04 12",
+      "901 423 06 12",
+      "901 423 08 12",
+      "901 423 10 12",
+      "901423061264",
+      "901423081204",
+      "901423101264",
+      "A 901 423 04 12",
+      "A 901 423 06 12",
+      "A 901 423 08 12",
+      "A 901 423 10 12",
+      "A901423061264",
+      "A901423101264"
+    ],
+    "VW": [
+      "2D0 501 203",
+      "2D0 501 204",
+      "2D0 501 205",
+      "2D0 501 205 B",
+      "2D0 501 205 C",
+      "2D0 501 206",
+      "2D0 501 206 A",
+      "2D0 501 206 B",
+      "2D0 615 601",
+      "2D0 615 601 C"
+    ]
+  },
+  "eanNumber": "3322937335329",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "12"
+    ],
+    "MinimumThicknessValues": [
+      "10"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "97"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "258"
+    ],
+    "BoltHoleCircle": [
+      "130"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E1 90R-02 C0204/0283"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "85"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "15"
+    ]
+  }
+}

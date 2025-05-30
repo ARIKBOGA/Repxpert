@@ -1,0 +1,56 @@
+{
+  "reference": "94026900",
+  "id": "94026900",
+  "name": "Fren kampanası",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "NISSAN": [
+      "432064M000",
+      "432064M400",
+      "432064M401",
+      "432064Z801",
+      "432066N000"
+    ]
+  },
+  "eanNumber": "4019722277337",
+  "attributes": {
+    "Type": [],
+    "ThicknessValues": [],
+    "MinimumThicknessValues": [],
+    "Surface": [],
+    "HeightValues": [],
+    "InnerDiameter": [],
+    "OuterDiameter": [],
+    "BoltHoleCircle": [
+      "114,3"
+    ],
+    "NumberOfHoles": [
+      "04/06"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "68"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "04/06"
+    ],
+    "WheelBoltBoreDiameter": [
+      "12,7"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [
+      "4,7"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

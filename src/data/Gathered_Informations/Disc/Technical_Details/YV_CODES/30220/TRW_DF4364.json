@@ -1,0 +1,84 @@
+{
+  "reference": "DF4364",
+  "id": "DF4364",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "DACIA": [
+      "40 20 649 11R",
+      "40 20 684 66R",
+      "77 01 207 795"
+    ],
+    "LADA": [
+      "7701207795"
+    ],
+    "NISSAN": [
+      "40206-4AA1A",
+      "40206-AX600",
+      "40206-AX602",
+      "40206-AX603",
+      "40206-AX60A",
+      "40206-EE320"
+    ],
+    "NISSAN (DFAC)": [
+      "402063AW0A"
+    ],
+    "RENAULT": [
+      "40 20 649 11R",
+      "40 20 684 66R",
+      "77 01 207 795"
+    ]
+  },
+  "eanNumber": "3322937402779",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "22"
+    ],
+    "MinimumThicknessValues": [
+      "19,8"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "44"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "260"
+    ],
+    "BoltHoleCircle": [
+      "100"
+    ],
+    "NumberOfHoles": [
+      "4"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E190R-02 C0185/0627"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "61"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [
+      "Yüksek karbonlu"
+    ],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "13,5"
+    ]
+  }
+}

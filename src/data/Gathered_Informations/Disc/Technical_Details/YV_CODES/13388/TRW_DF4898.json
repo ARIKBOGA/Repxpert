@@ -1,0 +1,80 @@
+{
+  "reference": "DF4898",
+  "id": "DF4898",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "FORD": [
+      "1454363",
+      "3902826",
+      "4883102",
+      "6M34-1027-CA",
+      "XM34-1027-AA"
+    ],
+    "FORD ASIA & OCEANIA": [
+      "3902826"
+    ],
+    "FORD USA": [
+      "1454363",
+      "3902826",
+      "4883102",
+      "6M34-1027-CA",
+      "XM34-1027-AA"
+    ],
+    "MAZDA": [
+      "UH71-33-251",
+      "UH81-33-251",
+      "UR66-33-251"
+    ]
+  },
+  "eanNumber": "3322937950751",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "24"
+    ],
+    "MinimumThicknessValues": [
+      "22"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "24"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "256"
+    ],
+    "BoltHoleCircle": [
+      "108"
+    ],
+    "NumberOfHoles": [
+      "6"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E1 90R-02 C0176/0706"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "86"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "10,7"
+    ]
+  }
+}

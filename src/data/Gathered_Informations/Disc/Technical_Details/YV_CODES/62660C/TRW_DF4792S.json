@@ -1,0 +1,70 @@
+{
+  "reference": "DF4792S",
+  "id": "DF4792S",
+  "name": "Fren diski TRW SINGLE",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "LAND ROVER": [
+      "4H221027CA",
+      "5H321027BA",
+      "5H321027CA",
+      "LR019988",
+      "SDB000621",
+      "SDB000622",
+      "SDB000623",
+      "SDB000624"
+    ]
+  },
+  "eanNumber": "3322937735235",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "30"
+    ],
+    "MinimumThicknessValues": [
+      "27"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "62"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "360"
+    ],
+    "BoltHoleCircle": [
+      "120"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E190R-02C0176/0584"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "79"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [
+      "Yüksek karbonlu"
+    ],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "15"
+    ]
+  }
+}

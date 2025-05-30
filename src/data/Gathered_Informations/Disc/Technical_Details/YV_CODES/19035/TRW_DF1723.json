@@ -1,0 +1,64 @@
+{
+  "reference": "DF1723",
+  "id": "DF1723",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "LADA": [
+      "21013103002",
+      "21013103010",
+      "21013501070",
+      "3103002"
+    ]
+  },
+  "eanNumber": "3322936172307",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "10"
+    ],
+    "MinimumThicknessValues": [
+      "9"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "64,5"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "253"
+    ],
+    "BoltHoleCircle": [
+      "98"
+    ],
+    "NumberOfHoles": [
+      "4"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E190R-02C0190/0124"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "68"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "13"
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+[
+  {
+    "brand": "MERCEDES-BENZ",
+    "model": "A-SERISI (W169)",
+    "engineType": "A 160 CDI (169.006, 169.306)",
+    "madeYear": "09.2004 - 06.2012",
+    "kw": "60",
+    "hp": "82",
+    "cc": "1991",
+    "engineCodes": "OM 640.942",
+    "KBA_Numbers": "1313AFX, 0999ALP, 0999304"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "model": "A-SERISI (W169)",
+    "engineType": "A 180 CDI (169.007, 169.307)",
+    "madeYear": "09.2004 - 06.2012",
+    "kw": "80",
+    "hp": "109",
+    "cc": "1991",
+    "engineCodes": "OM 640.940",
+    "KBA_Numbers": "1313AFY, 1313AGF, 0999ALQ, 0999ALX, 0999305"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "model": "A-SERISI (W169)",
+    "engineType": "A 200 CDI (169.008, 169.308)",
+    "madeYear": "09.2004 - 06.2012",
+    "kw": "103",
+    "hp": "140",
+    "cc": "1991",
+    "engineCodes": "OM 640.941",
+    "KBA_Numbers": "1313AFZ, 0999ALR, 0999306"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "model": "B-SERISI Sports Tourer (W245)",
+    "engineType": "B 180 CDI (245.207)",
+    "madeYear": "03.2005 - 11.2011",
+    "kw": "80",
+    "hp": "109",
+    "cc": "1991",
+    "engineCodes": "OM 640.940",
+    "KBA_Numbers": "1313AFE, 1313AFL, 0999ALZ, 0999AMG, 0999336"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "model": "B-SERISI Sports Tourer (W245)",
+    "engineType": "B 200 CDI (245.208)",
+    "madeYear": "03.2005 - 11.2011",
+    "kw": "103",
+    "hp": "140",
+    "cc": "1991",
+    "engineCodes": "OM 640.941",
+    "KBA_Numbers": "1313AFF, 1313AFM, 0999AMA, 0999AMH, 0999337"
+  }
+]

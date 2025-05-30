@@ -1,0 +1,75 @@
+{
+  "reference": "78BD5637-2",
+  "id": "78BD5637-2",
+  "name": "Fren diski",
+  "brand": "ICER",
+  "brand_oe_map": {
+    "AUDI": [
+      "1K0 615 601 AA"
+    ],
+    "SEAT": [
+      "1K0 615 601 AA"
+    ],
+    "SKODA": [
+      "1K0 615 601 AA"
+    ],
+    "VW": [
+      "1K0 615 601 AA",
+      "5Q0 615 601 D"
+    ]
+  },
+  "eanNumber": "8424073147387",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "8"
+    ],
+    "MinimumThicknessValues": [
+      "8"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "48,5"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "272"
+    ],
+    "BoltHoleCircle": [
+      "112"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [
+      "Rear"
+    ],
+    "TechnicalInformationNumber": [
+      "78BD5637-2"
+    ],
+    "TestMark": [
+      "E1 90R-02C0100/0042, E1 90R-02C0415/0001"
+    ],
+    "Diameter": [
+      "65"
+    ],
+    "Thickness": [
+      "10"
+    ],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "65"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "5"
+    ],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "reference": "78BD3959",
+  "id": "78BD3959-2",
+  "name": "Fren diski",
+  "brand": "ICER",
+  "brand_oe_map": {
+    "FORD": [
+      "1724956",
+      "1746793",
+      "1770767",
+      "1829608",
+      "1844117",
+      "3M512C375CC",
+      "3M512C375CD",
+      "3M512C375CE",
+      "9M512C375AA",
+      "BRRF97",
+      "CV611125FA",
+      "CV611125GA",
+      "DV611125FA",
+      "KU2Z1V125B"
+    ],
+    "IME": [
+      "6154210",
+      "6156110"
+    ],
+    "KAROSA": [
+      "6154210",
+      "6156110"
+    ],
+    "LINCOLN": [
+      "CV6Z1125D"
+    ],
+    "VOLVO": [
+      "31341644",
+      "31381376",
+      "31400818",
+      "31400938"
+    ]
+  },
+  "eanNumber": "8424073291097",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "23"
+    ],
+    "MinimumThicknessValues": [
+      "23"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "48,5"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "320"
+    ],
+    "BoltHoleCircle": [
+      "108"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [
+      "Front"
+    ],
+    "TechnicalInformationNumber": [
+      "78BD3959-2"
+    ],
+    "TestMark": [],
+    "Diameter": [
+      "63,5"
+    ],
+    "Thickness": [
+      "25"
+    ],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "63,5"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "5"
+    ],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

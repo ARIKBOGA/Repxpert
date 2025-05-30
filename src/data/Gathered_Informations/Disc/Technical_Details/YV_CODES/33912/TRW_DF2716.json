@@ -1,0 +1,80 @@
+{
+  "reference": "DF2716",
+  "id": "DF2716",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "CITROËN": [
+      "4246 J2",
+      "4246 J3",
+      "4249 H5",
+      "E 169 008"
+    ],
+    "FIAT": [
+      "1309392080",
+      "1317651080",
+      "71738908"
+    ],
+    "LANCIA": [
+      "0001309392080",
+      "1309392080",
+      "1317651080",
+      "71738908"
+    ],
+    "PEUGEOT": [
+      "4246 J2",
+      "4249 H5",
+      "E 169 008"
+    ]
+  },
+  "eanNumber": "3322937117741",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "26"
+    ],
+    "MinimumThicknessValues": [
+      "24,2"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "43,7"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "281"
+    ],
+    "BoltHoleCircle": [
+      "98"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E1 90R-02 C0176/0575"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "59"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "16,5"
+    ]
+  }
+}

@@ -1,0 +1,101 @@
+[
+  {
+    "brand": "NISSAN",
+    "model": "CABSTAR (F24M, F24W) | CABSTAR E",
+    "engineType": "35.13 DCI, 45.13 DCI 2.5 (F24M)",
+    "madeYear": "09.2006 - 12.2012",
+    "kw": "96",
+    "hp": "131",
+    "cc": "2488",
+    "engineCodes": "YD25DDTi",
+    "KBA_Numbers": "7606AAD"
+  },
+  {
+    "brand": "NISSAN",
+    "model": "CABSTAR (F24M, F24W) | CABSTAR E",
+    "engineType": "35.14 DCI, 45.14 DCI 2.5 (F24M)",
+    "madeYear": "09.2006 - 12.2013",
+    "kw": "100",
+    "hp": "136",
+    "cc": "2488",
+    "engineCodes": "YD25DDTi, YD25K3LD-5MI",
+    "KBA_Numbers": ""
+  },
+  {
+    "brand": "NISSAN",
+    "model": "CABSTAR (F24M, F24W) | CABSTAR E",
+    "engineType": "35.15 DCI, 45.15 DCI 3.0 (F24M)",
+    "madeYear": "09.2006 - 12.2013",
+    "kw": "110",
+    "hp": "150",
+    "cc": "2953",
+    "engineCodes": "ZD30, ZD30H HD-5, ZD30DDTi",
+    "KBA_Numbers": "7606AAE"
+  },
+  {
+    "brand": "NISSAN",
+    "model": "CABSTAR E (TL_, VL_)",
+    "engineType": "105.35, 110.35, 110.45 (TL0)",
+    "madeYear": "10.1998 - 10.2006",
+    "kw": "78",
+    "hp": "106",
+    "cc": "2953",
+    "engineCodes": "BD-30Ti",
+    "KBA_Numbers": ""
+  },
+  {
+    "brand": "NISSAN",
+    "model": "CABSTAR E (TL_, VL_)",
+    "engineType": "120.35, 120.45 (TL0)",
+    "madeYear": "10.1998 - 10.2006",
+    "kw": "88",
+    "hp": "120",
+    "cc": "2953",
+    "engineCodes": "BD-30Ti",
+    "KBA_Numbers": "7505010"
+  },
+  {
+    "brand": "NISSAN",
+    "model": "CABSTAR E (TL_, VL_)",
+    "engineType": "125.35, 125.45 (TL0, VL0)",
+    "madeYear": "10.1998 - 10.2006",
+    "kw": "92",
+    "hp": "125",
+    "cc": "2953",
+    "engineCodes": "BD-30Ti",
+    "KBA_Numbers": "7606508, 7606AAA, 7505011"
+  },
+  {
+    "brand": "NISSAN",
+    "model": "NT400 CABSTAR (F24M)",
+    "engineType": "35.14, 45.14",
+    "madeYear": "Başlangıç 01.2014",
+    "kw": "100",
+    "hp": "136",
+    "cc": "2488",
+    "engineCodes": "YD25K3LD-5MI, YD25DDTi",
+    "KBA_Numbers": "1329AGT, 1329AGR"
+  },
+  {
+    "brand": "NISSAN",
+    "model": "NT400 CABSTAR (F24M)",
+    "engineType": "35.15, 45.15",
+    "madeYear": "Başlangıç 01.2014",
+    "kw": "107",
+    "hp": "146",
+    "cc": "2488",
+    "engineCodes": "YD25K3LD-5HO, YD25DDTi",
+    "KBA_Numbers": "1329AJZ, 1329AHY"
+  },
+  {
+    "brand": "NISSAN",
+    "model": "NT400 CABSTAR (F24M)",
+    "engineType": "35.15, 45.15",
+    "madeYear": "Başlangıç 09.2016",
+    "kw": "110",
+    "hp": "150",
+    "cc": "2953",
+    "engineCodes": "ZD30DDTi",
+    "KBA_Numbers": "1329ALA, 1329AKY"
+  }
+]

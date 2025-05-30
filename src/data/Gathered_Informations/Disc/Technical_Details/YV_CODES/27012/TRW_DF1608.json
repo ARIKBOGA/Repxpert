@@ -1,0 +1,84 @@
+{
+  "reference": "DF1608",
+  "id": "DF1608",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "BEDFORD": [
+      "5 69 030",
+      "90008005"
+    ],
+    "CHEVROLET": [
+      "5 69 030",
+      "90008005",
+      "90111242"
+    ],
+    "DAEWOO": [
+      "90111242"
+    ],
+    "OPEL": [
+      "5 69 030",
+      "90008005"
+    ],
+    "PONTIAC": [
+      "90111242"
+    ],
+    "VAUXHALL": [
+      "5 69 030",
+      "90008005",
+      "90111242"
+    ]
+  },
+  "eanNumber": "3322936160809",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "12,6"
+    ],
+    "MinimumThicknessValues": [
+      "9,7"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "41"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "236"
+    ],
+    "BoltHoleCircle": [
+      "100"
+    ],
+    "NumberOfHoles": [
+      "6"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E190R-02C0190/0541"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Cıvatalar ile"
+    ],
+    "CenteringDiameter": [
+      "60"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "14,6"
+    ]
+  }
+}

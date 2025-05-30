@@ -1,0 +1,55 @@
+{
+  "reference": "DF2775",
+  "id": "DF2775",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "SKODA": [
+      "115 430 212"
+    ]
+  },
+  "eanNumber": "3322937205684",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "12,8"
+    ],
+    "MinimumThicknessValues": [
+      "11,4"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "48,7"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "236"
+    ],
+    "BoltHoleCircle": [
+      "100"
+    ],
+    "NumberOfHoles": [
+      "4"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "62"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": [
+      "13,75"
+    ]
+  }
+}

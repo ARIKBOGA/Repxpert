@@ -1,0 +1,68 @@
+{
+  "reference": "92242203",
+  "id": "92242203",
+  "name": "Fren diski PRO",
+  "brand": "TEXTAR",
+  "brand_oe_map": {
+    "HYUNDAI": [
+      "584110U300",
+      "58411C8000"
+    ],
+    "KIA": [
+      "584110U300",
+      "S584110U300"
+    ]
+  },
+  "eanNumber": "4019722448423",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "10"
+    ],
+    "MinimumThicknessValues": [
+      "8,4"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "43,9"
+    ],
+    "InnerDiameter": [
+      "162"
+    ],
+    "OuterDiameter": [
+      "262"
+    ],
+    "BoltHoleCircle": [
+      "100"
+    ],
+    "NumberOfHoles": [
+      "04/05"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "62,5"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "04/05"
+    ],
+    "WheelBoltBoreDiameter": [
+      "12,6"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

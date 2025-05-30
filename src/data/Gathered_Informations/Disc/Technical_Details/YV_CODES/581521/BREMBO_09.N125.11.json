@@ -1,0 +1,72 @@
+{
+  "reference": "09.N125.11",
+  "id": "09.N125.11",
+  "name": "Fren diski PRIME LINE - UV Coated",
+  "brand": "BREMBO",
+  "brand_oe_map": {
+    "CHRYSLER": [
+      "68032944AA",
+      "68032944AB"
+    ],
+    "DODGE": [
+      "680322944AA",
+      "68032944AA",
+      "68032944AB",
+      "K68032944AA"
+    ],
+    "FIAT": [
+      "K68032944AA",
+      "K68032944AB"
+    ],
+    "VW": [
+      "7B0615301A",
+      "7B0615301B",
+      "7B0615301C",
+      "K68032944AA"
+    ]
+  },
+  "eanNumber": "8020584039458",
+  "disc": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "28"
+    ],
+    "MinimumThicknessValues": [
+      "26,4"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "38"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "302"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "73"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [
+      "129"
+    ],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

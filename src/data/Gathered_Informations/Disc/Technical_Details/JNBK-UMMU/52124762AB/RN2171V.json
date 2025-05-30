@@ -1,0 +1,32 @@
+{
+  "oe": "52124762AB",
+  "productID": "RN2171V",
+  "productType": "ROTOR DISC",
+  "specifications": {
+    "Type": "Vented",
+    "Outter Ø": "330",
+    "Num. of holes": "5",
+    "Disc Thickness (Max)": "32",
+    "Disc Thickness (Min)": "30",
+    "Height": "54.5",
+    "Centering Diameter": "72",
+    "Pitch Circle Ø": "127",
+    "Drum Ø:": "173",
+    "Front/Rear": "Front",
+    "Structure Material": "G3000"
+  },
+  "crossReferences": [
+    {
+      "brand": "CHRYSLER",
+      "oe": "52124 762AB"
+    },
+    {
+      "brand": "CHRYSLER",
+      "oe": "52124 762AC"
+    },
+    {
+      "brand": "CHRYSLER",
+      "oe": "52124 762AD"
+    }
+  ]
+}

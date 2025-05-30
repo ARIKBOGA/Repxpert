@@ -1,0 +1,77 @@
+{
+  "reference": "09.A630.10",
+  "id": "09.A630.10",
+  "name": "Fren diski PRIME LINE",
+  "brand": "BREMBO",
+  "brand_oe_map": {
+    "CHEVROLET": [
+      "15837488",
+      "20892949",
+      "20955857",
+      "25804049",
+      "96625948"
+    ],
+    "CHEVROLET (SGM)": [
+      "20955857",
+      "96625948"
+    ],
+    "OPEL": [
+      "20955857",
+      "4801850",
+      "4808848",
+      "96625948"
+    ],
+    "SUZUKI": [
+      "5521178J01",
+      "5521178J02"
+    ],
+    "VAUXHALL": [
+      "20955857",
+      "96625948"
+    ]
+  },
+  "eanNumber": "8020584018453",
+  "disc": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "29"
+    ],
+    "MinimumThicknessValues": [
+      "27,4"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "52"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "296"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "71"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [
+      "Yüksek karbonlu"
+    ],
+    "TighteningTorque": [
+      "125"
+    ],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

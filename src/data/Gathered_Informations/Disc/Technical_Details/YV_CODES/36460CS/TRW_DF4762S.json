@@ -1,0 +1,71 @@
+{
+  "reference": "DF4762S",
+  "id": "DF4762S",
+  "name": "Fren diski TRW SINGLE",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "PORSCHE": [
+      "955 351 401 00",
+      "955 351 401 40",
+      "955 351 401 41"
+    ],
+    "VW": [
+      "7L6 615 301 D",
+      "7L6 615 301 J",
+      "7L6 615 301 N",
+      "7L6 615 301 P"
+    ]
+  },
+  "eanNumber": "3322937562947",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "31,9"
+    ],
+    "MinimumThicknessValues": [
+      "30"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "68,4"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "330"
+    ],
+    "BoltHoleCircle": [
+      "130"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E190R-02C0176/0556"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "84,5"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [
+      "Yüksek karbonlu"
+    ],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "15,4"
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "reference": "DF1802",
+  "id": "DF1802",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "LAND ROVER": [
+      "571 912",
+      "FRC9831",
+      "FTC 461",
+      "FTC1381",
+      "FTC86",
+      "LR017953"
+    ],
+    "ROVER": [
+      "FTC1381",
+      "LR017953"
+    ]
+  },
+  "eanNumber": "3322937076130",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "12,5"
+    ],
+    "MinimumThicknessValues": [
+      "11,7"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "61,5"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "290"
+    ],
+    "BoltHoleCircle": [
+      "136"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E1 90R-02 C0190/0676"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "101,6"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "6,5"
+    ]
+  }
+}

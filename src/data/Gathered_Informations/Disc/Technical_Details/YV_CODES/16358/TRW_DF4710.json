@@ -1,0 +1,73 @@
+{
+  "reference": "DF4710",
+  "id": "DF4710",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "HYUNDAI": [
+      "51712-3D100",
+      "51712-3D300"
+    ],
+    "HYUNDAI (BEIJING)": [
+      "5171209000",
+      "517123D300"
+    ],
+    "KIA": [
+      "51712-3C000",
+      "51712-3C100"
+    ],
+    "KIA (DYK)": [
+      "5171209000"
+    ]
+  },
+  "eanNumber": "3322937513130",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "26"
+    ],
+    "MinimumThicknessValues": [
+      "24,4"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "47,3"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "280"
+    ],
+    "BoltHoleCircle": [
+      "114,3"
+    ],
+    "NumberOfHoles": [
+      "4"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E190R-02C0176/0092"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "69"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "12,7"
+    ]
+  }
+}

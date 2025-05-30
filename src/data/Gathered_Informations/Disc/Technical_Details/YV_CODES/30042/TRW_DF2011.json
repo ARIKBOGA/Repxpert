@@ -1,0 +1,61 @@
+{
+  "reference": "DF2011",
+  "id": "DF2011",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "RENAULT": [
+      "77 00 764 193",
+      "77 01 204 955",
+      "77 01 467 955"
+    ]
+  },
+  "eanNumber": "3322936201106",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "20,5"
+    ],
+    "MinimumThicknessValues": [
+      "17,7"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "32"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "265"
+    ],
+    "BoltHoleCircle": [
+      "100"
+    ],
+    "NumberOfHoles": [
+      "4"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "61"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "12,6"
+    ]
+  }
+}

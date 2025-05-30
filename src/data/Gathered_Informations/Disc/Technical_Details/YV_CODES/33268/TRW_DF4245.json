@@ -1,0 +1,104 @@
+{
+  "reference": "DF4245",
+  "id": "DF4245",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "CITROËN": [
+      "16 064 017 80",
+      "16 078 805 80",
+      "16 188 634 80",
+      "16 427 666 80",
+      "16 427 667 80",
+      "4246 Z1",
+      "4246 Z3",
+      "4249 A2",
+      "4249 G6",
+      "4249 K8",
+      "4249 K9",
+      "E 169 248"
+    ],
+    "FIAT": [
+      "1341047080",
+      "46833807",
+      "51856411",
+      "51856412",
+      "71740117",
+      "71772276",
+      "71773399"
+    ],
+    "OPEL": [
+      "16 078 805 80",
+      "16 427 666 80",
+      "16 427 667 80",
+      "4249 K8"
+    ],
+    "PEUGEOT": [
+      "16 078 805 80",
+      "16 188 634 80",
+      "16 427 666 80",
+      "16 427 667 80",
+      "4246 Z3",
+      "4249 A2",
+      "4249 K8",
+      "4249 K9",
+      "E 169 248"
+    ],
+    "VAUXHALL": [
+      "16 078 805 80",
+      "16 427 666 80",
+      "16 427 667 80",
+      "4249 K8"
+    ]
+  },
+  "eanNumber": "3322937353125",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "16"
+    ],
+    "MinimumThicknessValues": [
+      "14,2"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "82"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "280"
+    ],
+    "BoltHoleCircle": [
+      "130"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E1 90R-02 C0204/0527"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "79"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "17,5"
+    ]
+  }
+}

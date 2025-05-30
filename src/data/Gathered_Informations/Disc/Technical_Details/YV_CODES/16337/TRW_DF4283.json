@@ -1,0 +1,92 @@
+{
+  "reference": "DF4283",
+  "id": "DF4283",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "HYUNDAI": [
+      "51712-1F000",
+      "51712-1H000",
+      "51712-1H100",
+      "51712-2C000",
+      "51712-2E300",
+      "51712-2K100",
+      "51712-2L000",
+      "51712-3K050"
+    ],
+    "HYUNDAI (BEIJING)": [
+      "517120Q100",
+      "517121F300",
+      "517122C000",
+      "517123K010"
+    ],
+    "JAC": [
+      "3503011U1510"
+    ],
+    "KIA": [
+      "51712-1D100",
+      "51712-1F000",
+      "51712-1H000",
+      "51712-1H100",
+      "51712-1M000",
+      "51712-2C000",
+      "51712-2K100",
+      "51712-2L000",
+      "51712-3K050"
+    ],
+    "KIA (DYK)": [
+      "517123K010",
+      "K517123K010"
+    ]
+  },
+  "eanNumber": "3322937369560",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "26"
+    ],
+    "MinimumThicknessValues": [
+      "24,4"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "47,4"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "280"
+    ],
+    "BoltHoleCircle": [
+      "114,3"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E1 90R-02 C0176/0450"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "69"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "12,6"
+    ]
+  }
+}

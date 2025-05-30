@@ -1,0 +1,88 @@
+{
+  "reference": "08.B351.11",
+  "id": "08.B351.11",
+  "name": "Fren diski PRIME LINE - UV Coated",
+  "brand": "BREMBO",
+  "brand_oe_map": {
+    "BUICK (SGM)": [
+      "13502138"
+    ],
+    "CHEVROLET": [
+      "13502139",
+      "13504280",
+      "23118061",
+      "23118282"
+    ],
+    "CHEVROLET (SGM)": [
+      "13502138"
+    ],
+    "OPEL": [
+      "0569071",
+      "0569075",
+      "0569085",
+      "0569099",
+      "13502137",
+      "13502138",
+      "13504280",
+      "23118061",
+      "569071",
+      "569075",
+      "569085",
+      "569099",
+      "95527033"
+    ],
+    "VAUXHALL": [
+      "13502137",
+      "13502138",
+      "13504280",
+      "23118061",
+      "95527033"
+    ]
+  },
+  "eanNumber": "8020584028445",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "12"
+    ],
+    "MinimumThicknessValues": [
+      "10"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "45"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "292"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Cıvatalar ile"
+    ],
+    "CenteringDiameter": [
+      "71"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [
+      "110"
+    ],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

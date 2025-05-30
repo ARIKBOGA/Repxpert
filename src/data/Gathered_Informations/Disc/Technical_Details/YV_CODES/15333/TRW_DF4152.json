@@ -1,0 +1,72 @@
+{
+  "reference": "DF4152",
+  "id": "DF4152",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "HONDA": [
+      "45251-S50-G00",
+      "45251-S50-J00",
+      "45251-SAA-G00",
+      "45251-SAA-G10",
+      "45251-SAA-G11",
+      "45251-SAA-G12",
+      "45251-SEL-T00",
+      "45251-SEL-T10"
+    ],
+    "HONDA (GAC)": [
+      "45251SENH20",
+      "45251SENH30"
+    ]
+  },
+  "eanNumber": "3322937288946",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "21"
+    ],
+    "MinimumThicknessValues": [
+      "19"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "39,1"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "240"
+    ],
+    "BoltHoleCircle": [
+      "100"
+    ],
+    "NumberOfHoles": [
+      "4"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E1 90R-02 C0176/0617"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "61"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "12,6"
+    ]
+  }
+}

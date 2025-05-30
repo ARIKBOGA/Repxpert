@@ -1,0 +1,72 @@
+{
+  "reference": "78BD3256-2",
+  "id": "78BD3256-2",
+  "name": "Fren diski",
+  "brand": "ICER",
+  "brand_oe_map": {
+    "MAZDA": [
+      "B530-33-25XE",
+      "BB7E-33-25XA",
+      "BB7E-33-25XC",
+      "BB7E-33-25XD",
+      "BR74-33-25X",
+      "BW8Y-33-251",
+      "F1ZZ-11-25B",
+      "F2ZZ-11-25B"
+    ]
+  },
+  "eanNumber": "8424073144645",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "20"
+    ],
+    "MinimumThicknessValues": [
+      "20"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "45"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "257"
+    ],
+    "BoltHoleCircle": [
+      "100"
+    ],
+    "NumberOfHoles": [
+      "4"
+    ],
+    "AxleVersion": [
+      "Front"
+    ],
+    "TechnicalInformationNumber": [
+      "78BD3256-2"
+    ],
+    "TestMark": [
+      "E1 90R-02C0074/0061"
+    ],
+    "Diameter": [
+      "55"
+    ],
+    "Thickness": [
+      "22"
+    ],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "55"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "4"
+    ],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

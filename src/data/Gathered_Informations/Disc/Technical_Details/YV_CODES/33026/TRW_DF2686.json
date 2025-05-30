@@ -1,0 +1,91 @@
+{
+  "reference": "DF2686",
+  "id": "DF2686",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "ALFA ROMEO": [
+      "00608 06137",
+      "00608 10076",
+      "00608 11256",
+      "00608 11266",
+      "46423415",
+      "60806137",
+      "60810076",
+      "60811256",
+      "60811266",
+      "71738145"
+    ],
+    "FIAT": [
+      "0000007645056",
+      "0000060811266",
+      "46416712",
+      "4642315",
+      "46423415",
+      "51749124",
+      "60811266",
+      "71738145",
+      "7645056",
+      "7779409"
+    ],
+    "LANCIA": [
+      "0000007645056",
+      "0000060811266",
+      "46416712",
+      "46423415",
+      "71738145",
+      "7645056",
+      "7779409"
+    ]
+  },
+  "eanNumber": "3322937108664",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "20"
+    ],
+    "MinimumThicknessValues": [
+      "18,2"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "40,6"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "257"
+    ],
+    "BoltHoleCircle": [
+      "98"
+    ],
+    "NumberOfHoles": [
+      "4"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E190R-02C0176/0520"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "59"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "13,2"
+    ]
+  }
+}

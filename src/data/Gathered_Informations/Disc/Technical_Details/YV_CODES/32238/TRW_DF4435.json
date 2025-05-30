@@ -1,0 +1,68 @@
+{
+  "reference": "DF4435",
+  "id": "DF4435",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "SUZUKI": [
+      "55311-62G00",
+      "55311-62G00-000",
+      "55311-62G01",
+      "55311-62G02",
+      "55311-62G02-000",
+      "55311-62G03-000"
+    ]
+  },
+  "eanNumber": "3322937474288",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "20"
+    ],
+    "MinimumThicknessValues": [
+      "18"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "50"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "246"
+    ],
+    "BoltHoleCircle": [
+      "100"
+    ],
+    "NumberOfHoles": [
+      "4"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E1 90R-02 C0176/0732"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "60"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [
+      "Yüksek karbonlu"
+    ],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "12,8"
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "reference": "08.C247.10",
+  "id": "08.C247.10",
+  "name": "Fren diski PRIME LINE",
+  "brand": "BREMBO",
+  "brand_oe_map": {
+    "CHRYSLER": [
+      "2AMV3999AA"
+    ],
+    "CITROËN": [
+      "1606292080",
+      "1611667880"
+    ],
+    "JEEP": [
+      "04743999AB",
+      "2AMV3999AA"
+    ],
+    "LANCIA": [
+      "K04743999AA"
+    ],
+    "MITSUBISHI": [
+      "4615A010",
+      "4615A121",
+      "4615A193"
+    ],
+    "MITSUBISHI (GAC)": [
+      "4615A121",
+      "4615A193"
+    ],
+    "PEUGEOT": [
+      "1606292080",
+      "1611667880"
+    ]
+  },
+  "eanNumber": "8020584218594",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "10"
+    ],
+    "MinimumThicknessValues": [
+      "8,4"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "60"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "302"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "80"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

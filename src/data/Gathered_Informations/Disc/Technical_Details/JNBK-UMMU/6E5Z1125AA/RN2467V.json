@@ -1,0 +1,61 @@
+{
+  "oe": "6E5Z1125AA",
+  "productID": "RN2467V",
+  "productType": "ROTOR DISC",
+  "specifications": {
+    "Type": "Vented",
+    "Outter Ø": "299",
+    "Num. of holes": "5",
+    "Hole Ø:": "13",
+    "Disc Thickness (Max)": "25",
+    "Disc Thickness (Min)": "23",
+    "Height": "48.7",
+    "Centering Diameter": "72",
+    "Pitch Circle Ø": "114.3",
+    "Drum Ø:": "142.7",
+    "Front/Rear": "Front",
+    "Structure Material": "G3000"
+  },
+  "crossReferences": [
+    {
+      "brand": "FORD",
+      "oe": "6E5Z-1125-AA"
+    },
+    {
+      "brand": "FORD",
+      "oe": "6U2Z-1V125-E"
+    },
+    {
+      "brand": "FORD",
+      "oe": "6U2Z1V125H"
+    },
+    {
+      "brand": "FORD",
+      "oe": "9E5Z-1125-A"
+    },
+    {
+      "brand": "FORD",
+      "oe": "9E5Z-1125-B"
+    },
+    {
+      "brand": "FORD",
+      "oe": "9E5Z-1125-C"
+    },
+    {
+      "brand": "FORD",
+      "oe": "G2MZ-1V125-JA"
+    },
+    {
+      "brand": "MAZDA",
+      "oe": "GP7Y-33-25X"
+    },
+    {
+      "brand": "MAZDA",
+      "oe": "GP7Y-33-25XA"
+    },
+    {
+      "brand": "MAZDA",
+      "oe": "GP7Y-33-25XB"
+    }
+  ]
+}

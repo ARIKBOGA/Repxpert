@@ -1,0 +1,57 @@
+[
+  {
+    "brand": "BMW",
+    "model": "5 (E28)",
+    "engineType": "518",
+    "madeYear": "06.1981 - 09.1984",
+    "kw": "66",
+    "hp": "90",
+    "cc": "1766",
+    "engineCodes": "M10 B18 (184VD)  M10 B18 (184VC)",
+    "KBA_Numbers": "0005420"
+  },
+  {
+    "brand": "BMW",
+    "model": "5 (E28)",
+    "engineType": "518 i",
+    "madeYear": "05.1981 - 12.1987",
+    "kw": "77",
+    "hp": "105",
+    "cc": "1766",
+    "engineCodes": "M10 B18 (184EB)",
+    "KBA_Numbers": "0005435"
+  },
+  {
+    "brand": "BMW",
+    "model": "5 (E28)",
+    "engineType": "520 i",
+    "madeYear": "06.1981 - 12.1987",
+    "kw": "92",
+    "hp": "125",
+    "cc": "1990",
+    "engineCodes": "M20 B20 (206EZ)  M20 B20 (206EB)  M20 B20 (206EC)  M20 B20 (206EA)",
+    "KBA_Numbers": "0005419  0005421"
+  },
+  {
+    "brand": "BMW",
+    "model": "5 (E28)",
+    "engineType": "520 i",
+    "madeYear": "08.1985 - 12.1987",
+    "kw": "95",
+    "hp": "129",
+    "cc": "1990",
+    "engineCodes": "M20 B20 (206KA)",
+    "KBA_Numbers": "0005450"
+  },
+  {
+    "brand": "BMW",
+    "model": "5 (E28)",
+    "engineType": "524 td",
+    "madeYear": "09.1983 - 12.1987",
+    "kw": "85",
+    "hp": "115",
+    "cc": "2443",
+    "engineCodes": "M21 D24 (246TA)",
+    "KBA_Numbers": "0005431"
+  }
+]

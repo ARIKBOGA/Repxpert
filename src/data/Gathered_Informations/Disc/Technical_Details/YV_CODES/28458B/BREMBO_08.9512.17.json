@@ -1,0 +1,76 @@
+{
+  "reference": "08.9512.17",
+  "id": "08.9512.17",
+  "name": "Fren diski PRIME LINE - With Bearing Kit",
+  "brand": "BREMBO",
+  "brand_oe_map": {
+    "CITROËN": [
+      "1619237880",
+      "4246Z9",
+      "424934",
+      "E169195",
+      "E169506",
+      "E169510"
+    ],
+    "CITROËN (DF-PSA)": [
+      "4246Z9",
+      "424934"
+    ],
+    "PEUGEOT": [
+      "1619237880",
+      "4246Z9",
+      "424934",
+      "E169195",
+      "E169506",
+      "E169510"
+    ],
+    "PEUGEOT (DF-PSA)": [
+      "4246Z9",
+      "424934"
+    ]
+  },
+  "eanNumber": "8020584014370",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "9"
+    ],
+    "MinimumThicknessValues": [
+      "7"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "67"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "249"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [
+      "4"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Tekerlek yatağı seti, ABS sensör halkası ile"
+    ],
+    "CenteringDiameter": [
+      "25"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [
+      "90"
+    ],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

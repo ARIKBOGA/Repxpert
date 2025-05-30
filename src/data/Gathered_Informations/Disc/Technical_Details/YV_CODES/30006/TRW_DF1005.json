@@ -1,0 +1,73 @@
+{
+  "reference": "DF1005",
+  "id": "DF1005",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "ARO": [
+      "10230001202",
+      "7700502515",
+      "7797502515"
+    ],
+    "DACIA": [
+      "26 77 502 515",
+      "26 77 509 150",
+      "77 00 502 515",
+      "77 01 466 540"
+    ],
+    "RENAULT": [
+      "77 00 502 515",
+      "77 01 466 540"
+    ]
+  },
+  "eanNumber": "3322936100508",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "10"
+    ],
+    "MinimumThicknessValues": [
+      "9"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "38,5"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "228"
+    ],
+    "BoltHoleCircle": [
+      "99"
+    ],
+    "NumberOfHoles": [
+      "6"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E190R-02 C0190/0628"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "83"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "M8 x 1,50"
+    ]
+  }
+}

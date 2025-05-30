@@ -1,0 +1,65 @@
+{
+  "reference": "09.B565.10",
+  "id": "09.B565.10",
+  "name": "Fren diski PRIME LINE",
+  "brand": "BREMBO",
+  "brand_oe_map": {
+    "INFINITI": [
+      "402061KA3A",
+      "402061KA3B"
+    ],
+    "NISSAN": [
+      "402061KA2A",
+      "402061KA3A",
+      "402061KA3B",
+      "402063DA0B",
+      "402063SG0A",
+      "402063SG0B",
+      "402063SG0E"
+    ],
+    "NISSAN (DFAC)": [
+      "402063DA0A",
+      "402063DA0B"
+    ]
+  },
+  "eanNumber": "8020584039977",
+  "disc": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "24"
+    ],
+    "MinimumThicknessValues": [
+      "22"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "44"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "280"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "68"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "reference": "DF4852S",
+  "id": "DF4852S",
+  "name": "Fren diski TRW SINGLE",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "BMW": [
+      "34 11 6 771 985",
+      "34 11 6 793 245",
+      "34 11 6 868 939",
+      "6 771 985",
+      "6 793 245",
+      "6 868 939"
+    ]
+  },
+  "eanNumber": "3322937928651",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "29,9"
+    ],
+    "MinimumThicknessValues": [
+      "28,4"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "62"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "332"
+    ],
+    "BoltHoleCircle": [
+      "120"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "75"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [
+      "Yüksek karbonlu"
+    ],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "16,5"
+    ]
+  }
+}

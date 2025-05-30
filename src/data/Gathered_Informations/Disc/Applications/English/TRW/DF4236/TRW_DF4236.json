@@ -1,0 +1,211 @@
+[
+  {
+    "brand": "OPEL",
+    "model": "CORSA C (X01) | VITA",
+    "engineType": "1.0 (F08, F68)",
+    "madeYear": "09.2000 - 06.2003",
+    "kw": "43",
+    "hp": "58",
+    "cc": "973",
+    "engineCodes": "Z 10 XE",
+    "KBA_Numbers": "0035394"
+  },
+  {
+    "brand": "OPEL",
+    "model": "CORSA C (X01) | VITA",
+    "engineType": "1.0 (F08, F68)",
+    "madeYear": "06.2003 - 12.2009",
+    "kw": "44",
+    "hp": "60",
+    "cc": "998",
+    "engineCodes": "Z 10 XEP",
+    "KBA_Numbers": "0035519"
+  },
+  {
+    "brand": "OPEL",
+    "model": "CORSA C (X01) | VITA",
+    "engineType": "1.2 (F08, F68)",
+    "madeYear": "09.2000 - 12.2009",
+    "kw": "55",
+    "hp": "75",
+    "cc": "1199",
+    "engineCodes": "Z 12 XE",
+    "KBA_Numbers": "0035395"
+  },
+  {
+    "brand": "OPEL",
+    "model": "CORSA C (X01) | VITA",
+    "engineType": "1.2 Twinport (F08, F68)",
+    "madeYear": "07.2004 - 12.2009",
+    "kw": "59",
+    "hp": "80",
+    "cc": "1229",
+    "engineCodes": "Z 12 XEP",
+    "KBA_Numbers": "0035534"
+  },
+  {
+    "brand": "OPEL",
+    "model": "CORSA C (X01) | VITA",
+    "engineType": "1.7 DI (F08, F68)",
+    "madeYear": "09.2000 - 12.2009",
+    "kw": "48",
+    "hp": "65",
+    "cc": "1686",
+    "engineCodes": "Y 17 DTL",
+    "KBA_Numbers": "0035416"
+  },
+  {
+    "brand": "OPEL",
+    "model": "CORSA C Hatchback Van (X01)",
+    "engineType": "1.2 (F08, W5L)",
+    "madeYear": "07.2005 - 06.2006",
+    "kw": "59",
+    "hp": "80",
+    "cc": "1229",
+    "engineCodes": "Z 12 XEP",
+    "KBA_Numbers": "0035AFE  0035117"
+  },
+  {
+    "brand": "OPEL",
+    "model": "CORSA C Hatchback Van (X01)",
+    "engineType": "1.2 16V (F08, W5L)",
+    "madeYear": "09.2000 - 07.2003",
+    "kw": "55",
+    "hp": "75",
+    "cc": "1199",
+    "engineCodes": "Z 12 XE",
+    "KBA_Numbers": ""
+  },
+  {
+    "brand": "OPEL",
+    "model": "CORSA C Hatchback Van (X01)",
+    "engineType": "1.7 DI 16V (F08, W5L)",
+    "madeYear": "09.2000 - 07.2003",
+    "kw": "48",
+    "hp": "65",
+    "cc": "1686",
+    "engineCodes": "Y 17 DTL",
+    "KBA_Numbers": ""
+  },
+  {
+    "brand": "VAUXHALL",
+    "model": "CORSA Mk II (C) (X01)",
+    "engineType": "1.0 12V (F08, F68)",
+    "madeYear": "09.2000 - 10.2003",
+    "kw": "43",
+    "hp": "58",
+    "cc": "973",
+    "engineCodes": "Z 10 XE",
+    "KBA_Numbers": ""
+  },
+  {
+    "brand": "VAUXHALL",
+    "model": "CORSA Mk II (C) (X01)",
+    "engineType": "1.0 12V (F08, F68)",
+    "madeYear": "11.2003 - 10.2006",
+    "kw": "44",
+    "hp": "60",
+    "cc": "998",
+    "engineCodes": "Z 10 XEP",
+    "KBA_Numbers": ""
+  },
+  {
+    "brand": "VAUXHALL",
+    "model": "CORSA Mk II (C) (X01)",
+    "engineType": "1.2 16V (F08, F68)",
+    "madeYear": "09.2000 - 10.2006",
+    "kw": "55",
+    "hp": "75",
+    "cc": "1199",
+    "engineCodes": "Z 12 XE",
+    "KBA_Numbers": ""
+  },
+  {
+    "brand": "VAUXHALL",
+    "model": "CORSA Mk II (C) (X01)",
+    "engineType": "1.2 16V Dualfuel (F08)",
+    "madeYear": "08.2001 - 10.2006",
+    "kw": "55",
+    "hp": "75",
+    "cc": "1199",
+    "engineCodes": "Z 12 XE",
+    "KBA_Numbers": ""
+  },
+  {
+    "brand": "VAUXHALL",
+    "model": "CORSA Mk II (C) (X01)",
+    "engineType": "1.2 Twinport (F08, F68)",
+    "madeYear": "07.2004 - 10.2006",
+    "kw": "59",
+    "hp": "80",
+    "cc": "1229",
+    "engineCodes": "Z 12 XEP",
+    "KBA_Numbers": ""
+  },
+  {
+    "brand": "VAUXHALL",
+    "model": "CORSA Mk II (C) (X01)",
+    "engineType": "1.7 DI 16V (F08, F68)",
+    "madeYear": "08.2000 - 09.2006",
+    "kw": "48",
+    "hp": "65",
+    "cc": "1686",
+    "engineCodes": "Y 17 DTL",
+    "KBA_Numbers": ""
+  },
+  {
+    "brand": "VAUXHALL",
+    "model": "CORSAVAN Mk II (C) Hatchback Van (X01)",
+    "engineType": "1.2 16V (F08)",
+    "madeYear": "09.2000 - 06.2006",
+    "kw": "55",
+    "hp": "75",
+    "cc": "1199",
+    "engineCodes": "Z 12 XE",
+    "KBA_Numbers": ""
+  },
+  {
+    "brand": "VAUXHALL",
+    "model": "CORSAVAN Mk II (C) Hatchback Van (X01)",
+    "engineType": "1.2 16V (F08)",
+    "madeYear": "07.2004 - 11.2006",
+    "kw": "59",
+    "hp": "80",
+    "cc": "1229",
+    "engineCodes": "Z 12 XEP",
+    "KBA_Numbers": ""
+  },
+  {
+    "brand": "VAUXHALL",
+    "model": "CORSAVAN Mk II (C) Hatchback Van (X01)",
+    "engineType": "1.2 16V Dualfuel (F08)",
+    "madeYear": "08.2001 - 06.2006",
+    "kw": "55",
+    "hp": "75",
+    "cc": "1199",
+    "engineCodes": "Z 12 XE",
+    "KBA_Numbers": ""
+  },
+  {
+    "brand": "VAUXHALL",
+    "model": "CORSAVAN Mk II (C) Hatchback Van (X01)",
+    "engineType": "1.2 16V Dualfuel (F08)",
+    "madeYear": "07.2004 - 12.2005",
+    "kw": "59",
+    "hp": "80",
+    "cc": "1229",
+    "engineCodes": "Z 12 XEP",
+    "KBA_Numbers": ""
+  },
+  {
+    "brand": "VAUXHALL",
+    "model": "CORSAVAN Mk II (C) Hatchback Van (X01)",
+    "engineType": "1.7 DI 16V (F08)",
+    "madeYear": "09.2000 - 06.2006",
+    "kw": "48",
+    "hp": "65",
+    "cc": "1686",
+    "engineCodes": "Y 17 DTL",
+    "KBA_Numbers": ""
+  }
+]

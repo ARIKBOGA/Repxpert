@@ -1,0 +1,65 @@
+{
+  "reference": "78BD3021-2",
+  "id": "78BD3021-2",
+  "name": "Fren diski",
+  "brand": "ICER",
+  "brand_oe_map": {
+    "VW": [
+      "7H0 615 601 B"
+    ]
+  },
+  "eanNumber": "8424073144430",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "19,5"
+    ],
+    "MinimumThicknessValues": [
+      "19,5"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "44,5"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "294"
+    ],
+    "BoltHoleCircle": [
+      "120"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [
+      "Rear"
+    ],
+    "TechnicalInformationNumber": [
+      "78BD3021-2"
+    ],
+    "TestMark": [
+      "E1 90R-02C0289/1559, E1 90R-02C0433/0115"
+    ],
+    "Diameter": [
+      "76"
+    ],
+    "Thickness": [
+      "22"
+    ],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "76"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "5"
+    ],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

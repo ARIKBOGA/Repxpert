@@ -1,0 +1,73 @@
+{
+  "reference": "09.D571.11",
+  "id": "09.D571.11",
+  "name": "Fren diski PRIME LINE - UV Coated",
+  "brand": "BREMBO",
+  "brand_oe_map": {
+    "AUDI": [
+      "2Q0615301H",
+      "2QB615301E",
+      "5QP615301A"
+    ],
+    "SEAT": [
+      "2Q0615301H",
+      "2QB615301E"
+    ],
+    "SKODA": [
+      "2Q0615301H",
+      "2QB615301E",
+      "5QP615301A"
+    ],
+    "VW": [
+      "2Q0615301H",
+      "2QB615301E",
+      "5QP615301A"
+    ]
+  },
+  "eanNumber": "8020584239391",
+  "disc": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "24"
+    ],
+    "MinimumThicknessValues": [
+      "21"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "44"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "276"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Cıvatalar ile"
+    ],
+    "CenteringDiameter": [
+      "65"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [
+      "Yüksek karbonlu"
+    ],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

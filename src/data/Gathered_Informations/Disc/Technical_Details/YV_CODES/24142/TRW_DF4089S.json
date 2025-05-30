@@ -1,0 +1,75 @@
+{
+  "reference": "DF4089S",
+  "id": "DF4089S",
+  "name": "Fren diski TRW SINGLE",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "AUDI": [
+      "2D0 615 601 B"
+    ],
+    "MERCEDES-BENZ": [
+      "904 423 01 12",
+      "904 423 02 12",
+      "904 423 03 12",
+      "A 904 423 01 12",
+      "A 904 423 02 12",
+      "A 904 423 03 12"
+    ],
+    "SKODA": [
+      "2D0 615 601 B"
+    ],
+    "VW": [
+      "2D0 615 601 B"
+    ]
+  },
+  "eanNumber": "3322937403141",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "22"
+    ],
+    "MinimumThicknessValues": [
+      "19"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "93"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "285"
+    ],
+    "BoltHoleCircle": [
+      "145"
+    ],
+    "NumberOfHoles": [
+      "6"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E1 90R-02 C0226/0573"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "120"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "15"
+    ]
+  }
+}

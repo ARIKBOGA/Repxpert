@@ -1,0 +1,73 @@
+{
+  "reference": "09.D251.11",
+  "id": "09.D251.11",
+  "name": "Fren diski PRIME LINE - UV Coated",
+  "brand": "BREMBO",
+  "brand_oe_map": {
+    "LYNK & CO": [
+      "8888942464",
+      "8889033004",
+      "8889061584",
+      "8890801403"
+    ],
+    "VOLVO": [
+      "31423724",
+      "31471413",
+      "31665446",
+      "32217561",
+      "32233185",
+      "32254356",
+      "32300122"
+    ],
+    "VOLVO ASIA": [
+      "31665446",
+      "32217561",
+      "32233185",
+      "32300122"
+    ]
+  },
+  "eanNumber": "8020584234655",
+  "disc": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "28"
+    ],
+    "MinimumThicknessValues": [
+      "25,5"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "47"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "322"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "64"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [
+      "Yüksek karbonlu"
+    ],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

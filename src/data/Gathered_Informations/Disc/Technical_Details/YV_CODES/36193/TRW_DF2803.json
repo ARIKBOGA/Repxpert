@@ -1,0 +1,109 @@
+{
+  "reference": "DF2803",
+  "id": "DF2803",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "AUDI": [
+      "1J0 615 301 D",
+      "1J0 615 301 L",
+      "5Z0 615 301 B",
+      "6R0 615 301",
+      "6R0 615 301 C",
+      "8Z0 615 301 B",
+      "8Z0 615 301 D"
+    ],
+    "BRILLIANCE": [
+      "3496025"
+    ],
+    "SEAT": [
+      "1J0 615 301 D",
+      "1J0 615 301 L",
+      "1J0 698 301 D",
+      "5Z0 615 301 B",
+      "6R0 615 301",
+      "6R0 615 301 C"
+    ],
+    "SKODA": [
+      "1J0 615 301 D",
+      "1J0 615 301 L",
+      "6R0 615 301",
+      "6R0 615 301 C",
+      "6RF 615 301 C"
+    ],
+    "SKODA (SVW)": [
+      "6QD 615 301",
+      "6RD 615 301"
+    ],
+    "VW": [
+      "1J0 615 301 D",
+      "1J0 615 301 L",
+      "1JE 615 301",
+      "5Z0 615 301 B",
+      "6R0 615 301",
+      "6R0 615 301 C",
+      "6RF 615 301 C",
+      "8Z0 615 301 D"
+    ],
+    "VW (FAW)": [
+      "6RD 615 301"
+    ],
+    "VW (SVW)": [
+      "6QD 615 301",
+      "6R0 615 301",
+      "6RD 615 301"
+    ]
+  },
+  "eanNumber": "3322937204922",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "22"
+    ],
+    "MinimumThicknessValues": [
+      "19"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "37"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "256"
+    ],
+    "BoltHoleCircle": [
+      "100"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E1 90R-02 C0185/2514"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "65"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [
+      "Yüksek karbonlu"
+    ],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "16"
+    ]
+  }
+}

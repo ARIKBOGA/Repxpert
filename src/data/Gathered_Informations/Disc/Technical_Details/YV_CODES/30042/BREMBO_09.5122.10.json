@@ -1,0 +1,57 @@
+{
+  "reference": "09.5122.10",
+  "id": "09.5122.10",
+  "name": "Fren diski PRIME LINE",
+  "brand": "BREMBO",
+  "brand_oe_map": {
+    "RENAULT": [
+      "7700764193",
+      "7701204955",
+      "7701467955"
+    ]
+  },
+  "eanNumber": "8020584512210",
+  "disc": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "20,5"
+    ],
+    "MinimumThicknessValues": [
+      "17,7"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "32"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "265"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [
+      "4"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Cıvatalar ile"
+    ],
+    "CenteringDiameter": [
+      "61"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [
+      "85"
+    ],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

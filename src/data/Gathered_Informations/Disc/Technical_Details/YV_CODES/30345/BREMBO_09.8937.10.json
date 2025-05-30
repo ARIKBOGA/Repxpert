@@ -1,0 +1,79 @@
+{
+  "reference": "09.8937.10",
+  "id": "09.8937.10",
+  "name": "Fren diski PRIME LINE",
+  "brand": "BREMBO",
+  "brand_oe_map": {
+    "NISSAN": [
+      "4020600QAE",
+      "4020600QAF",
+      "4020600QAG",
+      "4020600QAH",
+      "8200010519"
+    ],
+    "OPEL": [
+      "4408275",
+      "4413734",
+      "4414632",
+      "91159915",
+      "91165426",
+      "93161253"
+    ],
+    "RENAULT": [
+      "7701206845",
+      "7711130077",
+      "8200010519",
+      "8200227715",
+      "8671017102"
+    ],
+    "VAUXHALL": [
+      "91159915",
+      "91165426",
+      "93161253"
+    ]
+  },
+  "eanNumber": "8020584893715",
+  "disc": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "28"
+    ],
+    "MinimumThicknessValues": [
+      "24"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "49"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "305"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Cıvatalar ile"
+    ],
+    "CenteringDiameter": [
+      "72"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [
+      "Yüksek karbonlu"
+    ],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

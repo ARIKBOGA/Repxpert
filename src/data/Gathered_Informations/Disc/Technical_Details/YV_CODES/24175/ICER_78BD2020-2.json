@@ -1,0 +1,66 @@
+{
+  "reference": "78BD2020-2",
+  "id": "78BD2020-2",
+  "name": "Fren diski",
+  "brand": "ICER",
+  "brand_oe_map": {
+    "TOYOTA": [
+      "43512-52020",
+      "43512-52050"
+    ]
+  },
+  "eanNumber": "8424073143501",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "16"
+    ],
+    "MinimumThicknessValues": [
+      "16"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "43"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "234,5"
+    ],
+    "BoltHoleCircle": [
+      "100"
+    ],
+    "NumberOfHoles": [
+      "4"
+    ],
+    "AxleVersion": [
+      "Front"
+    ],
+    "TechnicalInformationNumber": [
+      "78BD2020-2"
+    ],
+    "TestMark": [
+      "E1 90R-02C0074/0413, E1190R02C01049/52489"
+    ],
+    "Diameter": [
+      "55"
+    ],
+    "Thickness": [
+      "18"
+    ],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "55"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "4"
+    ],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

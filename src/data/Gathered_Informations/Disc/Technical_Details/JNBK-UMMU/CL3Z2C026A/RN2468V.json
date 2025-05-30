@@ -1,0 +1,45 @@
+{
+  "oe": "CL3Z2C026A",
+  "productID": "RN2468V",
+  "productType": "ROTOR DISC",
+  "specifications": {
+    "Type": "Vented",
+    "Outter Ø": "348",
+    "Num. of holes": "6",
+    "Disc Thickness (Max)": "25",
+    "Disc Thickness (Min)": "23",
+    "Height": "79.6",
+    "Centering Diameter": "90",
+    "Pitch Circle Ø": "135",
+    "Drum Ø:": "206",
+    "Front/Rear": "Rear",
+    "Structure Material": "G3000",
+    "Hole Ø:": "15.8"
+  },
+  "crossReferences": [
+    {
+      "brand": "FORD",
+      "oe": "CL3Z-2C026-A"
+    },
+    {
+      "brand": "FORD",
+      "oe": "CL3Z-2C026-C"
+    },
+    {
+      "brand": "FORD",
+      "oe": "CL3Z-2C026-F"
+    },
+    {
+      "brand": "FORD",
+      "oe": "FL3Z-2C026-C"
+    },
+    {
+      "brand": "FORD",
+      "oe": "FL3Z-2C026-E"
+    },
+    {
+      "brand": "FORD",
+      "oe": "G2MZ-2V026-DA"
+    }
+  ]
+}

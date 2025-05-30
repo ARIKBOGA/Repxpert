@@ -1,0 +1,99 @@
+{
+  "reference": "DF4294",
+  "id": "DF4294",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "AUDI": [
+      "1K0 615 301 AC",
+      "1K0 615 301 AK",
+      "1K0 615 301 AS",
+      "1K0 615 301 S",
+      "5C0 615 301",
+      "JZW 615 301 A"
+    ],
+    "SEAT": [
+      "1K0 615 301 AC",
+      "1K0 615 301 AK",
+      "1K0 615 301 AS",
+      "1K0 615 301 S",
+      "JZW 615 301 A"
+    ],
+    "SKODA": [
+      "1K0 615 301 AC",
+      "1K0 615 301 AK",
+      "1K0 615 301 AS",
+      "1K0 615 301 S",
+      "JZW 615 301 A"
+    ],
+    "VW": [
+      "1K0 615 301 AC",
+      "1K0 615 301 AK",
+      "1K0 615 301 AQ",
+      "1K0 615 301 AS",
+      "1K0 615 301 S",
+      "5C0 615 301",
+      "5C0 615 301 C",
+      "JZW 615 301 A"
+    ],
+    "VW (FAW)": [
+      "16D 615 301",
+      "L1KD615301C"
+    ],
+    "VW (SVW)": [
+      "16D 615 301"
+    ]
+  },
+  "eanNumber": "3322937369850",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "22"
+    ],
+    "MinimumThicknessValues": [
+      "19"
+    ],
+    "Surface": [
+      "Boyalı"
+    ],
+    "HeightValues": [
+      "49,5"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "280"
+    ],
+    "BoltHoleCircle": [
+      "112"
+    ],
+    "NumberOfHoles": [
+      "9"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [
+      "E190R-02C0176/0003"
+    ],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "65"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [
+      "Yüksek karbonlu"
+    ],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [
+      "siyah"
+    ],
+    "ThreadSize": [
+      "15,5"
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+[
+  {
+    "brand": "HONDA",
+    "model": "CIVIC VI Coupe (EJ, EM1)",
+    "engineType": "1.6 i Vtec (EM1)",
+    "madeYear": "03.1996 - 03.2000",
+    "kw": "92",
+    "hp": "125",
+    "cc": "1590",
+    "engineCodes": "D16Y8",
+    "KBA_Numbers": "1153311"
+  },
+  {
+    "brand": "HONDA",
+    "model": "CIVIC VI Hatchback (EJ, EK)",
+    "engineType": "1.6 i (EK1)",
+    "madeYear": "11.1995 - 02.2001",
+    "kw": "84",
+    "hp": "114",
+    "cc": "1590",
+    "engineCodes": "D16Y5",
+    "KBA_Numbers": "7100502"
+  },
+  {
+    "brand": "HONDA",
+    "model": "CIVIC VI Sedan (EJ, EK, SO) | BALLADE | INTEGRA SJ",
+    "engineType": "1.6 i Vtec (EK1, SO4)",
+    "madeYear": "11.1995 - 02.2001",
+    "kw": "92",
+    "hp": "125",
+    "cc": "1590",
+    "engineCodes": "D16Y6, D16Y8, D16Y5",
+    "KBA_Numbers": ""
+  },
+  {
+    "brand": "HONDA",
+    "model": "CRX III (EH, EG) | CIVIC del Sol",
+    "engineType": "1.6 ESi (EH6)",
+    "madeYear": "03.1992 - 12.1998",
+    "kw": "92",
+    "hp": "125",
+    "cc": "1590",
+    "engineCodes": "D16Z6, D16Y8",
+    "KBA_Numbers": "7100486"
+  },
+  {
+    "brand": "HONDA",
+    "model": "HR-V (GH_)",
+    "engineType": "1.6 16V (GH1, GH3)",
+    "madeYear": "Başlangıç 03.1999",
+    "kw": "77",
+    "hp": "105",
+    "cc": "1590",
+    "engineCodes": "D16W1",
+    "KBA_Numbers": "7100517, 7100523"
+  },
+  {
+    "brand": "HONDA",
+    "model": "HR-V (GH_)",
+    "engineType": "1.6 16V 4WD (GH2, GH4)",
+    "madeYear": "Başlangıç 03.1999",
+    "kw": "77",
+    "hp": "105",
+    "cc": "1590",
+    "engineCodes": "D16W1",
+    "KBA_Numbers": "7100518, 7100524"
+  },
+  {
+    "brand": "HONDA",
+    "model": "HR-V (GH_)",
+    "engineType": "1.6 16V 4WD (GH2, GH4)",
+    "madeYear": "10.1999 - 09.2005",
+    "kw": "91",
+    "hp": "124",
+    "cc": "1590",
+    "engineCodes": "D16W5",
+    "KBA_Numbers": "7100522, 7100525"
+  }
+]

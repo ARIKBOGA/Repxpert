@@ -1,0 +1,92 @@
+{
+  "reference": "DF1649",
+  "id": "DF1649",
+  "name": "Fren diski",
+  "brand": "TRW",
+  "brand_oe_map": {
+    "AC": [
+      "5022659"
+    ],
+    "FORD": [
+      "1096104",
+      "1619054",
+      "1619229",
+      "1629482",
+      "1644844",
+      "1644845",
+      "1661115",
+      "5022659",
+      "5022660",
+      "5022948",
+      "5023573",
+      "5023802",
+      "6077974",
+      "6133549",
+      "6133550",
+      "6134507",
+      "6155824",
+      "6158202",
+      "6158204",
+      "6158210",
+      "6158211",
+      "6200551",
+      "87BX-1125-CA",
+      "87BX-1125-DA",
+      "87BX-1125-S1A",
+      "87BX-1125-SA",
+      "V90BX-1125-AA"
+    ],
+    "PANTHER": [
+      "5022659"
+    ],
+    "TVR": [
+      "5022659"
+    ]
+  },
+  "eanNumber": "3322936164906",
+  "disc": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "24,1"
+    ],
+    "MinimumThicknessValues": [
+      "22,6"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "58"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "240"
+    ],
+    "BoltHoleCircle": [
+      "108"
+    ],
+    "NumberOfHoles": [
+      "4"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Cıvatalar ile"
+    ],
+    "CenteringDiameter": [
+      "63,5"
+    ],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": [
+      "13,7"
+    ]
+  }
+}

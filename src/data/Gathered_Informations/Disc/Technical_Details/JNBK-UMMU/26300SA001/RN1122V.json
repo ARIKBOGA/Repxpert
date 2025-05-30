@@ -1,0 +1,68 @@
+{
+  "oe": "26300SA001",
+  "productID": "RN1122V",
+  "productType": "ROTOR DISC",
+  "specifications": {
+    "Type": "Vented",
+    "Disc Thickness (Max)": "24",
+    "Num. of holes": "5",
+    "Height": "56.7",
+    "Centering Diameter": "58",
+    "Front/Rear": "Front",
+    "Pitch Circle Ø": "100",
+    "Outter Ø": "294",
+    "Drum Ø:": "127",
+    "Disc Thickness (Min)": "22",
+    "Structure Material": "G3000"
+  },
+  "crossReferences": [
+    {
+      "brand": "OEM",
+      "oe": "26300AE02A"
+    },
+    {
+      "brand": "SUBARU",
+      "oe": "26300-AG01A"
+    },
+    {
+      "brand": "SUBARU",
+      "oe": "26300-FE040"
+    },
+    {
+      "brand": "SUBARU",
+      "oe": "26300-SA001"
+    },
+    {
+      "brand": "SUBARU",
+      "oe": "26300AE02A"
+    },
+    {
+      "brand": "SUBARU",
+      "oe": "26300AE060"
+    },
+    {
+      "brand": "SUBARU",
+      "oe": "26300AE061"
+    },
+    {
+      "brand": "SUBARU",
+      "oe": "26300FE010"
+    },
+    {
+      "brand": "SUBARU",
+      "oe": "26300SA000"
+    },
+    {
+      "brand": "SUBARU",
+      "oe": "26310AC040"
+    },
+    {
+      "brand": "SUBARU",
+      "oe": "26310AC041"
+    },
+    {
+      "brand": "TOYOTA",
+      "oe": "SU003-00586"
+    }
+  ]
+}

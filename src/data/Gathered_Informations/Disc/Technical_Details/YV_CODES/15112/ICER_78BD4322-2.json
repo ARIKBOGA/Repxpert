@@ -1,0 +1,69 @@
+{
+  "reference": "78BD4322-2",
+  "id": "78BD4322-2",
+  "name": "Fren diski",
+  "brand": "ICER",
+  "brand_oe_map": {
+    "SKODA": [
+      "002 415 019",
+      "6U0 615 301"
+    ],
+    "VW": [
+      "6U0 615 301"
+    ]
+  },
+  "eanNumber": "8424073145864",
+  "disc": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "11,4"
+    ],
+    "MinimumThicknessValues": [
+      "11,4"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "45,6"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "236"
+    ],
+    "BoltHoleCircle": [
+      "100"
+    ],
+    "NumberOfHoles": [
+      "4"
+    ],
+    "AxleVersion": [
+      "Front"
+    ],
+    "TechnicalInformationNumber": [
+      "78BD4322-2"
+    ],
+    "TestMark": [
+      "E1 90R-02C0100/0027, E1 90R-02C0415/0045"
+    ],
+    "Diameter": [
+      "62"
+    ],
+    "Thickness": [
+      "12,7"
+    ],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "62"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "4"
+    ],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}
