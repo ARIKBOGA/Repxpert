@@ -1,0 +1,41 @@
+{
+  "reference": "GDB1156",
+  "id": "GDB1156",
+  "name": "Fren balata seti, diskli fren COTEC",
+  "brand": "TRW",
+  "wvaNumbers": [
+    "23452",
+    "23453"
+  ],
+  "brand_oe_map": {
+    "LAND ROVER": [
+      "SFP000210",
+      "SFP100460",
+      "SFP100480",
+      "SFP100580",
+      "SFP100590",
+      "SFP500120",
+      "SFP500150",
+      "STC1880",
+      "STC3195",
+      "STC3685"
+    ]
+  },
+  "eanNumber": "3322936411567",
+  "attributes": {
+    "width1": "144,9",
+    "width2": null,
+    "height1": "66,4",
+    "height2": null,
+    "thickness1": "19",
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [],
+    "manufacturerRestriction": "TRW",
+    "checkmark": "E2 90R 01124/006",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!",
+    "Weight": []
+  }
+}

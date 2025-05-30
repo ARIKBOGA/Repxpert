@@ -1,0 +1,46 @@
+{
+  "reference": "2520901",
+  "id": "2520901",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "TEXTAR",
+  "wvaNumbers": [
+    "25209",
+    "25209 168  0 5",
+    "25210",
+    "8776D1567"
+  ],
+  "brand_oe_map": {
+    "TOYOTA": [
+      "044650K240",
+      "044650K260",
+      "044650K300",
+      "044650K320",
+      "044650K330",
+      "044650K340",
+      "04465YZZEF"
+    ]
+  },
+  "eanNumber": "4019722426599",
+  "attributes": {
+    "width1": "143,6",
+    "width2": null,
+    "height1": "67,4",
+    "height2": null,
+    "thickness1": "16,8",
+    "thickness2": null,
+    "wvaNumber": [
+      "25209"
+    ],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [
+      "Advics"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": "",
+    "Weight": [
+      "1,8"
+    ]
+  }
+}

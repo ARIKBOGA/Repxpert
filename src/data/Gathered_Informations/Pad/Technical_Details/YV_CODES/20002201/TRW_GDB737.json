@@ -1,0 +1,43 @@
+{
+  "reference": "GDB737",
+  "id": "GDB737",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "TRW",
+  "wvaNumbers": [
+    "22075"
+  ],
+  "brand_oe_map": {
+    "KIA": [
+      "0K60A-3328Z",
+      "0K70Y3328Z",
+      "0K71E-3328Z",
+      "0K71F-3328Z"
+    ],
+    "MAZDA": [
+      "S231-49-280",
+      "S231-49-280A",
+      "S2YA3323Z",
+      "S2YA3328Z",
+      "SF04-33-28Z",
+      "SGY13323Z",
+      "SGY33323Z"
+    ]
+  },
+  "eanNumber": "3322936407379",
+  "attributes": {
+    "width1": "133",
+    "width2": null,
+    "height1": "52",
+    "height2": null,
+    "thickness1": "15",
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [],
+    "manufacturerRestriction": "AKEBONO",
+    "checkmark": "E2 90R 01124/010",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!",
+    "Weight": []
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "reference": "GDB1017",
+  "id": "GDB1017",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "TRW",
+  "wvaNumbers": [
+    "21347",
+    "21348",
+    "21349"
+  ],
+  "brand_oe_map": {
+    "NISSAN": [
+      "41000-10G08",
+      "41060-08N90",
+      "41060-08N91",
+      "41060-08N92",
+      "41060-V7085",
+      "41080-09G25",
+      "41080-09G27",
+      "41080-09G28-",
+      "41080-09W28",
+      "41080-09W29",
+      "41080-41L27",
+      "41080-41L28",
+      "41080-41L29",
+      "AY040-NS016",
+      "D1060-V7090",
+      "D1060-V7092"
+    ]
+  },
+  "eanNumber": "3322936410171",
+  "attributes": {
+    "width1": "161",
+    "width2": null,
+    "height1": "49,8",
+    "height2": null,
+    "thickness1": "16,7",
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [],
+    "manufacturerRestriction": "SUMITOMO",
+    "checkmark": "E9 90R 01107/068",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!",
+    "Weight": []
+  }
+}

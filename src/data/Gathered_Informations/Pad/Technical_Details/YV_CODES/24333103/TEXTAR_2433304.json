@@ -1,0 +1,76 @@
+{
+  "reference": "2433304",
+  "id": "2433301",
+  "name": "Fren balata seti, diskli fren Q+",
+  "brand": "TEXTAR",
+  "wvaNumbers": [
+    "24332",
+    "24333",
+    "24333 200  0 5",
+    "24334",
+    "8486D1375"
+  ],
+  "brand_oe_map": {
+    "AUDI": [
+      "5N0698151",
+      "5N0698151A",
+      "5N0698151B",
+      "5N0698151C",
+      "7N0698151",
+      "JZW698151S"
+    ],
+    "AUDI (FAW)": [
+      "L5ND698151A"
+    ],
+    "SEAT": [
+      "5N0698151",
+      "5N0698151A",
+      "5N0698151B",
+      "7N0698151",
+      "JZW698151S"
+    ],
+    "SKODA": [
+      "5N0698151",
+      "5N0698151A",
+      "5N0698151B",
+      "7N0698151",
+      "JZW698151S"
+    ],
+    "VW": [
+      "5N0698151",
+      "5N0698151A",
+      "5N0698151B",
+      "5N0698151D",
+      "7N0698151",
+      "JZW698151S",
+      "JZW698302BC"
+    ],
+    "VW (SVW)": [
+      "5ND698151",
+      "5ND698151A"
+    ]
+  },
+  "eanNumber": "4019722304705",
+  "attributes": {
+    "width1": "155,1",
+    "width2": null,
+    "height1": "71,9",
+    "height2": "66,6",
+    "thickness1": "20",
+    "thickness2": "20",
+    "wvaNumber": [
+      "24333"
+    ],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [
+      "Teves"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": "",
+    "Weight": [
+      "2,32"
+    ]
+  }
+}

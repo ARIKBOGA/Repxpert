@@ -1,0 +1,46 @@
+{
+  "reference": "GDB1260",
+  "id": "GDB1260",
+  "name": "Fren balata seti, diskli fren COTEC",
+  "brand": "TRW",
+  "wvaNumbers": [
+    "23124",
+    "23125"
+  ],
+  "brand_oe_map": {
+    "CITROËN": [
+      "16 113 350 80",
+      "1720 59",
+      "4251 54",
+      "4251 55",
+      "4254 85",
+      "E 172 059",
+      "E 172 532"
+    ],
+    "PEUGEOT": [
+      "16 113 350 80",
+      "4251 54",
+      "4251 55",
+      "4254 85",
+      "E 172 059",
+      "E 172 532"
+    ]
+  },
+  "eanNumber": "3322937185238",
+  "attributes": {
+    "width1": "130",
+    "width2": null,
+    "height1": "56",
+    "height2": null,
+    "thickness1": "19",
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [],
+    "manufacturerRestriction": "TRW",
+    "checkmark": "E9 90R 027002",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!",
+    "Weight": []
+  }
+}

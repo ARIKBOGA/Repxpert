@@ -1,0 +1,47 @@
+{
+  "reference": "2445801",
+  "id": "2445801",
+  "name": "Fren balata seti, diskli fren Q+",
+  "brand": "TEXTAR",
+  "wvaNumbers": [
+    "24458",
+    "24458 171  0 5",
+    "24495",
+    "7820D919"
+  ],
+  "brand_oe_map": {
+    "BMW": [
+      "2365766",
+      "2413083",
+      "34212365766",
+      "34212413083",
+      "34216783555",
+      "34216794879",
+      "6783555",
+      "6794879"
+    ]
+  },
+  "eanNumber": "4019722299292",
+  "attributes": {
+    "width1": "139,5",
+    "width2": null,
+    "height1": "67,8",
+    "height2": null,
+    "thickness1": "17,1",
+    "thickness2": null,
+    "wvaNumber": [
+      "24458"
+    ],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [
+      "Teves"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": "",
+    "Weight": [
+      "1,6"
+    ]
+  }
+}

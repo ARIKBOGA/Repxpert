@@ -1,0 +1,50 @@
+{
+  "reference": "P 23 093",
+  "id": "P 23 093",
+  "name": "Fren balata seti, diskli fren PRIME LINE",
+  "brand": "BREMBO",
+  "wvaNumbers": [
+    "23921",
+    "D1582 9247"
+  ],
+  "brand_oe_map": {
+    "CITROËN": [
+      "1617281780",
+      "425246",
+      "425247",
+      "425443",
+      "425468",
+      "E172357"
+    ],
+    "FIAT": [
+      "71752985",
+      "7175985",
+      "71770072",
+      "71772527",
+      "77362274",
+      "77364860",
+      "9949407",
+      "9949408"
+    ],
+    "PEUGEOT": [
+      "1611457780",
+      "1617281780",
+      "425246",
+      "425247",
+      "425468",
+      "E172357"
+    ]
+  },
+  "eanNumber": "8020584051634",
+  "pad_attributes": {
+    "width1": "110",
+    "width2": null,
+    "height1": "50",
+    "height2": null,
+    "thickness1": "20",
+    "thickness2": null,
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": ""
+  }
+}

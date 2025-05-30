@@ -1,0 +1,32 @@
+{
+  "reference": "P 30 045",
+  "id": "P 30 045",
+  "name": "Fren balata seti, diskli fren PRIME LINE",
+  "brand": "BREMBO",
+  "wvaNumbers": [
+    "24910",
+    "24925",
+    "24924"
+  ],
+  "brand_oe_map": {
+    "HYUNDAI": [
+      "581010XA00",
+      "581011JA60"
+    ],
+    "KIA": [
+      "581011JA60"
+    ]
+  },
+  "eanNumber": "8020584090572",
+  "pad_attributes": {
+    "width1": "116",
+    "width2": null,
+    "height1": "49",
+    "height2": null,
+    "thickness1": "17",
+    "thickness2": null,
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": ""
+  }
+}

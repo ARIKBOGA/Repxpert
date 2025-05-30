@@ -1,0 +1,42 @@
+{
+  "reference": "P 11 013",
+  "id": "P 11 013",
+  "name": "Fren balata seti, diskli fren PRIME LINE",
+  "brand": "BREMBO",
+  "wvaNumbers": [
+    "23969",
+    "23807",
+    "D1059 7966"
+  ],
+  "brand_oe_map": {
+    "CHRYSLER": [
+      "05015365AA",
+      "05072215AA",
+      "05072216AA",
+      "5015365AA",
+      "5072215AA",
+      "5072216AA",
+      "K05015365AA",
+      "K05072215AA",
+      "K05072216AA"
+    ],
+    "CITROËN": [
+      "K05072216AA"
+    ],
+    "DODGE": [
+      "5072216AA"
+    ]
+  },
+  "eanNumber": "8020584050507",
+  "pad_attributes": {
+    "width1": "172",
+    "width2": null,
+    "height1": "69",
+    "height2": "73",
+    "thickness1": "19",
+    "thickness2": null,
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": ""
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "reference": "2192003",
+  "id": "2192003",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "TEXTAR",
+  "wvaNumbers": [
+    "21920",
+    "21920 174  1 4",
+    "8694D1494"
+  ],
+  "brand_oe_map": {
+    "MITSUBISHI": [
+      "4605A734",
+      "MFR97717",
+      "MR977117"
+    ],
+    "SMART": [
+      "4544200920",
+      "4544201920",
+      "A4544200920",
+      "A4544201920"
+    ]
+  },
+  "eanNumber": "4019722274411",
+  "attributes": {
+    "width1": "130",
+    "width2": null,
+    "height1": "72,7",
+    "height2": null,
+    "thickness1": "17,4",
+    "thickness2": null,
+    "wvaNumber": [
+      "21920"
+    ],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [
+      "Lucas"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": "",
+    "Weight": [
+      "1,4"
+    ]
+  }
+}

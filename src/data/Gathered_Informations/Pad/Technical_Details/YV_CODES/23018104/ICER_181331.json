@@ -1,0 +1,74 @@
+{
+  "reference": "181331",
+  "id": "181331",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "ICER",
+  "wvaNumbers": [
+    "20676",
+    "23018",
+    "23019",
+    "23911",
+    "D840-7715"
+  ],
+  "brand_oe_map": {
+    "AUDI": [
+      "4B0 698 151 A",
+      "4B0 698 151 AB",
+      "4B0 698 151 AF",
+      "4B0 698 151 E",
+      "4B0 698 151 J",
+      "4B0 698 151 K",
+      "4B0 698 151 M",
+      "4B0 698 151 N",
+      "4D0 698 151 J",
+      "4F0 698 151",
+      "8E0 698 151 F"
+    ],
+    "RENAULT": [
+      "86 60 000 739",
+      "86 60 004 516"
+    ],
+    "SEAT": [
+      "8E0 698 151 K"
+    ],
+    "SKODA": [
+      "4B0 698 151 E",
+      "4B0 698 151 K",
+      "4B0 698 151 N"
+    ],
+    "VW": [
+      "4B0 698 151 A",
+      "4B0 698 151 AB",
+      "4B0 698 151 AF",
+      "4B0 698 151 E",
+      "4B0 698 151 J",
+      "4B0 698 151 K",
+      "4B0 698 151 M",
+      "4B0 698 151 N",
+      "JZW 698 151 P"
+    ]
+  },
+  "eanNumber": "8424073059253",
+  "attributes": {
+    "width1": "156,3",
+    "width2": "156,6",
+    "height1": "74,1",
+    "height2": null,
+    "thickness1": "20,4",
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [
+      "300"
+    ],
+    "AxleVersion": [
+      "Front"
+    ],
+    "BrakeSystem": [
+      "ATE"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "E1 90R-01101/183",
+    "SVHC": "",
+    "Weight": []
+  }
+}

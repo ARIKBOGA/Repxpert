@@ -1,0 +1,54 @@
+{
+  "reference": "GDB2159",
+  "id": "GDB2159",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "TRW",
+  "wvaNumbers": [
+    "22631"
+  ],
+  "brand_oe_map": {
+    "AUDI": [
+      "2Q0 698 151 B",
+      "2Q0 698 151 C",
+      "2Q0 698 151 E",
+      "2Q0 698 151 Q",
+      "2Q0 698 151 R"
+    ],
+    "SEAT": [
+      "2Q0 698 151 B",
+      "2Q0 698 151 E",
+      "2Q0 698 151 Q",
+      "5Q0 698 151 E"
+    ],
+    "SKODA": [
+      "2Q0 698 151 E",
+      "2Q0 698 151 Q"
+    ],
+    "VW": [
+      "2Q0 698 151 AA",
+      "2Q0 698 151 B",
+      "2Q0 698 151 C",
+      "2Q0 698 151 E",
+      "2Q0 698 151 Q",
+      "2Q0 698 151 R",
+      "5Q0 698 151 E"
+    ]
+  },
+  "eanNumber": "3322938382926",
+  "attributes": {
+    "width1": "146",
+    "width2": null,
+    "height1": "61,7",
+    "height2": null,
+    "thickness1": "17,8",
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [],
+    "manufacturerRestriction": "MANDO",
+    "checkmark": "E990R-02A0107/4654",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!",
+    "Weight": []
+  }
+}

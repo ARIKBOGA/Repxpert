@@ -1,0 +1,94 @@
+{
+  "reference": "P 28 039",
+  "id": "P 28 039",
+  "name": "Fren balata seti, diskli fren PRIME LINE",
+  "brand": "BREMBO",
+  "wvaNumbers": [
+    "23653",
+    "23736",
+    "23652",
+    "D536 7418",
+    "D537 7418"
+  ],
+  "brand_oe_map": {
+    "ACURA": [
+      "43022S9AA01",
+      "43022SEPA00",
+      "43022SEPA01",
+      "43022SEPC00",
+      "43022SEPC01",
+      "43022STKA00",
+      "43022STKA01",
+      "43022STKA02",
+      "43022SZ3A02"
+    ],
+    "AEOLUS": [
+      "4586005"
+    ],
+    "GREAT WALL": [
+      "3502315AKZ16A",
+      "3502315XKZ16A"
+    ],
+    "HAVAL": [
+      "3502315AKZ16A",
+      "3502315XKZ16A"
+    ],
+    "HONDA": [
+      "06430S6D000",
+      "06430S9AA00",
+      "06430SEDE60",
+      "43022S00000",
+      "43022S3N000",
+      "43022S3N010",
+      "43022S3NE50",
+      "43022S6D000",
+      "43022S6DE50",
+      "43022S6DE51",
+      "43022S7S010",
+      "43022S9AA00",
+      "43022S9AE51",
+      "43022S9AE52",
+      "43022SCVA01",
+      "43022SDMA00",
+      "43022SEDE60",
+      "43022SEPA00",
+      "43022SJFE00",
+      "43022SP0000",
+      "43022SP0010",
+      "43022SP0020",
+      "43022SP0030",
+      "43022SV4G00",
+      "43022SX0A50",
+      "43022SX0A51",
+      "43022SX0A52",
+      "43022SZ3A00",
+      "43022SZ3A01",
+      "43022SZ3A02",
+      "H4302S3N003",
+      "H4302S7S003",
+      "H4302SZ3003",
+      "NBKD6291EF"
+    ],
+    "HONDA (DONGFENG)": [
+      "43022TS6H00"
+    ],
+    "ISUZU": [
+      "5862029840",
+      "5862070780",
+      "5862072040",
+      "5862075190"
+    ]
+  },
+  "eanNumber": "8020584059753",
+  "pad_attributes": {
+    "width1": "89",
+    "width2": null,
+    "height1": "48",
+    "height2": null,
+    "thickness1": "15",
+    "thickness2": null,
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": ""
+  }
+}

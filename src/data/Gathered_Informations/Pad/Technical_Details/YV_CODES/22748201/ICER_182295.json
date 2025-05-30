@@ -1,0 +1,47 @@
+{
+  "reference": "182295",
+  "id": "182295",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "ICER",
+  "wvaNumbers": [
+    "22748",
+    "22749",
+    "22795",
+    "22796"
+  ],
+  "brand_oe_map": {
+    "FORD": [
+      "2 095 060",
+      "2 095 160",
+      "2 272 732",
+      "2 279 460",
+      "KTH1BC-2001-AB",
+      "KTH1BC-2K021-AB",
+      "KTK1BC-2K021-AB",
+      "KTK1BC-2K021-AC"
+    ]
+  },
+  "eanNumber": "8424073176974",
+  "attributes": {
+    "width1": "155,2",
+    "width2": null,
+    "height1": "55,4",
+    "height2": "56,4",
+    "thickness1": "16",
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [
+      "300"
+    ],
+    "AxleVersion": [
+      "Front"
+    ],
+    "BrakeSystem": [
+      "ATE"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "E9 90R-02A0111/4955",
+    "SVHC": "",
+    "Weight": []
+  }
+}

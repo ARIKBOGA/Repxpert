@@ -1,0 +1,41 @@
+{
+  "reference": "GDB3447",
+  "id": "GDB3447",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "TRW",
+  "wvaNumbers": [
+    "21719",
+    "21720",
+    "21721"
+  ],
+  "brand_oe_map": {
+    "HONDA": [
+      "43022-SED-E60",
+      "43022-SZ3-E50",
+      "43022-SZT-G00",
+      "43022-SZT-G01",
+      "43022-TM8-G00",
+      "43022-TM8-G01"
+    ],
+    "SUZUKI": [
+      "55800-80J01"
+    ]
+  },
+  "eanNumber": "3322937578443",
+  "attributes": {
+    "width1": "88,9",
+    "width2": null,
+    "height1": "47,4",
+    "height2": null,
+    "thickness1": "14,8",
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [],
+    "manufacturerRestriction": "AKEBONO",
+    "checkmark": "E1 90R - 01025/422",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!",
+    "Weight": []
+  }
+}

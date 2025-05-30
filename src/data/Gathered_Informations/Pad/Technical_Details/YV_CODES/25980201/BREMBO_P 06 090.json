@@ -1,0 +1,39 @@
+{
+  "reference": "P 06 090",
+  "id": "P 06 090",
+  "name": "Fren balata seti, diskli fren PRIME LINE",
+  "brand": "BREMBO",
+  "wvaNumbers": [
+    "25981",
+    "25980",
+    "D1800 9032"
+  ],
+  "brand_oe_map": {
+    "MINI": [
+      "34206874810",
+      "34216861641",
+      "34216864488",
+      "34216871299",
+      "34216871300",
+      "34216885529",
+      "34218867491",
+      "6861641",
+      "6864488",
+      "6871299",
+      "6871300",
+      "6885529"
+    ]
+  },
+  "eanNumber": "8020584112748",
+  "pad_attributes": {
+    "width1": "100",
+    "width2": null,
+    "height1": "45",
+    "height2": "38",
+    "thickness1": "17",
+    "thickness2": null,
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": ""
+  }
+}

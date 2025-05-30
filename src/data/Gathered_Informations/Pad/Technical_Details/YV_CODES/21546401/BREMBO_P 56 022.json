@@ -1,0 +1,35 @@
+{
+  "reference": "P 56 022",
+  "id": "P 56 022",
+  "name": "Fren balata seti, diskli fren PRIME LINE",
+  "brand": "BREMBO",
+  "wvaNumbers": [
+    "21546"
+  ],
+  "brand_oe_map": {
+    "NISSAN": [
+      "410602F025",
+      "410602F026",
+      "410602F027",
+      "410604M525",
+      "410604M526",
+      "4106071J25",
+      "4106071J26",
+      "41060BM425",
+      "41060F1725",
+      "D1060BM40A"
+    ]
+  },
+  "eanNumber": "8020584055021",
+  "pad_attributes": {
+    "width1": "129",
+    "width2": null,
+    "height1": "58",
+    "height2": null,
+    "thickness1": "18",
+    "thickness2": null,
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": ""
+  }
+}

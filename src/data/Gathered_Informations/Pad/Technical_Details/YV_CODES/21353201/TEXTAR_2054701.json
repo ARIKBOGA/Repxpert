@@ -1,0 +1,72 @@
+{
+  "reference": "2054701",
+  "id": "2054701",
+  "name": "Fren balata seti, diskli fren Q+",
+  "brand": "TEXTAR",
+  "wvaNumbers": [
+    "20547",
+    "20547 168  0 5",
+    "21353",
+    "7563D688",
+    "8250D1139"
+  ],
+  "brand_oe_map": {
+    "CHEVROLET": [
+      "EC11046948372"
+    ],
+    "DAEWOO": [
+      "11046148",
+      "11046948322",
+      "11046948372"
+    ],
+    "GENERAL MOTORS": [
+      "93176120"
+    ],
+    "JAGUAR": [
+      "JLM11903",
+      "JLM21344",
+      "JLM21919"
+    ],
+    "OPEL": [
+      "1605087",
+      "1605455",
+      "1605810",
+      "1605824",
+      "1605881",
+      "1605907",
+      "90374747",
+      "90374748",
+      "90442995",
+      "90485140",
+      "90510331",
+      "93176120",
+      "93192639"
+    ],
+    "VAUXHALL": [
+      "90421736"
+    ]
+  },
+  "eanNumber": "4019722059643",
+  "attributes": {
+    "width1": "140,3",
+    "width2": "141,5",
+    "height1": "58,3",
+    "height2": "48",
+    "thickness1": "16,8",
+    "thickness2": "17,3",
+    "wvaNumber": [
+      "20547"
+    ],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [
+      "Teves"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": "",
+    "Weight": [
+      "1,259"
+    ]
+  }
+}

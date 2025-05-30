@@ -1,0 +1,33 @@
+{
+  "reference": "GDB1592",
+  "id": "GDB1592",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "TRW",
+  "wvaNumbers": [
+    "24073"
+  ],
+  "brand_oe_map": {
+    "LANCIA": [
+      "71752991",
+      "71754804",
+      "77362359"
+    ]
+  },
+  "eanNumber": "3322937370030",
+  "attributes": {
+    "width1": "116,7",
+    "width2": null,
+    "height1": "55,3",
+    "height2": null,
+    "thickness1": "16,5",
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [],
+    "manufacturerRestriction": "TRW",
+    "checkmark": "E9-90-01107/999",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!",
+    "Weight": []
+  }
+}

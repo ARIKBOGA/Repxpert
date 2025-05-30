@@ -1,0 +1,30 @@
+{
+  "reference": "P 28 036",
+  "id": "P 28 036",
+  "name": "Fren balata seti, diskli fren PRIME LINE",
+  "brand": "BREMBO",
+  "wvaNumbers": [
+    "24213",
+    "24214",
+    "23720",
+    "D2008 9238"
+  ],
+  "brand_oe_map": {
+    "HONDA": [
+      "45022SEAE01",
+      "45022SEAEZ1"
+    ]
+  },
+  "eanNumber": "8020584052709",
+  "pad_attributes": {
+    "width1": "156",
+    "width2": "155",
+    "height1": "65",
+    "height2": "68",
+    "thickness1": "17",
+    "thickness2": null,
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": ""
+  }
+}

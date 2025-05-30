@@ -1,0 +1,40 @@
+{
+  "reference": "GDB3216",
+  "id": "GDB3216",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "TRW",
+  "wvaNumbers": [
+    "23234",
+    "23235",
+    "23236"
+  ],
+  "brand_oe_map": {
+    "CHEVROLET": [
+      "96245178",
+      "96253367",
+      "96253382"
+    ],
+    "DAEWOO": [
+      "96245178",
+      "96253367",
+      "96253382"
+    ]
+  },
+  "eanNumber": "3322937244836",
+  "attributes": {
+    "width1": "143",
+    "width2": null,
+    "height1": "51,5",
+    "height2": null,
+    "thickness1": "18",
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [],
+    "manufacturerRestriction": "AKEBONO",
+    "checkmark": "E1 90R 01024/249",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!",
+    "Weight": []
+  }
+}

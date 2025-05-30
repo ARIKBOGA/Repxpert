@@ -1,0 +1,53 @@
+{
+  "reference": "2392302",
+  "id": "2392302",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "TEXTAR",
+  "wvaNumbers": [
+    "23923",
+    "23923 180  0 5",
+    "23924",
+    "8228D1122"
+  ],
+  "brand_oe_map": {
+    "MERCEDES-BENZ": [
+      "0044205220",
+      "0084205320",
+      "1644201520",
+      "1644201920",
+      "1644202720",
+      "16442027200090",
+      "9104207400",
+      "A0044205220",
+      "A0084205320",
+      "A1644201520",
+      "A1644201920",
+      "A1644202720",
+      "A16442027200090",
+      "A9104207400"
+    ]
+  },
+  "eanNumber": "4019722278846",
+  "attributes": {
+    "width1": "140,1",
+    "width2": "141,3",
+    "height1": "51,6",
+    "height2": "59,5",
+    "thickness1": "18",
+    "thickness2": null,
+    "wvaNumber": [
+      "23923"
+    ],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [
+      "Teves"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": "",
+    "Weight": [
+      "1,3"
+    ]
+  }
+}

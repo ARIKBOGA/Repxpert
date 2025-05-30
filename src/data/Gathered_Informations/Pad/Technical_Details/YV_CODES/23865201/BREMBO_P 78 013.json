@@ -1,0 +1,60 @@
+{
+  "reference": "P 78 013",
+  "id": "P 78 013",
+  "name": "Fren balata seti, diskli fren PRIME LINE",
+  "brand": "BREMBO",
+  "wvaNumbers": [
+    "23866",
+    "23867",
+    "23865",
+    "D929 7830",
+    "D929 7880"
+  ],
+  "brand_oe_map": {
+    "SAAB": [
+      "32006166",
+      "32006167",
+      "32011454",
+      "32011463"
+    ],
+    "SUBARU": [
+      "26296AE160",
+      "26296AG020",
+      "26296AG040",
+      "26296AG060",
+      "26296AG070",
+      "26296FE000",
+      "26296FE020",
+      "26296FE080",
+      "26296FE081",
+      "26296FE082",
+      "26296FE083",
+      "26296FE160",
+      "26296FG010",
+      "26296SA000",
+      "26296SA010",
+      "26296SA011",
+      "26296SA020",
+      "26296SA021",
+      "26296SA030",
+      "26296SA031",
+      "29296FE081",
+      "SU00304324"
+    ],
+    "TOYOTA": [
+      "SU00304324"
+    ]
+  },
+  "eanNumber": "8020584057209",
+  "pad_attributes": {
+    "width1": "137",
+    "width2": null,
+    "height1": "57",
+    "height2": null,
+    "thickness1": "16",
+    "thickness2": null,
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": ""
+  }
+}

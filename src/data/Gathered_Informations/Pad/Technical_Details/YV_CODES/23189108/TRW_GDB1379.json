@@ -1,0 +1,37 @@
+{
+  "reference": "GDB1379",
+  "id": "GDB1379",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "TRW",
+  "wvaNumbers": [
+    "23189",
+    "23190",
+    "23191",
+    "23192"
+  ],
+  "brand_oe_map": {
+    "MERCEDES-BENZ": [
+      "163 420 01 20",
+      "163 420 04 20",
+      "A 163 420 01 20",
+      "A 163 420 04 20"
+    ]
+  },
+  "eanNumber": "3322937242115",
+  "attributes": {
+    "width1": "140",
+    "width2": null,
+    "height1": "50",
+    "height2": null,
+    "thickness1": "16,6",
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [],
+    "manufacturerRestriction": "KELSEY HAYES",
+    "checkmark": "E1 90R 01025/448",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!",
+    "Weight": []
+  }
+}

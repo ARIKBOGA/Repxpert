@@ -1,0 +1,50 @@
+{
+  "reference": "182236",
+  "id": "182236",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "ICER",
+  "wvaNumbers": [
+    "22145",
+    "22146",
+    "D1838-9067"
+  ],
+  "brand_oe_map": {
+    "JAGUAR": [
+      "C2C 41984",
+      "FK72-2K021-CA",
+      "J9C17007",
+      "J9C18522",
+      "JPC33357",
+      "LR-128263"
+    ],
+    "LAND ROVER": [
+      "LR-061373",
+      "LR-072681",
+      "LR-118006",
+      "LR-160435"
+    ]
+  },
+  "eanNumber": "8424073140098",
+  "attributes": {
+    "width1": "193,1",
+    "width2": null,
+    "height1": "65,5",
+    "height2": null,
+    "thickness1": "18",
+    "thickness2": "19",
+    "wvaNumber": [],
+    "Quality": [
+      "300"
+    ],
+    "AxleVersion": [
+      "Front"
+    ],
+    "BrakeSystem": [
+      "ATE"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "E9 90R-02A0111/4567",
+    "SVHC": "",
+    "Weight": []
+  }
+}

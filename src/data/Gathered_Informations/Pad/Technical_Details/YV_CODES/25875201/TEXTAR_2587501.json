@@ -1,0 +1,50 @@
+{
+  "reference": "2587501",
+  "id": "2587501",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "TEXTAR",
+  "wvaNumbers": [
+    "25875",
+    "25875 158  0 5",
+    "25876",
+    "25877",
+    "8952D1728"
+  ],
+  "brand_oe_map": {
+    "MAZDA": [
+      "B4Y03328ZA",
+      "B4Y03328ZB",
+      "B6YS3328Z",
+      "B6YS3328ZA",
+      "B6YS3328ZB",
+      "BHY13328ZA",
+      "BHY13328ZA9C",
+      "D5YG3328Z",
+      "DFY53328Z",
+      "DFY53328Z9A"
+    ]
+  },
+  "eanNumber": "4019722465215",
+  "attributes": {
+    "width1": "142,1",
+    "width2": null,
+    "height1": "55,6",
+    "height2": null,
+    "thickness1": "15,8",
+    "thickness2": null,
+    "wvaNumber": [
+      "25875"
+    ],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [
+      "Akebono"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": "",
+    "Weight": [
+      "1,6"
+    ]
+  }
+}

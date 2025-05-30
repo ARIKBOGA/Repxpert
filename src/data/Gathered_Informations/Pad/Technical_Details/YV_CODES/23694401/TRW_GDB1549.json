@@ -1,0 +1,49 @@
+{
+  "reference": "GDB1549",
+  "id": "GDB1549",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "TRW",
+  "wvaNumbers": [
+    "23694"
+  ],
+  "brand_oe_map": {
+    "AUDI": [
+      "7L0 698 451",
+      "7L0 698 451 A",
+      "7L6 698 451 A"
+    ],
+    "PORSCHE": [
+      "955 352 939 00",
+      "955 352 939 01"
+    ],
+    "SKODA": [
+      "7L0 698 451",
+      "7L0 698 451 A"
+    ],
+    "VW": [
+      "7L0 698 451",
+      "7L0 698 451 A",
+      "7L0 698 451 K",
+      "7L6 698 451 A"
+    ]
+  },
+  "eanNumber": "3322937334308",
+  "attributes": {
+    "width1": "112,3",
+    "width2": null,
+    "height1": "73,3",
+    "height2": null,
+    "thickness1": "16,6",
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [
+      "Karbon seramik fren diskleri için değil, Sadece çelik fren diskiyle birlikte"
+    ],
+    "manufacturerRestriction": "BREMBO",
+    "checkmark": "E9 90R - 01120/616",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!",
+    "Weight": []
+  }
+}

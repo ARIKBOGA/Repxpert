@@ -1,0 +1,43 @@
+{
+  "reference": "2441204",
+  "id": "2441204",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "TEXTAR",
+  "wvaNumbers": [
+    "24412",
+    "24412 191  2 5",
+    "24413",
+    "24414",
+    "8512D1404",
+    "8769D1557",
+    "8971D1745"
+  ],
+  "brand_oe_map": {
+    "OPEL": [
+      "1680880480"
+    ]
+  },
+  "eanNumber": "4019722310546",
+  "attributes": {
+    "width1": "142,1",
+    "width2": null,
+    "height1": "66,7",
+    "height2": null,
+    "thickness1": "19,1",
+    "thickness2": null,
+    "wvaNumber": [
+      "24412"
+    ],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [
+      "Mando"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": "",
+    "Weight": [
+      "2,24"
+    ]
+  }
+}

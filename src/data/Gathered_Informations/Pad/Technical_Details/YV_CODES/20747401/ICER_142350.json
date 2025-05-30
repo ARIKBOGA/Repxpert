@@ -1,0 +1,45 @@
+{
+  "reference": "142350",
+  "id": "142350",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "ICER",
+  "wvaNumbers": [
+    "20747",
+    "D2201-9442"
+  ],
+  "brand_oe_map": {
+    "MERCEDES-BENZ": [
+      "907 420 81 01",
+      "907 420 86 00",
+      "910 420 36 00",
+      "910 420 37 00",
+      "910 420 73 00",
+      "910 423 14 01",
+      "910 423 56 00",
+      "A 910 423 56 00"
+    ]
+  },
+  "eanNumber": "8424073189325",
+  "attributes": {
+    "width1": "148,6",
+    "width2": null,
+    "height1": "54,8",
+    "height2": null,
+    "thickness1": "19,9",
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [
+      "300"
+    ],
+    "AxleVersion": [
+      "Rear"
+    ],
+    "BrakeSystem": [
+      "Brembo"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "E9 90R-02A0111/5414",
+    "SVHC": "",
+    "Weight": []
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "reference": "P 50 043",
+  "id": "P 50 043",
+  "name": "Fren balata seti, diskli fren PRIME LINE",
+  "brand": "BREMBO",
+  "wvaNumbers": [
+    "23157",
+    "D874 7749"
+  ],
+  "brand_oe_map": {
+    "MERCEDES-BENZ": [
+      "1634200720",
+      "163420072037",
+      "1634200920",
+      "163420092027",
+      "1634201120",
+      "A1634200720",
+      "A163420072037",
+      "A1634200920",
+      "A163420092027",
+      "A1634201120"
+    ]
+  },
+  "eanNumber": "8020584054154",
+  "pad_attributes": {
+    "width1": "75",
+    "width2": null,
+    "height1": "66",
+    "height2": null,
+    "thickness1": "16",
+    "thickness2": null,
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": ""
+  }
+}

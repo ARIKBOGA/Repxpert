@@ -1,0 +1,49 @@
+{
+  "reference": "GDB1365",
+  "id": "GDB1365",
+  "name": "Fren balata seti, diskli fren COTEC",
+  "brand": "TRW",
+  "wvaNumbers": [
+    "21998",
+    "23001",
+    "23002"
+  ],
+  "brand_oe_map": {
+    "SMART": [
+      "000 420 05 05",
+      "0001431V002",
+      "0001431V002000000",
+      "0001431V003",
+      "0001431V003000000",
+      "0001431V00400000",
+      "0001431V004000000",
+      "001431V003",
+      "451 421 00 10",
+      "451 421 01 10",
+      "451 421 02 10",
+      "A   000 420 05 05",
+      "A 451 421 00 10",
+      "A 451 421 01 10",
+      "A 451 421 02 10",
+      "C0001431V002000000",
+      "Q 0001431V004000000"
+    ]
+  },
+  "eanNumber": "3322937237517",
+  "attributes": {
+    "width1": "90",
+    "width2": null,
+    "height1": "70",
+    "height2": null,
+    "thickness1": "15,5",
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [],
+    "manufacturerRestriction": "BOSCH",
+    "checkmark": "E9 90R - 01705/031",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!",
+    "Weight": []
+  }
+}

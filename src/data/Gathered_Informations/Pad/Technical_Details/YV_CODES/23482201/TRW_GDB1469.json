@@ -1,0 +1,71 @@
+{
+  "reference": "GDB1469",
+  "id": "GDB1469",
+  "name": "Fren balata seti, diskli fren COTEC",
+  "brand": "TRW",
+  "wvaNumbers": [
+    "23482",
+    "23483"
+  ],
+  "brand_oe_map": {
+    "CADILLAC": [
+      "16 05 117",
+      "93183140"
+    ],
+    "CHEVROLET": [
+      "16 05 117",
+      "93183140"
+    ],
+    "FORD": [
+      "2T14-2M008-AA",
+      "4387371"
+    ],
+    "HOLDEN": [
+      "16 05 117",
+      "93183140"
+    ],
+    "NISSAN": [
+      "44060-AV725",
+      "44060-BA00F"
+    ],
+    "OPEL": [
+      "16 05 117",
+      "93183140"
+    ],
+    "RENAULT": [
+      "44 06 021 54R",
+      "44 06 082 81R",
+      "44 06 0BA 00F",
+      "77 01 206 609",
+      "77 01 207 767",
+      "77 01 207 968",
+      "77 01 207 996"
+    ],
+    "SAAB": [
+      "12799240",
+      "16 05 117",
+      "93183140"
+    ],
+    "VAUXHALL": [
+      "16 05 117",
+      "93183140"
+    ]
+  },
+  "eanNumber": "3322937287734",
+  "attributes": {
+    "width1": "123,1",
+    "width2": null,
+    "height1": "52",
+    "height2": null,
+    "thickness1": "16,6",
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [],
+    "manufacturerRestriction": "ATE",
+    "checkmark": "E990R-01120/400Ext.2",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!",
+    "Weight": []
+  }
+}

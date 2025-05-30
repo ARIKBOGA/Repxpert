@@ -1,0 +1,29 @@
+{
+  "reference": "P 83 096",
+  "id": "P 83 096",
+  "name": "Fren balata seti, diskli fren PRIME LINE",
+  "brand": "BREMBO",
+  "wvaNumbers": [
+    "24567",
+    "D1710 8934"
+  ],
+  "brand_oe_map": {
+    "TOYOTA": [
+      "044650K010",
+      "044650K160",
+      "04465YZZDW"
+    ]
+  },
+  "eanNumber": "8020584062340",
+  "pad_attributes": {
+    "width1": "140",
+    "width2": null,
+    "height1": "52",
+    "height2": null,
+    "thickness1": "16",
+    "thickness2": null,
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "reference": "GDB3261",
+  "id": "GDB3261",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "TRW",
+  "wvaNumbers": [
+    "23649",
+    "23650",
+    "23651"
+  ],
+  "brand_oe_map": {
+    "KIA": [
+      "0K56B3323ZA",
+      "0K72G3328Z",
+      "0K75A3328Z",
+      "0K75B3328Z"
+    ]
+  },
+  "eanNumber": "3322937283170",
+  "attributes": {
+    "width1": "154",
+    "width2": null,
+    "height1": "56,3",
+    "height2": null,
+    "thickness1": "15,7",
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [],
+    "manufacturerRestriction": "SUMITOMO",
+    "checkmark": "E1 90R - 01024/568",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!",
+    "Weight": []
+  }
+}

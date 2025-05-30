@@ -1,0 +1,41 @@
+{
+  "reference": "GDB895",
+  "id": "GDB895",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "TRW",
+  "wvaNumbers": [
+    "21725"
+  ],
+  "brand_oe_map": {
+    "HYUNDAI": [
+      "58101-28A00",
+      "58101-28A20",
+      "58101-29A10",
+      "58101-29A40",
+      "58101-33A00",
+      "58101-33C00",
+      "58101-35A10",
+      "58101-38A70"
+    ],
+    "KIA": [
+      "58101-38A70"
+    ]
+  },
+  "eanNumber": "3322936408956",
+  "attributes": {
+    "width1": "137",
+    "width2": null,
+    "height1": "54",
+    "height2": null,
+    "thickness1": "17",
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [],
+    "manufacturerRestriction": "AKEBONO",
+    "checkmark": "E1 90R 01024/009",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!",
+    "Weight": []
+  }
+}

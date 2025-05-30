@@ -1,0 +1,41 @@
+{
+  "reference": "GDB2063",
+  "id": "GDB2063",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "TRW",
+  "wvaNumbers": [
+    "25331",
+    "25332"
+  ],
+  "brand_oe_map": {
+    "BMW": [
+      "34 21 6 859 917",
+      "6 859 917"
+    ],
+    "BMW (BRILLIANCE)": [
+      "34 20 6 885 547",
+      "6 885 547"
+    ],
+    "MINI": [
+      "34 21 6 859 917",
+      "6 859 917"
+    ]
+  },
+  "eanNumber": "3322938267414",
+  "attributes": {
+    "width1": "123",
+    "width2": null,
+    "height1": "46,6",
+    "height2": null,
+    "thickness1": "16",
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [],
+    "manufacturerRestriction": "ATE",
+    "checkmark": "E9 90R-02A0120/3972",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!",
+    "Weight": []
+  }
+}

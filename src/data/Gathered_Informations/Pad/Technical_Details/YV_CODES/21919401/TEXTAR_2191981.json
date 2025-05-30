@@ -1,0 +1,66 @@
+{
+  "reference": "2191981",
+  "id": "2191981",
+  "name": "Fren balata seti, diskli fren epad",
+  "brand": "TEXTAR",
+  "wvaNumbers": [
+    "21919",
+    "21919 153  0 4 epad",
+    "7647D779",
+    "7657D779"
+  ],
+  "brand_oe_map": {
+    "CHRYSLER": [
+      "05126300AA",
+      "05139902AA",
+      "5126300AA",
+      "5139902AA",
+      "5139902AB"
+    ],
+    "MERCEDES-BENZ": [
+      "0004207904",
+      "0024207120",
+      "002420712037",
+      "0024207420",
+      "0034202720",
+      "00342027200090",
+      "003420272037",
+      "0044201720",
+      "0044209120",
+      "A0004207904",
+      "A0024207120",
+      "A002420712037",
+      "A0024207420",
+      "A0034202720",
+      "A00342027200090",
+      "A003420272037",
+      "A0044201720",
+      "A0044209120"
+    ]
+  },
+  "eanNumber": "4019722405099",
+  "attributes": {
+    "width1": "63,6",
+    "width2": null,
+    "height1": "72,9",
+    "height2": null,
+    "thickness1": "15,3",
+    "thickness2": null,
+    "wvaNumber": [
+      "21919"
+    ],
+    "Quality": [
+      "epad"
+    ],
+    "AxleVersion": [],
+    "BrakeSystem": [
+      "Teves"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": "",
+    "Weight": [
+      "0,7"
+    ]
+  }
+}

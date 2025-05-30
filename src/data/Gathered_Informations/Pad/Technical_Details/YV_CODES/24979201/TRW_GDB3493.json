@@ -1,0 +1,42 @@
+{
+  "reference": "GDB3493",
+  "id": "GDB3493",
+  "name": "Fren balata seti, diskli fren COTEC",
+  "brand": "TRW",
+  "wvaNumbers": [
+    "24979",
+    "24980",
+    "24981"
+  ],
+  "brand_oe_map": {
+    "HONDA": [
+      "45022-SNC-E00",
+      "45022-SZT-G00",
+      "45022-T5R-A50",
+      "45022-TF0-G00",
+      "45022-TF0-G01",
+      "45022-TF0-G02",
+      "45022-TF0-Y00",
+      "45022-TK6-A00",
+      "45022-TM8-G00",
+      "45022TZAJ00"
+    ]
+  },
+  "eanNumber": "3322937995325",
+  "attributes": {
+    "width1": "136,5",
+    "width2": null,
+    "height1": "56,4",
+    "height2": null,
+    "thickness1": "16",
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [],
+    "manufacturerRestriction": "AKEBONO",
+    "checkmark": "E9 90R - 01107/2670",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!",
+    "Weight": []
+  }
+}

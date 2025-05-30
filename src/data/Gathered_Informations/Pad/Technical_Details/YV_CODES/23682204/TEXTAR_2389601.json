@@ -1,0 +1,76 @@
+{
+  "reference": "2389601",
+  "id": "2389601",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "TEXTAR",
+  "wvaNumbers": [
+    "23887",
+    "23896",
+    "23896 205  0 5",
+    "23897",
+    "23900",
+    "7928D1024",
+    "7928D1117"
+  ],
+  "brand_oe_map": {
+    "AUDI": [
+      "4E0698151",
+      "4E0698151A",
+      "4E0698151B",
+      "4E0698151E",
+      "4E0698151J",
+      "4E0698151K",
+      "4E0698151Q",
+      "4E0698151R",
+      "4E4698151",
+      "4E4698151A"
+    ],
+    "SEAT": [
+      "4E0698151",
+      "4E0698151A",
+      "4E0698151B",
+      "4E0698151E",
+      "4E0698151J",
+      "4E0698151K"
+    ],
+    "SKODA": [
+      "4E0698151",
+      "4E0698151A",
+      "4E0698151B",
+      "4E0698151E",
+      "4E0698151J",
+      "4E0698151K"
+    ],
+    "VW": [
+      "4E0698151",
+      "4E0698151A",
+      "4E0698151B",
+      "4E0698151E",
+      "4E0698151J",
+      "4E0698151K"
+    ]
+  },
+  "eanNumber": "4019722288401",
+  "attributes": {
+    "width1": "193",
+    "width2": null,
+    "height1": "72,6",
+    "height2": null,
+    "thickness1": "20,5",
+    "thickness2": null,
+    "wvaNumber": [
+      "23896"
+    ],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [
+      "Teves"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": "",
+    "Weight": [
+      "2,8"
+    ]
+  }
+}

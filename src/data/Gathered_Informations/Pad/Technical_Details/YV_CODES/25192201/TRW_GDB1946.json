@@ -1,0 +1,37 @@
+{
+  "reference": "GDB1946",
+  "id": "GDB1946",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "TRW",
+  "wvaNumbers": [
+    "25190",
+    "25191",
+    "25192",
+    "25500"
+  ],
+  "brand_oe_map": {
+    "MERCEDES-BENZ": [
+      "006 420 38 20",
+      "007 420 80 20",
+      "A 006 420 38 20",
+      "A 007 420 80 20"
+    ]
+  },
+  "eanNumber": "3322938162153",
+  "attributes": {
+    "width1": "193,2",
+    "width2": null,
+    "height1": "64,1",
+    "height2": null,
+    "thickness1": "21,2",
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [],
+    "manufacturerRestriction": "ATE",
+    "checkmark": "E9 90R-01107/3071",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!",
+    "Weight": []
+  }
+}

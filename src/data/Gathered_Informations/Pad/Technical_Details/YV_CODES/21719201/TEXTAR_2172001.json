@@ -1,0 +1,55 @@
+{
+  "reference": "2172001",
+  "id": "2172001",
+  "name": "Fren balata seti, diskli fren Q+",
+  "brand": "TEXTAR",
+  "wvaNumbers": [
+    "21719",
+    "21720",
+    "21720 152  1 5",
+    "24388"
+  ],
+  "brand_oe_map": {
+    "FIAT": [
+      "6000628642",
+      "71750931",
+      "71768493",
+      "71768576"
+    ],
+    "HONDA": [
+      "06430S5AE50",
+      "43022S2AE50"
+    ],
+    "SUZUKI": [
+      "5580080J02",
+      "5580080J02000",
+      "5580080J03",
+      "5580080J03000",
+      "5580080J05",
+      "5580080J05000"
+    ]
+  },
+  "eanNumber": "4019722407321",
+  "attributes": {
+    "width1": "89",
+    "width2": null,
+    "height1": "47,5",
+    "height2": null,
+    "thickness1": "15,2",
+    "thickness2": null,
+    "wvaNumber": [
+      "21720"
+    ],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [
+      "Akebono"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": "",
+    "Weight": [
+      "0,8"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "reference": "2377501",
+  "id": "2377501",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "TEXTAR",
+  "wvaNumbers": [
+    "23218",
+    "23775",
+    "23775 180  0 5"
+  ],
+  "brand_oe_map": {
+    "FIAT": [
+      "7074616",
+      "7082515",
+      "71738155",
+      "71738158",
+      "71772210",
+      "77362171",
+      "77362311",
+      "9948038",
+      "9949124"
+    ]
+  },
+  "eanNumber": "4019722259333",
+  "attributes": {
+    "width1": "151,5",
+    "width2": null,
+    "height1": "49,2",
+    "height2": null,
+    "thickness1": "18",
+    "thickness2": null,
+    "wvaNumber": [
+      "23775"
+    ],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [
+      "Teves"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": "",
+    "Weight": [
+      "1,2"
+    ]
+  }
+}

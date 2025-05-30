@@ -1,0 +1,41 @@
+{
+  "reference": "2397601",
+  "id": "2397601",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "TEXTAR",
+  "wvaNumbers": [
+    "23976",
+    "23976 160  0 4"
+  ],
+  "brand_oe_map": {
+    "CHEVROLET": [
+      "212303501089000"
+    ],
+    "LADA": [
+      "21233501090"
+    ]
+  },
+  "eanNumber": "4019722262692",
+  "attributes": {
+    "width1": "126,1",
+    "width2": null,
+    "height1": "45",
+    "height2": null,
+    "thickness1": "16",
+    "thickness2": null,
+    "wvaNumber": [
+      "23976"
+    ],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [
+      "GM-Avtovaz"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": "",
+    "Weight": [
+      "1"
+    ]
+  }
+}

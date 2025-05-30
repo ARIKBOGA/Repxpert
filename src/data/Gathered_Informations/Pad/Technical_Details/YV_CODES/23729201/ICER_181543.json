@@ -1,0 +1,63 @@
+{
+  "reference": "181543",
+  "id": "181543",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "ICER",
+  "wvaNumbers": [
+    "24053",
+    "24054",
+    "24055",
+    "D1276-8392",
+    "D959-7857"
+  ],
+  "brand_oe_map": {
+    "ACURA": [
+      "45022-SZ3-G00"
+    ],
+    "HONDA": [
+      "06450-S7A-E00",
+      "06450-S7A-E50",
+      "06450-SDD-A00",
+      "06450-SDD-A10",
+      "06450-SJF-E00",
+      "06450-SNB-000",
+      "45022-S7A-E00",
+      "45022-S7A-E50",
+      "45022-SDA-C00",
+      "45022-SDB-A00",
+      "45022-SDB-A10",
+      "45022-SDD-A00",
+      "45022-SDD-A10",
+      "45022-SJF-E00",
+      "45022-SNB-000",
+      "45022-SZ3-G00",
+      "45022-TA0-Y00",
+      "45022-TS4-T50",
+      "45022-TSA-K00",
+      "AY040-HN024"
+    ]
+  },
+  "eanNumber": "8424073085542",
+  "attributes": {
+    "width1": "148,7",
+    "width2": null,
+    "height1": "59",
+    "height2": null,
+    "thickness1": "16,9",
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [
+      "300"
+    ],
+    "AxleVersion": [
+      "Front"
+    ],
+    "BrakeSystem": [
+      "Sumitomo"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "E9 90R-01111/993",
+    "SVHC": "",
+    "Weight": []
+  }
+}

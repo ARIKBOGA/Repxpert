@@ -1,0 +1,55 @@
+{
+  "reference": "P 28 025",
+  "id": "P 28 025",
+  "name": "Fren balata seti, diskli fren PRIME LINE",
+  "brand": "BREMBO",
+  "wvaNumbers": [
+    "23343",
+    "23344",
+    "21738",
+    "D564 7443"
+  ],
+  "brand_oe_map": {
+    "HONDA": [
+      "43022504E03",
+      "43022S04E01",
+      "43022S04E02",
+      "43022S04E03",
+      "43022SAAE51",
+      "43022SAAJ51",
+      "43022SO4E02",
+      "43022SO4E03",
+      "43022SR2010",
+      "43022SR2020",
+      "43022SR2030",
+      "43022SR2040",
+      "43022SR3G00",
+      "43022SR3G01",
+      "43022TARG00",
+      "43022TF0305",
+      "43022TF0G00",
+      "43022TF0G01",
+      "43022TG0T00"
+    ],
+    "ISUZU": [
+      "5860051480",
+      "5860051490",
+      "5860091630",
+      "5860095750",
+      "5860177980",
+      "5860195200"
+    ]
+  },
+  "eanNumber": "8020584052594",
+  "pad_attributes": {
+    "width1": "89",
+    "width2": null,
+    "height1": "37",
+    "height2": null,
+    "thickness1": "13",
+    "thickness2": null,
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": ""
+  }
+}

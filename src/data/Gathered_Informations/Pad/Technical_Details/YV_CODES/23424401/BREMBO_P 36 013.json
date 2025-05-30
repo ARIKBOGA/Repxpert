@@ -1,0 +1,43 @@
+{
+  "reference": "P 36 013",
+  "id": "P 36 013",
+  "name": "Fren balata seti, diskli fren PRIME LINE",
+  "brand": "BREMBO",
+  "wvaNumbers": [
+    "23424",
+    "D806 7679"
+  ],
+  "brand_oe_map": {
+    "FORD": [
+      "1W4Z2200AA",
+      "4W4Z2200AA",
+      "XW4Z2200AA"
+    ],
+    "JAGUAR": [
+      "02C2C40194",
+      "C2C20585",
+      "C2C22316",
+      "C2C40194",
+      "XR810211",
+      "XR812436",
+      "XR8124636",
+      "XR830140",
+      "XR848934"
+    ],
+    "LINCOLN": [
+      "XW4ZA2200AA"
+    ]
+  },
+  "eanNumber": "8020584053065",
+  "pad_attributes": {
+    "width1": "114",
+    "width2": null,
+    "height1": "50",
+    "height2": null,
+    "thickness1": "18",
+    "thickness2": null,
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": ""
+  }
+}

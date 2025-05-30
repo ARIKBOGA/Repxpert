@@ -1,0 +1,41 @@
+{
+  "reference": "GDB1378",
+  "id": "GDB1378",
+  "name": "Fren balata seti, diskli fren COTEC",
+  "brand": "TRW",
+  "wvaNumbers": [
+    "23193",
+    "23194",
+    "23195",
+    "23196"
+  ],
+  "brand_oe_map": {
+    "MERCEDES-BENZ": [
+      "163 420 00 20",
+      "163 420 03 20",
+      "163 420 12 20",
+      "163420122041",
+      "A 163 420 00 20",
+      "A 163 420 03 20",
+      "A 163 420 12 20",
+      "A163420122041"
+    ]
+  },
+  "eanNumber": "3322937242122",
+  "attributes": {
+    "width1": "188",
+    "width2": null,
+    "height1": "58,8",
+    "height2": null,
+    "thickness1": "16",
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [],
+    "manufacturerRestriction": "KELSEY HAYES",
+    "checkmark": "E1 90R 01024/447",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!",
+    "Weight": []
+  }
+}

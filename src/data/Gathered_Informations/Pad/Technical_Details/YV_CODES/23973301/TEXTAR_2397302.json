@@ -1,0 +1,69 @@
+{
+  "reference": "2397302",
+  "id": "2397302",
+  "name": "Fren balata seti, diskli fren Q+",
+  "brand": "TEXTAR",
+  "wvaNumbers": [
+    "23973",
+    "23973 173  1 5",
+    "24403",
+    "8691D1491"
+  ],
+  "brand_oe_map": {
+    "GENERAL MOTORS": [
+      "93192962"
+    ],
+    "OPEL": [
+      "4308239",
+      "4701305",
+      "4708239",
+      "4711040",
+      "93196814",
+      "95515496"
+    ],
+    "SUZUKI": [
+      "5581062J00",
+      "5581062J00000",
+      "5581062J00GAL",
+      "5581062J00L00",
+      "5581062J01",
+      "5581062J01000",
+      "5581062J20",
+      "5581062J20000",
+      "5581062J30",
+      "5581062J30000",
+      "5581062J31",
+      "5581062J31000",
+      "5581062J50",
+      "5581062J50000"
+    ],
+    "VAUXHALL": [
+      "4711040",
+      "93196814",
+      "95515496"
+    ]
+  },
+  "eanNumber": "4019722276002",
+  "attributes": {
+    "width1": "116,5",
+    "width2": null,
+    "height1": "52,5",
+    "height2": null,
+    "thickness1": "17,3",
+    "thickness2": null,
+    "wvaNumber": [
+      "23973"
+    ],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [
+      "Lucas"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": "",
+    "Weight": [
+      "1,2"
+    ]
+  }
+}

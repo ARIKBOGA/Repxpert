@@ -1,0 +1,53 @@
+{
+  "reference": "2379181",
+  "id": "2379181",
+  "name": "Fren balata seti, diskli fren epad",
+  "brand": "TEXTAR",
+  "wvaNumbers": [
+    "23791",
+    "23791 208  0 5 epad",
+    "23792",
+    "7821D1151"
+  ],
+  "brand_oe_map": {
+    "BMW": [
+      "2283365",
+      "2339272",
+      "34112283365",
+      "34112339272",
+      "34116763652",
+      "34116768287",
+      "34116770575",
+      "34116774258",
+      "6763652",
+      "6768287",
+      "6770575",
+      "6774258"
+    ]
+  },
+  "eanNumber": "4019722446733",
+  "attributes": {
+    "width1": "193,4",
+    "width2": null,
+    "height1": "79,2",
+    "height2": null,
+    "thickness1": "20,8",
+    "thickness2": null,
+    "wvaNumber": [
+      "23791"
+    ],
+    "Quality": [
+      "epad"
+    ],
+    "AxleVersion": [],
+    "BrakeSystem": [
+      "Teves"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": "",
+    "Weight": [
+      "3"
+    ]
+  }
+}

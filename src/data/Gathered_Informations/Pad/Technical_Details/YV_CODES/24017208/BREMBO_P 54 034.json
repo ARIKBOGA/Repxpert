@@ -1,0 +1,64 @@
+{
+  "reference": "P 54 034",
+  "id": "P 54 034",
+  "name": "Fren balata seti, diskli fren PRIME LINE",
+  "brand": "BREMBO",
+  "wvaNumbers": [
+    "24015",
+    "24014",
+    "D1037 7940"
+  ],
+  "brand_oe_map": {
+    "CHRYSLER": [
+      "05191271AC",
+      "K05191271AA",
+      "K05191271AB",
+      "K05191271AC"
+    ],
+    "DODGE": [
+      "05191271AA",
+      "05191271AB",
+      "5191271AC"
+    ],
+    "JEEP": [
+      "2AMV4271AA",
+      "5191271AA",
+      "5191271AB",
+      "K5191271AA",
+      "K5191271AB"
+    ],
+    "JEEP (GAC FCA)": [
+      "53379837"
+    ],
+    "MITSUBISHI": [
+      "4605A336",
+      "4605A337",
+      "4605A479",
+      "4605A493",
+      "4605A558",
+      "5191217AC",
+      "MN116929",
+      "MR955068",
+      "MZ690187",
+      "MZ690350",
+      "MZ690569",
+      "MZ690586",
+      "TS200051"
+    ],
+    "MITSUBISHI (SOUEAST)": [
+      "SE0012117"
+    ]
+  },
+  "eanNumber": "8020584061275",
+  "pad_attributes": {
+    "width1": "85",
+    "width2": "106",
+    "height1": "35",
+    "height2": "40",
+    "thickness1": "15",
+    "thickness2": null,
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": ""
+  }
+}

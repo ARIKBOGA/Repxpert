@@ -1,0 +1,49 @@
+{
+  "reference": "P 56 106",
+  "id": "P 56 106",
+  "name": "Fren balata seti, diskli fren PRIME LINE",
+  "brand": "BREMBO",
+  "wvaNumbers": [
+    "22117",
+    "22118",
+    "22119",
+    "D1736 8906"
+  ],
+  "brand_oe_map": {
+    "INFINITI": [
+      "D10603WU0A",
+      "D10604GA0A",
+      "D10604GA0B",
+      "D10604GA5A",
+      "D10604GS1B",
+      "D10605NA0A",
+      "D10605NA0B",
+      "D10605VG0B",
+      "D10606HH0C"
+    ],
+    "NISSAN": [
+      "AY040NS170",
+      "AY040NS185",
+      "AY040NS943",
+      "D10604CC0A",
+      "D10604GA0J",
+      "D10607DA0A"
+    ],
+    "RENAULT": [
+      "410607185R",
+      "410608710R"
+    ]
+  },
+  "eanNumber": "8020584084014",
+  "pad_attributes": {
+    "width1": "152",
+    "width2": null,
+    "height1": "62",
+    "height2": null,
+    "thickness1": "16",
+    "thickness2": null,
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": ""
+  }
+}

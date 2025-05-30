@@ -1,0 +1,42 @@
+{
+  "reference": "182351",
+  "id": "182351",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "ICER",
+  "wvaNumbers": [
+    "22942",
+    "22943",
+    "D2206-9446"
+  ],
+  "brand_oe_map": {
+    "MERCEDES-BENZ": [
+      "000 420 53 03",
+      "000 420 55 03",
+      "000 420 71 00",
+      "000 420 73 00"
+    ]
+  },
+  "eanNumber": "8424073189349",
+  "attributes": {
+    "width1": "135,3",
+    "width2": null,
+    "height1": "69",
+    "height2": "74,5",
+    "thickness1": "19,7",
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [
+      "300"
+    ],
+    "AxleVersion": [
+      "Front"
+    ],
+    "BrakeSystem": [
+      "Bosch"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "E9 90R-02A0111/5372",
+    "SVHC": "",
+    "Weight": []
+  }
+}

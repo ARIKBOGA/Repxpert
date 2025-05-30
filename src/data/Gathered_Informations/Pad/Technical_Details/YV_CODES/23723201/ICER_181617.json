@@ -1,0 +1,91 @@
+{
+  "reference": "181617",
+  "id": "181617",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "ICER",
+  "wvaNumbers": [
+    "23723",
+    "23724",
+    "D1044-7947",
+    "D1230-7947"
+  ],
+  "brand_oe_map": {
+    "FORD": [
+      "1 223 682",
+      "1 321 517",
+      "1 508 074",
+      "1 519 528",
+      "1 695 810",
+      "1 712 024",
+      "1 820 037",
+      "2 253 408",
+      "2 454 098",
+      "2 492 033",
+      "3M51-2K021-AA",
+      "3M51-2K021-AB",
+      "3M5J-0K021-A1A",
+      "4S4Z-2001-AA",
+      "5M51-2K021-AA",
+      "7M5Z-2V001-A",
+      "8V41-2K021-AA",
+      "8V41-2K021-AB",
+      "AV61-2K021-BA",
+      "AV61-2K021-BB",
+      "BRF1554",
+      "CV61-2001-BC",
+      "CV61-2001-BF",
+      "FU2Z-2V001-B",
+      "KTKV6C-2K021-BA",
+      "MEAV6J-2K021-BA"
+    ],
+    "MAZDA": [
+      "B3YH-33-23Z",
+      "B3YH-33-23ZA",
+      "B4YB-33-23Z",
+      "BPYK-33-23-ZB9C",
+      "BPYK-33-23Z",
+      "BPYK-33-23ZA",
+      "BPYK-33-23ZA9C",
+      "BPYK-33-23ZC",
+      "BPYK-33-23ZC9C",
+      "C2Y3-33-23ZA"
+    ],
+    "RENAULT": [
+      "86 60 004 760",
+      "86 71 016 740"
+    ],
+    "VOLVO": [
+      "3 068 173 9",
+      "3 068 355 4",
+      "3 071 502 3",
+      "3 073 692 3",
+      "3 074 203 0",
+      "3 079 361 8",
+      "3 079 361 80",
+      "3 134 130 1"
+    ]
+  },
+  "eanNumber": "8424073088611",
+  "attributes": {
+    "width1": "155,1",
+    "width2": "156,3",
+    "height1": "62,3",
+    "height2": "67",
+    "thickness1": "18,4",
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [
+      "300"
+    ],
+    "AxleVersion": [
+      "Front"
+    ],
+    "BrakeSystem": [
+      "ATE"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "E9 90R-01111/947",
+    "SVHC": "",
+    "Weight": []
+  }
+}

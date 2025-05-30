@@ -1,0 +1,46 @@
+{
+  "reference": "182272",
+  "id": "182272",
+  "name": "Fren balata seti, diskli fren",
+  "brand": "ICER",
+  "wvaNumbers": [
+    "22317",
+    "22318",
+    "D1865-9094"
+  ],
+  "brand_oe_map": {
+    "VOLVO": [
+      "3 144 597 5",
+      "3 144 597 6",
+      "3 147 672 2",
+      "3 147 672 3",
+      "3 149 990 5",
+      "3 149 990 6",
+      "3 166 528 8",
+      "3 237 312 5"
+    ]
+  },
+  "eanNumber": "8424073150295",
+  "attributes": {
+    "width1": "180,1",
+    "width2": "181,5",
+    "height1": "74,7",
+    "height2": "74,8",
+    "thickness1": "18,4",
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [
+      "300"
+    ],
+    "AxleVersion": [
+      "Front"
+    ],
+    "BrakeSystem": [
+      "ATE"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "E9 90R-02A0111/4560",
+    "SVHC": "",
+    "Weight": []
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "reference": "GDB1865",
+  "id": "GDB1865",
+  "name": "Fren balata seti, diskli fren COTEC",
+  "brand": "TRW",
+  "wvaNumbers": [
+    "24727",
+    "24728",
+    "24729"
+  ],
+  "brand_oe_map": {
+    "ALFA ROMEO": [
+      "77364929",
+      "77365796"
+    ],
+    "CHRYSLER": [
+      "77365796"
+    ],
+    "FIAT": [
+      "77364929",
+      "77365796"
+    ],
+    "LANCIA": [
+      "77364929",
+      "77365796"
+    ],
+    "OPEL": [
+      "16 05 293",
+      "95518219"
+    ],
+    "VAUXHALL": [
+      "16 05 293",
+      "95518219"
+    ]
+  },
+  "eanNumber": "3322938024093",
+  "attributes": {
+    "width1": "156,4",
+    "width2": "155,2",
+    "height1": "71,5",
+    "height2": "69",
+    "thickness1": "20",
+    "thickness2": null,
+    "wvaNumber": [],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [],
+    "manufacturerRestriction": "ATE",
+    "checkmark": "E9 90R - 01107/1354",
+    "SVHC": "Bilgi yok, lütfen üreticiye danışın!",
+    "Weight": []
+  }
+}
