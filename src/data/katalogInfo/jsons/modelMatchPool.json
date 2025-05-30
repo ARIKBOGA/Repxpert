@@ -36604,5 +36604,107 @@
     "normalized": "VANETTE BUS C22 ICHI VAN NOMAD VANETTE LARGO VAN",
     "model_id": 5115,
     "marka_id": 43
+  },
+  {
+    "original": "ASTRA G Hatchback (T98)",
+    "normalized": "ASTRA G HATCHBACK T98",
+    "model_id": 4482,
+    "marka_id": 44
+  },
+  {
+    "original": "ASTRA G Sedan (T98) | ASTRA CLASSIC",
+    "normalized": "ASTRA G SEDAN T98 ASTRA CLASSIC",
+    "model_id": 4484,
+    "marka_id": 44
+  },
+  {
+    "original": "ASTRA G Station wagon (T98)",
+    "normalized": "ASTRA G STATION WAGON T98",
+    "model_id": 4485,
+    "marka_id": 44
+  },
+  {
+    "original": "URVAN Minibüs/Otobüs (E24)",
+    "normalized": "URVAN BUS E24",
+    "model_id": 5116,
+    "marka_id": 43
+  },
+  {
+    "original": "URVAN Panelvan/Van (E24)",
+    "normalized": "URVAN PANELVAN VAN E24",
+    "model_id": 5117,
+    "marka_id": 43
+  },
+  {
+    "original": "SPRINTER 4-t Minibüs/Otobüs (B904)",
+    "normalized": "SPRINTER 4 T BUS B904",
+    "model_id": 5118,
+    "marka_id": 41
+  },
+  {
+    "original": "33 (907_)",
+    "normalized": "33 907",
+    "model_id": 5121,
+    "marka_id": 50
+  },
+  {
+    "original": "33 Sportwagon (907_)",
+    "normalized": "33 SPORTWAGON 907",
+    "model_id": 5122,
+    "marka_id": 50
+  },
+  {
+    "original": "GTV (916_)",
+    "normalized": "GTV 916",
+    "model_id": 5123,
+    "marka_id": 50
+  },
+  {
+    "original": "COUPE (175_)",
+    "normalized": "COUPE 175",
+    "model_id": 5124,
+    "marka_id": 34
+  },
+  {
+    "original": "THEMA SW (834_)",
+    "normalized": "THEMA SW 834",
+    "model_id": 5126,
+    "marka_id": 75
+  },
+  {
+    "original": "CITYROVER Hatchback",
+    "normalized": "CITYROVER HATCHBACK",
+    "model_id": 5129,
+    "marka_id": 47
+  },
+  {
+    "original": "FORMENTOR (KM7, KMP) | CUPRA",
+    "normalized": "FORMENTOR KM7 KMP CUPRA",
+    "model_id": 5144,
+    "marka_id": 114
+  },
+  {
+    "original": "EVANDA",
+    "normalized": "EVANDA",
+    "model_id": 962,
+    "marka_id": 52
+  },
+  {
+    "original": "S60 I (384)",
+    "normalized": "S60 I 384",
+    "model_id": 2513,
+    "marka_id": 77
+  },
+  {
+    "original": "S80 I (184)",
+    "normalized": "S80 I 184",
+    "model_id": 2514,
+    "marka_id": 77
+  },
+  {
+    "original": "TGE Panelvan/Van",
+    "normalized": "TGE PANELVAN VAN",
+    "model_id": 5044,
+    "marka_id": 82
   }
 ]
