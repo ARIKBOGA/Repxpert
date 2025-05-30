@@ -1,0 +1,31 @@
+{
+  "reference": "WG2258147",
+  "id": "GROUP WG2258147",
+  "name": "Kayış kasnağı, krank mili",
+  "brand": "WILMINK",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "NISSAN": [
+      "12303EB300",
+      "12303EB30A",
+      "12303EB30B",
+      "12303EB70B"
+    ]
+  },
+  "eanNumber": "",
+  "attributes": {
+    "BoltHoleCircle": [],
+    "NumberOfGrooves": [],
+    "Diameter": [],
+    "InnerDiameter_1": [],
+    "InnerDiameter_2": [],
+    "KaburgaSayisi": [],
+    "SupplementaryInfo": [],
+    "OuterDiameter": [],
+    "Parameter": [],
+    "VehicleEquipment": [],
+    "Thickness": [],
+    "Weight": [],
+    "Color": []
+  }
+}

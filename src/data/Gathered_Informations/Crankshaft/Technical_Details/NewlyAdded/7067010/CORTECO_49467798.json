@@ -1,0 +1,45 @@
+{
+  "reference": "49467798",
+  "id": "49467798",
+  "name": "Kayış kasnağı, krank mili",
+  "brand": "CORTECO",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "MINI": [
+      "11 23 8 477 129",
+      "11 23 8 511 320"
+    ],
+    "TOYOTA": [
+      "13470WA010",
+      "13470WA011"
+    ]
+  },
+  "eanNumber": "3358960906304",
+  "attributes": {
+    "BoltHoleCircle": [],
+    "NumberOfGrooves": [],
+    "Diameter": [],
+    "InnerDiameter_1": [],
+    "InnerDiameter_2": [],
+    "KaburgaSayisi": [
+      "4"
+    ],
+    "SupplementaryInfo": [
+      "Montaj talimatı ile"
+    ],
+    "OuterDiameter": [
+      "172"
+    ],
+    "Parameter": [
+      "5PK"
+    ],
+    "VehicleEquipment": [
+      "Start stop fonksiyonuna sahip araçlar için, Start stop fonksiyonuna sahip olmayan araçlar için"
+    ],
+    "Thickness": [],
+    "Weight": [
+      "2,86"
+    ],
+    "Color": []
+  }
+}
