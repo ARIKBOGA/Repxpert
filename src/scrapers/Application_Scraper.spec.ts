@@ -21,7 +21,7 @@ let retryList = readJsonFile<string[]>(retryListFilePath, []);
 
 test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
 
-  for (const ref of discPairs) {
+  for (const ref of padPairs) {
     // Excel den okunan satırlardan yvNo ve brandRefs değerlerini al
     const { yvNo, brandRefs } = ref;
     const filterBrand = Object.keys(brandRefs)[0];

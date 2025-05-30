@@ -32,7 +32,7 @@ export function getSubfolderNamesSync(dirPath: string): string[] {
 
 
 export const padPairs: ProductReference[] = [
-  // { yvNo: "20341401", brandRefs: { "ICER": "180324" } },
+  { yvNo: "20341401", brandRefs: { "ICER": "180324" } },
   { yvNo: "21201201", brandRefs: { "ICER": "181366" } },
   { yvNo: "21312201", brandRefs: { "ICER": "180752-701" } },
   { yvNo: "21347201", brandRefs: { "ICER": "140884" } },
