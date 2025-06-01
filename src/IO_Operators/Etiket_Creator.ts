@@ -349,10 +349,6 @@ const rows: [string, string][] = [];
     rows.push([crossNumber, label]);
   }
   console.log("Toplam etiket sayısı:", rows.length);
-  console.log("Etiketler (ilk 5):");
-  rows
-    .slice(0, 5)
-    .forEach((row) => console.log(row[0], ":\n", row[1], "\n---"));
 
   const wb = XLSX.utils.book_new();
   const ws = XLSX.utils.aoa_to_sheet([["CROSS", "ETIKET"], ...rows]);
