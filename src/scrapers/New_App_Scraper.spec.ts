@@ -103,11 +103,16 @@ test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
             const rowCount = await rows.count();
 
             for (let k = 0; k < rowCount; k++) {
-              const cells = page.locator(selector.cells_part_1 + (k + 1) + selector.cells_part_2);
+              
+              const rowSelector = selector.cells_part_1 + (k + 1) + selector.cells_part_2;
+              const cells = page.locator(rowSelector);
               const cellTexts = await cells.allTextContents();
               const cellValues = cellTexts
                 .map((text) => text.trim())
                 .filter((text) => text !== "");
+
+              const engineCodes =  (await page.locator(`(${rowSelector})[6]//span`).allTextContents()).map(text => text.trim()).join(", ").trim();
+              const KBA_Numbers =  (await page.locator(`(${rowSelector})[7]//span`).allTextContents()).map(text => text.trim()).join(", ").trim();
 
               applications.push({
                 brand,
@@ -117,8 +122,8 @@ test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
                 kw: cellValues[2] || "",
                 hp: cellValues[3] || "",
                 cc: cellValues[4] || "",
-                engineCodes: cellValues[5] || "",
-                KBA_Numbers: cellValues[6] || "",
+                engineCodes: engineCodes || "",
+                KBA_Numbers: KBA_Numbers || "",
               });
             }
 

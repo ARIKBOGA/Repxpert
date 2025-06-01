@@ -3,11 +3,12 @@ import path from "path";
 import glob from "fast-glob";
 import * as XLSX from "xlsx";
 import { Application } from "../types/Application";
-import { extractYears, cleanKBA } from "../utils/extractHelpers";
+import { extractYears } from "../utils/extractHelpers";
 import initialMarkaData from "../data/katalogInfo/jsons/marka_new.json"; // Statik import
 import initialModelData from "../data/katalogInfo/jsons/model_new.json";   // Statik import
 import { formatDateTime } from "../utils/DateHelper";
 import { debuglog } from "util"; // Hata ayıklama logları için
+import { Locale } from "locale-enum";
 
 // Hata ayıklama loglarını etkinleştirmek için bir env değişkeni kullanabilirsiniz:
 // export NODE_DEBUG=excel-app (ya da uygulamanızın adı)
@@ -205,7 +206,7 @@ async function main() {
 
       // JSON dosyasındaki her bir uygulama satırını işle
       for (const app of json) {
-        const { start, end } = extractYears(app.madeYear);
+        const { start, end } = extractYears(app.madeYear, Locale.en_US);
 
         const marka_id = markaNameToIdMap.get(app.brand.trim()) ?? null;
         const modelEntry = modelDataMap.get(app.model.trim());
@@ -239,7 +240,7 @@ async function main() {
           hp: app.hp.trim(),
           cc: app.cc.trim(),
           "motor kodu": app.engineCodes.trim(),
-          KBA: cleanKBA(app.KBA_Numbers),
+          KBA: app.KBA_Numbers.trim(),
         });
       }
 
