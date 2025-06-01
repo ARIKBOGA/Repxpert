@@ -1,80 +1,440 @@
 [
   {
-    "Model": "HR-V (GH_)",
-    "normalizedModel": "HR V GH",
-    "Marka": "HONDA",
-    "marka_id": 35
+    "Model": "ROADSTER S (E85)",
+    "normalizedModel": "ROADSTER S E85",
+    "Marka": "ALPINA",
+    "marka_id": 111
   },
   {
-    "Model": "REZZO MPV (U100) | TACUMA",
-    "normalizedModel": "REZZO MPV U100 TACUMA",
+    "Model": "B10 (E39)",
+    "normalizedModel": "B10 E39",
+    "Marka": "ALPINA",
+    "marka_id": 111
+  },
+  {
+    "Model": "B10 Touring (E39)",
+    "normalizedModel": "B10 TOURING E39",
+    "Marka": "ALPINA",
+    "marka_id": 111
+  },
+  {
+    "Model": "ARNAGE (RBS_)",
+    "normalizedModel": "ARNAGE RBS",
+    "Marka": "BENTLEY",
+    "marka_id": 112
+  },
+  {
+    "Model": "ARNAGE Coupe",
+    "normalizedModel": "ARNAGE COUPE",
+    "Marka": "BENTLEY",
+    "marka_id": 112
+  },
+  {
+    "Model": "AZURE II (RBS_)",
+    "normalizedModel": "AZURE II RBS",
+    "Marka": "BENTLEY",
+    "marka_id": 112
+  },
+  {
+    "Model": "BROOKLANDS Coupe (RBS_)",
+    "normalizedModel": "BROOKLANDS COUPE RBS",
+    "Marka": "BENTLEY",
+    "marka_id": 112
+  },
+  {
+    "Model": "CONTINENTAL",
+    "normalizedModel": "CONTINENTAL",
+    "Marka": "BENTLEY",
+    "marka_id": 112
+  },
+  {
+    "Model": "PHANTOM VII (RR1)",
+    "normalizedModel": "PHANTOM VII RR1",
+    "Marka": "ROLLS-ROYCE",
+    "marka_id": 124
+  },
+  {
+    "Model": "PHANTOM VII Coupe (RR3)",
+    "normalizedModel": "PHANTOM VII COUPE RR3",
+    "Marka": "ROLLS-ROYCE",
+    "marka_id": 124
+  },
+  {
+    "Model": "PHANTOM VII Drophead Coupe (RR2)",
+    "normalizedModel": "PHANTOM VII DROPHEAD COUPE RR2",
+    "Marka": "ROLLS-ROYCE",
+    "marka_id": 124
+  },
+  {
+    "Model": "ROADSTER V8 (E52)",
+    "normalizedModel": "ROADSTER V8 E52",
+    "Marka": "ALPINA",
+    "marka_id": 111
+  },
+  {
+    "Model": "B7 (F01, F02)",
+    "normalizedModel": "B7 F01 F02",
+    "Marka": "ALPINA",
+    "marka_id": 111
+  },
+  {
+    "Model": "B6 Gran Coupe (F06)",
+    "normalizedModel": "B6 GRAN COUPE F06",
+    "Marka": "ALPINA",
+    "marka_id": 111
+  },
+  {
+    "Model": "DAWN (RR6)",
+    "normalizedModel": "DAWN RR6",
+    "Marka": "ROLLS-ROYCE",
+    "marka_id": 124
+  },
+  {
+    "Model": "GHOST I (RR4)",
+    "normalizedModel": "GHOST I RR4",
+    "Marka": "ROLLS-ROYCE",
+    "marka_id": 124
+  },
+  {
+    "Model": "WRAITH (RR5)",
+    "normalizedModel": "WRAITH RR5",
+    "Marka": "ROLLS-ROYCE",
+    "marka_id": 124
+  },
+  {
+    "Model": "B7 (G12)",
+    "normalizedModel": "B7 G12",
+    "Marka": "ALPINA",
+    "marka_id": 111
+  },
+  {
+    "Model": "XB7 (G07)",
+    "normalizedModel": "XB7 G07",
+    "Marka": "ALPINA",
+    "marka_id": 111
+  },
+  {
+    "Model": "CULLINAN (RR31)",
+    "normalizedModel": "CULLINAN RR31",
+    "Marka": "ROLLS-ROYCE",
+    "marka_id": 124
+  },
+  {
+    "Model": "GHOST II (RR21)",
+    "normalizedModel": "GHOST II RR21",
+    "Marka": "ROLLS-ROYCE",
+    "marka_id": 124
+  },
+  {
+    "Model": "GHOST II Extended Wheelbase (RR22)",
+    "normalizedModel": "GHOST II EXTENDED WHEELBASE RR22",
+    "Marka": "ROLLS-ROYCE",
+    "marka_id": 124
+  },
+  {
+    "Model": "PHANTOM VIII (RR11, RR12)",
+    "normalizedModel": "PHANTOM VIII RR11 RR12",
+    "Marka": "ROLLS-ROYCE",
+    "marka_id": 124
+  },
+  {
+    "Model": "EC7",
+    "normalizedModel": "EC7",
+    "Marka": "EMGRAND",
+    "marka_id": 110
+  },
+  {
+    "Model": "EC7-RV | EC 7 HB",
+    "normalizedModel": "EC7 RV EC 7 HB",
+    "Marka": "EMGRAND",
+    "marka_id": 110
+  },
+  {
+    "Model": "124",
+    "normalizedModel": "124",
+    "Marka": "SEAT",
+    "marka_id": 76
+  },
+  {
+    "Model": "101",
+    "normalizedModel": "101",
+    "Marka": "ZASTAVA",
+    "marka_id": 106
+  },
+  {
+    "Model": "YUGO",
+    "normalizedModel": "YUGO",
+    "Marka": "ZASTAVA",
+    "marka_id": 106
+  },
+  {
+    "Model": "ELBA",
+    "normalizedModel": "ELBA",
+    "Marka": "INNOCENTI",
+    "marka_id": 105
+  },
+  {
+    "Model": "10",
+    "normalizedModel": "10",
+    "Marka": "ZASTAVA",
+    "marka_id": 106
+  },
+  {
+    "Model": "GRANDE PUNTO",
+    "normalizedModel": "GRANDE PUNTO",
+    "Marka": "ABARTH",
+    "marka_id": 90
+  },
+  {
+    "Model": "CUB",
+    "normalizedModel": "CUB",
+    "Marka": "LDV",
+    "marka_id": 119
+  },
+  {
+    "Model": "PORTER Platform şasi",
+    "normalizedModel": "PORTER PLATFORM SASI",
+    "Marka": "HYUNDAI",
+    "marka_id": 36
+  },
+  {
+    "Model": "KORANDO (KJ)",
+    "normalizedModel": "KORANDO KJ",
+    "Marka": "SSANGYONG",
+    "marka_id": 68
+  },
+  {
+    "Model": "KORANDO Cabrio (KJ)",
+    "normalizedModel": "KORANDO CABRIO KJ",
+    "Marka": "SSANGYONG",
+    "marka_id": 68
+  },
+  {
+    "Model": "LS",
+    "normalizedModel": "LS",
+    "Marka": "LINCOLN",
+    "marka_id": 120
+  },
+  {
+    "Model": "CJ 3 Wagon | MARKSMAN",
+    "normalizedModel": "CJ 3 WAGON MARKSMAN",
+    "Marka": "MAHINDRA",
+    "marka_id": 121
+  },
+  {
+    "Model": "11",
+    "normalizedModel": "11",
+    "Marka": "OLTCIT",
+    "marka_id": 122
+  },
+  {
+    "Model": "G-MODELL (W460)",
+    "normalizedModel": "G MODELL W460",
+    "Marka": "PUCH",
+    "marka_id": 113
+  },
+  {
+    "Model": "G-MODELL (W461)",
+    "normalizedModel": "G MODELL W461",
+    "Marka": "PUCH",
+    "marka_id": 113
+  },
+  {
+    "Model": "G-MODELL (W463)",
+    "normalizedModel": "G MODELL W463",
+    "Marka": "PUCH",
+    "marka_id": 113
+  },
+  {
+    "Model": "CV9",
+    "normalizedModel": "CV9",
+    "Marka": "LANDWIND (JMC)",
+    "marka_id": 118
+  },
+  {
+    "Model": "AVENGER",
+    "normalizedModel": "AVENGER",
+    "Marka": "DODGE",
+    "marka_id": 61
+  },
+  {
+    "Model": "TIGRA",
+    "normalizedModel": "TIGRA",
     "Marka": "CHEVROLET",
     "marka_id": 52
   },
   {
-    "Model": "REZZO (U100) | TACUMA",
-    "normalizedModel": "REZZO U100 TACUMA",
-    "Marka": "DAEWOO",
+    "Model": "VECTRA",
+    "normalizedModel": "VECTRA",
+    "Marka": "CHEVROLET",
     "marka_id": 52
   },
   {
-    "Model": "ECLIPSE I (D2_A)",
-    "normalizedModel": "ECLIPSE I D2 A",
-    "Marka": "MITSUBISHI",
-    "marka_id": 42
+    "Model": "ASTRA Hatchback",
+    "normalizedModel": "ASTRA HATCHBACK",
+    "Marka": "CHEVROLET",
+    "marka_id": 52
   },
   {
-    "Model": "GALANT VI (E3_A) | ETERNA",
-    "normalizedModel": "GALANT VI E3 A ETERNA",
-    "Marka": "MITSUBISHI",
-    "marka_id": 42
+    "Model": "ASTRA Sedan",
+    "normalizedModel": "ASTRA SEDAN",
+    "Marka": "CHEVROLET",
+    "marka_id": 52
   },
   {
-    "Model": "GALANT VI Sedan (E3_A) | ETERNA",
-    "normalizedModel": "GALANT VI SEDAN E3 A ETERNA",
-    "Marka": "MITSUBISHI",
-    "marka_id": 42
+    "Model": "FLYING SPUR (4W_)",
+    "normalizedModel": "FLYING SPUR 4W",
+    "Marka": "BENTLEY",
+    "marka_id": 112
   },
   {
-    "Model": "GALANT VII (E5_A, E7_A, E8_A)",
-    "normalizedModel": "GALANT VII E5 A E7 A E8 A",
-    "Marka": "MITSUBISHI",
-    "marka_id": 42
+    "Model": "CLUB",
+    "normalizedModel": "CLUB",
+    "Marka": "MEGA",
+    "marka_id": 107
   },
   {
-    "Model": "GALANT VII Sedan (E5_A, E7_A, E8_A) | ETERNA",
-    "normalizedModel": "GALANT VII SEDAN E5 A E7 A E8 A ETERNA",
-    "Marka": "MITSUBISHI",
-    "marka_id": 42
+    "Model": "PARTNER Platform şasi",
+    "normalizedModel": "PARTNER PLATFORM SASI",
+    "Marka": "PEUGEOT",
+    "marka_id": 45
   },
   {
-    "Model": "LANCER V (CB_A, CD_A, CE_A) | LIBERO",
-    "normalizedModel": "LANCER V CB A CD A CE A LIBERO",
-    "Marka": "MITSUBISHI",
-    "marka_id": 42
+    "Model": "DS 7 Crossback (J4_, JR_, JC_) | DS7",
+    "normalizedModel": "DS 7 CROSSBACK J4 JR JC DS7",
+    "Marka": "DS",
+    "marka_id": 94
   },
   {
-    "Model": "SPACE WAGON (N3_W, N4_W) | EXPO | NIMBUS | CHARIOT",
-    "normalizedModel": "SPACE WAGON N3 W N4 W EXPO NIMBUS CHARIOT",
-    "Marka": "MITSUBISHI",
-    "marka_id": 42
+    "Model": "DS 9 (X2_)",
+    "normalizedModel": "DS 9 X2",
+    "Marka": "DS",
+    "marka_id": 94
   },
   {
-    "Model": "GL-SERISI (X166)",
-    "normalizedModel": "GL CLASS X166",
-    "Marka": "MERCEDES-BENZ",
-    "marka_id": 41
+    "Model": "MURENA",
+    "normalizedModel": "MURENA",
+    "Marka": "TALBOT",
+    "marka_id": 108
   },
   {
-    "Model": "XC70 I Cross Country (295) | V70 XC | V70 XC / XC70",
-    "normalizedModel": "XC70 I CROSS COUNTRY 295 V70 XC V70 XC XC70",
-    "Marka": "VOLVO",
-    "marka_id": 77
+    "Model": "V6",
+    "normalizedModel": "V6",
+    "Marka": "ALPINE",
+    "marka_id": 109
   },
   {
-    "Model": "XC90 I (275)",
-    "normalizedModel": "XC90 I 275",
-    "Marka": "VOLVO",
-    "marka_id": 77
+    "Model": "KINGKONG | FAMILIA",
+    "normalizedModel": "KINGKONG FAMILIA",
+    "Marka": "GEELY",
+    "marka_id": 110
+  },
+  {
+    "Model": "MK Sedan",
+    "normalizedModel": "MK SEDAN",
+    "Marka": "GEELY",
+    "marka_id": 110
+  },
+  {
+    "Model": "CK | MK | FREE CRUISER | ECHO",
+    "normalizedModel": "CK MK FREE CRUISER ECHO",
+    "Marka": "GEELY",
+    "marka_id": 110
+  },
+  {
+    "Model": "WORK Panelvan/Van",
+    "normalizedModel": "WORK PANELVAN VAN",
+    "Marka": "STREETSCOOTER",
+    "marka_id": 125
+  },
+  {
+    "Model": "WORK Platform şasi",
+    "normalizedModel": "WORK PLATFORM SASI",
+    "Marka": "STREETSCOOTER",
+    "marka_id": 125
+  },
+  {
+    "Model": "DIABLO",
+    "normalizedModel": "DIABLO",
+    "Marka": "LAMBORGHINI",
+    "marka_id": 117
+  },
+  {
+    "Model": "DIABLO Roadster",
+    "normalizedModel": "DIABLO ROADSTER",
+    "Marka": "LAMBORGHINI",
+    "marka_id": 117
+  },
+  {
+    "Model": "GALLARDO",
+    "normalizedModel": "GALLARDO",
+    "Marka": "LAMBORGHINI",
+    "marka_id": 117
+  },
+  {
+    "Model": "GALLARDO SPYDER",
+    "normalizedModel": "GALLARDO SPYDER",
+    "Marka": "LAMBORGHINI",
+    "marka_id": 117
+  },
+  {
+    "Model": "MURCIÉLAGO",
+    "normalizedModel": "MURCIELAGO",
+    "Marka": "LAMBORGHINI",
+    "marka_id": 117
+  },
+  {
+    "Model": "MURCIÉLAGO Roadster",
+    "normalizedModel": "MURCIELAGO ROADSTER",
+    "Marka": "LAMBORGHINI",
+    "marka_id": 117
+  },
+  {
+    "Model": "LEON (KL1, KU1, KUG)",
+    "normalizedModel": "LEON KL1 KU1 KUG",
+    "Marka": "CUPRA",
+    "marka_id": 114
+  },
+  {
+    "Model": "LEON Sportstourer (KL8, KU8, KUD)",
+    "normalizedModel": "LEON SPORTSTOURER KL8 KU8 KUD",
+    "Marka": "CUPRA",
+    "marka_id": 114
+  },
+  {
+    "Model": "BENTAYGA (4V1)",
+    "normalizedModel": "BENTAYGA 4V1",
+    "Marka": "BENTLEY",
+    "marka_id": 112
+  },
+  {
+    "Model": "MULSANNE (3Y_)",
+    "normalizedModel": "MULSANNE 3Y",
+    "Marka": "BENTLEY",
+    "marka_id": 112
+  },
+  {
+    "Model": "POLESTAR 2 (534)",
+    "normalizedModel": "POLESTAR 2 534",
+    "Marka": "POLESTAR",
+    "marka_id": 115
+  },
+  {
+    "Model": "HI-TOPIC (AM715)",
+    "normalizedModel": "HI TOPIC AM715",
+    "Marka": "ASIA MOTORS",
+    "marka_id": 116
+  },
+  {
+    "Model": "MASCOTT Panelvan/Van",
+    "normalizedModel": "MASCOTT PANELVAN VAN",
+    "Marka": "RENAULT TRUCKS",
+    "marka_id": 123
+  },
+  {
+    "Model": "MASCOTT Platform şasi",
+    "normalizedModel": "MASCOTT PLATFORM SASI",
+    "Marka": "RENAULT TRUCKS",
+    "marka_id": 123
   }
 ]
