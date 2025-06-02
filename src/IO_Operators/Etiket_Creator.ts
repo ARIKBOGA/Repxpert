@@ -4,17 +4,9 @@ import path from "path";
 import * as XLSX from "xlsx";
 import glob from "fast-glob";
 
-interface AppEntry {
-  brand: string;
-  model: string;
-  engineType: string;
-  madeYear: string;
-  kw: string;
-  hp: string;
-  cc: string;
-  engineCodes: string;
-  KBA_Numbers: string;
-}
+import { Application } from "../types/Application";
+
+
 
 // Marka ve Model için kısaltma/çeviri haritaları
 const brandAliases = new Map<string, string>([
@@ -37,7 +29,7 @@ const modelAliases = new Map<string, string>([
   ["CABRIOLET", "Cabrio"],
   ["Cabriolet", "Cabrio"],
   ["SERISI", "Class"],
-  ["Hatchback","HB"],
+  ["Hatchback", "HB"],
   ["Kombi van", "Estate Van"],
 ]);
 
@@ -140,7 +132,7 @@ function getTopEntries<T>(map: Map<T, number>, limit?: number): T[] {
 
 function processFile(filePath: string): [string, string] {
   const fileContent = fs.readFileSync(filePath, "utf-8");
-  const data: AppEntry[] = JSON.parse(fileContent);
+  const data: Application[] = JSON.parse(fileContent);
 
   const brandModelMap = new Map<string, Map<string, number>>();
   const brandCountMap = new Map<string, number>();
@@ -220,11 +212,7 @@ function processFile(filePath: string): [string, string] {
     const modelsToProcess = brandModelsToUse.get(brand)!;
     let allocatedLinesForThisBrand = brandLineAllocation.get(brand) || 0;
 
-    for (
-      let j = 0;
-      j < allocatedLinesForThisBrand && currentLineIndex < maxLines;
-      j++
-    ) {
+    for ( let j = 0; j < allocatedLinesForThisBrand && currentLineIndex < maxLines; j++) {
       let currentLine = "";
       let linePrefix = `${brand} - `;
       currentLine += linePrefix;
