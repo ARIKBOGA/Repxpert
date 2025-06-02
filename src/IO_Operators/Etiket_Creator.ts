@@ -6,6 +6,12 @@ import glob from "fast-glob";
 
 import { Application } from "../types/Application";
 import { modelAliases, brandAliases, bodyTypes } from "../types/AppToJson_Types";
+import { lookupReferenceFromExcel } from "../utils/FileHelpers";
+import { PRODUCT_TYPE, LOOKUP_EXCEL_FILE_PATH, ROOT_PATH_APPLICATIONS, FILTER_BRAND_APPLICATION } from "../config";
+import {findYvNoOptimized} from "../utils/NormalizersForJsonToExcels";
+
+
+const lookupDataMap: Map<string, string> = lookupReferenceFromExcel(LOOKUP_EXCEL_FILE_PATH);
 
 // Yardımcı: PascalCase yapar (4 karakterden kısa kelimelere dokunmaz)
 function toPascalCase(str: string): string {
@@ -38,10 +44,6 @@ function extractAndShortenModels(modelString: string): string[] {
     .split("|")
     .map((s) => s.trim())
     .filter((s) => s.length > 0);
-
-  // Bu liste, gövde tipi kelimelerini içerecek (artık aliased halleriyle de eşleşebilir)
-  // modelAliases map'inin değerlerini kullanıyoruz
-  // BU LİSTE ARTIK BÜYÜK HARFE ÇEVRİLMEYECEK.
 
   // Uzun kelimeleri önce işle (örneğin "Hatchback Van" "Van"dan önce yakalansın)
   bodyTypes.sort((a, b) => b.length - a.length);
@@ -84,7 +86,7 @@ function getTopEntries<T>(map: Map<T, number>, limit?: number): T[] {
   return sorted.map(([key]) => key);
 }
 
-function processFile(filePath: string): [string, string] {
+function processFile(filePath: string): [string, string, string] {
   const fileContent = fs.readFileSync(filePath, "utf-8");
   const data: Application[] = JSON.parse(fileContent);
 
@@ -166,7 +168,7 @@ function processFile(filePath: string): [string, string] {
     const modelsToProcess = brandModelsToUse.get(brand)!;
     let allocatedLinesForThisBrand = brandLineAllocation.get(brand) || 0;
 
-    for ( let j = 0; j < allocatedLinesForThisBrand && currentLineIndex < maxLines; j++) {
+    for (let j = 0; j < allocatedLinesForThisBrand && currentLineIndex < maxLines; j++) {
       let currentLine = "";
       let linePrefix = `${brand} - `;
       currentLine += linePrefix;
@@ -263,37 +265,29 @@ function processFile(filePath: string): [string, string] {
 
   const filename = path.basename(filePath);
   const crossNumber = filename.split("_")[1].replace(".json", "");
-  return [crossNumber, totalText.trim()];
+  const YV = findYvNoOptimized(crossNumber, lookupDataMap);
+
+  return [YV[0] || "YV_Bulunamadı", crossNumber, totalText.trim()];
 }
 
 // === Main Akış ===
+const inputDir = ROOT_PATH_APPLICATIONS;
+const outputExcel = path.join( __dirname, "..", "data/Gathered_Informations/Pad/Applications/excels", `ETIKET_VERILERI_${PRODUCT_TYPE}_${FILTER_BRAND_APPLICATION}.xlsx`);
 
-const inputDir = path.join(
-  __dirname,
-  "..",
-  "data/Gathered_Informations/Pad/Applications/BREMBO"
-);
-const outputExcel = path.join(
-  __dirname,
-  "..",
-  "data/Gathered_Informations/Pad/Applications/excels",
-  "ETIKET_VERILERI.xlsx"
-);
-
-const rows: [string, string][] = [];
+const rows: [string,string, string][] = [];
 
 (async () => {
   const files = await glob(`${inputDir}/**/*.json`);
   console.log("Dosya yolu:", inputDir);
   console.log("Dosyalar okundu:", files.length);
   for (const file of files) {
-    const [crossNumber, label] = processFile(file);
-    rows.push([crossNumber, label]);
+    const [YV,crossNumber, label] = processFile(file);
+    rows.push([YV, crossNumber, label]);
   }
   console.log("Toplam etiket sayısı:", rows.length);
 
   const wb = XLSX.utils.book_new();
-  const ws = XLSX.utils.aoa_to_sheet([["CROSS", "ETIKET"], ...rows]);
+  const ws = XLSX.utils.aoa_to_sheet([["YV", "CROSS", "ETIKET"], ...rows]);
   XLSX.utils.book_append_sheet(wb, ws, "Etiketler");
   XLSX.writeFile(wb, outputExcel);
 
