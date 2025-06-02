@@ -1,5 +1,6 @@
 import { Browser, Page, chromium, expect } from "@playwright/test";
-import ConfigReader from "../src/utils/ConfigReader";
+
+const data = process.env;
 
 async function globalSetup() {
   const browser: Browser = await chromium.launch({ headless: true });
@@ -79,4 +80,28 @@ async function globalSetupICER() {
   await browser.close();
 }
 
+async function globalSetupFindItParts() {
+
+  const browser: Browser = await chromium.launch({ headless: false });
+  const context = await browser.newContext();
+  const page: Page = await context.newPage();
+
+  await page.goto(data.FIND_IT_PARTS_URL as string);
+  await page.getByRole('button', { name: 'Your Account' }).click();
+  
+  await page.getByRole('textbox', { name: 'Email' }).fill(data.FIND_IT_PARTS_EMAIL as string);
+  
+  await page.getByRole('textbox', { name: 'Password' }).fill(data.FIND_IT_PARTS_PASSWORD as string);
+  await page.pause(); // Handle the captcha as human
+  await page.getByRole('button', { name: 'Sign In' }).click();
+
+  await page.getByRole('link', { name: 'Hello, Yavuzsan' }).waitFor({ timeout: 5000 });
+
+  await expect(page.getByRole('link', { name: 'Hello, Yavuzsan' })).toBeVisible();
+
+  // Save the state of the page
+  await page.context().storageState({
+    path: "storage/LoginAuthFindItParts.json",
+  });
+}
 export default globalSetup;
