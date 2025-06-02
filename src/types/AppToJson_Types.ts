@@ -65,26 +65,29 @@ const modelAliases = new Map<string, string>([
 
 
 // Body types in English and in PascalCase
-  const bodyTypes = [
-    "Sedan",
-    "Hatchback",
-    "Estate",
-    "Cabrio",
-    "Coupe",
-    "Van",
-    "Bus",
-    "Platform/Chassis",
-    "Hatchback Van",
-    "Estate Van",
-    "Box Body/MPV",
-    "SW",
-    "Station Wagon",
-    "Cabrio",
-    "Pickup",
-    "HB",
-    "Limousine",
-    "Roadster",
-    "SUV",
-  ];
+// Bu liste, gövde tipi kelimelerini içerecek (artık aliased halleriyle de eşleşebilir)
+// modelAliases map'inin değerlerini kullanıyoruz
+// BU LİSTE ARTIK BÜYÜK HARFE ÇEVRİLMEYECEK.
+const bodyTypes = [
+  "Sedan",
+  "Hatchback",
+  "Estate",
+  "Cabrio",
+  "Coupe",
+  "Van",
+  "Bus",
+  "Platform/Chassis",
+  "Hatchback Van",
+  "Estate Van",
+  "Box Body/MPV",
+  "SW",
+  "Station Wagon",
+  "Cabrio",
+  "Pickup",
+  "HB",
+  "Limousine",
+  "Roadster",
+  "SUV",
+];
 
 export { ModelData, ModelMatch, MarkaData, UnmatchedModel, LookupExcelRow, brandAliases, modelAliases, bodyTypes };
