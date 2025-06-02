@@ -36,4 +36,55 @@ interface LookupExcelRow extends XLSX.CellObject {
   [key: string]: any; // Dinamik alanlara erişim için
 }
 
-export { ModelData, ModelMatch, MarkaData, UnmatchedModel, LookupExcelRow };
+
+// Marka ve Model için kısaltma/çeviri haritaları
+const brandAliases = new Map<string, string>([
+  ["MERCEDES-BENZ", "MERCEDES"],
+  ["VOLKSWAGEN", "VW"],
+  ["BMW AG", "BMW"],
+  ["AUDI AG", "AUDI"],
+  ["FIAT CHRYSLER AUTOMOBILES", "FIAT"],
+  // Daha fazla marka kısaltması eklenebilir
+]);
+
+// This map is used to tranlate the addition of the model names to their abbreviations in English
+const modelAliases = new Map<string, string>([
+  ["Minibüs/Otobüs", "Bus"],
+  ["Kasa/eğik arka", "Hatchback Van"],
+  ["Panelvan/Van", "Van"],
+  ["Platform şasi", "Platform/Chassis"],
+  ["Kasa/Büyük Limuzin", "Box Body/MPV"],
+  ["STATION WAGON ", "SW"],
+  ["Station Wagon", "SW"],
+  ["CABRIOLET", "Cabrio"],
+  ["Cabriolet", "Cabrio"],
+  ["SERISI", "Class"],
+  ["Hatchback", "HB"],
+  ["Kombi van", "Estate Van"],
+]);
+
+
+// Body types in English and in PascalCase
+  const bodyTypes = [
+    "Sedan",
+    "Hatchback",
+    "Estate",
+    "Cabrio",
+    "Coupe",
+    "Van",
+    "Bus",
+    "Platform/Chassis",
+    "Hatchback Van",
+    "Estate Van",
+    "Box Body/MPV",
+    "SW",
+    "Station Wagon",
+    "Cabrio",
+    "Pickup",
+    "HB",
+    "Limousine",
+    "Roadster",
+    "SUV",
+  ];
+
+export { ModelData, ModelMatch, MarkaData, UnmatchedModel, LookupExcelRow, brandAliases, modelAliases, bodyTypes };

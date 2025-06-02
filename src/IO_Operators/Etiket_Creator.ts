@@ -5,33 +5,7 @@ import * as XLSX from "xlsx";
 import glob from "fast-glob";
 
 import { Application } from "../types/Application";
-
-
-
-// Marka ve Model için kısaltma/çeviri haritaları
-const brandAliases = new Map<string, string>([
-  ["MERCEDES-BENZ", "MERCEDES"],
-  ["VOLKSWAGEN", "VW"],
-  ["BMW AG", "BMW"],
-  ["AUDI AG", "AUDI"],
-  ["FIAT CHRYSLER AUTOMOBILES", "FIAT"],
-  // Daha fazla marka kısaltması eklenebilir
-]);
-
-const modelAliases = new Map<string, string>([
-  ["Minibüs/Otobüs", "Bus"],
-  ["Kasa/eğik arka", "Hatchback Van"],
-  ["Panelvan/Van", "Van"],
-  ["Platform şasi", "Platform/Chassis"],
-  ["Kasa/Büyük Limuzin", "Box Body/MPV"],
-  ["STATION WAGON ", "SW"],
-  ["Station Wagon", "SW"],
-  ["CABRIOLET", "Cabrio"],
-  ["Cabriolet", "Cabrio"],
-  ["SERISI", "Class"],
-  ["Hatchback", "HB"],
-  ["Kombi van", "Estate Van"],
-]);
+import { modelAliases, brandAliases, bodyTypes } from "../types/AppToJson_Types";
 
 // Yardımcı: PascalCase yapar (4 karakterden kısa kelimelere dokunmaz)
 function toPascalCase(str: string): string {
@@ -68,27 +42,7 @@ function extractAndShortenModels(modelString: string): string[] {
   // Bu liste, gövde tipi kelimelerini içerecek (artık aliased halleriyle de eşleşebilir)
   // modelAliases map'inin değerlerini kullanıyoruz
   // BU LİSTE ARTIK BÜYÜK HARFE ÇEVRİLMEYECEK.
-  const bodyTypes = [
-    "Sedan",
-    "Hatchback",
-    "Estate",
-    "Cabrio",
-    "Coupe",
-    "Van",
-    "Bus",
-    "Platform/Chassis",
-    "Hatchback Van",
-    "Estate Van",
-    "Box Body/MPV",
-    "SW",
-    "Station Wagon",
-    "Cabrio",
-    "Pickup",
-    "HB",
-    "Limousine",
-    "Roadster",
-    "SUV",
-  ];
+
   // Uzun kelimeleri önce işle (örneğin "Hatchback Van" "Van"dan önce yakalansın)
   bodyTypes.sort((a, b) => b.length - a.length);
 
