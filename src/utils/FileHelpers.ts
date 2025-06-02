@@ -36,26 +36,24 @@ export function getSubfolderNamesSync(dirPath: string): string[] {
 }
 
 export const padPairs: ProductReference[] = [
-  { yvNo: "20341401", brandRefs: { ICER: "180324" } },
-  { yvNo: "21201201", brandRefs: { ICER: "181366" } },
-  { yvNo: "21312201", brandRefs: { ICER: "180752-701" } },
-  { yvNo: "21347201", brandRefs: { ICER: "140884" } },
-  { yvNo: "21576201", brandRefs: { ICER: "141104-046" } },
-  { yvNo: "21621201", brandRefs: { ICER: "141102" } },
-  { yvNo: "21857201", brandRefs: { ICER: "181150" } },
-  { yvNo: "22531201", brandRefs: { ICER: "182198-200" } },
-  { yvNo: "23177401", brandRefs: { ICER: "180674-700" } },
-  { yvNo: "23258108", brandRefs: { ICER: "181271-702" } },
-  { yvNo: "23554410", brandRefs: { ICER: "180697-703" } },
-  { yvNo: "23775201", brandRefs: { ICER: "181596" } },
-  { yvNo: "23901206", brandRefs: { ICER: "141103" } },
-  { yvNo: "24072401", brandRefs: { ICER: "181659" } },
-  { yvNo: "24510201", brandRefs: { ICER: "181798" } },
-  { yvNo: "24710201", brandRefs: { ICER: "181856" } },
-  { yvNo: "24883401", brandRefs: { ICER: "181925-201" } },
-  { yvNo: "26188208", brandRefs: { ICER: "182410-203" } },
-  { yvNo: "29153401", brandRefs: { ICER: "141126-700" } },
+  { yvNo: "21827201", brandRefs: { TRW: "GDB1322" } },
+  { yvNo: "21934201", brandRefs: { TRW: "GDB1344" } },
+  { yvNo: "21471401", brandRefs: { TRW: "GDB1269" } },
+  { yvNo: "24727203", brandRefs: { TRW: "GDB1864" } },
+  { yvNo: "21158401", brandRefs: { TRW: "GDB351" } },
+  { yvNo: "21827201", brandRefs: { TEXTAR: "2182702" } },
+  { yvNo: "21934201", brandRefs: { TEXTAR: "2193402" } },
+  { yvNo: "21471401", brandRefs: { TEXTAR: "2147102" } },
+  { yvNo: "24727203", brandRefs: { TEXTAR: "2472701" } },
+  { yvNo: "21158401", brandRefs: { TEXTAR: "2115801" } }
 ];
+
+//YV NO		AÇIKLAMA	TRW	Textar	balata:wva no
+//13	21827201	#YOK	STANDART VERSİYON I	GDB1322	2182702	21430
+//235	21934201	#YOK	STANDART VERSİYON I	GDB1344	2193402	21934
+//269	21471401	#YOK	STANDART VERSİYON I	GDB1269	2147102	23945
+//438	24727203	#YOK	SABİT 1 KABLOLU	GDB1864	2472701	24727
+//544	21158401	#YOK	STANDART VERSİYON I	GDB351	2115801	21158
 
 export const discPairs: ProductReference[] = [
   //{ yvNo: "261579", brandRefs: { "BREMBO": "09.B630.10" } }, // 40206EB70B
