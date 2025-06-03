@@ -51,7 +51,7 @@
     "kw": "160",
     "hp": "218",
     "cc": "2987",
-    "engineCodes": "EXF  EXN",
+    "engineCodes": "EXF, EXN",
     "KBA_Numbers": ""
   },
   {
@@ -62,8 +62,8 @@
     "kw": "140",
     "hp": "190",
     "cc": "2987",
-    "engineCodes": "EXF  EXN",
-    "KBA_Numbers": "1726AAY  1726ABA  1004ADH  1004AED"
+    "engineCodes": "EXF, EXN",
+    "KBA_Numbers": "1726AAY, 1726ABA, 1004ADH, 1004AED"
   },
   {
     "brand": "JEEP",
@@ -73,7 +73,7 @@
     "kw": "177",
     "hp": "241",
     "cc": "2987",
-    "engineCodes": "EXF  EXN",
+    "engineCodes": "EXF, EXN",
     "KBA_Numbers": "1004ADG"
   },
   {
@@ -84,8 +84,8 @@
     "kw": "184",
     "hp": "250",
     "cc": "2987",
-    "engineCodes": "EXF  EXN",
-    "KBA_Numbers": "1726AAX  1726AAZ  1004AEB  1004AEC"
+    "engineCodes": "EXF, EXN",
+    "KBA_Numbers": "1726AAX, 1726AAZ, 1004AEB, 1004AEC"
   },
   {
     "brand": "JEEP",
@@ -95,7 +95,7 @@
     "kw": "175",
     "hp": "238",
     "cc": "2985",
-    "engineCodes": "EHD  EHW",
+    "engineCodes": "EHD, EHW",
     "KBA_Numbers": ""
   },
   {
@@ -139,8 +139,8 @@
     "kw": "213",
     "hp": "290",
     "cc": "3604",
-    "engineCodes": "ERB  ERC",
-    "KBA_Numbers": "1726ABG  1726ABH"
+    "engineCodes": "ERB, ERC",
+    "KBA_Numbers": "1726ABG, 1726ABH"
   },
   {
     "brand": "JEEP",
@@ -162,7 +162,7 @@
     "hp": "352",
     "cc": "5654",
     "engineCodes": "EZH",
-    "KBA_Numbers": "1726AAV  1726AAW  1004ACV  1004AEA"
+    "KBA_Numbers": "1726AAV, 1726AAW, 1004ACV, 1004AEA"
   },
   {
     "brand": "JEEP",
@@ -173,7 +173,7 @@
     "hp": "468",
     "cc": "6417",
     "engineCodes": "ESG",
-    "KBA_Numbers": "1726ABB  1004ADV"
+    "KBA_Numbers": "1726ABB, 1004ADV"
   },
   {
     "brand": "JEEP",
@@ -216,7 +216,7 @@
     "kw": "210",
     "hp": "286",
     "cc": "3604",
-    "engineCodes": "ERB  ERC",
+    "engineCodes": "ERB, ERC",
     "KBA_Numbers": ""
   }
 ]
