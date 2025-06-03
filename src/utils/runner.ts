@@ -16,28 +16,22 @@ async function main(): Promise<void> {
     for (const ref of references) {
         if (!ref.brandRefs.BREMBO) continue;
         else {
-            crossNumbersSet.add(ref.brandRefs.BREMBO.split(",")[0]);
+            crossNumbersSet.add(ref.brandRefs.BREMBO.split(",")[0]);   // Don't forget to set the correct brand accordingly
             counter++;
             //console.log(ref.yvNo, ref.brandRefs.BREMBO.split(",")[0]);
         }
     }
 
     console.log("counter: ", counter);
-    const str = "BREMBO P 68 029";
-    const productID = str.substring(str.indexOf(" "));
-    console.log(productID.trim());
-
-
 
     const scrapedCroossNumbers = getSubfolderNamesSync(`src/data/Gathered_Informations/${productType}/Applications/English/${filterBrand}`);
 
-    console.log("scrapedCroossNumbers count: ", scrapedCroossNumbers.length);
+    console.log("scrapedCroossNumbers Folder count: ", scrapedCroossNumbers.length);
     //nsole.log("scrapedCroossNumbers: ", scrapedCroossNumbers);
 
     const missingCrossNumbers = Array.from(crossNumbersSet).filter(crossNumber => !scrapedCroossNumbers.includes(crossNumber));
     console.log("missingCrossNumbers count: ", missingCrossNumbers.length);
     console.log("missingCrossNumbers: ", missingCrossNumbers);
-
 }
 
 main().catch(error => {
