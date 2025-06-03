@@ -1,0 +1,46 @@
+[
+  {
+    "brand": "HONDA",
+    "model": "CIVIC VIII Hatchback (FN, FK)",
+    "engineType": "1.4 (FK1)",
+    "madeYear": "09.2005 - 09.2008",
+    "kw": "61",
+    "hp": "83",
+    "cc": "1339",
+    "engineCodes": "L13A7",
+    "KBA_Numbers": "2131AAA"
+  },
+  {
+    "brand": "HONDA",
+    "model": "CIVIC VIII Hatchback (FN, FK)",
+    "engineType": "1.4 (FK1, FN4)",
+    "madeYear": "10.2008 - 12.2011",
+    "kw": "73",
+    "hp": "100",
+    "cc": "1339",
+    "engineCodes": "L13Z1",
+    "KBA_Numbers": "2131AAJ, 2131AAK"
+  },
+  {
+    "brand": "HONDA",
+    "model": "CIVIC VIII Hatchback (FN, FK)",
+    "engineType": "1.8 (FN1, FK2)",
+    "madeYear": "09.2005 - 12.2011",
+    "kw": "103",
+    "hp": "140",
+    "cc": "1799",
+    "engineCodes": "R18A2",
+    "KBA_Numbers": "2131AAB, 2131AAE"
+  },
+  {
+    "brand": "HONDA",
+    "model": "CIVIC VIII Hatchback (FN, FK)",
+    "engineType": "2.2 CTDi (FK3)",
+    "madeYear": "09.2005 - 12.2011",
+    "kw": "103",
+    "hp": "140",
+    "cc": "2204",
+    "engineCodes": "N22A2",
+    "KBA_Numbers": "2131AAC, 2131AAF"
+  }
+]
