@@ -40,7 +40,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1461",
-    "engineCodes": "K9K 657  K9K 656  K9K 836  K9K 837",
+    "engineCodes": "K9K 657, K9K 656, K9K 836, K9K 837",
     "KBA_Numbers": "3333AWL"
   },
   {
@@ -73,7 +73,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1598",
-    "engineCodes": "K4M 839  K4M 838",
+    "engineCodes": "K4M 839, K4M 838",
     "KBA_Numbers": "3333AVC"
   },
   {
@@ -95,7 +95,7 @@
     "kw": "103",
     "hp": "140",
     "cc": "1997",
-    "engineCodes": "M4R 751  M4R 714",
+    "engineCodes": "M4R 751, M4R 714",
     "KBA_Numbers": "3333AWM"
   },
   {
@@ -106,8 +106,8 @@
     "kw": "70",
     "hp": "95",
     "cc": "5AM 400",
-    "engineCodes": "3333AYV",
-    "KBA_Numbers": ""
+    "engineCodes": "5AM 400",
+    "KBA_Numbers": "3333AYV"
   },
   {
     "brand": "RENAULT",
@@ -118,7 +118,7 @@
     "hp": "116",
     "cc": "1197",
     "engineCodes": "H5F 400",
-    "KBA_Numbers": "3333AZT  3333AZU"
+    "KBA_Numbers": "3333AZT, 3333AZU"
   },
   {
     "brand": "RENAULT",
@@ -129,7 +129,7 @@
     "hp": "132",
     "cc": "1197",
     "engineCodes": "H5F 404",
-    "KBA_Numbers": "3333BBE  3333BBF"
+    "KBA_Numbers": "3333BBE, 3333BBF"
   },
   {
     "brand": "RENAULT",
@@ -151,7 +151,7 @@
     "hp": "131",
     "cc": "1397",
     "engineCodes": "H4J 700",
-    "KBA_Numbers": "3333ATP  3333ATO"
+    "KBA_Numbers": "3333ATP, 3333ATO"
   },
   {
     "brand": "RENAULT",
@@ -172,8 +172,8 @@
     "kw": "81",
     "hp": "110",
     "cc": "1461",
-    "engineCodes": "K9K 636  K9K 836  K9K 837  K9K 657  K9K 656",
-    "KBA_Numbers": "3333ATJ  3333ATN"
+    "engineCodes": "K9K 636, K9K 836, K9K 837, K9K 657, K9K 656",
+    "KBA_Numbers": "3333ATJ, 3333ATN"
   },
   {
     "brand": "RENAULT",
@@ -195,7 +195,7 @@
     "hp": "106",
     "cc": "1461",
     "engineCodes": "K9K 832",
-    "KBA_Numbers": "3333ATI  3333ATM"
+    "KBA_Numbers": "3333ATI, 3333ATM"
   },
   {
     "brand": "RENAULT",
@@ -206,7 +206,7 @@
     "hp": "109",
     "cc": "1598",
     "engineCodes": "K4M 858",
-    "KBA_Numbers": "3333ATK  3333ATL"
+    "KBA_Numbers": "3333ATK, 3333ATL"
   },
   {
     "brand": "RENAULT",
@@ -238,8 +238,8 @@
     "kw": "96",
     "hp": "130",
     "cc": "1598",
-    "engineCodes": "R9M 414  R9M 404  R9M 402",
-    "KBA_Numbers": "3333AZB  3333AZC"
+    "engineCodes": "R9M 414, R9M 404, R9M 402",
+    "KBA_Numbers": "3333AZB, 3333AZC"
   },
   {
     "brand": "RENAULT",
@@ -250,7 +250,7 @@
     "hp": "110",
     "cc": "1598",
     "engineCodes": "K4M 866",
-    "KBA_Numbers": "3333AUV  3333AUU"
+    "KBA_Numbers": "3333AUV, 3333AUU"
   },
   {
     "brand": "RENAULT",
@@ -260,8 +260,8 @@
     "kw": "96",
     "hp": "131",
     "cc": "1870",
-    "engineCodes": "F9Q 872  F9Q 870",
-    "KBA_Numbers": "3333ATS  3333ATT"
+    "engineCodes": "F9Q 872, F9Q 870",
+    "KBA_Numbers": "3333ATS, 3333ATT"
   },
   {
     "brand": "RENAULT",
@@ -272,7 +272,7 @@
     "hp": "140",
     "cc": "1997",
     "engineCodes": "M4R 711",
-    "KBA_Numbers": "3333ATQ  3333ATR"
+    "KBA_Numbers": "3333ATQ, 3333ATR"
   },
   {
     "brand": "RENAULT",
@@ -282,7 +282,7 @@
     "kw": "125",
     "hp": "170",
     "cc": "1998",
-    "engineCodes": "F4R 811  F4Rt 811",
+    "engineCodes": "F4R 811, F4Rt 811",
     "KBA_Numbers": "3333ASA"
   },
   {
@@ -293,7 +293,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1995",
-    "engineCodes": "M9R 748  M9R 845  M9R 754  M9R 854  M9R 858  M9R 744  M9R 808  M9R 802  M9R 814  M9R 805",
+    "engineCodes": "M9R 748, M9R 845, M9R 754, M9R 854, M9R 858, M9R 744, M9R 808, M9R 802, M9R 814, M9R 805",
     "KBA_Numbers": "3333ASB"
   },
   {
@@ -304,7 +304,7 @@
     "kw": "127",
     "hp": "173",
     "cc": "1995",
-    "engineCodes": "M9R 857  M9R 809  M9R 815  M9R 800  M9R 854  M9R 806  M9R 849",
+    "engineCodes": "M9R 857, M9R 809, M9R 815, M9R 800, M9R 854, M9R 806, M9R 849",
     "KBA_Numbers": "3333ASC"
   },
   {
@@ -315,7 +315,7 @@
     "kw": "131",
     "hp": "178",
     "cc": "1995",
-    "engineCodes": "M9R 828  M9R 816  M9R 820",
+    "engineCodes": "M9R 828, M9R 816, M9R 820",
     "KBA_Numbers": "3333ARZ"
   },
   {
@@ -348,7 +348,7 @@
     "kw": "173",
     "hp": "235",
     "cc": "2998",
-    "engineCodes": "V9X 791  V9X 891",
+    "engineCodes": "V9X 791, V9X 891",
     "KBA_Numbers": "3333ARW"
   },
   {
@@ -403,7 +403,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1995",
-    "engineCodes": "M9R 808  M9R 845  M9R 858  M9R 744  M9R 746  M9R 748  M9R 754  M9R 854  M9R 742  M9R 802  M9R 814  M9R 805",
+    "engineCodes": "M9R 808, M9R 845, M9R 858, M9R 744, M9R 746, M9R 748, M9R 754, M9R 854, M9R 742, M9R 802, M9R 814, M9R 805",
     "KBA_Numbers": "3333APT"
   },
   {
@@ -414,7 +414,7 @@
     "kw": "96",
     "hp": "131",
     "cc": "1995",
-    "engineCodes": "M9R 854  M9R 858  M9R 814  M9R 802  M9R 744  M9R 742",
+    "engineCodes": "M9R 854, M9R 858, M9R 814, M9R 802, M9R 744, M9R 742",
     "KBA_Numbers": "3333APS"
   },
   {
@@ -425,7 +425,7 @@
     "kw": "127",
     "hp": "173",
     "cc": "1995",
-    "engineCodes": "M9R 854  M9R 858  M9R 857  M9R 809  M9R 806  M9R 800  M9R 815  M9R 849",
+    "engineCodes": "M9R 854, M9R 858, M9R 857, M9R 809, M9R 806, M9R 800, M9R 815, M9R 849",
     "KBA_Numbers": "3333AQV"
   },
   {
@@ -436,7 +436,7 @@
     "kw": "131",
     "hp": "178",
     "cc": "1995",
-    "engineCodes": "M9R 828  M9R 820  M9R 816",
+    "engineCodes": "M9R 828, M9R 820, M9R 816",
     "KBA_Numbers": "3333ARI"
   },
   {
@@ -469,7 +469,7 @@
     "kw": "103",
     "hp": "140",
     "cc": "1997",
-    "engineCodes": "M4R 726  M4R 704",
+    "engineCodes": "M4R 726, M4R 704",
     "KBA_Numbers": "3333AVH"
   },
   {
@@ -491,7 +491,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1995",
-    "engineCodes": "M9R 845  M9R 858  M9R 742  M9R 808  M9R 854  M9R 744  M9R 802  M9R 814  M9R 805",
+    "engineCodes": "M9R 845, M9R 858, M9R 742, M9R 808, M9R 854, M9R 744, M9R 802, M9R 814, M9R 805",
     "KBA_Numbers": "3333APY"
   },
   {
@@ -502,7 +502,7 @@
     "kw": "96",
     "hp": "131",
     "cc": "1995",
-    "engineCodes": "M9R 858  M9R 854  M9R 814  M9R 802  M9R 744  M9R 742",
+    "engineCodes": "M9R 858, M9R 854, M9R 814, M9R 802, M9R 744, M9R 742",
     "KBA_Numbers": "3333APX"
   },
   {
@@ -513,7 +513,7 @@
     "kw": "127",
     "hp": "173",
     "cc": "1995",
-    "engineCodes": "M9R 857  M9R 858  M9R 849  M9R 854  M9R 806  M9R 800  M9R 809  M9R 815",
+    "engineCodes": "M9R 857, M9R 858, M9R 849, M9R 854, M9R 806, M9R 800, M9R 809, M9R 815",
     "KBA_Numbers": "3333AQX"
   },
   {
@@ -524,7 +524,7 @@
     "kw": "131",
     "hp": "178",
     "cc": "1995",
-    "engineCodes": "M9R 828  M9R 816  M9R 820",
+    "engineCodes": "M9R 828, M9R 816, M9R 820",
     "KBA_Numbers": "3333ARN"
   },
   {
@@ -546,7 +546,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1461",
-    "engineCodes": "K9K 782  K9K 849",
+    "engineCodes": "K9K 782, K9K 849",
     "KBA_Numbers": "3333AYB"
   },
   {
@@ -568,7 +568,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1995",
-    "engineCodes": "M9R 824  M9R 846",
+    "engineCodes": "M9R 824, M9R 846",
     "KBA_Numbers": "3333AXZ"
   },
   {
@@ -579,7 +579,7 @@
     "kw": "127",
     "hp": "173",
     "cc": "1995",
-    "engineCodes": "M9R 804  M9R 817  M9R 844  M9R 839",
+    "engineCodes": "M9R 804, M9R 817, M9R 844, M9R 839",
     "KBA_Numbers": "3333AXY"
   },
   {
@@ -612,7 +612,7 @@
     "kw": "132",
     "hp": "180",
     "cc": "1998",
-    "engineCodes": "F4R 870  F4R 872",
+    "engineCodes": "F4R 870, F4R 872",
     "KBA_Numbers": "3333AWJ"
   },
   {
@@ -722,7 +722,7 @@
     "kw": "132",
     "hp": "180",
     "cc": "1998",
-    "engineCodes": "F4R 870  F4R 872",
+    "engineCodes": "F4R 870, F4R 872",
     "KBA_Numbers": "3333ATZ"
   },
   {
@@ -821,7 +821,7 @@
     "kw": "97",
     "hp": "132",
     "cc": "1197",
-    "engineCodes": "H5F 408  H5F 404",
+    "engineCodes": "H5F 408, H5F 404",
     "KBA_Numbers": "3333BBE"
   },
   {
@@ -865,8 +865,8 @@
     "kw": "81",
     "hp": "110",
     "cc": "1461",
-    "engineCodes": "K9K 657  K9K 656  K9K 636  K9K 836  K9K 837",
-    "KBA_Numbers": "3333ATJ  3333ATN"
+    "engineCodes": "K9K 657, K9K 656, K9K 636, K9K 836, K9K 837",
+    "KBA_Numbers": "3333ATJ, 3333ATN"
   },
   {
     "brand": "RENAULT",
@@ -887,7 +887,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1598",
-    "engineCodes": "K4M R 858  K4M 858",
+    "engineCodes": "K4M R 858, K4M 858",
     "KBA_Numbers": "3333ATK"
   },
   {
@@ -909,7 +909,7 @@
     "kw": "96",
     "hp": "130",
     "cc": "1598",
-    "engineCodes": "R9M 404  R9M 402  R9M 414",
+    "engineCodes": "R9M 404, R9M 402, R9M 414",
     "KBA_Numbers": "3333AZB"
   },
   {
@@ -931,7 +931,7 @@
     "kw": "96",
     "hp": "131",
     "cc": "1870",
-    "engineCodes": "F9Q 872  F9Q 870",
+    "engineCodes": "F9Q 872, F9Q 870",
     "KBA_Numbers": "3333ATS"
   },
   {
@@ -953,7 +953,7 @@
     "kw": "103",
     "hp": "140",
     "cc": "1997",
-    "engineCodes": "M4R 711  M4R 713  M4R 710",
+    "engineCodes": "M4R 711, M4R 713, M4R 710",
     "KBA_Numbers": "3333ATQ"
   },
   {

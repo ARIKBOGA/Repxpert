@@ -7,7 +7,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "999",
-    "engineCodes": "DKRA  CHZD  DKRF",
+    "engineCodes": "DKRA, CHZD, DKRF",
     "KBA_Numbers": "8004ARL"
   },
   {
@@ -18,7 +18,7 @@
     "kw": "63",
     "hp": "86",
     "cc": "1197",
-    "engineCodes": "CJZB  CYVA",
+    "engineCodes": "CJZB, CYVA",
     "KBA_Numbers": "8004ANC"
   },
   {
@@ -62,7 +62,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1395",
-    "engineCodes": "CZDA  CHPB",
+    "engineCodes": "CZDA, CHPB",
     "KBA_Numbers": "8004AQL"
   },
   {
@@ -84,7 +84,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1498",
-    "engineCodes": "DADA  DPCA",
+    "engineCodes": "DADA, DPCA",
     "KBA_Numbers": "8004ASX"
   },
   {
@@ -106,7 +106,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1598",
-    "engineCodes": "CLHB  CXXA  DDYB",
+    "engineCodes": "CLHB, CXXA, DDYB",
     "KBA_Numbers": "8004ANO"
   },
   {
@@ -128,7 +128,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1598",
-    "engineCodes": "DBKA  CXXB  CRKB",
+    "engineCodes": "DBKA, CXXB, CRKB",
     "KBA_Numbers": "8004AOI"
   },
   {
@@ -139,7 +139,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "1598",
-    "engineCodes": "DGTE  DDYA",
+    "engineCodes": "DGTE, DDYA",
     "KBA_Numbers": "8004ASE"
   },
   {
@@ -161,7 +161,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1598",
-    "engineCodes": "CXXB  CRKB",
+    "engineCodes": "CXXB, CRKB",
     "KBA_Numbers": "8004AQX"
   },
   {
@@ -183,7 +183,7 @@
     "kw": "105",
     "hp": "143",
     "cc": "1968",
-    "engineCodes": "CRVC  CKFB",
+    "engineCodes": "CRVC, CKFB",
     "KBA_Numbers": ""
   },
   {
@@ -194,7 +194,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1968",
-    "engineCodes": "DCYA  DFFA  CYKA  CKFC  CRMB",
+    "engineCodes": "DCYA, DFFA, CYKA, CKFC, CRMB",
     "KBA_Numbers": "8004ANG"
   },
   {
@@ -205,7 +205,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1968",
-    "engineCodes": "DCYA  CRMB  CKFC  DFFA",
+    "engineCodes": "DCYA, CRMB, CKFC, DFFA",
     "KBA_Numbers": "8004APF"
   },
   {
@@ -216,7 +216,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "999",
-    "engineCodes": "DKRA  CHZD  DKRF",
+    "engineCodes": "DKRA, CHZD, DKRF",
     "KBA_Numbers": "8004ARM"
   },
   {
@@ -227,7 +227,7 @@
     "kw": "63",
     "hp": "86",
     "cc": "1197",
-    "engineCodes": "CJZB  CYVA",
+    "engineCodes": "CJZB, CYVA",
     "KBA_Numbers": "8004ANH"
   },
   {
@@ -271,7 +271,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1395",
-    "engineCodes": "CHPB  CZDA",
+    "engineCodes": "CHPB, CZDA",
     "KBA_Numbers": "8004AQM"
   },
   {
@@ -293,7 +293,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1498",
-    "engineCodes": "DADA  DPCA",
+    "engineCodes": "DADA, DPCA",
     "KBA_Numbers": "8004ASY"
   },
   {
@@ -326,7 +326,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1598",
-    "engineCodes": "CXXA  DDYB  CLHB",
+    "engineCodes": "CXXA, DDYB, CLHB",
     "KBA_Numbers": "8004ANS"
   },
   {
@@ -348,7 +348,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1598",
-    "engineCodes": "DBKA  CXXB  CRKB",
+    "engineCodes": "DBKA, CXXB, CRKB",
     "KBA_Numbers": "8004AOJ"
   },
   {
@@ -359,7 +359,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "1598",
-    "engineCodes": "DGTE  DDYA  DGTA",
+    "engineCodes": "DGTE, DDYA, DGTA",
     "KBA_Numbers": "8004ASF"
   },
   {
@@ -381,7 +381,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1598",
-    "engineCodes": "CXXB  CRKB  DBKA",
+    "engineCodes": "CXXB, CRKB, DBKA",
     "KBA_Numbers": "8004AQY"
   },
   {
@@ -403,7 +403,7 @@
     "kw": "105",
     "hp": "143",
     "cc": "1968",
-    "engineCodes": "CKFB  CRVC",
+    "engineCodes": "CKFB, CRVC",
     "KBA_Numbers": ""
   },
   {
@@ -414,7 +414,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1968",
-    "engineCodes": "DCYA  CYKA  DFFA  CRMB  CKFC",
+    "engineCodes": "DCYA, CYKA, DFFA, CRMB, CKFC",
     "KBA_Numbers": "8004ANL"
   },
   {
@@ -425,7 +425,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1968",
-    "engineCodes": "DFFA  CRMB  DCYA  CKFC",
+    "engineCodes": "DFFA, CRMB, DCYA, CKFC",
     "KBA_Numbers": "8004ANQ"
   }
 ]

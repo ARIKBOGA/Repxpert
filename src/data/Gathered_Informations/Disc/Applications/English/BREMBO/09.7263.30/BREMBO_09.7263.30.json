@@ -18,7 +18,7 @@
     "kw": "100",
     "hp": "136",
     "cc": "2488",
-    "engineCodes": "YD25DDTi  YD25K3LD-5MI",
+    "engineCodes": "YD25DDTi, YD25K3LD-5MI",
     "KBA_Numbers": ""
   },
   {
@@ -29,7 +29,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "2953",
-    "engineCodes": "ZD30  ZD30H HD-5  ZD30DDTi",
+    "engineCodes": "ZD30, ZD30H HD-5, ZD30DDTi",
     "KBA_Numbers": "7606AAE"
   },
   {
@@ -63,7 +63,7 @@
     "hp": "125",
     "cc": "2953",
     "engineCodes": "BD-30Ti",
-    "KBA_Numbers": "7606508  7606AAA  7505011"
+    "KBA_Numbers": "7606508, 7606AAA, 7505011"
   },
   {
     "brand": "NISSAN",
@@ -73,8 +73,8 @@
     "kw": "100",
     "hp": "136",
     "cc": "2488",
-    "engineCodes": "YD25K3LD-5MI  YD25DDTi",
-    "KBA_Numbers": "1329AGT  1329AGR"
+    "engineCodes": "YD25K3LD-5MI, YD25DDTi",
+    "KBA_Numbers": "1329AGT, 1329AGR"
   },
   {
     "brand": "NISSAN",
@@ -84,8 +84,8 @@
     "kw": "107",
     "hp": "146",
     "cc": "2488",
-    "engineCodes": "YD25K3LD-5HO  YD25DDTi",
-    "KBA_Numbers": "1329AJZ  1329AHY"
+    "engineCodes": "YD25K3LD-5HO, YD25DDTi",
+    "KBA_Numbers": "1329AJZ, 1329AHY"
   },
   {
     "brand": "NISSAN",
@@ -96,6 +96,6 @@
     "hp": "150",
     "cc": "2953",
     "engineCodes": "ZD30DDTi",
-    "KBA_Numbers": "1329ALA  1329AKY"
+    "KBA_Numbers": "1329ALA, 1329AKY"
   }
 ]

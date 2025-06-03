@@ -1,0 +1,167 @@
+[
+  {
+    "brand": "MERCEDES-BENZ",
+    "model": "G-CLASS (W463)",
+    "engineType": "AMG G 63 (463.272)",
+    "madeYear": "06.2015 - 03.2018",
+    "kw": "420",
+    "hp": "571",
+    "cc": "5461",
+    "engineCodes": "M 157.984",
+    "KBA_Numbers": "1313EYD"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "model": "G-CLASS (W463)",
+    "engineType": "AMG G 65 (463.274, 463.275)",
+    "madeYear": "06.2015 - 04.2018",
+    "kw": "463",
+    "hp": "630",
+    "cc": "5980",
+    "engineCodes": "M 279.982",
+    "KBA_Numbers": "1313EYE, 1313HLM"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "model": "G-CLASS (W463)",
+    "engineType": "G 500 (463.234, 463.239)",
+    "madeYear": "06.2015 - 04.2018",
+    "kw": "310",
+    "hp": "422",
+    "cc": "3982",
+    "engineCodes": "M 176.980",
+    "KBA_Numbers": "1313ERU, 1313FFZ"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "model": "G-CLASS (W463)",
+    "engineType": "G 63 AMG 6x6",
+    "madeYear": "12.2014 - 03.2018",
+    "kw": "400",
+    "hp": "544",
+    "cc": "5461",
+    "engineCodes": "M 157.984",
+    "KBA_Numbers": "1313DYP"
+  },
+  {
+    "brand": "PORSCHE",
+    "model": "CAYENNE (9PA)",
+    "engineType": "3.0 TDI",
+    "madeYear": "02.2009 - 09.2010",
+    "kw": "176",
+    "hp": "240",
+    "cc": "2967",
+    "engineCodes": "M 05.9D",
+    "KBA_Numbers": "0583ACN, 0583ACO"
+  },
+  {
+    "brand": "PORSCHE",
+    "model": "CAYENNE (9PA)",
+    "engineType": "3.2",
+    "madeYear": "10.2003 - 09.2007",
+    "kw": "184",
+    "hp": "250",
+    "cc": "3189",
+    "engineCodes": "M02.2Y",
+    "KBA_Numbers": "0583AAW, 0583AAX, 0583490"
+  },
+  {
+    "brand": "PORSCHE",
+    "model": "CAYENNE (9PA)",
+    "engineType": "3.6",
+    "madeYear": "02.2007 - 09.2010",
+    "kw": "213",
+    "hp": "290",
+    "cc": "3598",
+    "engineCodes": "M 55.01",
+    "KBA_Numbers": "0583ABK, 0583ABH"
+  },
+  {
+    "brand": "VW",
+    "model": "TOUAREG (7LA, 7L6, 7L7)",
+    "engineType": "2.5 R5 TDI",
+    "madeYear": "01.2003 - 05.2010",
+    "kw": "128",
+    "hp": "174",
+    "cc": "2461",
+    "engineCodes": "BPE, BAC",
+    "KBA_Numbers": "0603AGS, 0603681"
+  },
+  {
+    "brand": "VW",
+    "model": "TOUAREG (7LA, 7L6, 7L7)",
+    "engineType": "2.5 R5 TDI",
+    "madeYear": "08.2003 - 05.2010",
+    "kw": "120",
+    "hp": "163",
+    "cc": "2461",
+    "engineCodes": "BPD, BLK",
+    "KBA_Numbers": "0603AGX, 0603719"
+  },
+  {
+    "brand": "VW",
+    "model": "TOUAREG (7LA, 7L6, 7L7)",
+    "engineType": "3.0 V6 TDI",
+    "madeYear": "11.2004 - 05.2010",
+    "kw": "165",
+    "hp": "225",
+    "cc": "2967",
+    "engineCodes": "CATA, BKS",
+    "KBA_Numbers": "0603AGV, 0603775"
+  },
+  {
+    "brand": "VW",
+    "model": "TOUAREG (7LA, 7L6, 7L7)",
+    "engineType": "3.2 V6",
+    "madeYear": "10.2002 - 11.2006",
+    "kw": "162",
+    "hp": "220",
+    "cc": "3189",
+    "engineCodes": "BMX, BRJ, BMV, BKJ, AZZ",
+    "KBA_Numbers": "0603AGR, 0603AHA, 0603680"
+  },
+  {
+    "brand": "VW",
+    "model": "TOUAREG (7LA, 7L6, 7L7)",
+    "engineType": "3.2 V6",
+    "madeYear": "11.2004 - 11.2006",
+    "kw": "177",
+    "hp": "241",
+    "cc": "3189",
+    "engineCodes": "BMV",
+    "KBA_Numbers": "0603AGY, 0603AHB, 0603746"
+  },
+  {
+    "brand": "VW",
+    "model": "TOUAREG (7LA, 7L6, 7L7)",
+    "engineType": "3.6 V6 FSI",
+    "madeYear": "10.2005 - 05.2010",
+    "kw": "206",
+    "hp": "280",
+    "cc": "3597",
+    "engineCodes": "BHL, BHK",
+    "KBA_Numbers": "0603AGT, 0603833"
+  },
+  {
+    "brand": "VW",
+    "model": "TOUAREG (7LA, 7L6, 7L7)",
+    "engineType": "4.2 V8",
+    "madeYear": "12.2002 - 11.2006",
+    "kw": "228",
+    "hp": "310",
+    "cc": "4172",
+    "engineCodes": "AXQ",
+    "KBA_Numbers": "0603AGP, 0603AGZ, 0603678"
+  },
+  {
+    "brand": "VW",
+    "model": "TOUAREG (7LA, 7L6, 7L7)",
+    "engineType": "4.2 V8 FSI",
+    "madeYear": "06.2006 - 05.2010",
+    "kw": "257",
+    "hp": "350",
+    "cc": "4163",
+    "engineCodes": "BAR",
+    "KBA_Numbers": "0603ALB"
+  }
+]

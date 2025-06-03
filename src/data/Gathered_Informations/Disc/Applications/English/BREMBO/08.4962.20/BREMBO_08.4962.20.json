@@ -7,8 +7,8 @@
     "kw": "40",
     "hp": "55",
     "cc": "1117",
-    "engineCodes": "GMA  GLB",
-    "KBA_Numbers": "0928536  7528307"
+    "engineCodes": "GMA, GLB",
+    "KBA_Numbers": "0928536, 7528307"
   },
   {
     "brand": "FORD",
@@ -19,7 +19,7 @@
     "hp": "59",
     "cc": "1117",
     "engineCodes": "GPA",
-    "KBA_Numbers": "0928537  0928542"
+    "KBA_Numbers": "0928537, 0928542"
   },
   {
     "brand": "FORD",
@@ -30,7 +30,7 @@
     "hp": "50",
     "cc": "1117",
     "engineCodes": "GSE",
-    "KBA_Numbers": "0928580  7528310"
+    "KBA_Numbers": "0928580, 7528310"
   },
   {
     "brand": "FORD",
@@ -41,7 +41,7 @@
     "hp": "69",
     "cc": "1296",
     "engineCodes": "JPA",
-    "KBA_Numbers": "0928538  7528308"
+    "KBA_Numbers": "0928538, 7528308"
   },
   {
     "brand": "FORD",
@@ -52,7 +52,7 @@
     "hp": "54",
     "cc": "1608",
     "engineCodes": "LTA",
-    "KBA_Numbers": "0928587  7528316"
+    "KBA_Numbers": "0928587, 7528316"
   },
   {
     "brand": "FORD",
@@ -73,8 +73,8 @@
     "kw": "37",
     "hp": "50",
     "cc": "1117",
-    "engineCodes": "GLB  GMA",
-    "KBA_Numbers": "2028172  2028183"
+    "engineCodes": "GLB, GMA",
+    "KBA_Numbers": "2028172, 2028183"
   },
   {
     "brand": "FORD",
@@ -128,7 +128,7 @@
     "kw": "40",
     "hp": "54",
     "cc": "1117",
-    "engineCodes": "GMA  GLB",
+    "engineCodes": "GMA, GLB",
     "KBA_Numbers": "0928541"
   },
   {
@@ -151,7 +151,7 @@
     "hp": "69",
     "cc": "1296",
     "engineCodes": "JPA",
-    "KBA_Numbers": "2028309  0928543"
+    "KBA_Numbers": "2028309, 0928543"
   },
   {
     "brand": "FORD",
@@ -173,7 +173,7 @@
     "hp": "50",
     "cc": "1117",
     "engineCodes": "GSG",
-    "KBA_Numbers": "0928619  7528322"
+    "KBA_Numbers": "0928619, 7528322"
   },
   {
     "brand": "FORD",
@@ -183,8 +183,8 @@
     "kw": "44",
     "hp": "60",
     "cc": "1297",
-    "engineCodes": "JBB  JLA  JLB",
-    "KBA_Numbers": "0928620  7528323"
+    "engineCodes": "JBB, JLA, JLB",
+    "KBA_Numbers": "0928620, 7528323"
   },
   {
     "brand": "FORD",
@@ -206,7 +206,7 @@
     "hp": "63",
     "cc": "1297",
     "engineCodes": "JBA",
-    "KBA_Numbers": "0928697  7528340"
+    "KBA_Numbers": "0928697, 7528340"
   },
   {
     "brand": "FORD",
@@ -217,7 +217,7 @@
     "hp": "54",
     "cc": "1608",
     "engineCodes": "LTC",
-    "KBA_Numbers": "0928622  7528325"
+    "KBA_Numbers": "0928622, 7528325"
   },
   {
     "brand": "FORD",
@@ -238,7 +238,7 @@
     "kw": "44",
     "hp": "60",
     "cc": "1297",
-    "engineCodes": "JBB  JLA  JLB",
+    "engineCodes": "JBB, JLA, JLB",
     "KBA_Numbers": "2028186"
   },
   {
@@ -260,7 +260,7 @@
     "kw": "54",
     "hp": "73",
     "cc": "1392",
-    "engineCodes": "FUC  F6D  F6B",
+    "engineCodes": "FUC, F6D, F6B",
     "KBA_Numbers": "2028191"
   },
   {
@@ -282,7 +282,7 @@
     "kw": "40",
     "hp": "54",
     "cc": "1608",
-    "engineCodes": "LTA  LTC",
+    "engineCodes": "LTA, LTC",
     "KBA_Numbers": "2028187"
   },
   {
@@ -293,7 +293,7 @@
     "kw": "44",
     "hp": "60",
     "cc": "1753",
-    "engineCodes": "RTB  RTA",
+    "engineCodes": "RTB, RTA",
     "KBA_Numbers": "2028190"
   },
   {
@@ -315,7 +315,7 @@
     "kw": "44",
     "hp": "60",
     "cc": "1297",
-    "engineCodes": "JBB  JLA  JLB",
+    "engineCodes": "JBB, JLA, JLB",
     "KBA_Numbers": "0928630"
   },
   {
@@ -360,7 +360,7 @@
     "hp": "54",
     "cc": "1608",
     "engineCodes": "LTA",
-    "KBA_Numbers": "0928586  7528320"
+    "KBA_Numbers": "0928586, 7528320"
   },
   {
     "brand": "FORD",
@@ -370,8 +370,8 @@
     "kw": "44",
     "hp": "60",
     "cc": "1297",
-    "engineCodes": "JBB  JLA  JLB",
-    "KBA_Numbers": "0928625  7528328"
+    "engineCodes": "JBB, JLA, JLB",
+    "KBA_Numbers": "0928625, 7528328"
   },
   {
     "brand": "FORD",
@@ -393,6 +393,6 @@
     "hp": "54",
     "cc": "1608",
     "engineCodes": "LTC",
-    "KBA_Numbers": "0928627  7528330"
+    "KBA_Numbers": "0928627, 7528330"
   }
 ]

@@ -8,7 +8,7 @@
     "hp": "136",
     "cc": "1995",
     "engineCodes": "N42 B20 A",
-    "KBA_Numbers": "0005735  0005736"
+    "KBA_Numbers": "0005735, 0005736"
   },
   {
     "brand": "BMW",
@@ -18,7 +18,7 @@
     "kw": "105",
     "hp": "143",
     "cc": "1995",
-    "engineCodes": "N46 B20 A  N46 B20 C  N42 B20 A",
+    "engineCodes": "N46 B20 A, N46 B20 C, N42 B20 A",
     "KBA_Numbers": "0005733"
   },
   {
@@ -150,7 +150,7 @@
     "kw": "105",
     "hp": "143",
     "cc": "1995",
-    "engineCodes": "N46 B20 A  N42 B20 A",
+    "engineCodes": "N46 B20 A, N42 B20 A",
     "KBA_Numbers": "0005727"
   },
   {
@@ -162,7 +162,7 @@
     "hp": "150",
     "cc": "1995",
     "engineCodes": "M47 D20 (204D4)",
-    "KBA_Numbers": "0005815  0005AEK"
+    "KBA_Numbers": "0005815, 0005AEK"
   },
   {
     "brand": "BMW",
@@ -173,7 +173,7 @@
     "hp": "170",
     "cc": "2171",
     "engineCodes": "M54 B22 (226S1)",
-    "KBA_Numbers": "0005701  0005AEG"
+    "KBA_Numbers": "0005701, 0005AEG"
   },
   {
     "brand": "BMW",
@@ -184,7 +184,7 @@
     "hp": "163",
     "cc": "2171",
     "engineCodes": "M54 B22 (226S1)",
-    "KBA_Numbers": "0005702  0005AEN"
+    "KBA_Numbers": "0005702, 0005AEN"
   },
   {
     "brand": "BMW",
@@ -217,7 +217,7 @@
     "hp": "192",
     "cc": "2494",
     "engineCodes": "M54 B25 (256S5)",
-    "KBA_Numbers": "0005703  0005AEL"
+    "KBA_Numbers": "0005703, 0005AEL"
   },
   {
     "brand": "BMW",
@@ -228,7 +228,7 @@
     "hp": "150",
     "cc": "1995",
     "engineCodes": "M47 D20 (204D4)",
-    "KBA_Numbers": "0005763  0005AEV"
+    "KBA_Numbers": "0005763, 0005AEV"
   },
   {
     "brand": "BMW",
@@ -239,7 +239,7 @@
     "hp": "192",
     "cc": "2494",
     "engineCodes": "M54 B25 (256S5)",
-    "KBA_Numbers": "0005700  0005AEU"
+    "KBA_Numbers": "0005700, 0005AEU"
   },
   {
     "brand": "BMW",
@@ -293,7 +293,7 @@
     "kw": "105",
     "hp": "143",
     "cc": "1995",
-    "engineCodes": "N46 B20 A  N46 B20 C  N42 B20 A",
+    "engineCodes": "N46 B20 A, N46 B20 C, N42 B20 A",
     "KBA_Numbers": "0005734"
   },
   {

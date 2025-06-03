@@ -18,7 +18,7 @@ const existedFolders = getSubfolderNamesSync(`src/data/Gathered_Informations/${p
 
 test.describe('YV NO ve Marka bazlı teknik veri tarayıcı', async () => {
 
-  for (const ref of crankshaftPairs) {
+  for (const ref of padPairs) {
 
     const { yvNo, brandRefs } = ref;
     // yvNo daha önce işlenmişse atla
@@ -166,10 +166,10 @@ test.describe('YV NO ve Marka bazlı teknik veri tarayıcı', async () => {
               //oeNumbers,
               brand_oe_map: brand_oe_map_serializable,
               eanNumber: eanNumber,
-              attributes: crankshaft_attributes // change it accordingly
+              attributes: pad_attributes // change it accordingly
             };
 
-            const basePath = path.join('src', 'data', 'Gathered_Informations', productType, 'Technical_Details', "NewlyAdded", yvNo);
+            const basePath = path.join('src', 'data', 'Gathered_Informations', productType, 'Technical_Details', "YV_CODES", yvNo);
             if (!fs.existsSync(basePath)) fs.mkdirSync(basePath, { recursive: true });
 
             const fileName = `${brand}_${productCode}.json`;

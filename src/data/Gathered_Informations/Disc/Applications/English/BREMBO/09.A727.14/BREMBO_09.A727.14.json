@@ -7,7 +7,7 @@
     "kw": "74",
     "hp": "101",
     "cc": "999",
-    "engineCodes": "H4D 460  H4D 450  H4D 480",
+    "engineCodes": "H4D 460, H4D 450, H4D 480",
     "KBA_Numbers": "3333BND"
   },
   {
@@ -18,7 +18,7 @@
     "kw": "74",
     "hp": "101",
     "cc": "999",
-    "engineCodes": "H4D 450  H4D 460",
+    "engineCodes": "H4D 450, H4D 460",
     "KBA_Numbers": "3333BMJ"
   },
   {
@@ -52,7 +52,7 @@
     "hp": "125",
     "cc": "1197",
     "engineCodes": "H5F 410",
-    "KBA_Numbers": "8212ADO  3333BIQ"
+    "KBA_Numbers": "8212ADO, 3333BIQ"
   },
   {
     "brand": "DACIA",
@@ -62,7 +62,7 @@
     "kw": "96",
     "hp": "131",
     "cc": "1332",
-    "engineCodes": "H5H 480  H5H 470",
+    "engineCodes": "H5H 480, H5H 470",
     "KBA_Numbers": "3333BKY"
   },
   {
@@ -73,7 +73,7 @@
     "kw": "96",
     "hp": "131",
     "cc": "1332",
-    "engineCodes": "H5H 470  H5H 480  H5H494",
+    "engineCodes": "H5H 470, H5H 480, H5H494",
     "KBA_Numbers": "3333BMB"
   },
   {
@@ -84,7 +84,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1332",
-    "engineCodes": "H5H 480  H5H 470  H5H 490",
+    "engineCodes": "H5H 480, H5H 470, H5H 490",
     "KBA_Numbers": "3333BKZ"
   },
   {
@@ -95,7 +95,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1332",
-    "engineCodes": "H5H 470  H5H 480  H5H 490",
+    "engineCodes": "H5H 470, H5H 480, H5H 490",
     "KBA_Numbers": "3333BMC"
   },
   {
@@ -106,7 +106,7 @@
     "kw": "80",
     "hp": "109",
     "cc": "1461",
-    "engineCodes": "K9K 667  K9K 656",
+    "engineCodes": "K9K 667, K9K 656",
     "KBA_Numbers": "3333BIN"
   },
   {
@@ -128,7 +128,7 @@
     "kw": "85",
     "hp": "116",
     "cc": "1461",
-    "engineCodes": "K9K 872  K9K 876",
+    "engineCodes": "K9K 872, K9K 876",
     "KBA_Numbers": "3333BJX"
   },
   {
@@ -139,7 +139,7 @@
     "kw": "85",
     "hp": "116",
     "cc": "1461",
-    "engineCodes": "K9K 874  K9K 878",
+    "engineCodes": "K9K 874, K9K 878",
     "KBA_Numbers": "3333BKJ"
   },
   {
@@ -194,8 +194,8 @@
     "kw": "92",
     "hp": "125",
     "cc": "1197",
-    "engineCodes": "H5F 404  H5F 408",
-    "KBA_Numbers": "8212ADK  8212ADM"
+    "engineCodes": "H5F 404, H5F 408",
+    "KBA_Numbers": "8212ADK, 8212ADM"
   },
   {
     "brand": "DACIA",
@@ -216,8 +216,8 @@
     "kw": "63",
     "hp": "86",
     "cc": "1461",
-    "engineCodes": "K9K 830  K9K 796",
-    "KBA_Numbers": "8212AAI  8212AAY  8212ABU"
+    "engineCodes": "K9K 830, K9K 796",
+    "KBA_Numbers": "8212AAI, 8212AAY, 8212ABU"
   },
   {
     "brand": "DACIA",
@@ -227,7 +227,7 @@
     "kw": "80",
     "hp": "109",
     "cc": "1461",
-    "engineCodes": "K9K 658  K9K 666  K9K 858  K9K 856  K9K 667",
+    "engineCodes": "K9K 658, K9K 666, K9K 858, K9K 856, K9K 667",
     "KBA_Numbers": "8212ADG"
   },
   {
@@ -238,8 +238,8 @@
     "kw": "66",
     "hp": "90",
     "cc": "1461",
-    "engineCodes": "K9K 612  K9K 892  K9K 626",
-    "KBA_Numbers": "8212ACK  8212ACF"
+    "engineCodes": "K9K 612, K9K 892, K9K 626",
+    "KBA_Numbers": "8212ACK, 8212ACF"
   },
   {
     "brand": "DACIA",
@@ -249,8 +249,8 @@
     "kw": "79",
     "hp": "107",
     "cc": "1461",
-    "engineCodes": "K9K 898  K9K 896",
-    "KBA_Numbers": "8212ABE  8212ABG  8212ABZ"
+    "engineCodes": "K9K 898, K9K 896",
+    "KBA_Numbers": "8212ABE, 8212ABG, 8212ABZ"
   },
   {
     "brand": "DACIA",
@@ -260,7 +260,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1461",
-    "engineCodes": "K9K 858  K9K 856  K9K 898",
+    "engineCodes": "K9K 858, K9K 856, K9K 898",
     "KBA_Numbers": ""
   },
   {
@@ -271,8 +271,8 @@
     "kw": "66",
     "hp": "90",
     "cc": "1461",
-    "engineCodes": "K9K 884  K9K 894",
-    "KBA_Numbers": "8212ACL  8212ACM"
+    "engineCodes": "K9K 884, K9K 894",
+    "KBA_Numbers": "8212ACL, 8212ACM"
   },
   {
     "brand": "DACIA",
@@ -282,8 +282,8 @@
     "kw": "80",
     "hp": "109",
     "cc": "1461",
-    "engineCodes": "K9K 898  K9K 658  K9K 858",
-    "KBA_Numbers": "8212ADI  8212ADJ"
+    "engineCodes": "K9K 898, K9K 658, K9K 858",
+    "KBA_Numbers": "8212ADI, 8212ADJ"
   },
   {
     "brand": "DACIA",
@@ -293,8 +293,8 @@
     "kw": "81",
     "hp": "110",
     "cc": "1461",
-    "engineCodes": "K9K 898  K9K 858",
-    "KBA_Numbers": "8212ABD  8212ABI  8212ABY"
+    "engineCodes": "K9K 898, K9K 858",
+    "KBA_Numbers": "8212ABD, 8212ABI, 8212ABY"
   },
   {
     "brand": "DACIA",
@@ -304,8 +304,8 @@
     "kw": "77",
     "hp": "105",
     "cc": "1598",
-    "engineCodes": "K4M 696  K4M 690  K4M 694  K4M 842  K4M 896",
-    "KBA_Numbers": "8212AAE  8212AAZ  8212ACA"
+    "engineCodes": "K4M 696, K4M 690, K4M 694, K4M 842, K4M 896",
+    "KBA_Numbers": "8212AAE, 8212AAZ, 8212ACA"
   },
   {
     "brand": "DACIA",
@@ -315,7 +315,7 @@
     "kw": "77",
     "hp": "105",
     "cc": "1598",
-    "engineCodes": "K4M 606  K4M 646",
+    "engineCodes": "K4M 606, K4M 646",
     "KBA_Numbers": "8212ABF"
   },
   {
@@ -337,7 +337,7 @@
     "kw": "77",
     "hp": "105",
     "cc": "1598",
-    "engineCodes": "K4M 616  K4M 642",
+    "engineCodes": "K4M 616, K4M 642",
     "KBA_Numbers": "8212ACS"
   },
   {
@@ -348,7 +348,7 @@
     "kw": "84",
     "hp": "115",
     "cc": "1598",
-    "engineCodes": "H4M 438  H4M 738",
+    "engineCodes": "H4M 438, H4M 738",
     "KBA_Numbers": "8212ADP"
   },
   {
@@ -359,7 +359,7 @@
     "kw": "84",
     "hp": "115",
     "cc": "1598",
-    "engineCodes": "H4M 738  H4M 730  H4M 430",
+    "engineCodes": "H4M 738, H4M 730, H4M 430",
     "KBA_Numbers": "8212ADQ"
   },
   {
@@ -403,7 +403,7 @@
     "kw": "80",
     "hp": "109",
     "cc": "1461",
-    "engineCodes": "K9K 666  K9K 856",
+    "engineCodes": "K9K 666, K9K 856",
     "KBA_Numbers": "8212ADH"
   },
   {
@@ -414,7 +414,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1461",
-    "engineCodes": "K9K 884  K9K 894",
+    "engineCodes": "K9K 884, K9K 894",
     "KBA_Numbers": "8212ACM"
   },
   {
@@ -425,7 +425,7 @@
     "kw": "80",
     "hp": "109",
     "cc": "1461",
-    "engineCodes": "K9K 858  K9K 658",
+    "engineCodes": "K9K 858, K9K 658",
     "KBA_Numbers": "8212ADI"
   },
   {
@@ -437,7 +437,7 @@
     "hp": "105",
     "cc": "1598",
     "engineCodes": "K4M 606",
-    "KBA_Numbers": "8212ABH  8212ACB"
+    "KBA_Numbers": "8212ABH, 8212ACB"
   },
   {
     "brand": "DACIA",
@@ -458,7 +458,7 @@
     "kw": "84",
     "hp": "115",
     "cc": "1598",
-    "engineCodes": "H4M 738  H4M 730",
+    "engineCodes": "H4M 738, H4M 730",
     "KBA_Numbers": "8212AEG"
   },
   {
@@ -470,7 +470,7 @@
     "hp": "114",
     "cc": "999",
     "engineCodes": "HR10DDT",
-    "KBA_Numbers": "2228AAD  1329AMM"
+    "KBA_Numbers": "2228AAD, 1329AMM"
   },
   {
     "brand": "NISSAN",
@@ -524,7 +524,7 @@
     "kw": "85",
     "hp": "116",
     "cc": "1461",
-    "engineCodes": "K9K 873  K9K 872",
+    "engineCodes": "K9K 873, K9K 872",
     "KBA_Numbers": "3333BMU"
   },
   {
@@ -612,7 +612,7 @@
     "kw": "80",
     "hp": "109",
     "cc": "1461",
-    "engineCodes": "K9K 656  K9K 667  K9K 858  K9K 678  K9K 658",
+    "engineCodes": "K9K 656, K9K 667, K9K 858, K9K 678, K9K 658",
     "KBA_Numbers": ""
   },
   {
@@ -623,7 +623,7 @@
     "kw": "80",
     "hp": "109",
     "cc": "1461",
-    "engineCodes": "K9K 658  K9K 858",
+    "engineCodes": "K9K 658, K9K 858",
     "KBA_Numbers": ""
   },
   {
@@ -667,7 +667,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1461",
-    "engineCodes": "K9K 657  K9K 656  K9K 836  K9K 837",
+    "engineCodes": "K9K 657, K9K 656, K9K 836, K9K 837",
     "KBA_Numbers": "3333AWL"
   },
   {
@@ -700,7 +700,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1598",
-    "engineCodes": "K4M 839  K4M 838",
+    "engineCodes": "K4M 839, K4M 838",
     "KBA_Numbers": "3333AVC"
   },
   {
@@ -733,7 +733,7 @@
     "kw": "103",
     "hp": "140",
     "cc": "1997",
-    "engineCodes": "M4R 751  M4R 714",
+    "engineCodes": "M4R 751, M4R 714",
     "KBA_Numbers": "3333AWM"
   },
   {
@@ -744,8 +744,8 @@
     "kw": "70",
     "hp": "95",
     "cc": "5AM 400",
-    "engineCodes": "3333AYV",
-    "KBA_Numbers": ""
+    "engineCodes": "5AM 400",
+    "KBA_Numbers": "3333AYV"
   },
   {
     "brand": "RENAULT",
@@ -788,7 +788,7 @@
     "kw": "85",
     "hp": "116",
     "cc": "1461",
-    "engineCodes": "K9K 876  K9K 877",
+    "engineCodes": "K9K 876, K9K 877",
     "KBA_Numbers": "3333BPG"
   },
   {
@@ -810,7 +810,7 @@
     "kw": "70",
     "hp": "95",
     "cc": "1461",
-    "engineCodes": "K9K 876  K9K 877",
+    "engineCodes": "K9K 876, K9K 877",
     "KBA_Numbers": "3333BPD"
   },
   {
@@ -821,8 +821,8 @@
     "kw": "90",
     "hp": "122",
     "cc": "5AQ 609",
-    "engineCodes": "3333BPS",
-    "KBA_Numbers": ""
+    "engineCodes": "5AQ 609",
+    "KBA_Numbers": "3333BPS"
   },
   {
     "brand": "RENAULT",
@@ -832,7 +832,7 @@
     "kw": "85",
     "hp": "116",
     "cc": "1461",
-    "engineCodes": "K9K 876  K9K 877",
+    "engineCodes": "K9K 876, K9K 877",
     "KBA_Numbers": "3333BPO"
   },
   {
@@ -844,7 +844,7 @@
     "hp": "75",
     "cc": "1461",
     "engineCodes": "K9K 876",
-    "KBA_Numbers": "3333BPK  3333BNN"
+    "KBA_Numbers": "3333BPK, 3333BNN"
   },
   {
     "brand": "RENAULT",
@@ -854,8 +854,8 @@
     "kw": "70",
     "hp": "95",
     "cc": "1461",
-    "engineCodes": "K9K 876  K9K 877",
-    "KBA_Numbers": "3333BPL  3333BNO"
+    "engineCodes": "K9K 876, K9K 877",
+    "KBA_Numbers": "3333BPL, 3333BNO"
   },
   {
     "brand": "RENAULT",
@@ -866,7 +866,7 @@
     "hp": "102",
     "cc": "1332",
     "engineCodes": "H5H 490",
-    "KBA_Numbers": "3333BII  3333BPI"
+    "KBA_Numbers": "3333BII, 3333BPI"
   },
   {
     "brand": "RENAULT",
@@ -877,7 +877,7 @@
     "hp": "131",
     "cc": "1332",
     "engineCodes": "H5H 490",
-    "KBA_Numbers": "3333BPJ  3333BNL"
+    "KBA_Numbers": "3333BPJ, 3333BNL"
   },
   {
     "brand": "RENAULT",
@@ -898,7 +898,7 @@
     "kw": "125",
     "hp": "170",
     "cc": "1998",
-    "engineCodes": "F4R 811  F4Rt 811",
+    "engineCodes": "F4R 811, F4Rt 811",
     "KBA_Numbers": "3333ASA"
   },
   {
@@ -920,7 +920,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1461",
-    "engineCodes": "K9K 782  K9K 780  K9K 846",
+    "engineCodes": "K9K 782, K9K 780, K9K 846",
     "KBA_Numbers": "3333APU"
   },
   {
@@ -953,7 +953,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1461",
-    "engineCodes": "K9K 846  K9K 780  K9K 782",
+    "engineCodes": "K9K 846, K9K 780, K9K 782",
     "KBA_Numbers": "3333APZ"
   },
   {
@@ -1008,7 +1008,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1461",
-    "engineCodes": "K9K 837  K9K 836",
+    "engineCodes": "K9K 837, K9K 836",
     "KBA_Numbers": "3333AWB"
   },
   {
@@ -1063,7 +1063,7 @@
     "kw": "103",
     "hp": "140",
     "cc": "1997",
-    "engineCodes": "M4R 711  M4R 713",
+    "engineCodes": "M4R 711, M4R 713",
     "KBA_Numbers": "3333AWI"
   },
   {
@@ -1074,7 +1074,7 @@
     "kw": "97",
     "hp": "132",
     "cc": "1197",
-    "engineCodes": "H5F 405  H5F 412  H5F 404",
+    "engineCodes": "H5F 405, H5F 412, H5F 404",
     "KBA_Numbers": "3333BBH"
   },
   {
@@ -1085,7 +1085,7 @@
     "kw": "85",
     "hp": "116",
     "cc": "1198",
-    "engineCodes": "H5F 408  H5F 400",
+    "engineCodes": "H5F 408, H5F 400",
     "KBA_Numbers": "3333AZR"
   },
   {
@@ -1118,7 +1118,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1461",
-    "engineCodes": "K9K 836  K9K 636  K9K 837  K9K 846  K9K 656",
+    "engineCodes": "K9K 836, K9K 636, K9K 837, K9K 846, K9K 656",
     "KBA_Numbers": "3333ATD"
   },
   {
@@ -1195,7 +1195,7 @@
     "kw": "96",
     "hp": "130",
     "cc": "1598",
-    "engineCodes": "R9M 402  R9M 404  R9M 414",
+    "engineCodes": "R9M 402, R9M 404, R9M 414",
     "KBA_Numbers": "3333AZM"
   },
   {
@@ -1206,7 +1206,7 @@
     "kw": "96",
     "hp": "131",
     "cc": "1870",
-    "engineCodes": "F9Q 870  F9Q 872",
+    "engineCodes": "F9Q 870, F9Q 872",
     "KBA_Numbers": "3333ASQ"
   },
   {
@@ -1250,7 +1250,7 @@
     "kw": "97",
     "hp": "132",
     "cc": "1197",
-    "engineCodes": "H5F 405  H5F 412  H5F 404",
+    "engineCodes": "H5F 405, H5F 412, H5F 404",
     "KBA_Numbers": "3333BBJ"
   },
   {
@@ -1261,7 +1261,7 @@
     "kw": "85",
     "hp": "116",
     "cc": "1198",
-    "engineCodes": "H5F 408  H5F 400",
+    "engineCodes": "H5F 408, H5F 400",
     "KBA_Numbers": "3333AZS"
   },
   {
@@ -1294,7 +1294,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1461",
-    "engineCodes": "K9K 636  K9K 836  K9K 837  K9K 846  K9K 656  K9K 657",
+    "engineCodes": "K9K 636, K9K 836, K9K 837, K9K 846, K9K 656, K9K 657",
     "KBA_Numbers": "3333AUF"
   },
   {
@@ -1327,7 +1327,7 @@
     "kw": "78",
     "hp": "106",
     "cc": "1461",
-    "engineCodes": "K9K 832  K9K 836  K9K 846",
+    "engineCodes": "K9K 832, K9K 836, K9K 846",
     "KBA_Numbers": "3333AUD"
   },
   {
@@ -1349,7 +1349,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1598",
-    "engineCodes": "K4M 858  K4M 866",
+    "engineCodes": "K4M 858, K4M 866",
     "KBA_Numbers": "3333AUK"
   },
   {
@@ -1361,7 +1361,7 @@
     "hp": "110",
     "cc": "1598",
     "engineCodes": "K4M 866",
-    "KBA_Numbers": "3333AUZ  3333AVJ"
+    "KBA_Numbers": "3333AUZ, 3333AVJ"
   },
   {
     "brand": "RENAULT",
@@ -1371,7 +1371,7 @@
     "kw": "96",
     "hp": "130",
     "cc": "1598",
-    "engineCodes": "R9M 414  R9M 404  R9M 402",
+    "engineCodes": "R9M 414, R9M 404, R9M 402",
     "KBA_Numbers": "3333AZN"
   },
   {
@@ -1382,7 +1382,7 @@
     "kw": "96",
     "hp": "131",
     "cc": "1870",
-    "engineCodes": "F9Q 872  F9Q 870",
+    "engineCodes": "F9Q 872, F9Q 870",
     "KBA_Numbers": "3333AUB"
   },
   {
@@ -1393,7 +1393,7 @@
     "kw": "103",
     "hp": "140",
     "cc": "1997",
-    "engineCodes": "M4R 711  M4R 713",
+    "engineCodes": "M4R 711, M4R 713",
     "KBA_Numbers": "3333AUH"
   },
   {
@@ -1404,7 +1404,7 @@
     "kw": "132",
     "hp": "180",
     "cc": "1998",
-    "engineCodes": "F4R 870  F4R 872",
+    "engineCodes": "F4R 870, F4R 872",
     "KBA_Numbers": "3333ATZ"
   },
   {
@@ -1415,7 +1415,7 @@
     "kw": "97",
     "hp": "132",
     "cc": "1197",
-    "engineCodes": "H5F 405  H5F 412  H5F 404",
+    "engineCodes": "H5F 405, H5F 412, H5F 404",
     "KBA_Numbers": "3333BBG"
   },
   {
@@ -1426,7 +1426,7 @@
     "kw": "85",
     "hp": "116",
     "cc": "1198",
-    "engineCodes": "H5F 408  H5F 400",
+    "engineCodes": "H5F 408, H5F 400",
     "KBA_Numbers": "3333AZQ"
   },
   {
@@ -1470,7 +1470,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1461",
-    "engineCodes": "K9K 836  K9K 636  K9K 846  K9K 837  K9K 656  K9K 657",
+    "engineCodes": "K9K 836, K9K 636, K9K 846, K9K 837, K9K 656, K9K 657",
     "KBA_Numbers": "3333ATA"
   },
   {
@@ -1503,7 +1503,7 @@
     "kw": "85",
     "hp": "116",
     "cc": "1598",
-    "engineCodes": "K4M 858  K4M 848",
+    "engineCodes": "K4M 858, K4M 848",
     "KBA_Numbers": "3333BAO"
   },
   {
@@ -1514,7 +1514,7 @@
     "kw": "82",
     "hp": "111",
     "cc": "1598",
-    "engineCodes": "K4M 858  K4M 866",
+    "engineCodes": "K4M 858, K4M 866",
     "KBA_Numbers": "3333AZE"
   },
   {
@@ -1547,7 +1547,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1598",
-    "engineCodes": "K4M 858  K4M 838",
+    "engineCodes": "K4M 858, K4M 838",
     "KBA_Numbers": "3333ASJ"
   },
   {
@@ -1558,7 +1558,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1598",
-    "engineCodes": "K4M 858  K4M 866",
+    "engineCodes": "K4M 858, K4M 866",
     "KBA_Numbers": "3333AUW"
   },
   {
@@ -1569,7 +1569,7 @@
     "kw": "96",
     "hp": "130",
     "cc": "1598",
-    "engineCodes": "R9M 404  R9M 402  R9M 414",
+    "engineCodes": "R9M 404, R9M 402, R9M 414",
     "KBA_Numbers": "3333AZL"
   },
   {
@@ -1580,7 +1580,7 @@
     "kw": "96",
     "hp": "131",
     "cc": "1870",
-    "engineCodes": "F9Q 872  F9Q 870",
+    "engineCodes": "F9Q 872, F9Q 870",
     "KBA_Numbers": "3333ASK"
   },
   {
@@ -1591,7 +1591,7 @@
     "kw": "105",
     "hp": "143",
     "cc": "1997",
-    "engineCodes": "M4R 714  M4R 710",
+    "engineCodes": "M4R 714, M4R 710",
     "KBA_Numbers": ""
   },
   {
@@ -1602,7 +1602,7 @@
     "kw": "103",
     "hp": "140",
     "cc": "1997",
-    "engineCodes": "M4R 711  M4R 713",
+    "engineCodes": "M4R 711, M4R 713",
     "KBA_Numbers": "3333ATB"
   },
   {
@@ -1655,9 +1655,9 @@
     "engineType": "1.3 TCe 100 (K9N8)",
     "madeYear": "from 08.2018",
     "kw": "75",
-    "hp": "100",
+    "hp": "102",
     "cc": "1332",
-    "engineCodes": "H5H 470  H5H 490",
+    "engineCodes": "H5H 470, H5H 490",
     "KBA_Numbers": "3333BKD"
   },
   {
@@ -1668,7 +1668,7 @@
     "kw": "85",
     "hp": "116",
     "cc": "1332",
-    "engineCodes": "H5H 450  H5H 470  H5H 490",
+    "engineCodes": "H5H 450, H5H 470, H5H 490",
     "KBA_Numbers": "3333BJK"
   },
   {
@@ -1679,7 +1679,7 @@
     "kw": "103",
     "hp": "140",
     "cc": "1332",
-    "engineCodes": "H5H 470  H5H 450  H5H 490",
+    "engineCodes": "H5H 470, H5H 450, H5H 490",
     "KBA_Numbers": "3333BJI"
   },
   {
@@ -1690,7 +1690,7 @@
     "kw": "85",
     "hp": "116",
     "cc": "1461",
-    "engineCodes": "K9K 873  K9K 872  K9K 877  K9K 876",
+    "engineCodes": "K9K 873, K9K 872, K9K 877, K9K 876",
     "KBA_Numbers": "3333BKO"
   },
   {
@@ -1712,7 +1712,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1461",
-    "engineCodes": "K9K 657  K9K 656",
+    "engineCodes": "K9K 657, K9K 656",
     "KBA_Numbers": "3333BFV"
   },
   {
@@ -1778,7 +1778,7 @@
     "kw": "85",
     "hp": "116",
     "cc": "1332",
-    "engineCodes": "H5H 470  H5H 450",
+    "engineCodes": "H5H 470, H5H 450",
     "KBA_Numbers": "3333BJH"
   },
   {
@@ -1789,7 +1789,7 @@
     "kw": "103",
     "hp": "140",
     "cc": "1332",
-    "engineCodes": "H5H 470  H5H 450",
+    "engineCodes": "H5H 470, H5H 450",
     "KBA_Numbers": "3333BJF"
   },
   {
@@ -1800,7 +1800,7 @@
     "kw": "85",
     "hp": "116",
     "cc": "1461",
-    "engineCodes": "K9K 873  K9K 872  K9K 854  K9K 877  K9K 876",
+    "engineCodes": "K9K 873, K9K 872, K9K 854, K9K 877, K9K 876",
     "KBA_Numbers": "3333BKM"
   },
   {
@@ -1811,7 +1811,7 @@
     "kw": "70",
     "hp": "95",
     "cc": "1461",
-    "engineCodes": "K9K 872  K9K 854  K9K 876  K9K 877",
+    "engineCodes": "K9K 872, K9K 854, K9K 876, K9K 877",
     "KBA_Numbers": "3333BKL"
   },
   {
@@ -1822,7 +1822,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1461",
-    "engineCodes": "K9K 648  K9K 657  K9K 656  K9K 646",
+    "engineCodes": "K9K 648, K9K 657, K9K 656, K9K 646",
     "KBA_Numbers": "3333BEX"
   },
   {
@@ -1844,7 +1844,7 @@
     "kw": "84",
     "hp": "115",
     "cc": "1598",
-    "engineCodes": "H4M 749  H4M 738  H4M 750  H4M 751  H4M 748",
+    "engineCodes": "H4M 749, H4M 738, H4M 750, H4M 751, H4M 748",
     "KBA_Numbers": "3333BFP"
   },
   {
@@ -1866,7 +1866,7 @@
     "kw": "85",
     "hp": "116",
     "cc": "1332",
-    "engineCodes": "H5H 470  H5H 450",
+    "engineCodes": "H5H 470, H5H 450",
     "KBA_Numbers": "3333BMO"
   },
   {
@@ -1877,7 +1877,7 @@
     "kw": "103",
     "hp": "140",
     "cc": "1332",
-    "engineCodes": "H5H 450  H5H 470  H5H 490",
+    "engineCodes": "H5H 450, H5H 470, H5H 490",
     "KBA_Numbers": "3333BMM"
   },
   {
@@ -1888,7 +1888,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "1461",
-    "engineCodes": "K9K 873  K9K 872",
+    "engineCodes": "K9K 873, K9K 872",
     "KBA_Numbers": "3333BMQ"
   },
   {
@@ -1910,7 +1910,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1461",
-    "engineCodes": "K9K 675  K9K 657  K9K 656  K9K 677  K9K 674  K9K 676",
+    "engineCodes": "K9K 675, K9K 657, K9K 656, K9K 677, K9K 674, K9K 676",
     "KBA_Numbers": ""
   },
   {
@@ -1943,8 +1943,8 @@
     "kw": "81",
     "hp": "110",
     "cc": "1461",
-    "engineCodes": "K9K 657  K9K 656  K9K 636  K9K 836  K9K 837",
-    "KBA_Numbers": "3333ATJ  3333ATN"
+    "engineCodes": "K9K 657, K9K 656, K9K 636, K9K 836, K9K 837",
+    "KBA_Numbers": "3333ATJ, 3333ATN"
   },
   {
     "brand": "RENAULT",
@@ -1965,7 +1965,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1598",
-    "engineCodes": "K4M R 858  K4M 858",
+    "engineCodes": "K4M R 858, K4M 858",
     "KBA_Numbers": "3333ATK"
   },
   {
@@ -2009,8 +2009,8 @@
     "kw": "65",
     "hp": "88",
     "cc": "5AM 450  5AQ 601",
-    "engineCodes": "3333AZX",
-    "KBA_Numbers": ""
+    "engineCodes": "5AM 450, 5AQ 601",
+    "KBA_Numbers": "3333AZX"
   },
   {
     "brand": "RENAULT",
@@ -2020,8 +2020,8 @@
     "kw": "68",
     "hp": "92",
     "cc": "5AQ 601",
-    "engineCodes": "3333AZX",
-    "KBA_Numbers": ""
+    "engineCodes": "5AQ 601",
+    "KBA_Numbers": "3333AZX"
   },
   {
     "brand": "RENAULT",
@@ -2031,8 +2031,8 @@
     "kw": "100",
     "hp": "136",
     "cc": "5AQ 605",
-    "engineCodes": "3333BMT",
-    "KBA_Numbers": ""
+    "engineCodes": "5AQ 605",
+    "KBA_Numbers": "3333BMT"
   },
   {
     "brand": "RENAULT",
@@ -2042,7 +2042,7 @@
     "kw": "80",
     "hp": "109",
     "cc": "5AQ 607  5AQ 605",
-    "engineCodes": "3333BIA",
-    "KBA_Numbers": ""
+    "engineCodes": "5AQ 607, 5AQ 605",
+    "KBA_Numbers": "3333BIA"
   }
 ]

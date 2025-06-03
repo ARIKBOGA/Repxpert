@@ -51,8 +51,8 @@
     "kw": "110",
     "hp": "150",
     "cc": "1990",
-    "engineCodes": "M52 B20 (206S3)  M50 B20 (206S2)  M50 B20 (206S1)",
-    "KBA_Numbers": "0005505  0005550"
+    "engineCodes": "M52 B20 (206S3), M50 B20 (206S2), M50 B20 (206S1)",
+    "KBA_Numbers": "0005505, 0005550"
   },
   {
     "brand": "BMW",
@@ -73,7 +73,7 @@
     "kw": "141",
     "hp": "192",
     "cc": "2494",
-    "engineCodes": "M50 B25 (256S1)  M50 B25 (256S2)",
+    "engineCodes": "M50 B25 (256S1), M50 B25 (256S2)",
     "KBA_Numbers": "0005506"
   },
   {
@@ -85,7 +85,7 @@
     "hp": "115",
     "cc": "2497",
     "engineCodes": "M51 D25 (256T1)",
-    "KBA_Numbers": "0005517  0005578"
+    "KBA_Numbers": "0005517, 0005578"
   },
   {
     "brand": "BMW",
@@ -96,7 +96,7 @@
     "hp": "143",
     "cc": "2497",
     "engineCodes": "M51 D25 (256T1)",
-    "KBA_Numbers": "0005536  0005579"
+    "KBA_Numbers": "0005536, 0005579"
   },
   {
     "brand": "BMW",
@@ -139,7 +139,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "1796",
-    "engineCodes": "N46 B18 A  N42 B18 A",
+    "engineCodes": "N46 B18 A, N42 B18 A",
     "KBA_Numbers": "0005754"
   },
   {
@@ -150,7 +150,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "1596",
-    "engineCodes": "N40 B16 A  N45 B16 A",
+    "engineCodes": "N40 B16 A, N45 B16 A",
     "KBA_Numbers": "0005741"
   },
   {
@@ -184,7 +184,7 @@
     "hp": "118",
     "cc": "1895",
     "engineCodes": "M43 B19 (194E1)",
-    "KBA_Numbers": "0005622  0005642"
+    "KBA_Numbers": "0005622, 0005642"
   },
   {
     "brand": "BMW",
@@ -195,7 +195,7 @@
     "hp": "136",
     "cc": "1995",
     "engineCodes": "N42 B20 A",
-    "KBA_Numbers": "0005735  0005736"
+    "KBA_Numbers": "0005735, 0005736"
   },
   {
     "brand": "BMW",
@@ -205,7 +205,7 @@
     "kw": "105",
     "hp": "143",
     "cc": "1995",
-    "engineCodes": "N46 B20 A  N46 B20 C  N42 B20 A",
+    "engineCodes": "N46 B20 A, N46 B20 C, N42 B20 A",
     "KBA_Numbers": "0005733"
   },
   {
@@ -217,7 +217,7 @@
     "hp": "129",
     "cc": "1951",
     "engineCodes": "M47 D20 (204D1)",
-    "KBA_Numbers": "0005666  0005643"
+    "KBA_Numbers": "0005666, 0005643"
   },
   {
     "brand": "BMW",
@@ -337,7 +337,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "1796",
-    "engineCodes": "N42 B18 A  N46 B18 A",
+    "engineCodes": "N42 B18 A, N46 B18 A",
     "KBA_Numbers": "0005716"
   },
   {
@@ -359,7 +359,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "1596",
-    "engineCodes": "N40 B16 A  N45 B16 A",
+    "engineCodes": "N40 B16 A, N45 B16 A",
     "KBA_Numbers": "0005743"
   },
   {
@@ -381,7 +381,7 @@
     "kw": "100",
     "hp": "136",
     "cc": "1995",
-    "engineCodes": "N46 B20 A  N42 B20 A",
+    "engineCodes": "N46 B20 A, N42 B20 A",
     "KBA_Numbers": "0005731"
   },
   {
@@ -392,7 +392,7 @@
     "kw": "105",
     "hp": "143",
     "cc": "1995",
-    "engineCodes": "N46 B20 A  N42 B20 A",
+    "engineCodes": "N46 B20 A, N42 B20 A",
     "KBA_Numbers": "0005721"
   },
   {
@@ -403,8 +403,8 @@
     "kw": "110",
     "hp": "150",
     "cc": "1990",
-    "engineCodes": "M52 B20 (206S3)  M50 B20 (206S2)",
-    "KBA_Numbers": "0005530  0005552"
+    "engineCodes": "M52 B20 (206S3), M50 B20 (206S2)",
+    "KBA_Numbers": "0005530, 0005552"
   },
   {
     "brand": "BMW",
@@ -447,8 +447,8 @@
     "kw": "100",
     "hp": "136",
     "cc": "1995",
-    "engineCodes": "N42 B20 A  N46 B20 A",
-    "KBA_Numbers": "0005730  0005AEJ"
+    "engineCodes": "N42 B20 A, N46 B20 A",
+    "KBA_Numbers": "0005730, 0005AEJ"
   },
   {
     "brand": "BMW",
@@ -458,7 +458,7 @@
     "kw": "105",
     "hp": "143",
     "cc": "1995",
-    "engineCodes": "N46 B20 A  N42 B20 A",
+    "engineCodes": "N46 B20 A, N42 B20 A",
     "KBA_Numbers": "0005727"
   },
   {
@@ -469,8 +469,8 @@
     "kw": "110",
     "hp": "150",
     "cc": "1995",
-    "engineCodes": "N46 B20 A  N46 B20 C",
-    "KBA_Numbers": "0005831  0005AEH"
+    "engineCodes": "N46 B20 A, N46 B20 C",
+    "KBA_Numbers": "0005831, 0005AEH"
   },
   {
     "brand": "BMW",
@@ -481,7 +481,7 @@
     "hp": "170",
     "cc": "2171",
     "engineCodes": "M54 B22 (226S1)",
-    "KBA_Numbers": "0005701  0005AEG"
+    "KBA_Numbers": "0005701, 0005AEG"
   },
   {
     "brand": "BMW",
@@ -513,8 +513,8 @@
     "kw": "110",
     "hp": "150",
     "cc": "1990",
-    "engineCodes": "M52 B20 (206S3)  M50 B20 (206S2)  M50 B20 (206S1)",
-    "KBA_Numbers": "0005519  0005551"
+    "engineCodes": "M52 B20 (206S3), M50 B20 (206S2), M50 B20 (206S1)",
+    "KBA_Numbers": "0005519, 0005551"
   },
   {
     "brand": "BMW",
@@ -535,7 +535,7 @@
     "kw": "141",
     "hp": "192",
     "cc": "2494",
-    "engineCodes": "M50 B25 (256S2)  M50 B25 (256S1)",
+    "engineCodes": "M50 B25 (256S2), M50 B25 (256S1)",
     "KBA_Numbers": "0005520"
   },
   {
@@ -546,7 +546,7 @@
     "kw": "141",
     "hp": "192",
     "cc": "2494",
-    "engineCodes": "M50 B25 (256S2)  M50 B25 (256S1)",
+    "engineCodes": "M50 B25 (256S2), M50 B25 (256S1)",
     "KBA_Numbers": "0005520"
   },
   {
@@ -580,7 +580,7 @@
     "hp": "115",
     "cc": "1596",
     "engineCodes": "N45 B16 A",
-    "KBA_Numbers": "0005742  0005AEW"
+    "KBA_Numbers": "0005742, 0005AEW"
   },
   {
     "brand": "BMW",
@@ -612,8 +612,8 @@
     "kw": "100",
     "hp": "136",
     "cc": "1995",
-    "engineCodes": "N46 B20 A  N42 B20 A",
-    "KBA_Numbers": "0005728  0005AEO"
+    "engineCodes": "N46 B20 A, N42 B20 A",
+    "KBA_Numbers": "0005728, 0005AEO"
   },
   {
     "brand": "BMW",
@@ -634,8 +634,8 @@
     "kw": "110",
     "hp": "150",
     "cc": "1995",
-    "engineCodes": "N46 B20 A  N46 B20 C",
-    "KBA_Numbers": "0005832  0005AES"
+    "engineCodes": "N46 B20 A, N46 B20 C",
+    "KBA_Numbers": "0005832, 0005AES"
   },
   {
     "brand": "BMW",
@@ -657,7 +657,7 @@
     "hp": "163",
     "cc": "2171",
     "engineCodes": "M54 B22 (226S1)",
-    "KBA_Numbers": "0005699  0005AEX"
+    "KBA_Numbers": "0005699, 0005AEX"
   },
   {
     "brand": "BMW",
@@ -668,7 +668,7 @@
     "hp": "170",
     "cc": "2171",
     "engineCodes": "M54 B22 (226S1)",
-    "KBA_Numbers": "0005698  0005AEQ"
+    "KBA_Numbers": "0005698, 0005AEQ"
   },
   {
     "brand": "BMW",
@@ -755,7 +755,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "1796",
-    "engineCodes": "N42 B18 A  N46 B18 A",
+    "engineCodes": "N42 B18 A, N46 B18 A",
     "KBA_Numbers": "0005755"
   },
   {
@@ -810,7 +810,7 @@
     "kw": "105",
     "hp": "143",
     "cc": "1995",
-    "engineCodes": "N46 B20 A  N46 B20 C  N42 B20 A",
+    "engineCodes": "N46 B20 A, N46 B20 C, N42 B20 A",
     "KBA_Numbers": "0005734"
   },
   {
@@ -854,8 +854,8 @@
     "kw": "142",
     "hp": "193",
     "cc": "2793",
-    "engineCodes": "M52 B28 (286S2)  M52 B28 (286S1)",
-    "KBA_Numbers": "0005647  0005620"
+    "engineCodes": "M52 B28 (286S2), M52 B28 (286S1)",
+    "KBA_Numbers": "0005647, 0005620"
   },
   {
     "brand": "BMW",
@@ -898,8 +898,8 @@
     "kw": "142",
     "hp": "193",
     "cc": "2793",
-    "engineCodes": "M52 B28 (286S1)  M52 B28 (286S2)",
-    "KBA_Numbers": "0005646  0005614"
+    "engineCodes": "M52 B28 (286S1), M52 B28 (286S2)",
+    "KBA_Numbers": "0005646, 0005614"
   },
   {
     "brand": "BMW",
@@ -910,7 +910,7 @@
     "hp": "150",
     "cc": "1995",
     "engineCodes": "N46 B20 B",
-    "KBA_Numbers": "0005819  0005AAT"
+    "KBA_Numbers": "0005819, 0005AAT"
   },
   {
     "brand": "BMW",

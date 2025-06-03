@@ -19,7 +19,7 @@
     "hp": "129",
     "cc": "1373",
     "engineCodes": "K14D",
-    "KBA_Numbers": "8306ADB  8306ACT"
+    "KBA_Numbers": "8306ADB, 8306ACT"
   },
   {
     "brand": "SUZUKI",
@@ -30,7 +30,7 @@
     "hp": "116",
     "cc": "1462",
     "engineCodes": "K15C",
-    "KBA_Numbers": "8306ACY  8306ADC"
+    "KBA_Numbers": "8306ACY, 8306ADC"
   },
   {
     "brand": "SUZUKI",
@@ -41,15 +41,15 @@
     "hp": "116",
     "cc": "1462",
     "engineCodes": "K15C",
-    "KBA_Numbers": "8306ACZ  8306ADD"
+    "KBA_Numbers": "8306ACZ, 8306ADD"
   },
   {
     "brand": "SUZUKI",
     "model": "SX4 S-CROSS (JY) | SX4 CROSSOVER",
     "engineType": "1.0 (AKK 310)",
-    "madeYear": "from 08.2016",
+    "madeYear": "08.2016 - 06.2022",
     "kw": "82",
-    "hp": "112",
+    "hp": "111",
     "cc": "998",
     "engineCodes": "K10C-T",
     "KBA_Numbers": "8306ACM"
@@ -58,9 +58,9 @@
     "brand": "SUZUKI",
     "model": "SX4 S-CROSS (JY) | SX4 CROSSOVER",
     "engineType": "1.0 AllGrip (AKK 310)",
-    "madeYear": "from 08.2016",
+    "madeYear": "08.2016 - 06.2022",
     "kw": "82",
-    "hp": "112",
+    "hp": "111",
     "cc": "998",
     "engineCodes": "K10C-T",
     "KBA_Numbers": "8306ACN"
@@ -69,7 +69,7 @@
     "brand": "SUZUKI",
     "model": "SX4 S-CROSS (JY) | SX4 CROSSOVER",
     "engineType": "1.4 Hybrid (Mild Hybrid) (AKK 414)",
-    "madeYear": "from 08.2019",
+    "madeYear": "08.2019 - 06.2022",
     "kw": "95",
     "hp": "129",
     "cc": "1373",
@@ -80,7 +80,7 @@
     "brand": "SUZUKI",
     "model": "SX4 S-CROSS (JY) | SX4 CROSSOVER",
     "engineType": "1.4 Hybrid (Mild Hybrid) AllGrip (AKK 414)",
-    "madeYear": "from 08.2019",
+    "madeYear": "08.2019 - 06.2022",
     "kw": "95",
     "hp": "129",
     "cc": "1373",
@@ -91,7 +91,7 @@
     "brand": "SUZUKI",
     "model": "SX4 S-CROSS (JY) | SX4 CROSSOVER",
     "engineType": "1.4 T (AKK414)",
-    "madeYear": "from 08.2016",
+    "madeYear": "08.2016 - 06.2022",
     "kw": "103",
     "hp": "140",
     "cc": "1373",
@@ -102,7 +102,7 @@
     "brand": "SUZUKI",
     "model": "SX4 S-CROSS (JY) | SX4 CROSSOVER",
     "engineType": "1.4 T AllGrip (AKK414)",
-    "madeYear": "from 08.2016",
+    "madeYear": "08.2016 - 06.2022",
     "kw": "103",
     "hp": "140",
     "cc": "1373",
@@ -113,7 +113,7 @@
     "brand": "SUZUKI",
     "model": "SX4 S-CROSS (JY) | SX4 CROSSOVER",
     "engineType": "1.6 (AKK 416)",
-    "madeYear": "from 08.2013",
+    "madeYear": "08.2013 - 06.2022",
     "kw": "88",
     "hp": "120",
     "cc": "1586",
@@ -124,7 +124,7 @@
     "brand": "SUZUKI",
     "model": "SX4 S-CROSS (JY) | SX4 CROSSOVER",
     "engineType": "1.6 (AKK416, YA22S)",
-    "madeYear": "from 12.2013",
+    "madeYear": "12.2013 - 06.2022",
     "kw": "86",
     "hp": "117",
     "cc": "1586",
@@ -135,7 +135,7 @@
     "brand": "SUZUKI",
     "model": "SX4 S-CROSS (JY) | SX4 CROSSOVER",
     "engineType": "1.6 AllGrip (AKK 416)",
-    "madeYear": "from 08.2013",
+    "madeYear": "08.2013 - 06.2022",
     "kw": "88",
     "hp": "120",
     "cc": "1586",
@@ -146,7 +146,7 @@
     "brand": "SUZUKI",
     "model": "SX4 S-CROSS (JY) | SX4 CROSSOVER",
     "engineType": "1.6 AllGrip (AKK416, YB22S)",
-    "madeYear": "from 12.2013",
+    "madeYear": "12.2013 - 06.2022",
     "kw": "86",
     "hp": "117",
     "cc": "1586",
@@ -157,7 +157,7 @@
     "brand": "SUZUKI",
     "model": "SX4 S-CROSS (JY) | SX4 CROSSOVER",
     "engineType": "1.6 DDiS (AKK 416D)",
-    "madeYear": "from 08.2013",
+    "madeYear": "08.2013 - 06.2022",
     "kw": "88",
     "hp": "120",
     "cc": "1598",
@@ -168,7 +168,7 @@
     "brand": "SUZUKI",
     "model": "SX4 S-CROSS (JY) | SX4 CROSSOVER",
     "engineType": "1.6 DDiS AllGrip (AKK 416D)",
-    "madeYear": "from 08.2013",
+    "madeYear": "08.2013 - 06.2022",
     "kw": "88",
     "hp": "120",
     "cc": "1598",
@@ -206,7 +206,7 @@
     "hp": "129",
     "cc": "1373",
     "engineCodes": "K14D",
-    "KBA_Numbers": "8306ACQ  8306ADE"
+    "KBA_Numbers": "8306ACQ, 8306ADE"
   },
   {
     "brand": "SUZUKI",
@@ -217,7 +217,7 @@
     "hp": "129",
     "cc": "1373",
     "engineCodes": "K14D",
-    "KBA_Numbers": "8306ACR  8306ADF"
+    "KBA_Numbers": "8306ACR, 8306ADF"
   },
   {
     "brand": "SUZUKI",

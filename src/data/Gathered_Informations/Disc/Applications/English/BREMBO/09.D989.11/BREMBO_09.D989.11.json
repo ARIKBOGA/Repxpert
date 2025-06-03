@@ -7,7 +7,7 @@
     "kw": "142",
     "hp": "193",
     "cc": "1498",
-    "engineCodes": "L15BH  L15BG  L15BE  L15BY",
+    "engineCodes": "L15BH, L15BG, L15BE, L15BY",
     "KBA_Numbers": "7100ADZ"
   },
   {
@@ -41,7 +41,7 @@
     "hp": "173",
     "cc": "1498",
     "engineCodes": "L15BY",
-    "KBA_Numbers": "7100ADY  7100AEC"
+    "KBA_Numbers": "7100ADY, 7100AEC"
   },
   {
     "brand": "HONDA",
@@ -62,7 +62,7 @@
     "kw": "158",
     "hp": "215",
     "cc": "1993",
-    "engineCodes": "LFB2  LFB1",
+    "engineCodes": "LFB2, LFB1",
     "KBA_Numbers": "7100AEF"
   }
 ]

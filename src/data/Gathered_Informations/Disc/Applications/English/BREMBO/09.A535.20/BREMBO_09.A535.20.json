@@ -7,8 +7,8 @@
     "kw": "73",
     "hp": "99",
     "cc": "1329",
-    "engineCodes": "1NR-FKE  1NR-FE",
-    "KBA_Numbers": "7106ACR  7106ADA"
+    "engineCodes": "1NR-FKE, 1NR-FE",
+    "KBA_Numbers": "7106ACR, 7106ADA"
   },
   {
     "brand": "SUBARU",
@@ -19,7 +19,7 @@
     "hp": "90",
     "cc": "1364",
     "engineCodes": "1ND-TV",
-    "KBA_Numbers": "7106ACQ  7106ACZ"
+    "KBA_Numbers": "7106ACQ, 7106ACZ"
   },
   {
     "brand": "TOYOTA",
@@ -29,7 +29,7 @@
     "kw": "90",
     "hp": "122",
     "cc": "1598",
-    "engineCodes": "1ZR-FE  1ZR-FAE",
+    "engineCodes": "1ZR-FE, 1ZR-FAE",
     "KBA_Numbers": ""
   },
   {
@@ -51,7 +51,7 @@
     "kw": "90",
     "hp": "122",
     "cc": "1598",
-    "engineCodes": "1ZR-FE  1ZR-FAE",
+    "engineCodes": "1ZR-FE, 1ZR-FAE",
     "KBA_Numbers": ""
   },
   {
@@ -118,7 +118,7 @@
     "hp": "99",
     "cc": "1329",
     "engineCodes": "1NR-FE",
-    "KBA_Numbers": "5013AGY  5013AHK"
+    "KBA_Numbers": "5013AGY, 5013AHK"
   },
   {
     "brand": "TOYOTA",
@@ -129,6 +129,6 @@
     "hp": "90",
     "cc": "1364",
     "engineCodes": "1ND-TV",
-    "KBA_Numbers": "5013AGK  5013AHJ"
+    "KBA_Numbers": "5013AGK, 5013AHJ"
   }
 ]

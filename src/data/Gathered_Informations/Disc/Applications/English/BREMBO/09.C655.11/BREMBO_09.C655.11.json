@@ -7,7 +7,7 @@
     "kw": "185",
     "hp": "252",
     "cc": "1798",
-    "engineCodes": "M5P 400  M5P 404  M5P 610",
+    "engineCodes": "M5P 400, M5P 404, M5P 610",
     "KBA_Numbers": "3033AAA"
   },
   {
@@ -19,7 +19,7 @@
     "hp": "300",
     "cc": "1798",
     "engineCodes": "M5P 610",
-    "KBA_Numbers": "3033AAC  3233AAA"
+    "KBA_Numbers": "3033AAC, 3233AAA"
   },
   {
     "brand": "ALPINE",
@@ -29,7 +29,7 @@
     "kw": "215",
     "hp": "292",
     "cc": "1798",
-    "engineCodes": "M5P 424  M5P 610",
+    "engineCodes": "M5P 424, M5P 610",
     "KBA_Numbers": "3033AAB"
   },
   {
@@ -95,8 +95,8 @@
     "kw": "90",
     "hp": "122",
     "cc": "780.690",
-    "engineCodes": "2222BKM",
-    "KBA_Numbers": ""
+    "engineCodes": "780.690",
+    "KBA_Numbers": "2222BKM"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -161,8 +161,8 @@
     "kw": "90",
     "hp": "122",
     "cc": "780.690",
-    "engineCodes": "2222BMB",
-    "KBA_Numbers": ""
+    "engineCodes": "780.690",
+    "KBA_Numbers": "2222BMB"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -260,8 +260,8 @@
     "kw": "90",
     "hp": "122",
     "cc": "5AQ60",
-    "engineCodes": "2228ABO",
-    "KBA_Numbers": ""
+    "engineCodes": "5AQ60",
+    "KBA_Numbers": "2228ABO"
   },
   {
     "brand": "RENAULT",
@@ -315,7 +315,7 @@
     "kw": "85",
     "hp": "116",
     "cc": "1461",
-    "engineCodes": "K9K 876  K9K 877",
+    "engineCodes": "K9K 876, K9K 877",
     "KBA_Numbers": "3333BPG"
   },
   {
@@ -337,7 +337,7 @@
     "kw": "70",
     "hp": "95",
     "cc": "1461",
-    "engineCodes": "K9K 876  K9K 877",
+    "engineCodes": "K9K 876, K9K 877",
     "KBA_Numbers": "3333BPD"
   },
   {
@@ -348,7 +348,7 @@
     "kw": "85",
     "hp": "116",
     "cc": "1461",
-    "engineCodes": "K9K 876  K9K 877",
+    "engineCodes": "K9K 876, K9K 877",
     "KBA_Numbers": "3333BPO"
   },
   {
@@ -360,7 +360,7 @@
     "hp": "75",
     "cc": "1461",
     "engineCodes": "K9K 876",
-    "KBA_Numbers": "3333BPK  3333BNN"
+    "KBA_Numbers": "3333BPK, 3333BNN"
   },
   {
     "brand": "RENAULT",
@@ -370,8 +370,8 @@
     "kw": "70",
     "hp": "95",
     "cc": "1461",
-    "engineCodes": "K9K 876  K9K 877",
-    "KBA_Numbers": "3333BPL  3333BNO"
+    "engineCodes": "K9K 876, K9K 877",
+    "KBA_Numbers": "3333BPL, 3333BNO"
   },
   {
     "brand": "RENAULT",
@@ -382,7 +382,7 @@
     "hp": "102",
     "cc": "1332",
     "engineCodes": "H5H 490",
-    "KBA_Numbers": "3333BII  3333BPI"
+    "KBA_Numbers": "3333BII, 3333BPI"
   },
   {
     "brand": "RENAULT",
@@ -393,7 +393,7 @@
     "hp": "131",
     "cc": "1332",
     "engineCodes": "H5H 490",
-    "KBA_Numbers": "3333BPJ  3333BNL"
+    "KBA_Numbers": "3333BPJ, 3333BNL"
   },
   {
     "brand": "RENAULT",
@@ -403,7 +403,7 @@
     "kw": "120",
     "hp": "163",
     "cc": "1332",
-    "engineCodes": "H5H 470  H5H 450  H5H 490",
+    "engineCodes": "H5H 470, H5H 450, H5H 490",
     "KBA_Numbers": "3333BJJ"
   },
   {
@@ -425,7 +425,7 @@
     "kw": "116",
     "hp": "158",
     "cc": "1332",
-    "engineCodes": "H5H 490  H5H 450  H5H 470",
+    "engineCodes": "H5H 490, H5H 450, H5H 470",
     "KBA_Numbers": "3333BNS"
   },
   {
@@ -469,7 +469,7 @@
     "kw": "85",
     "hp": "116",
     "cc": "1332",
-    "engineCodes": "H5H 470  H5H 450",
+    "engineCodes": "H5H 470, H5H 450",
     "KBA_Numbers": "3333BJH"
   },
   {
@@ -480,7 +480,7 @@
     "kw": "120",
     "hp": "163",
     "cc": "1332",
-    "engineCodes": "H5H 470  H5H 450",
+    "engineCodes": "H5H 470, H5H 450",
     "KBA_Numbers": "3333BJG"
   },
   {
@@ -502,7 +502,7 @@
     "kw": "116",
     "hp": "158",
     "cc": "1332",
-    "engineCodes": "H5H 450  H5H 470  H5H 490",
+    "engineCodes": "H5H 450, H5H 470, H5H 490",
     "KBA_Numbers": "3333BNR"
   },
   {
@@ -546,7 +546,7 @@
     "kw": "85",
     "hp": "116",
     "cc": "1332",
-    "engineCodes": "H5H 470  H5H 450",
+    "engineCodes": "H5H 470, H5H 450",
     "KBA_Numbers": "3333BMO"
   },
   {
@@ -557,7 +557,7 @@
     "kw": "103",
     "hp": "140",
     "cc": "1332",
-    "engineCodes": "H5H 450  H5H 470  H5H 490",
+    "engineCodes": "H5H 450, H5H 470, H5H 490",
     "KBA_Numbers": "3333BMM"
   },
   {
@@ -579,7 +579,7 @@
     "kw": "84",
     "hp": "115",
     "cc": "1598",
-    "engineCodes": "H4M 751  H4M 750  H4M 738",
+    "engineCodes": "H4M 751, H4M 750, H4M 738",
     "KBA_Numbers": ""
   },
   {
@@ -590,7 +590,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1461",
-    "engineCodes": "K9K 647  K9K 646",
+    "engineCodes": "K9K 647, K9K 646",
     "KBA_Numbers": "3333BEP"
   },
   {
@@ -623,7 +623,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1461",
-    "engineCodes": "K9K 647  K9K 646  K9K 649  K9K 648",
+    "engineCodes": "K9K 647, K9K 646, K9K 649, K9K 648",
     "KBA_Numbers": "3333BFC"
   },
   {

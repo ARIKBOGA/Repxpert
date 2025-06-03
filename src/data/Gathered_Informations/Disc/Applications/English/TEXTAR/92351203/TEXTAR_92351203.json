@@ -1,0 +1,200 @@
+[
+  {
+    "brand": "BYD",
+    "model": "DOLPHIN",
+    "engineType": "EV",
+    "madeYear": "from 08.2021",
+    "kw": "70",
+    "hp": "95",
+    "cc": "TZ180XSF",
+    "engineCodes": "TZ180XSF",
+    "KBA_Numbers": "2160AAF, 2160AAK, 2439AAB"
+  },
+  {
+    "brand": "BYD",
+    "model": "DOLPHIN",
+    "engineType": "EV",
+    "madeYear": "from 08.2021",
+    "kw": "130",
+    "hp": "177",
+    "cc": "TZ200XSW",
+    "engineCodes": "TZ200XSW",
+    "KBA_Numbers": "2439AAC"
+  },
+  {
+    "brand": "HYUNDAI",
+    "model": "KONA (SX2)",
+    "engineType": "1.0 T-GDi",
+    "madeYear": "from 04.2023",
+    "kw": "74",
+    "hp": "101",
+    "cc": "998",
+    "engineCodes": "G3LE",
+    "KBA_Numbers": "8252ALR"
+  },
+  {
+    "brand": "HYUNDAI",
+    "model": "KONA (SX2)",
+    "engineType": "1.0 T-GDi",
+    "madeYear": "from 04.2023",
+    "kw": "88",
+    "hp": "120",
+    "cc": "998",
+    "engineCodes": "G3LE",
+    "KBA_Numbers": "8252ALF"
+  },
+  {
+    "brand": "HYUNDAI",
+    "model": "KONA (SX2)",
+    "engineType": "1.0 T-GDi Hybrid 48V",
+    "madeYear": "from 04.2023",
+    "kw": "74",
+    "hp": "101",
+    "cc": "998",
+    "engineCodes": "G3LE",
+    "KBA_Numbers": "8252ALS"
+  },
+  {
+    "brand": "HYUNDAI",
+    "model": "KONA (SX2)",
+    "engineType": "1.0 T-GDi Hybrid 48V",
+    "madeYear": "from 04.2023",
+    "kw": "88",
+    "hp": "120",
+    "cc": "998",
+    "engineCodes": "G3LE, G3LF",
+    "KBA_Numbers": "8252ALB, 8252ALG"
+  },
+  {
+    "brand": "HYUNDAI",
+    "model": "KONA (SX2)",
+    "engineType": "1.6 GDi Hybrid",
+    "madeYear": "from 04.2024",
+    "kw": "95",
+    "hp": "129",
+    "cc": "1580",
+    "engineCodes": "G4LL",
+    "KBA_Numbers": "8252ALV"
+  },
+  {
+    "brand": "HYUNDAI",
+    "model": "KONA (SX2)",
+    "engineType": "1.6 T-GDi",
+    "madeYear": "from 04.2023",
+    "kw": "146",
+    "hp": "199",
+    "cc": "1598",
+    "engineCodes": "G4FP",
+    "KBA_Numbers": "8252ALH"
+  },
+  {
+    "brand": "HYUNDAI",
+    "model": "KONA (SX2)",
+    "engineType": "1.6 T-GDi",
+    "madeYear": "from 04.2024",
+    "kw": "125",
+    "hp": "170",
+    "cc": "1598",
+    "engineCodes": "G4FP",
+    "KBA_Numbers": "8252ALT"
+  },
+  {
+    "brand": "HYUNDAI",
+    "model": "KONA (SX2)",
+    "engineType": "1.6 T-GDi",
+    "madeYear": "from 09.2024",
+    "kw": "102",
+    "hp": "139",
+    "cc": "1598",
+    "engineCodes": "G4FP",
+    "KBA_Numbers": "8252ALW"
+  },
+  {
+    "brand": "HYUNDAI",
+    "model": "KONA (SX2)",
+    "engineType": "1.6 T-GDi 4WD",
+    "madeYear": "from 04.2023",
+    "kw": "146",
+    "hp": "199",
+    "cc": "1598",
+    "engineCodes": "G4FP",
+    "KBA_Numbers": "8252ALI"
+  },
+  {
+    "brand": "HYUNDAI",
+    "model": "KONA (SX2)",
+    "engineType": "1.6 T-GDi 4WD",
+    "madeYear": "from 04.2024",
+    "kw": "125",
+    "hp": "170",
+    "cc": "1598",
+    "engineCodes": "G4FP",
+    "KBA_Numbers": "8252ALU"
+  },
+  {
+    "brand": "HYUNDAI",
+    "model": "KONA (SX2)",
+    "engineType": "1.6 T-GDi Hybrid",
+    "madeYear": "from 04.2023",
+    "kw": "104",
+    "hp": "141",
+    "cc": "1580",
+    "engineCodes": "G4LE",
+    "KBA_Numbers": "8252ALJ"
+  },
+  {
+    "brand": "KIA",
+    "model": "NIRO II (SG2)",
+    "engineType": "1.6 GDi Hybrid",
+    "madeYear": "from 04.2022",
+    "kw": "104",
+    "hp": "141",
+    "cc": "1580",
+    "engineCodes": "G4LL",
+    "KBA_Numbers": "2233ABN"
+  },
+  {
+    "brand": "KIA",
+    "model": "NIRO II (SG2)",
+    "engineType": "1.6 GDi Hybrid",
+    "madeYear": "from 05.2024",
+    "kw": "95",
+    "hp": "129",
+    "cc": "1580",
+    "engineCodes": "G4LL",
+    "KBA_Numbers": "2233ABV"
+  },
+  {
+    "brand": "KIA",
+    "model": "NIRO II (SG2)",
+    "engineType": "1.6 GDi Plug-in Hybrid",
+    "madeYear": "from 04.2022",
+    "kw": "134",
+    "hp": "182",
+    "cc": "1580",
+    "engineCodes": "G4LL",
+    "KBA_Numbers": "2233ABO"
+  },
+  {
+    "brand": "KIA",
+    "model": "NIRO II (SG2)",
+    "engineType": "1.6 GDi Plug-in Hybrid",
+    "madeYear": "from 05.2024",
+    "kw": "126",
+    "hp": "171",
+    "cc": "1580",
+    "engineCodes": "G4LL",
+    "KBA_Numbers": "2233ABW"
+  },
+  {
+    "brand": "KIA",
+    "model": "NIRO II (SG2)",
+    "engineType": "EV",
+    "madeYear": "from 05.2022",
+    "kw": "150",
+    "hp": "204",
+    "cc": "2233ABP",
+    "engineCodes": "",
+    "KBA_Numbers": "2233ABP"
+  }
+]

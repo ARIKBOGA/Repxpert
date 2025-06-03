@@ -2,6 +2,7 @@ import fs from "fs-extra";
 import path from "path";
 import glob from "fast-glob";
 import * as XLSX from "xlsx";
+import dotenv from 'dotenv';
 import { Application } from "../types/Application";
 import { extractYears } from "../utils/extractHelpers";
 import initialMarkaData from "../data/katalogInfo/jsons/marka_new.json"; // Statik import
@@ -9,45 +10,22 @@ import initialModelData from "../data/katalogInfo/jsons/model_new.json";   // St
 import { formatDateTime } from "../utils/DateHelper";
 import { debuglog } from "util"; // Hata ayıklama logları için
 import { Locale } from "locale-enum";
+import { ModelData, ModelMatch, UnmatchedModel, LookupExcelRow } from "../types/AppToJson_Types";
+
+// .env dosyasındaki ortam değişkenlerini yükle
+dotenv.config({ path: path.resolve(__dirname, '../data/Configs/.env') });
 
 // Hata ayıklama loglarını etkinleştirmek için bir env değişkeni kullanabilirsiniz:
 // export NODE_DEBUG=excel-app (ya da uygulamanızın adı)
 const logDebug = debuglog('excel-app');
 
-interface ModelData {
-  id: number;
-  marka_id: number;
-  ["modeller_markalar::marka"]: string;
-  model: string;
-  model_Web: string;
-}
-
-interface ModelMatch {
-  original: string;
-  normalized: string;
-  model_id: number;
-  marka_id: number | null;
-}
-
-interface MarkaData {
-  [key: string]: string;
-}
-
-type LookupExcelRow = {
-  YV?: string;
-  BREMBO?: string;
-  TRW?: string;
-  ICER?: string;
-  TEXTAR?: string;
-  [key: string]: string | undefined;
-};
-
-const filterBrand = "TRW";
+const filterBrand = process.env.FILTER_BRAND_APPLICATION as string;
+const productType = process.env.PRODUCT_TYPE as string;
 const formattedDate = formatDateTime(new Date());
 
-const OUTPUT_FILE = `English_DISC_APPLICATIONS_${filterBrand}_${formattedDate.numericDate}.xlsx`;
-const ROOT_PATH = `src/data/Gathered_Informations/Discs/Applications/English/${filterBrand}`;
-const LOOKUP_FILE_PATH = "src/data/katalogInfo/excels/Discs_katalog_full.xlsx";
+const OUTPUT_FILE = `English_${productType}_APPLICATIONS_${filterBrand}_${formattedDate.numericDate}.xlsx`;
+const ROOT_PATH = `src/data/Gathered_Informations/${productType}/Applications/English/${filterBrand}`;
+const LOOKUP_FILE_PATH = `src/data/katalogInfo/excels/${productType}_katalog_full.xlsx`;
 const MODEL_MATCH_POOL_PATH = "src/data/katalogInfo/jsons/modelMatchPool.json";
 
 // Arama hızını artırmak için tüm veri Excel'den okunup MAP'te saklandı
@@ -149,7 +127,7 @@ async function main() {
   // Model verilerini bir kez import edip Map'e dönüştürüyoruz
   const modelDataMap = new Map<string, ModelData>();
   (initialModelData as ModelData[]).forEach(model => {
-    modelDataMap.set(model.model.trim(), model);
+    modelDataMap.set(model["modeller_markalar::marka"].trim() + "_" + model.model.trim(), model);
   });
   logDebug("Model Map'i oluşturuldu.");
 
@@ -209,7 +187,7 @@ async function main() {
         const { start, end } = extractYears(app.madeYear, Locale.en_US);
 
         const marka_id = markaNameToIdMap.get(app.brand.trim()) ?? null;
-        const modelEntry = modelDataMap.get(app.model.trim());
+        const modelEntry = modelDataMap.get(app.brand.trim() + "_" + app.model.trim());
         const model_id = modelEntry ? modelEntry.id : null;
 
         // Yeni model eşleşmesi bulunursa havuza ekle
@@ -270,7 +248,7 @@ async function main() {
     console.log("\nℹ️ Yeni model eşleşmesi bulunamadı.");
   }
 
-  const outputPath = "src/data/Gathered_Informations/Discs/Applications/excels";
+  const outputPath = `src/data/Gathered_Informations/${productType}/Applications/excels`;
   // Çıktı klasörünü kontrol et ve gerekirse oluştur
   await fs.ensureDir(outputPath);
 

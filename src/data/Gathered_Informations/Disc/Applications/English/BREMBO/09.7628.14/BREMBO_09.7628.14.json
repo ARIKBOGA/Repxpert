@@ -227,7 +227,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1389",
-    "engineCodes": "X 14 XE  Z 14 XE",
+    "engineCodes": "X 14 XE, Z 14 XE",
     "KBA_Numbers": "0035351"
   },
   {
@@ -238,7 +238,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1389",
-    "engineCodes": "Z 14 XE  X 14 XE",
+    "engineCodes": "Z 14 XE, X 14 XE",
     "KBA_Numbers": ""
   },
   {
@@ -282,8 +282,8 @@
     "kw": "74",
     "hp": "101",
     "cc": "1598",
-    "engineCodes": "X 16 XEL  Z 16 XE",
-    "KBA_Numbers": "0035353  0035359"
+    "engineCodes": "X 16 XEL, Z 16 XE",
+    "KBA_Numbers": "0035353, 0035359"
   },
   {
     "brand": "OPEL",
@@ -304,7 +304,7 @@
     "kw": "74",
     "hp": "101",
     "cc": "1598",
-    "engineCodes": "Z 16 XE  X 16 XEL",
+    "engineCodes": "Z 16 XE, X 16 XEL",
     "KBA_Numbers": ""
   },
   {
@@ -381,7 +381,7 @@
     "kw": "60",
     "hp": "82",
     "cc": "1995",
-    "engineCodes": "Y 20 DTL  X 20 DTL",
+    "engineCodes": "Y 20 DTL, X 20 DTL",
     "KBA_Numbers": "0035356"
   },
   {
@@ -480,7 +480,7 @@
     "kw": "60",
     "hp": "82",
     "cc": "1995",
-    "engineCodes": "X 20 DTL  Y 20 DTL",
+    "engineCodes": "X 20 DTL, Y 20 DTL",
     "KBA_Numbers": "0039133"
   },
   {
@@ -524,7 +524,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1389",
-    "engineCodes": "X 14 XE  Z 14 XE",
+    "engineCodes": "X 14 XE, Z 14 XE",
     "KBA_Numbers": "0035343"
   },
   {
@@ -535,7 +535,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1389",
-    "engineCodes": "Z 14 XE  X 14 XE",
+    "engineCodes": "Z 14 XE, X 14 XE",
     "KBA_Numbers": ""
   },
   {
@@ -569,7 +569,7 @@
     "hp": "103",
     "cc": "1598",
     "engineCodes": "Z 16 XEP",
-    "KBA_Numbers": "0035470  0035AIA"
+    "KBA_Numbers": "0035470, 0035AIA"
   },
   {
     "brand": "OPEL",
@@ -579,8 +579,8 @@
     "kw": "74",
     "hp": "101",
     "cc": "1598",
-    "engineCodes": "Z 16 XE  X 16 XEL",
-    "KBA_Numbers": "0035345  0035358"
+    "engineCodes": "Z 16 XE, X 16 XEL",
+    "KBA_Numbers": "0035345, 0035358"
   },
   {
     "brand": "OPEL",
@@ -601,7 +601,7 @@
     "kw": "74",
     "hp": "101",
     "cc": "1598",
-    "engineCodes": "Z 16 XE  X 16 XEL",
+    "engineCodes": "Z 16 XE, X 16 XEL",
     "KBA_Numbers": ""
   },
   {
@@ -624,7 +624,7 @@
     "hp": "80",
     "cc": "1686",
     "engineCodes": "Z 17 DTL",
-    "KBA_Numbers": "0035497  0035AHZ"
+    "KBA_Numbers": "0035497, 0035AHZ"
   },
   {
     "brand": "OPEL",
@@ -678,7 +678,7 @@
     "kw": "60",
     "hp": "82",
     "cc": "1995",
-    "engineCodes": "X 20 DTL  Y 20 DTL",
+    "engineCodes": "X 20 DTL, Y 20 DTL",
     "KBA_Numbers": "0035348"
   },
   {
@@ -711,7 +711,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1389",
-    "engineCodes": "Z 14 XE  X 14 XE",
+    "engineCodes": "Z 14 XE, X 14 XE",
     "KBA_Numbers": "0035361"
   },
   {
@@ -722,7 +722,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1389",
-    "engineCodes": "X 14 XE  Z 14 XE",
+    "engineCodes": "X 14 XE, Z 14 XE",
     "KBA_Numbers": ""
   },
   {
@@ -756,7 +756,7 @@
     "hp": "103",
     "cc": "1598",
     "engineCodes": "Z 16 XEP",
-    "KBA_Numbers": "0035476  0035AHX"
+    "KBA_Numbers": "0035476, 0035AHX"
   },
   {
     "brand": "OPEL",
@@ -766,7 +766,7 @@
     "kw": "74",
     "hp": "101",
     "cc": "1598",
-    "engineCodes": "Z 16 XE  X 16 XEL",
+    "engineCodes": "Z 16 XE, X 16 XEL",
     "KBA_Numbers": "0035363"
   },
   {
@@ -799,7 +799,7 @@
     "kw": "74",
     "hp": "101",
     "cc": "1598",
-    "engineCodes": "X 16 XEL  Z 16 XE",
+    "engineCodes": "X 16 XEL, Z 16 XE",
     "KBA_Numbers": ""
   },
   {
@@ -811,7 +811,7 @@
     "hp": "80",
     "cc": "1686",
     "engineCodes": "Z 17 DTL",
-    "KBA_Numbers": "0035495  0035AHW"
+    "KBA_Numbers": "0035495, 0035AHW"
   },
   {
     "brand": "OPEL",
@@ -865,7 +865,7 @@
     "kw": "60",
     "hp": "82",
     "cc": "1995",
-    "engineCodes": "X 20 DTL  Y 20 DTL",
+    "engineCodes": "X 20 DTL, Y 20 DTL",
     "KBA_Numbers": "0035366"
   },
   {
@@ -964,7 +964,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1389",
-    "engineCodes": "Z 14 XE  X 14 XE",
+    "engineCodes": "Z 14 XE, X 14 XE",
     "KBA_Numbers": ""
   },
   {
@@ -975,7 +975,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1389",
-    "engineCodes": "X 14 XE  Z 14 XE",
+    "engineCodes": "X 14 XE, Z 14 XE",
     "KBA_Numbers": ""
   },
   {
@@ -1019,7 +1019,7 @@
     "kw": "74",
     "hp": "101",
     "cc": "1598",
-    "engineCodes": "X 16 XEL  Z 16 XE",
+    "engineCodes": "X 16 XEL, Z 16 XE",
     "KBA_Numbers": ""
   },
   {
@@ -1052,7 +1052,7 @@
     "kw": "74",
     "hp": "101",
     "cc": "1598",
-    "engineCodes": "X 16 XEL  Z 16 XE",
+    "engineCodes": "X 16 XEL, Z 16 XE",
     "KBA_Numbers": ""
   },
   {
@@ -1151,7 +1151,7 @@
     "kw": "60",
     "hp": "82",
     "cc": "1995",
-    "engineCodes": "X 20 DTL  Y 20 DTL",
+    "engineCodes": "X 20 DTL, Y 20 DTL",
     "KBA_Numbers": ""
   },
   {
@@ -1162,7 +1162,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1389",
-    "engineCodes": "X 14 XE  Z 14 XE",
+    "engineCodes": "X 14 XE, Z 14 XE",
     "KBA_Numbers": ""
   },
   {
@@ -1173,7 +1173,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1389",
-    "engineCodes": "Z 14 XE  X 14 XE",
+    "engineCodes": "Z 14 XE, X 14 XE",
     "KBA_Numbers": ""
   },
   {
@@ -1217,7 +1217,7 @@
     "kw": "74",
     "hp": "101",
     "cc": "1598",
-    "engineCodes": "X 16 XEL  Z 16 XE",
+    "engineCodes": "X 16 XEL, Z 16 XE",
     "KBA_Numbers": ""
   },
   {
@@ -1250,7 +1250,7 @@
     "kw": "74",
     "hp": "101",
     "cc": "1598",
-    "engineCodes": "X 16 XEL  Z 16 XE",
+    "engineCodes": "X 16 XEL, Z 16 XE",
     "KBA_Numbers": ""
   },
   {
@@ -1349,7 +1349,7 @@
     "kw": "60",
     "hp": "82",
     "cc": "1995",
-    "engineCodes": "X 20 DTL  Y 20 DTL",
+    "engineCodes": "X 20 DTL, Y 20 DTL",
     "KBA_Numbers": ""
   },
   {
@@ -1360,7 +1360,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1389",
-    "engineCodes": "X 14 XE  Z 14 XE",
+    "engineCodes": "X 14 XE, Z 14 XE",
     "KBA_Numbers": ""
   },
   {
@@ -1393,7 +1393,7 @@
     "kw": "74",
     "hp": "101",
     "cc": "1598",
-    "engineCodes": "X 16 XEL  Z 16 XE",
+    "engineCodes": "X 16 XEL, Z 16 XE",
     "KBA_Numbers": ""
   },
   {
@@ -1415,7 +1415,7 @@
     "kw": "74",
     "hp": "101",
     "cc": "1598",
-    "engineCodes": "X 16 XEL  Z 16 XE",
+    "engineCodes": "X 16 XEL, Z 16 XE",
     "KBA_Numbers": ""
   },
   {
@@ -1525,7 +1525,7 @@
     "kw": "60",
     "hp": "82",
     "cc": "1995",
-    "engineCodes": "X 20 DTL  Y 20 DTL",
+    "engineCodes": "X 20 DTL, Y 20 DTL",
     "KBA_Numbers": ""
   },
   {
@@ -1646,7 +1646,7 @@
     "kw": "60",
     "hp": "82",
     "cc": "1995",
-    "engineCodes": "X 20 DTL  Y 20 DTL",
+    "engineCodes": "X 20 DTL, Y 20 DTL",
     "KBA_Numbers": ""
   },
   {

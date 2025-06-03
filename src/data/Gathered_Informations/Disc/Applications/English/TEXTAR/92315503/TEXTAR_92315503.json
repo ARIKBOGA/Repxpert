@@ -7,7 +7,7 @@
     "kw": "92",
     "hp": "125",
     "cc": "998",
-    "engineCodes": "M1JU  M1JJ  M1JC",
+    "engineCodes": "M1JU, M1JJ, M1JC",
     "KBA_Numbers": "8566BGW"
   },
   {
@@ -18,7 +18,7 @@
     "kw": "103",
     "hp": "140",
     "cc": "998",
-    "engineCodes": "YYJD  YYJF",
+    "engineCodes": "YYJD, YYJF",
     "KBA_Numbers": "8566BMR"
   },
   {
@@ -84,7 +84,7 @@
     "kw": "74",
     "hp": "100",
     "cc": "1499",
-    "engineCodes": "UGJM  XUJH",
+    "engineCodes": "UGJM, XUJH",
     "KBA_Numbers": "8566BPG"
   },
   {
@@ -95,7 +95,7 @@
     "kw": "92",
     "hp": "125",
     "cc": "1499",
-    "engineCodes": "ZTJC  ZTJB  ZTJA",
+    "engineCodes": "ZTJC, ZTJB, ZTJA",
     "KBA_Numbers": "8566BPY"
   },
   {
@@ -106,8 +106,8 @@
     "kw": "88",
     "hp": "120",
     "cc": "1499",
-    "engineCodes": "8566BTS",
-    "KBA_Numbers": ""
+    "engineCodes": "",
+    "KBA_Numbers": "8566BTS"
   },
   {
     "brand": "FORD",
@@ -117,7 +117,7 @@
     "kw": "92",
     "hp": "125",
     "cc": "1499",
-    "engineCodes": "ZTJC  ZTJA  ZTJB",
+    "engineCodes": "ZTJC, ZTJA, ZTJB",
     "KBA_Numbers": "8566BPH"
   },
   {
@@ -128,7 +128,7 @@
     "kw": "82",
     "hp": "112",
     "cc": "1499",
-    "engineCodes": "UEJB  UEJE",
+    "engineCodes": "UEJB, UEJE",
     "KBA_Numbers": "8566BGX"
   },
   {
@@ -150,7 +150,7 @@
     "kw": "90",
     "hp": "122",
     "cc": "1596",
-    "engineCodes": "IQJB  HXJD",
+    "engineCodes": "IQJB, HXJD",
     "KBA_Numbers": ""
   },
   {

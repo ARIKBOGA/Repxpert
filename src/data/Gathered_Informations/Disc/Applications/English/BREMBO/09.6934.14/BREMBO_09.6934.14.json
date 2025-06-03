@@ -7,7 +7,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1896",
-    "engineCodes": "1Z  AHU  ANU",
+    "engineCodes": "1Z, AHU, ANU",
     "KBA_Numbers": "0928908"
   },
   {
@@ -18,7 +18,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1896",
-    "engineCodes": "AVG  AFN",
+    "engineCodes": "AVG, AFN",
     "KBA_Numbers": "0928287"
   },
   {
@@ -40,7 +40,7 @@
     "kw": "85",
     "hp": "116",
     "cc": "1998",
-    "engineCodes": "ZVSA  NSE",
+    "engineCodes": "ZVSA, NSE",
     "KBA_Numbers": "0928909"
   },
   {
@@ -51,7 +51,7 @@
     "kw": "107",
     "hp": "146",
     "cc": "2295",
-    "engineCodes": "E5SA  Y5B",
+    "engineCodes": "E5SA, Y5B",
     "KBA_Numbers": "0928968"
   },
   {
@@ -62,7 +62,7 @@
     "kw": "128",
     "hp": "174",
     "cc": "2792",
-    "engineCodes": "AMY  AAA",
+    "engineCodes": "AMY, AAA",
     "KBA_Numbers": "0928910"
   },
   {
@@ -73,7 +73,7 @@
     "kw": "128",
     "hp": "174",
     "cc": "2792",
-    "engineCodes": "AMY  AAA",
+    "engineCodes": "AMY, AAA",
     "KBA_Numbers": "0928951"
   },
   {
@@ -84,7 +84,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1896",
-    "engineCodes": "AHU  ANU",
+    "engineCodes": "AHU, ANU",
     "KBA_Numbers": ""
   },
   {
@@ -106,7 +106,7 @@
     "kw": "85",
     "hp": "116",
     "cc": "1998",
-    "engineCodes": "ZVSA  NSE",
+    "engineCodes": "ZVSA, NSE",
     "KBA_Numbers": ""
   },
   {
@@ -139,8 +139,8 @@
     "kw": "110",
     "hp": "150",
     "cc": "1781",
-    "engineCodes": "AJH  AWC",
-    "KBA_Numbers": "7593434  7593AAM  7593AAN"
+    "engineCodes": "AJH, AWC",
+    "KBA_Numbers": "7593434, 7593AAM, 7593AAN"
   },
   {
     "brand": "SEAT",
@@ -150,8 +150,8 @@
     "kw": "66",
     "hp": "90",
     "cc": "1896",
-    "engineCodes": "ANU  AHU  1Z",
-    "KBA_Numbers": "7593383  7593AAF"
+    "engineCodes": "ANU, AHU, 1Z",
+    "KBA_Numbers": "7593383, 7593AAF"
   },
   {
     "brand": "SEAT",
@@ -161,7 +161,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1896",
-    "engineCodes": "AFN  AVG",
+    "engineCodes": "AFN, AVG",
     "KBA_Numbers": "7593390"
   },
   {
@@ -172,8 +172,8 @@
     "kw": "85",
     "hp": "115",
     "cc": "1896",
-    "engineCodes": "BVK  AUY",
-    "KBA_Numbers": "7593484  7593AAI  7593AAJ"
+    "engineCodes": "BVK, AUY",
+    "KBA_Numbers": "7593484, 7593AAI, 7593AAJ"
   },
   {
     "brand": "SEAT",
@@ -183,8 +183,8 @@
     "kw": "85",
     "hp": "115",
     "cc": "1896",
-    "engineCodes": "BVK  AUY",
-    "KBA_Numbers": "7593490  7593AAK  7593AAL"
+    "engineCodes": "BVK, AUY",
+    "KBA_Numbers": "7593490, 7593AAK, 7593AAL"
   },
   {
     "brand": "SEAT",
@@ -194,8 +194,8 @@
     "kw": "85",
     "hp": "115",
     "cc": "1984",
-    "engineCodes": "ADY  ATM",
-    "KBA_Numbers": "7593382  7593AAH"
+    "engineCodes": "ADY, ATM",
+    "KBA_Numbers": "7593382, 7593AAH"
   },
   {
     "brand": "SEAT",
@@ -205,8 +205,8 @@
     "kw": "150",
     "hp": "204",
     "cc": "2792",
-    "engineCodes": "AUE  AYL",
-    "KBA_Numbers": "7593489  7593AAQ  7593AAR"
+    "engineCodes": "AUE, AYL",
+    "KBA_Numbers": "7593489, 7593AAQ, 7593AAR"
   },
   {
     "brand": "SEAT",
@@ -216,7 +216,7 @@
     "kw": "85",
     "hp": "116",
     "cc": "1896",
-    "engineCodes": "AUY  BVK",
+    "engineCodes": "AUY, BVK",
     "KBA_Numbers": ""
   },
   {
@@ -227,7 +227,7 @@
     "kw": "85",
     "hp": "116",
     "cc": "1984",
-    "engineCodes": "ATM  ADY",
+    "engineCodes": "ATM, ADY",
     "KBA_Numbers": ""
   },
   {
@@ -238,7 +238,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1896",
-    "engineCodes": "1Z  AHU  ANU",
+    "engineCodes": "1Z, AHU, ANU",
     "KBA_Numbers": ""
   },
   {
@@ -260,7 +260,7 @@
     "kw": "85",
     "hp": "116",
     "cc": "1896",
-    "engineCodes": "AUY  BVK",
+    "engineCodes": "AUY, BVK",
     "KBA_Numbers": ""
   },
   {
@@ -271,8 +271,8 @@
     "kw": "110",
     "hp": "150",
     "cc": "1781",
-    "engineCodes": "AJH  AWC",
-    "KBA_Numbers": "0603AED  0603AEE  0603449"
+    "engineCodes": "AJH, AWC",
+    "KBA_Numbers": "0603AED, 0603AEE, 0603449"
   },
   {
     "brand": "VW",
@@ -282,8 +282,8 @@
     "kw": "66",
     "hp": "90",
     "cc": "1896",
-    "engineCodes": "ANU  1Z  AHU",
-    "KBA_Numbers": "0603ADW  0600967"
+    "engineCodes": "ANU, 1Z, AHU",
+    "KBA_Numbers": "0603ADW, 0600967"
   },
   {
     "brand": "VW",
@@ -293,7 +293,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1896",
-    "engineCodes": "AVG  AFN",
+    "engineCodes": "AVG, AFN",
     "KBA_Numbers": "0603349"
   },
   {
@@ -304,8 +304,8 @@
     "kw": "85",
     "hp": "115",
     "cc": "1896",
-    "engineCodes": "BVK  AUY",
-    "KBA_Numbers": "0603576  0603AEA  0603ADZ"
+    "engineCodes": "BVK, AUY",
+    "KBA_Numbers": "0603576, 0603AEA, 0603ADZ"
   },
   {
     "brand": "VW",
@@ -315,8 +315,8 @@
     "kw": "85",
     "hp": "115",
     "cc": "1896",
-    "engineCodes": "BVK  AUY",
-    "KBA_Numbers": "0603589  0603AEB  0603AEC"
+    "engineCodes": "BVK, AUY",
+    "KBA_Numbers": "0603589, 0603AEB, 0603AEC"
   },
   {
     "brand": "VW",
@@ -326,8 +326,8 @@
     "kw": "85",
     "hp": "115",
     "cc": "1984",
-    "engineCodes": "ATM  ADY",
-    "KBA_Numbers": "0603ALA  0603ADY  0600968"
+    "engineCodes": "ATM, ADY",
+    "KBA_Numbers": "0603ALA, 0603ADY, 0600968"
   },
   {
     "brand": "VW",
@@ -337,7 +337,7 @@
     "kw": "128",
     "hp": "174",
     "cc": "2792",
-    "engineCodes": "AMY  AAA",
+    "engineCodes": "AMY, AAA",
     "KBA_Numbers": "0600969"
   },
   {
@@ -348,7 +348,7 @@
     "kw": "128",
     "hp": "174",
     "cc": "2792",
-    "engineCodes": "AMY  AAA",
+    "engineCodes": "AMY, AAA",
     "KBA_Numbers": "0600278"
   },
   {
@@ -381,7 +381,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1896",
-    "engineCodes": "AHU  ANU",
+    "engineCodes": "AHU, ANU",
     "KBA_Numbers": "0600967"
   },
   {
@@ -392,7 +392,7 @@
     "kw": "85",
     "hp": "116",
     "cc": "1984",
-    "engineCodes": "ADY  ATM",
+    "engineCodes": "ADY, ATM",
     "KBA_Numbers": ""
   },
   {

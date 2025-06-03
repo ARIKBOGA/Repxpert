@@ -40,8 +40,8 @@
     "kw": "90",
     "hp": "122",
     "cc": "2495",
-    "engineCodes": "15 P  10 P  14 P",
-    "KBA_Numbers": "2140001  2143001"
+    "engineCodes": "15 P, 10 P, 14 P",
+    "KBA_Numbers": "2140001, 2143001"
   },
   {
     "brand": "LAND ROVER",
@@ -51,8 +51,8 @@
     "kw": "83",
     "hp": "113",
     "cc": "2495",
-    "engineCodes": "16 L  11 L  23 L",
-    "KBA_Numbers": "2055400  2055005"
+    "engineCodes": "16 L, 11 L, 23 L",
+    "KBA_Numbers": "2055400, 2055005"
   },
   {
     "brand": "LAND ROVER",
@@ -85,7 +85,7 @@
     "hp": "122",
     "cc": "2198",
     "engineCodes": "DT224(PUMA)",
-    "KBA_Numbers": "2143ABZ  1590AAF"
+    "KBA_Numbers": "2143ABZ, 1590AAF"
   },
   {
     "brand": "LAND ROVER",
@@ -117,8 +117,8 @@
     "kw": "90",
     "hp": "122",
     "cc": "2495",
-    "engineCodes": "15 P  10 P",
-    "KBA_Numbers": "2140001  2143001"
+    "engineCodes": "15 P, 10 P",
+    "KBA_Numbers": "2140001, 2143001"
   },
   {
     "brand": "LAND ROVER",
@@ -162,7 +162,7 @@
     "hp": "122",
     "cc": "2198",
     "engineCodes": "DT224(PUMA)",
-    "KBA_Numbers": "2143ABY  1590AAE"
+    "KBA_Numbers": "2143ABY, 1590AAE"
   },
   {
     "brand": "LAND ROVER",
@@ -195,7 +195,7 @@
     "hp": "122",
     "cc": "2402",
     "engineCodes": "DT244(PUMA)",
-    "KBA_Numbers": "2143AAG  2143AAT  2143ABF  2143ABG"
+    "KBA_Numbers": "2143AAG, 2143AAT, 2143ABF, 2143ABG"
   },
   {
     "brand": "LAND ROVER",
@@ -227,8 +227,8 @@
     "kw": "90",
     "hp": "122",
     "cc": "2495",
-    "engineCodes": "10 P  15 P",
-    "KBA_Numbers": "2143007  2140304  2143AAG  2055445  2055006"
+    "engineCodes": "10 P, 15 P",
+    "KBA_Numbers": "2143007, 2140304, 2143AAG, 2055445, 2055006"
   },
   {
     "brand": "LAND ROVER",
@@ -238,8 +238,8 @@
     "kw": "83",
     "hp": "113",
     "cc": "2495",
-    "engineCodes": "16 L  11 L  23 L",
-    "KBA_Numbers": "2140302  2055399"
+    "engineCodes": "16 L, 11 L, 23 L",
+    "KBA_Numbers": "2140302, 2055399"
   },
   {
     "brand": "LAND ROVER",
@@ -249,7 +249,7 @@
     "kw": "86",
     "hp": "117",
     "cc": "3528",
-    "engineCodes": "11 D  21 G",
+    "engineCodes": "11 D, 21 G",
     "KBA_Numbers": ""
   },
   {
@@ -260,7 +260,7 @@
     "kw": "100",
     "hp": "136",
     "cc": "3528",
-    "engineCodes": "15G  21 G",
+    "engineCodes": "15G, 21 G",
     "KBA_Numbers": ""
   },
   {
@@ -272,7 +272,7 @@
     "hp": "185",
     "cc": "3947",
     "engineCodes": "37 L",
-    "KBA_Numbers": "2140303  2055444"
+    "KBA_Numbers": "2140303, 2055444"
   },
   {
     "brand": "LAND ROVER",
@@ -304,8 +304,8 @@
     "kw": "83",
     "hp": "113",
     "cc": "2495",
-    "engineCodes": "21 L  12 L  17 L",
-    "KBA_Numbers": "2055431  2055328"
+    "engineCodes": "21 L, 12 L, 17 L",
+    "KBA_Numbers": "2055431, 2055328"
   },
   {
     "brand": "LAND ROVER",
@@ -315,8 +315,8 @@
     "kw": "90",
     "hp": "122",
     "cc": "2495",
-    "engineCodes": "22 L  19 L",
-    "KBA_Numbers": "2055432  2055401"
+    "engineCodes": "22 L, 19 L",
+    "KBA_Numbers": "2055432, 2055401"
   },
   {
     "brand": "LAND ROVER",
@@ -370,8 +370,8 @@
     "kw": "134",
     "hp": "182",
     "cc": "3947",
-    "engineCodes": "35 D  36 D",
-    "KBA_Numbers": "2055433  2055388"
+    "engineCodes": "35 D, 36 D",
+    "KBA_Numbers": "2055433, 2055388"
   },
   {
     "brand": "LAND ROVER",
@@ -425,7 +425,7 @@
     "kw": "83",
     "hp": "113",
     "cc": "2495",
-    "engineCodes": "14 L  21 L",
+    "engineCodes": "14 L, 21 L",
     "KBA_Numbers": "2055380"
   },
   {
@@ -458,8 +458,8 @@
     "kw": "127",
     "hp": "173",
     "cc": "3947",
-    "engineCodes": "38 D  37 D",
-    "KBA_Numbers": "2108312  2055316"
+    "engineCodes": "38 D, 37 D",
+    "KBA_Numbers": "2108312, 2055316"
   },
   {
     "brand": "LAND ROVER",
@@ -469,7 +469,7 @@
     "kw": "134",
     "hp": "182",
     "cc": "3947",
-    "engineCodes": "35 D  36 D",
+    "engineCodes": "35 D, 36 D",
     "KBA_Numbers": "2055373"
   },
   {

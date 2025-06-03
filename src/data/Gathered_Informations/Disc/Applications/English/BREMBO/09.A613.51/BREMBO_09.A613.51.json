@@ -47,12 +47,12 @@
     "brand": "MERCEDES-BENZ",
     "model": "C-CLASS (W204)",
     "engineType": "C 180 Kompressor (204.046)",
-    "madeYear": "01.2007 - 01.2014",
+    "madeYear": "01.2007 - 01.2009",
     "kw": "115",
     "hp": "156",
     "cc": "1796",
     "engineCodes": "M 271.952",
-    "KBA_Numbers": "0999BEW  1313ABK"
+    "KBA_Numbers": "0999BEW, 1313ABK"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -84,8 +84,8 @@
     "kw": "100",
     "hp": "136",
     "cc": "2148",
-    "engineCodes": "OM 646.812  OM 646.811",
-    "KBA_Numbers": "0999BGZ  1313ABE"
+    "engineCodes": "OM 646.812, OM 646.811",
+    "KBA_Numbers": "0999BGZ, 1313ABE"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -95,7 +95,7 @@
     "kw": "135",
     "hp": "184",
     "cc": "1796",
-    "engineCodes": "M 271.860  M 271.820",
+    "engineCodes": "M 271.860, M 271.820",
     "KBA_Numbers": "1313ABJ"
   },
   {
@@ -107,7 +107,7 @@
     "hp": "184",
     "cc": "1796",
     "engineCodes": "M 271.950",
-    "KBA_Numbers": "0999BDX  1313ABJ"
+    "KBA_Numbers": "0999BDX, 1313ABJ"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -140,7 +140,7 @@
     "hp": "163",
     "cc": "2148",
     "engineCodes": "OM 646.811",
-    "KBA_Numbers": "0999BET  1313ABG"
+    "KBA_Numbers": "0999BET, 1313ABG"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -151,7 +151,7 @@
     "hp": "170",
     "cc": "2148",
     "engineCodes": "OM 646.811",
-    "KBA_Numbers": "0999BDY  1313ABF"
+    "KBA_Numbers": "0999BDY, 1313ABF"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -173,7 +173,7 @@
     "hp": "204",
     "cc": "2496",
     "engineCodes": "M 272.921",
-    "KBA_Numbers": "0999BHA  1313ABL"
+    "KBA_Numbers": "0999BHA, 1313ABL"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -327,7 +327,7 @@
     "hp": "156",
     "cc": "1796",
     "engineCodes": "M 271.820",
-    "KBA_Numbers": "1313AHC  1313AHK"
+    "KBA_Numbers": "1313AHC, 1313AHK"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -338,7 +338,7 @@
     "hp": "156",
     "cc": "1597",
     "engineCodes": "M 271.910",
-    "KBA_Numbers": "1313BFY  1313BFZ"
+    "KBA_Numbers": "1313BFY, 1313BFZ"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -349,7 +349,7 @@
     "hp": "156",
     "cc": "1796",
     "engineCodes": "M 271.952",
-    "KBA_Numbers": "1313AHC  1313AHK  0999BEX  0999BJB"
+    "KBA_Numbers": "1313AHC, 1313AHK, 0999BEX, 0999BJB"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -371,7 +371,7 @@
     "hp": "136",
     "cc": "2148",
     "engineCodes": "OM 646.811",
-    "KBA_Numbers": "1313AGW  0999BHG"
+    "KBA_Numbers": "1313AGW, 0999BHG"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -381,8 +381,8 @@
     "kw": "135",
     "hp": "184",
     "cc": "1796",
-    "engineCodes": "M 271.820  M 271.860",
-    "KBA_Numbers": "1313AHJ  1313AHB"
+    "engineCodes": "M 271.820, M 271.860",
+    "KBA_Numbers": "1313AHJ, 1313AHB"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -393,7 +393,7 @@
     "hp": "184",
     "cc": "1796",
     "engineCodes": "M 271.950",
-    "KBA_Numbers": "1313AHJ  1313AHB  0999BEB  0999BJA"
+    "KBA_Numbers": "1313AHJ, 1313AHB, 0999BEB, 0999BJA"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -415,7 +415,7 @@
     "hp": "170",
     "cc": "2143",
     "engineCodes": "OM 651.911",
-    "KBA_Numbers": "1313AGX  1313AHH"
+    "KBA_Numbers": "1313AGX, 1313AHH"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -426,7 +426,7 @@
     "hp": "163",
     "cc": "2148",
     "engineCodes": "OM 646.811",
-    "KBA_Numbers": "1313AGY  0999BIV"
+    "KBA_Numbers": "1313AGY, 0999BIV"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -437,7 +437,7 @@
     "hp": "170",
     "cc": "2148",
     "engineCodes": "OM 646.811",
-    "KBA_Numbers": "1313AHH  1313AGX  0999BHH  0999BIY"
+    "KBA_Numbers": "1313AHH, 1313AGX, 0999BHH, 0999BIY"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -448,7 +448,7 @@
     "hp": "170",
     "cc": "2143",
     "engineCodes": "OM 651.912",
-    "KBA_Numbers": "1313DJO  1313DKV"
+    "KBA_Numbers": "1313DJO, 1313DKV"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -459,7 +459,7 @@
     "hp": "204",
     "cc": "2496",
     "engineCodes": "M 272.921",
-    "KBA_Numbers": "1313AHD  0999BHD"
+    "KBA_Numbers": "1313AHD, 0999BHD"
   },
   {
     "brand": "MERCEDES-BENZ",

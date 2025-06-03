@@ -7,7 +7,7 @@
     "kw": "37",
     "hp": "50",
     "cc": "996",
-    "engineCodes": "AQV  ARV",
+    "engineCodes": "AQV, ARV",
     "KBA_Numbers": "8004346"
   },
   {
@@ -18,8 +18,8 @@
     "kw": "40",
     "hp": "54",
     "cc": "1198",
-    "engineCodes": "BMD  AWY",
-    "KBA_Numbers": "8004ABY  8004376"
+    "engineCodes": "BMD, AWY",
+    "KBA_Numbers": "8004ABY, 8004376"
   },
   {
     "brand": "SKODA",
@@ -29,8 +29,8 @@
     "kw": "47",
     "hp": "64",
     "cc": "1198",
-    "engineCodes": "BME  AZQ",
-    "KBA_Numbers": "8004ABZ  8004384"
+    "engineCodes": "BME, AZQ",
+    "KBA_Numbers": "8004ABZ, 8004384"
   },
   {
     "brand": "SKODA",
@@ -40,7 +40,7 @@
     "kw": "44",
     "hp": "60",
     "cc": "1397",
-    "engineCodes": "AZE  AZF",
+    "engineCodes": "AZE, AZF",
     "KBA_Numbers": "8004349"
   },
   {
@@ -51,8 +51,8 @@
     "kw": "55",
     "hp": "75",
     "cc": "1390",
-    "engineCodes": "BKY  BBY  AUA",
-    "KBA_Numbers": "8004340  8004ABX"
+    "engineCodes": "BKY, BBY, AUA",
+    "KBA_Numbers": "8004340, 8004ABX"
   },
   {
     "brand": "SKODA",
@@ -62,8 +62,8 @@
     "kw": "74",
     "hp": "100",
     "cc": "1390",
-    "engineCodes": "BBZ  AUB",
-    "KBA_Numbers": "8004341  8004ADG"
+    "engineCodes": "BBZ, AUB",
+    "KBA_Numbers": "8004341, 8004ADG"
   },
   {
     "brand": "SKODA",
@@ -74,7 +74,7 @@
     "hp": "75",
     "cc": "1422",
     "engineCodes": "AMF",
-    "KBA_Numbers": "8004ABR  8004390"
+    "KBA_Numbers": "8004ABR, 8004390"
   },
   {
     "brand": "SKODA",
@@ -85,7 +85,7 @@
     "hp": "70",
     "cc": "1422",
     "engineCodes": "BNM",
-    "KBA_Numbers": "8004AFI  8004ACA"
+    "KBA_Numbers": "8004AFI, 8004ACA"
   },
   {
     "brand": "SKODA",
@@ -96,7 +96,7 @@
     "hp": "80",
     "cc": "1422",
     "engineCodes": "BNV",
-    "KBA_Numbers": "8004AFJ  8004ACB"
+    "KBA_Numbers": "8004AFJ, 8004ACB"
   },
   {
     "brand": "SKODA",
@@ -107,7 +107,7 @@
     "hp": "64",
     "cc": "1896",
     "engineCodes": "ASY",
-    "KBA_Numbers": "8004342  8004ABS"
+    "KBA_Numbers": "8004342, 8004ABS"
   },
   {
     "brand": "SKODA",
@@ -117,8 +117,8 @@
     "kw": "74",
     "hp": "100",
     "cc": "1896",
-    "engineCodes": "AXR  ATD",
-    "KBA_Numbers": "8004348  8004ABU"
+    "engineCodes": "AXR, ATD",
+    "KBA_Numbers": "8004348, 8004ABU"
   },
   {
     "brand": "SKODA",
@@ -129,7 +129,7 @@
     "hp": "116",
     "cc": "1984",
     "engineCodes": "AZL",
-    "KBA_Numbers": "8004350  8004ABV"
+    "KBA_Numbers": "8004350, 8004ABV"
   },
   {
     "brand": "SKODA",
@@ -139,8 +139,8 @@
     "kw": "40",
     "hp": "54",
     "cc": "1198",
-    "engineCodes": "BMD  AWY",
-    "KBA_Numbers": "8004ACI  8004ACS  8004387"
+    "engineCodes": "BMD, AWY",
+    "KBA_Numbers": "8004ACI, 8004ACS, 8004387"
   },
   {
     "brand": "SKODA",
@@ -150,8 +150,8 @@
     "kw": "47",
     "hp": "64",
     "cc": "1198",
-    "engineCodes": "BME  AZQ",
-    "KBA_Numbers": "8004ACJ  8004ACT  8004385"
+    "engineCodes": "BME, AZQ",
+    "KBA_Numbers": "8004ACJ, 8004ACT, 8004385"
   },
   {
     "brand": "SKODA",
@@ -161,7 +161,7 @@
     "kw": "44",
     "hp": "60",
     "cc": "1397",
-    "engineCodes": "AZE  AZF",
+    "engineCodes": "AZE, AZF",
     "KBA_Numbers": "8004360"
   },
   {
@@ -172,8 +172,8 @@
     "kw": "74",
     "hp": "100",
     "cc": "1390",
-    "engineCodes": "BBZ  AUB",
-    "KBA_Numbers": "8004ADH  8004ADI  8004364"
+    "engineCodes": "BBZ, AUB",
+    "KBA_Numbers": "8004ADH, 8004ADI, 8004364"
   },
   {
     "brand": "SKODA",
@@ -183,8 +183,8 @@
     "kw": "55",
     "hp": "75",
     "cc": "1390",
-    "engineCodes": "BKY  BBY  AUA",
-    "KBA_Numbers": "8004ACH  8004ACR  8004363"
+    "engineCodes": "BKY, BBY, AUA",
+    "KBA_Numbers": "8004ACH, 8004ACR, 8004363"
   },
   {
     "brand": "SKODA",
@@ -195,7 +195,7 @@
     "hp": "80",
     "cc": "1390",
     "engineCodes": "BUD",
-    "KBA_Numbers": "8004AET  8004AFC"
+    "KBA_Numbers": "8004AET, 8004AFC"
   },
   {
     "brand": "SKODA",
@@ -206,7 +206,7 @@
     "hp": "75",
     "cc": "1422",
     "engineCodes": "AMF",
-    "KBA_Numbers": "8004ACC  8004ACM  8004391"
+    "KBA_Numbers": "8004ACC, 8004ACM, 8004391"
   },
   {
     "brand": "SKODA",
@@ -217,7 +217,7 @@
     "hp": "70",
     "cc": "1422",
     "engineCodes": "BNM",
-    "KBA_Numbers": "8004ACK  8004ACU"
+    "KBA_Numbers": "8004ACK, 8004ACU"
   },
   {
     "brand": "SKODA",
@@ -228,7 +228,7 @@
     "hp": "80",
     "cc": "1422",
     "engineCodes": "BNV",
-    "KBA_Numbers": "8004ACL  8004ACV"
+    "KBA_Numbers": "8004ACL, 8004ACV"
   },
   {
     "brand": "SKODA",
@@ -239,7 +239,7 @@
     "hp": "64",
     "cc": "1896",
     "engineCodes": "ASY",
-    "KBA_Numbers": "8004ACD  8004ACN  8004361"
+    "KBA_Numbers": "8004ACD, 8004ACN, 8004361"
   },
   {
     "brand": "SKODA",
@@ -249,8 +249,8 @@
     "kw": "74",
     "hp": "100",
     "cc": "1896",
-    "engineCodes": "AXR  ATD",
-    "KBA_Numbers": "8004ACE  8004ACO  8004365"
+    "engineCodes": "AXR, ATD",
+    "KBA_Numbers": "8004ACE, 8004ACO, 8004365"
   },
   {
     "brand": "SKODA",
@@ -261,7 +261,7 @@
     "hp": "116",
     "cc": "1984",
     "engineCodes": "AZL",
-    "KBA_Numbers": "8004ACF  8004ACP  8004366"
+    "KBA_Numbers": "8004ACF, 8004ACP, 8004366"
   },
   {
     "brand": "SKODA",
@@ -271,7 +271,7 @@
     "kw": "40",
     "hp": "54",
     "cc": "1198",
-    "engineCodes": "BMD  AWY",
+    "engineCodes": "BMD, AWY",
     "KBA_Numbers": ""
   },
   {
@@ -282,8 +282,8 @@
     "kw": "47",
     "hp": "64",
     "cc": "1198",
-    "engineCodes": "BME  AZQ",
-    "KBA_Numbers": "8004062  8004AEM"
+    "engineCodes": "BME, AZQ",
+    "KBA_Numbers": "8004062, 8004AEM"
   },
   {
     "brand": "SKODA",
@@ -293,8 +293,8 @@
     "kw": "40",
     "hp": "54",
     "cc": "1198",
-    "engineCodes": "AWY  BMD",
-    "KBA_Numbers": "8004ADC  8004386"
+    "engineCodes": "AWY, BMD",
+    "KBA_Numbers": "8004ADC, 8004386"
   },
   {
     "brand": "SKODA",
@@ -304,8 +304,8 @@
     "kw": "47",
     "hp": "64",
     "cc": "1198",
-    "engineCodes": "BME  AZQ",
-    "KBA_Numbers": "8004ADD  8004383"
+    "engineCodes": "BME, AZQ",
+    "KBA_Numbers": "8004ADD, 8004383"
   },
   {
     "brand": "SKODA",
@@ -315,7 +315,7 @@
     "kw": "44",
     "hp": "60",
     "cc": "1397",
-    "engineCodes": "AZF  AZE",
+    "engineCodes": "AZF, AZE",
     "KBA_Numbers": "8004369"
   },
   {
@@ -326,8 +326,8 @@
     "kw": "55",
     "hp": "75",
     "cc": "1390",
-    "engineCodes": "BKY  BBY  AUA",
-    "KBA_Numbers": "8004ADB  8004371"
+    "engineCodes": "BKY, BBY, AUA",
+    "KBA_Numbers": "8004ADB, 8004371"
   },
   {
     "brand": "SKODA",
@@ -337,8 +337,8 @@
     "kw": "74",
     "hp": "100",
     "cc": "1390",
-    "engineCodes": "AUB  BBZ",
-    "KBA_Numbers": "8004ADJ  8004374"
+    "engineCodes": "AUB, BBZ",
+    "KBA_Numbers": "8004ADJ, 8004374"
   },
   {
     "brand": "SKODA",
@@ -382,7 +382,7 @@
     "hp": "64",
     "cc": "1896",
     "engineCodes": "ASY",
-    "KBA_Numbers": "8004ACX  8004372"
+    "KBA_Numbers": "8004ACX, 8004372"
   },
   {
     "brand": "SKODA",
@@ -392,8 +392,8 @@
     "kw": "74",
     "hp": "100",
     "cc": "1896",
-    "engineCodes": "AXR  ATD",
-    "KBA_Numbers": "8004ACY  8004375"
+    "engineCodes": "AXR, ATD",
+    "KBA_Numbers": "8004ACY, 8004375"
   },
   {
     "brand": "SKODA",
@@ -404,7 +404,7 @@
     "hp": "116",
     "cc": "1984",
     "engineCodes": "AZL",
-    "KBA_Numbers": "8004ACZ  8004373"
+    "KBA_Numbers": "8004ACZ, 8004373"
   },
   {
     "brand": "SKODA",
@@ -414,7 +414,7 @@
     "kw": "44",
     "hp": "60",
     "cc": "1198",
-    "engineCodes": "CHFA  BBM",
+    "engineCodes": "CHFA, BBM",
     "KBA_Numbers": "8004AFG"
   },
   {
@@ -425,7 +425,7 @@
     "kw": "51",
     "hp": "70",
     "cc": "1198",
-    "engineCodes": "CGPA  CHTA  BZG  CEVA",
+    "engineCodes": "CGPA, CHTA, BZG, CEVA",
     "KBA_Numbers": "8004AFH"
   },
   {
@@ -447,8 +447,8 @@
     "kw": "44",
     "hp": "60",
     "cc": "1198",
-    "engineCodes": "CHFA  BBM",
-    "KBA_Numbers": "8004AGC  8004ALC  8004AHL"
+    "engineCodes": "CHFA, BBM",
+    "KBA_Numbers": "8004AGC, 8004ALC, 8004AHL"
   },
   {
     "brand": "SKODA",
@@ -458,8 +458,8 @@
     "kw": "51",
     "hp": "70",
     "cc": "1198",
-    "engineCodes": "CGPA  BZG  CEVA  CHTA",
-    "KBA_Numbers": "8004AFW  8004AHR"
+    "engineCodes": "CGPA, BZG, CEVA, CHTA",
+    "KBA_Numbers": "8004AFW, 8004AHR"
   },
   {
     "brand": "SKODA",
@@ -480,8 +480,8 @@
     "kw": "40",
     "hp": "55",
     "cc": "1198",
-    "engineCodes": "CHFB  BMD",
-    "KBA_Numbers": "0603783  0603AAT"
+    "engineCodes": "CHFB, BMD",
+    "KBA_Numbers": "0603783, 0603AAT"
   },
   {
     "brand": "VW",
@@ -503,7 +503,7 @@
     "hp": "75",
     "cc": "1390",
     "engineCodes": "BKR",
-    "KBA_Numbers": "0603782  0603AAS"
+    "KBA_Numbers": "0603782, 0603AAS"
   },
   {
     "brand": "VW",
@@ -514,7 +514,7 @@
     "hp": "70",
     "cc": "1422",
     "engineCodes": "BNM",
-    "KBA_Numbers": "0603781  0603AAU"
+    "KBA_Numbers": "0603781, 0603AAU"
   },
   {
     "brand": "VW",
@@ -524,8 +524,8 @@
     "kw": "40",
     "hp": "54",
     "cc": "1198",
-    "engineCodes": "AWY  BMD",
-    "KBA_Numbers": "0603ABD  0603652"
+    "engineCodes": "AWY, BMD",
+    "KBA_Numbers": "0603ABD, 0603652"
   },
   {
     "brand": "VW",
@@ -546,8 +546,8 @@
     "kw": "47",
     "hp": "64",
     "cc": "1198",
-    "engineCodes": "AZQ  BME",
-    "KBA_Numbers": "0603659  0603AAY"
+    "engineCodes": "AZQ, BME",
+    "KBA_Numbers": "0603659, 0603AAY"
   },
   {
     "brand": "VW",
@@ -557,8 +557,8 @@
     "kw": "55",
     "hp": "75",
     "cc": "1390",
-    "engineCodes": "BKY  AUA  BBY",
-    "KBA_Numbers": "0603657  0603AAX"
+    "engineCodes": "BKY, AUA, BBY",
+    "KBA_Numbers": "0603657, 0603AAX"
   },
   {
     "brand": "VW",
@@ -568,8 +568,8 @@
     "kw": "74",
     "hp": "101",
     "cc": "1390",
-    "engineCodes": "AUB  BBZ",
-    "KBA_Numbers": "0603654  0603AAW"
+    "engineCodes": "AUB, BBZ",
+    "KBA_Numbers": "0603654, 0603AAW"
   },
   {
     "brand": "VW",
@@ -591,7 +591,7 @@
     "hp": "86",
     "cc": "1390",
     "engineCodes": "AXU",
-    "KBA_Numbers": "0603655  0603ABA"
+    "KBA_Numbers": "0603655, 0603ABA"
   },
   {
     "brand": "VW",
@@ -601,7 +601,7 @@
     "kw": "55",
     "hp": "75",
     "cc": "1422",
-    "engineCodes": "BAY  AMF",
+    "engineCodes": "BAY, AMF",
     "KBA_Numbers": "0603656"
   },
   {
@@ -612,8 +612,8 @@
     "kw": "51",
     "hp": "70",
     "cc": "1422",
-    "engineCodes": "BNM  BWB",
-    "KBA_Numbers": "0603792  0603AAZ"
+    "engineCodes": "BNM, BWB",
+    "KBA_Numbers": "0603792, 0603AAZ"
   },
   {
     "brand": "VW",
@@ -623,8 +623,8 @@
     "kw": "59",
     "hp": "80",
     "cc": "1422",
-    "engineCodes": "BNV  BMS",
-    "KBA_Numbers": "0603793  0603ABE"
+    "engineCodes": "BNV, BMS",
+    "KBA_Numbers": "0603793, 0603ABE"
   },
   {
     "brand": "VW",
@@ -635,7 +635,7 @@
     "hp": "150",
     "cc": "1781",
     "engineCodes": "BJX",
-    "KBA_Numbers": "0603ABB  0603819"
+    "KBA_Numbers": "0603ABB, 0603819"
   },
   {
     "brand": "VW",
@@ -646,7 +646,7 @@
     "hp": "64",
     "cc": "1896",
     "engineCodes": "ASY",
-    "KBA_Numbers": "0603726  0603658"
+    "KBA_Numbers": "0603726, 0603658"
   },
   {
     "brand": "VW",
@@ -656,8 +656,8 @@
     "kw": "74",
     "hp": "101",
     "cc": "1896",
-    "engineCodes": "BMT  AXR  ATD",
-    "KBA_Numbers": "0603653  0603AAV"
+    "engineCodes": "BMT, AXR, ATD",
+    "KBA_Numbers": "0603653, 0603AAV"
   },
   {
     "brand": "VW",
@@ -667,7 +667,7 @@
     "kw": "96",
     "hp": "130",
     "cc": "1896",
-    "engineCodes": "BLT  ASZ",
-    "KBA_Numbers": "0603729  0603ABC"
+    "engineCodes": "BLT, ASZ",
+    "KBA_Numbers": "0603729, 0603ABC"
   }
 ]

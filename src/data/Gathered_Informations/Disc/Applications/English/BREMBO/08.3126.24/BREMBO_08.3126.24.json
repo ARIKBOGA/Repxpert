@@ -8,7 +8,7 @@
     "hp": "120",
     "cc": "1598",
     "engineCodes": "AR 32104",
-    "KBA_Numbers": "4136AON  4136439"
+    "KBA_Numbers": "4136AON, 4136439"
   },
   {
     "brand": "ALFA ROMEO",
@@ -19,7 +19,7 @@
     "hp": "105",
     "cc": "1598",
     "engineCodes": "AR 37203",
-    "KBA_Numbers": "4136AOM  4136438"
+    "KBA_Numbers": "4136AOM, 4136438"
   },
   {
     "brand": "ALFA ROMEO",
@@ -29,8 +29,8 @@
     "kw": "85",
     "hp": "115",
     "cc": "1910",
-    "engineCodes": "937 A2.000  939 A7.000",
-    "KBA_Numbers": "4136441  4136AKC"
+    "engineCodes": "937 A2.000, 939 A7.000",
+    "KBA_Numbers": "4136441, 4136AKC"
   },
   {
     "brand": "ALFA ROMEO",
@@ -74,7 +74,7 @@
     "hp": "136",
     "cc": "1910",
     "engineCodes": "192 B1.000",
-    "KBA_Numbers": "4136AKB  4136612"
+    "KBA_Numbers": "4136AKB, 4136612"
   },
   {
     "brand": "ALFA ROMEO",
@@ -96,7 +96,7 @@
     "hp": "150",
     "cc": "1910",
     "engineCodes": "937 A5.000",
-    "KBA_Numbers": "4136636  4136ADH"
+    "KBA_Numbers": "4136636, 4136ADH"
   },
   {
     "brand": "ALFA ROMEO",
@@ -107,7 +107,7 @@
     "hp": "120",
     "cc": "1910",
     "engineCodes": "937 A3.000",
-    "KBA_Numbers": "4136666  4136ADI"
+    "KBA_Numbers": "4136666, 4136ADI"
   },
   {
     "brand": "ALFA ROMEO",
@@ -118,7 +118,7 @@
     "hp": "150",
     "cc": "1970",
     "engineCodes": "AR 32310",
-    "KBA_Numbers": "4136AOO  4136440"
+    "KBA_Numbers": "4136AOO, 4136440"
   },
   {
     "brand": "ALFA ROMEO",
@@ -128,7 +128,7 @@
     "kw": "88",
     "hp": "120",
     "cc": "1598",
-    "engineCodes": "AR 67601  AR 32104",
+    "engineCodes": "AR 67601, AR 32104",
     "KBA_Numbers": "4001195"
   },
   {
@@ -140,7 +140,7 @@
     "hp": "112",
     "cc": "1598",
     "engineCodes": "AR 32102",
-    "KBA_Numbers": "4136452  4136380"
+    "KBA_Numbers": "4136452, 4136380"
   },
   {
     "brand": "ALFA ROMEO",
@@ -216,7 +216,7 @@
     "kw": "114",
     "hp": "155",
     "cc": "1970",
-    "engineCodes": "AR 32301  AR 32310",
+    "engineCodes": "AR 32301, AR 32310",
     "KBA_Numbers": "4001197"
   },
   {
@@ -304,7 +304,7 @@
     "kw": "88",
     "hp": "120",
     "cc": "1598",
-    "engineCodes": "AR 32104  AR 67601",
+    "engineCodes": "AR 32104, AR 67601",
     "KBA_Numbers": "4136427"
   },
   {
@@ -371,7 +371,7 @@
     "hp": "150",
     "cc": "1910",
     "engineCodes": "937 A5.000",
-    "KBA_Numbers": "4136622  4136ACC"
+    "KBA_Numbers": "4136622, 4136ACC"
   },
   {
     "brand": "ALFA ROMEO",
@@ -381,7 +381,7 @@
     "kw": "114",
     "hp": "155",
     "cc": "1970",
-    "engineCodes": "AR 32301  AR 32310",
+    "engineCodes": "AR 32301, AR 32310",
     "KBA_Numbers": "4136424"
   },
   {
@@ -458,8 +458,8 @@
     "kw": "105",
     "hp": "143",
     "cc": "1962",
-    "engineCodes": "AR 06416  AR 06420",
-    "KBA_Numbers": "4114370  4001955"
+    "engineCodes": "AR 06416, AR 06420",
+    "KBA_Numbers": "4114370, 4001955"
   },
   {
     "brand": "ALFA ROMEO",
@@ -481,7 +481,7 @@
     "hp": "204",
     "cc": "1996",
     "engineCodes": "AR 64101",
-    "KBA_Numbers": "4001958  4114406"
+    "KBA_Numbers": "4001958, 4114406"
   },
   {
     "brand": "ALFA ROMEO",
@@ -492,7 +492,7 @@
     "hp": "201",
     "cc": "1996",
     "engineCodes": "AR 64102",
-    "KBA_Numbers": "4001189  4001633"
+    "KBA_Numbers": "4001189, 4001633"
   },
   {
     "brand": "ALFA ROMEO",
@@ -503,7 +503,7 @@
     "hp": "114",
     "cc": "2499",
     "engineCodes": "VM 84 A",
-    "KBA_Numbers": "4114367  4001954"
+    "KBA_Numbers": "4114367, 4001954"
   },
   {
     "brand": "ALFA ROMEO",
@@ -513,8 +513,8 @@
     "kw": "92",
     "hp": "125",
     "cc": "2499",
-    "engineCodes": "VM 08 B  VM 32 B",
-    "KBA_Numbers": "4001635  4001184"
+    "engineCodes": "VM 08 B, VM 32 B",
+    "KBA_Numbers": "4001635, 4001184"
   },
   {
     "brand": "ALFA ROMEO",
@@ -590,8 +590,8 @@
     "kw": "155",
     "hp": "211",
     "cc": "2959",
-    "engineCodes": "AR 66302  AR 64306  AR 66301",
-    "KBA_Numbers": "4001185  4001634"
+    "engineCodes": "AR 66302, AR 64306, AR 66301",
+    "KBA_Numbers": "4001185, 4001634"
   },
   {
     "brand": "ALFA ROMEO",
@@ -612,8 +612,8 @@
     "kw": "170",
     "hp": "231",
     "cc": "2959",
-    "engineCodes": "AR 64307  AR 64308",
-    "KBA_Numbers": "4001670  4001186"
+    "engineCodes": "AR 64307, AR 64308",
+    "KBA_Numbers": "4001670, 4001186"
   },
   {
     "brand": "ALFA ROMEO",
@@ -624,7 +624,7 @@
     "hp": "233",
     "cc": "2959",
     "engineCodes": "AR 64304",
-    "KBA_Numbers": "4001187  4001632"
+    "KBA_Numbers": "4001187, 4001632"
   },
   {
     "brand": "ALFA ROMEO",
@@ -634,7 +634,7 @@
     "kw": "171",
     "hp": "233",
     "cc": "2959",
-    "engineCodes": "AR 64307  AR 64304",
+    "engineCodes": "AR 64307, AR 64304",
     "KBA_Numbers": ""
   },
   {
@@ -645,8 +645,8 @@
     "kw": "147",
     "hp": "200",
     "cc": "2959",
-    "engineCodes": "AR 06430  AR 64301",
-    "KBA_Numbers": "4001957  4114400"
+    "engineCodes": "AR 06430, AR 64301",
+    "KBA_Numbers": "4001957, 4114400"
   },
   {
     "brand": "ALFA ROMEO",
@@ -668,7 +668,7 @@
     "hp": "184",
     "cc": "2959",
     "engineCodes": "AR 06412",
-    "KBA_Numbers": "4114369  4001956"
+    "KBA_Numbers": "4114369, 4001956"
   },
   {
     "brand": "FIAT",
@@ -689,7 +689,7 @@
     "kw": "74",
     "hp": "100",
     "cc": "1995",
-    "engineCodes": "154 A1.000  154 C5.000",
+    "engineCodes": "154 A1.000, 154 C5.000",
     "KBA_Numbers": ""
   },
   {
@@ -711,7 +711,7 @@
     "kw": "155",
     "hp": "211",
     "cc": "1995",
-    "engineCodes": "831 E5.000  831 E5.046",
+    "engineCodes": "831 E5.000, 831 E5.046",
     "KBA_Numbers": "4001652"
   },
   {
@@ -723,7 +723,7 @@
     "hp": "150",
     "cc": "1995",
     "engineCodes": "834 C.146",
-    "KBA_Numbers": "4001488  4001474  4114354"
+    "KBA_Numbers": "4001488, 4001474, 4114354"
   },
   {
     "brand": "LANCIA",
@@ -734,6 +734,6 @@
     "hp": "215",
     "cc": "2927",
     "engineCodes": "F 105 L",
-    "KBA_Numbers": "4001482  4114355"
+    "KBA_Numbers": "4001482, 4114355"
   }
 ]

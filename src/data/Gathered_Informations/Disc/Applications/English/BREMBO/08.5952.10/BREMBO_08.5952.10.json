@@ -293,7 +293,7 @@
     "kw": "100",
     "hp": "136",
     "cc": "2998",
-    "engineCodes": "F1CE0481A  F1CE0481E",
+    "engineCodes": "F1CE0481A, F1CE0481E",
     "KBA_Numbers": "4192544"
   },
   {
@@ -370,7 +370,7 @@
     "kw": "100",
     "hp": "136",
     "cc": "2998",
-    "engineCodes": "F1CE0481A  F1CE0481E",
+    "engineCodes": "F1CE0481A, F1CE0481E",
     "KBA_Numbers": "4192AAJ"
   },
   {
@@ -425,7 +425,7 @@
     "kw": "78",
     "hp": "106",
     "cc": "2798",
-    "engineCodes": "8140.43B  8140.43C",
+    "engineCodes": "8140.43B, 8140.43C",
     "KBA_Numbers": "4192507"
   },
   {
@@ -502,7 +502,7 @@
     "kw": "78",
     "hp": "106",
     "cc": "2798",
-    "engineCodes": "8140.43C  8140.43B",
+    "engineCodes": "8140.43C, 8140.43B",
     "KBA_Numbers": "4192507"
   },
   {
@@ -535,7 +535,7 @@
     "kw": "100",
     "hp": "136",
     "cc": "2998",
-    "engineCodes": "F1CE0481A  F1CE0481E",
+    "engineCodes": "F1CE0481A, F1CE0481E",
     "KBA_Numbers": "4192542"
   },
   {
@@ -580,7 +580,7 @@
     "hp": "116",
     "cc": "2287",
     "engineCodes": "F1AE0481B",
-    "KBA_Numbers": "4192ABB  4192529"
+    "KBA_Numbers": "4192ABB, 4192529"
   },
   {
     "brand": "IVECO",
@@ -590,8 +590,8 @@
     "kw": "100",
     "hp": "136",
     "cc": "2998",
-    "engineCodes": "F1CE0481A  F1CE0481E",
-    "KBA_Numbers": "4192ABC  4192AHC"
+    "engineCodes": "F1CE0481A, F1CE0481E",
+    "KBA_Numbers": "4192ABC, 4192AHC"
   },
   {
     "brand": "IVECO",
@@ -613,7 +613,7 @@
     "hp": "166",
     "cc": "2998",
     "engineCodes": "F1CE0481B",
-    "KBA_Numbers": "4192ABD  4192547"
+    "KBA_Numbers": "4192ABD, 4192547"
   },
   {
     "brand": "IVECO",
@@ -634,7 +634,7 @@
     "kw": "78",
     "hp": "106",
     "cc": "2798",
-    "engineCodes": "8140.43C  8140.43B",
+    "engineCodes": "8140.43C, 8140.43B",
     "KBA_Numbers": "4192510"
   },
   {
@@ -744,7 +744,7 @@
     "kw": "78",
     "hp": "106",
     "cc": "2798",
-    "engineCodes": "8140.43C  8140.43B",
+    "engineCodes": "8140.43C, 8140.43B",
     "KBA_Numbers": ""
   },
   {
@@ -766,7 +766,7 @@
     "kw": "100",
     "hp": "136",
     "cc": "2998",
-    "engineCodes": "F1CE0481A  F1CE0481E",
+    "engineCodes": "F1CE0481A, F1CE0481E",
     "KBA_Numbers": "4192AAU"
   },
   {
@@ -800,7 +800,7 @@
     "hp": "95",
     "cc": "2287",
     "engineCodes": "F1AE0481F",
-    "KBA_Numbers": "4192ACH  4192ABZ"
+    "KBA_Numbers": "4192ACH, 4192ABZ"
   },
   {
     "brand": "IVECO",
@@ -810,8 +810,8 @@
     "kw": "85",
     "hp": "116",
     "cc": "2287",
-    "engineCodes": "F1AE0481R  F1AE0481G",
-    "KBA_Numbers": "4192ABK  4192ABU  4192ACI  4192ACA"
+    "engineCodes": "F1AE0481R, F1AE0481G",
+    "KBA_Numbers": "4192ABK, 4192ABU, 4192ACI, 4192ACA"
   },
   {
     "brand": "IVECO",
@@ -821,8 +821,8 @@
     "kw": "107",
     "hp": "146",
     "cc": "2998",
-    "engineCodes": "F1CE0481F  F1CE0481L",
-    "KBA_Numbers": "4192ABL  4192ACS  4192ACK  4192ACQ  4192AIM"
+    "engineCodes": "F1CE0481F, F1CE0481L",
+    "KBA_Numbers": "4192ABL, 4192ACS, 4192ACK, 4192ACQ, 4192AIM"
   },
   {
     "brand": "IVECO",
@@ -833,7 +833,7 @@
     "hp": "176",
     "cc": "2998",
     "engineCodes": "F1CE0481H",
-    "KBA_Numbers": "4192ACR  4192ACT  4192ABM  4192ACL  4192ACC"
+    "KBA_Numbers": "4192ACR, 4192ACT, 4192ABM, 4192ACL, 4192ACC"
   },
   {
     "brand": "IVECO",
@@ -844,7 +844,7 @@
     "hp": "95",
     "cc": "2287",
     "engineCodes": "F1AE0481F",
-    "KBA_Numbers": "4192ABT  4192ACH  4192ABZ"
+    "KBA_Numbers": "4192ABT, 4192ACH, 4192ABZ"
   },
   {
     "brand": "IVECO",
@@ -855,7 +855,7 @@
     "hp": "106",
     "cc": "2287",
     "engineCodes": "F1AE0481U",
-    "KBA_Numbers": "4192ADY  4192AEE  4192AEJ"
+    "KBA_Numbers": "4192ADY, 4192AEE, 4192AEJ"
   },
   {
     "brand": "IVECO",
@@ -866,7 +866,7 @@
     "hp": "116",
     "cc": "2287",
     "engineCodes": "F1AE0481G",
-    "KBA_Numbers": "4192ABK  4192ABU  4192ACI  4192ACA"
+    "KBA_Numbers": "4192ABK, 4192ABU, 4192ACI, 4192ACA"
   },
   {
     "brand": "IVECO",
@@ -877,7 +877,7 @@
     "hp": "126",
     "cc": "2287",
     "engineCodes": "F1AE0481V",
-    "KBA_Numbers": "4192ADZ  4192AEF  4192AIK"
+    "KBA_Numbers": "4192ADZ, 4192AEF, 4192AIK"
   },
   {
     "brand": "IVECO",
@@ -888,7 +888,7 @@
     "hp": "136",
     "cc": "2998",
     "engineCodes": "F1CE0441A",
-    "KBA_Numbers": "4192ADP  4192ADR  4192ADT  4192AGC  4192ADM  4192ADN  4192ADO"
+    "KBA_Numbers": "4192ADP, 4192ADR, 4192ADT, 4192AGC, 4192ADM, 4192ADN, 4192ADO"
   },
   {
     "brand": "IVECO",
@@ -899,7 +899,7 @@
     "hp": "140",
     "cc": "2998",
     "engineCodes": "F1CE3481L",
-    "KBA_Numbers": "4192AFM  4192AFY  4192AFF  4192AFJ  4192AEZ  4192AFB"
+    "KBA_Numbers": "4192AFM, 4192AFY, 4192AFF, 4192AFJ, 4192AEZ, 4192AFB"
   },
   {
     "brand": "IVECO",
@@ -910,7 +910,7 @@
     "hp": "146",
     "cc": "2998",
     "engineCodes": "F1CE0481F",
-    "KBA_Numbers": "4192ABL  4192ACS  4192ACK  4192ACQ  4192AIM"
+    "KBA_Numbers": "4192ABL, 4192ACS, 4192ACK, 4192ACQ, 4192AIM"
   },
   {
     "brand": "IVECO",
@@ -921,7 +921,7 @@
     "hp": "170",
     "cc": "2998",
     "engineCodes": "F1CE3481C",
-    "KBA_Numbers": "4192AEL  4192AGA  4192AEP  4192AER  4192AEA  4192AEG"
+    "KBA_Numbers": "4192AEL, 4192AGA, 4192AEP, 4192AER, 4192AEA, 4192AEG"
   },
   {
     "brand": "IVECO",
@@ -932,7 +932,7 @@
     "hp": "176",
     "cc": "2998",
     "engineCodes": "F1CE0481H",
-    "KBA_Numbers": "4192ACT  4192ACC"
+    "KBA_Numbers": "4192ACT, 4192ACC"
   },
   {
     "brand": "IVECO",
@@ -943,7 +943,7 @@
     "hp": "140",
     "cc": "2998",
     "engineCodes": "F1CE3481L",
-    "KBA_Numbers": "4192AFM  4192AFY  4192AFF  4192AFJ  4192AEZ  4192AFB"
+    "KBA_Numbers": "4192AFM, 4192AFY, 4192AFF, 4192AFJ, 4192AEZ, 4192AFB"
   },
   {
     "brand": "IVECO",
@@ -954,7 +954,7 @@
     "hp": "146",
     "cc": "2998",
     "engineCodes": "F1CE0481F",
-    "KBA_Numbers": "4192ABL  4192ACS  4192ACK  4192ACQ  4192AIM"
+    "KBA_Numbers": "4192ABL, 4192ACS, 4192ACK, 4192ACQ, 4192AIM"
   },
   {
     "brand": "IVECO",
@@ -965,7 +965,7 @@
     "hp": "170",
     "cc": "2998",
     "engineCodes": "F1CE3481C",
-    "KBA_Numbers": "4192AEL  4192AGA  4192AEP  4192AER  4192AEA  4192AEG  4192AIN"
+    "KBA_Numbers": "4192AEL, 4192AGA, 4192AEP, 4192AER, 4192AEA, 4192AEG, 4192AIN"
   },
   {
     "brand": "IVECO",
@@ -976,7 +976,7 @@
     "hp": "176",
     "cc": "2998",
     "engineCodes": "F1CE0481H",
-    "KBA_Numbers": "4192ACR  4192ABM  4192ACL  4192ACC"
+    "KBA_Numbers": "4192ACR, 4192ABM, 4192ACL, 4192ACC"
   },
   {
     "brand": "IVECO",
@@ -987,7 +987,7 @@
     "hp": "136",
     "cc": "2998",
     "engineCodes": "F1CE0441A",
-    "KBA_Numbers": "4192ADP  4192ADR  4192ADT  4192AGC  4192ADM  4192ADN  4192ADO"
+    "KBA_Numbers": "4192ADP, 4192ADR, 4192ADT, 4192AGC, 4192ADM, 4192ADN, 4192ADO"
   },
   {
     "brand": "IVECO",
@@ -998,7 +998,7 @@
     "hp": "140",
     "cc": "2998",
     "engineCodes": "F1CE3481L",
-    "KBA_Numbers": "4192AFM  4192AFY  4192AFF  4192AFJ  4192AEZ  4192AFB"
+    "KBA_Numbers": "4192AFM, 4192AFY, 4192AFF, 4192AFJ, 4192AEZ, 4192AFB"
   },
   {
     "brand": "IVECO",
@@ -1009,7 +1009,7 @@
     "hp": "146",
     "cc": "2998",
     "engineCodes": "F1CE0481F",
-    "KBA_Numbers": "4192ABL  4192ACS  4192ACK  4192ACQ  4192AIM"
+    "KBA_Numbers": "4192ABL, 4192ACS, 4192ACK, 4192ACQ, 4192AIM"
   },
   {
     "brand": "IVECO",
@@ -1020,7 +1020,7 @@
     "hp": "170",
     "cc": "2998",
     "engineCodes": "F1CE3481C",
-    "KBA_Numbers": "4192AEL  4192AGA  4192AEP  4192AER  4192AEA  4192AEG  4192AIN"
+    "KBA_Numbers": "4192AEL, 4192AGA, 4192AEP, 4192AER, 4192AEA, 4192AEG, 4192AIN"
   },
   {
     "brand": "IVECO",
@@ -1031,7 +1031,7 @@
     "hp": "176",
     "cc": "2998",
     "engineCodes": "F1CE0481H",
-    "KBA_Numbers": "4192ABM  4192ACT  4192ACL  4192ACR  4192ACC"
+    "KBA_Numbers": "4192ABM, 4192ACT, 4192ACL, 4192ACR, 4192ACC"
   },
   {
     "brand": "IVECO",
@@ -1042,7 +1042,7 @@
     "hp": "95",
     "cc": "2287",
     "engineCodes": "F1AE0481F",
-    "KBA_Numbers": "4192ABN  4192ACD  4192ACM  4192ABW"
+    "KBA_Numbers": "4192ABN, 4192ACD, 4192ACM, 4192ABW"
   },
   {
     "brand": "IVECO",
@@ -1052,8 +1052,8 @@
     "kw": "85",
     "hp": "116",
     "cc": "2287",
-    "engineCodes": "F1AE0481R  F1AE0481G",
-    "KBA_Numbers": "4192ABO  4192ACE  4192ACN  4192ABX"
+    "engineCodes": "F1AE0481R, F1AE0481G",
+    "KBA_Numbers": "4192ABO, 4192ACE, 4192ACN, 4192ABX"
   },
   {
     "brand": "IVECO",
@@ -1063,8 +1063,8 @@
     "kw": "107",
     "hp": "146",
     "cc": "2998",
-    "engineCodes": "F1CE0481F  F1CE0481L",
-    "KBA_Numbers": "4192ACU  4192ABP  4192ABR  4192ACO"
+    "engineCodes": "F1CE0481F, F1CE0481L",
+    "KBA_Numbers": "4192ACU, 4192ABP, 4192ABR, 4192ACO"
   },
   {
     "brand": "IVECO",
@@ -1075,7 +1075,7 @@
     "hp": "176",
     "cc": "2998",
     "engineCodes": "F1CE0481H",
-    "KBA_Numbers": "4192ACV  4192ABQ  4192ABS  4192ACG  4192ACP"
+    "KBA_Numbers": "4192ACV, 4192ABQ, 4192ABS, 4192ACG, 4192ACP"
   },
   {
     "brand": "IVECO",
@@ -1086,7 +1086,7 @@
     "hp": "95",
     "cc": "2287",
     "engineCodes": "F1AE0481F",
-    "KBA_Numbers": "4192ABN  4192ACD  4192ACM  4192ABW"
+    "KBA_Numbers": "4192ABN, 4192ACD, 4192ACM, 4192ABW"
   },
   {
     "brand": "IVECO",
@@ -1097,7 +1097,7 @@
     "hp": "116",
     "cc": "2287",
     "engineCodes": "F1AE0481G",
-    "KBA_Numbers": "4192ABO  4192ACE  4192ACN  4192ABX"
+    "KBA_Numbers": "4192ABO, 4192ACE, 4192ACN, 4192ABX"
   },
   {
     "brand": "IVECO",
@@ -1108,7 +1108,7 @@
     "hp": "126",
     "cc": "2287",
     "engineCodes": "F1AE0481V",
-    "KBA_Numbers": "4192AEN  4192AEC  4192AEI  4192AGY"
+    "KBA_Numbers": "4192AEN, 4192AEC, 4192AEI, 4192AGY"
   },
   {
     "brand": "IVECO",
@@ -1119,7 +1119,7 @@
     "hp": "136",
     "cc": "2998",
     "engineCodes": "F1CE0441A",
-    "KBA_Numbers": "4192ADQ  4192ADS  4192AHC  4192ADL"
+    "KBA_Numbers": "4192ADQ, 4192ADS, 4192AHC, 4192ADL"
   },
   {
     "brand": "IVECO",
@@ -1130,7 +1130,7 @@
     "hp": "140",
     "cc": "2998",
     "engineCodes": "F1CE3481L",
-    "KBA_Numbers": "4192AFL  4192AFK  4192AFW  4192AFE  4192AFA  4192AFC"
+    "KBA_Numbers": "4192AFL, 4192AFK, 4192AFW, 4192AFE, 4192AFA, 4192AFC"
   },
   {
     "brand": "IVECO",
@@ -1141,7 +1141,7 @@
     "hp": "146",
     "cc": "2998",
     "engineCodes": "F1CE0481F",
-    "KBA_Numbers": "4192ACU  4192ABP  4192ABR  4192ACO"
+    "KBA_Numbers": "4192ACU, 4192ABP, 4192ABR, 4192ACO"
   },
   {
     "brand": "IVECO",
@@ -1152,7 +1152,7 @@
     "hp": "170",
     "cc": "2998",
     "engineCodes": "F1CE3481C",
-    "KBA_Numbers": "4192AEO  4192AFX  4192AFD  4192AEQ  4192AES  4192AED  4192AGH  4192AGI  4192AGT  4192AHA"
+    "KBA_Numbers": "4192AEO, 4192AFX, 4192AFD, 4192AEQ, 4192AES, 4192AED, 4192AGH, 4192AGI, 4192AGT, 4192AHA"
   },
   {
     "brand": "IVECO",
@@ -1163,7 +1163,7 @@
     "hp": "176",
     "cc": "2998",
     "engineCodes": "F1CE0481H",
-    "KBA_Numbers": "4192ACV  4192ABQ  4192ABS  4192ACG  4192ACP"
+    "KBA_Numbers": "4192ACV, 4192ABQ, 4192ABS, 4192ACG, 4192ACP"
   },
   {
     "brand": "IVECO",
@@ -1174,7 +1174,7 @@
     "hp": "146",
     "cc": "2998",
     "engineCodes": "F1CE0481F",
-    "KBA_Numbers": "4192ACU  4192ABP  4192ABR  4192ACO"
+    "KBA_Numbers": "4192ACU, 4192ABP, 4192ABR, 4192ACO"
   },
   {
     "brand": "IVECO",
@@ -1185,7 +1185,7 @@
     "hp": "170",
     "cc": "2998",
     "engineCodes": "F1CE3481C",
-    "KBA_Numbers": "4192AEO  4192AFX  4192AFD  4192AEQ  4192AES  4192AED  4192AGH  4192AGI  4192AGT  4192AHA"
+    "KBA_Numbers": "4192AEO, 4192AFX, 4192AFD, 4192AEQ, 4192AES, 4192AED, 4192AGH, 4192AGI, 4192AGT, 4192AHA"
   },
   {
     "brand": "IVECO",
@@ -1196,7 +1196,7 @@
     "hp": "176",
     "cc": "2998",
     "engineCodes": "F1CE0481H",
-    "KBA_Numbers": "4192ACV  4192ABQ  4192ABS  4192ACG  4192ACP"
+    "KBA_Numbers": "4192ACV, 4192ABQ, 4192ABS, 4192ACG, 4192ACP"
   },
   {
     "brand": "IVECO",
@@ -1207,7 +1207,7 @@
     "hp": "136",
     "cc": "2998",
     "engineCodes": "F1CE0441A",
-    "KBA_Numbers": "4192ADQ  4192ADS  4192AHC  4192ADL"
+    "KBA_Numbers": "4192ADQ, 4192ADS, 4192AHC, 4192ADL"
   },
   {
     "brand": "IVECO",
@@ -1218,7 +1218,7 @@
     "hp": "140",
     "cc": "2998",
     "engineCodes": "F1CE3481L",
-    "KBA_Numbers": "4192AFL  4192AFK  4192AFW  4192AFE  4192AFA  4192AFC"
+    "KBA_Numbers": "4192AFL, 4192AFK, 4192AFW, 4192AFE, 4192AFA, 4192AFC"
   },
   {
     "brand": "IVECO",
@@ -1229,7 +1229,7 @@
     "hp": "146",
     "cc": "2998",
     "engineCodes": "F1CE0481F",
-    "KBA_Numbers": "4192ACU  4192ABP  4192ABR  4192ACO"
+    "KBA_Numbers": "4192ACU, 4192ABP, 4192ABR, 4192ACO"
   },
   {
     "brand": "IVECO",
@@ -1240,7 +1240,7 @@
     "hp": "170",
     "cc": "2998",
     "engineCodes": "F1CE3481C",
-    "KBA_Numbers": "4192AEO  4192AFX  4192AFD  4192AEQ  4192AES  4192AED  4192AGH  4192AGI  4192AGT  4192AHA"
+    "KBA_Numbers": "4192AEO, 4192AFX, 4192AFD, 4192AEQ, 4192AES, 4192AED, 4192AGH, 4192AGI, 4192AGT, 4192AHA"
   },
   {
     "brand": "IVECO",
@@ -1251,7 +1251,7 @@
     "hp": "176",
     "cc": "2998",
     "engineCodes": "F1CE0481H",
-    "KBA_Numbers": "4192ABQ  4192ABS  4192ACG  4192ACP  4192ACV"
+    "KBA_Numbers": "4192ABQ, 4192ABS, 4192ACG, 4192ACP, 4192ACV"
   },
   {
     "brand": "IVECO",
@@ -1273,7 +1273,7 @@
     "hp": "106",
     "cc": "2287",
     "engineCodes": "F1AE3481A",
-    "KBA_Numbers": "4192AEJ  4192AEM  4192ADY  4192AEE"
+    "KBA_Numbers": "4192AEJ, 4192AEM, 4192ADY, 4192AEE"
   },
   {
     "brand": "IVECO",
@@ -1284,7 +1284,7 @@
     "hp": "126",
     "cc": "2287",
     "engineCodes": "F1AE3481B",
-    "KBA_Numbers": "4192AEK  4192ADZ  4192AEC  4192AEF  4192AIK"
+    "KBA_Numbers": "4192AEK, 4192ADZ, 4192AEC, 4192AEF, 4192AIK"
   },
   {
     "brand": "IVECO",
@@ -1294,8 +1294,8 @@
     "kw": "107",
     "hp": "146",
     "cc": "2998",
-    "engineCodes": "F1CE3481J  F1CE3481B",
-    "KBA_Numbers": "4192ABL  4192ACS  4192ACK  4192ACQ  4192AIM"
+    "engineCodes": "F1CE3481J, F1CE3481B",
+    "KBA_Numbers": "4192ABL, 4192ACS, 4192ACK, 4192ACQ, 4192AIM"
   },
   {
     "brand": "IVECO",
@@ -1305,8 +1305,8 @@
     "kw": "125",
     "hp": "170",
     "cc": "2998",
-    "engineCodes": "F1CE3481K  F1CE3481C",
-    "KBA_Numbers": "4192AEL  4192AGA  4192AEP  4192AER  4192AEA  4192AEG  4192AIN"
+    "engineCodes": "F1CE3481K, F1CE3481C",
+    "KBA_Numbers": "4192AEL, 4192AGA, 4192AEP, 4192AER, 4192AEA, 4192AEG, 4192AIN"
   },
   {
     "brand": "IVECO",
@@ -1317,7 +1317,7 @@
     "hp": "205",
     "cc": "2998",
     "engineCodes": "F1CE3481D",
-    "KBA_Numbers": "4192AGK  4192AIO  4192AGL  4192AGM  4192AGN"
+    "KBA_Numbers": "4192AGK, 4192AIO, 4192AGL, 4192AGM, 4192AGN"
   },
   {
     "brand": "IVECO",
@@ -1327,7 +1327,7 @@
     "kw": "80",
     "hp": "109",
     "cc": "ELETTRICO",
-    "engineCodes": "",
+    "engineCodes": "ELETTRICO",
     "KBA_Numbers": ""
   },
   {
@@ -1350,7 +1350,7 @@
     "hp": "106",
     "cc": "2287",
     "engineCodes": "F1AE3481A",
-    "KBA_Numbers": "4192AEB  4192AEH  4192AGX"
+    "KBA_Numbers": "4192AEB, 4192AEH, 4192AGX"
   },
   {
     "brand": "IVECO",
@@ -1361,7 +1361,7 @@
     "hp": "126",
     "cc": "2287",
     "engineCodes": "F1AE3481B",
-    "KBA_Numbers": "4192AEN  4192AEC  4192AEI  4192AGY"
+    "KBA_Numbers": "4192AEN, 4192AEC, 4192AEI, 4192AGY"
   },
   {
     "brand": "IVECO",
@@ -1371,8 +1371,8 @@
     "kw": "107",
     "hp": "146",
     "cc": "2998",
-    "engineCodes": "F1CE3481B  F1CE3481J",
-    "KBA_Numbers": "4192ACU  4192ABP  4192ABR  4192ACO"
+    "engineCodes": "F1CE3481B, F1CE3481J",
+    "KBA_Numbers": "4192ACU, 4192ABP, 4192ABR, 4192ACO"
   },
   {
     "brand": "IVECO",
@@ -1382,8 +1382,8 @@
     "kw": "125",
     "hp": "170",
     "cc": "2998",
-    "engineCodes": "F1CE3481K  F1CE3481C",
-    "KBA_Numbers": "4192AFX  4192AFD  4192AEO  4192AEQ  4192AES  4192AED  4192AGH  4192AGI  4192AGT  4192AHA"
+    "engineCodes": "F1CE3481K, F1CE3481C",
+    "KBA_Numbers": "4192AFX, 4192AFD, 4192AEO, 4192AEQ, 4192AES, 4192AED, 4192AGH, 4192AGI, 4192AGT, 4192AHA"
   },
   {
     "brand": "IVECO",
@@ -1394,7 +1394,7 @@
     "hp": "204",
     "cc": "2998",
     "engineCodes": "F1CE3481D",
-    "KBA_Numbers": "4192AGU  4192AHB"
+    "KBA_Numbers": "4192AGU, 4192AHB"
   },
   {
     "brand": "IVECO",
@@ -1415,7 +1415,7 @@
     "kw": "107",
     "hp": "146",
     "cc": "2998",
-    "engineCodes": "F1CFL411E  F1CE3481J",
+    "engineCodes": "F1CFL411E, F1CE3481J",
     "KBA_Numbers": ""
   },
   {
@@ -1448,7 +1448,7 @@
     "kw": "132",
     "hp": "180",
     "cc": "2998",
-    "engineCodes": "F1CFL4117  F1CFL411W",
+    "engineCodes": "F1CFL4117, F1CFL411W",
     "KBA_Numbers": ""
   },
   {
@@ -1492,7 +1492,7 @@
     "kw": "100",
     "hp": "136",
     "cc": "2998",
-    "engineCodes": "F1CFA401A  F1CFA401C",
+    "engineCodes": "F1CFA401A, F1CFA401C",
     "KBA_Numbers": ""
   },
   {
@@ -1503,7 +1503,7 @@
     "kw": "115",
     "hp": "156",
     "cc": "2287",
-    "engineCodes": "F1AGL411G  F1AGL411U  F1AGL411N  F1AGL411B",
+    "engineCodes": "F1AGL411G, F1AGL411U, F1AGL411N, F1AGL411B",
     "KBA_Numbers": ""
   },
   {
@@ -1536,7 +1536,7 @@
     "kw": "107",
     "hp": "146",
     "cc": "2998",
-    "engineCodes": "F1CE3481J  F1CFL411E  F1CFL411J",
+    "engineCodes": "F1CE3481J, F1CFL411E, F1CFL411J",
     "KBA_Numbers": "4192ABL"
   },
   {
@@ -1547,7 +1547,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "2998",
-    "engineCodes": "F1CGL411A  F1CFL411V  F1CFL411A",
+    "engineCodes": "F1CGL411A, F1CFL411V, F1CFL411A",
     "KBA_Numbers": ""
   },
   {
@@ -1558,7 +1558,7 @@
     "kw": "118",
     "hp": "160",
     "cc": "2998",
-    "engineCodes": "F1CFL4116  F1CFL411C",
+    "engineCodes": "F1CFL4116, F1CFL411C",
     "KBA_Numbers": ""
   },
   {
@@ -1569,7 +1569,7 @@
     "kw": "125",
     "hp": "170",
     "cc": "2998",
-    "engineCodes": "F1CFL411F  F1CFL411H",
+    "engineCodes": "F1CFL411F, F1CFL411H",
     "KBA_Numbers": "4192AEL"
   },
   {
@@ -1580,7 +1580,7 @@
     "kw": "132",
     "hp": "179",
     "cc": "2998",
-    "engineCodes": "F1CGL411B  F1CFL411W  F1CFL4117",
+    "engineCodes": "F1CGL411B, F1CFL411W, F1CFL4117",
     "KBA_Numbers": ""
   },
   {
@@ -1602,7 +1602,7 @@
     "kw": "150",
     "hp": "205",
     "cc": "2998",
-    "engineCodes": "F1CFL411G  F1CGL411C",
+    "engineCodes": "F1CFL411G, F1CGL411C",
     "KBA_Numbers": "4192AGK"
   },
   {
@@ -1613,7 +1613,7 @@
     "kw": "80",
     "hp": "109",
     "cc": "ELETTRICO",
-    "engineCodes": "",
+    "engineCodes": "ELETTRICO",
     "KBA_Numbers": ""
   },
   {
@@ -1624,7 +1624,7 @@
     "kw": "140",
     "hp": "190",
     "cc": "550002E",
-    "engineCodes": "",
+    "engineCodes": "550002E",
     "KBA_Numbers": ""
   },
   {
@@ -1635,7 +1635,7 @@
     "kw": "100",
     "hp": "136",
     "cc": "2998",
-    "engineCodes": "F1CFA401A  F1CFA401C  F1CFA401D",
+    "engineCodes": "F1CFA401A, F1CFA401C, F1CFA401D",
     "KBA_Numbers": "4192ADR"
   },
   {
@@ -1646,18 +1646,18 @@
     "kw": "115",
     "hp": "156",
     "cc": "2287",
-    "engineCodes": "F1AGL411G  F1AGL411U  F1AGL411N  F1AGL411B  F1AGL411A",
+    "engineCodes": "F1AGL411G, F1AGL411U, F1AGL411N, F1AGL411B, F1AGL411A",
     "KBA_Numbers": ""
   },
   {
     "brand": "IVECO",
     "model": "DAILY VI Van",
     "engineType": "35S15, 35C15, 40C15, 45C15, 50C15, 65C15, 70C15",
-    "madeYear": "03.2014 - 04.2016",
+    "madeYear": "from 03.2014",
     "kw": "107",
     "hp": "146",
     "cc": "2998",
-    "engineCodes": "F1CE3481J  F1CFL411E  F1CFL411J",
+    "engineCodes": "F1CE3481J, F1CFL411E, F1CFL411J",
     "KBA_Numbers": "4192ABP"
   },
   {
@@ -1668,7 +1668,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "2998",
-    "engineCodes": "F1CGL411A  F1CFL411V",
+    "engineCodes": "F1CGL411A, F1CFL411V",
     "KBA_Numbers": ""
   },
   {
@@ -1679,18 +1679,18 @@
     "kw": "118",
     "hp": "160",
     "cc": "2998",
-    "engineCodes": "F1CFL411C  F1CFL4116",
+    "engineCodes": "F1CFL411C, F1CFL4116",
     "KBA_Numbers": ""
   },
   {
     "brand": "IVECO",
     "model": "DAILY VI Van",
     "engineType": "35S17, 35C17, 40C17, 50C17, 55C17, 60C17, 65C17, 70C17",
-    "madeYear": "03.2014 - 04.2016",
+    "madeYear": "from 03.2014",
     "kw": "125",
     "hp": "170",
     "cc": "2998",
-    "engineCodes": "F1CFL411H  F1CFL411F",
+    "engineCodes": "F1CFL411H, F1CFL411F",
     "KBA_Numbers": "4192AEO"
   },
   {
@@ -1712,7 +1712,7 @@
     "kw": "132",
     "hp": "180",
     "cc": "2998",
-    "engineCodes": "F1CGL411B  F1CFL4117  F1CFL411W",
+    "engineCodes": "F1CGL411B, F1CFL4117, F1CFL411W",
     "KBA_Numbers": ""
   },
   {
@@ -1734,7 +1734,7 @@
     "kw": "150",
     "hp": "205",
     "cc": "2998",
-    "engineCodes": "F1CFL411G  F1CGL411C",
+    "engineCodes": "F1CFL411G, F1CGL411C",
     "KBA_Numbers": ""
   },
   {
@@ -1756,7 +1756,7 @@
     "kw": "80",
     "hp": "109",
     "cc": "ELETTRICO",
-    "engineCodes": "",
+    "engineCodes": "ELETTRICO",
     "KBA_Numbers": ""
   },
   {
@@ -1767,7 +1767,7 @@
     "kw": "140",
     "hp": "190",
     "cc": "550002E",
-    "engineCodes": "",
+    "engineCodes": "550002E",
     "KBA_Numbers": ""
   },
   {
@@ -1778,7 +1778,7 @@
     "kw": "100",
     "hp": "136",
     "cc": "2998",
-    "engineCodes": "F1CFA401A  F1CFA401B  F1CFA401C  F1CFA401D",
+    "engineCodes": "F1CFA401A, F1CFA401B, F1CFA401C, F1CFA401D",
     "KBA_Numbers": ""
   }
 ]

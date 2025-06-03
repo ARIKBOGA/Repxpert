@@ -7,8 +7,8 @@
     "kw": "66",
     "hp": "90",
     "cc": "1396",
-    "engineCodes": "D14Z6  D14Z5",
-    "KBA_Numbers": "7100527  2131344  2131347"
+    "engineCodes": "D14Z6, D14Z5",
+    "KBA_Numbers": "7100527, 2131344, 2131347"
   },
   {
     "brand": "HONDA",
@@ -18,8 +18,8 @@
     "kw": "81",
     "hp": "110",
     "cc": "1590",
-    "engineCodes": "D16W7  D16V1",
-    "KBA_Numbers": "7100528  2131345  2131348"
+    "engineCodes": "D16W7, D16V1",
+    "KBA_Numbers": "7100528, 2131345, 2131348"
   },
   {
     "brand": "HONDA",
@@ -52,7 +52,7 @@
     "hp": "140",
     "cc": "2204",
     "engineCodes": "N22A2",
-    "KBA_Numbers": "2131355  2131AAD"
+    "KBA_Numbers": "2131355, 2131AAD"
   },
   {
     "brand": "HONDA",
@@ -73,7 +73,7 @@
     "kw": "92",
     "hp": "125",
     "cc": "1668",
-    "engineCodes": "D17A2  D17A5",
+    "engineCodes": "D17A2, D17A5",
     "KBA_Numbers": "7100531"
   },
   {
@@ -84,7 +84,7 @@
     "kw": "115",
     "hp": "156",
     "cc": "1998",
-    "engineCodes": "K20A5  K20A1",
+    "engineCodes": "K20A5, K20A1",
     "KBA_Numbers": "7100532"
   }
 ]

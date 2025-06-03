@@ -6,7 +6,7 @@
     "madeYear": "from 11.2021",
     "kw": "96",
     "hp": "130",
-    "cc": "2298",
+    "cc": "2299",
     "engineCodes": "M9T 710",
     "KBA_Numbers": "2228ABA"
   },
@@ -17,7 +17,7 @@
     "madeYear": "from 11.2021",
     "kw": "107",
     "hp": "145",
-    "cc": "2298",
+    "cc": "2299",
     "engineCodes": "M9T 710",
     "KBA_Numbers": "2228AAY"
   },
@@ -28,7 +28,7 @@
     "madeYear": "from 11.2021",
     "kw": "120",
     "hp": "163",
-    "cc": "2298",
+    "cc": "2299",
     "engineCodes": "M9T 710",
     "KBA_Numbers": "2228AAW"
   },
@@ -39,7 +39,7 @@
     "madeYear": "from 11.2021",
     "kw": "96",
     "hp": "130",
-    "cc": "2298",
+    "cc": "2299",
     "engineCodes": "M9T 710",
     "KBA_Numbers": "2228ABH"
   },
@@ -50,7 +50,7 @@
     "madeYear": "from 11.2021",
     "kw": "107",
     "hp": "145",
-    "cc": "2298",
+    "cc": "2299",
     "engineCodes": "M9T 710",
     "KBA_Numbers": "2228ABD"
   },
@@ -61,7 +61,7 @@
     "madeYear": "from 11.2021",
     "kw": "120",
     "hp": "163",
-    "cc": "2298",
+    "cc": "2299",
     "engineCodes": "M9T 710",
     "KBA_Numbers": "2228ABG"
   },
@@ -73,8 +73,8 @@
     "kw": "92",
     "hp": "125",
     "cc": "2299",
-    "engineCodes": "M9T 870  M9T 698  M9T 896  M9T 696  M9T 692  M9T 690  M9T 686  M9T 898  M9T 890",
-    "KBA_Numbers": "1329AGY  1329AGI"
+    "engineCodes": "M9T 870, M9T 698, M9T 896, M9T 696, M9T 692, M9T 690, M9T 686, M9T 898, M9T 890",
+    "KBA_Numbers": "1329AGY, 1329AGI"
   },
   {
     "brand": "NISSAN",
@@ -85,7 +85,7 @@
     "hp": "130",
     "cc": "2299",
     "engineCodes": "M9T 710",
-    "KBA_Numbers": "1329AKN  1329AKU  2228ABA"
+    "KBA_Numbers": "1329AKN, 1329AKU, 2228ABA"
   },
   {
     "brand": "NISSAN",
@@ -95,8 +95,8 @@
     "kw": "100",
     "hp": "136",
     "cc": "2299",
-    "engineCodes": "M9T 698  M9T 696  M9T 700",
-    "KBA_Numbers": "1329AIO  1329AIS"
+    "engineCodes": "M9T 698, M9T 696, M9T 700",
+    "KBA_Numbers": "1329AIO, 1329AIS"
   },
   {
     "brand": "NISSAN",
@@ -106,8 +106,8 @@
     "kw": "107",
     "hp": "146",
     "cc": "2299",
-    "engineCodes": "M9T 696  M9T 698  M9T 710  M9T 694",
-    "KBA_Numbers": "1329AGJ  1329AGX"
+    "engineCodes": "M9T 696, M9T 698, M9T 710, M9T 694",
+    "KBA_Numbers": "1329AGJ, 1329AGX"
   },
   {
     "brand": "NISSAN",
@@ -118,7 +118,7 @@
     "hp": "150",
     "cc": "2299",
     "engineCodes": "M9T 880",
-    "KBA_Numbers": "1329AHC  1329AHG"
+    "KBA_Numbers": "1329AHC, 1329AHG"
   },
   {
     "brand": "NISSAN",
@@ -128,8 +128,8 @@
     "kw": "120",
     "hp": "163",
     "cc": "2299",
-    "engineCodes": "M9T 700  M9T 710",
-    "KBA_Numbers": "1329AIP  1329AIT"
+    "engineCodes": "M9T 700, M9T 710",
+    "KBA_Numbers": "1329AIP, 1329AIT"
   },
   {
     "brand": "NISSAN",
@@ -139,8 +139,8 @@
     "kw": "92",
     "hp": "125",
     "cc": "2299",
-    "engineCodes": "M9T 870  M9T 896  M9T 698  M9T 696  M9T 692  M9T 686  M9T 690  M9T 890  M9T 898",
-    "KBA_Numbers": "1329AGW  1329AGC"
+    "engineCodes": "M9T 870, M9T 896, M9T 698, M9T 696, M9T 692, M9T 686, M9T 690, M9T 890, M9T 898",
+    "KBA_Numbers": "1329AGW, 1329AGC"
   },
   {
     "brand": "NISSAN",
@@ -151,7 +151,7 @@
     "hp": "130",
     "cc": "2299",
     "engineCodes": "M9T 710",
-    "KBA_Numbers": "1329AKQ  1329AKS"
+    "KBA_Numbers": "1329AKQ, 1329AKS"
   },
   {
     "brand": "NISSAN",
@@ -162,7 +162,7 @@
     "hp": "136",
     "cc": "2299",
     "engineCodes": "M9T 700",
-    "KBA_Numbers": "1329AIG  1329AII"
+    "KBA_Numbers": "1329AIG, 1329AII"
   },
   {
     "brand": "NISSAN",
@@ -172,8 +172,8 @@
     "kw": "107",
     "hp": "146",
     "cc": "2299",
-    "engineCodes": "M9T 698  M9T 696  M9T 694  M9T 710",
-    "KBA_Numbers": "1329AGV  1329AGD"
+    "engineCodes": "M9T 698, M9T 696, M9T 694, M9T 710",
+    "KBA_Numbers": "1329AGV, 1329AGD"
   },
   {
     "brand": "NISSAN",
@@ -184,7 +184,7 @@
     "hp": "150",
     "cc": "2299",
     "engineCodes": "M9T 880",
-    "KBA_Numbers": "1329AHB  1329AHF"
+    "KBA_Numbers": "1329AHB, 1329AHF"
   },
   {
     "brand": "NISSAN",
@@ -194,8 +194,8 @@
     "kw": "120",
     "hp": "163",
     "cc": "2299",
-    "engineCodes": "M9T 700  M9T 710",
-    "KBA_Numbers": "1329AIH  1329AIJ"
+    "engineCodes": "M9T 700, M9T 710",
+    "KBA_Numbers": "1329AIH, 1329AIJ"
   },
   {
     "brand": "OPEL",
@@ -205,7 +205,7 @@
     "kw": "74",
     "hp": "101",
     "cc": "2298",
-    "engineCodes": "M9T 690  M9T 692",
+    "engineCodes": "M9T 690, M9T 692",
     "KBA_Numbers": "0035AOM"
   },
   {
@@ -216,8 +216,8 @@
     "kw": "92",
     "hp": "125",
     "cc": "2298",
-    "engineCodes": "M9T 876  M9T 696  M9T 698  M9T 692  M9T 896  M9T 686  M9T 892  M9T 890  M9T 898  M9T 690",
-    "KBA_Numbers": "0035AON  0035AOF"
+    "engineCodes": "M9T 876, M9T 696, M9T 698, M9T 692, M9T 896, M9T 686, M9T 892, M9T 890, M9T 898, M9T 690",
+    "KBA_Numbers": "0035AON, 0035AOF"
   },
   {
     "brand": "OPEL",
@@ -227,8 +227,8 @@
     "kw": "107",
     "hp": "146",
     "cc": "2298",
-    "engineCodes": "M9T 698  M9T 696  M9T 694  M9T 710  M9T 898  M9T 896",
-    "KBA_Numbers": "0035BJL  0035BJO  0035BJR  0035BJU  0035AOO  0035AOP  0035AMQ  1844ACH  1844ABX  1844ACE  1844ABU"
+    "engineCodes": "M9T 698, M9T 696, M9T 694, M9T 710, M9T 898, M9T 896",
+    "KBA_Numbers": "0035BJL, 0035BJO, 0035BJR, 0035BJU, 0035AOO, 0035AOP, 0035AMQ, 1844ACH, 1844ABX, 1844ACE, 1844ABU"
   },
   {
     "brand": "OPEL",
@@ -238,8 +238,8 @@
     "kw": "110",
     "hp": "150",
     "cc": "2298",
-    "engineCodes": "M9T 696  M9T 698  M9T 694  M9T 898  M9T 896",
-    "KBA_Numbers": "0035AYO  0035AYX  1844ALQ  1844ALN"
+    "engineCodes": "M9T 696, M9T 698, M9T 694, M9T 898, M9T 896",
+    "KBA_Numbers": "0035AYO, 0035AYX, 1844ALQ, 1844ALN"
   },
   {
     "brand": "OPEL",
@@ -250,7 +250,7 @@
     "hp": "136",
     "cc": "2298",
     "engineCodes": "M9T 700",
-    "KBA_Numbers": "0035BDI  1844ALS  1844ALP  0035BDG"
+    "KBA_Numbers": "0035BDI, 1844ALS, 1844ALP, 0035BDG"
   },
   {
     "brand": "OPEL",
@@ -260,8 +260,8 @@
     "kw": "120",
     "hp": "163",
     "cc": "2298",
-    "engineCodes": "M9T 700  M9T 710",
-    "KBA_Numbers": "0035BJM  0035BJP  0035BJS  0035BJV  0035BDJ  0035BDH  1844ACI  1844ABV  1844ABY  1844ACF"
+    "engineCodes": "M9T 700, M9T 710",
+    "KBA_Numbers": "0035BJM, 0035BJP, 0035BJS, 0035BJV, 0035BDJ, 0035BDH, 1844ACI, 1844ABV, 1844ABY, 1844ACF"
   },
   {
     "brand": "OPEL",
@@ -272,7 +272,7 @@
     "hp": "131",
     "cc": "2298",
     "engineCodes": "M9T 710",
-    "KBA_Numbers": "0035BJK  0035BJN  0035BJQ  0035BJT  1844ABW  1844ACD  1844ACG  1844ABT"
+    "KBA_Numbers": "0035BJK, 0035BJN, 0035BJQ, 0035BJT, 1844ABW, 1844ACD, 1844ACG, 1844ABT"
   },
   {
     "brand": "OPEL",
@@ -282,8 +282,8 @@
     "kw": "74",
     "hp": "101",
     "cc": "2298",
-    "engineCodes": "M9T 690  M9T 692  M9T 890  M9T 892",
-    "KBA_Numbers": "0035AMO  0035AOM  0035ANP"
+    "engineCodes": "M9T 690, M9T 692, M9T 890, M9T 892",
+    "KBA_Numbers": "0035AMO, 0035AOM, 0035ANP"
   },
   {
     "brand": "OPEL",
@@ -293,8 +293,8 @@
     "kw": "92",
     "hp": "125",
     "cc": "2298",
-    "engineCodes": "M9T 876  M9T 686  M9T 690  M9T 696  M9T 896  M9T 890  M9T 698  M9T 898  M9T 892  M9T 692",
-    "KBA_Numbers": "0035ARS  0035ANQ"
+    "engineCodes": "M9T 876, M9T 686, M9T 690, M9T 696, M9T 896, M9T 890, M9T 698, M9T 898, M9T 892, M9T 692",
+    "KBA_Numbers": "0035ARS, 0035ANQ"
   },
   {
     "brand": "OPEL",
@@ -304,8 +304,8 @@
     "kw": "107",
     "hp": "146",
     "cc": "2298",
-    "engineCodes": "M9T 698  M9T 696  M9T 694  M9T 898  M9T 896  M9T 710",
-    "KBA_Numbers": "0035BKG  0035ART  0035AMQ  0035ANR  1844ABF  1844ABP  1844ABA  1844AHX"
+    "engineCodes": "M9T 698, M9T 696, M9T 694, M9T 898, M9T 896, M9T 710",
+    "KBA_Numbers": "0035BKG, 0035ART, 0035AMQ, 0035ANR, 1844ABF, 1844ABP, 1844ABA, 1844AHX"
   },
   {
     "brand": "OPEL",
@@ -315,8 +315,8 @@
     "kw": "110",
     "hp": "150",
     "cc": "2298",
-    "engineCodes": "M9T 696  M9T 694  M9T 698  M9T 898  M9T 896",
-    "KBA_Numbers": "0035AYP  0035AYW"
+    "engineCodes": "M9T 696, M9T 694, M9T 698, M9T 898, M9T 896",
+    "KBA_Numbers": "0035AYP, 0035AYW"
   },
   {
     "brand": "OPEL",
@@ -327,7 +327,7 @@
     "hp": "136",
     "cc": "2298",
     "engineCodes": "M9T 700",
-    "KBA_Numbers": "0035BDK  0035BDD"
+    "KBA_Numbers": "0035BDK, 0035BDD"
   },
   {
     "brand": "OPEL",
@@ -337,8 +337,8 @@
     "kw": "120",
     "hp": "163",
     "cc": "2298",
-    "engineCodes": "M9T 700  M9T 710",
-    "KBA_Numbers": "0035BKJ  0035BDL  0035BDE  1844AHY  1844ABB  1844ABG  1844ABS"
+    "engineCodes": "M9T 700, M9T 710",
+    "KBA_Numbers": "0035BKJ, 0035BDL, 0035BDE, 1844AHY, 1844ABB, 1844ABG, 1844ABS"
   },
   {
     "brand": "OPEL",
@@ -349,7 +349,7 @@
     "hp": "131",
     "cc": "2298",
     "engineCodes": "M9T 710",
-    "KBA_Numbers": "0035BKA  0035BKE  0035BKI  1844ABE  1844ABR  1844AAZ  1844AHW"
+    "KBA_Numbers": "0035BKA, 0035BKE, 0035BKI, 1844ABE, 1844ABR, 1844AAZ, 1844AHW"
   },
   {
     "brand": "RENAULT",
@@ -370,8 +370,8 @@
     "kw": "92",
     "hp": "125",
     "cc": "2298",
-    "engineCodes": "M9T 896  M9T 898  M9T 696  M9T 882  M9T 890  M9T 692  M9T 698  M9T 690  M9T 686",
-    "KBA_Numbers": "3333AXN  3333AYD"
+    "engineCodes": "M9T 896, M9T 898, M9T 696, M9T 882, M9T 890, M9T 692, M9T 698, M9T 690, M9T 686",
+    "KBA_Numbers": "3333AXN, 3333AYD"
   },
   {
     "brand": "RENAULT",
@@ -382,7 +382,7 @@
     "hp": "130",
     "cc": "2298",
     "engineCodes": "M9T 710",
-    "KBA_Numbers": "3333BLR  3333BGC  3333BGK"
+    "KBA_Numbers": "3333BLR, 3333BGC, 3333BGK"
   },
   {
     "brand": "RENAULT",
@@ -393,7 +393,7 @@
     "hp": "136",
     "cc": "2298",
     "engineCodes": "M9T 700",
-    "KBA_Numbers": "3333BCT  3333BDC"
+    "KBA_Numbers": "3333BCT, 3333BDC"
   },
   {
     "brand": "RENAULT",
@@ -403,8 +403,8 @@
     "kw": "107",
     "hp": "146",
     "cc": "2298",
-    "engineCodes": "M9T 710  M9T 698  M9T 694  M9T 696",
-    "KBA_Numbers": "3333BLT  3333AXO  3333AYE  3333BRB  3333BRA"
+    "engineCodes": "M9T 710, M9T 698, M9T 694, M9T 696",
+    "KBA_Numbers": "3333BLT, 3333AXO, 3333AYE, 3333BRB, 3333BRA"
   },
   {
     "brand": "RENAULT",
@@ -414,7 +414,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "2298",
-    "engineCodes": "M9T 898  M9T 896",
+    "engineCodes": "M9T 898, M9T 896",
     "KBA_Numbers": "3333BAW"
   },
   {
@@ -425,8 +425,8 @@
     "kw": "120",
     "hp": "163",
     "cc": "2298",
-    "engineCodes": "M9T 710  M9T 700",
-    "KBA_Numbers": "3333BCU  3333BDD"
+    "engineCodes": "M9T 710, M9T 700",
+    "KBA_Numbers": "3333BCU, 3333BDD"
   },
   {
     "brand": "RENAULT",
@@ -436,8 +436,8 @@
     "kw": "74",
     "hp": "101",
     "cc": "2298",
-    "engineCodes": "M9T 890  M9T 690",
-    "KBA_Numbers": "3333AXJ  3333AVQ"
+    "engineCodes": "M9T 890, M9T 690",
+    "KBA_Numbers": "3333AXJ, 3333AVQ"
   },
   {
     "brand": "RENAULT",
@@ -447,8 +447,8 @@
     "kw": "92",
     "hp": "125",
     "cc": "2298",
-    "engineCodes": "M9T 898  M9T 896  M9T 890  M9T 698  M9T 690  M9T 692  M9T 686  M9T 696",
-    "KBA_Numbers": "3333AYM  3333AXK  3333AVP"
+    "engineCodes": "M9T 898, M9T 896, M9T 890, M9T 698, M9T 690, M9T 692, M9T 686, M9T 696",
+    "KBA_Numbers": "3333AYM, 3333AXK, 3333AVP"
   },
   {
     "brand": "RENAULT",
@@ -459,7 +459,7 @@
     "hp": "130",
     "cc": "2298",
     "engineCodes": "M9T 710",
-    "KBA_Numbers": "3333BGF  3333BGH"
+    "KBA_Numbers": "3333BGF, 3333BGH"
   },
   {
     "brand": "RENAULT",
@@ -470,7 +470,7 @@
     "hp": "136",
     "cc": "2298",
     "engineCodes": "M9T 700",
-    "KBA_Numbers": "3333BCZ  3333BCV"
+    "KBA_Numbers": "3333BCZ, 3333BCV"
   },
   {
     "brand": "RENAULT",
@@ -480,8 +480,8 @@
     "kw": "107",
     "hp": "146",
     "cc": "2298",
-    "engineCodes": "M9T 710  M9T 696  M9T 698  M9T 694",
-    "KBA_Numbers": "3333AYN  3333AXL  3333AVZ"
+    "engineCodes": "M9T 710, M9T 696, M9T 698, M9T 694",
+    "KBA_Numbers": "3333AYN, 3333AXL, 3333AVZ"
   },
   {
     "brand": "RENAULT",
@@ -491,8 +491,8 @@
     "kw": "110",
     "hp": "150",
     "cc": "2298",
-    "engineCodes": "M9T 896  M9T 898",
-    "KBA_Numbers": "3333BAV  3333BAZ"
+    "engineCodes": "M9T 896, M9T 898",
+    "KBA_Numbers": "3333BAV, 3333BAZ"
   },
   {
     "brand": "RENAULT",
@@ -502,8 +502,8 @@
     "kw": "120",
     "hp": "163",
     "cc": "2298",
-    "engineCodes": "M9T 710  M9T 700",
-    "KBA_Numbers": "3333BDA  3333BCW"
+    "engineCodes": "M9T 710, M9T 700",
+    "KBA_Numbers": "3333BDA, 3333BCW"
   },
   {
     "brand": "VAUXHALL",
@@ -524,7 +524,7 @@
     "kw": "74",
     "hp": "101",
     "cc": "2298",
-    "engineCodes": "M9T 890  M9T 870  M9T 692  M9T 670  M9T 690",
+    "engineCodes": "M9T 890, M9T 870, M9T 692, M9T 670, M9T 690",
     "KBA_Numbers": ""
   },
   {
@@ -546,7 +546,7 @@
     "kw": "120",
     "hp": "163",
     "cc": "2298",
-    "engineCodes": "M9T 700  M9T 710",
+    "engineCodes": "M9T 700, M9T 710",
     "KBA_Numbers": ""
   },
   {
@@ -568,7 +568,7 @@
     "kw": "92",
     "hp": "125",
     "cc": "2298",
-    "engineCodes": "M9T 890  M9T 690  M9T 692  M9T 898  M9T 876  M9T 696  M9T 686  M9T 698  M9T 896",
+    "engineCodes": "M9T 890, M9T 690, M9T 692, M9T 898, M9T 876, M9T 696, M9T 686, M9T 698, M9T 896",
     "KBA_Numbers": ""
   },
   {
@@ -579,7 +579,7 @@
     "kw": "107",
     "hp": "146",
     "cc": "2298",
-    "engineCodes": "M9T 696  M9T 698  M9T 694  M9T 896",
+    "engineCodes": "M9T 696, M9T 698, M9T 694, M9T 896",
     "KBA_Numbers": ""
   },
   {
@@ -590,7 +590,7 @@
     "kw": "74",
     "hp": "101",
     "cc": "2298",
-    "engineCodes": "M9T 870  M9T 692  M9T 690",
+    "engineCodes": "M9T 870, M9T 692, M9T 690",
     "KBA_Numbers": ""
   },
   {
@@ -601,7 +601,7 @@
     "kw": "92",
     "hp": "125",
     "cc": "2298",
-    "engineCodes": "M9T 876  M9T 690  M9T 692  M9T 696  M9T 686  M9T 698",
+    "engineCodes": "M9T 876, M9T 690, M9T 692, M9T 696, M9T 686, M9T 698",
     "KBA_Numbers": ""
   },
   {
@@ -612,7 +612,7 @@
     "kw": "107",
     "hp": "146",
     "cc": "2298",
-    "engineCodes": "M9T 696  M9T 698  M9T 694  M9T 896",
+    "engineCodes": "M9T 696, M9T 698, M9T 694, M9T 896",
     "KBA_Numbers": ""
   },
   {
@@ -623,7 +623,7 @@
     "kw": "100",
     "hp": "136",
     "cc": "2298",
-    "engineCodes": "M9T 702  M9T 700",
+    "engineCodes": "M9T 702, M9T 700",
     "KBA_Numbers": ""
   },
   {
@@ -634,7 +634,7 @@
     "kw": "120",
     "hp": "163",
     "cc": "2298",
-    "engineCodes": "M9T 700  M9T 710",
+    "engineCodes": "M9T 700, M9T 710",
     "KBA_Numbers": ""
   },
   {

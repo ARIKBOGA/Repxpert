@@ -19,7 +19,7 @@
     "hp": "126",
     "cc": "2298",
     "engineCodes": "M 102.989",
-    "KBA_Numbers": "0708414  0708416"
+    "KBA_Numbers": "0708414, 0708416"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -74,7 +74,7 @@
     "hp": "136",
     "cc": "3449",
     "engineCodes": "OM 603.972",
-    "KBA_Numbers": "0708489  0708435"
+    "KBA_Numbers": "0708489, 0708435"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -96,7 +96,7 @@
     "hp": "156",
     "cc": "2685",
     "engineCodes": "OM 612.965",
-    "KBA_Numbers": "0999AEL  0999AEM  0710526  0710AAD"
+    "KBA_Numbers": "0999AEL, 0999AEM, 0710526, 0710AAD"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -129,7 +129,7 @@
     "hp": "215",
     "cc": "3199",
     "engineCodes": "M 112.945",
-    "KBA_Numbers": "0710383  0999AED"
+    "KBA_Numbers": "0710383, 0999AED"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -151,7 +151,7 @@
     "hp": "250",
     "cc": "3996",
     "engineCodes": "OM 628.962",
-    "KBA_Numbers": "0999AEJ  0999AEI  0710495"
+    "KBA_Numbers": "0999AEJ, 0999AEI, 0710495"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -162,7 +162,7 @@
     "hp": "296",
     "cc": "4966",
     "engineCodes": "M 113.962",
-    "KBA_Numbers": "0710404  1313AIQ  1313AIT  1313AIM  0999AEF  0999AEG  0999AEH"
+    "KBA_Numbers": "0710404, 1313AIQ, 1313AIT, 1313AIM, 0999AEF, 0999AEG, 0999AEH"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -173,7 +173,7 @@
     "hp": "354",
     "cc": "5439",
     "engineCodes": "M 113.982",
-    "KBA_Numbers": "0999AEN  0999AEO  0710532"
+    "KBA_Numbers": "0999AEN, 0999AEO, 0710532"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -184,7 +184,7 @@
     "hp": "476",
     "cc": "5439",
     "engineCodes": "M 113.993",
-    "KBA_Numbers": "0999AEP  0999AEQ  0999300"
+    "KBA_Numbers": "0999AEP, 0999AEQ, 0999300"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -239,7 +239,7 @@
     "hp": "136",
     "cc": "3449",
     "engineCodes": "OM 603.972",
-    "KBA_Numbers": "0708488  0708434"
+    "KBA_Numbers": "0708488, 0708434"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -261,7 +261,7 @@
     "hp": "215",
     "cc": "3199",
     "engineCodes": "M 112.945",
-    "KBA_Numbers": "0710382  0999AEC"
+    "KBA_Numbers": "0710382, 0999AEC"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -272,7 +272,7 @@
     "hp": "224",
     "cc": "2987",
     "engineCodes": "OM 642.970",
-    "KBA_Numbers": "1313AIN  0999AUN"
+    "KBA_Numbers": "1313AIN, 0999AUN"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -283,7 +283,7 @@
     "hp": "250",
     "cc": "3996",
     "engineCodes": "OM 628.962",
-    "KBA_Numbers": "0999AEK  0710505"
+    "KBA_Numbers": "0999AEK, 0710505"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -294,7 +294,7 @@
     "hp": "296",
     "cc": "4966",
     "engineCodes": "M 113.962",
-    "KBA_Numbers": "0710403  1313AIP  0999AEE"
+    "KBA_Numbers": "0710403, 1313AIP, 0999AEE"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -370,8 +370,8 @@
     "kw": "105",
     "hp": "143",
     "cc": "2295",
-    "engineCodes": "M 111.984  M 111.979",
-    "KBA_Numbers": "0708494  0710460"
+    "engineCodes": "M 111.984, M 111.979",
+    "KBA_Numbers": "0708494, 0710460"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -381,7 +381,7 @@
     "kw": "95",
     "hp": "129",
     "cc": "2295",
-    "engineCodes": "M 111.979  M 111.984",
+    "engineCodes": "M 111.979, M 111.984",
     "KBA_Numbers": ""
   },
   {
@@ -415,7 +415,7 @@
     "hp": "79",
     "cc": "2299",
     "engineCodes": "OM 601.943",
-    "KBA_Numbers": "0710001  0710289"
+    "KBA_Numbers": "0710001, 0710289"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -426,7 +426,7 @@
     "hp": "82",
     "cc": "2299",
     "engineCodes": "OM 601.943",
-    "KBA_Numbers": "0710055  0710290"
+    "KBA_Numbers": "0710055, 0710290"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -437,7 +437,7 @@
     "hp": "102",
     "cc": "2874",
     "engineCodes": "OM 602.980",
-    "KBA_Numbers": "0710115  0710291"
+    "KBA_Numbers": "0710115, 0710291"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -459,7 +459,7 @@
     "hp": "122",
     "cc": "2874",
     "engineCodes": "OM 602.980",
-    "KBA_Numbers": "0710003  0710292"
+    "KBA_Numbers": "0710003, 0710292"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -480,8 +480,8 @@
     "kw": "105",
     "hp": "143",
     "cc": "2295",
-    "engineCodes": "M 111.984  M 111.979",
-    "KBA_Numbers": "0710009  0710790"
+    "engineCodes": "M 111.984, M 111.979",
+    "KBA_Numbers": "0710009, 0710790"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -491,7 +491,7 @@
     "kw": "95",
     "hp": "129",
     "cc": "2295",
-    "engineCodes": "M 111.984  M 111.979",
+    "engineCodes": "M 111.984, M 111.979",
     "KBA_Numbers": ""
   },
   {
@@ -525,7 +525,7 @@
     "hp": "79",
     "cc": "2299",
     "engineCodes": "OM 601.943",
-    "KBA_Numbers": "0710002  0710154"
+    "KBA_Numbers": "0710002, 0710154"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -536,7 +536,7 @@
     "hp": "82",
     "cc": "2299",
     "engineCodes": "OM 601.943",
-    "KBA_Numbers": "0710070  0710155"
+    "KBA_Numbers": "0710070, 0710155"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -547,7 +547,7 @@
     "hp": "102",
     "cc": "2874",
     "engineCodes": "OM 602.980",
-    "KBA_Numbers": "0710116  0710156"
+    "KBA_Numbers": "0710116, 0710156"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -569,7 +569,7 @@
     "hp": "122",
     "cc": "2874",
     "engineCodes": "OM 602.980",
-    "KBA_Numbers": "0710004  0710157"
+    "KBA_Numbers": "0710004, 0710157"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -590,8 +590,8 @@
     "kw": "105",
     "hp": "143",
     "cc": "2295",
-    "engineCodes": "M 111.984  M 111.979",
-    "KBA_Numbers": "0710010  0710158  0710765"
+    "engineCodes": "M 111.984, M 111.979",
+    "KBA_Numbers": "0710010, 0710158, 0710765"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -601,7 +601,7 @@
     "kw": "95",
     "hp": "129",
     "cc": "2295",
-    "engineCodes": "M 111.979  M 111.984",
+    "engineCodes": "M 111.979, M 111.984",
     "KBA_Numbers": ""
   },
   {
@@ -646,7 +646,7 @@
     "hp": "79",
     "cc": "2299",
     "engineCodes": "OM 601.943",
-    "KBA_Numbers": "0709817  0708492  0708001"
+    "KBA_Numbers": "0709817, 0708492, 0708001"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -668,7 +668,7 @@
     "hp": "102",
     "cc": "2874",
     "engineCodes": "OM 602.980",
-    "KBA_Numbers": "0710376  0710707"
+    "KBA_Numbers": "0710376, 0710707"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -734,7 +734,7 @@
     "hp": "129",
     "cc": "2148",
     "engineCodes": "OM 611.981",
-    "KBA_Numbers": "0710462  0710803"
+    "KBA_Numbers": "0710462, 0710803"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -744,8 +744,8 @@
     "kw": "105",
     "hp": "143",
     "cc": "2295",
-    "engineCodes": "M 111.979  M 111.984",
-    "KBA_Numbers": "0708494  0710460"
+    "engineCodes": "M 111.979, M 111.984",
+    "KBA_Numbers": "0708494, 0710460"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -755,8 +755,8 @@
     "kw": "105",
     "hp": "143",
     "cc": "2295",
-    "engineCodes": "M 111.984  M 111.979",
-    "KBA_Numbers": "0710805  0710709"
+    "engineCodes": "M 111.984, M 111.979",
+    "KBA_Numbers": "0710805, 0710709"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -766,7 +766,7 @@
     "kw": "95",
     "hp": "129",
     "cc": "2295",
-    "engineCodes": "M 111.984  M 111.979",
+    "engineCodes": "M 111.984, M 111.979",
     "KBA_Numbers": ""
   },
   {
@@ -777,7 +777,7 @@
     "kw": "115",
     "hp": "156",
     "cc": "2685",
-    "engineCodes": "OM 647.981  OM 612.981",
+    "engineCodes": "OM 647.981, OM 612.981",
     "KBA_Numbers": "0710459"
   },
   {
@@ -788,7 +788,7 @@
     "kw": "115",
     "hp": "156",
     "cc": "2685",
-    "engineCodes": "OM 647.981  OM 612.981",
+    "engineCodes": "OM 647.981, OM 612.981",
     "KBA_Numbers": "0710463"
   },
   {
@@ -811,7 +811,7 @@
     "hp": "79",
     "cc": "2299",
     "engineCodes": "OM 601.943",
-    "KBA_Numbers": "0710005  0710026  0710037  0710284"
+    "KBA_Numbers": "0710005, 0710026, 0710037, 0710284"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -822,7 +822,7 @@
     "hp": "82",
     "cc": "2299",
     "engineCodes": "OM 601.943",
-    "KBA_Numbers": "0710086  0709798"
+    "KBA_Numbers": "0710086, 0709798"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -833,7 +833,7 @@
     "hp": "102",
     "cc": "2874",
     "engineCodes": "OM 602.980",
-    "KBA_Numbers": "0710117  0710286"
+    "KBA_Numbers": "0710117, 0710286"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -877,7 +877,7 @@
     "hp": "122",
     "cc": "2874",
     "engineCodes": "OM 602.980",
-    "KBA_Numbers": "0710007  0710027  0710287"
+    "KBA_Numbers": "0710007, 0710027, 0710287"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -909,8 +909,8 @@
     "kw": "105",
     "hp": "143",
     "cc": "2295",
-    "engineCodes": "M 111.979  M 111.984",
-    "KBA_Numbers": "0710011  0710028  0710775"
+    "engineCodes": "M 111.979, M 111.984",
+    "KBA_Numbers": "0710011, 0710028, 0710775"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -920,7 +920,7 @@
     "kw": "105",
     "hp": "143",
     "cc": "2295",
-    "engineCodes": "M 111.984  M 111.979",
+    "engineCodes": "M 111.984, M 111.979",
     "KBA_Numbers": ""
   },
   {
@@ -931,7 +931,7 @@
     "kw": "95",
     "hp": "129",
     "cc": "2295",
-    "engineCodes": "M 111.979  M 111.984",
+    "engineCodes": "M 111.979, M 111.984",
     "KBA_Numbers": ""
   },
   {
@@ -942,7 +942,7 @@
     "kw": "115",
     "hp": "156",
     "cc": "2685",
-    "engineCodes": "OM 647.981  OM 612.981",
+    "engineCodes": "OM 647.981, OM 612.981",
     "KBA_Numbers": "0710774"
   },
   {
@@ -953,7 +953,7 @@
     "kw": "115",
     "hp": "156",
     "cc": "2685",
-    "engineCodes": "OM 647.981  OM 612.981",
+    "engineCodes": "OM 647.981, OM 612.981",
     "KBA_Numbers": "0710804"
   },
   {
@@ -965,7 +965,7 @@
     "hp": "82",
     "cc": "2148",
     "engineCodes": "OM 611.987",
-    "KBA_Numbers": "0710824  0710766"
+    "KBA_Numbers": "0710824, 0710766"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -976,7 +976,7 @@
     "hp": "82",
     "cc": "2299",
     "engineCodes": "OM 601.943",
-    "KBA_Numbers": "0710039  0710040"
+    "KBA_Numbers": "0710039, 0710040"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -987,7 +987,7 @@
     "hp": "79",
     "cc": "2299",
     "engineCodes": "OM 601.943",
-    "KBA_Numbers": "0710006  0710622"
+    "KBA_Numbers": "0710006, 0710622"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -998,7 +998,7 @@
     "hp": "102",
     "cc": "2874",
     "engineCodes": "OM 602.980",
-    "KBA_Numbers": "0710118  0710624"
+    "KBA_Numbers": "0710118, 0710624"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -1042,7 +1042,7 @@
     "hp": "122",
     "cc": "2874",
     "engineCodes": "OM 602.980",
-    "KBA_Numbers": "0710008  0710625"
+    "KBA_Numbers": "0710008, 0710625"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -1064,7 +1064,7 @@
     "hp": "129",
     "cc": "2148",
     "engineCodes": "OM 611.981",
-    "KBA_Numbers": "0710840  0710768"
+    "KBA_Numbers": "0710840, 0710768"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -1075,7 +1075,7 @@
     "hp": "129",
     "cc": "2148",
     "engineCodes": "OM 611.981",
-    "KBA_Numbers": "0710807  0999ABG"
+    "KBA_Numbers": "0710807, 0999ABG"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -1085,8 +1085,8 @@
     "kw": "105",
     "hp": "143",
     "cc": "2295",
-    "engineCodes": "M 111.979  M 111.984",
-    "KBA_Numbers": "0710012  0710770  0710626"
+    "engineCodes": "M 111.979, M 111.984",
+    "KBA_Numbers": "0710012, 0710770, 0710626"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -1096,8 +1096,8 @@
     "kw": "105",
     "hp": "143",
     "cc": "2295",
-    "engineCodes": "M 111.984  M 111.979",
-    "KBA_Numbers": "0710809  0710717"
+    "engineCodes": "M 111.984, M 111.979",
+    "KBA_Numbers": "0710809, 0710717"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -1107,7 +1107,7 @@
     "kw": "95",
     "hp": "129",
     "cc": "2295",
-    "engineCodes": "M 111.979  M 111.984",
+    "engineCodes": "M 111.979, M 111.984",
     "KBA_Numbers": ""
   },
   {
@@ -1118,8 +1118,8 @@
     "kw": "115",
     "hp": "156",
     "cc": "2685",
-    "engineCodes": "OM 647.981  OM 612.981",
-    "KBA_Numbers": "0710841  0710769"
+    "engineCodes": "OM 647.981, OM 612.981",
+    "KBA_Numbers": "0710841, 0710769"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -1129,7 +1129,7 @@
     "kw": "115",
     "hp": "156",
     "cc": "2685",
-    "engineCodes": "OM 647.981  OM 612.981",
+    "engineCodes": "OM 647.981, OM 612.981",
     "KBA_Numbers": "0710808"
   },
   {
@@ -1173,7 +1173,7 @@
     "kw": "105",
     "hp": "143",
     "cc": "2295",
-    "engineCodes": "M 111.984  M 111.979",
+    "engineCodes": "M 111.984, M 111.979",
     "KBA_Numbers": "0710468"
   },
   {
@@ -1207,7 +1207,7 @@
     "hp": "79",
     "cc": "2299",
     "engineCodes": "OM 601.943",
-    "KBA_Numbers": "0710017  0710143  0709785"
+    "KBA_Numbers": "0710017, 0710143, 0709785"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -1273,7 +1273,7 @@
     "hp": "122",
     "cc": "2874",
     "engineCodes": "OM 602.980",
-    "KBA_Numbers": "0710018  0710145"
+    "KBA_Numbers": "0710018, 0710145"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -1327,8 +1327,8 @@
     "kw": "105",
     "hp": "143",
     "cc": "2295",
-    "engineCodes": "M 111.984  M 111.979",
-    "KBA_Numbers": "0710019  0710146  0710780"
+    "engineCodes": "M 111.984, M 111.979",
+    "KBA_Numbers": "0710019, 0710146, 0710780"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -1338,8 +1338,8 @@
     "kw": "105",
     "hp": "143",
     "cc": "2295",
-    "engineCodes": "M 111.984  M 111.979",
-    "KBA_Numbers": "0710721  0710797"
+    "engineCodes": "M 111.984, M 111.979",
+    "KBA_Numbers": "0710721, 0710797"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -1349,7 +1349,7 @@
     "kw": "115",
     "hp": "156",
     "cc": "2685",
-    "engineCodes": "OM 647.981  OM 612.981",
+    "engineCodes": "OM 647.981, OM 612.981",
     "KBA_Numbers": "0710779"
   },
   {
@@ -1360,7 +1360,7 @@
     "kw": "115",
     "hp": "156",
     "cc": "2685",
-    "engineCodes": "OM 612.981  OM 647.981",
+    "engineCodes": "OM 612.981, OM 647.981",
     "KBA_Numbers": "0710796"
   },
   {
@@ -1383,7 +1383,7 @@
     "hp": "79",
     "cc": "2299",
     "engineCodes": "OM 601.943",
-    "KBA_Numbers": "0710016  0710139  0709773  0708011"
+    "KBA_Numbers": "0710016, 0710139, 0709773, 0708011"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -1449,7 +1449,7 @@
     "hp": "122",
     "cc": "2874",
     "engineCodes": "OM 602.980",
-    "KBA_Numbers": "0710014  0710141"
+    "KBA_Numbers": "0710014, 0710141"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -1503,8 +1503,8 @@
     "kw": "105",
     "hp": "143",
     "cc": "2295",
-    "engineCodes": "M 111.984  M 111.979",
-    "KBA_Numbers": "0710015  0710142  0710785"
+    "engineCodes": "M 111.984, M 111.979",
+    "KBA_Numbers": "0710015, 0710142, 0710785"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -1514,8 +1514,8 @@
     "kw": "105",
     "hp": "143",
     "cc": "2295",
-    "engineCodes": "M 111.984  M 111.979",
-    "KBA_Numbers": "0710801  0710713"
+    "engineCodes": "M 111.984, M 111.979",
+    "KBA_Numbers": "0710801, 0710713"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -1525,7 +1525,7 @@
     "kw": "115",
     "hp": "156",
     "cc": "2685",
-    "engineCodes": "OM 612.981  OM 647.981",
+    "engineCodes": "OM 612.981, OM 647.981",
     "KBA_Numbers": "0710784"
   },
   {
@@ -1536,7 +1536,7 @@
     "kw": "115",
     "hp": "156",
     "cc": "2685",
-    "engineCodes": "OM 647.981  OM 612.981",
+    "engineCodes": "OM 647.981, OM 612.981",
     "KBA_Numbers": "0710800"
   },
   {
@@ -1602,7 +1602,7 @@
     "kw": "80",
     "hp": "109",
     "cc": "2461",
-    "engineCodes": "ANJ  AVR",
+    "engineCodes": "ANJ, AVR",
     "KBA_Numbers": "0603527"
   },
   {
@@ -1657,7 +1657,7 @@
     "kw": "116",
     "hp": "158",
     "cc": "2799",
-    "engineCodes": "BCQ  AUH",
+    "engineCodes": "BCQ, AUH",
     "KBA_Numbers": "0603685"
   },
   {
@@ -1691,7 +1691,7 @@
     "hp": "102",
     "cc": "2461",
     "engineCodes": "AHD",
-    "KBA_Numbers": "0603024  0603033"
+    "KBA_Numbers": "0603024, 0603033"
   },
   {
     "brand": "VW",
@@ -1702,7 +1702,7 @@
     "hp": "90",
     "cc": "2461",
     "engineCodes": "APA",
-    "KBA_Numbers": "0603057  0603053"
+    "KBA_Numbers": "0603057, 0603053"
   },
   {
     "brand": "VW",
@@ -1712,8 +1712,8 @@
     "kw": "80",
     "hp": "109",
     "cc": "2461",
-    "engineCodes": "ANJ  AVR",
-    "KBA_Numbers": "0603054  0603058"
+    "engineCodes": "ANJ, AVR",
+    "KBA_Numbers": "0603054, 0603058"
   },
   {
     "brand": "VW",
@@ -1735,7 +1735,7 @@
     "hp": "95",
     "cc": "2461",
     "engineCodes": "BBF",
-    "KBA_Numbers": "0603065  0603063"
+    "KBA_Numbers": "0603065, 0603063"
   },
   {
     "brand": "VW",
@@ -1746,7 +1746,7 @@
     "hp": "125",
     "cc": "2799",
     "engineCodes": "AGK",
-    "KBA_Numbers": "0603041  0603040"
+    "KBA_Numbers": "0603041, 0603040"
   },
   {
     "brand": "VW",
@@ -1757,7 +1757,7 @@
     "hp": "130",
     "cc": "2799",
     "engineCodes": "ATA",
-    "KBA_Numbers": "0603047  0603050"
+    "KBA_Numbers": "0603047, 0603050"
   },
   {
     "brand": "VW",
@@ -1790,7 +1790,7 @@
     "hp": "102",
     "cc": "2461",
     "engineCodes": "AHD",
-    "KBA_Numbers": "0603020  0603036"
+    "KBA_Numbers": "0603020, 0603036"
   },
   {
     "brand": "VW",
@@ -1801,7 +1801,7 @@
     "hp": "90",
     "cc": "2461",
     "engineCodes": "APA",
-    "KBA_Numbers": "0603051  0603055"
+    "KBA_Numbers": "0603051, 0603055"
   },
   {
     "brand": "VW",
@@ -1811,8 +1811,8 @@
     "kw": "80",
     "hp": "109",
     "cc": "2461",
-    "engineCodes": "ANJ  AVR",
-    "KBA_Numbers": "0603052  0603056"
+    "engineCodes": "ANJ, AVR",
+    "KBA_Numbers": "0603052, 0603056"
   },
   {
     "brand": "VW",
@@ -1834,7 +1834,7 @@
     "hp": "95",
     "cc": "2461",
     "engineCodes": "BBF",
-    "KBA_Numbers": "0603061  0603062"
+    "KBA_Numbers": "0603061, 0603062"
   },
   {
     "brand": "VW",
@@ -1845,7 +1845,7 @@
     "hp": "125",
     "cc": "2799",
     "engineCodes": "AGK",
-    "KBA_Numbers": "0603039  0603042"
+    "KBA_Numbers": "0603039, 0603042"
   },
   {
     "brand": "VW",
@@ -1856,6 +1856,6 @@
     "hp": "130",
     "cc": "2799",
     "engineCodes": "ATA",
-    "KBA_Numbers": "0603048  0603049"
+    "KBA_Numbers": "0603048, 0603049"
   }
 ]

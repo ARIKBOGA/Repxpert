@@ -19,7 +19,7 @@
     "hp": "204",
     "cc": "2143",
     "engineCodes": "OM 651.912",
-    "KBA_Numbers": "1313BMN  1313BMR"
+    "KBA_Numbers": "1313BMN, 1313BMR"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -63,7 +63,7 @@
     "hp": "224",
     "cc": "2987",
     "engineCodes": "OM 642.960",
-    "KBA_Numbers": "0999BEA  1313ABH"
+    "KBA_Numbers": "0999BEA, 1313ABH"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -74,7 +74,7 @@
     "hp": "224",
     "cc": "2987",
     "engineCodes": "OM 642.961",
-    "KBA_Numbers": "1313ABI  0999BHV"
+    "KBA_Numbers": "1313ABI, 0999BHV"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -85,7 +85,7 @@
     "hp": "272",
     "cc": "3498",
     "engineCodes": "M 272.961",
-    "KBA_Numbers": "1313ABO  0999BDW"
+    "KBA_Numbers": "1313ABO, 0999BDW"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -107,7 +107,7 @@
     "hp": "272",
     "cc": "3498",
     "engineCodes": "M 272.971",
-    "KBA_Numbers": "1313ABP  0999BHC"
+    "KBA_Numbers": "1313ABP, 0999BHC"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -294,7 +294,7 @@
     "hp": "224",
     "cc": "2987",
     "engineCodes": "OM 642.960",
-    "KBA_Numbers": "1313AHI  1313AGZ  0999BHI  0999BIZ"
+    "KBA_Numbers": "1313AHI, 1313AGZ, 0999BHI, 0999BIZ"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -305,7 +305,7 @@
     "hp": "224",
     "cc": "2987",
     "engineCodes": "OM 642.961",
-    "KBA_Numbers": "1313AHA  0999BIW"
+    "KBA_Numbers": "1313AHA, 0999BIW"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -316,7 +316,7 @@
     "hp": "272",
     "cc": "3498",
     "engineCodes": "M 272.961",
-    "KBA_Numbers": "1313AHF  0999BHF"
+    "KBA_Numbers": "1313AHF, 0999BHF"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -349,7 +349,7 @@
     "hp": "231",
     "cc": "2987",
     "engineCodes": "OM 642.830",
-    "KBA_Numbers": "1313BMS  1313BMV"
+    "KBA_Numbers": "1313BMS, 1313BMV"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -458,7 +458,7 @@
     "kw": "215",
     "hp": "292",
     "cc": "3498",
-    "engineCodes": "M 272.982  M 272.984",
+    "engineCodes": "M 272.982, M 272.984",
     "KBA_Numbers": "1313BOP"
   },
   {
@@ -601,7 +601,7 @@
     "kw": "215",
     "hp": "292",
     "cc": "3498",
-    "engineCodes": "M 272.984  M 272.982",
+    "engineCodes": "M 272.984, M 272.982",
     "KBA_Numbers": "1313BGQ"
   },
   {

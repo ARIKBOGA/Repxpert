@@ -8,7 +8,7 @@
     "hp": "121",
     "cc": "1796",
     "engineCodes": "LDA",
-    "KBA_Numbers": "8260AAX  8260045"
+    "KBA_Numbers": "8260AAX, 8260045"
   },
   {
     "brand": "CHEVROLET",
@@ -29,7 +29,7 @@
     "kw": "80",
     "hp": "109",
     "cc": "1598",
-    "engineCodes": "LXT  L44(96CUL4)",
+    "engineCodes": "LXT, L44(96CUL4)",
     "KBA_Numbers": ""
   },
   {
@@ -184,7 +184,7 @@
     "hp": "103",
     "cc": "1598",
     "engineCodes": "A16DMS",
-    "KBA_Numbers": "8255342  8260007"
+    "KBA_Numbers": "8255342, 8260007"
   },
   {
     "brand": "DAEWOO",
@@ -217,7 +217,7 @@
     "hp": "126",
     "cc": "1998",
     "engineCodes": "T20SED",
-    "KBA_Numbers": "8255348  8260013"
+    "KBA_Numbers": "8255348, 8260013"
   },
   {
     "brand": "DAEWOO",
@@ -261,7 +261,7 @@
     "hp": "90",
     "cc": "1598",
     "engineCodes": "A16DMS",
-    "KBA_Numbers": "8255331  8255332"
+    "KBA_Numbers": "8255331, 8255332"
   },
   {
     "brand": "DAEWOO",
@@ -272,7 +272,7 @@
     "hp": "103",
     "cc": "1598",
     "engineCodes": "A16DMS",
-    "KBA_Numbers": "8255351  8260009"
+    "KBA_Numbers": "8255351, 8260009"
   },
   {
     "brand": "DAEWOO",
@@ -294,6 +294,6 @@
     "hp": "126",
     "cc": "1998",
     "engineCodes": "T20SED",
-    "KBA_Numbers": "8255350  8260015"
+    "KBA_Numbers": "8255350, 8260015"
   }
 ]

@@ -51,7 +51,7 @@
     "kw": "86",
     "hp": "117",
     "cc": "1590",
-    "engineCodes": "4A92  NKZ (4A92)",
+    "engineCodes": "4A92, NKZ (4A92)",
     "KBA_Numbers": "3001AQH"
   },
   {
@@ -139,7 +139,7 @@
     "kw": "129",
     "hp": "175",
     "cc": "2360",
-    "engineCodes": "ED3  EDG",
+    "engineCodes": "ED3, EDG",
     "KBA_Numbers": ""
   },
   {
@@ -227,7 +227,7 @@
     "kw": "103",
     "hp": "140",
     "cc": "1968",
-    "engineCodes": "ECE  ECD",
+    "engineCodes": "ECE, ECD",
     "KBA_Numbers": "1004ABC"
   },
   {
@@ -283,7 +283,7 @@
     "hp": "156",
     "cc": "1998",
     "engineCodes": "ECN",
-    "KBA_Numbers": "1726ABD  1004ADJ"
+    "KBA_Numbers": "1726ABD, 1004ADJ"
   },
   {
     "brand": "JEEP",
@@ -348,7 +348,7 @@
     "kw": "103",
     "hp": "140",
     "cc": "1968",
-    "engineCodes": "ECE  ECD",
+    "engineCodes": "ECE, ECD",
     "KBA_Numbers": "1004ABM"
   },
   {
@@ -370,7 +370,7 @@
     "kw": "125",
     "hp": "170",
     "cc": "2360",
-    "engineCodes": "EDG  ED3",
+    "engineCodes": "EDG, ED3",
     "KBA_Numbers": ""
   },
   {
@@ -381,7 +381,7 @@
     "kw": "125",
     "hp": "170",
     "cc": "2360",
-    "engineCodes": "EDG  ED3",
+    "engineCodes": "EDG, ED3",
     "KBA_Numbers": "1004ABK"
   },
   {
@@ -415,7 +415,7 @@
     "hp": "116",
     "cc": "1590",
     "engineCodes": "4A92",
-    "KBA_Numbers": "7107ADH  7107ADI"
+    "KBA_Numbers": "7107ADH, 7107ADI"
   },
   {
     "brand": "MITSUBISHI",
@@ -426,7 +426,7 @@
     "hp": "117",
     "cc": "1590",
     "engineCodes": "4A92",
-    "KBA_Numbers": "7107AEM  7107ADJ"
+    "KBA_Numbers": "7107AEM, 7107ADJ"
   },
   {
     "brand": "MITSUBISHI",
@@ -448,7 +448,7 @@
     "hp": "116",
     "cc": "1798",
     "engineCodes": "4N13",
-    "KBA_Numbers": "7107ADD  7107ADE"
+    "KBA_Numbers": "7107ADD, 7107ADE"
   },
   {
     "brand": "MITSUBISHI",
@@ -459,7 +459,7 @@
     "hp": "150",
     "cc": "1798",
     "engineCodes": "4N13",
-    "KBA_Numbers": "7107ACZ  7107ADA"
+    "KBA_Numbers": "7107ACZ, 7107ADA"
   },
   {
     "brand": "MITSUBISHI",
@@ -470,7 +470,7 @@
     "hp": "116",
     "cc": "1798",
     "engineCodes": "4N13",
-    "KBA_Numbers": "7107ADG  7107ADF"
+    "KBA_Numbers": "7107ADG, 7107ADF"
   },
   {
     "brand": "MITSUBISHI",
@@ -481,7 +481,7 @@
     "hp": "150",
     "cc": "1798",
     "engineCodes": "4N13",
-    "KBA_Numbers": "7107ADB  7107ADC"
+    "KBA_Numbers": "7107ADB, 7107ADC"
   },
   {
     "brand": "MITSUBISHI",
@@ -491,7 +491,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1998",
-    "engineCodes": "4B11  4J11",
+    "engineCodes": "4B11, 4J11",
     "KBA_Numbers": "7107AFT"
   },
   {
@@ -502,8 +502,8 @@
     "kw": "110",
     "hp": "150",
     "cc": "1998",
-    "engineCodes": "4B11  4J11",
-    "KBA_Numbers": "7107AFU  7107AFV"
+    "engineCodes": "4B11, 4J11",
+    "KBA_Numbers": "7107AFU, 7107AFV"
   },
   {
     "brand": "MITSUBISHI",
@@ -536,7 +536,7 @@
     "hp": "147",
     "cc": "1998",
     "engineCodes": "4B11",
-    "KBA_Numbers": "7107ADW  7107AED  7107ACX  7107ACY"
+    "KBA_Numbers": "7107ADW, 7107AED, 7107ACX, 7107ACY"
   },
   {
     "brand": "MITSUBISHI",
@@ -558,7 +558,7 @@
     "hp": "140",
     "cc": "1968",
     "engineCodes": "BSY",
-    "KBA_Numbers": "7107ACC  7107ACD  7107AAR  7107AAS"
+    "KBA_Numbers": "7107ACC, 7107ACD, 7107AAR, 7107AAS"
   },
   {
     "brand": "MITSUBISHI",
@@ -569,7 +569,7 @@
     "hp": "177",
     "cc": "2268",
     "engineCodes": "4N14",
-    "KBA_Numbers": "7107ADX  7107ADY  7107AEE  7107AEF"
+    "KBA_Numbers": "7107ADX, 7107ADY, 7107AEE, 7107AEF"
   },
   {
     "brand": "MITSUBISHI",
@@ -580,7 +580,7 @@
     "hp": "177",
     "cc": "2268",
     "engineCodes": "4N14",
-    "KBA_Numbers": "7107ADZ  7107AEA  7107AEG  7107AEH"
+    "KBA_Numbers": "7107ADZ, 7107AEA, 7107AEG, 7107AEH"
   },
   {
     "brand": "MITSUBISHI",
@@ -591,7 +591,7 @@
     "hp": "140",
     "cc": "2268",
     "engineCodes": "4N14",
-    "KBA_Numbers": "7107AEB  7107AEC  7107AEJ  7107AEI"
+    "KBA_Numbers": "7107AEB, 7107AEC, 7107AEJ, 7107AEI"
   },
   {
     "brand": "MITSUBISHI",
@@ -602,7 +602,7 @@
     "hp": "170",
     "cc": "2360",
     "engineCodes": "4B12",
-    "KBA_Numbers": "7107ABV  7107ACE"
+    "KBA_Numbers": "7107ABV, 7107ACE"
   },
   {
     "brand": "MITSUBISHI",
@@ -613,7 +613,7 @@
     "hp": "170",
     "cc": "2360",
     "engineCodes": "4B12",
-    "KBA_Numbers": "7107ABT  7107ABU  7107ACF  7107ACG"
+    "KBA_Numbers": "7107ABT, 7107ABU, 7107ACF, 7107ACG"
   },
   {
     "brand": "MITSUBISHI",

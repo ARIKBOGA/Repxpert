@@ -7,7 +7,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1766",
-    "engineCodes": "M10 B18 (184VD)  M10 B18 (184VC)",
+    "engineCodes": "M10 B18 (184VD), M10 B18 (184VC)",
     "KBA_Numbers": "0005420"
   },
   {
@@ -29,8 +29,8 @@
     "kw": "92",
     "hp": "125",
     "cc": "1990",
-    "engineCodes": "M20 B20 (206EZ)  M20 B20 (206EB)  M20 B20 (206EC)  M20 B20 (206EA)",
-    "KBA_Numbers": "0005419  0005421"
+    "engineCodes": "M20 B20 (206EZ), M20 B20 (206EB), M20 B20 (206EC), M20 B20 (206EA)",
+    "KBA_Numbers": "0005419, 0005421"
   },
   {
     "brand": "BMW",

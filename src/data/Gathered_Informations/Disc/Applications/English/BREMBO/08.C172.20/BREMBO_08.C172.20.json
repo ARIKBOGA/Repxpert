@@ -51,7 +51,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1999",
-    "engineCodes": "G4NA  G4NH",
+    "engineCodes": "G4NA, G4NH",
     "KBA_Numbers": ""
   },
   {
@@ -63,7 +63,7 @@
     "hp": "99",
     "cc": "1396",
     "engineCodes": "G4FA",
-    "KBA_Numbers": "1349ACN  1349ACG"
+    "KBA_Numbers": "1349ACN, 1349ACG"
   },
   {
     "brand": "HYUNDAI",
@@ -74,7 +74,7 @@
     "hp": "101",
     "cc": "1368",
     "engineCodes": "G4LC",
-    "KBA_Numbers": "1349ADN  1349AEB"
+    "KBA_Numbers": "1349ADN, 1349AEB"
   },
   {
     "brand": "HYUNDAI",
@@ -85,7 +85,7 @@
     "hp": "90",
     "cc": "1396",
     "engineCodes": "D4FC",
-    "KBA_Numbers": "1349ACQ  1349ACK"
+    "KBA_Numbers": "1349ACQ, 1349ACK"
   },
   {
     "brand": "HYUNDAI",
@@ -96,7 +96,7 @@
     "hp": "129",
     "cc": "1591",
     "engineCodes": "G4FC",
-    "KBA_Numbers": "1349ACT  1349ADH"
+    "KBA_Numbers": "1349ACT, 1349ADH"
   },
   {
     "brand": "HYUNDAI",
@@ -106,8 +106,8 @@
     "kw": "88",
     "hp": "120",
     "cc": "1591",
-    "engineCodes": "G4FC  G4FG",
-    "KBA_Numbers": "1349ACO  1349ACH"
+    "engineCodes": "G4FC, G4FG",
+    "KBA_Numbers": "1349ACO, 1349ACH"
   },
   {
     "brand": "HYUNDAI",
@@ -129,7 +129,7 @@
     "hp": "136",
     "cc": "1582",
     "engineCodes": "D4FB",
-    "KBA_Numbers": "1349ADL  1349ADP  1349AED"
+    "KBA_Numbers": "1349ADL, 1349ADP, 1349AED"
   },
   {
     "brand": "HYUNDAI",
@@ -140,7 +140,7 @@
     "hp": "110",
     "cc": "1582",
     "engineCodes": "D4FB",
-    "KBA_Numbers": "1349ACL  1349ACS  1349ADG  1349AEF"
+    "KBA_Numbers": "1349ACL, 1349ACS, 1349ADG, 1349AEF"
   },
   {
     "brand": "HYUNDAI",
@@ -151,7 +151,7 @@
     "hp": "128",
     "cc": "1582",
     "engineCodes": "D4FB",
-    "KBA_Numbers": "1349ACM  1349ACR"
+    "KBA_Numbers": "1349ACM, 1349ACR"
   },
   {
     "brand": "HYUNDAI",
@@ -162,7 +162,7 @@
     "hp": "135",
     "cc": "1591",
     "engineCodes": "G4FD",
-    "KBA_Numbers": "1349ACP  1349ACJ"
+    "KBA_Numbers": "1349ACP, 1349ACJ"
   },
   {
     "brand": "HYUNDAI",
@@ -195,7 +195,7 @@
     "hp": "101",
     "cc": "1368",
     "engineCodes": "G4LC",
-    "KBA_Numbers": "1349ADN  1349AEB"
+    "KBA_Numbers": "1349ADN, 1349AEB"
   },
   {
     "brand": "HYUNDAI",
@@ -283,7 +283,7 @@
     "hp": "99",
     "cc": "1396",
     "engineCodes": "G4FA",
-    "KBA_Numbers": "1349ACU  1349ADB"
+    "KBA_Numbers": "1349ACU, 1349ADB"
   },
   {
     "brand": "HYUNDAI",
@@ -294,7 +294,7 @@
     "hp": "101",
     "cc": "1368",
     "engineCodes": "G4LC",
-    "KBA_Numbers": "1349ADK  1349ADQ  1349AEC"
+    "KBA_Numbers": "1349ADK, 1349ADQ, 1349AEC"
   },
   {
     "brand": "HYUNDAI",
@@ -305,7 +305,7 @@
     "hp": "90",
     "cc": "1396",
     "engineCodes": "D4FC",
-    "KBA_Numbers": "1349ACX  1349ADE"
+    "KBA_Numbers": "1349ACX, 1349ADE"
   },
   {
     "brand": "HYUNDAI",
@@ -315,8 +315,8 @@
     "kw": "88",
     "hp": "120",
     "cc": "1591",
-    "engineCodes": "G4FG  G4FC",
-    "KBA_Numbers": "1349ACV  1349ADC"
+    "engineCodes": "G4FG, G4FC",
+    "KBA_Numbers": "1349ACV, 1349ADC"
   },
   {
     "brand": "HYUNDAI",
@@ -338,7 +338,7 @@
     "hp": "110",
     "cc": "1582",
     "engineCodes": "D4FB",
-    "KBA_Numbers": "1349ACZ  1349AEG"
+    "KBA_Numbers": "1349ACZ, 1349AEG"
   },
   {
     "brand": "HYUNDAI",
@@ -349,7 +349,7 @@
     "hp": "128",
     "cc": "1582",
     "engineCodes": "D4FB",
-    "KBA_Numbers": "1349ACY  1349ADF"
+    "KBA_Numbers": "1349ACY, 1349ADF"
   },
   {
     "brand": "HYUNDAI",
@@ -360,7 +360,7 @@
     "hp": "136",
     "cc": "1582",
     "engineCodes": "D4FB",
-    "KBA_Numbers": "1349ADR  1349AEE"
+    "KBA_Numbers": "1349ADR, 1349AEE"
   },
   {
     "brand": "HYUNDAI",
@@ -371,7 +371,7 @@
     "hp": "135",
     "cc": "1591",
     "engineCodes": "G4FD",
-    "KBA_Numbers": "1349ACW  1349ADD"
+    "KBA_Numbers": "1349ACW, 1349ADD"
   },
   {
     "brand": "HYUNDAI",
@@ -381,7 +381,7 @@
     "kw": "88",
     "hp": "120",
     "cc": "998",
-    "engineCodes": "G3LC  G3LE",
+    "engineCodes": "G3LC, G3LE",
     "KBA_Numbers": "8252AHY"
   },
   {
@@ -403,7 +403,7 @@
     "kw": "97",
     "hp": "132",
     "cc": "1591",
-    "engineCodes": "G4FC  G4FG",
+    "engineCodes": "G4FC, G4FG",
     "KBA_Numbers": "8252AFE"
   },
   {
@@ -470,7 +470,7 @@
     "hp": "100",
     "cc": "1396",
     "engineCodes": "G4FA",
-    "KBA_Numbers": "1260ACZ  1260ACU"
+    "KBA_Numbers": "1260ACZ, 1260ACU"
   },
   {
     "brand": "KIA",
@@ -602,7 +602,7 @@
     "hp": "90",
     "cc": "1396",
     "engineCodes": "D4FC",
-    "KBA_Numbers": "1260ADB  1260ADG"
+    "KBA_Numbers": "1260ADB, 1260ADG"
   },
   {
     "brand": "KIA",
@@ -613,7 +613,7 @@
     "hp": "100",
     "cc": "1396",
     "engineCodes": "G4FA",
-    "KBA_Numbers": "1260ACZ  1260ADE"
+    "KBA_Numbers": "1260ACZ, 1260ADE"
   },
   {
     "brand": "KIA",
@@ -646,7 +646,7 @@
     "hp": "128",
     "cc": "1582",
     "engineCodes": "D4FB",
-    "KBA_Numbers": "1260ADC  1260ADH"
+    "KBA_Numbers": "1260ADC, 1260ADH"
   },
   {
     "brand": "KIA",
@@ -690,28 +690,28 @@
     "hp": "135",
     "cc": "1591",
     "engineCodes": "G4FD",
-    "KBA_Numbers": "1260ADA  1260ADF"
+    "KBA_Numbers": "1260ADA, 1260ADF"
   },
   {
     "brand": "KIA",
-    "model": "CERATO IV Saloon (BD, BDM) | FORTE | K3 | GRAND CERATO",
+    "model": "CERATO IV Saloon (BD, BDM) | FORTE | K3 | GRAND CERATO | FORTE/K3",
     "engineType": "1.6 MPi",
     "madeYear": "from 02.2018",
     "kw": "94",
     "hp": "128",
     "cc": "1591",
     "engineCodes": "G4FG",
-    "KBA_Numbers": "2233AAC  8253AHP"
+    "KBA_Numbers": "2233AAC, 8253AHP"
   },
   {
     "brand": "KIA",
-    "model": "CERATO IV Saloon (BD, BDM) | FORTE | K3 | GRAND CERATO",
+    "model": "CERATO IV Saloon (BD, BDM) | FORTE | K3 | GRAND CERATO | FORTE/K3",
     "engineType": "2.0 MPi",
     "madeYear": "from 02.2018",
     "kw": "110",
     "hp": "150",
     "cc": "1999",
-    "engineCodes": "G4NA  G4NH",
+    "engineCodes": "G4NA, G4NH",
     "KBA_Numbers": ""
   },
   {
@@ -789,7 +789,7 @@
     "hp": "110",
     "cc": "1582",
     "engineCodes": "D4FB",
-    "KBA_Numbers": "1260ACY  1260ADI"
+    "KBA_Numbers": "1260ACY, 1260ADI"
   },
   {
     "brand": "KIA",
@@ -1008,7 +1008,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1999",
-    "engineCodes": "G4NA  G4NH",
+    "engineCodes": "G4NA, G4NH",
     "KBA_Numbers": ""
   }
 ]

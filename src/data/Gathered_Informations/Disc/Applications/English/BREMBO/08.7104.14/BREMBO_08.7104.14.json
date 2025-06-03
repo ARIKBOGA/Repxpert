@@ -183,7 +183,7 @@
     "kw": "96",
     "hp": "130",
     "cc": "1590",
-    "engineCodes": "D16A7  D16A9",
+    "engineCodes": "D16A7, D16A9",
     "KBA_Numbers": ""
   },
   {
@@ -282,7 +282,7 @@
     "kw": "55",
     "hp": "75",
     "cc": "1396",
-    "engineCodes": "D14A7  D14Z3",
+    "engineCodes": "D14A7, D14Z3",
     "KBA_Numbers": "2131320"
   },
   {
@@ -293,7 +293,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1396",
-    "engineCodes": "D14A8  D14Z4",
+    "engineCodes": "D14A8, D14Z4",
     "KBA_Numbers": "2131321"
   },
   {
@@ -315,7 +315,7 @@
     "kw": "85",
     "hp": "116",
     "cc": "1590",
-    "engineCodes": "D16B2  D16W3",
+    "engineCodes": "D16B2, D16W3",
     "KBA_Numbers": "2131318"
   },
   {
@@ -348,8 +348,8 @@
     "kw": "66",
     "hp": "90",
     "cc": "1396",
-    "engineCodes": "D14A6  D14Z4  D14A8  D14A2",
-    "KBA_Numbers": "2131306  2131313"
+    "engineCodes": "D14A6, D14Z4, D14A8, D14A2",
+    "KBA_Numbers": "2131306, 2131313"
   },
   {
     "brand": "HONDA",
@@ -359,8 +359,8 @@
     "kw": "55",
     "hp": "75",
     "cc": "1396",
-    "engineCodes": "D14Z3  D14A7  D14A5",
-    "KBA_Numbers": "2131307  2131312"
+    "engineCodes": "D14Z3, D14A7, D14A5",
+    "KBA_Numbers": "2131307, 2131312"
   },
   {
     "brand": "HONDA",
@@ -392,7 +392,7 @@
     "kw": "85",
     "hp": "116",
     "cc": "1590",
-    "engineCodes": "D16B2  D16W3",
+    "engineCodes": "D16B2, D16W3",
     "KBA_Numbers": "2131315"
   },
   {
@@ -469,7 +469,7 @@
     "kw": "55",
     "hp": "75",
     "cc": "1396",
-    "engineCodes": "D14Z1  D14A3",
+    "engineCodes": "D14Z1, D14A3",
     "KBA_Numbers": "7100497"
   },
   {
@@ -480,7 +480,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1396",
-    "engineCodes": "D14Z2  D14A4  D14Z4",
+    "engineCodes": "D14Z2, D14A4, D14Z4",
     "KBA_Numbers": "7100498"
   },
   {
@@ -546,7 +546,7 @@
     "kw": "84",
     "hp": "114",
     "cc": "1493",
-    "engineCodes": "D15Z6  D15Z4  D15Z7",
+    "engineCodes": "D15Z6, D15Z4, D15Z7",
     "KBA_Numbers": "7100501"
   },
   {
@@ -601,7 +601,7 @@
     "kw": "90",
     "hp": "122",
     "cc": "1590",
-    "engineCodes": "D16Z4  D16A8  D16Z1",
+    "engineCodes": "D16Z4, D16A8, D16Z1",
     "KBA_Numbers": "2055335"
   },
   {
@@ -656,7 +656,7 @@
     "kw": "90",
     "hp": "122",
     "cc": "1590",
-    "engineCodes": "D16Z4  D16A8  D16Z1",
+    "engineCodes": "D16Z4, D16A8, D16Z1",
     "KBA_Numbers": ""
   },
   {
@@ -667,7 +667,7 @@
     "kw": "91",
     "hp": "124",
     "cc": "1590",
-    "engineCodes": "D16A8  D16Z5",
+    "engineCodes": "D16A8, D16Z5",
     "KBA_Numbers": "7100457"
   },
   {
@@ -678,7 +678,7 @@
     "kw": "96",
     "hp": "131",
     "cc": "1590",
-    "engineCodes": "D16A9  D16A8",
+    "engineCodes": "D16A9, D16A8",
     "KBA_Numbers": "7100456"
   },
   {

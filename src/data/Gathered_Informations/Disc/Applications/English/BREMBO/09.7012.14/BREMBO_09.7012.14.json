@@ -7,7 +7,7 @@
     "kw": "74",
     "hp": "101",
     "cc": "1595",
-    "engineCodes": "AKL  APF  AEH",
+    "engineCodes": "AKL, APF, AEH",
     "KBA_Numbers": "0588640"
   },
   {
@@ -18,7 +18,7 @@
     "kw": "75",
     "hp": "102",
     "cc": "1595",
-    "engineCodes": "AVU  BFQ",
+    "engineCodes": "AVU, BFQ",
     "KBA_Numbers": "0588743"
   },
   {
@@ -29,7 +29,7 @@
     "kw": "92",
     "hp": "125",
     "cc": "1781",
-    "engineCodes": "APG  AGN",
+    "engineCodes": "APG, AGN",
     "KBA_Numbers": "0588637"
   },
   {
@@ -40,7 +40,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1781",
-    "engineCodes": "ARZ  AUM  AQA  AGU",
+    "engineCodes": "ARZ, AUM, AQA, AGU",
     "KBA_Numbers": "0588641"
   },
   {
@@ -51,7 +51,7 @@
     "kw": "132",
     "hp": "180",
     "cc": "1781",
-    "engineCodes": "APP  AJQ  AUQ  ARY",
+    "engineCodes": "APP, AJQ, AUQ, ARY",
     "KBA_Numbers": "0588702"
   },
   {
@@ -62,7 +62,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1896",
-    "engineCodes": "AGR  ALH",
+    "engineCodes": "AGR, ALH",
     "KBA_Numbers": "0588638"
   },
   {
@@ -73,7 +73,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1896",
-    "engineCodes": "ASV  AHF",
+    "engineCodes": "ASV, AHF",
     "KBA_Numbers": "0588639"
   },
   {
@@ -84,7 +84,7 @@
     "kw": "74",
     "hp": "100",
     "cc": "1896",
-    "engineCodes": "AXR  ATD",
+    "engineCodes": "AXR, ATD",
     "KBA_Numbers": "0588742"
   },
   {
@@ -95,7 +95,7 @@
     "kw": "74",
     "hp": "100",
     "cc": "1595",
-    "engineCodes": "AKL  AEH",
+    "engineCodes": "AKL, AEH",
     "KBA_Numbers": "7593477"
   },
   {
@@ -117,8 +117,8 @@
     "kw": "77",
     "hp": "105",
     "cc": "1598",
-    "engineCodes": "BCB  AZD  AUS",
-    "KBA_Numbers": "7593ABP  7593488"
+    "engineCodes": "BCB, AZD, AUS",
+    "KBA_Numbers": "7593ABP, 7593488"
   },
   {
     "brand": "SEAT",
@@ -128,7 +128,7 @@
     "kw": "92",
     "hp": "125",
     "cc": "1781",
-    "engineCodes": "APG  AGN",
+    "engineCodes": "APG, AGN",
     "KBA_Numbers": "7593479"
   },
   {
@@ -139,8 +139,8 @@
     "kw": "66",
     "hp": "90",
     "cc": "1896",
-    "engineCodes": "AGR  ALH",
-    "KBA_Numbers": "7593ABI  7593476"
+    "engineCodes": "AGR, ALH",
+    "KBA_Numbers": "7593ABI, 7593476"
   },
   {
     "brand": "SEAT",
@@ -150,8 +150,8 @@
     "kw": "81",
     "hp": "110",
     "cc": "1896",
-    "engineCodes": "ASV  AHF",
-    "KBA_Numbers": "7593ABK  7593478"
+    "engineCodes": "ASV, AHF",
+    "KBA_Numbers": "7593ABK, 7593478"
   },
   {
     "brand": "SEAT",
@@ -172,7 +172,7 @@
     "kw": "74",
     "hp": "100",
     "cc": "1595",
-    "engineCodes": "AKL  AEH",
+    "engineCodes": "AKL, AEH",
     "KBA_Numbers": "7593440"
   },
   {
@@ -183,8 +183,8 @@
     "kw": "77",
     "hp": "105",
     "cc": "1598",
-    "engineCodes": "BCB  AZD  AUS",
-    "KBA_Numbers": "7593ABH  7593487"
+    "engineCodes": "BCB, AZD, AUS",
+    "KBA_Numbers": "7593ABH, 7593487"
   },
   {
     "brand": "SEAT",
@@ -194,7 +194,7 @@
     "kw": "92",
     "hp": "125",
     "cc": "1781",
-    "engineCodes": "AGN  APG",
+    "engineCodes": "AGN, APG",
     "KBA_Numbers": "7593441"
   },
   {
@@ -205,8 +205,8 @@
     "kw": "81",
     "hp": "110",
     "cc": "1896",
-    "engineCodes": "ASV  AHF",
-    "KBA_Numbers": "7593ABD  7593444"
+    "engineCodes": "ASV, AHF",
+    "KBA_Numbers": "7593ABD, 7593444"
   },
   {
     "brand": "SEAT",
@@ -216,8 +216,8 @@
     "kw": "66",
     "hp": "90",
     "cc": "1896",
-    "engineCodes": "AGR  ALH",
-    "KBA_Numbers": "7593ABB  7593445"
+    "engineCodes": "AGR, ALH",
+    "KBA_Numbers": "7593ABB, 7593445"
   },
   {
     "brand": "SEAT",
@@ -228,7 +228,7 @@
     "hp": "130",
     "cc": "1896",
     "engineCodes": "ASZ",
-    "KBA_Numbers": "7593ABE  7593511"
+    "KBA_Numbers": "7593ABE, 7593511"
   },
   {
     "brand": "SKODA",
@@ -238,8 +238,8 @@
     "kw": "55",
     "hp": "75",
     "cc": "1390",
-    "engineCodes": "AXP  BCA",
-    "KBA_Numbers": "8004351  8004ABP"
+    "engineCodes": "AXP, BCA",
+    "KBA_Numbers": "8004351, 8004ABP"
   },
   {
     "brand": "SKODA",
@@ -249,8 +249,8 @@
     "kw": "75",
     "hp": "102",
     "cc": "1595",
-    "engineCodes": "AVU  BFQ",
-    "KBA_Numbers": "8004353  8004ABQ"
+    "engineCodes": "AVU, BFQ",
+    "KBA_Numbers": "8004353, 8004ABQ"
   },
   {
     "brand": "SKODA",
@@ -271,7 +271,7 @@
     "kw": "50",
     "hp": "68",
     "cc": "1896",
-    "engineCodes": "AGP  AQM",
+    "engineCodes": "AGP, AQM",
     "KBA_Numbers": "8004324"
   },
   {
@@ -282,8 +282,8 @@
     "kw": "66",
     "hp": "90",
     "cc": "1896",
-    "engineCodes": "AGR  ALH",
-    "KBA_Numbers": "8004320  8004ABI"
+    "engineCodes": "AGR, ALH",
+    "KBA_Numbers": "8004320, 8004ABI"
   },
   {
     "brand": "SKODA",
@@ -293,8 +293,8 @@
     "kw": "81",
     "hp": "110",
     "cc": "1896",
-    "engineCodes": "ASV  AHF",
-    "KBA_Numbers": "8004325  8004ABK  8004AAJ"
+    "engineCodes": "ASV, AHF",
+    "KBA_Numbers": "8004325, 8004ABK, 8004AAJ"
   },
   {
     "brand": "SKODA",
@@ -305,7 +305,7 @@
     "hp": "130",
     "cc": "1896",
     "engineCodes": "ASZ",
-    "KBA_Numbers": "8004ABL  8004388"
+    "KBA_Numbers": "8004ABL, 8004388"
   },
   {
     "brand": "SKODA",
@@ -326,8 +326,8 @@
     "kw": "85",
     "hp": "116",
     "cc": "1984",
-    "engineCodes": "AZJ  AZH  APK  AEG  AQY",
-    "KBA_Numbers": "8004336  8004ABO"
+    "engineCodes": "AZJ, AZH, APK, AEG, AQY",
+    "KBA_Numbers": "8004336, 8004ABO"
   },
   {
     "brand": "SKODA",
@@ -337,8 +337,8 @@
     "kw": "55",
     "hp": "75",
     "cc": "1390",
-    "engineCodes": "BCA  AXP",
-    "KBA_Numbers": "8004352  8004ABG  8004AAU"
+    "engineCodes": "BCA, AXP",
+    "KBA_Numbers": "8004352, 8004ABG, 8004AAU"
   },
   {
     "brand": "SKODA",
@@ -348,8 +348,8 @@
     "kw": "75",
     "hp": "102",
     "cc": "1595",
-    "engineCodes": "BFQ  AVU",
-    "KBA_Numbers": "8004354  8004ABH  8004AAV"
+    "engineCodes": "BFQ, AVU",
+    "KBA_Numbers": "8004354, 8004ABH, 8004AAV"
   },
   {
     "brand": "SKODA",
@@ -370,7 +370,7 @@
     "kw": "50",
     "hp": "68",
     "cc": "1896",
-    "engineCodes": "AGP  AQM",
+    "engineCodes": "AGP, AQM",
     "KBA_Numbers": "8004332"
   },
   {
@@ -381,8 +381,8 @@
     "kw": "66",
     "hp": "90",
     "cc": "1896",
-    "engineCodes": "AGR  ALH",
-    "KBA_Numbers": "8004331  8004AAL  8004AAW"
+    "engineCodes": "AGR, ALH",
+    "KBA_Numbers": "8004331, 8004AAL, 8004AAW"
   },
   {
     "brand": "SKODA",
@@ -392,8 +392,8 @@
     "kw": "81",
     "hp": "110",
     "cc": "1896",
-    "engineCodes": "ASV  AHF",
-    "KBA_Numbers": "8004329  8004AAN  8004AAY"
+    "engineCodes": "ASV, AHF",
+    "KBA_Numbers": "8004329, 8004AAN, 8004AAY"
   },
   {
     "brand": "SKODA",
@@ -404,7 +404,7 @@
     "hp": "100",
     "cc": "1896",
     "engineCodes": "AXR",
-    "KBA_Numbers": "8004AAB  8004ABD"
+    "KBA_Numbers": "8004AAB, 8004ABD"
   },
   {
     "brand": "SKODA",
@@ -415,7 +415,7 @@
     "hp": "130",
     "cc": "1896",
     "engineCodes": "ASZ",
-    "KBA_Numbers": "8004389  8004AAO  8004AAZ"
+    "KBA_Numbers": "8004389, 8004AAO, 8004AAZ"
   },
   {
     "brand": "SKODA",
@@ -437,7 +437,7 @@
     "hp": "100",
     "cc": "1896",
     "engineCodes": "ATD",
-    "KBA_Numbers": "8004AAP  8004ABA  8004359"
+    "KBA_Numbers": "8004AAP, 8004ABA, 8004359"
   },
   {
     "brand": "SKODA",
@@ -447,8 +447,8 @@
     "kw": "85",
     "hp": "116",
     "cc": "1984",
-    "engineCodes": "AZJ  AZH  AEG  APK  AQY",
-    "KBA_Numbers": "8004337  8004ABE  8004AAS"
+    "engineCodes": "AZJ, AZH, AEG, APK, AQY",
+    "KBA_Numbers": "8004337, 8004ABE, 8004AAS"
   },
   {
     "brand": "SKODA",
@@ -458,8 +458,8 @@
     "kw": "85",
     "hp": "116",
     "cc": "1984",
-    "engineCodes": "AZH  AZJ",
-    "KBA_Numbers": "8004355  8004ABF  8004AAT"
+    "engineCodes": "AZH, AZJ",
+    "KBA_Numbers": "8004355, 8004ABF, 8004AAT"
   },
   {
     "brand": "SKODA",
@@ -491,7 +491,7 @@
     "kw": "85",
     "hp": "116",
     "cc": "1984",
-    "engineCodes": "CBPA  BHP  BER  CFEA  BEV",
+    "engineCodes": "CBPA, BHP, BER, CFEA, BEV",
     "KBA_Numbers": ""
   },
   {
@@ -502,7 +502,7 @@
     "kw": "55",
     "hp": "75",
     "cc": "1390",
-    "engineCodes": "BCA  AKQ  AHW  APE  AXP",
+    "engineCodes": "BCA, AKQ, AHW, APE, AXP",
     "KBA_Numbers": "0603470"
   },
   {
@@ -513,7 +513,7 @@
     "kw": "74",
     "hp": "101",
     "cc": "1595",
-    "engineCodes": "AEH  AKL  APF",
+    "engineCodes": "AEH, AKL, APF",
     "KBA_Numbers": "0603464"
   },
   {
@@ -524,7 +524,7 @@
     "kw": "75",
     "hp": "102",
     "cc": "1595",
-    "engineCodes": "BFQ  AVU",
+    "engineCodes": "BFQ, AVU",
     "KBA_Numbers": "0603605"
   },
   {
@@ -535,7 +535,7 @@
     "kw": "77",
     "hp": "105",
     "cc": "1598",
-    "engineCodes": "BCB  AZD  AUS  ATN",
+    "engineCodes": "BCB, AZD, AUS, ATN",
     "KBA_Numbers": "0603548"
   },
   {
@@ -557,7 +557,7 @@
     "kw": "92",
     "hp": "125",
     "cc": "1781",
-    "engineCodes": "BAF  AGN",
+    "engineCodes": "BAF, AGN",
     "KBA_Numbers": "0603465"
   },
   {
@@ -579,7 +579,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1781",
-    "engineCodes": "ARX  AUM  AGU",
+    "engineCodes": "ARX, AUM, AGU",
     "KBA_Numbers": "0603601"
   },
   {
@@ -590,7 +590,7 @@
     "kw": "50",
     "hp": "68",
     "cc": "1896",
-    "engineCodes": "AGP  AQM",
+    "engineCodes": "AGP, AQM",
     "KBA_Numbers": "0603466"
   },
   {
@@ -601,7 +601,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1896",
-    "engineCodes": "AGR  ALH",
+    "engineCodes": "AGR, ALH",
     "KBA_Numbers": "0603467"
   },
   {
@@ -612,7 +612,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1896",
-    "engineCodes": "ASV  AHF",
+    "engineCodes": "ASV, AHF",
     "KBA_Numbers": "0603469"
   },
   {
@@ -623,7 +623,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "1896",
-    "engineCodes": "AUY  AJM",
+    "engineCodes": "AUY, AJM",
     "KBA_Numbers": "0603503"
   },
   {
@@ -634,7 +634,7 @@
     "kw": "74",
     "hp": "101",
     "cc": "1896",
-    "engineCodes": "ATD  AXR  BEW",
+    "engineCodes": "ATD, AXR, BEW",
     "KBA_Numbers": "0603562"
   },
   {
@@ -656,7 +656,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "1896",
-    "engineCodes": "AJM  AUY",
+    "engineCodes": "AJM, AUY",
     "KBA_Numbers": "0603504"
   },
   {
@@ -689,7 +689,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "1984",
-    "engineCodes": "BBW  AZJ  AQY  APK  AZG  AZH",
+    "engineCodes": "BBW, AZJ, AQY, APK, AZG, AZH",
     "KBA_Numbers": "0603478"
   },
   {
@@ -700,7 +700,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "1984",
-    "engineCodes": "AZJ  AZH",
+    "engineCodes": "AZJ, AZH",
     "KBA_Numbers": "0603580"
   },
   {
@@ -733,7 +733,7 @@
     "kw": "150",
     "hp": "204",
     "cc": "2792",
-    "engineCodes": "BDE  AUE  AQP",
+    "engineCodes": "BDE, AUE, AQP",
     "KBA_Numbers": "0603528"
   },
   {
@@ -744,7 +744,7 @@
     "kw": "55",
     "hp": "75",
     "cc": "1390",
-    "engineCodes": "BCA  AHW  AXP  AKQ  APE",
+    "engineCodes": "BCA, AHW, AXP, AKQ, APE",
     "KBA_Numbers": "0603480"
   },
   {
@@ -755,7 +755,7 @@
     "kw": "74",
     "hp": "100",
     "cc": "1595",
-    "engineCodes": "AEH  APF",
+    "engineCodes": "AEH, APF",
     "KBA_Numbers": "0603482"
   },
   {
@@ -766,7 +766,7 @@
     "kw": "75",
     "hp": "102",
     "cc": "1595",
-    "engineCodes": "BFQ  AVU",
+    "engineCodes": "BFQ, AVU",
     "KBA_Numbers": "0603604"
   },
   {
@@ -777,7 +777,7 @@
     "kw": "77",
     "hp": "105",
     "cc": "1598",
-    "engineCodes": "BCB  AZD  AUS  ATN",
+    "engineCodes": "BCB, AZD, AUS, ATN",
     "KBA_Numbers": "0603550"
   },
   {
@@ -810,7 +810,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1896",
-    "engineCodes": "AHF  ASV",
+    "engineCodes": "AHF, ASV",
     "KBA_Numbers": "0603483"
   },
   {
@@ -821,7 +821,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "1896",
-    "engineCodes": "AUY  AJM",
+    "engineCodes": "AUY, AJM",
     "KBA_Numbers": "0603484"
   },
   {
@@ -832,7 +832,7 @@
     "kw": "74",
     "hp": "101",
     "cc": "1896",
-    "engineCodes": "AXR  ATD",
+    "engineCodes": "AXR, ATD",
     "KBA_Numbers": "0603564"
   },
   {
@@ -843,7 +843,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1896",
-    "engineCodes": "AGR  ALH",
+    "engineCodes": "AGR, ALH",
     "KBA_Numbers": "0603481"
   },
   {
@@ -854,7 +854,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "1896",
-    "engineCodes": "AJM  AUY",
+    "engineCodes": "AJM, AUY",
     "KBA_Numbers": "0603509"
   },
   {
@@ -876,7 +876,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "1984",
-    "engineCodes": "AZJ  AQY  APK",
+    "engineCodes": "AZJ, AQY, APK",
     "KBA_Numbers": "0603485"
   },
   {
@@ -887,7 +887,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "1984",
-    "engineCodes": "AZJ  AZH",
+    "engineCodes": "AZJ, AZH",
     "KBA_Numbers": "0603581"
   },
   {
@@ -898,7 +898,7 @@
     "kw": "55",
     "hp": "75",
     "cc": "1390",
-    "engineCodes": "BCA  AKQ  APE  AHW  AXP",
+    "engineCodes": "BCA, AKQ, APE, AHW, AXP",
     "KBA_Numbers": "0603419"
   },
   {
@@ -909,7 +909,7 @@
     "kw": "74",
     "hp": "100",
     "cc": "1595",
-    "engineCodes": "AKL  AEH  APF",
+    "engineCodes": "AKL, AEH, APF",
     "KBA_Numbers": "0603421"
   },
   {
@@ -920,7 +920,7 @@
     "kw": "75",
     "hp": "102",
     "cc": "1595",
-    "engineCodes": "BFQ  AVU",
+    "engineCodes": "BFQ, AVU",
     "KBA_Numbers": "0603603"
   },
   {
@@ -931,7 +931,7 @@
     "kw": "77",
     "hp": "105",
     "cc": "1598",
-    "engineCodes": "BCB  AZD  AUS  ATN",
+    "engineCodes": "BCB, AZD, AUS, ATN",
     "KBA_Numbers": "0603547"
   },
   {
@@ -975,7 +975,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1781",
-    "engineCodes": "ARZ  AGU  AUM  AWD  AQA",
+    "engineCodes": "ARZ, AGU, AUM, AWD, AQA",
     "KBA_Numbers": "0603424"
   },
   {
@@ -986,7 +986,7 @@
     "kw": "132",
     "hp": "180",
     "cc": "1781",
-    "engineCodes": "AUQ  BEK",
+    "engineCodes": "AUQ, BEK",
     "KBA_Numbers": "0603649"
   },
   {
@@ -997,7 +997,7 @@
     "kw": "50",
     "hp": "68",
     "cc": "1896",
-    "engineCodes": "AGP  AQM",
+    "engineCodes": "AGP, AQM",
     "KBA_Numbers": "0603418"
   },
   {
@@ -1008,7 +1008,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1896",
-    "engineCodes": "ASV  AHF",
+    "engineCodes": "ASV, AHF",
     "KBA_Numbers": "0603422"
   },
   {
@@ -1019,7 +1019,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1896",
-    "engineCodes": "AGR  ALH",
+    "engineCodes": "AGR, ALH",
     "KBA_Numbers": "0603420"
   },
   {
@@ -1030,7 +1030,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "1896",
-    "engineCodes": "AUY  AJM",
+    "engineCodes": "AUY, AJM",
     "KBA_Numbers": "0603498"
   },
   {
@@ -1052,7 +1052,7 @@
     "kw": "74",
     "hp": "101",
     "cc": "1896",
-    "engineCodes": "AXR  ATD",
+    "engineCodes": "AXR, ATD",
     "KBA_Numbers": "0603558"
   },
   {
@@ -1085,7 +1085,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "1896",
-    "engineCodes": "AUY  AJM",
+    "engineCodes": "AUY, AJM",
     "KBA_Numbers": "0603499"
   },
   {
@@ -1107,7 +1107,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "1984",
-    "engineCodes": "BER  AZJ  AQY  APK  AZG  BEJ  BHP",
+    "engineCodes": "BER, AZJ, AQY, APK, AZG, BEJ, BHP",
     "KBA_Numbers": "0603477"
   },
   {
@@ -1118,7 +1118,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "1984",
-    "engineCodes": "AZJ  AZH",
+    "engineCodes": "AZJ, AZH",
     "KBA_Numbers": "0603578"
   },
   {
@@ -1162,7 +1162,7 @@
     "kw": "150",
     "hp": "204",
     "cc": "2792",
-    "engineCodes": "BDE  AUE  AQP",
+    "engineCodes": "BDE, AUE, AQP",
     "KBA_Numbers": "0603530"
   },
   {
@@ -1217,7 +1217,7 @@
     "kw": "55",
     "hp": "75",
     "cc": "1390",
-    "engineCodes": "BCA  AKQ  APE  AHW  AXP",
+    "engineCodes": "BCA, AKQ, APE, AHW, AXP",
     "KBA_Numbers": "0603488"
   },
   {
@@ -1228,7 +1228,7 @@
     "kw": "74",
     "hp": "101",
     "cc": "1595",
-    "engineCodes": "AKL  AEH  APF",
+    "engineCodes": "AKL, AEH, APF",
     "KBA_Numbers": "0603490"
   },
   {
@@ -1239,7 +1239,7 @@
     "kw": "75",
     "hp": "102",
     "cc": "1595",
-    "engineCodes": "AVU  BFQ",
+    "engineCodes": "AVU, BFQ",
     "KBA_Numbers": "0603602"
   },
   {
@@ -1250,7 +1250,7 @@
     "kw": "77",
     "hp": "105",
     "cc": "1598",
-    "engineCodes": "BCB  AZD  AUS  ATN",
+    "engineCodes": "BCB, AZD, AUS, ATN",
     "KBA_Numbers": "0603549"
   },
   {
@@ -1283,7 +1283,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1781",
-    "engineCodes": "AGU  ARZ  AUM",
+    "engineCodes": "AGU, ARZ, AUM",
     "KBA_Numbers": "0603599"
   },
   {
@@ -1294,7 +1294,7 @@
     "kw": "50",
     "hp": "68",
     "cc": "1896",
-    "engineCodes": "AGP  AQM",
+    "engineCodes": "AGP, AQM",
     "KBA_Numbers": "0603487"
   },
   {
@@ -1305,7 +1305,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1896",
-    "engineCodes": "AGR  ALH",
+    "engineCodes": "AGR, ALH",
     "KBA_Numbers": "0603489"
   },
   {
@@ -1316,7 +1316,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1896",
-    "engineCodes": "ASV  AHF",
+    "engineCodes": "ASV, AHF",
     "KBA_Numbers": "0603491"
   },
   {
@@ -1327,7 +1327,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "1896",
-    "engineCodes": "AUY  AJM",
+    "engineCodes": "AUY, AJM",
     "KBA_Numbers": "0603492"
   },
   {
@@ -1338,7 +1338,7 @@
     "kw": "74",
     "hp": "101",
     "cc": "1896",
-    "engineCodes": "ATD  AXR",
+    "engineCodes": "ATD, AXR",
     "KBA_Numbers": "0603560"
   },
   {
@@ -1371,7 +1371,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "1896",
-    "engineCodes": "AJM  AUY",
+    "engineCodes": "AJM, AUY",
     "KBA_Numbers": "0603513"
   },
   {
@@ -1404,7 +1404,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "1984",
-    "engineCodes": "AZJ  AQY  APK",
+    "engineCodes": "AZJ, AQY, APK",
     "KBA_Numbers": "0603493"
   },
   {
@@ -1415,7 +1415,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "1984",
-    "engineCodes": "AZJ  AZH",
+    "engineCodes": "AZJ, AZH",
     "KBA_Numbers": "0603579"
   },
   {
@@ -1448,7 +1448,7 @@
     "kw": "77",
     "hp": "105",
     "cc": "1598",
-    "engineCodes": "AZD  BCB  AUS",
+    "engineCodes": "AZD, BCB, AUS",
     "KBA_Numbers": "0603549"
   },
   {
@@ -1470,7 +1470,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1896",
-    "engineCodes": "AGR  ALH",
+    "engineCodes": "AGR, ALH",
     "KBA_Numbers": "0603489"
   },
   {
@@ -1481,7 +1481,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1896",
-    "engineCodes": "AHF  ASV",
+    "engineCodes": "AHF, ASV",
     "KBA_Numbers": ""
   },
   {
@@ -1503,7 +1503,7 @@
     "kw": "74",
     "hp": "101",
     "cc": "1896",
-    "engineCodes": "ATD  AXR",
+    "engineCodes": "ATD, AXR",
     "KBA_Numbers": "0603560"
   },
   {
@@ -1515,7 +1515,7 @@
     "hp": "75",
     "cc": "1390",
     "engineCodes": "BCA",
-    "KBA_Numbers": "0603AHW  0603665"
+    "KBA_Numbers": "0603AHW, 0603665"
   },
   {
     "brand": "VW",
@@ -1536,8 +1536,8 @@
     "kw": "75",
     "hp": "102",
     "cc": "1595",
-    "engineCodes": "BFS  AYD",
-    "KBA_Numbers": "0603586  0603AHX"
+    "engineCodes": "BFS, AYD",
+    "KBA_Numbers": "0603586, 0603AHX"
   },
   {
     "brand": "VW",
@@ -1547,8 +1547,8 @@
     "kw": "110",
     "hp": "150",
     "cc": "1781",
-    "engineCodes": "BKF  AGU  APH  AWV  AWU  AVC",
-    "KBA_Numbers": "0603542  0603AHU"
+    "engineCodes": "BKF, AGU, APH, AWV, AWU, AVC",
+    "KBA_Numbers": "0603542, 0603AHU"
   },
   {
     "brand": "VW",
@@ -1569,7 +1569,7 @@
     "kw": "74",
     "hp": "101",
     "cc": "1896",
-    "engineCodes": "ATD  BEW  AXR",
+    "engineCodes": "ATD, BEW, AXR",
     "KBA_Numbers": "0603631"
   },
   {
@@ -1581,7 +1581,7 @@
     "hp": "105",
     "cc": "1896",
     "engineCodes": "BSW",
-    "KBA_Numbers": "0603AHY  0603810"
+    "KBA_Numbers": "0603AHY, 0603810"
   },
   {
     "brand": "VW",
@@ -1591,8 +1591,8 @@
     "kw": "85",
     "hp": "115",
     "cc": "1984",
-    "engineCodes": "AVH  BEV  BER  CBPA  BHP  BEJ  AZJ  AEG  AQY  APK  AZG",
-    "KBA_Numbers": "0603AHV  0603471"
+    "engineCodes": "AVH, BEV, BER, CBPA, BHP, BEJ, AZJ, AEG, AQY, APK, AZG",
+    "KBA_Numbers": "0603AHV, 0603471"
   },
   {
     "brand": "VW",
@@ -1602,7 +1602,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "2480",
-    "engineCodes": "BPS  BPR",
+    "engineCodes": "BPS, BPR",
     "KBA_Numbers": ""
   },
   {
@@ -1614,7 +1614,7 @@
     "hp": "75",
     "cc": "1390",
     "engineCodes": "BCA",
-    "KBA_Numbers": "0603AIB  0603683"
+    "KBA_Numbers": "0603AIB, 0603683"
   },
   {
     "brand": "VW",
@@ -1625,7 +1625,7 @@
     "hp": "102",
     "cc": "1595",
     "engineCodes": "BFS",
-    "KBA_Numbers": "0603AIC  0603701"
+    "KBA_Numbers": "0603AIC, 0603701"
   },
   {
     "brand": "VW",
@@ -1635,8 +1635,8 @@
     "kw": "110",
     "hp": "150",
     "cc": "1781",
-    "engineCodes": "BKF  AWV  AWU",
-    "KBA_Numbers": "0603AHZ  0603739"
+    "engineCodes": "BKF, AWV, AWU",
+    "KBA_Numbers": "0603AHZ, 0603739"
   },
   {
     "brand": "VW",
@@ -1658,7 +1658,7 @@
     "hp": "105",
     "cc": "1896",
     "engineCodes": "BSW",
-    "KBA_Numbers": "0603AID  0603811"
+    "KBA_Numbers": "0603AID, 0603811"
   },
   {
     "brand": "VW",
@@ -1668,8 +1668,8 @@
     "kw": "85",
     "hp": "115",
     "cc": "1984",
-    "engineCodes": "BEV  BGD  BDC  AZJ",
-    "KBA_Numbers": "0603AIA  0603684"
+    "engineCodes": "BEV, BGD, BDC, AZJ",
+    "KBA_Numbers": "0603AIA, 0603684"
   },
   {
     "brand": "VW",
@@ -1679,7 +1679,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "2480",
-    "engineCodes": "BPS  BPR",
+    "engineCodes": "BPS, BPR",
     "KBA_Numbers": ""
   }
 ]

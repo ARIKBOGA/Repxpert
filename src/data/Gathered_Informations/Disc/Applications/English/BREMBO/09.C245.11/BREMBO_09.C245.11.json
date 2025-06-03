@@ -29,7 +29,7 @@
     "kw": "173",
     "hp": "235",
     "cc": "2999",
-    "engineCodes": "G6DG  L6DB",
+    "engineCodes": "G6DG, L6DB",
     "KBA_Numbers": ""
   },
   {
@@ -40,7 +40,7 @@
     "kw": "150",
     "hp": "204",
     "cc": "1598",
-    "engineCodes": "G4FP  G4FV",
+    "engineCodes": "G4FP, G4FV",
     "KBA_Numbers": "5984ABR"
   },
   {
@@ -206,7 +206,7 @@
     "hp": "135",
     "cc": "1591",
     "engineCodes": "G4FD",
-    "KBA_Numbers": "8252AEY  8252AEZ"
+    "KBA_Numbers": "8252AEY, 8252AEZ"
   },
   {
     "brand": "HYUNDAI",
@@ -217,7 +217,7 @@
     "hp": "116",
     "cc": "1685",
     "engineCodes": "D4FD",
-    "KBA_Numbers": "8252AFK  8252AFH"
+    "KBA_Numbers": "8252AFK, 8252AFH"
   },
   {
     "brand": "HYUNDAI",
@@ -228,7 +228,7 @@
     "hp": "136",
     "cc": "1685",
     "engineCodes": "D4FD",
-    "KBA_Numbers": "8252AFJ  8252AFG"
+    "KBA_Numbers": "8252AFJ, 8252AFG"
   },
   {
     "brand": "HYUNDAI",
@@ -261,7 +261,7 @@
     "hp": "177",
     "cc": "1999",
     "engineCodes": "G4NC",
-    "KBA_Numbers": "8252AFI  8252AFF"
+    "KBA_Numbers": "8252AFI, 8252AFF"
   },
   {
     "brand": "HYUNDAI",
@@ -293,8 +293,8 @@
     "kw": "100",
     "hp": "136",
     "cc": "HFE",
-    "engineCodes": "8252AGH",
-    "KBA_Numbers": ""
+    "engineCodes": "HFE",
+    "KBA_Numbers": "8252AGH"
   },
   {
     "brand": "HYUNDAI",
@@ -326,8 +326,8 @@
     "kw": "120",
     "hp": "163",
     "cc": "FM12",
-    "engineCodes": "8252AIQ",
-    "KBA_Numbers": ""
+    "engineCodes": "FM12",
+    "KBA_Numbers": "8252AIQ"
   },
   {
     "brand": "HYUNDAI",
@@ -448,7 +448,7 @@
     "hp": "177",
     "cc": "1591",
     "engineCodes": "G4FJ",
-    "KBA_Numbers": "1349ADT  8252AHI"
+    "KBA_Numbers": "1349ADT, 8252AHI"
   },
   {
     "brand": "HYUNDAI",
@@ -459,7 +459,7 @@
     "hp": "177",
     "cc": "1591",
     "engineCodes": "G4FJ",
-    "KBA_Numbers": "1349ADU  8252AHJ"
+    "KBA_Numbers": "1349ADU, 8252AHJ"
   },
   {
     "brand": "HYUNDAI",
@@ -470,7 +470,7 @@
     "hp": "155",
     "cc": "1999",
     "engineCodes": "G4NA",
-    "KBA_Numbers": "1349ADZ  8252AGV"
+    "KBA_Numbers": "1349ADZ, 8252AGV"
   },
   {
     "brand": "HYUNDAI",
@@ -492,7 +492,7 @@
     "hp": "185",
     "cc": "1995",
     "engineCodes": "D4HA",
-    "KBA_Numbers": "1349ADV  8252AGY"
+    "KBA_Numbers": "1349ADV, 8252AGY"
   },
   {
     "brand": "HYUNDAI",
@@ -613,7 +613,7 @@
     "hp": "135",
     "cc": "1591",
     "engineCodes": "G4FD",
-    "KBA_Numbers": "1260ADA  1260ADF"
+    "KBA_Numbers": "1260ADA, 1260ADF"
   },
   {
     "brand": "KIA",
@@ -624,7 +624,7 @@
     "hp": "204",
     "cc": "1591",
     "engineCodes": "G4FJ",
-    "KBA_Numbers": "1260AEU  2234AAV"
+    "KBA_Numbers": "1260AEU, 2234AAV"
   },
   {
     "brand": "KIA",
@@ -789,7 +789,7 @@
     "hp": "204",
     "cc": "1591",
     "engineCodes": "G4FJ",
-    "KBA_Numbers": "1260AEU  2234AAV"
+    "KBA_Numbers": "1260AEU, 2234AAV"
   },
   {
     "brand": "KIA",
@@ -899,7 +899,7 @@
     "hp": "116",
     "cc": "1598",
     "engineCodes": "D4FE",
-    "KBA_Numbers": "1260AEM  2234AAE"
+    "KBA_Numbers": "1260AEM, 2234AAE"
   },
   {
     "brand": "KIA",
@@ -910,7 +910,7 @@
     "hp": "136",
     "cc": "1598",
     "engineCodes": "D4FE",
-    "KBA_Numbers": "1260AEN  2234AAF"
+    "KBA_Numbers": "1260AEN, 2234AAF"
   },
   {
     "brand": "KIA",
@@ -943,7 +943,7 @@
     "hp": "136",
     "cc": "1598",
     "engineCodes": "D4FE",
-    "KBA_Numbers": "1260AEX  2234AAG"
+    "KBA_Numbers": "1260AEX, 2234AAG"
   },
   {
     "brand": "KIA",
@@ -954,7 +954,7 @@
     "hp": "136",
     "cc": "1598",
     "engineCodes": "D4FE",
-    "KBA_Numbers": "1260AEY  2234AAH"
+    "KBA_Numbers": "1260AEY, 2234AAH"
   },
   {
     "brand": "KIA",
@@ -965,7 +965,7 @@
     "hp": "132",
     "cc": "1591",
     "engineCodes": "G4FD",
-    "KBA_Numbers": "1260ADX  2234AAA"
+    "KBA_Numbers": "1260ADX, 2234AAA"
   },
   {
     "brand": "KIA",
@@ -987,7 +987,7 @@
     "hp": "177",
     "cc": "1591",
     "engineCodes": "G4FJ",
-    "KBA_Numbers": "1260ADY  2234AAB"
+    "KBA_Numbers": "1260ADY, 2234AAB"
   },
   {
     "brand": "KIA",
@@ -998,7 +998,7 @@
     "hp": "177",
     "cc": "1591",
     "engineCodes": "G4FJ",
-    "KBA_Numbers": "1260ADZ  2234AAC"
+    "KBA_Numbers": "1260ADZ, 2234AAC"
   },
   {
     "brand": "KIA",
@@ -1020,7 +1020,7 @@
     "hp": "155",
     "cc": "1999",
     "engineCodes": "G4NA",
-    "KBA_Numbers": "8253AGD  1260AEF"
+    "KBA_Numbers": "8253AGD, 1260AEF"
   },
   {
     "brand": "KIA",
@@ -1042,7 +1042,7 @@
     "hp": "185",
     "cc": "1995",
     "engineCodes": "D4HA",
-    "KBA_Numbers": "1260AEA  8253AGA"
+    "KBA_Numbers": "1260AEA, 8253AGA"
   },
   {
     "brand": "KIA",
@@ -1063,8 +1063,8 @@
     "kw": "88",
     "hp": "120",
     "cc": "998",
-    "engineCodes": "G3LC  G3LE",
-    "KBA_Numbers": "1260AEH  2234AAR"
+    "engineCodes": "G3LC, G3LE",
+    "KBA_Numbers": "1260AEH, 2234AAR"
   },
   {
     "brand": "KIA",
@@ -1119,7 +1119,7 @@
     "hp": "136",
     "cc": "1598",
     "engineCodes": "D4FE",
-    "KBA_Numbers": "1260AFC  2234AAW"
+    "KBA_Numbers": "1260AFC, 2234AAW"
   },
   {
     "brand": "KIA",
@@ -1130,7 +1130,7 @@
     "hp": "204",
     "cc": "1591",
     "engineCodes": "G4FJ",
-    "KBA_Numbers": "1260AEU  2234AAV"
+    "KBA_Numbers": "1260AEU, 2234AAV"
   },
   {
     "brand": "KIA",

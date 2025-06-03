@@ -7,8 +7,8 @@
     "kw": "155",
     "hp": "211",
     "cc": "2967",
-    "engineCodes": "CASB  BUN",
-    "KBA_Numbers": "0588AQM  0588AMF  0588AEN"
+    "engineCodes": "CASB, BUN",
+    "KBA_Numbers": "0588AQM, 0588AMF, 0588AEN"
   },
   {
     "brand": "AUDI",
@@ -29,8 +29,8 @@
     "kw": "176",
     "hp": "240",
     "cc": "2967",
-    "engineCodes": "CNRB  CJGA  CCMA  CASA",
-    "KBA_Numbers": "0588AQL  0588AME  0588AGU"
+    "engineCodes": "CNRB, CJGA, CCMA, CASA",
+    "KBA_Numbers": "0588AQL, 0588AME, 0588AGU"
   },
   {
     "brand": "AUDI",
@@ -51,8 +51,8 @@
     "kw": "150",
     "hp": "204",
     "cc": "2967",
-    "engineCodes": "CJMA  CJGC",
-    "KBA_Numbers": "0588APF  0588AQO"
+    "engineCodes": "CJMA, CJGC",
+    "KBA_Numbers": "0588APF, 0588AQO"
   },
   {
     "brand": "AUDI",
@@ -62,8 +62,8 @@
     "kw": "180",
     "hp": "245",
     "cc": "2967",
-    "engineCodes": "CRCA  CJGD  CLZB",
-    "KBA_Numbers": "0588ARQ  0588ARV"
+    "engineCodes": "CRCA, CJGD, CLZB",
+    "KBA_Numbers": "0588ARQ, 0588ARV"
   },
   {
     "brand": "AUDI",
@@ -73,8 +73,8 @@
     "kw": "200",
     "hp": "272",
     "cc": "2995",
-    "engineCodes": "CJWC  CJTC",
-    "KBA_Numbers": "0588AQQ  0588AMH"
+    "engineCodes": "CJWC, CJTC",
+    "KBA_Numbers": "0588AQQ, 0588AMH"
   },
   {
     "brand": "AUDI",
@@ -84,8 +84,8 @@
     "kw": "245",
     "hp": "333",
     "cc": "2995",
-    "engineCodes": "CTWA  CNAA  CJWB  CJTB",
-    "KBA_Numbers": "0588AQP  0588AMI"
+    "engineCodes": "CTWA, CNAA, CJWB, CJTB",
+    "KBA_Numbers": "0588AQP, 0588AMI"
   },
   {
     "brand": "AUDI",
@@ -95,7 +95,7 @@
     "kw": "206",
     "hp": "280",
     "cc": "2995",
-    "engineCodes": "CTWB  CJWE",
+    "engineCodes": "CTWB, CJWE",
     "KBA_Numbers": ""
   },
   {
@@ -107,7 +107,7 @@
     "hp": "280",
     "cc": "3597",
     "engineCodes": "BHK",
-    "KBA_Numbers": "0588AQK  0588AMC  0588AEO"
+    "KBA_Numbers": "0588AQK, 0588AMC, 0588AEO"
   },
   {
     "brand": "AUDI",
@@ -118,7 +118,7 @@
     "hp": "350",
     "cc": "4163",
     "engineCodes": "BAR",
-    "KBA_Numbers": "0588AQJ  0588AMB  0588AEL"
+    "KBA_Numbers": "0588AQJ, 0588AMB, 0588AEL"
   },
   {
     "brand": "AUDI",
@@ -129,7 +129,7 @@
     "hp": "326",
     "cc": "4134",
     "engineCodes": "BTR",
-    "KBA_Numbers": "0588AMD  0588AGH"
+    "KBA_Numbers": "0588AMD, 0588AGH"
   },
   {
     "brand": "AUDI",
@@ -139,8 +139,8 @@
     "kw": "250",
     "hp": "340",
     "cc": "4134",
-    "engineCodes": "CCFA  CCFC",
-    "KBA_Numbers": "0588AQN  0588AMG  0588AKQ"
+    "engineCodes": "CCFA, CCFC",
+    "KBA_Numbers": "0588AQN, 0588AMG, 0588AKQ"
   },
   {
     "brand": "AUDI",
@@ -161,8 +161,8 @@
     "kw": "155",
     "hp": "211",
     "cc": "2967",
-    "engineCodes": "MCV.VC  MCR.CB",
-    "KBA_Numbers": "0583ADJ  0583ADZ"
+    "engineCodes": "MCV.VC, MCR.CB",
+    "KBA_Numbers": "0583ADJ, 0583ADZ"
   },
   {
     "brand": "PORSCHE",
@@ -172,8 +172,8 @@
     "kw": "176",
     "hp": "239",
     "cc": "2967",
-    "engineCodes": "MCN.RB  M 05.9E",
-    "KBA_Numbers": "0583ADH  0583ADI  0583ADY"
+    "engineCodes": "MCN.RB, M 05.9E",
+    "KBA_Numbers": "0583ADH, 0583ADI, 0583ADY"
   },
   {
     "brand": "PORSCHE",
@@ -183,8 +183,8 @@
     "kw": "180",
     "hp": "245",
     "cc": "2967",
-    "engineCodes": "MCR.C  MCR.CA",
-    "KBA_Numbers": "0583AEQ  0583AER  0583AEZ"
+    "engineCodes": "MCR.C, MCR.CA",
+    "KBA_Numbers": "0583AEQ, 0583AER, 0583AEZ"
   },
   {
     "brand": "PORSCHE",
@@ -195,7 +195,7 @@
     "hp": "250",
     "cc": "2967",
     "engineCodes": "MCV.VB",
-    "KBA_Numbers": "0583AIA  0583AIE"
+    "KBA_Numbers": "0583AIA, 0583AIE"
   },
   {
     "brand": "PORSCHE",
@@ -206,7 +206,7 @@
     "hp": "262",
     "cc": "2967",
     "engineCodes": "MCV.VA",
-    "KBA_Numbers": "0583AHZ  0583AIF"
+    "KBA_Numbers": "0583AHZ, 0583AIF"
   },
   {
     "brand": "PORSCHE",
@@ -216,8 +216,8 @@
     "kw": "306",
     "hp": "416",
     "cc": "2995",
-    "engineCodes": "MCG.E  MCG.EA  MCG.FA  M 06.EC",
-    "KBA_Numbers": "0583AIC  0583AIJ  0583ADT  0583ADU  0583ADV"
+    "engineCodes": "MCG.E, MCG.EA, MCG.FA, M 06.EC",
+    "KBA_Numbers": "0583AIC, 0583AIJ, 0583ADT, 0583ADU, 0583ADV"
   },
   {
     "brand": "PORSCHE",
@@ -227,8 +227,8 @@
     "kw": "220",
     "hp": "300",
     "cc": "3598",
-    "engineCodes": "MCE.YA  M 55.02",
-    "KBA_Numbers": "0583ADF  0583ADG  0583AEC"
+    "engineCodes": "MCE.YA, M 55.02",
+    "KBA_Numbers": "0583ADF, 0583ADG, 0583AEC"
   },
   {
     "brand": "PORSCHE",
@@ -239,7 +239,7 @@
     "hp": "440",
     "cc": "3604",
     "engineCodes": "MCX.ZA",
-    "KBA_Numbers": "0583AIK  0583AIL  0583AIP  0583AIQ"
+    "KBA_Numbers": "0583AIK, 0583AIL, 0583AIP, 0583AIQ"
   },
   {
     "brand": "PORSCHE",
@@ -250,7 +250,7 @@
     "hp": "420",
     "cc": "3604",
     "engineCodes": "MCU.RA",
-    "KBA_Numbers": "0583AHX  0583AIH"
+    "KBA_Numbers": "0583AHX, 0583AIH"
   },
   {
     "brand": "PORSCHE",
@@ -261,7 +261,7 @@
     "hp": "382",
     "cc": "4134",
     "engineCodes": "MCU.DB",
-    "KBA_Numbers": "0583AGE  0583AGF  0583AGI"
+    "KBA_Numbers": "0583AGE, 0583AGF, 0583AGI"
   },
   {
     "brand": "PORSCHE",
@@ -272,7 +272,7 @@
     "hp": "385",
     "cc": "4134",
     "engineCodes": "MCU.DC",
-    "KBA_Numbers": "0583AIB  0583AIG"
+    "KBA_Numbers": "0583AIB, 0583AIG"
   },
   {
     "brand": "PORSCHE",
@@ -283,7 +283,7 @@
     "hp": "420",
     "cc": "4806",
     "engineCodes": "M 48.02",
-    "KBA_Numbers": "0583AGA  0583AFN  0583AFQ  0583AFO  0583AFP  0583AFR"
+    "KBA_Numbers": "0583AGA, 0583AFN, 0583AFQ, 0583AFO, 0583AFP, 0583AFR"
   },
   {
     "brand": "PORSCHE",
@@ -294,7 +294,7 @@
     "hp": "400",
     "cc": "4806",
     "engineCodes": "M 48.02",
-    "KBA_Numbers": "0583ADN  0583ADO  0583ADW"
+    "KBA_Numbers": "0583ADN, 0583ADO, 0583ADW"
   },
   {
     "brand": "PORSCHE",
@@ -305,7 +305,7 @@
     "hp": "500",
     "cc": "4806",
     "engineCodes": "M 48.52",
-    "KBA_Numbers": "0583ADP  0583ADQ  0583ADX"
+    "KBA_Numbers": "0583ADP, 0583ADQ, 0583ADX"
   },
   {
     "brand": "PORSCHE",
@@ -316,7 +316,7 @@
     "hp": "540",
     "cc": "4806",
     "engineCodes": "M 48.52",
-    "KBA_Numbers": "0583AEO  0583AEP  0583AEY"
+    "KBA_Numbers": "0583AEO, 0583AEP, 0583AEY"
   },
   {
     "brand": "PORSCHE",
@@ -327,7 +327,7 @@
     "hp": "520",
     "cc": "4806",
     "engineCodes": "MCF.TB",
-    "KBA_Numbers": "0583AHY  0583AII"
+    "KBA_Numbers": "0583AHY, 0583AII"
   },
   {
     "brand": "PORSCHE",
@@ -338,7 +338,7 @@
     "hp": "550",
     "cc": "4806",
     "engineCodes": "M 48.52",
-    "KBA_Numbers": "0583AGH  0583AGG  0583AGJ"
+    "KBA_Numbers": "0583AGH, 0583AGG, 0583AGJ"
   },
   {
     "brand": "PORSCHE",
@@ -349,7 +349,7 @@
     "hp": "570",
     "cc": "4806",
     "engineCodes": "MCY.XA",
-    "KBA_Numbers": "0583AIM  0583AIR"
+    "KBA_Numbers": "0583AIM, 0583AIR"
   },
   {
     "brand": "PORSCHE",
@@ -360,7 +360,7 @@
     "hp": "240",
     "cc": "2967",
     "engineCodes": "M 05.9D",
-    "KBA_Numbers": "0583ACN  0583ACO"
+    "KBA_Numbers": "0583ACN, 0583ACO"
   },
   {
     "brand": "PORSCHE",
@@ -371,7 +371,7 @@
     "hp": "250",
     "cc": "3189",
     "engineCodes": "M02.2Y",
-    "KBA_Numbers": "0583AAW  0583AAX  0583490"
+    "KBA_Numbers": "0583AAW, 0583AAX, 0583490"
   },
   {
     "brand": "PORSCHE",
@@ -382,7 +382,7 @@
     "hp": "290",
     "cc": "3598",
     "engineCodes": "M 55.01",
-    "KBA_Numbers": "0583ABK  0583ABH"
+    "KBA_Numbers": "0583ABK, 0583ABH"
   },
   {
     "brand": "PORSCHE",
@@ -393,7 +393,7 @@
     "hp": "405",
     "cc": "4806",
     "engineCodes": "M 48.01",
-    "KBA_Numbers": "0583ABU  0583ABP  0583ABQ  0583ABT"
+    "KBA_Numbers": "0583ABU, 0583ABP, 0583ABQ, 0583ABT"
   },
   {
     "brand": "PORSCHE",
@@ -404,7 +404,7 @@
     "hp": "340",
     "cc": "4511",
     "engineCodes": "M 48.00",
-    "KBA_Numbers": "0583AAS  0583AAT  0583481"
+    "KBA_Numbers": "0583AAS, 0583AAT, 0583481"
   },
   {
     "brand": "PORSCHE",
@@ -415,7 +415,7 @@
     "hp": "385",
     "cc": "4806",
     "engineCodes": "M 48.01",
-    "KBA_Numbers": "0583ABI  0583ABL"
+    "KBA_Numbers": "0583ABI, 0583ABL"
   },
   {
     "brand": "PORSCHE",
@@ -426,7 +426,7 @@
     "hp": "450",
     "cc": "4511",
     "engineCodes": "M 48.50",
-    "KBA_Numbers": "0583AAV  0583AAU  0583482"
+    "KBA_Numbers": "0583AAV, 0583AAU, 0583482"
   },
   {
     "brand": "PORSCHE",
@@ -437,7 +437,7 @@
     "hp": "521",
     "cc": "4511",
     "engineCodes": "M 48.50T",
-    "KBA_Numbers": "0583AAQ  0583AAR"
+    "KBA_Numbers": "0583AAQ, 0583AAR"
   },
   {
     "brand": "PORSCHE",
@@ -448,7 +448,7 @@
     "hp": "500",
     "cc": "4511",
     "engineCodes": "M 48.50S",
-    "KBA_Numbers": "0583AAY  0583AAZ  0583492"
+    "KBA_Numbers": "0583AAY, 0583AAZ, 0583492"
   },
   {
     "brand": "PORSCHE",
@@ -459,7 +459,7 @@
     "hp": "500",
     "cc": "4806",
     "engineCodes": "M 48.51",
-    "KBA_Numbers": "0583ABJ  0583ABM"
+    "KBA_Numbers": "0583ABJ, 0583ABM"
   },
   {
     "brand": "PORSCHE",
@@ -470,7 +470,7 @@
     "hp": "540",
     "cc": "4806",
     "engineCodes": "M 48.51",
-    "KBA_Numbers": "0583ABS  0583ABR"
+    "KBA_Numbers": "0583ABS, 0583ABR"
   },
   {
     "brand": "PORSCHE",
@@ -481,7 +481,7 @@
     "hp": "550",
     "cc": "4806",
     "engineCodes": "M 48.51",
-    "KBA_Numbers": "0583ACE  0583ACG"
+    "KBA_Numbers": "0583ACE, 0583ACG"
   },
   {
     "brand": "VW",
@@ -491,8 +491,8 @@
     "kw": "165",
     "hp": "225",
     "cc": "2967",
-    "engineCodes": "CATA  BKS",
-    "KBA_Numbers": "0603AGV  0603775"
+    "engineCodes": "CATA, BKS",
+    "KBA_Numbers": "0603AGV, 0603775"
   },
   {
     "brand": "VW",
@@ -502,7 +502,7 @@
     "kw": "176",
     "hp": "240",
     "cc": "2967",
-    "engineCodes": "CASC  CASA",
+    "engineCodes": "CASC, CASA",
     "KBA_Numbers": "0603AGQ"
   },
   {
@@ -513,8 +513,8 @@
     "kw": "206",
     "hp": "280",
     "cc": "3597",
-    "engineCodes": "BHL  BHK",
-    "KBA_Numbers": "0603AGT  0603833"
+    "engineCodes": "BHL, BHK",
+    "KBA_Numbers": "0603AGT, 0603833"
   },
   {
     "brand": "VW",
@@ -546,8 +546,8 @@
     "kw": "230",
     "hp": "313",
     "cc": "4921",
-    "engineCodes": "BLE  BWF  AYH",
-    "KBA_Numbers": "0603AGW  0603679"
+    "engineCodes": "BLE, BWF, AYH",
+    "KBA_Numbers": "0603AGW, 0603679"
   },
   {
     "brand": "VW",
@@ -557,7 +557,7 @@
     "kw": "331",
     "hp": "450",
     "cc": "5998",
-    "engineCodes": "CFRA  BJN",
-    "KBA_Numbers": "0603AGU  0603774"
+    "engineCodes": "CFRA, BJN",
+    "KBA_Numbers": "0603AGU, 0603774"
   }
 ]

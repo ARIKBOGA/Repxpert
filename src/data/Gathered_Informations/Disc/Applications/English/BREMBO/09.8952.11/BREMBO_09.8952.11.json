@@ -96,7 +96,7 @@
     "hp": "204",
     "cc": "2993",
     "engineCodes": "M57 D30 (306D2)",
-    "KBA_Numbers": "0005842  0005AEM"
+    "KBA_Numbers": "0005842, 0005AEM"
   },
   {
     "brand": "BMW",
@@ -107,7 +107,7 @@
     "hp": "231",
     "cc": "2979",
     "engineCodes": "M54 B30 (306S3)",
-    "KBA_Numbers": "0005682  0005AEI"
+    "KBA_Numbers": "0005682, 0005AEI"
   },
   {
     "brand": "BMW",
@@ -118,7 +118,7 @@
     "hp": "204",
     "cc": "2993",
     "engineCodes": "M57 D30 (306D2)",
-    "KBA_Numbers": "0005764  0005AET"
+    "KBA_Numbers": "0005764, 0005AET"
   },
   {
     "brand": "BMW",
@@ -129,7 +129,7 @@
     "hp": "231",
     "cc": "2979",
     "engineCodes": "M54 B30 (306S3)",
-    "KBA_Numbers": "0005683  0005AER"
+    "KBA_Numbers": "0005683, 0005AER"
   },
   {
     "brand": "BMW",
@@ -227,7 +227,7 @@
     "kw": "195",
     "hp": "265",
     "cc": "2996",
-    "engineCodes": "N52 B30 A  N52 B30 BF",
+    "engineCodes": "N52 B30 A, N52 B30 BF",
     "KBA_Numbers": "0005AAF"
   },
   {
@@ -238,7 +238,7 @@
     "kw": "155",
     "hp": "211",
     "cc": "2497",
-    "engineCodes": "N52 B25 AF  N52 B25 A",
+    "engineCodes": "N52 B25 AF, N52 B25 A",
     "KBA_Numbers": "0005AAD"
   },
   {
@@ -249,7 +249,7 @@
     "kw": "195",
     "hp": "265",
     "cc": "2996",
-    "engineCodes": "N52 B30 BF  N52 B30 A",
+    "engineCodes": "N52 B30 BF, N52 B30 A",
     "KBA_Numbers": "0005AAA"
   }
 ]

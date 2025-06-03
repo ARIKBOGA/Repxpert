@@ -30,7 +30,7 @@
     "hp": "224",
     "cc": "2987",
     "engineCodes": "OM 642.910",
-    "KBA_Numbers": "0999AID  0999328"
+    "KBA_Numbers": "0999AID, 0999328"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -41,7 +41,7 @@
     "hp": "272",
     "cc": "3498",
     "engineCodes": "M 272.960",
-    "KBA_Numbers": "0999AIJ  0999351"
+    "KBA_Numbers": "0999AIJ, 0999351"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -51,8 +51,8 @@
     "kw": "200",
     "hp": "272",
     "cc": "3498",
-    "engineCodes": "M 272.970  M 272.960",
-    "KBA_Numbers": "0999AIK  0999394"
+    "engineCodes": "M 272.970, M 272.960",
+    "KBA_Numbers": "0999AIK, 0999394"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -74,7 +74,7 @@
     "hp": "367",
     "cc": "5439",
     "engineCodes": "M 113.988",
-    "KBA_Numbers": "0999AIL  0999267"
+    "KBA_Numbers": "0999AIL, 0999267"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -129,7 +129,7 @@
     "hp": "224",
     "cc": "2987",
     "engineCodes": "OM 642.910",
-    "KBA_Numbers": "0999AKM  0999AKW  0999329"
+    "KBA_Numbers": "0999AKM, 0999AKW, 0999329"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -140,7 +140,7 @@
     "hp": "272",
     "cc": "3498",
     "engineCodes": "M 272.960",
-    "KBA_Numbers": "0999AKS  0999356"
+    "KBA_Numbers": "0999AKS, 0999356"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -151,7 +151,7 @@
     "hp": "272",
     "cc": "3498",
     "engineCodes": "M 272.970",
-    "KBA_Numbers": "0999AKT  0999392"
+    "KBA_Numbers": "0999AKT, 0999392"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -162,7 +162,7 @@
     "hp": "367",
     "cc": "5439",
     "engineCodes": "M 113.988",
-    "KBA_Numbers": "0999AKU  0999270"
+    "KBA_Numbers": "0999AKU, 0999270"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -173,7 +173,7 @@
     "hp": "224",
     "cc": "2987",
     "engineCodes": "OM 642.910",
-    "KBA_Numbers": "1313AGK  0999ACK  0999373"
+    "KBA_Numbers": "1313AGK, 0999ACK, 0999373"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -184,7 +184,7 @@
     "hp": "272",
     "cc": "3498",
     "engineCodes": "M 272.960",
-    "KBA_Numbers": "1313AGN  0999ACN  0999375"
+    "KBA_Numbers": "1313AGN, 0999ACN, 0999375"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -195,7 +195,7 @@
     "hp": "388",
     "cc": "5461",
     "engineCodes": "M 273.967",
-    "KBA_Numbers": "1313AGO  1313AGU  0999AJV"
+    "KBA_Numbers": "1313AGO, 1313AGU, 0999AJV"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -206,7 +206,7 @@
     "hp": "306",
     "cc": "4966",
     "engineCodes": "M 113.968",
-    "KBA_Numbers": "0710563  0999ACO"
+    "KBA_Numbers": "0710563, 0999ACO"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -217,7 +217,7 @@
     "hp": "367",
     "cc": "5439",
     "engineCodes": "M 113.987",
-    "KBA_Numbers": "0999ACP  0710593"
+    "KBA_Numbers": "0999ACP, 0710593"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -228,7 +228,7 @@
     "hp": "224",
     "cc": "2987",
     "engineCodes": "OM 642.910",
-    "KBA_Numbers": "1313AGQ  0999395  0999ACQ"
+    "KBA_Numbers": "1313AGQ, 0999395, 0999ACQ"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -239,7 +239,7 @@
     "hp": "272",
     "cc": "3498",
     "engineCodes": "M 272.960",
-    "KBA_Numbers": "1313BOO  1313AGT  0999377  0999ACT"
+    "KBA_Numbers": "1313BOO, 1313AGT, 0999377, 0999ACT"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -261,7 +261,7 @@
     "hp": "306",
     "cc": "4966",
     "engineCodes": "M 113.968",
-    "KBA_Numbers": "0710956  0999ACU"
+    "KBA_Numbers": "0710956, 0999ACU"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -272,7 +272,7 @@
     "hp": "367",
     "cc": "5439",
     "engineCodes": "M 113.987",
-    "KBA_Numbers": "0710957  0999ACV"
+    "KBA_Numbers": "0710957, 0999ACV"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -283,7 +283,7 @@
     "hp": "360",
     "cc": "5439",
     "engineCodes": "M 113.989",
-    "KBA_Numbers": "1313AAJ  0999AXK  0999AXL  1313BCS  1313BCT  0999382  0999AAW  0999294"
+    "KBA_Numbers": "1313AAJ, 0999AXK, 0999AXL, 1313BCS, 1313BCT, 0999382, 0999AAW, 0999294"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -294,7 +294,7 @@
     "hp": "400",
     "cc": "5439",
     "engineCodes": "M 113.989",
-    "KBA_Numbers": "1313BCR  1313BCQ  0999AXA  0999AXB"
+    "KBA_Numbers": "1313BCR, 1313BCQ, 0999AXA, 0999AXB"
   },
   {
     "brand": "MERCEDES-BENZ",

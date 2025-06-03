@@ -74,7 +74,7 @@
     "hp": "98",
     "cc": "1497",
     "engineCodes": "QG15DE",
-    "KBA_Numbers": "9648396  3144028"
+    "KBA_Numbers": "9648396, 3144028"
   },
   {
     "brand": "NISSAN",
@@ -85,7 +85,7 @@
     "hp": "82",
     "cc": "1461",
     "engineCodes": "K9K 722",
-    "KBA_Numbers": "9648394  3144032"
+    "KBA_Numbers": "9648394, 3144032"
   },
   {
     "brand": "NISSAN",
@@ -118,7 +118,7 @@
     "hp": "98",
     "cc": "1497",
     "engineCodes": "QG15DE",
-    "KBA_Numbers": "9648395  3144029"
+    "KBA_Numbers": "9648395, 3144029"
   },
   {
     "brand": "NISSAN",
@@ -129,7 +129,7 @@
     "hp": "82",
     "cc": "1461",
     "engineCodes": "K9K 722",
-    "KBA_Numbers": "9648393  3144033"
+    "KBA_Numbers": "9648393, 3144033"
   },
   {
     "brand": "NISSAN",
@@ -513,7 +513,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "1998",
-    "engineCodes": "SR20DE  SR20DEL",
+    "engineCodes": "SR20DE, SR20DEL",
     "KBA_Numbers": "9648330"
   },
   {
@@ -547,7 +547,7 @@
     "hp": "90",
     "cc": "1597",
     "engineCodes": "GA16DS",
-    "KBA_Numbers": "7105469  9648300"
+    "KBA_Numbers": "7105469, 9648300"
   },
   {
     "brand": "NISSAN",
@@ -580,7 +580,7 @@
     "hp": "75",
     "cc": "1974",
     "engineCodes": "CD20",
-    "KBA_Numbers": "7105471  9648318"
+    "KBA_Numbers": "7105471, 9648318"
   },
   {
     "brand": "NISSAN",
@@ -591,6 +591,6 @@
     "hp": "116",
     "cc": "1998",
     "engineCodes": "SR20DI",
-    "KBA_Numbers": "7105470  9648302"
+    "KBA_Numbers": "7105470, 9648302"
   }
 ]

@@ -40,7 +40,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1598",
-    "engineCodes": "CRKB  DBKA  CXXB",
+    "engineCodes": "CRKB, DBKA, CXXB",
     "KBA_Numbers": "0588AYA"
   },
   {
@@ -62,7 +62,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1968",
-    "engineCodes": "DCYA  CRLB  CRBC",
+    "engineCodes": "DCYA, CRLB, CRBC",
     "KBA_Numbers": "0588AVP"
   },
   {
@@ -84,7 +84,7 @@
     "kw": "92",
     "hp": "125",
     "cc": "1395",
-    "engineCodes": "CXSB  CZCA",
+    "engineCodes": "CXSB, CZCA",
     "KBA_Numbers": "0588AZF"
   },
   {
@@ -117,7 +117,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1598",
-    "engineCodes": "CRKB  CXXB",
+    "engineCodes": "CRKB, CXXB",
     "KBA_Numbers": "0588AZD"
   },
   {
@@ -128,7 +128,7 @@
     "kw": "132",
     "hp": "180",
     "cc": "1798",
-    "engineCodes": "CJSB  CJSA",
+    "engineCodes": "CJSB, CJSA",
     "KBA_Numbers": "0588AYH"
   },
   {
@@ -150,7 +150,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1968",
-    "engineCodes": "DCYA  CRLB",
+    "engineCodes": "DCYA, CRLB",
     "KBA_Numbers": "0588AYI"
   },
   {
@@ -161,7 +161,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1968",
-    "engineCodes": "CRLB  DCYA",
+    "engineCodes": "CRLB, DCYA",
     "KBA_Numbers": "0588AZE"
   },
   {
@@ -216,7 +216,7 @@
     "kw": "92",
     "hp": "125",
     "cc": "1395",
-    "engineCodes": "CXSB  CZCA",
+    "engineCodes": "CXSB, CZCA",
     "KBA_Numbers": "0588AWX"
   },
   {
@@ -238,7 +238,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1598",
-    "engineCodes": "CRKB  DBKA  CXXB",
+    "engineCodes": "CRKB, DBKA, CXXB",
     "KBA_Numbers": "0588AZX"
   },
   {
@@ -260,7 +260,7 @@
     "kw": "132",
     "hp": "180",
     "cc": "1798",
-    "engineCodes": "CJSB  CJSA",
+    "engineCodes": "CJSB, CJSA",
     "KBA_Numbers": "0588AWZ"
   },
   {
@@ -282,7 +282,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1968",
-    "engineCodes": "DEJB  CRFA",
+    "engineCodes": "DEJB, CRFA",
     "KBA_Numbers": ""
   },
   {
@@ -293,7 +293,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1968",
-    "engineCodes": "DCYA  DFGA  DBGA  DEJA  CRLB  CRBC  CRUA",
+    "engineCodes": "DCYA, DFGA, DBGA, DEJA, CRLB, CRBC, CRUA",
     "KBA_Numbers": "0588AXC"
   },
   {
@@ -304,7 +304,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1968",
-    "engineCodes": "DCYA  CRLB  CRBC",
+    "engineCodes": "DCYA, CRLB, CRBC",
     "KBA_Numbers": "0588AXD"
   },
   {
@@ -337,7 +337,7 @@
     "kw": "221",
     "hp": "300",
     "cc": "1984",
-    "engineCodes": "CJXC  DNUE",
+    "engineCodes": "CJXC, DNUE",
     "KBA_Numbers": "0588AYD"
   },
   {
@@ -370,7 +370,7 @@
     "kw": "150",
     "hp": "204",
     "cc": "1395",
-    "engineCodes": "DGEA  CUKB",
+    "engineCodes": "DGEA, CUKB",
     "KBA_Numbers": "0588BAC"
   },
   {
@@ -403,7 +403,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1598",
-    "engineCodes": "CRKB  DBKA  CXXB",
+    "engineCodes": "CRKB, DBKA, CXXB",
     "KBA_Numbers": "0588AYB"
   },
   {
@@ -425,7 +425,7 @@
     "kw": "132",
     "hp": "180",
     "cc": "1798",
-    "engineCodes": "CJSA  CJSB",
+    "engineCodes": "CJSA, CJSB",
     "KBA_Numbers": "0588AWI"
   },
   {
@@ -447,7 +447,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1968",
-    "engineCodes": "DCYA  CRLB  CRBC",
+    "engineCodes": "DCYA, CRLB, CRBC",
     "KBA_Numbers": "0588AWQ"
   },
   {
@@ -458,7 +458,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1498",
-    "engineCodes": "DPCA  DADA",
+    "engineCodes": "DPCA, DADA",
     "KBA_Numbers": "0588BLL"
   },
   {
@@ -469,7 +469,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "999",
-    "engineCodes": "DKRF  CHZD",
+    "engineCodes": "DKRF, CHZD",
     "KBA_Numbers": "7593ALP"
   },
   {
@@ -491,8 +491,8 @@
     "kw": "63",
     "hp": "86",
     "cc": "1197",
-    "engineCodes": "CYVA  CJZB",
-    "KBA_Numbers": "7593AHJ  7593AIJ"
+    "engineCodes": "CYVA, CJZB",
+    "KBA_Numbers": "7593AHJ, 7593AIJ"
   },
   {
     "brand": "SEAT",
@@ -503,7 +503,7 @@
     "hp": "105",
     "cc": "1197",
     "engineCodes": "CJZA",
-    "KBA_Numbers": "7593AHK  7593AIK"
+    "KBA_Numbers": "7593AHK, 7593AIK"
   },
   {
     "brand": "SEAT",
@@ -535,8 +535,8 @@
     "kw": "103",
     "hp": "140",
     "cc": "1395",
-    "engineCodes": "CPTA  CHPA",
-    "KBA_Numbers": "7593AHI  7593AIM"
+    "engineCodes": "CPTA, CHPA",
+    "KBA_Numbers": "7593AHI, 7593AIM"
   },
   {
     "brand": "SEAT",
@@ -546,8 +546,8 @@
     "kw": "90",
     "hp": "122",
     "cc": "1395",
-    "engineCodes": "CXSA  CMBA",
-    "KBA_Numbers": "7593AHH  7593AIL"
+    "engineCodes": "CXSA, CMBA",
+    "KBA_Numbers": "7593AHH, 7593AIL"
   },
   {
     "brand": "SEAT",
@@ -568,7 +568,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1395",
-    "engineCodes": "CZEA  CZDA",
+    "engineCodes": "CZEA, CZDA",
     "KBA_Numbers": "7593AKB"
   },
   {
@@ -590,7 +590,7 @@
     "kw": "96",
     "hp": "130",
     "cc": "1495",
-    "engineCodes": "DACA  DPBA",
+    "engineCodes": "DACA, DPBA",
     "KBA_Numbers": "7593AOI"
   },
   {
@@ -601,7 +601,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1498",
-    "engineCodes": "DADA  DPCA",
+    "engineCodes": "DADA, DPCA",
     "KBA_Numbers": "7593AOK"
   },
   {
@@ -613,7 +613,7 @@
     "hp": "105",
     "cc": "1598",
     "engineCodes": "CLHA",
-    "KBA_Numbers": "7593AHG  7593AIP"
+    "KBA_Numbers": "7593AHG, 7593AIP"
   },
   {
     "brand": "SEAT",
@@ -623,8 +623,8 @@
     "kw": "66",
     "hp": "90",
     "cc": "1598",
-    "engineCodes": "CLHB  DDYB  CXXA",
-    "KBA_Numbers": "7593AHF  7593AIO"
+    "engineCodes": "CLHB, DDYB, CXXA",
+    "KBA_Numbers": "7593AHF, 7593AIO"
   },
   {
     "brand": "SEAT",
@@ -634,7 +634,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1598",
-    "engineCodes": "DBKA  CXXB  CRKB",
+    "engineCodes": "DBKA, CXXB, CRKB",
     "KBA_Numbers": "7593AIQ"
   },
   {
@@ -645,7 +645,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "1598",
-    "engineCodes": "DGTE  DDYA",
+    "engineCodes": "DGTE, DDYA",
     "KBA_Numbers": "7593AMZ"
   },
   {
@@ -656,8 +656,8 @@
     "kw": "110",
     "hp": "150",
     "cc": "1968",
-    "engineCodes": "DFFA  CRMB  CKFC",
-    "KBA_Numbers": "7593AHM  7593AIR"
+    "engineCodes": "DFFA, CRMB, CKFC",
+    "KBA_Numbers": "7593AHM, 7593AIR"
   },
   {
     "brand": "SEAT",
@@ -667,7 +667,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1968",
-    "engineCodes": "CRVA  CRLD",
+    "engineCodes": "CRVA, CRLD",
     "KBA_Numbers": ""
   },
   {
@@ -700,8 +700,8 @@
     "kw": "63",
     "hp": "86",
     "cc": "1197",
-    "engineCodes": "CYVA  CJZB",
-    "KBA_Numbers": "7593AHJ  7593AIT"
+    "engineCodes": "CYVA, CJZB",
+    "KBA_Numbers": "7593AHJ, 7593AIT"
   },
   {
     "brand": "SEAT",
@@ -712,7 +712,7 @@
     "hp": "105",
     "cc": "1197",
     "engineCodes": "CJZA",
-    "KBA_Numbers": "7593AHK  7593AIU"
+    "KBA_Numbers": "7593AHK, 7593AIU"
   },
   {
     "brand": "SEAT",
@@ -733,8 +733,8 @@
     "kw": "90",
     "hp": "122",
     "cc": "1395",
-    "engineCodes": "CXSA  CMBA",
-    "KBA_Numbers": "7593AHH  7593AIV"
+    "engineCodes": "CXSA, CMBA",
+    "KBA_Numbers": "7593AHH, 7593AIV"
   },
   {
     "brand": "SEAT",
@@ -744,8 +744,8 @@
     "kw": "103",
     "hp": "140",
     "cc": "1395",
-    "engineCodes": "CPTA  CHPA",
-    "KBA_Numbers": "7593AHI  7593AIW"
+    "engineCodes": "CPTA, CHPA",
+    "KBA_Numbers": "7593AHI, 7593AIW"
   },
   {
     "brand": "SEAT",
@@ -777,8 +777,8 @@
     "kw": "66",
     "hp": "90",
     "cc": "1598",
-    "engineCodes": "CXXA  DDYB  CLHB",
-    "KBA_Numbers": "7593AHF  7593AIY"
+    "engineCodes": "CXXA, DDYB, CLHB",
+    "KBA_Numbers": "7593AHF, 7593AIY"
   },
   {
     "brand": "SEAT",
@@ -789,7 +789,7 @@
     "hp": "105",
     "cc": "1598",
     "engineCodes": "CLHA",
-    "KBA_Numbers": "7593AHG  7593AIZ"
+    "KBA_Numbers": "7593AHG, 7593AIZ"
   },
   {
     "brand": "SEAT",
@@ -799,7 +799,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1598",
-    "engineCodes": "CXXB  CRKB  DBKA",
+    "engineCodes": "CXXB, CRKB, DBKA",
     "KBA_Numbers": "7593AJA"
   },
   {
@@ -832,8 +832,8 @@
     "kw": "110",
     "hp": "150",
     "cc": "1968",
-    "engineCodes": "CRMB  CKFC",
-    "KBA_Numbers": "7593AJB  7593AHM"
+    "engineCodes": "CRMB, CKFC",
+    "KBA_Numbers": "7593AJB, 7593AHM"
   },
   {
     "brand": "SEAT",
@@ -854,8 +854,8 @@
     "kw": "85",
     "hp": "115",
     "cc": "999",
-    "engineCodes": "DKRF  CHZD",
-    "KBA_Numbers": "7593APF  7593APN  7593ALR"
+    "engineCodes": "DKRF, CHZD",
+    "KBA_Numbers": "7593APF, 7593APN, 7593ALR"
   },
   {
     "brand": "SEAT",
@@ -887,7 +887,7 @@
     "kw": "63",
     "hp": "86",
     "cc": "1197",
-    "engineCodes": "CYVA  CJZB",
+    "engineCodes": "CYVA, CJZB",
     "KBA_Numbers": "7593AJD"
   },
   {
@@ -920,7 +920,7 @@
     "kw": "90",
     "hp": "122",
     "cc": "1395",
-    "engineCodes": "CMBA  CXSA",
+    "engineCodes": "CMBA, CXSA",
     "KBA_Numbers": "7593AJF"
   },
   {
@@ -931,7 +931,7 @@
     "kw": "103",
     "hp": "140",
     "cc": "1395",
-    "engineCodes": "CPTA  CHPA",
+    "engineCodes": "CPTA, CHPA",
     "KBA_Numbers": "7593AJG"
   },
   {
@@ -943,7 +943,7 @@
     "hp": "125",
     "cc": "1395",
     "engineCodes": "CZCA",
-    "KBA_Numbers": "7593ALS  7593AKD"
+    "KBA_Numbers": "7593ALS, 7593AKD"
   },
   {
     "brand": "SEAT",
@@ -965,7 +965,7 @@
     "hp": "131",
     "cc": "1498",
     "engineCodes": "DHFA",
-    "KBA_Numbers": "7593APE  7593APM  7593AOZ"
+    "KBA_Numbers": "7593APE, 7593APM, 7593AOZ"
   },
   {
     "brand": "SEAT",
@@ -975,8 +975,8 @@
     "kw": "96",
     "hp": "130",
     "cc": "1495",
-    "engineCodes": "DACA  DPBA",
-    "KBA_Numbers": "7593API  7593APQ  7593AOJ"
+    "engineCodes": "DACA, DPBA",
+    "KBA_Numbers": "7593API, 7593APQ, 7593AOJ"
   },
   {
     "brand": "SEAT",
@@ -986,8 +986,8 @@
     "kw": "110",
     "hp": "150",
     "cc": "1498",
-    "engineCodes": "DPCA  DADA",
-    "KBA_Numbers": "7593APJ  7593APR  7593AOL"
+    "engineCodes": "DPCA, DADA",
+    "KBA_Numbers": "7593APJ, 7593APR, 7593AOL"
   },
   {
     "brand": "SEAT",
@@ -997,8 +997,8 @@
     "kw": "81",
     "hp": "110",
     "cc": "1598",
-    "engineCodes": "CXXB  DBKA  CRKB",
-    "KBA_Numbers": "7593ALT  7593AJK"
+    "engineCodes": "CXXB, DBKA, CRKB",
+    "KBA_Numbers": "7593ALT, 7593AJK"
   },
   {
     "brand": "SEAT",
@@ -1019,7 +1019,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1598",
-    "engineCodes": "CXXA  DDYB  CLHB",
+    "engineCodes": "CXXA, DDYB, CLHB",
     "KBA_Numbers": "7593AJI"
   },
   {
@@ -1030,8 +1030,8 @@
     "kw": "85",
     "hp": "115",
     "cc": "1598",
-    "engineCodes": "DGTE  DDYA",
-    "KBA_Numbers": "7593APD  7593APL  7593ANB  7593ANC"
+    "engineCodes": "DGTE, DDYA",
+    "KBA_Numbers": "7593APD, 7593APL, 7593ANB, 7593ANC"
   },
   {
     "brand": "SEAT",
@@ -1053,7 +1053,7 @@
     "hp": "110",
     "cc": "1598",
     "engineCodes": "CXXB",
-    "KBA_Numbers": "7593AKG  7593AKM"
+    "KBA_Numbers": "7593AKG, 7593AKM"
   },
   {
     "brand": "SEAT",
@@ -1064,7 +1064,7 @@
     "hp": "115",
     "cc": "1598",
     "engineCodes": "DGTE",
-    "KBA_Numbers": "7593AOU  7593AOV"
+    "KBA_Numbers": "7593AOU, 7593AOV"
   },
   {
     "brand": "SEAT",
@@ -1074,7 +1074,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1968",
-    "engineCodes": "CRVA  CRLD",
+    "engineCodes": "CRVA, CRLD",
     "KBA_Numbers": "7593ALO"
   },
   {
@@ -1096,8 +1096,8 @@
     "kw": "110",
     "hp": "150",
     "cc": "1968",
-    "engineCodes": "DFGA  CRMB  DFFA  CKFC  CRBC  CRLB",
-    "KBA_Numbers": "7593APC  7593APK  7593AJL"
+    "engineCodes": "DFGA, CRMB, DFFA, CKFC, CRBC, CRLB",
+    "KBA_Numbers": "7593APC, 7593APK, 7593AJL"
   },
   {
     "brand": "SEAT",
@@ -1107,8 +1107,8 @@
     "kw": "110",
     "hp": "150",
     "cc": "1968",
-    "engineCodes": "DCYA  DFGA  CRMB  CRBC  CRLB",
-    "KBA_Numbers": "7593AKF  7593AKH"
+    "engineCodes": "DCYA, DFGA, CRMB, CRBC, CRLB",
+    "KBA_Numbers": "7593AKF, 7593AKH"
   },
   {
     "brand": "SEAT",
@@ -1118,7 +1118,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1968",
-    "engineCodes": "CRBC  CRLB",
+    "engineCodes": "CRBC, CRLB",
     "KBA_Numbers": ""
   },
   {
@@ -1129,7 +1129,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "999",
-    "engineCodes": "DKRA  CHZD  DKRF",
+    "engineCodes": "DKRA, CHZD, DKRF",
     "KBA_Numbers": "8004ARL"
   },
   {
@@ -1140,7 +1140,7 @@
     "kw": "63",
     "hp": "86",
     "cc": "1197",
-    "engineCodes": "CJZB  CYVA",
+    "engineCodes": "CJZB, CYVA",
     "KBA_Numbers": "8004ANC"
   },
   {
@@ -1184,7 +1184,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1395",
-    "engineCodes": "CZDA  CHPB",
+    "engineCodes": "CZDA, CHPB",
     "KBA_Numbers": "8004AQL"
   },
   {
@@ -1217,7 +1217,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1598",
-    "engineCodes": "CLHB  CXXA  DDYB",
+    "engineCodes": "CLHB, CXXA, DDYB",
     "KBA_Numbers": "8004ANO"
   },
   {
@@ -1239,7 +1239,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1598",
-    "engineCodes": "DBKA  CXXB  CRKB",
+    "engineCodes": "DBKA, CXXB, CRKB",
     "KBA_Numbers": "8004AOI"
   },
   {
@@ -1250,7 +1250,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "1598",
-    "engineCodes": "DGTE  DDYA",
+    "engineCodes": "DGTE, DDYA",
     "KBA_Numbers": "8004ASE"
   },
   {
@@ -1272,7 +1272,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1598",
-    "engineCodes": "CXXB  CRKB",
+    "engineCodes": "CXXB, CRKB",
     "KBA_Numbers": "8004AQX"
   },
   {
@@ -1294,7 +1294,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "999",
-    "engineCodes": "DKRA  CHZD  DKRF",
+    "engineCodes": "DKRA, CHZD, DKRF",
     "KBA_Numbers": "8004ARM"
   },
   {
@@ -1305,7 +1305,7 @@
     "kw": "63",
     "hp": "86",
     "cc": "1197",
-    "engineCodes": "CJZB  CYVA",
+    "engineCodes": "CJZB, CYVA",
     "KBA_Numbers": "8004ANH"
   },
   {
@@ -1349,7 +1349,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1395",
-    "engineCodes": "CHPB  CZDA",
+    "engineCodes": "CHPB, CZDA",
     "KBA_Numbers": "8004AQM"
   },
   {
@@ -1393,7 +1393,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1598",
-    "engineCodes": "CXXA  DDYB  CLHB",
+    "engineCodes": "CXXA, DDYB, CLHB",
     "KBA_Numbers": "8004ANS"
   },
   {
@@ -1415,7 +1415,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1598",
-    "engineCodes": "DBKA  CXXB  CRKB",
+    "engineCodes": "DBKA, CXXB, CRKB",
     "KBA_Numbers": "8004AOJ"
   },
   {
@@ -1426,7 +1426,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "1598",
-    "engineCodes": "DGTE  DDYA  DGTA",
+    "engineCodes": "DGTE, DDYA, DGTA",
     "KBA_Numbers": "8004ASF"
   },
   {
@@ -1448,7 +1448,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1598",
-    "engineCodes": "CXXB  CRKB  DBKA",
+    "engineCodes": "CXXB, CRKB, DBKA",
     "KBA_Numbers": "8004AQY"
   },
   {
@@ -1470,7 +1470,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1598",
-    "engineCodes": "CXXB  CRKB",
+    "engineCodes": "CXXB, CRKB",
     "KBA_Numbers": "0603BPM"
   },
   {
@@ -1492,8 +1492,8 @@
     "kw": "110",
     "hp": "150",
     "cc": "1968",
-    "engineCodes": "DCYA  CRLB  CRBC  DFGA",
-    "KBA_Numbers": "0603BLP  0603BOF"
+    "engineCodes": "DCYA, CRLB, CRBC, DFGA",
+    "KBA_Numbers": "0603BLP, 0603BOF"
   },
   {
     "brand": "VW",
@@ -1503,7 +1503,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "999",
-    "engineCodes": "DKRF  CHZD",
+    "engineCodes": "DKRF, CHZD",
     "KBA_Numbers": "0603BVX"
   },
   {
@@ -1514,7 +1514,7 @@
     "kw": "63",
     "hp": "86",
     "cc": "999",
-    "engineCodes": "DKLB  CHZK",
+    "engineCodes": "DKLB, CHZK",
     "KBA_Numbers": "0603CEE"
   },
   {
@@ -1591,7 +1591,7 @@
     "kw": "96",
     "hp": "130",
     "cc": "1495",
-    "engineCodes": "DACA  DPBA",
+    "engineCodes": "DACA, DPBA",
     "KBA_Numbers": "0603CDY"
   },
   {
@@ -1602,7 +1602,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1498",
-    "engineCodes": "DPCA  DADA",
+    "engineCodes": "DPCA, DADA",
     "KBA_Numbers": "0603CDZ"
   },
   {
@@ -1624,7 +1624,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1598",
-    "engineCodes": "DDYB  CXXA  CRKA",
+    "engineCodes": "DDYB, CXXA, CRKA",
     "KBA_Numbers": "0603BMY"
   },
   {
@@ -1635,7 +1635,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1598",
-    "engineCodes": "DBKA  CXXB  CRKB",
+    "engineCodes": "DBKA, CXXB, CRKB",
     "KBA_Numbers": "0603BMZ"
   },
   {
@@ -1646,8 +1646,8 @@
     "kw": "85",
     "hp": "115",
     "cc": "1598",
-    "engineCodes": "DGTE  DDYA",
-    "KBA_Numbers": "0603CDA  0603CBK"
+    "engineCodes": "DGTE, DDYA",
+    "KBA_Numbers": "0603CDA, 0603CBK"
   },
   {
     "brand": "VW",
@@ -1657,7 +1657,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1968",
-    "engineCodes": "DFGA  DCYA  CRLB",
+    "engineCodes": "DFGA, DCYA, CRLB",
     "KBA_Numbers": "0603BNA"
   },
   {
@@ -1668,7 +1668,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1968",
-    "engineCodes": "DCYB  CRVA  CRLD",
+    "engineCodes": "DCYB, CRVA, CRLD",
     "KBA_Numbers": "0603CAT"
   },
   {
@@ -1679,7 +1679,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1598",
-    "engineCodes": "CXXA  CLHB  CRKA  DDYB",
+    "engineCodes": "CXXA, CLHB, CRKA, DDYB",
     "KBA_Numbers": "0603BRP"
   },
   {
@@ -1701,7 +1701,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1598",
-    "engineCodes": "CRKB  CXXB",
+    "engineCodes": "CRKB, CXXB",
     "KBA_Numbers": "0603BRS"
   },
   {
@@ -1734,7 +1734,7 @@
     "kw": "118",
     "hp": "160",
     "cc": "1390",
-    "engineCodes": "CNWA  CTHD  CAVD",
+    "engineCodes": "CNWA, CTHD, CAVD",
     "KBA_Numbers": "0603ANY"
   },
   {
@@ -1745,7 +1745,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "999",
-    "engineCodes": "CHZD  DKRF",
+    "engineCodes": "CHZD, DKRF",
     "KBA_Numbers": "0603BVV"
   },
   {
@@ -1767,7 +1767,7 @@
     "kw": "63",
     "hp": "86",
     "cc": "999",
-    "engineCodes": "DKLB  CHZK",
+    "engineCodes": "DKLB, CHZK",
     "KBA_Numbers": "0603CCR"
   },
   {
@@ -1778,7 +1778,7 @@
     "kw": "63",
     "hp": "86",
     "cc": "1197",
-    "engineCodes": "CJZB  CYVA",
+    "engineCodes": "CJZB, CYVA",
     "KBA_Numbers": "0603BJD"
   },
   {
@@ -1811,7 +1811,7 @@
     "kw": "150",
     "hp": "204",
     "cc": "1395",
-    "engineCodes": "CUKB  DGEA",
+    "engineCodes": "CUKB, DGEA",
     "KBA_Numbers": "0603BPH"
   },
   {
@@ -1822,7 +1822,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1395",
-    "engineCodes": "CPWA  CZBA",
+    "engineCodes": "CPWA, CZBA",
     "KBA_Numbers": "0603BLJ"
   },
   {
@@ -1833,7 +1833,7 @@
     "kw": "103",
     "hp": "140",
     "cc": "1395",
-    "engineCodes": "CHPA  CPTA",
+    "engineCodes": "CHPA, CPTA",
     "KBA_Numbers": "0603BJG"
   },
   {
@@ -1844,8 +1844,8 @@
     "kw": "90",
     "hp": "122",
     "cc": "1395",
-    "engineCodes": "CXSA  CMBA",
-    "KBA_Numbers": "0603BQE  0603BJF"
+    "engineCodes": "CXSA, CMBA",
+    "KBA_Numbers": "0603BQE, 0603BJF"
   },
   {
     "brand": "VW",
@@ -1856,7 +1856,7 @@
     "hp": "125",
     "cc": "1395",
     "engineCodes": "CZCA",
-    "KBA_Numbers": "0603BPF  0603BQF"
+    "KBA_Numbers": "0603BPF, 0603BQF"
   },
   {
     "brand": "VW",
@@ -1866,7 +1866,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1395",
-    "engineCodes": "CZDA  CZEA",
+    "engineCodes": "CZDA, CZEA",
     "KBA_Numbers": "0603BPG"
   },
   {
@@ -1899,7 +1899,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1498",
-    "engineCodes": "DADA  DPCA",
+    "engineCodes": "DADA, DPCA",
     "KBA_Numbers": "0603CDO"
   },
   {
@@ -1910,7 +1910,7 @@
     "kw": "96",
     "hp": "130",
     "cc": "1495",
-    "engineCodes": "DACA  DPBA",
+    "engineCodes": "DACA, DPBA",
     "KBA_Numbers": "0603CBR"
   },
   {
@@ -1943,7 +1943,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1598",
-    "engineCodes": "DBKA  CXXB  CRKB",
+    "engineCodes": "DBKA, CXXB, CRKB",
     "KBA_Numbers": "0603BKN"
   },
   {
@@ -1954,7 +1954,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1598",
-    "engineCodes": "DDYB  CLHB  CRKA  CXXA",
+    "engineCodes": "DDYB, CLHB, CRKA, CXXA",
     "KBA_Numbers": "0603BLK"
   },
   {
@@ -1965,8 +1965,8 @@
     "kw": "85",
     "hp": "115",
     "cc": "1598",
-    "engineCodes": "DGTE  DDYA",
-    "KBA_Numbers": "0603CCW  0603CBO"
+    "engineCodes": "DGTE, DDYA",
+    "KBA_Numbers": "0603CCW, 0603CBO"
   },
   {
     "brand": "VW",
@@ -1987,7 +1987,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1598",
-    "engineCodes": "CRKB  CXXB",
+    "engineCodes": "CRKB, CXXB",
     "KBA_Numbers": "0603BPI"
   },
   {
@@ -2009,7 +2009,7 @@
     "kw": "213",
     "hp": "290",
     "cc": "1984",
-    "engineCodes": "DNUC  DJHB  CJXD",
+    "engineCodes": "DNUC, DJHB, CJXD",
     "KBA_Numbers": "0603CCZ"
   },
   {
@@ -2020,7 +2020,7 @@
     "kw": "105",
     "hp": "143",
     "cc": "1968",
-    "engineCodes": "CRVC  CRBB",
+    "engineCodes": "CRVC, CRBB",
     "KBA_Numbers": ""
   },
   {
@@ -2031,7 +2031,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1968",
-    "engineCodes": "DFGA  DEJA  DCYA  CRUA  CRLB  CRBC  CRMB",
+    "engineCodes": "DFGA, DEJA, DCYA, CRUA, CRLB, CRBC, CRMB",
     "KBA_Numbers": "0603BJJ"
   },
   {
@@ -2042,7 +2042,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1968",
-    "engineCodes": "CRVA  DCYB  DEJB  DFGB  CYKB",
+    "engineCodes": "CRVA, DCYB, DEJB, DFGB, CYKB",
     "KBA_Numbers": ""
   },
   {
@@ -2053,7 +2053,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1968",
-    "engineCodes": "CRLB  CKFC  CRMB  CRBC  DCYA  DFGA",
+    "engineCodes": "CRLB, CKFC, CRMB, CRBC, DCYA, DFGA",
     "KBA_Numbers": "0603BJK"
   },
   {
@@ -2086,7 +2086,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1598",
-    "engineCodes": "CRKA  CXXA  CLHB  DDYB",
+    "engineCodes": "CRKA, CXXA, CLHB, DDYB",
     "KBA_Numbers": "0603BQB"
   },
   {
@@ -2097,7 +2097,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1598",
-    "engineCodes": "CRKB  CXXB",
+    "engineCodes": "CRKB, CXXB",
     "KBA_Numbers": "0603BQD"
   },
   {
@@ -2108,7 +2108,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "999",
-    "engineCodes": "DKRF  CHZD",
+    "engineCodes": "DKRF, CHZD",
     "KBA_Numbers": "0603BVW"
   },
   {
@@ -2130,7 +2130,7 @@
     "kw": "63",
     "hp": "86",
     "cc": "999",
-    "engineCodes": "CHZK  DKLB",
+    "engineCodes": "CHZK, DKLB",
     "KBA_Numbers": "0603CCT"
   },
   {
@@ -2142,7 +2142,7 @@
     "hp": "105",
     "cc": "1197",
     "engineCodes": "CJZA",
-    "KBA_Numbers": "0603BLD  0603BNY"
+    "KBA_Numbers": "0603BLD, 0603BNY"
   },
   {
     "brand": "VW",
@@ -2152,8 +2152,8 @@
     "kw": "63",
     "hp": "86",
     "cc": "1197",
-    "engineCodes": "CJZB  CYVA",
-    "KBA_Numbers": "0603BLC  0603BNX"
+    "engineCodes": "CJZB, CYVA",
+    "KBA_Numbers": "0603BLC, 0603BNX"
   },
   {
     "brand": "VW",
@@ -2175,7 +2175,7 @@
     "hp": "110",
     "cc": "1395",
     "engineCodes": "CPWA",
-    "KBA_Numbers": "0603BMC  0603BOI"
+    "KBA_Numbers": "0603BMC, 0603BOI"
   },
   {
     "brand": "VW",
@@ -2186,7 +2186,7 @@
     "hp": "122",
     "cc": "1395",
     "engineCodes": "CXSA",
-    "KBA_Numbers": "0603BLE  0603BRR  0603BNZ"
+    "KBA_Numbers": "0603BLE, 0603BRR, 0603BNZ"
   },
   {
     "brand": "VW",
@@ -2197,7 +2197,7 @@
     "hp": "140",
     "cc": "1395",
     "engineCodes": "CHPA",
-    "KBA_Numbers": "0603BLF  0603BOA"
+    "KBA_Numbers": "0603BLF, 0603BOA"
   },
   {
     "brand": "VW",
@@ -2207,8 +2207,8 @@
     "kw": "92",
     "hp": "125",
     "cc": "1395",
-    "engineCodes": "CZDD  CZCA",
-    "KBA_Numbers": "0603BRT  0603BPK"
+    "engineCodes": "CZDD, CZCA",
+    "KBA_Numbers": "0603BRT, 0603BPK"
   },
   {
     "brand": "VW",
@@ -2218,7 +2218,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1395",
-    "engineCodes": "CHPB  CZDA",
+    "engineCodes": "CHPB, CZDA",
     "KBA_Numbers": "0603BPL"
   },
   {
@@ -2230,7 +2230,7 @@
     "hp": "122",
     "cc": "1395",
     "engineCodes": "CPVA",
-    "KBA_Numbers": "0603BLX  0603BOH"
+    "KBA_Numbers": "0603BLX, 0603BOH"
   },
   {
     "brand": "VW",
@@ -2251,7 +2251,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1498",
-    "engineCodes": "DPCA  DADA",
+    "engineCodes": "DPCA, DADA",
     "KBA_Numbers": "0603CDP"
   },
   {
@@ -2262,7 +2262,7 @@
     "kw": "96",
     "hp": "130",
     "cc": "1495",
-    "engineCodes": "DPBA  DACA",
+    "engineCodes": "DPBA, DACA",
     "KBA_Numbers": "0603CBT"
   },
   {
@@ -2284,8 +2284,8 @@
     "kw": "66",
     "hp": "90",
     "cc": "1598",
-    "engineCodes": "DDYB  CXXA  CRKA  CLHB",
-    "KBA_Numbers": "0603BLW  0603BOG"
+    "engineCodes": "DDYB, CXXA, CRKA, CLHB",
+    "KBA_Numbers": "0603BLW, 0603BOG"
   },
   {
     "brand": "VW",
@@ -2296,7 +2296,7 @@
     "hp": "105",
     "cc": "1598",
     "engineCodes": "CLHA",
-    "KBA_Numbers": "0603BLG  0603BOB"
+    "KBA_Numbers": "0603BLG, 0603BOB"
   },
   {
     "brand": "VW",
@@ -2306,8 +2306,8 @@
     "kw": "81",
     "hp": "110",
     "cc": "1598",
-    "engineCodes": "DBKA  CXXB  CRKB",
-    "KBA_Numbers": "0603BLH  0603BOC"
+    "engineCodes": "DBKA, CXXB, CRKB",
+    "KBA_Numbers": "0603BLH, 0603BOC"
   },
   {
     "brand": "VW",
@@ -2317,8 +2317,8 @@
     "kw": "85",
     "hp": "115",
     "cc": "1598",
-    "engineCodes": "DGTE  DDYA",
-    "KBA_Numbers": "0603CDA  0603CBJ"
+    "engineCodes": "DGTE, DDYA",
+    "KBA_Numbers": "0603CDA, 0603CBJ"
   },
   {
     "brand": "VW",
@@ -2329,7 +2329,7 @@
     "hp": "105",
     "cc": "1598",
     "engineCodes": "CLHA",
-    "KBA_Numbers": "0603BLO  0603BOE"
+    "KBA_Numbers": "0603BLO, 0603BOE"
   },
   {
     "brand": "VW",
@@ -2339,7 +2339,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1598",
-    "engineCodes": "CXXB  CRKB",
+    "engineCodes": "CXXB, CRKB",
     "KBA_Numbers": "0603BPM"
   },
   {
@@ -2361,8 +2361,8 @@
     "kw": "110",
     "hp": "150",
     "cc": "1968",
-    "engineCodes": "CRLB  CRBC  DEJA  DFGA  DCYA  CRUA",
-    "KBA_Numbers": "0603BLI  0603BOD"
+    "engineCodes": "CRLB, CRBC, DEJA, DFGA, DCYA, CRUA",
+    "KBA_Numbers": "0603BLI, 0603BOD"
   },
   {
     "brand": "VW",
@@ -2372,7 +2372,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1968",
-    "engineCodes": "DEJB  DCYB  CRVA  CRLD  DFGB  CYKB",
+    "engineCodes": "DEJB, DCYB, CRVA, CRLD, DFGB, CYKB",
     "KBA_Numbers": "0603BYV"
   },
   {
@@ -2383,7 +2383,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1968",
-    "engineCodes": "DCYA  CRLB  CRBC  DFGA",
-    "KBA_Numbers": "0603BLP  0603BOF"
+    "engineCodes": "DCYA, CRLB, CRBC, DFGA",
+    "KBA_Numbers": "0603BLP, 0603BOF"
   }
 ]

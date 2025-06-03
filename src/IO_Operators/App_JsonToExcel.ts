@@ -7,7 +7,7 @@ import { extractYears } from "../utils/extractHelpers";
 import markaMap from "../data/katalogInfo/jsons/marka_tur.json";
 import { formatDateTime } from "../utils/DateHelper";
 import { ModelData, ModelMatch, UnmatchedModel, LookupExcelRow } from "../types/AppToJson_Types";
-import { getTargetBrandName, normalizeModel, normalizeString } from "../utils/NormalizersForJsonToExcels";
+import { getTargetBrandName, normalizeModel, normalizeString, findYvNoOptimized } from "../utils/NormalizersForJsonToExcels";
 import { Locale } from "locale-enum";
 // lookupReference fonksiyonunu kaldırın, lookupReferenceFromExcel kullanacağız
 import { lookupReferenceFromExcel } from "../utils/FileHelpers";
@@ -52,22 +52,6 @@ async function saveJsonData(filePath: string, data: any) {
         console.error(`❌ JSON dosyasını kaydederken hata oluştu: ${filePath}`, error);
         throw error;
     }
-}
-
-// ** findYvNoOptimized fonksiyonu güncellendi **
-function findYvNoOptimized(crossNumber: string | undefined): string[] {
-    if (!crossNumber || crossNumber.trim() === "") {
-        console.warn(`⚠️ findYvNoOptimized'a geçersiz (boş veya undefined) crossNumber geldi.`);
-        return [];
-    }
-    const trimmedCrossNumber = crossNumber.trim(); // Hem trimle hem de normalize et
-    
-    const yvNo = lookupDataMap.get(trimmedCrossNumber);
-    if (!yvNo) {
-        console.warn(`⚠️ lookupDataMap'te '${trimmedCrossNumber}' için YV No bulunamadı.`);
-    }
-    
-    return yvNo ? [yvNo] : [];
 }
 
 // --- Ana İş Akışı ---
@@ -120,7 +104,7 @@ async function processApplicationFiles() {
 
         // partNumber artık crossNumber'ı temsil ediyor ve normalize edilmeli
         const crossNumber = crossNumberRaw.trim();
-        const yvNos = findYvNoOptimized(crossNumber);
+        const yvNos = findYvNoOptimized(crossNumber, lookupDataMap);
 
         const yvNosToProcess = yvNos.length > 0 ? yvNos : ["YV_BULUNAMADI"];
 

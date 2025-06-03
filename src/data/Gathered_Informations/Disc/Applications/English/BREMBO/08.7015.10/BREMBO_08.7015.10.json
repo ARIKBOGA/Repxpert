@@ -7,7 +7,7 @@
     "kw": "74",
     "hp": "100",
     "cc": "1598",
-    "engineCodes": "X 16 XEL  Y 16 XE  Z 16 XE",
+    "engineCodes": "X 16 XEL, Y 16 XE, Z 16 XE",
     "KBA_Numbers": "0039943"
   },
   {
@@ -18,7 +18,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "1796",
-    "engineCodes": "Z 18 XEL  X 18 XE1",
+    "engineCodes": "Z 18 XEL, X 18 XE1",
     "KBA_Numbers": "0039945"
   },
   {
@@ -51,7 +51,7 @@
     "kw": "74",
     "hp": "101",
     "cc": "1995",
-    "engineCodes": "X 20 DTH  Y 20 DTH",
+    "engineCodes": "X 20 DTH, Y 20 DTH",
     "KBA_Numbers": "0039172"
   },
   {
@@ -73,7 +73,7 @@
     "kw": "100",
     "hp": "136",
     "cc": "1998",
-    "engineCodes": "X 20 XEV  C 20 SEL",
+    "engineCodes": "X 20 XEV, C 20 SEL",
     "KBA_Numbers": "0039946"
   },
   {
@@ -150,7 +150,7 @@
     "kw": "74",
     "hp": "100",
     "cc": "1598",
-    "engineCodes": "Z 16 XE  Y 16 XE  X 16 XEL",
+    "engineCodes": "Z 16 XE, Y 16 XE, X 16 XEL",
     "KBA_Numbers": "0039961"
   },
   {
@@ -161,7 +161,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "1796",
-    "engineCodes": "Z 18 XEL  X 18 XE1",
+    "engineCodes": "Z 18 XEL, X 18 XE1",
     "KBA_Numbers": "0039962"
   },
   {
@@ -205,7 +205,7 @@
     "kw": "74",
     "hp": "101",
     "cc": "1995",
-    "engineCodes": "X 20 DTH  Y 20 DTH",
+    "engineCodes": "X 20 DTH, Y 20 DTH",
     "KBA_Numbers": "0039171"
   },
   {
@@ -227,7 +227,7 @@
     "kw": "100",
     "hp": "136",
     "cc": "1998",
-    "engineCodes": "X 20 XEV  C 20 SEL",
+    "engineCodes": "X 20 XEV, C 20 SEL",
     "KBA_Numbers": "0039963"
   },
   {
@@ -326,7 +326,7 @@
     "kw": "74",
     "hp": "101",
     "cc": "1598",
-    "engineCodes": "Z 16 XE  Y 16 XE  X 16 XEL",
+    "engineCodes": "Z 16 XE, Y 16 XE, X 16 XEL",
     "KBA_Numbers": "0039949"
   },
   {
@@ -337,7 +337,7 @@
     "kw": "85",
     "hp": "116",
     "cc": "1796",
-    "engineCodes": "Z 18 XEL  X 18 XE1",
+    "engineCodes": "Z 18 XEL, X 18 XE1",
     "KBA_Numbers": "0039951"
   },
   {
@@ -370,7 +370,7 @@
     "kw": "74",
     "hp": "101",
     "cc": "1995",
-    "engineCodes": "X 20 DTH  Y 20 DTH",
+    "engineCodes": "X 20 DTH, Y 20 DTH",
     "KBA_Numbers": "0039173"
   },
   {
@@ -392,7 +392,7 @@
     "kw": "100",
     "hp": "136",
     "cc": "1998",
-    "engineCodes": "X 20 XEV  C 20 SEL",
+    "engineCodes": "X 20 XEV, C 20 SEL",
     "KBA_Numbers": "0039952"
   },
   {
@@ -524,7 +524,7 @@
     "kw": "74",
     "hp": "101",
     "cc": "1995",
-    "engineCodes": "X 20 DTH  Y 20 DTH",
+    "engineCodes": "X 20 DTH, Y 20 DTH",
     "KBA_Numbers": ""
   },
   {
@@ -612,7 +612,7 @@
     "kw": "74",
     "hp": "101",
     "cc": "1598",
-    "engineCodes": "Z 16 XE  Y 16 XE  X 16 XEL",
+    "engineCodes": "Z 16 XE, Y 16 XE, X 16 XEL",
     "KBA_Numbers": ""
   },
   {
@@ -689,7 +689,7 @@
     "kw": "74",
     "hp": "101",
     "cc": "1995",
-    "engineCodes": "X 20 DTH  Y 20 DTH",
+    "engineCodes": "X 20 DTH, Y 20 DTH",
     "KBA_Numbers": ""
   },
   {
@@ -777,7 +777,7 @@
     "kw": "74",
     "hp": "100",
     "cc": "1598",
-    "engineCodes": "Y 16 XE  X 16 XEL  Z 16 XE",
+    "engineCodes": "Y 16 XE, X 16 XEL, Z 16 XE",
     "KBA_Numbers": ""
   },
   {
@@ -854,7 +854,7 @@
     "kw": "74",
     "hp": "101",
     "cc": "1995",
-    "engineCodes": "X 20 DTH  Y 20 DTH",
+    "engineCodes": "X 20 DTH, Y 20 DTH",
     "KBA_Numbers": ""
   },
   {

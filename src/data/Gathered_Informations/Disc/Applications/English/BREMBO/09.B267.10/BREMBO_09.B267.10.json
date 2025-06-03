@@ -8,7 +8,7 @@
     "hp": "136",
     "cc": "2499",
     "engineCodes": "4JK1-TC",
-    "KBA_Numbers": "7115AAA  7115AAD"
+    "KBA_Numbers": "7115AAA, 7115AAD"
   },
   {
     "brand": "ISUZU",
@@ -41,7 +41,7 @@
     "hp": "136",
     "cc": "2499",
     "engineCodes": "4JK1-TC",
-    "KBA_Numbers": "7115AAB  7115AAE"
+    "KBA_Numbers": "7115AAB, 7115AAE"
   },
   {
     "brand": "ISUZU",
@@ -51,7 +51,7 @@
     "kw": "120",
     "hp": "163",
     "cc": "2999",
-    "engineCodes": "4JJ1E4C-L  4JJ1-TC",
+    "engineCodes": "4JJ1E4C-L, 4JJ1-TC",
     "KBA_Numbers": ""
   },
   {
@@ -84,8 +84,8 @@
     "kw": "120",
     "hp": "163",
     "cc": "2999",
-    "engineCodes": "4JJ1-TC  4JJ1E4C-L",
-    "KBA_Numbers": "7115AAC  7115AAF"
+    "engineCodes": "4JJ1-TC, 4JJ1E4C-L",
+    "KBA_Numbers": "7115AAC, 7115AAF"
   },
   {
     "brand": "ISUZU",
@@ -106,7 +106,7 @@
     "kw": "120",
     "hp": "163",
     "cc": "2499",
-    "engineCodes": "4JK-1E5-TC  4JK1-E5S-L",
+    "engineCodes": "4JK-1E5-TC, 4JK1-E5S-L",
     "KBA_Numbers": "7115AAG"
   },
   {
@@ -128,7 +128,7 @@
     "kw": "120",
     "hp": "163",
     "cc": "2999",
-    "engineCodes": "4JJ1-TCX  4JJ1-TC",
+    "engineCodes": "4JJ1-TCX, 4JJ1-TC",
     "KBA_Numbers": ""
   }
 ]

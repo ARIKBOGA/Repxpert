@@ -41,7 +41,7 @@
     "hp": "65",
     "cc": "1288",
     "engineCodes": "BA3 2108",
-    "KBA_Numbers": "9308333  9308320"
+    "KBA_Numbers": "9308333, 9308320"
   },
   {
     "brand": "LADA",
@@ -74,7 +74,7 @@
     "hp": "68",
     "cc": "1288",
     "engineCodes": "BA3 21115",
-    "KBA_Numbers": "9308356  9308364"
+    "KBA_Numbers": "9308356, 9308364"
   },
   {
     "brand": "LADA",
@@ -118,7 +118,7 @@
     "hp": "71",
     "cc": "1499",
     "engineCodes": "2111",
-    "KBA_Numbers": "9308339  9308340  9308353  9308365"
+    "KBA_Numbers": "9308339, 9308340, 9308353, 9308365"
   },
   {
     "brand": "LADA",
@@ -162,7 +162,7 @@
     "hp": "65",
     "cc": "1288",
     "engineCodes": "BA3 2108",
-    "KBA_Numbers": "9308341  9308345"
+    "KBA_Numbers": "9308341, 9308345"
   },
   {
     "brand": "LADA",
@@ -195,7 +195,7 @@
     "hp": "68",
     "cc": "1288",
     "engineCodes": "BA3 21115",
-    "KBA_Numbers": "9308357  9308366"
+    "KBA_Numbers": "9308357, 9308366"
   },
   {
     "brand": "LADA",
@@ -228,7 +228,7 @@
     "hp": "71",
     "cc": "1499",
     "engineCodes": "2111",
-    "KBA_Numbers": "9308354  9308367"
+    "KBA_Numbers": "9308354, 9308367"
   },
   {
     "brand": "ZAZ",
@@ -244,7 +244,7 @@
   {
     "brand": "ZAZ",
     "model": "TAVRIA (1102)",
-    "engineType": "1.2",
+    "engineType": "1.2 S",
     "madeYear": "02.1987 - 12.2007",
     "kw": "43",
     "hp": "58",

@@ -29,7 +29,7 @@
     "kw": "173",
     "hp": "235",
     "cc": "2999",
-    "engineCodes": "G6DG  L6DB",
+    "engineCodes": "G6DG, L6DB",
     "KBA_Numbers": ""
   },
   {
@@ -73,7 +73,7 @@
     "kw": "141",
     "hp": "192",
     "cc": "2656",
-    "engineCodes": "G6BA  G6EA",
+    "engineCodes": "G6BA, G6EA",
     "KBA_Numbers": ""
   },
   {
@@ -85,7 +85,7 @@
     "hp": "235",
     "cc": "3342",
     "engineCodes": "G6DB",
-    "KBA_Numbers": "8252477  8252ABW"
+    "KBA_Numbers": "8252477, 8252ABW"
   },
   {
     "brand": "HYUNDAI",
@@ -106,8 +106,8 @@
     "kw": "100",
     "hp": "136",
     "cc": "HFE",
-    "engineCodes": "8252AGH",
-    "KBA_Numbers": ""
+    "engineCodes": "HFE",
+    "KBA_Numbers": "8252AGH"
   },
   {
     "brand": "HYUNDAI",
@@ -184,7 +184,7 @@
     "hp": "162",
     "cc": "2359",
     "engineCodes": "G4KC",
-    "KBA_Numbers": "8252469  8252AAM"
+    "KBA_Numbers": "8252469, 8252AAM"
   },
   {
     "brand": "HYUNDAI",
@@ -217,7 +217,7 @@
     "hp": "235",
     "cc": "3342",
     "engineCodes": "G6DB",
-    "KBA_Numbers": "8252470  8252AAX"
+    "KBA_Numbers": "8252470, 8252AAX"
   },
   {
     "brand": "HYUNDAI",

@@ -7,8 +7,8 @@
     "kw": "85",
     "hp": "115",
     "cc": "1598",
-    "engineCodes": "N16 B16 A  N12 B16 A",
-    "KBA_Numbers": "0005ATX  0005AGI"
+    "engineCodes": "N16 B16 A, N12 B16 A",
+    "KBA_Numbers": "0005ATX, 0005AGI"
   },
   {
     "brand": "MINI",
@@ -19,7 +19,7 @@
     "hp": "120",
     "cc": "1598",
     "engineCodes": "N12 B16 A",
-    "KBA_Numbers": "0005BAP  0005AFD"
+    "KBA_Numbers": "0005BAP, 0005AFD"
   },
   {
     "brand": "MINI",
@@ -40,8 +40,8 @@
     "kw": "80",
     "hp": "109",
     "cc": "1560",
-    "engineCodes": "W16 D16 (9HZ)  9HZ (DV6TED4)",
-    "KBA_Numbers": "0005AUG  0005AHT"
+    "engineCodes": "W16 D16 (9HZ), 9HZ (DV6TED4)",
+    "KBA_Numbers": "0005AUG, 0005AHT"
   },
   {
     "brand": "MINI",
@@ -140,7 +140,7 @@
     "hp": "90",
     "cc": "1560",
     "engineCodes": "9HZ (DV6TED4)",
-    "KBA_Numbers": "0005AUF  0005APR"
+    "KBA_Numbers": "0005AUF, 0005APR"
   },
   {
     "brand": "MINI",
@@ -161,8 +161,8 @@
     "kw": "88",
     "hp": "120",
     "cc": "1598",
-    "engineCodes": "N16 B16 A  N12 B16 A",
-    "KBA_Numbers": "0005BAO  0005AJJ"
+    "engineCodes": "N16 B16 A, N12 B16 A",
+    "KBA_Numbers": "0005BAO, 0005AJJ"
   },
   {
     "brand": "MINI",
@@ -173,7 +173,7 @@
     "hp": "115",
     "cc": "1598",
     "engineCodes": "N16 B16 A",
-    "KBA_Numbers": "0005ATP  0005AJL"
+    "KBA_Numbers": "0005ATP, 0005AJL"
   },
   {
     "brand": "MINI",
@@ -195,7 +195,7 @@
     "hp": "109",
     "cc": "1560",
     "engineCodes": "9HZ (DV6TED4)",
-    "KBA_Numbers": "0005ATL  0005AJH"
+    "KBA_Numbers": "0005ATL, 0005AJH"
   },
   {
     "brand": "MINI",
@@ -326,8 +326,8 @@
     "kw": "85",
     "hp": "116",
     "cc": "1598",
-    "engineCodes": "N16 B16 A  N12 B16 A",
-    "KBA_Numbers": "0005ANW  0005ATR"
+    "engineCodes": "N16 B16 A, N12 B16 A",
+    "KBA_Numbers": "0005ANW, 0005ATR"
   },
   {
     "brand": "MINI",
@@ -338,7 +338,7 @@
     "hp": "120",
     "cc": "1598",
     "engineCodes": "N12 B16 A",
-    "KBA_Numbers": "0005ANU  0005BAN"
+    "KBA_Numbers": "0005ANU, 0005BAN"
   },
   {
     "brand": "MINI",
@@ -415,7 +415,7 @@
     "hp": "115",
     "cc": "1598",
     "engineCodes": "N16 B16 A",
-    "KBA_Numbers": "0005BNN  0005BEF"
+    "KBA_Numbers": "0005BNN, 0005BEF"
   },
   {
     "brand": "MINI",
@@ -437,7 +437,7 @@
     "hp": "136",
     "cc": "1995",
     "engineCodes": "N47 C20 A",
-    "KBA_Numbers": "0005BEL  0005BNP"
+    "KBA_Numbers": "0005BEL, 0005BNP"
   },
   {
     "brand": "MINI",

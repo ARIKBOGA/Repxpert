@@ -41,7 +41,7 @@
     "hp": "301",
     "cc": "3498",
     "engineCodes": "VQ35DE",
-    "KBA_Numbers": "3144ABY  3144094  3144084"
+    "KBA_Numbers": "3144ABY, 3144094, 3144084"
   },
   {
     "brand": "NISSAN",
@@ -52,7 +52,7 @@
     "hp": "280",
     "cc": "3498",
     "engineCodes": "VQ35DE",
-    "KBA_Numbers": "3144058  3144085"
+    "KBA_Numbers": "3144058, 3144085"
   },
   {
     "brand": "NISSAN",
@@ -117,8 +117,8 @@
     "kw": "80",
     "hp": "109",
     "cc": "EM57  EM61",
-    "engineCodes": "1329AFV",
-    "KBA_Numbers": ""
+    "engineCodes": "EM57, EM61",
+    "KBA_Numbers": "1329AFV"
   },
   {
     "brand": "NISSAN",
@@ -128,8 +128,8 @@
     "kw": "110",
     "hp": "150",
     "cc": "EM57",
-    "engineCodes": "1329ALE",
-    "KBA_Numbers": ""
+    "engineCodes": "EM57",
+    "KBA_Numbers": "1329ALE"
   },
   {
     "brand": "NISSAN",
@@ -139,8 +139,8 @@
     "kw": "160",
     "hp": "218",
     "cc": "EM57",
-    "engineCodes": "2228AAJ  1329ALE",
-    "KBA_Numbers": ""
+    "engineCodes": "EM57",
+    "KBA_Numbers": "2228AAJ, 1329ALE"
   },
   {
     "brand": "NISSAN",
@@ -150,8 +150,8 @@
     "kw": "78",
     "hp": "106",
     "cc": "1461",
-    "engineCodes": "K9K 292  K9K 282",
-    "KBA_Numbers": "3144ADR  1329ABD"
+    "engineCodes": "K9K 292, K9K 282",
+    "KBA_Numbers": "3144ADR, 1329ABD"
   },
   {
     "brand": "NISSAN",
@@ -161,8 +161,8 @@
     "kw": "76",
     "hp": "103",
     "cc": "1461",
-    "engineCodes": "K9K 282  K9K 292",
-    "KBA_Numbers": "1329ABE  3144AFA"
+    "engineCodes": "K9K 282, K9K 292",
+    "KBA_Numbers": "1329ABE, 3144AFA"
   },
   {
     "brand": "NISSAN",
@@ -184,7 +184,7 @@
     "hp": "114",
     "cc": "1598",
     "engineCodes": "HR16DE",
-    "KBA_Numbers": "3144ADS  1329ABB"
+    "KBA_Numbers": "3144ADS, 1329ABB"
   },
   {
     "brand": "NISSAN",
@@ -206,7 +206,7 @@
     "hp": "130",
     "cc": "1598",
     "engineCodes": "R9M",
-    "KBA_Numbers": "1329AFX  1329AFZ"
+    "KBA_Numbers": "1329AFX, 1329AFZ"
   },
   {
     "brand": "NISSAN",
@@ -217,7 +217,7 @@
     "hp": "130",
     "cc": "1598",
     "engineCodes": "R9M",
-    "KBA_Numbers": "1329AFY  1329AGA"
+    "KBA_Numbers": "1329AFY, 1329AGA"
   },
   {
     "brand": "NISSAN",
@@ -239,7 +239,7 @@
     "hp": "141",
     "cc": "1997",
     "engineCodes": "MR20DE",
-    "KBA_Numbers": "3144ADT  1329AEQ  1329ABC"
+    "KBA_Numbers": "3144ADT, 1329AEQ, 1329ABC"
   },
   {
     "brand": "NISSAN",
@@ -250,7 +250,7 @@
     "hp": "141",
     "cc": "1997",
     "engineCodes": "MR20DE",
-    "KBA_Numbers": "3144ADU  1329ABG"
+    "KBA_Numbers": "3144ADU, 1329ABG"
   },
   {
     "brand": "NISSAN",
@@ -260,8 +260,8 @@
     "kw": "110",
     "hp": "150",
     "cc": "1995",
-    "engineCodes": "M9R  M1D",
-    "KBA_Numbers": "1329AER  1329ABF  3144AEU"
+    "engineCodes": "M9R, M1D",
+    "KBA_Numbers": "1329AER, 1329ABF, 3144AEU"
   },
   {
     "brand": "NISSAN",
@@ -271,8 +271,8 @@
     "kw": "110",
     "hp": "150",
     "cc": "1995",
-    "engineCodes": "M9R  M1D",
-    "KBA_Numbers": "1329ABH  1329AES  3144AEV"
+    "engineCodes": "M9R, M1D",
+    "KBA_Numbers": "1329ABH, 1329AES, 3144AEV"
   },
   {
     "brand": "NISSAN",
@@ -305,7 +305,7 @@
     "hp": "140",
     "cc": "1998",
     "engineCodes": "QR20DE",
-    "KBA_Numbers": "3144ABC  3144087"
+    "KBA_Numbers": "3144ABC, 3144087"
   },
   {
     "brand": "NISSAN",
@@ -327,7 +327,7 @@
     "hp": "140",
     "cc": "1998",
     "engineCodes": "QR20DE",
-    "KBA_Numbers": "9648373  3144AAW  3144AAX  3144042"
+    "KBA_Numbers": "9648373, 3144AAW, 3144AAX, 3144042"
   },
   {
     "brand": "NISSAN",
@@ -348,7 +348,7 @@
     "kw": "84",
     "hp": "114",
     "cc": "2184",
-    "engineCodes": "YD22ETI  YD22DDTi",
+    "engineCodes": "YD22ETI, YD22DDTi",
     "KBA_Numbers": ""
   },
   {
@@ -359,8 +359,8 @@
     "kw": "100",
     "hp": "136",
     "cc": "2184",
-    "engineCodes": "YD22ETI  YD22DDTi",
-    "KBA_Numbers": "1329ACY  1329ACZ  3144ABD  3144ABE  3144088"
+    "engineCodes": "YD22ETI, YD22DDTi",
+    "KBA_Numbers": "1329ACY, 1329ACZ, 3144ABD, 3144ABE, 3144088"
   },
   {
     "brand": "NISSAN",
@@ -370,8 +370,8 @@
     "kw": "100",
     "hp": "136",
     "cc": "2184",
-    "engineCodes": "YD22ETI  YD22DDTi",
-    "KBA_Numbers": "1329ACT  1329ACU  3144AAZ  3144AAY  3144077"
+    "engineCodes": "YD22ETI, YD22DDTi",
+    "KBA_Numbers": "1329ACT, 1329ACU, 3144AAZ, 3144AAY, 3144077"
   },
   {
     "brand": "NISSAN",
@@ -392,8 +392,8 @@
     "kw": "84",
     "hp": "114",
     "cc": "2184",
-    "engineCodes": "YD22DDTi  YD22ETI",
-    "KBA_Numbers": "9648372  3144043"
+    "engineCodes": "YD22DDTi, YD22ETI",
+    "KBA_Numbers": "9648372, 3144043"
   },
   {
     "brand": "NISSAN",
@@ -426,7 +426,7 @@
     "hp": "165",
     "cc": "2488",
     "engineCodes": "QR25DE",
-    "KBA_Numbers": "1329ACV  1329ACW  9648405  3144ABA  3144ABB  3144044"
+    "KBA_Numbers": "1329ACV, 1329ACW, 9648405, 3144ABA, 3144ABB, 3144044"
   },
   {
     "brand": "NISSAN",
@@ -448,7 +448,7 @@
     "hp": "141",
     "cc": "1997",
     "engineCodes": "MR20DE",
-    "KBA_Numbers": "1329ABK  3144AEO"
+    "KBA_Numbers": "1329ABK, 3144AEO"
   },
   {
     "brand": "NISSAN",
@@ -459,7 +459,7 @@
     "hp": "140",
     "cc": "1998",
     "engineCodes": "MR20DE",
-    "KBA_Numbers": "1329ACS  1329ACR"
+    "KBA_Numbers": "1329ACS, 1329ACR"
   },
   {
     "brand": "NISSAN",
@@ -470,7 +470,7 @@
     "hp": "150",
     "cc": "1995",
     "engineCodes": "M9R",
-    "KBA_Numbers": "1329ABP  3144AEN"
+    "KBA_Numbers": "1329ABP, 3144AEN"
   },
   {
     "brand": "NISSAN",
@@ -481,7 +481,7 @@
     "hp": "150",
     "cc": "1995",
     "engineCodes": "M9R",
-    "KBA_Numbers": "1329ABN  3144AEQ"
+    "KBA_Numbers": "1329ABN, 3144AEQ"
   },
   {
     "brand": "NISSAN",
@@ -492,7 +492,7 @@
     "hp": "173",
     "cc": "1995",
     "engineCodes": "M9R 760",
-    "KBA_Numbers": "1329ABO  3144AER"
+    "KBA_Numbers": "1329ABO, 3144AER"
   },
   {
     "brand": "NISSAN",
@@ -514,7 +514,7 @@
     "hp": "141",
     "cc": "1997",
     "engineCodes": "MR20DE",
-    "KBA_Numbers": "1329ABL  3144AEM"
+    "KBA_Numbers": "1329ABL, 3144AEM"
   },
   {
     "brand": "NISSAN",
@@ -536,7 +536,7 @@
     "hp": "169",
     "cc": "2488",
     "engineCodes": "QR25DE",
-    "KBA_Numbers": "1329ABM  3144AEP"
+    "KBA_Numbers": "1329ABM, 3144AEP"
   },
   {
     "brand": "NISSAN",
@@ -601,7 +601,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1995",
-    "engineCodes": "M9R 866  M9R 862  M9R 865  M9R 856  M9R 855",
+    "engineCodes": "M9R 866, M9R 862, M9R 865, M9R 856, M9R 855",
     "KBA_Numbers": "3333ARP"
   },
   {
@@ -634,7 +634,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1995",
-    "engineCodes": "M9R 834  M9R 838  M9R 836  M9R 833  M9R 850  M9R 835  M9R 862  M9R 832  M9R 866  M9R 865  M9R 855  M9R 856",
+    "engineCodes": "M9R 834, M9R 838, M9R 836, M9R 833, M9R 850, M9R 835, M9R 862, M9R 832, M9R 866, M9R 865, M9R 855, M9R 856",
     "KBA_Numbers": "3333ARQ"
   },
   {
@@ -645,7 +645,7 @@
     "kw": "126",
     "hp": "171",
     "cc": "2488",
-    "engineCodes": "2TR 702  2TR 703  2TR 700",
+    "engineCodes": "2TR 702, 2TR 703, 2TR 700",
     "KBA_Numbers": "3333ARR"
   },
   {
@@ -656,7 +656,7 @@
     "kw": "126",
     "hp": "171",
     "cc": "2488",
-    "engineCodes": "2TR 702  2TR 703  2TR 700",
+    "engineCodes": "2TR 702, 2TR 703, 2TR 700",
     "KBA_Numbers": "3333ARS"
   },
   {
@@ -667,7 +667,7 @@
     "kw": "96",
     "hp": "130",
     "cc": "1598",
-    "engineCodes": "R9M 414  R9M 409",
+    "engineCodes": "R9M 414, R9M 409",
     "KBA_Numbers": "3333BFH"
   },
   {
@@ -676,7 +676,7 @@
     "engineType": "2.0 BLUE DCI 185 (HCAN)",
     "madeYear": "from 01.2020",
     "kw": "135",
-    "hp": "185",
+    "hp": "184",
     "cc": "1997",
     "engineCodes": "M9R 716",
     "KBA_Numbers": "3333BON"
@@ -687,7 +687,7 @@
     "engineType": "2.0 BLUE DCI 185 4WD (HCAN)",
     "madeYear": "from 01.2020",
     "kw": "135",
-    "hp": "185",
+    "hp": "184",
     "cc": "1997",
     "engineCodes": "M9R 716",
     "KBA_Numbers": "3333BOO"

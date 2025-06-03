@@ -7,7 +7,7 @@
     "kw": "79",
     "hp": "107",
     "cc": "1598",
-    "engineCodes": "K4M 724  K4M 720",
+    "engineCodes": "K4M 724, K4M 720",
     "KBA_Numbers": "3004564"
   },
   {
@@ -29,7 +29,7 @@
     "kw": "70",
     "hp": "95",
     "cc": "1794",
-    "engineCodes": "F3P 676  F3P 678",
+    "engineCodes": "F3P 676, F3P 678",
     "KBA_Numbers": ""
   },
   {
@@ -40,7 +40,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1794",
-    "engineCodes": "F3P 720  F3P 724",
+    "engineCodes": "F3P 720, F3P 724",
     "KBA_Numbers": "3004718"
   },
   {
@@ -51,7 +51,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1794",
-    "engineCodes": "F3P 678  F3P 670",
+    "engineCodes": "F3P 678, F3P 670",
     "KBA_Numbers": "3004744"
   },
   {
@@ -62,7 +62,7 @@
     "kw": "69",
     "hp": "94",
     "cc": "1794",
-    "engineCodes": "F3P 724  F3P 720",
+    "engineCodes": "F3P 724, F3P 720",
     "KBA_Numbers": "3004743"
   },
   {
@@ -73,7 +73,7 @@
     "kw": "88",
     "hp": "120",
     "cc": "1783",
-    "engineCodes": "F4P 770  F4P 760",
+    "engineCodes": "F4P 770, F4P 760",
     "KBA_Numbers": "3004574"
   },
   {
@@ -95,7 +95,7 @@
     "kw": "72",
     "hp": "98",
     "cc": "1870",
-    "engineCodes": "F9Q 717  F9Q 710  F9Q 716",
+    "engineCodes": "F9Q 717, F9Q 710, F9Q 716",
     "KBA_Numbers": "3004562"
   },
   {
@@ -106,7 +106,7 @@
     "kw": "84",
     "hp": "114",
     "cc": "1998",
-    "engineCodes": "F3R 768  F3R 722",
+    "engineCodes": "F3R 768, F3R 722",
     "KBA_Numbers": "3004745"
   },
   {
@@ -139,8 +139,8 @@
     "kw": "83",
     "hp": "113",
     "cc": "1998",
-    "engineCodes": "F3R 723  F3R 722",
-    "KBA_Numbers": "3004721  3004745"
+    "engineCodes": "F3R 723, F3R 722",
+    "KBA_Numbers": "3004721, 3004745"
   },
   {
     "brand": "RENAULT",
@@ -161,8 +161,8 @@
     "kw": "61",
     "hp": "83",
     "cc": "2188",
-    "engineCodes": "G8T 794  G8T 790  G8T 752  G8T 706",
-    "KBA_Numbers": "3004719  3004755"
+    "engineCodes": "G8T 794, G8T 790, G8T 752, G8T 706",
+    "KBA_Numbers": "3004719, 3004755"
   },
   {
     "brand": "RENAULT",
@@ -183,7 +183,7 @@
     "kw": "140",
     "hp": "190",
     "cc": "2946",
-    "engineCodes": "L7X 700  L7X 701",
+    "engineCodes": "L7X 700, L7X 701",
     "KBA_Numbers": ""
   },
   {
@@ -194,7 +194,7 @@
     "kw": "140",
     "hp": "190",
     "cc": "2946",
-    "engineCodes": "L7X 701  L7X 700",
+    "engineCodes": "L7X 701, L7X 700",
     "KBA_Numbers": "3004794"
   },
   {
@@ -205,7 +205,7 @@
     "kw": "79",
     "hp": "107",
     "cc": "1598",
-    "engineCodes": "K4M 720  K4M 724",
+    "engineCodes": "K4M 720, K4M 724",
     "KBA_Numbers": "3004565"
   },
   {
@@ -216,7 +216,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1794",
-    "engineCodes": "F3P 678  F3P 670",
+    "engineCodes": "F3P 678, F3P 670",
     "KBA_Numbers": "3004734"
   },
   {
@@ -227,7 +227,7 @@
     "kw": "69",
     "hp": "94",
     "cc": "1794",
-    "engineCodes": "F3P 678  F3P 724  F3P 720",
+    "engineCodes": "F3P 678, F3P 724, F3P 720",
     "KBA_Numbers": "3004733"
   },
   {
@@ -260,7 +260,7 @@
     "kw": "72",
     "hp": "98",
     "cc": "1870",
-    "engineCodes": "F9Q 717  F9Q 710  F9Q 716",
+    "engineCodes": "F9Q 717, F9Q 710, F9Q 716",
     "KBA_Numbers": "3004563"
   },
   {
@@ -271,7 +271,7 @@
     "kw": "84",
     "hp": "114",
     "cc": "1998",
-    "engineCodes": "F3R 768  F3R 728",
+    "engineCodes": "F3R 768, F3R 728",
     "KBA_Numbers": "3004741"
   },
   {
@@ -282,7 +282,7 @@
     "kw": "83",
     "hp": "113",
     "cc": "1998",
-    "engineCodes": "F3R 723  F3R 722",
+    "engineCodes": "F3R 723, F3R 722",
     "KBA_Numbers": "3004735"
   },
   {
@@ -304,7 +304,7 @@
     "kw": "61",
     "hp": "83",
     "cc": "2188",
-    "engineCodes": "G8T 794  G8T 790  G8T 706  G8T 752",
+    "engineCodes": "G8T 794, G8T 790, G8T 706, G8T 752",
     "KBA_Numbers": "3004736"
   },
   {
@@ -315,7 +315,7 @@
     "kw": "140",
     "hp": "190",
     "cc": "2946",
-    "engineCodes": "L7X 701  L7X 700",
+    "engineCodes": "L7X 701, L7X 700",
     "KBA_Numbers": "3004796"
   },
   {
@@ -326,7 +326,7 @@
     "kw": "77",
     "hp": "105",
     "cc": "1995",
-    "engineCodes": "J7R 733  J7R 732",
+    "engineCodes": "J7R 733, J7R 732",
     "KBA_Numbers": ""
   },
   {
@@ -337,7 +337,7 @@
     "kw": "97",
     "hp": "132",
     "cc": "1995",
-    "engineCodes": "J7R 734  J7R 735",
+    "engineCodes": "J7R 734, J7R 735",
     "KBA_Numbers": ""
   },
   {
@@ -349,7 +349,7 @@
     "hp": "88",
     "cc": "2068",
     "engineCodes": "J8S 760",
-    "KBA_Numbers": "3004722  3004757"
+    "KBA_Numbers": "3004722, 3004757"
   },
   {
     "brand": "RENAULT",
@@ -370,7 +370,7 @@
     "kw": "101",
     "hp": "137",
     "cc": "2165",
-    "engineCodes": "J7T 761  J7T 760",
+    "engineCodes": "J7T 761, J7T 760",
     "KBA_Numbers": "3004707"
   }
 ]

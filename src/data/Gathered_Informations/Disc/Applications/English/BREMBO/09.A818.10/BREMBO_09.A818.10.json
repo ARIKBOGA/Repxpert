@@ -19,7 +19,7 @@
     "hp": "231",
     "cc": "2996",
     "engineCodes": "M 272.946",
-    "KBA_Numbers": "1313AAU  0999AUC"
+    "KBA_Numbers": "1313AAU, 0999AUC"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -30,7 +30,7 @@
     "hp": "231",
     "cc": "2996",
     "engineCodes": "M 272.946",
-    "KBA_Numbers": "1313AAU  0999AUC"
+    "KBA_Numbers": "1313AAU, 0999AUC"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -41,7 +41,7 @@
     "hp": "211",
     "cc": "2987",
     "engineCodes": "OM 642.930",
-    "KBA_Numbers": "0999APU  1313AAS  0999483"
+    "KBA_Numbers": "0999APU, 1313AAS, 0999483"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -52,7 +52,7 @@
     "hp": "235",
     "cc": "2987",
     "engineCodes": "OM 642.930",
-    "KBA_Numbers": "0999APT  1313AAP  0999439"
+    "KBA_Numbers": "0999APT, 1313AAP, 0999439"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -63,7 +63,7 @@
     "hp": "211",
     "cc": "2987",
     "engineCodes": "OM 642.932",
-    "KBA_Numbers": "0999BDH  1313AAT"
+    "KBA_Numbers": "0999BDH, 1313AAT"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -74,7 +74,7 @@
     "hp": "235",
     "cc": "2987",
     "engineCodes": "OM 642.932",
-    "KBA_Numbers": "0999AZR  1313AAQ"
+    "KBA_Numbers": "0999AZR, 1313AAQ"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -85,7 +85,7 @@
     "hp": "272",
     "cc": "3498",
     "engineCodes": "M 272.965",
-    "KBA_Numbers": "0999APV  1313AAV  0999407"
+    "KBA_Numbers": "0999APV, 1313AAV, 0999407"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -96,7 +96,7 @@
     "hp": "272",
     "cc": "3498",
     "engineCodes": "M 272.975",
-    "KBA_Numbers": "0999BFZ  1313AAW"
+    "KBA_Numbers": "0999BFZ, 1313AAW"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -107,7 +107,7 @@
     "hp": "258",
     "cc": "2987",
     "engineCodes": "OM 642.862",
-    "KBA_Numbers": "1313DJH  1313BRE"
+    "KBA_Numbers": "1313DJH, 1313BRE"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -184,7 +184,7 @@
     "hp": "306",
     "cc": "3498",
     "engineCodes": "M 276.950",
-    "KBA_Numbers": "1313BVG  1313BQZ"
+    "KBA_Numbers": "1313BVG, 1313BQZ"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -206,7 +206,7 @@
     "hp": "320",
     "cc": "3996",
     "engineCodes": "OM 629.911",
-    "KBA_Numbers": "1313BGS  1313AAR  0999AUB"
+    "KBA_Numbers": "1313BGS, 1313AAR, 0999AUB"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -217,7 +217,7 @@
     "hp": "340",
     "cc": "4663",
     "engineCodes": "M 273.924",
-    "KBA_Numbers": "1313ABB  0999AUE"
+    "KBA_Numbers": "1313ABB, 0999AUE"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -228,7 +228,7 @@
     "hp": "320",
     "cc": "3996",
     "engineCodes": "OM 629.911",
-    "KBA_Numbers": "1313BGS  1313AAR"
+    "KBA_Numbers": "1313BGS, 1313AAR"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -239,7 +239,7 @@
     "hp": "340",
     "cc": "4663",
     "engineCodes": "M 273.922",
-    "KBA_Numbers": "0999APX  1313ABA  0999484"
+    "KBA_Numbers": "0999APX, 1313ABA, 0999484"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -250,7 +250,7 @@
     "hp": "388",
     "cc": "5461",
     "engineCodes": "M 273.961",
-    "KBA_Numbers": "0999APW  1313AAX  0999409"
+    "KBA_Numbers": "0999APW, 1313AAX, 0999409"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -260,8 +260,8 @@
     "kw": "285",
     "hp": "388",
     "cc": "5461",
-    "engineCodes": "M 273.961  M 273.968",
-    "KBA_Numbers": "1313AAY  0999AUD"
+    "engineCodes": "M 273.961, M 273.968",
+    "KBA_Numbers": "1313AAY, 0999AUD"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -305,7 +305,7 @@
     "hp": "517",
     "cc": "5513",
     "engineCodes": "M 275.953",
-    "KBA_Numbers": "1313ABR  0999APZ  1313ABD  0999485  0999AAO"
+    "KBA_Numbers": "1313ABR, 0999APZ, 1313ABD, 0999485, 0999AAO"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -316,7 +316,7 @@
     "hp": "388",
     "cc": "5461",
     "engineCodes": "M 273.961",
-    "KBA_Numbers": "1313ADT  1313AGU  0999ATR"
+    "KBA_Numbers": "1313ADT, 1313AGU, 0999ATR"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -360,6 +360,6 @@
     "hp": "388",
     "cc": "5461",
     "engineCodes": "M 273.965",
-    "KBA_Numbers": "1313AAL  0999ADC"
+    "KBA_Numbers": "1313AAL, 0999ADC"
   }
 ]

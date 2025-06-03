@@ -51,7 +51,7 @@
     "kw": "88",
     "hp": "120",
     "cc": "1969",
-    "engineCodes": "D 4204 T8  D 4204 T20",
+    "engineCodes": "D 4204 T8, D 4204 T20",
     "KBA_Numbers": "9101BBR"
   },
   {
@@ -62,7 +62,7 @@
     "kw": "120",
     "hp": "163",
     "cc": "1984",
-    "engineCodes": "D 5204 T2  D 5204 T3",
+    "engineCodes": "D 5204 T2, D 5204 T3",
     "KBA_Numbers": "9101ANJ"
   },
   {
@@ -84,7 +84,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1969",
-    "engineCodes": "D 4204 T9  D 4204 T4",
+    "engineCodes": "D 4204 T9, D 4204 T4",
     "KBA_Numbers": "9101BBS"
   },
   {
@@ -118,7 +118,7 @@
     "hp": "190",
     "cc": "1969",
     "engineCodes": "D 4204 T14",
-    "KBA_Numbers": "9101BBQ  9101BBV"
+    "KBA_Numbers": "9101BBQ, 9101BBV"
   },
   {
     "brand": "VOLVO",
@@ -161,7 +161,7 @@
     "kw": "158",
     "hp": "215",
     "cc": "2400",
-    "engineCodes": "D 5244 T15  D 5244 T11",
+    "engineCodes": "D 5244 T15, D 5244 T11",
     "KBA_Numbers": "9101AQB"
   },
   {
@@ -294,7 +294,7 @@
     "hp": "180",
     "cc": "1596",
     "engineCodes": "B 4164 T",
-    "KBA_Numbers": "9101AQA  9101AOQ"
+    "KBA_Numbers": "9101AQA, 9101AOQ"
   },
   {
     "brand": "VOLVO",
@@ -414,7 +414,7 @@
     "kw": "242",
     "hp": "329",
     "cc": "2953",
-    "engineCodes": "B 6304 T3  B 6304 T4",
+    "engineCodes": "B 6304 T3, B 6304 T4",
     "KBA_Numbers": "9101BAG"
   },
   {
@@ -436,7 +436,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1969",
-    "engineCodes": "D 4204 T9  D 4204 T4",
+    "engineCodes": "D 4204 T9, D 4204 T4",
     "KBA_Numbers": "9101BBS"
   },
   {
@@ -448,7 +448,7 @@
     "hp": "190",
     "cc": "1969",
     "engineCodes": "D 4204 T14",
-    "KBA_Numbers": "9101BBQ  9101BBV"
+    "KBA_Numbers": "9101BBQ, 9101BBV"
   },
   {
     "brand": "VOLVO",
@@ -590,7 +590,7 @@
     "kw": "120",
     "hp": "163",
     "cc": "2400",
-    "engineCodes": "D 5244 T19  D 5244 T5",
+    "engineCodes": "D 5244 T19, D 5244 T5",
     "KBA_Numbers": "9101AED"
   },
   {
@@ -744,7 +744,7 @@
     "kw": "120",
     "hp": "163",
     "cc": "1984",
-    "engineCodes": "D 5204 T3  D 5204 T2",
+    "engineCodes": "D 5204 T3, D 5204 T2",
     "KBA_Numbers": "9101ANN"
   },
   {
@@ -778,7 +778,7 @@
     "hp": "205",
     "cc": "2400",
     "engineCodes": "D 5244 T10",
-    "KBA_Numbers": "9101AIM  9101AIR"
+    "KBA_Numbers": "9101AIM, 9101AIR"
   },
   {
     "brand": "VOLVO",
@@ -788,7 +788,7 @@
     "kw": "158",
     "hp": "215",
     "cc": "2400",
-    "engineCodes": "D 5244 T15  D 5244 T11",
+    "engineCodes": "D 5244 T15, D 5244 T11",
     "KBA_Numbers": "9101APT"
   },
   {
@@ -833,7 +833,7 @@
     "hp": "180",
     "cc": "1596",
     "engineCodes": "B 4164 T",
-    "KBA_Numbers": "9101AOY  9101APS"
+    "KBA_Numbers": "9101AOY, 9101APS"
   },
   {
     "brand": "VOLVO",
@@ -953,7 +953,7 @@
     "kw": "88",
     "hp": "120",
     "cc": "1969",
-    "engineCodes": "D 4204 T8  D 4204 T20",
+    "engineCodes": "D 4204 T8, D 4204 T20",
     "KBA_Numbers": "9101BBZ"
   },
   {
@@ -975,7 +975,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1969",
-    "engineCodes": "D 4204 T9  D 4204 T4",
+    "engineCodes": "D 4204 T9, D 4204 T4",
     "KBA_Numbers": "9101BCA"
   },
   {
@@ -986,7 +986,7 @@
     "kw": "120",
     "hp": "163",
     "cc": "1984",
-    "engineCodes": "D 5204 T3  D 5204 T2",
+    "engineCodes": "D 5204 T3, D 5204 T2",
     "KBA_Numbers": "9101AOJ"
   },
   {
@@ -1020,7 +1020,7 @@
     "hp": "163",
     "cc": "2400",
     "engineCodes": "D 5244 T17",
-    "KBA_Numbers": "9101ATQ  9101BAU"
+    "KBA_Numbers": "9101ATQ, 9101BAU"
   },
   {
     "brand": "VOLVO",
@@ -1063,7 +1063,7 @@
     "kw": "158",
     "hp": "215",
     "cc": "2400",
-    "engineCodes": "D 5244 T15  D 5244 T11",
+    "engineCodes": "D 5244 T15, D 5244 T11",
     "KBA_Numbers": "9101AQE"
   },
   {
@@ -1207,7 +1207,7 @@
     "hp": "180",
     "cc": "1596",
     "engineCodes": "B 4164 T",
-    "KBA_Numbers": "9101AQD  9101AOT"
+    "KBA_Numbers": "9101AQD, 9101AOT"
   },
   {
     "brand": "VOLVO",
@@ -1272,7 +1272,7 @@
     "kw": "180",
     "hp": "245",
     "cc": "1969",
-    "engineCodes": "B 4204 T11  B 4204 T41",
+    "engineCodes": "B 4204 T11, B 4204 T41",
     "KBA_Numbers": "9101BAA"
   },
   {
@@ -1338,7 +1338,7 @@
     "kw": "242",
     "hp": "329",
     "cc": "2953",
-    "engineCodes": "B 6304 T3  B 6304 T4",
+    "engineCodes": "B 6304 T3, B 6304 T4",
     "KBA_Numbers": "9101BAI"
   },
   {
@@ -1349,7 +1349,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1969",
-    "engineCodes": "D 4204 T9  D 4204 T4",
+    "engineCodes": "D 4204 T9, D 4204 T4",
     "KBA_Numbers": "9101BCA"
   },
   {
@@ -1449,7 +1449,7 @@
     "hp": "145",
     "cc": "1999",
     "engineCodes": "B 4204 S3",
-    "KBA_Numbers": "9101AHN  9101AMK"
+    "KBA_Numbers": "9101AHN, 9101AMK"
   },
   {
     "brand": "VOLVO",
@@ -1460,7 +1460,7 @@
     "hp": "136",
     "cc": "1998",
     "engineCodes": "D 4204 T",
-    "KBA_Numbers": "9101AHP  9101AME"
+    "KBA_Numbers": "9101AHP, 9101AME"
   },
   {
     "brand": "VOLVO",
@@ -1471,7 +1471,7 @@
     "hp": "146",
     "cc": "1999",
     "engineCodes": "B 4204 S4",
-    "KBA_Numbers": "9101AMM  9101AJU"
+    "KBA_Numbers": "9101AMM, 9101AJU"
   },
   {
     "brand": "VOLVO",
@@ -1503,8 +1503,8 @@
     "kw": "120",
     "hp": "163",
     "cc": "2400",
-    "engineCodes": "D 5244 T19  D 5244 T5",
-    "KBA_Numbers": "9101AGH  9101AMJ"
+    "engineCodes": "D 5244 T19, D 5244 T5",
+    "KBA_Numbers": "9101AGH, 9101AMJ"
   },
   {
     "brand": "VOLVO",
@@ -1515,7 +1515,7 @@
     "hp": "175",
     "cc": "2400",
     "engineCodes": "D 5244 T14",
-    "KBA_Numbers": "9101AMF  9101AJY"
+    "KBA_Numbers": "9101AMF, 9101AJY"
   },
   {
     "brand": "VOLVO",
@@ -1537,7 +1537,7 @@
     "hp": "231",
     "cc": "2521",
     "engineCodes": "B 5254 T10",
-    "KBA_Numbers": "9101AMI  9101AJW"
+    "KBA_Numbers": "9101AMI, 9101AJW"
   },
   {
     "brand": "VOLVO",
@@ -1559,7 +1559,7 @@
     "hp": "231",
     "cc": "2521",
     "engineCodes": "B 5254 T11",
-    "KBA_Numbers": "9101AML  9101AJV"
+    "KBA_Numbers": "9101AML, 9101AJV"
   },
   {
     "brand": "VOLVO",
@@ -1570,7 +1570,7 @@
     "hp": "238",
     "cc": "3192",
     "engineCodes": "B 6324 S",
-    "KBA_Numbers": "9101AGF  9101AMC"
+    "KBA_Numbers": "9101AGF, 9101AMC"
   },
   {
     "brand": "VOLVO",
@@ -1592,7 +1592,7 @@
     "hp": "238",
     "cc": "3192",
     "engineCodes": "B 6324 S",
-    "KBA_Numbers": "9101AGJ  9101AMB"
+    "KBA_Numbers": "9101AGJ, 9101AMB"
   },
   {
     "brand": "VOLVO",
@@ -1646,7 +1646,7 @@
     "kw": "120",
     "hp": "163",
     "cc": "1984",
-    "engineCodes": "D 5204 T3  D 5204 T2",
+    "engineCodes": "D 5204 T3, D 5204 T2",
     "KBA_Numbers": "9101ANT"
   },
   {
@@ -1702,7 +1702,7 @@
     "hp": "205",
     "cc": "2400",
     "engineCodes": "D 5244 T10",
-    "KBA_Numbers": "9101AIN  9101AMH"
+    "KBA_Numbers": "9101AIN, 9101AMH"
   },
   {
     "brand": "VOLVO",
@@ -1723,7 +1723,7 @@
     "kw": "158",
     "hp": "215",
     "cc": "2400",
-    "engineCodes": "D 5244 T15  D 5244 T11",
+    "engineCodes": "D 5244 T15, D 5244 T11",
     "KBA_Numbers": "9101APX"
   },
   {
@@ -1746,7 +1746,7 @@
     "hp": "205",
     "cc": "2400",
     "engineCodes": "D 5244 T10",
-    "KBA_Numbers": "9101AMG  9101AJX"
+    "KBA_Numbers": "9101AMG, 9101AJX"
   },
   {
     "brand": "VOLVO",
@@ -1779,7 +1779,7 @@
     "hp": "180",
     "cc": "1596",
     "engineCodes": "B 4164 T",
-    "KBA_Numbers": "9101APW  9101AOW"
+    "KBA_Numbers": "9101APW, 9101AOW"
   },
   {
     "brand": "VOLVO",
@@ -1834,7 +1834,7 @@
     "hp": "286",
     "cc": "2953",
     "engineCodes": "B 6304 T2",
-    "KBA_Numbers": "9101AGG  9101AMN"
+    "KBA_Numbers": "9101AGG, 9101AMN"
   },
   {
     "brand": "VOLVO",
@@ -1888,45 +1888,45 @@
     "kw": "158",
     "hp": "215",
     "cc": "2400",
-    "engineCodes": "D 5244 T15  D 5244 T11",
+    "engineCodes": "D 5244 T15, D 5244 T11",
     "KBA_Numbers": ""
   },
   {
     "brand": "VOLVO",
-    "model": "XC70 II (136)",
+    "model": "XC70 II VAN (136)",
     "engineType": "2.4 D",
     "madeYear": "06.2009 - 12.2010",
     "kw": "129",
     "hp": "175",
     "cc": "2400",
     "engineCodes": "D 5244 T14",
-    "KBA_Numbers": "9101AMF  9101AJY"
+    "KBA_Numbers": "9101AMF, 9101AJY"
   },
   {
     "brand": "VOLVO",
-    "model": "XC70 II (136)",
+    "model": "XC70 II VAN (136)",
     "engineType": "2.4 D / D4 AWD",
     "madeYear": "08.2007 - 04.2016",
     "kw": "120",
     "hp": "163",
     "cc": "2400",
-    "engineCodes": "D 5244 T16  D 5244 T17  D 5244 T5",
-    "KBA_Numbers": "9101AHO  9101AMD  9101AIT"
+    "engineCodes": "D 5244 T16, D 5244 T17, D 5244 T5",
+    "KBA_Numbers": "9101AHO, 9101AMD, 9101AIT"
   },
   {
     "brand": "VOLVO",
-    "model": "XC70 II (136)",
+    "model": "XC70 II VAN (136)",
     "engineType": "3.2 AWD",
     "madeYear": "08.2007 - 12.2011",
     "kw": "175",
     "hp": "238",
     "cc": "3192",
     "engineCodes": "B 6324 S",
-    "KBA_Numbers": "9101AGJ  9101AMB"
+    "KBA_Numbers": "9101AGJ, 9101AMB"
   },
   {
     "brand": "VOLVO",
-    "model": "XC70 II (136)",
+    "model": "XC70 II VAN (136)",
     "engineType": "3.2 AWD",
     "madeYear": "05.2010 - 12.2014",
     "kw": "179",
@@ -1937,18 +1937,18 @@
   },
   {
     "brand": "VOLVO",
-    "model": "XC70 II (136)",
+    "model": "XC70 II VAN (136)",
     "engineType": "D3",
     "madeYear": "04.2010 - 12.2015",
     "kw": "120",
     "hp": "163",
     "cc": "1984",
-    "engineCodes": "D 5204 T3  D 5204 T2",
+    "engineCodes": "D 5204 T3, D 5204 T2",
     "KBA_Numbers": "9101ANT"
   },
   {
     "brand": "VOLVO",
-    "model": "XC70 II (136)",
+    "model": "XC70 II VAN (136)",
     "engineType": "D4",
     "madeYear": "10.2013 - 04.2016",
     "kw": "133",
@@ -1959,7 +1959,7 @@
   },
   {
     "brand": "VOLVO",
-    "model": "XC70 II (136)",
+    "model": "XC70 II VAN (136)",
     "engineType": "D4 AWD",
     "madeYear": "10.2013 - 04.2016",
     "kw": "133",
@@ -1970,7 +1970,7 @@
   },
   {
     "brand": "VOLVO",
-    "model": "XC70 II (136)",
+    "model": "XC70 II VAN (136)",
     "engineType": "D5 AWD",
     "madeYear": "04.2007 - 12.2009",
     "kw": "136",
@@ -1981,29 +1981,29 @@
   },
   {
     "brand": "VOLVO",
-    "model": "XC70 II (136)",
+    "model": "XC70 II VAN (136)",
     "engineType": "D5 AWD",
     "madeYear": "04.2009 - 12.2011",
     "kw": "151",
     "hp": "205",
     "cc": "2400",
     "engineCodes": "D 5244 T10",
-    "KBA_Numbers": "9101AMG  9101AJX"
+    "KBA_Numbers": "9101AMG, 9101AJX"
   },
   {
     "brand": "VOLVO",
-    "model": "XC70 II (136)",
+    "model": "XC70 II VAN (136)",
     "engineType": "D5 AWD",
     "madeYear": "04.2011 - 12.2015",
     "kw": "158",
     "hp": "215",
     "cc": "2400",
-    "engineCodes": "D 5244 T15  D 5244 T11",
+    "engineCodes": "D 5244 T15, D 5244 T11",
     "KBA_Numbers": "9101APY"
   },
   {
     "brand": "VOLVO",
-    "model": "XC70 II (136)",
+    "model": "XC70 II VAN (136)",
     "engineType": "D5 AWD",
     "madeYear": "11.2013 - 04.2016",
     "kw": "169",
@@ -2014,7 +2014,7 @@
   },
   {
     "brand": "VOLVO",
-    "model": "XC70 II (136)",
+    "model": "XC70 II VAN (136)",
     "engineType": "D5 AWD",
     "madeYear": "03.2015 - 04.2016",
     "kw": "162",
@@ -2025,7 +2025,7 @@
   },
   {
     "brand": "VOLVO",
-    "model": "XC70 II (136)",
+    "model": "XC70 II VAN (136)",
     "engineType": "T5",
     "madeYear": "10.2013 - 12.2016",
     "kw": "180",
@@ -2036,7 +2036,7 @@
   },
   {
     "brand": "VOLVO",
-    "model": "XC70 II (136)",
+    "model": "XC70 II VAN (136)",
     "engineType": "T5 AWD",
     "madeYear": "08.2015 - 12.2016",
     "kw": "187",
@@ -2047,18 +2047,18 @@
   },
   {
     "brand": "VOLVO",
-    "model": "XC70 II (136)",
+    "model": "XC70 II VAN (136)",
     "engineType": "T6 AWD",
     "madeYear": "01.2008 - 12.2016",
     "kw": "210",
     "hp": "286",
     "cc": "2953",
     "engineCodes": "B 6304 T2",
-    "KBA_Numbers": "9101AGG  9101AMN"
+    "KBA_Numbers": "9101AGG, 9101AMN"
   },
   {
     "brand": "VOLVO",
-    "model": "XC70 II (136)",
+    "model": "XC70 II VAN (136)",
     "engineType": "T6 AWD",
     "madeYear": "01.2010 - 04.2015",
     "kw": "224",
@@ -2069,7 +2069,7 @@
   },
   {
     "brand": "VOLVO",
-    "model": "XC70 II (136)",
+    "model": "XC70 II VAN (136)",
     "engineType": "T6 Polestar AWD",
     "madeYear": "11.2013 - 12.2016",
     "kw": "242",
@@ -2081,12 +2081,12 @@
   {
     "brand": "VOLVO",
     "model": "XC70 II VAN (136)",
-    "engineType": "2.0 D4",
-    "madeYear": "09.2013 - 12.2016",
-    "kw": "120",
-    "hp": "163",
-    "cc": "1984",
-    "engineCodes": "D 5204 T3",
+    "engineType": "",
+    "madeYear": "",
+    "kw": "",
+    "hp": "",
+    "cc": "",
+    "engineCodes": "",
     "KBA_Numbers": ""
   }
 ]

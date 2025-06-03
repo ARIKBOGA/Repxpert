@@ -8,7 +8,7 @@
     "hp": "105",
     "cc": "875",
     "engineCodes": "199 B6.000",
-    "KBA_Numbers": "1727ABF  4136AYJ"
+    "KBA_Numbers": "1727ABF, 4136AYJ"
   },
   {
     "brand": "FIAT",
@@ -19,7 +19,7 @@
     "hp": "86",
     "cc": "875",
     "engineCodes": "312 A2.000",
-    "KBA_Numbers": "1727ABQ  4136BAJ"
+    "KBA_Numbers": "1727ABQ, 4136BAJ"
   },
   {
     "brand": "FIAT",
@@ -40,8 +40,8 @@
     "kw": "70",
     "hp": "95",
     "cc": "1248",
-    "engineCodes": "330 A1.000  552 83 775  463 45 266",
-    "KBA_Numbers": "1727ABN  4136BBY"
+    "engineCodes": "330 A1.000, 552 83 775, 463 45 266",
+    "KBA_Numbers": "1727ABN, 4136BBY"
   },
   {
     "brand": "FIAT",
@@ -52,7 +52,7 @@
     "hp": "84",
     "cc": "1248",
     "engineCodes": "199 B4.000",
-    "KBA_Numbers": "1727ABO  4136AYH"
+    "KBA_Numbers": "1727ABO, 4136AYH"
   },
   {
     "brand": "FIAT",
@@ -63,7 +63,7 @@
     "hp": "95",
     "cc": "1368",
     "engineCodes": "843 A1.000",
-    "KBA_Numbers": "1727ABE  4136AYI"
+    "KBA_Numbers": "1727ABE, 4136AYI"
   },
   {
     "brand": "FIAT",
@@ -74,7 +74,7 @@
     "hp": "105",
     "cc": "1598",
     "engineCodes": "199 B5.000",
-    "KBA_Numbers": "1727ABP  4136BAI"
+    "KBA_Numbers": "1727ABP, 4136BAI"
   },
   {
     "brand": "FIAT",
@@ -95,7 +95,7 @@
     "kw": "70",
     "hp": "95",
     "cc": "1248",
-    "engineCodes": "552 83 775  552 66 963  463 45 266",
+    "engineCodes": "552 83 775, 552 66 963, 463 45 266",
     "KBA_Numbers": "1727AHS"
   },
   {
@@ -150,7 +150,7 @@
     "kw": "88",
     "hp": "120",
     "cc": "1598",
-    "engineCodes": "552 80 444  552 60 384",
+    "engineCodes": "552 80 444, 552 60 384",
     "KBA_Numbers": "1727AHR"
   },
   {
@@ -162,7 +162,7 @@
     "hp": "131",
     "cc": "1598",
     "engineCodes": "463 46 020",
-    "KBA_Numbers": "1727AWE  2424ACP"
+    "KBA_Numbers": "1727AWE, 2424ACP"
   },
   {
     "brand": "FIAT",
@@ -183,19 +183,19 @@
     "kw": "70",
     "hp": "95",
     "cc": "1248",
-    "engineCodes": "552 83 775  552 66 963  463 45 266",
+    "engineCodes": "552 83 775, 552 66 963, 463 45 266",
     "KBA_Numbers": "1727AHS"
   },
   {
     "brand": "FIAT",
     "model": "TIPO Hatchback (356_, 357_) | EGEA",
-    "engineType": "1.4 (356HXA1B)",
+    "engineType": "1.4 (356HXA1B, 357)",
     "madeYear": "from 03.2016",
     "kw": "70",
     "hp": "95",
     "cc": "1368",
     "engineCodes": "843 A1.000",
-    "KBA_Numbers": "1727AHQ  2424ACO"
+    "KBA_Numbers": "1727AHQ, 2424ACO"
   },
   {
     "brand": "FIAT",
@@ -238,7 +238,7 @@
     "kw": "88",
     "hp": "120",
     "cc": "1598",
-    "engineCodes": "552 80 444  552 60 384",
+    "engineCodes": "552 80 444, 552 60 384",
     "KBA_Numbers": "1727AHR"
   },
   {
@@ -250,7 +250,7 @@
     "hp": "131",
     "cc": "1598",
     "engineCodes": "463 46 020",
-    "KBA_Numbers": "1727AWD  2424ACP"
+    "KBA_Numbers": "1727AWD, 2424ACP"
   },
   {
     "brand": "FIAT",
@@ -271,7 +271,7 @@
     "kw": "70",
     "hp": "95",
     "cc": "1248",
-    "engineCodes": "552 83 775  199 B1.000  552 66 963  463 45 266",
+    "engineCodes": "552 83 775, 199 B1.000, 552 66 963, 463 45 266",
     "KBA_Numbers": "1727AFI"
   },
   {
@@ -283,7 +283,7 @@
     "hp": "95",
     "cc": "1368",
     "engineCodes": "843 A1.000",
-    "KBA_Numbers": "1727AFG  2424ACQ"
+    "KBA_Numbers": "1727AFG, 2424ACQ"
   },
   {
     "brand": "FIAT",
@@ -315,7 +315,7 @@
     "kw": "88",
     "hp": "120",
     "cc": "1598",
-    "engineCodes": "552 60 384  940 C1.000",
+    "engineCodes": "552 60 384, 940 C1.000",
     "KBA_Numbers": "1727AFH"
   },
   {

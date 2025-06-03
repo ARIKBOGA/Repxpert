@@ -74,7 +74,7 @@
     "hp": "140",
     "cc": "1995",
     "engineCodes": "VQ20DE",
-    "KBA_Numbers": "9648356  3144045"
+    "KBA_Numbers": "9648356, 3144045"
   },
   {
     "brand": "NISSAN",
@@ -96,7 +96,7 @@
     "hp": "200",
     "cc": "2988",
     "engineCodes": "VQ30DE",
-    "KBA_Numbers": "9648357  3144046"
+    "KBA_Numbers": "9648357, 3144046"
   },
   {
     "brand": "NISSAN",
@@ -107,7 +107,7 @@
     "hp": "109",
     "cc": "1597",
     "engineCodes": "QG16DE",
-    "KBA_Numbers": "3144ADV  9648374  3144011"
+    "KBA_Numbers": "3144ADV, 9648374, 3144011"
   },
   {
     "brand": "NISSAN",
@@ -129,7 +129,7 @@
     "hp": "115",
     "cc": "1769",
     "engineCodes": "QG18DE",
-    "KBA_Numbers": "3144ADW  9648377  3144014"
+    "KBA_Numbers": "3144ADW, 9648377, 3144014"
   },
   {
     "brand": "NISSAN",
@@ -173,7 +173,7 @@
     "hp": "140",
     "cc": "1998",
     "engineCodes": "QR20DE",
-    "KBA_Numbers": "3144ADX  9648383  3144017"
+    "KBA_Numbers": "3144ADX, 9648383, 3144017"
   },
   {
     "brand": "NISSAN",
@@ -206,7 +206,7 @@
     "hp": "109",
     "cc": "1597",
     "engineCodes": "QG16DE",
-    "KBA_Numbers": "3144ADY  9648376  3144013"
+    "KBA_Numbers": "3144ADY, 9648376, 3144013"
   },
   {
     "brand": "NISSAN",
@@ -217,7 +217,7 @@
     "hp": "115",
     "cc": "1769",
     "engineCodes": "QG18DE",
-    "KBA_Numbers": "9648379  3144ADZ  3144016"
+    "KBA_Numbers": "9648379, 3144ADZ, 3144016"
   },
   {
     "brand": "NISSAN",
@@ -250,7 +250,7 @@
     "hp": "140",
     "cc": "1998",
     "engineCodes": "QR20DE",
-    "KBA_Numbers": "9648385  3144AEA  3144019"
+    "KBA_Numbers": "9648385, 3144AEA, 3144019"
   },
   {
     "brand": "NISSAN",
@@ -294,7 +294,7 @@
     "hp": "109",
     "cc": "1597",
     "engineCodes": "QG16DE",
-    "KBA_Numbers": "9648375  3144AEB  3144012"
+    "KBA_Numbers": "9648375, 3144AEB, 3144012"
   },
   {
     "brand": "NISSAN",
@@ -305,7 +305,7 @@
     "hp": "115",
     "cc": "1769",
     "engineCodes": "QG18DE",
-    "KBA_Numbers": "9648378  3144AEC  3144015"
+    "KBA_Numbers": "9648378, 3144AEC, 3144015"
   },
   {
     "brand": "NISSAN",
@@ -338,7 +338,7 @@
     "hp": "140",
     "cc": "1998",
     "engineCodes": "QR20DE",
-    "KBA_Numbers": "9648384  3144AED  3144018"
+    "KBA_Numbers": "9648384, 3144AED, 3144018"
   },
   {
     "brand": "NISSAN",
@@ -382,7 +382,7 @@
     "hp": "140",
     "cc": "1998",
     "engineCodes": "QR20DE",
-    "KBA_Numbers": "3144ABC  3144087"
+    "KBA_Numbers": "3144ABC, 3144087"
   },
   {
     "brand": "NISSAN",
@@ -404,7 +404,7 @@
     "hp": "140",
     "cc": "1998",
     "engineCodes": "QR20DE",
-    "KBA_Numbers": "9648373  3144AAW  3144AAX  3144042"
+    "KBA_Numbers": "9648373, 3144AAW, 3144AAX, 3144042"
   },
   {
     "brand": "NISSAN",
@@ -425,7 +425,7 @@
     "kw": "84",
     "hp": "114",
     "cc": "2184",
-    "engineCodes": "YD22ETI  YD22DDTi",
+    "engineCodes": "YD22ETI, YD22DDTi",
     "KBA_Numbers": ""
   },
   {
@@ -436,8 +436,8 @@
     "kw": "100",
     "hp": "136",
     "cc": "2184",
-    "engineCodes": "YD22ETI  YD22DDTi",
-    "KBA_Numbers": "1329ACY  1329ACZ  3144ABD  3144ABE  3144088"
+    "engineCodes": "YD22ETI, YD22DDTi",
+    "KBA_Numbers": "1329ACY, 1329ACZ, 3144ABD, 3144ABE, 3144088"
   },
   {
     "brand": "NISSAN",
@@ -447,8 +447,8 @@
     "kw": "100",
     "hp": "136",
     "cc": "2184",
-    "engineCodes": "YD22ETI  YD22DDTi",
-    "KBA_Numbers": "1329ACT  1329ACU  3144AAZ  3144AAY  3144077"
+    "engineCodes": "YD22ETI, YD22DDTi",
+    "KBA_Numbers": "1329ACT, 1329ACU, 3144AAZ, 3144AAY, 3144077"
   },
   {
     "brand": "NISSAN",
@@ -469,8 +469,8 @@
     "kw": "84",
     "hp": "114",
     "cc": "2184",
-    "engineCodes": "YD22DDTi  YD22ETI",
-    "KBA_Numbers": "9648372  3144043"
+    "engineCodes": "YD22DDTi, YD22ETI",
+    "KBA_Numbers": "9648372, 3144043"
   },
   {
     "brand": "NISSAN",
@@ -503,6 +503,6 @@
     "hp": "165",
     "cc": "2488",
     "engineCodes": "QR25DE",
-    "KBA_Numbers": "1329ACV  1329ACW  9648405  3144ABA  3144ABB  3144044"
+    "KBA_Numbers": "1329ACV, 1329ACW, 9648405, 3144ABA, 3144ABB, 3144044"
   }
 ]

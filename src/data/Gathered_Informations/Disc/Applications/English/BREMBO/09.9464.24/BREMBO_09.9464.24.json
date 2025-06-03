@@ -7,8 +7,8 @@
     "kw": "62",
     "hp": "84",
     "cc": "1349",
-    "engineCodes": "ZJ07  ZJ30",
-    "KBA_Numbers": "7118281  7118AAZ"
+    "engineCodes": "ZJ07, ZJ30",
+    "KBA_Numbers": "7118281, 7118AAZ"
   },
   {
     "brand": "MAZDA",
@@ -18,8 +18,8 @@
     "kw": "77",
     "hp": "105",
     "cc": "1598",
-    "engineCodes": "Z627  Z601",
-    "KBA_Numbers": "7118278  7118ABB"
+    "engineCodes": "Z627, Z601",
+    "KBA_Numbers": "7118278, 7118ABB"
   },
   {
     "brand": "MAZDA",
@@ -29,8 +29,8 @@
     "kw": "80",
     "hp": "109",
     "cc": "1560",
-    "engineCodes": "Y601  Y642  Y605  Y603",
-    "KBA_Numbers": "7118283  7118ABA"
+    "engineCodes": "Y601, Y642, Y605, Y603",
+    "KBA_Numbers": "7118283, 7118ABA"
   },
   {
     "brand": "MAZDA",
@@ -51,8 +51,8 @@
     "kw": "110",
     "hp": "150",
     "cc": "1999",
-    "engineCodes": "LF72  LFN8  LF50  LFN7  LF-VE  LF-DE",
-    "KBA_Numbers": "7118280  7118AAY"
+    "engineCodes": "LF72, LFN8, LF50, LFN7, LF-VE, LF-DE",
+    "KBA_Numbers": "7118280, 7118AAY"
   },
   {
     "brand": "MAZDA",
@@ -84,7 +84,7 @@
     "kw": "77",
     "hp": "105",
     "cc": "1598",
-    "engineCodes": "Z682  Z668",
+    "engineCodes": "Z682, Z668",
     "KBA_Numbers": "7118ACX"
   },
   {
@@ -95,7 +95,7 @@
     "kw": "85",
     "hp": "116",
     "cc": "1560",
-    "engineCodes": "Y650  Y655",
+    "engineCodes": "Y650, Y655",
     "KBA_Numbers": "7118ADV"
   },
   {
@@ -117,7 +117,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1999",
-    "engineCodes": "LF5H  LF5W",
+    "engineCodes": "LF5H, LF5W",
     "KBA_Numbers": "7118ACV"
   },
   {
@@ -128,7 +128,7 @@
     "kw": "108",
     "hp": "147",
     "cc": "1999",
-    "engineCodes": "LF5W  LF5H",
+    "engineCodes": "LF5W, LF5H",
     "KBA_Numbers": ""
   },
   {
@@ -150,8 +150,8 @@
     "kw": "77",
     "hp": "105",
     "cc": "1598",
-    "engineCodes": "Z601  Z627",
-    "KBA_Numbers": "7118277  7118AAX"
+    "engineCodes": "Z601, Z627",
+    "KBA_Numbers": "7118277, 7118AAX"
   },
   {
     "brand": "MAZDA",
@@ -161,8 +161,8 @@
     "kw": "80",
     "hp": "109",
     "cc": "1560",
-    "engineCodes": "Y601  Y642  Y605  Y603",
-    "KBA_Numbers": "7118282  7118AAW"
+    "engineCodes": "Y601, Y642, Y605, Y603",
+    "KBA_Numbers": "7118282, 7118AAW"
   },
   {
     "brand": "MAZDA",
@@ -172,8 +172,8 @@
     "kw": "110",
     "hp": "150",
     "cc": "1999",
-    "engineCodes": "LF-DE  LF72  LFN7  LF50  LFN8  LF-VE",
-    "KBA_Numbers": "7118279  7118AAV"
+    "engineCodes": "LF-DE, LF72, LFN7, LF50, LFN8, LF-VE",
+    "KBA_Numbers": "7118279, 7118AAV"
   },
   {
     "brand": "MAZDA",
@@ -183,7 +183,7 @@
     "kw": "77",
     "hp": "105",
     "cc": "1598",
-    "engineCodes": "Z682  Z683  Z668",
+    "engineCodes": "Z682, Z683, Z668",
     "KBA_Numbers": "7118ACZ"
   },
   {
@@ -205,7 +205,7 @@
     "kw": "85",
     "hp": "116",
     "cc": "1560",
-    "engineCodes": "Y650  Y655",
+    "engineCodes": "Y650, Y655",
     "KBA_Numbers": "7118ADW"
   },
   {
@@ -216,7 +216,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1999",
-    "engineCodes": "LF5W  LF5H",
+    "engineCodes": "LF5W, LF5H",
     "KBA_Numbers": "7118ACW"
   },
   {
@@ -250,18 +250,18 @@
     "hp": "116",
     "cc": "1798",
     "engineCodes": "L823",
-    "KBA_Numbers": "7118AAR  7118530"
+    "KBA_Numbers": "7118AAR, 7118530"
   },
   {
     "brand": "MAZDA",
     "model": "5 (CR) | PREMACY",
-    "engineType": "2.0 (CREW)",
+    "engineType": "2.0 (CREW, CR19)",
     "madeYear": "02.2005 - 05.2010",
     "kw": "107",
     "hp": "146",
     "cc": "1999",
     "engineCodes": "LFF7",
-    "KBA_Numbers": "7118AAS  7118531"
+    "KBA_Numbers": "7118AAS, 7118531"
   },
   {
     "brand": "MAZDA",
@@ -272,7 +272,7 @@
     "hp": "110",
     "cc": "1998",
     "engineCodes": "RF7J",
-    "KBA_Numbers": "7118AAU  7118528"
+    "KBA_Numbers": "7118AAU, 7118528"
   },
   {
     "brand": "MAZDA",
@@ -283,7 +283,7 @@
     "hp": "143",
     "cc": "1998",
     "engineCodes": "RF7J",
-    "KBA_Numbers": "7118AAT  7118529"
+    "KBA_Numbers": "7118AAT, 7118529"
   },
   {
     "brand": "MAZDA",
@@ -293,7 +293,7 @@
     "kw": "85",
     "hp": "116",
     "cc": "1560",
-    "engineCodes": "Y6Y1  Y650  Y655",
+    "engineCodes": "Y6Y1, Y650, Y655",
     "KBA_Numbers": "7118ADZ"
   },
   {

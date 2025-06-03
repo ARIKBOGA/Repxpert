@@ -18,8 +18,8 @@
     "kw": "66",
     "hp": "90",
     "cc": "1597",
-    "engineCodes": "L1E  L1K",
-    "KBA_Numbers": "8566325  8566313"
+    "engineCodes": "L1E, L1K",
+    "KBA_Numbers": "8566325, 8566313"
   },
   {
     "brand": "FORD",
@@ -29,8 +29,8 @@
     "kw": "66",
     "hp": "90",
     "cc": "1753",
-    "engineCodes": "RFD  RFK  RFS",
-    "KBA_Numbers": "8566328  8566316"
+    "engineCodes": "RFD, RFK, RFS",
+    "KBA_Numbers": "8566328, 8566316"
   },
   {
     "brand": "FORD",
@@ -40,7 +40,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1597",
-    "engineCodes": "L1E  L1K",
+    "engineCodes": "L1E, L1K",
     "KBA_Numbers": "8566331"
   },
   {
@@ -51,7 +51,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1753",
-    "engineCodes": "RFK  RFD  RFS",
+    "engineCodes": "RFK, RFD, RFS",
     "KBA_Numbers": "8566334"
   },
   {
@@ -62,8 +62,8 @@
     "kw": "44",
     "hp": "60",
     "cc": "1299",
-    "engineCodes": "J4B  J6A",
-    "KBA_Numbers": "0928768  7528355"
+    "engineCodes": "J4B, J6A",
+    "KBA_Numbers": "0928768, 7528355"
   },
   {
     "brand": "FORD",
@@ -73,8 +73,8 @@
     "kw": "52",
     "hp": "71",
     "cc": "1392",
-    "engineCodes": "F6G  F6F",
-    "KBA_Numbers": "0928770  7528357"
+    "engineCodes": "F6G, F6F",
+    "KBA_Numbers": "0928770, 7528357"
   },
   {
     "brand": "FORD",
@@ -84,8 +84,8 @@
     "kw": "55",
     "hp": "75",
     "cc": "1392",
-    "engineCodes": "F4B  FUH",
-    "KBA_Numbers": "2028355  7528385  0928852"
+    "engineCodes": "F4B, FUH",
+    "KBA_Numbers": "2028355, 7528385, 0928852"
   },
   {
     "brand": "FORD",
@@ -95,7 +95,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1598",
-    "engineCodes": "LUJ  LUK",
+    "engineCodes": "LUJ, LUK",
     "KBA_Numbers": ""
   },
   {
@@ -107,7 +107,7 @@
     "hp": "105",
     "cc": "1598",
     "engineCodes": "LJF",
-    "KBA_Numbers": "0928772  7528359"
+    "KBA_Numbers": "0928772, 7528359"
   },
   {
     "brand": "FORD",
@@ -118,7 +118,7 @@
     "hp": "90",
     "cc": "1597",
     "engineCodes": "L1E",
-    "KBA_Numbers": "2028343  7528378  0928824"
+    "KBA_Numbers": "2028343, 7528378, 0928824"
   },
   {
     "brand": "FORD",
@@ -129,7 +129,7 @@
     "hp": "88",
     "cc": "1597",
     "engineCodes": "L1H",
-    "KBA_Numbers": "2028363  7528392  0928865"
+    "KBA_Numbers": "2028363, 7528392, 0928865"
   },
   {
     "brand": "FORD",
@@ -140,7 +140,7 @@
     "hp": "105",
     "cc": "1796",
     "engineCodes": "RDA",
-    "KBA_Numbers": "0928808  7528373"
+    "KBA_Numbers": "0928808, 7528373"
   },
   {
     "brand": "FORD",
@@ -150,8 +150,8 @@
     "kw": "44",
     "hp": "60",
     "cc": "1753",
-    "engineCodes": "RTH  RTF  RTE",
-    "KBA_Numbers": "2028331  0928774  7528361"
+    "engineCodes": "RTH, RTF, RTE",
+    "KBA_Numbers": "2028331, 0928774, 7528361"
   },
   {
     "brand": "FORD",
@@ -161,8 +161,8 @@
     "kw": "66",
     "hp": "90",
     "cc": "1753",
-    "engineCodes": "RFS  RFK  RFD",
-    "KBA_Numbers": "2028351  7528381  0928837"
+    "engineCodes": "RFS, RFK, RFD",
+    "KBA_Numbers": "2028351, 7528381, 0928837"
   },
   {
     "brand": "FORD",
@@ -173,7 +173,7 @@
     "hp": "105",
     "cc": "1796",
     "engineCodes": "RDA",
-    "KBA_Numbers": "2028359  7528389  0928861"
+    "KBA_Numbers": "2028359, 7528389, 0928861"
   },
   {
     "brand": "FORD",
@@ -183,7 +183,7 @@
     "kw": "52",
     "hp": "71",
     "cc": "1392",
-    "engineCodes": "F6G  F6F",
+    "engineCodes": "F6G, F6F",
     "KBA_Numbers": "0928805"
   },
   {
@@ -260,7 +260,7 @@
     "kw": "52",
     "hp": "71",
     "cc": "1391",
-    "engineCodes": "F6G  F6F",
+    "engineCodes": "F6G, F6F",
     "KBA_Numbers": "2028193"
   },
   {
@@ -271,7 +271,7 @@
     "kw": "44",
     "hp": "60",
     "cc": "1753",
-    "engineCodes": "RTA  RTE  RTH  RTF",
+    "engineCodes": "RTA, RTE, RTH, RTF",
     "KBA_Numbers": "2028194"
   },
   {
@@ -282,8 +282,8 @@
     "kw": "44",
     "hp": "60",
     "cc": "1299",
-    "engineCodes": "J4B  J6A",
-    "KBA_Numbers": "0928769  2028335  7528356"
+    "engineCodes": "J4B, J6A",
+    "KBA_Numbers": "0928769, 2028335, 7528356"
   },
   {
     "brand": "FORD",
@@ -293,8 +293,8 @@
     "kw": "52",
     "hp": "71",
     "cc": "1392",
-    "engineCodes": "F6G  F6F",
-    "KBA_Numbers": "2028329  0928771  7528358"
+    "engineCodes": "F6G, F6F",
+    "KBA_Numbers": "2028329, 0928771, 7528358"
   },
   {
     "brand": "FORD",
@@ -304,8 +304,8 @@
     "kw": "55",
     "hp": "75",
     "cc": "1392",
-    "engineCodes": "FUH  F4B",
-    "KBA_Numbers": "2028356  7528386  0928853"
+    "engineCodes": "FUH, F4B",
+    "KBA_Numbers": "2028356, 7528386, 0928853"
   },
   {
     "brand": "FORD",
@@ -315,7 +315,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1597",
-    "engineCodes": "L1K  L1E",
+    "engineCodes": "L1K, L1E",
     "KBA_Numbers": "0928825"
   },
   {
@@ -327,7 +327,7 @@
     "hp": "88",
     "cc": "1597",
     "engineCodes": "L1H",
-    "KBA_Numbers": "2028364  7528393  0928866"
+    "KBA_Numbers": "2028364, 7528393, 0928866"
   },
   {
     "brand": "FORD",
@@ -337,8 +337,8 @@
     "kw": "44",
     "hp": "60",
     "cc": "1753",
-    "engineCodes": "RTH  RTF  RTE",
-    "KBA_Numbers": "2028332  0928775  7528362"
+    "engineCodes": "RTH, RTF, RTE",
+    "KBA_Numbers": "2028332, 0928775, 7528362"
   },
   {
     "brand": "FORD",
@@ -349,7 +349,7 @@
     "hp": "105",
     "cc": "1796",
     "engineCodes": "RDA",
-    "KBA_Numbers": "0928809  7528374"
+    "KBA_Numbers": "0928809, 7528374"
   },
   {
     "brand": "FORD",
@@ -359,8 +359,8 @@
     "kw": "66",
     "hp": "90",
     "cc": "1753",
-    "engineCodes": "RFK  RFD",
-    "KBA_Numbers": "2028352  7528382  0928838"
+    "engineCodes": "RFK, RFD",
+    "KBA_Numbers": "2028352, 7528382, 0928838"
   },
   {
     "brand": "FORD",
@@ -370,8 +370,8 @@
     "kw": "44",
     "hp": "60",
     "cc": "1299",
-    "engineCodes": "J4B  J6A",
-    "KBA_Numbers": "0928780  7528363"
+    "engineCodes": "J4B, J6A",
+    "KBA_Numbers": "0928780, 7528363"
   },
   {
     "brand": "FORD",
@@ -381,7 +381,7 @@
     "kw": "52",
     "hp": "71",
     "cc": "1392",
-    "engineCodes": "F6F  F6G",
+    "engineCodes": "F6F, F6G",
     "KBA_Numbers": "0928781"
   },
   {
@@ -392,8 +392,8 @@
     "kw": "55",
     "hp": "75",
     "cc": "1392",
-    "engineCodes": "F4B  FUH",
-    "KBA_Numbers": "2028357  7528387  0928854"
+    "engineCodes": "F4B, FUH",
+    "KBA_Numbers": "2028357, 7528387, 0928854"
   },
   {
     "brand": "FORD",
@@ -403,7 +403,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1598",
-    "engineCodes": "LUK  LUJ",
+    "engineCodes": "LUK, LUJ",
     "KBA_Numbers": ""
   },
   {
@@ -415,7 +415,7 @@
     "hp": "105",
     "cc": "1598",
     "engineCodes": "LJF",
-    "KBA_Numbers": "0928782  7528365"
+    "KBA_Numbers": "0928782, 7528365"
   },
   {
     "brand": "FORD",
@@ -437,7 +437,7 @@
     "hp": "88",
     "cc": "1597",
     "engineCodes": "L1H",
-    "KBA_Numbers": "2028365  7528394  0928867"
+    "KBA_Numbers": "2028365, 7528394, 0928867"
   },
   {
     "brand": "FORD",
@@ -458,8 +458,8 @@
     "kw": "44",
     "hp": "60",
     "cc": "1753",
-    "engineCodes": "RTH  RTF  RTE",
-    "KBA_Numbers": "2028333  0928783  7528366"
+    "engineCodes": "RTH, RTF, RTE",
+    "KBA_Numbers": "2028333, 0928783, 7528366"
   },
   {
     "brand": "FORD",
@@ -470,7 +470,7 @@
     "hp": "130",
     "cc": "1796",
     "engineCodes": "RQB",
-    "KBA_Numbers": "2028354  7528384  0928840"
+    "KBA_Numbers": "2028354, 7528384, 0928840"
   },
   {
     "brand": "FORD",
@@ -480,8 +480,8 @@
     "kw": "66",
     "hp": "90",
     "cc": "1753",
-    "engineCodes": "RFS  RFK  RFD",
-    "KBA_Numbers": "2028353  7528383  0928839"
+    "engineCodes": "RFS, RFK, RFD",
+    "KBA_Numbers": "2028353, 7528383, 0928839"
   },
   {
     "brand": "FORD",
@@ -491,8 +491,8 @@
     "kw": "44",
     "hp": "60",
     "cc": "1299",
-    "engineCodes": "J4B  J6A",
-    "KBA_Numbers": "0928768  2028334  8566323  8566311"
+    "engineCodes": "J4B, J6A",
+    "KBA_Numbers": "0928768, 2028334, 8566323, 8566311"
   },
   {
     "brand": "FORD",
@@ -513,8 +513,8 @@
     "kw": "55",
     "hp": "75",
     "cc": "1392",
-    "engineCodes": "F4B  FUH",
-    "KBA_Numbers": "2028355  8566324  8566312  7528385  0928852"
+    "engineCodes": "F4B, FUH",
+    "KBA_Numbers": "2028355, 8566324, 8566312, 7528385, 0928852"
   },
   {
     "brand": "FORD",
@@ -524,8 +524,8 @@
     "kw": "66",
     "hp": "90",
     "cc": "1597",
-    "engineCodes": "L1E  L1K",
-    "KBA_Numbers": "2028343  8566325  8566313  7528378  0928824"
+    "engineCodes": "L1E, L1K",
+    "KBA_Numbers": "2028343, 8566325, 8566313, 7528378, 0928824"
   },
   {
     "brand": "FORD",
@@ -536,7 +536,7 @@
     "hp": "90",
     "cc": "1597",
     "engineCodes": "L1E",
-    "KBA_Numbers": "2028368  7528395  0928907"
+    "KBA_Numbers": "2028368, 7528395, 0928907"
   },
   {
     "brand": "FORD",
@@ -547,7 +547,7 @@
     "hp": "88",
     "cc": "1597",
     "engineCodes": "L1H",
-    "KBA_Numbers": "2028363  7528392  0928865"
+    "KBA_Numbers": "2028363, 7528392, 0928865"
   },
   {
     "brand": "FORD",
@@ -558,7 +558,7 @@
     "hp": "105",
     "cc": "1796",
     "engineCodes": "RDA",
-    "KBA_Numbers": "0928808  2028338  7528373"
+    "KBA_Numbers": "0928808, 2028338, 7528373"
   },
   {
     "brand": "FORD",
@@ -569,7 +569,7 @@
     "hp": "115",
     "cc": "1796",
     "engineCodes": "RKC",
-    "KBA_Numbers": "2028372  8566326  8566314  7528399  0928921"
+    "KBA_Numbers": "2028372, 8566326, 8566314, 7528399, 0928921"
   },
   {
     "brand": "FORD",
@@ -579,8 +579,8 @@
     "kw": "44",
     "hp": "60",
     "cc": "1753",
-    "engineCodes": "RTH  RTF  RTE",
-    "KBA_Numbers": "2028331  0928774  7528361"
+    "engineCodes": "RTH, RTF, RTE",
+    "KBA_Numbers": "2028331, 0928774, 7528361"
   },
   {
     "brand": "FORD",
@@ -590,8 +590,8 @@
     "kw": "66",
     "hp": "90",
     "cc": "1753",
-    "engineCodes": "RFK  RFD  RFS",
-    "KBA_Numbers": "2028351  8566328  8566316  7528381  0928837"
+    "engineCodes": "RFK, RFD, RFS",
+    "KBA_Numbers": "2028351, 8566328, 8566316, 7528381, 0928837"
   },
   {
     "brand": "FORD",
@@ -602,7 +602,7 @@
     "hp": "70",
     "cc": "1753",
     "engineCodes": "RVA",
-    "KBA_Numbers": "2028369  8566327  8566315  7528396  0928918"
+    "KBA_Numbers": "2028369, 8566327, 8566315, 7528396, 0928918"
   },
   {
     "brand": "FORD",
@@ -634,7 +634,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1597",
-    "engineCodes": "L1E  L1K",
+    "engineCodes": "L1E, L1K",
     "KBA_Numbers": "0928845"
   },
   {
@@ -667,7 +667,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1753",
-    "engineCodes": "RFK  RFD  RFS",
+    "engineCodes": "RFK, RFD, RFS",
     "KBA_Numbers": "0928917"
   },
   {
@@ -701,7 +701,7 @@
     "hp": "73",
     "cc": "1392",
     "engineCodes": "F4B",
-    "KBA_Numbers": "2028198  2028507  8566002"
+    "KBA_Numbers": "2028198, 2028507, 8566002"
   },
   {
     "brand": "FORD",
@@ -711,8 +711,8 @@
     "kw": "44",
     "hp": "60",
     "cc": "1753",
-    "engineCodes": "RTH  RTF  RTE",
-    "KBA_Numbers": "2028194  8566001"
+    "engineCodes": "RTH, RTF, RTE",
+    "KBA_Numbers": "2028194, 8566001"
   },
   {
     "brand": "FORD",
@@ -722,7 +722,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1753",
-    "engineCodes": "RFS  RFD  RFK",
+    "engineCodes": "RFS, RFD, RFK",
     "KBA_Numbers": ""
   },
   {
@@ -744,8 +744,8 @@
     "kw": "44",
     "hp": "60",
     "cc": "1299",
-    "engineCodes": "J6A  J4B",
-    "KBA_Numbers": "0928769  2028335  7528356"
+    "engineCodes": "J6A, J4B",
+    "KBA_Numbers": "0928769, 2028335, 7528356"
   },
   {
     "brand": "FORD",
@@ -766,8 +766,8 @@
     "kw": "55",
     "hp": "75",
     "cc": "1392",
-    "engineCodes": "F4B  FUH",
-    "KBA_Numbers": "2028356  8566318  7528386  0928853"
+    "engineCodes": "F4B, FUH",
+    "KBA_Numbers": "2028356, 8566318, 7528386, 0928853"
   },
   {
     "brand": "FORD",
@@ -778,7 +778,7 @@
     "hp": "88",
     "cc": "1597",
     "engineCodes": "L1H",
-    "KBA_Numbers": "2028364  7528393  0928866"
+    "KBA_Numbers": "2028364, 7528393, 0928866"
   },
   {
     "brand": "FORD",
@@ -788,8 +788,8 @@
     "kw": "66",
     "hp": "90",
     "cc": "1597",
-    "engineCodes": "L1E  L1K",
-    "KBA_Numbers": "8566319  0928825"
+    "engineCodes": "L1E, L1K",
+    "KBA_Numbers": "8566319, 0928825"
   },
   {
     "brand": "FORD",
@@ -800,7 +800,7 @@
     "hp": "105",
     "cc": "1796",
     "engineCodes": "RDA",
-    "KBA_Numbers": "0928809  2028339  7528374"
+    "KBA_Numbers": "0928809, 2028339, 7528374"
   },
   {
     "brand": "FORD",
@@ -811,7 +811,7 @@
     "hp": "115",
     "cc": "1796",
     "engineCodes": "RKC",
-    "KBA_Numbers": "2028373  8566320  7528400  0928922"
+    "KBA_Numbers": "2028373, 8566320, 7528400, 0928922"
   },
   {
     "brand": "FORD",
@@ -821,8 +821,8 @@
     "kw": "44",
     "hp": "60",
     "cc": "1753",
-    "engineCodes": "RTH  RTF  RTE",
-    "KBA_Numbers": "2028332  0928775  7528362"
+    "engineCodes": "RTH, RTF, RTE",
+    "KBA_Numbers": "2028332, 0928775, 7528362"
   },
   {
     "brand": "FORD",
@@ -832,7 +832,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1753",
-    "engineCodes": "RFK  RFD  RFS",
+    "engineCodes": "RFK, RFD, RFS",
     "KBA_Numbers": "8566322"
   },
   {
@@ -844,7 +844,7 @@
     "hp": "70",
     "cc": "1753",
     "engineCodes": "RVA",
-    "KBA_Numbers": "2028370  8566321  7528397  0928919"
+    "KBA_Numbers": "2028370, 8566321, 7528397, 0928919"
   },
   {
     "brand": "FORD",
@@ -854,8 +854,8 @@
     "kw": "44",
     "hp": "60",
     "cc": "1299",
-    "engineCodes": "J4B  J6A",
-    "KBA_Numbers": "0928780  2028336  8566329  7528363"
+    "engineCodes": "J4B, J6A",
+    "KBA_Numbers": "0928780, 2028336, 8566329, 7528363"
   },
   {
     "brand": "FORD",
@@ -876,8 +876,8 @@
     "kw": "55",
     "hp": "75",
     "cc": "1392",
-    "engineCodes": "F4B  FUH",
-    "KBA_Numbers": "2028357  8566330  7528387  0928854"
+    "engineCodes": "F4B, FUH",
+    "KBA_Numbers": "2028357, 8566330, 7528387, 0928854"
   },
   {
     "brand": "FORD",
@@ -887,8 +887,8 @@
     "kw": "66",
     "hp": "90",
     "cc": "1597",
-    "engineCodes": "L1E  L1K",
-    "KBA_Numbers": "2028345  8566331  7528380  0928826"
+    "engineCodes": "L1E, L1K",
+    "KBA_Numbers": "2028345, 8566331, 7528380, 0928826"
   },
   {
     "brand": "FORD",
@@ -899,7 +899,7 @@
     "hp": "88",
     "cc": "1597",
     "engineCodes": "L1H",
-    "KBA_Numbers": "2028365  7528394  0928867"
+    "KBA_Numbers": "2028365, 7528394, 0928867"
   },
   {
     "brand": "FORD",
@@ -910,7 +910,7 @@
     "hp": "105",
     "cc": "1796",
     "engineCodes": "RDA",
-    "KBA_Numbers": "0928810  2028340  7528375"
+    "KBA_Numbers": "0928810, 2028340, 7528375"
   },
   {
     "brand": "FORD",
@@ -921,7 +921,7 @@
     "hp": "115",
     "cc": "1796",
     "engineCodes": "RKC",
-    "KBA_Numbers": "2028374  8566332  7528401  0928923"
+    "KBA_Numbers": "2028374, 8566332, 7528401, 0928923"
   },
   {
     "brand": "FORD",
@@ -931,8 +931,8 @@
     "kw": "44",
     "hp": "60",
     "cc": "1753",
-    "engineCodes": "RTH  RTF  RTE",
-    "KBA_Numbers": "0928783  2028333  7528366"
+    "engineCodes": "RTH, RTF, RTE",
+    "KBA_Numbers": "0928783, 2028333, 7528366"
   },
   {
     "brand": "FORD",
@@ -942,8 +942,8 @@
     "kw": "66",
     "hp": "90",
     "cc": "1753",
-    "engineCodes": "RFD  RFK  RFS",
-    "KBA_Numbers": "2028353  8566334  7528383  0928839"
+    "engineCodes": "RFD, RFK, RFS",
+    "KBA_Numbers": "2028353, 8566334, 7528383, 0928839"
   },
   {
     "brand": "FORD",
@@ -954,7 +954,7 @@
     "hp": "70",
     "cc": "1753",
     "engineCodes": "RVA",
-    "KBA_Numbers": "2028371  8566333  7528398  0928920"
+    "KBA_Numbers": "2028371, 8566333, 7528398, 0928920"
   },
   {
     "brand": "FORD",
@@ -965,7 +965,7 @@
     "hp": "60",
     "cc": "1299",
     "engineCodes": "J6B",
-    "KBA_Numbers": "2028319  2028197"
+    "KBA_Numbers": "2028319, 2028197"
   },
   {
     "brand": "FORD",
@@ -975,8 +975,8 @@
     "kw": "44",
     "hp": "60",
     "cc": "1753",
-    "engineCodes": "RTD  RTG  RTC",
-    "KBA_Numbers": "2028318  2028196"
+    "engineCodes": "RTD, RTG, RTC",
+    "KBA_Numbers": "2028318, 2028196"
   },
   {
     "brand": "FORD",
@@ -986,8 +986,8 @@
     "kw": "44",
     "hp": "60",
     "cc": "1299",
-    "engineCodes": "J4C  J4T  J4J  J4R  J4L  J4Q",
-    "KBA_Numbers": "0928262  0928948"
+    "engineCodes": "J4C, J4T, J4J, J4R, J4L, J4Q",
+    "KBA_Numbers": "0928262, 0928948"
   },
   {
     "brand": "FORD",
@@ -1008,8 +1008,8 @@
     "kw": "44",
     "hp": "60",
     "cc": "1753",
-    "engineCodes": "RTK  RTJ",
-    "KBA_Numbers": "0928261  0928949"
+    "engineCodes": "RTK, RTJ",
+    "KBA_Numbers": "0928261, 0928949"
   },
   {
     "brand": "FORD",
@@ -1019,7 +1019,7 @@
     "kw": "55",
     "hp": "75",
     "cc": "1753",
-    "engineCodes": "RTP  RTN",
+    "engineCodes": "RTP, RTN",
     "KBA_Numbers": "8566034"
   },
   {
@@ -1052,7 +1052,7 @@
     "kw": "44",
     "hp": "60",
     "cc": "1753",
-    "engineCodes": "RTC  RTG  RTD",
+    "engineCodes": "RTC, RTG, RTD",
     "KBA_Numbers": "0928251"
   },
   {
@@ -1074,7 +1074,7 @@
     "kw": "44",
     "hp": "60",
     "cc": "1753",
-    "engineCodes": "RTJ  RTK",
+    "engineCodes": "RTJ, RTK",
     "KBA_Numbers": "0928260"
   },
   {
@@ -1085,7 +1085,7 @@
     "kw": "55",
     "hp": "75",
     "cc": "1753",
-    "engineCodes": "RTQ  RTP  RTN",
+    "engineCodes": "RTQ, RTP, RTN",
     "KBA_Numbers": ""
   },
   {
@@ -1108,7 +1108,7 @@
     "hp": "50",
     "cc": "1119",
     "engineCodes": "G6A",
-    "KBA_Numbers": "2028321  0928712  0928785  7528368  7528345"
+    "KBA_Numbers": "2028321, 0928712, 0928785, 7528368, 7528345"
   },
   {
     "brand": "FORD",
@@ -1118,8 +1118,8 @@
     "kw": "40",
     "hp": "55",
     "cc": "1119",
-    "engineCodes": "GUE  GUD",
-    "KBA_Numbers": "2028320  0928711  0928784  7528367  7528344"
+    "engineCodes": "GUE, GUD",
+    "KBA_Numbers": "2028320, 0928711, 0928784, 7528367, 7528344"
   },
   {
     "brand": "FORD",
@@ -1130,7 +1130,7 @@
     "hp": "60",
     "cc": "1299",
     "engineCodes": "JBC",
-    "KBA_Numbers": "2028325  0928788  7528369"
+    "KBA_Numbers": "2028325, 0928788, 7528369"
   },
   {
     "brand": "FORD",
@@ -1140,7 +1140,7 @@
     "kw": "44",
     "hp": "60",
     "cc": "1299",
-    "engineCodes": "JBC  JBB",
+    "engineCodes": "JBC, JBB",
     "KBA_Numbers": ""
   },
   {
@@ -1152,7 +1152,7 @@
     "hp": "60",
     "cc": "1299",
     "engineCodes": "J6B",
-    "KBA_Numbers": "2028325  0928788  7528369"
+    "KBA_Numbers": "2028325, 0928788, 7528369"
   },
   {
     "brand": "FORD",
@@ -1163,7 +1163,7 @@
     "hp": "71",
     "cc": "1391",
     "engineCodes": "F6E",
-    "KBA_Numbers": "2028324  0928716  7528349"
+    "KBA_Numbers": "2028324, 0928716, 7528349"
   },
   {
     "brand": "FORD",
@@ -1173,8 +1173,8 @@
     "kw": "54",
     "hp": "73",
     "cc": "1392",
-    "engineCodes": "FUJ  FUG  F4A",
-    "KBA_Numbers": "0928713  2028361  7528346"
+    "engineCodes": "FUJ, FUG, F4A",
+    "KBA_Numbers": "0928713, 2028361, 7528346"
   },
   {
     "brand": "FORD",
@@ -1196,7 +1196,7 @@
     "hp": "88",
     "cc": "1597",
     "engineCodes": "LUH",
-    "KBA_Numbers": "2028362  7528391  0928864"
+    "KBA_Numbers": "2028362, 7528391, 0928864"
   },
   {
     "brand": "FORD",
@@ -1218,7 +1218,7 @@
     "hp": "88",
     "cc": "1597",
     "engineCodes": "L1G",
-    "KBA_Numbers": "2028362  7528391  0928864"
+    "KBA_Numbers": "2028362, 7528391, 0928864"
   },
   {
     "brand": "FORD",
@@ -1240,7 +1240,7 @@
     "hp": "103",
     "cc": "1598",
     "engineCodes": "LJD",
-    "KBA_Numbers": "2028323  0928715  7528348"
+    "KBA_Numbers": "2028323, 0928715, 7528348"
   },
   {
     "brand": "FORD",
@@ -1262,7 +1262,7 @@
     "hp": "105",
     "cc": "1796",
     "engineCodes": "RDB",
-    "KBA_Numbers": "2028326  0928806  7528371"
+    "KBA_Numbers": "2028326, 0928806, 7528371"
   },
   {
     "brand": "FORD",
@@ -1272,8 +1272,8 @@
     "kw": "44",
     "hp": "60",
     "cc": "1753",
-    "engineCodes": "RTC  RTG  RTD",
-    "KBA_Numbers": "2028322  0928714  7528347"
+    "engineCodes": "RTC, RTG, RTD",
+    "KBA_Numbers": "2028322, 0928714, 7528347"
   },
   {
     "brand": "FORD",
@@ -1295,7 +1295,7 @@
     "hp": "130",
     "cc": "1796",
     "engineCodes": "RQC",
-    "KBA_Numbers": "2028327  0928807  7528372"
+    "KBA_Numbers": "2028327, 0928807, 7528372"
   },
   {
     "brand": "FORD",
@@ -1327,8 +1327,8 @@
     "kw": "55",
     "hp": "75",
     "cc": "1242",
-    "engineCodes": "DHB  DHA  DHG  DHE  DHF  DHD  DHC",
-    "KBA_Numbers": "0928930  0928934"
+    "engineCodes": "DHB, DHA, DHG, DHE, DHF, DHD, DHC",
+    "KBA_Numbers": "0928930, 0928934"
   },
   {
     "brand": "FORD",
@@ -1338,8 +1338,8 @@
     "kw": "37",
     "hp": "50",
     "cc": "1299",
-    "engineCodes": "JJC  JJA  JJM  JJK  JJJ  JJE",
-    "KBA_Numbers": "0928928  0928932"
+    "engineCodes": "JJC, JJA, JJM, JJK, JJJ, JJE",
+    "KBA_Numbers": "0928928, 0928932"
   },
   {
     "brand": "FORD",
@@ -1349,8 +1349,8 @@
     "kw": "44",
     "hp": "60",
     "cc": "1299",
-    "engineCodes": "J4C  J4J  J4T  J4R  J4Q  J4L  JBC",
-    "KBA_Numbers": "0928929  0928933"
+    "engineCodes": "J4C, J4J, J4T, J4R, J4Q, J4L, JBC",
+    "KBA_Numbers": "0928929, 0928933"
   },
   {
     "brand": "FORD",
@@ -1360,8 +1360,8 @@
     "kw": "66",
     "hp": "90",
     "cc": "1388",
-    "engineCodes": "FHA  FHE",
-    "KBA_Numbers": "0928956  0928954"
+    "engineCodes": "FHA, FHE",
+    "KBA_Numbers": "0928956, 0928954"
   },
   {
     "brand": "FORD",
@@ -1371,8 +1371,8 @@
     "kw": "76",
     "hp": "103",
     "cc": "1596",
-    "engineCodes": "L1V  L1T",
-    "KBA_Numbers": "8566455  8566396"
+    "engineCodes": "L1V, L1T",
+    "KBA_Numbers": "8566455, 8566396"
   },
   {
     "brand": "FORD",
@@ -1382,8 +1382,8 @@
     "kw": "44",
     "hp": "60",
     "cc": "1753",
-    "engineCodes": "RTK  RTJ",
-    "KBA_Numbers": "0928931  0928935"
+    "engineCodes": "RTK, RTJ",
+    "KBA_Numbers": "0928931, 0928935"
   },
   {
     "brand": "FORD",
@@ -1393,8 +1393,8 @@
     "kw": "55",
     "hp": "75",
     "cc": "1753",
-    "engineCodes": "RTQ  RTP  RTN",
-    "KBA_Numbers": "8566394  8566395"
+    "engineCodes": "RTQ, RTP, RTN",
+    "KBA_Numbers": "8566394, 8566395"
   },
   {
     "brand": "FORD",
@@ -1415,8 +1415,8 @@
     "kw": "44",
     "hp": "60",
     "cc": "1299",
-    "engineCodes": "J4D  J4S  J4K  J4P  J4N  J4M  BAA",
-    "KBA_Numbers": "8566521  8566ACG  0928966"
+    "engineCodes": "J4D, J4S, J4K, J4P, J4N, J4M, BAA",
+    "KBA_Numbers": "8566521, 8566ACG, 0928966"
   },
   {
     "brand": "FORD",
@@ -1426,7 +1426,7 @@
     "kw": "36",
     "hp": "49",
     "cc": "1299",
-    "engineCodes": "JJL  JJD  JJH  JJG  JJF",
+    "engineCodes": "JJL, JJD, JJH, JJG, JJF",
     "KBA_Numbers": "8566353"
   },
   {
@@ -1437,8 +1437,8 @@
     "kw": "51",
     "hp": "70",
     "cc": "1299",
-    "engineCodes": "A9B  A9A",
-    "KBA_Numbers": "8566522  8566ACF"
+    "engineCodes": "A9B, A9A",
+    "KBA_Numbers": "8566522, 8566ACF"
   },
   {
     "brand": "FORD",
@@ -1448,8 +1448,8 @@
     "kw": "70",
     "hp": "95",
     "cc": "1597",
-    "engineCodes": "CDC  CDB",
-    "KBA_Numbers": "8566ACH  8566536"
+    "engineCodes": "CDC, CDB",
+    "KBA_Numbers": "8566ACH, 8566536"
   },
   {
     "brand": "FORD",
@@ -1470,7 +1470,7 @@
     "kw": "51",
     "hp": "70",
     "cc": "1299",
-    "engineCodes": "A9B  A9A",
+    "engineCodes": "A9B, A9A",
     "KBA_Numbers": ""
   },
   {
@@ -1481,7 +1481,7 @@
     "kw": "44",
     "hp": "60",
     "cc": "1299",
-    "engineCodes": "J4K  J4D  J4S  J4P  J4N  J4M  BAA",
+    "engineCodes": "J4K, J4D, J4S, J4P, J4N, J4M, BAA",
     "KBA_Numbers": ""
   },
   {
@@ -1492,8 +1492,8 @@
     "kw": "44",
     "hp": "60",
     "cc": "1299",
-    "engineCodes": "J4B  J6A",
-    "KBA_Numbers": "0928769  7528356"
+    "engineCodes": "J4B, J6A",
+    "KBA_Numbers": "0928769, 7528356"
   },
   {
     "brand": "FORD",
@@ -1503,8 +1503,8 @@
     "kw": "52",
     "hp": "71",
     "cc": "1391",
-    "engineCodes": "F6F  F6G",
-    "KBA_Numbers": "0928771  7528358"
+    "engineCodes": "F6F, F6G",
+    "KBA_Numbers": "0928771, 7528358"
   },
   {
     "brand": "FORD",
@@ -1525,7 +1525,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1598",
-    "engineCodes": "LUK  LUJ",
+    "engineCodes": "LUK, LUJ",
     "KBA_Numbers": ""
   },
   {
@@ -1537,7 +1537,7 @@
     "hp": "105",
     "cc": "1598",
     "engineCodes": "LJF",
-    "KBA_Numbers": "0928773  7528360"
+    "KBA_Numbers": "0928773, 7528360"
   },
   {
     "brand": "FORD",
@@ -1548,7 +1548,7 @@
     "hp": "90",
     "cc": "1597",
     "engineCodes": "L1E",
-    "KBA_Numbers": "2028344  7528379  0928825"
+    "KBA_Numbers": "2028344, 7528379, 0928825"
   },
   {
     "brand": "FORD",
@@ -1558,8 +1558,8 @@
     "kw": "44",
     "hp": "60",
     "cc": "1753",
-    "engineCodes": "RTH  RTF  RTE",
-    "KBA_Numbers": "2028332  0928775  7528362"
+    "engineCodes": "RTH, RTF, RTE",
+    "KBA_Numbers": "2028332, 0928775, 7528362"
   },
   {
     "brand": "FORD",
@@ -1570,7 +1570,7 @@
     "hp": "130",
     "cc": "1796",
     "engineCodes": "RQB",
-    "KBA_Numbers": "0928812  7528377"
+    "KBA_Numbers": "0928812, 7528377"
   },
   {
     "brand": "FORD",
@@ -1581,7 +1581,7 @@
     "hp": "105",
     "cc": "1796",
     "engineCodes": "RDA",
-    "KBA_Numbers": "0928809  7528374"
+    "KBA_Numbers": "0928809, 7528374"
   },
   {
     "brand": "FORD",
@@ -1591,8 +1591,8 @@
     "kw": "66",
     "hp": "90",
     "cc": "1753",
-    "engineCodes": "RFD  RFK",
-    "KBA_Numbers": "2028352  7528382  0928838"
+    "engineCodes": "RFD, RFK",
+    "KBA_Numbers": "2028352, 7528382, 0928838"
   },
   {
     "brand": "FORD",
@@ -1602,7 +1602,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1388",
-    "engineCodes": "FHD  FHF",
+    "engineCodes": "FHD, FHF",
     "KBA_Numbers": "8566340"
   },
   {
@@ -1624,7 +1624,7 @@
     "kw": "92",
     "hp": "125",
     "cc": "1679",
-    "engineCodes": "MHB  MHA",
+    "engineCodes": "MHB, MHA",
     "KBA_Numbers": "8566310"
   },
   {
@@ -1657,8 +1657,8 @@
     "kw": "55",
     "hp": "75",
     "cc": "1242",
-    "engineCodes": "1E06(DHA)  1E06(DHB)  1E05(DHB)  1E05(DHF)  1E05(DHA)  1E06(DHF)",
-    "KBA_Numbers": "5003302  5003306"
+    "engineCodes": "1E06(DHA), 1E06(DHB), 1E05(DHB), 1E05(DHF), 1E05(DHA), 1E06(DHF)",
+    "KBA_Numbers": "5003302, 5003306"
   },
   {
     "brand": "MAZDA",
@@ -1668,8 +1668,8 @@
     "kw": "37",
     "hp": "50",
     "cc": "1299",
-    "engineCodes": "1E04(JJA)  1E09(JJC)  1E04(JJM)  1E13(JJM)  1E13(JJA)  1E09(JJA)  1E04(JJC)  1E13(JJC)  1E09(JJM)",
-    "KBA_Numbers": "5003300  5003304"
+    "engineCodes": "1E04(JJA), 1E09(JJC), 1E04(JJM), 1E13(JJM), 1E13(JJA), 1E09(JJA), 1E04(JJC), 1E13(JJC), 1E09(JJM)",
+    "KBA_Numbers": "5003300, 5003304"
   },
   {
     "brand": "MAZDA",
@@ -1679,8 +1679,8 @@
     "kw": "44",
     "hp": "60",
     "cc": "1299",
-    "engineCodes": "1E09(J4C)  1E04(J4J)  1E04(J4C)  1E13(J4C)  1E13(J4J)  1E09(J4J)",
-    "KBA_Numbers": "5003301  5003305"
+    "engineCodes": "1E09(J4C), 1E04(J4J), 1E04(J4C), 1E13(J4C), 1E13(J4J), 1E09(J4J)",
+    "KBA_Numbers": "5003301, 5003305"
   },
   {
     "brand": "MAZDA",
@@ -1690,7 +1690,7 @@
     "kw": "44",
     "hp": "60",
     "cc": "1753",
-    "engineCodes": "1E12(RTJ)  1E07(RTJ)  1E12(RTK)  1E16(RTK)  1E16(RTJ)  1E07(RTK)",
-    "KBA_Numbers": "5003303  5003307"
+    "engineCodes": "1E12(RTJ), 1E07(RTJ), 1E12(RTK), 1E16(RTK), 1E16(RTJ), 1E07(RTK)",
+    "KBA_Numbers": "5003303, 5003307"
   }
 ]

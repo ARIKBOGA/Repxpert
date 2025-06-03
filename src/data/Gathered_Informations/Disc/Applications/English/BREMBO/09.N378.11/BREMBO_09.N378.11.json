@@ -7,7 +7,7 @@
     "kw": "92",
     "hp": "125",
     "cc": "999",
-    "engineCodes": "B7DA  R0DB  B7DC",
+    "engineCodes": "B7DA, R0DB, B7DC",
     "KBA_Numbers": "8566BUB"
   },
   {
@@ -29,7 +29,7 @@
     "kw": "92",
     "hp": "125",
     "cc": "999",
-    "engineCodes": "B7DA  R0DB",
+    "engineCodes": "B7DA, R0DB",
     "KBA_Numbers": ""
   },
   {
@@ -51,8 +51,8 @@
     "kw": "88",
     "hp": "120",
     "cc": "1499",
-    "engineCodes": "ZTDB  ZTDA",
-    "KBA_Numbers": "8566BPT  8566BPU"
+    "engineCodes": "ZTDB, ZTDA",
+    "KBA_Numbers": "8566BPT, 8566BPU"
   },
   {
     "brand": "FORD",
@@ -74,7 +74,7 @@
     "hp": "182",
     "cc": "1496",
     "engineCodes": "Y1DA",
-    "KBA_Numbers": "8566BQF  8566BQG"
+    "KBA_Numbers": "8566BQF, 8566BQG"
   },
   {
     "brand": "FORD",
@@ -115,7 +115,7 @@
     "engineType": "1.0 EcoBoost",
     "madeYear": "from 09.2018",
     "kw": "74",
-    "hp": "100",
+    "hp": "101",
     "cc": "999",
     "engineCodes": "B3DA",
     "KBA_Numbers": "8566BPB"
@@ -139,7 +139,7 @@
     "kw": "92",
     "hp": "125",
     "cc": "999",
-    "engineCodes": "B7DA  R0DB  B7DC",
+    "engineCodes": "B7DA, R0DB, B7DC",
     "KBA_Numbers": "8566BUC"
   },
   {
@@ -172,7 +172,7 @@
     "kw": "88",
     "hp": "120",
     "cc": "1499",
-    "engineCodes": "ZTDA  ZTDB",
+    "engineCodes": "ZTDA, ZTDB",
     "KBA_Numbers": "8566BPV"
   },
   {
@@ -249,7 +249,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1496",
-    "engineCodes": "YZDB  YZDA",
+    "engineCodes": "YZDB, YZDA",
     "KBA_Numbers": "8566BTI"
   },
   {
@@ -304,8 +304,8 @@
     "kw": "132",
     "hp": "179",
     "cc": "2488",
-    "engineCodes": "8566CBK",
-    "KBA_Numbers": ""
+    "engineCodes": "",
+    "KBA_Numbers": "8566CBK"
   },
   {
     "brand": "FORD",
@@ -315,8 +315,8 @@
     "kw": "134",
     "hp": "182",
     "cc": "2488",
-    "engineCodes": "8566CBL",
-    "KBA_Numbers": ""
+    "engineCodes": "",
+    "KBA_Numbers": "8566CBL"
   },
   {
     "brand": "FORD",
@@ -326,8 +326,8 @@
     "kw": "178",
     "hp": "242",
     "cc": "2488",
-    "engineCodes": "8566CBJ",
-    "KBA_Numbers": ""
+    "engineCodes": "",
+    "KBA_Numbers": "8566CBJ"
   },
   {
     "brand": "FORD",
@@ -338,7 +338,7 @@
     "hp": "224",
     "cc": "2488",
     "engineCodes": "BGDA",
-    "KBA_Numbers": "8566BTM  8566BVG"
+    "KBA_Numbers": "8566BTM, 8566BVG"
   },
   {
     "brand": "FORD",

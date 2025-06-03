@@ -19,7 +19,7 @@
     "hp": "135",
     "cc": "2351",
     "engineCodes": "G4JS",
-    "KBA_Numbers": "5984001  5984002  8252008"
+    "KBA_Numbers": "5984001, 5984002, 8252008"
   },
   {
     "brand": "HYUNDAI",
@@ -30,7 +30,7 @@
     "hp": "140",
     "cc": "2497",
     "engineCodes": "D4CB",
-    "KBA_Numbers": "5984005  5984AAD  8252ABV  8252444"
+    "KBA_Numbers": "5984005, 5984AAD, 8252ABV, 8252444"
   },
   {
     "brand": "HYUNDAI",
@@ -52,7 +52,7 @@
     "hp": "110",
     "cc": "2497",
     "engineCodes": "D4CB",
-    "KBA_Numbers": "5984AAE  8252ACC"
+    "KBA_Numbers": "5984AAE, 8252ACC"
   },
   {
     "brand": "HYUNDAI",
@@ -62,7 +62,7 @@
     "kw": "57",
     "hp": "78",
     "cc": "2476",
-    "engineCodes": "D4BF  D4BH",
+    "engineCodes": "D4BF, D4BH",
     "KBA_Numbers": ""
   },
   {
@@ -140,7 +140,7 @@
     "hp": "140",
     "cc": "2497",
     "engineCodes": "D4CB",
-    "KBA_Numbers": "5984007  5984AAF"
+    "KBA_Numbers": "5984007, 5984AAF"
   },
   {
     "brand": "HYUNDAI",
@@ -173,6 +173,6 @@
     "hp": "101",
     "cc": "2476",
     "engineCodes": "D4BH",
-    "KBA_Numbers": "5984008  8252009"
+    "KBA_Numbers": "5984008, 8252009"
   }
 ]

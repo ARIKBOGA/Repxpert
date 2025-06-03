@@ -8,7 +8,7 @@
     "hp": "126",
     "cc": "988",
     "engineCodes": "P10A2",
-    "KBA_Numbers": "7100AEB  7100AEI"
+    "KBA_Numbers": "7100AEB, 7100AEI"
   },
   {
     "brand": "HONDA",
@@ -30,7 +30,7 @@
     "hp": "182",
     "cc": "1498",
     "engineCodes": "L15B7",
-    "KBA_Numbers": "7100ADG  7100AEJ"
+    "KBA_Numbers": "7100ADG, 7100AEJ"
   },
   {
     "brand": "HONDA",
@@ -41,7 +41,7 @@
     "hp": "120",
     "cc": "1597",
     "engineCodes": "N16A1",
-    "KBA_Numbers": "7100ADT  7100AEM"
+    "KBA_Numbers": "7100ADT, 7100AEM"
   },
   {
     "brand": "HONDA",
@@ -62,8 +62,8 @@
     "kw": "134",
     "hp": "182",
     "cc": "1498",
-    "engineCodes": "L15B7  L15BB",
-    "KBA_Numbers": "7100ADI  7100AEG"
+    "engineCodes": "L15B7, L15BB",
+    "KBA_Numbers": "7100ADI, 7100AEG"
   },
   {
     "brand": "HONDA",
@@ -74,6 +74,6 @@
     "hp": "120",
     "cc": "1597",
     "engineCodes": "N16A1",
-    "KBA_Numbers": "7100ADU  7100AEL"
+    "KBA_Numbers": "7100ADU, 7100AEL"
   }
 ]

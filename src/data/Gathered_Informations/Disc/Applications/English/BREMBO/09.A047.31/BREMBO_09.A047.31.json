@@ -8,7 +8,7 @@
     "hp": "116",
     "cc": "1598",
     "engineCodes": "W10 B16 A",
-    "KBA_Numbers": "0005719  0005894  0005AFW  0005773"
+    "KBA_Numbers": "0005719, 0005894, 0005AFW, 0005773"
   },
   {
     "brand": "MINI",
@@ -19,7 +19,7 @@
     "hp": "163",
     "cc": "1598",
     "engineCodes": "W11 B16 A",
-    "KBA_Numbers": "0005722  0005AFX  0005774"
+    "KBA_Numbers": "0005722, 0005AFX, 0005774"
   },
   {
     "brand": "MINI",
@@ -30,7 +30,7 @@
     "hp": "170",
     "cc": "1598",
     "engineCodes": "W11 B16 A",
-    "KBA_Numbers": "0005807  0005AFZ"
+    "KBA_Numbers": "0005807, 0005AFZ"
   },
   {
     "brand": "MINI",
@@ -52,7 +52,7 @@
     "hp": "90",
     "cc": "1598",
     "engineCodes": "W10 B16 A",
-    "KBA_Numbers": "0005718  0005AFV  0005775"
+    "KBA_Numbers": "0005718, 0005AFV, 0005775"
   },
   {
     "brand": "MINI",
@@ -74,7 +74,7 @@
     "hp": "88",
     "cc": "1364",
     "engineCodes": "W17 D14 (1ND)",
-    "KBA_Numbers": "0005869  0005AGE"
+    "KBA_Numbers": "0005869, 0005AGE"
   },
   {
     "brand": "MINI",
@@ -85,7 +85,7 @@
     "hp": "210",
     "cc": "1598",
     "engineCodes": "W11 B16 A",
-    "KBA_Numbers": "0005848  0005AGC"
+    "KBA_Numbers": "0005848, 0005AGC"
   },
   {
     "brand": "MINI",
@@ -95,7 +95,7 @@
     "kw": "128",
     "hp": "174",
     "cc": "1598",
-    "engineCodes": "N14 B16 AB  N14 B16 A",
+    "engineCodes": "N14 B16 AB, N14 B16 A",
     "KBA_Numbers": "0005AFC"
   },
   {
@@ -107,7 +107,7 @@
     "hp": "163",
     "cc": "1598",
     "engineCodes": "N18 B16 A",
-    "KBA_Numbers": "0005ATZ  0005AFE  0005BBX"
+    "KBA_Numbers": "0005ATZ, 0005AFE, 0005BBX"
   },
   {
     "brand": "MINI",
@@ -124,7 +124,7 @@
     "brand": "MINI",
     "model": "MINI (R56)",
     "engineType": "Cooper S John Cooper Works",
-    "madeYear": "01.2012 - 11.2013",
+    "madeYear": "10.2011 - 11.2013",
     "kw": "147",
     "hp": "200",
     "cc": "1598",
@@ -139,7 +139,7 @@
     "kw": "128",
     "hp": "174",
     "cc": "1598",
-    "engineCodes": "N14 B16 AB  N14 B16 A",
+    "engineCodes": "N14 B16 AB, N14 B16 A",
     "KBA_Numbers": "0005AJI"
   },
   {
@@ -150,8 +150,8 @@
     "kw": "120",
     "hp": "163",
     "cc": "1598",
-    "engineCodes": "N14 B16 AB  N18 B16 A",
-    "KBA_Numbers": "0005ATQ  0005AJK"
+    "engineCodes": "N14 B16 AB, N18 B16 A",
+    "KBA_Numbers": "0005ATQ, 0005AJK"
   },
   {
     "brand": "MINI",
@@ -184,7 +184,7 @@
     "hp": "210",
     "cc": "1598",
     "engineCodes": "W11 B16 A",
-    "KBA_Numbers": "0005847  0005AGF"
+    "KBA_Numbers": "0005847, 0005AGF"
   },
   {
     "brand": "MINI",
@@ -194,8 +194,8 @@
     "kw": "120",
     "hp": "163",
     "cc": "1598",
-    "engineCodes": "N18 B16 A  N14 B16 A",
-    "KBA_Numbers": "0005ANX  0005ATT"
+    "engineCodes": "N18 B16 A, N14 B16 A",
+    "KBA_Numbers": "0005ANX, 0005ATT"
   },
   {
     "brand": "MINI",
@@ -205,7 +205,7 @@
     "kw": "128",
     "hp": "174",
     "cc": "1598",
-    "engineCodes": "N14 B16 AB  N14 B16 A",
+    "engineCodes": "N14 B16 AB, N14 B16 A",
     "KBA_Numbers": "0005ANV"
   },
   {

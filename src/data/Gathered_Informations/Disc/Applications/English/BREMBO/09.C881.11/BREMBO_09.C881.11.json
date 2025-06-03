@@ -8,7 +8,7 @@
     "hp": "240",
     "cc": "2967",
     "engineCodes": "M 05.9D",
-    "KBA_Numbers": "0583ACN  0583ACO"
+    "KBA_Numbers": "0583ACN, 0583ACO"
   },
   {
     "brand": "PORSCHE",
@@ -19,7 +19,7 @@
     "hp": "250",
     "cc": "3189",
     "engineCodes": "M02.2Y",
-    "KBA_Numbers": "0583AAW  0583AAX  0583490"
+    "KBA_Numbers": "0583AAW, 0583AAX, 0583490"
   },
   {
     "brand": "PORSCHE",
@@ -30,7 +30,7 @@
     "hp": "290",
     "cc": "3598",
     "engineCodes": "M 55.01",
-    "KBA_Numbers": "0583ABK  0583ABH"
+    "KBA_Numbers": "0583ABK, 0583ABH"
   },
   {
     "brand": "PORSCHE",
@@ -41,7 +41,7 @@
     "hp": "405",
     "cc": "4806",
     "engineCodes": "M 48.01",
-    "KBA_Numbers": "0583ABU  0583ABP  0583ABQ  0583ABT"
+    "KBA_Numbers": "0583ABU, 0583ABP, 0583ABQ, 0583ABT"
   },
   {
     "brand": "PORSCHE",
@@ -52,7 +52,7 @@
     "hp": "340",
     "cc": "4511",
     "engineCodes": "M 48.00",
-    "KBA_Numbers": "0583AAS  0583AAT  0583481"
+    "KBA_Numbers": "0583AAS, 0583AAT, 0583481"
   },
   {
     "brand": "PORSCHE",
@@ -63,7 +63,7 @@
     "hp": "385",
     "cc": "4806",
     "engineCodes": "M 48.01",
-    "KBA_Numbers": "0583ABI  0583ABL"
+    "KBA_Numbers": "0583ABI, 0583ABL"
   },
   {
     "brand": "PORSCHE",
@@ -74,7 +74,7 @@
     "hp": "450",
     "cc": "4511",
     "engineCodes": "M 48.50",
-    "KBA_Numbers": "0583AAV  0583AAU  0583482"
+    "KBA_Numbers": "0583AAV, 0583AAU, 0583482"
   },
   {
     "brand": "PORSCHE",
@@ -85,7 +85,7 @@
     "hp": "521",
     "cc": "4511",
     "engineCodes": "M 48.50T",
-    "KBA_Numbers": "0583AAQ  0583AAR"
+    "KBA_Numbers": "0583AAQ, 0583AAR"
   },
   {
     "brand": "PORSCHE",
@@ -96,7 +96,7 @@
     "hp": "500",
     "cc": "4511",
     "engineCodes": "M 48.50S",
-    "KBA_Numbers": "0583AAY  0583AAZ  0583492"
+    "KBA_Numbers": "0583AAY, 0583AAZ, 0583492"
   },
   {
     "brand": "PORSCHE",
@@ -107,7 +107,7 @@
     "hp": "500",
     "cc": "4806",
     "engineCodes": "M 48.51",
-    "KBA_Numbers": "0583ABJ  0583ABM"
+    "KBA_Numbers": "0583ABJ, 0583ABM"
   },
   {
     "brand": "PORSCHE",
@@ -118,7 +118,7 @@
     "hp": "550",
     "cc": "4806",
     "engineCodes": "M 48.51",
-    "KBA_Numbers": "0583ACE  0583ACG"
+    "KBA_Numbers": "0583ACE, 0583ACG"
   },
   {
     "brand": "VW",
@@ -128,8 +128,8 @@
     "kw": "128",
     "hp": "174",
     "cc": "2461",
-    "engineCodes": "BPE  BAC",
-    "KBA_Numbers": "0603AGS  0603681"
+    "engineCodes": "BPE, BAC",
+    "KBA_Numbers": "0603AGS, 0603681"
   },
   {
     "brand": "VW",
@@ -139,8 +139,8 @@
     "kw": "120",
     "hp": "163",
     "cc": "2461",
-    "engineCodes": "BPD  BLK",
-    "KBA_Numbers": "0603AGX  0603719"
+    "engineCodes": "BPD, BLK",
+    "KBA_Numbers": "0603AGX, 0603719"
   },
   {
     "brand": "VW",
@@ -150,7 +150,7 @@
     "kw": "155",
     "hp": "211",
     "cc": "2967",
-    "engineCodes": "CASB  BUN",
+    "engineCodes": "CASB, BUN",
     "KBA_Numbers": "0603AJK"
   },
   {
@@ -161,8 +161,8 @@
     "kw": "165",
     "hp": "225",
     "cc": "2967",
-    "engineCodes": "CATA  BKS",
-    "KBA_Numbers": "0603AGV  0603775"
+    "engineCodes": "CATA, BKS",
+    "KBA_Numbers": "0603AGV, 0603775"
   },
   {
     "brand": "VW",
@@ -172,7 +172,7 @@
     "kw": "176",
     "hp": "240",
     "cc": "2967",
-    "engineCodes": "CASC  CASA",
+    "engineCodes": "CASC, CASA",
     "KBA_Numbers": "0603AGQ"
   },
   {
@@ -183,8 +183,8 @@
     "kw": "162",
     "hp": "220",
     "cc": "3189",
-    "engineCodes": "BMX  BRJ  BMV  BKJ  AZZ",
-    "KBA_Numbers": "0603AGR  0603AHA  0603680"
+    "engineCodes": "BMX, BRJ, BMV, BKJ, AZZ",
+    "KBA_Numbers": "0603AGR, 0603AHA, 0603680"
   },
   {
     "brand": "VW",
@@ -195,7 +195,7 @@
     "hp": "241",
     "cc": "3189",
     "engineCodes": "BMV",
-    "KBA_Numbers": "0603AGY  0603AHB  0603746"
+    "KBA_Numbers": "0603AGY, 0603AHB, 0603746"
   },
   {
     "brand": "VW",
@@ -205,8 +205,8 @@
     "kw": "206",
     "hp": "280",
     "cc": "3597",
-    "engineCodes": "BHL  BHK",
-    "KBA_Numbers": "0603AGT  0603833"
+    "engineCodes": "BHL, BHK",
+    "KBA_Numbers": "0603AGT, 0603833"
   },
   {
     "brand": "VW",
@@ -217,7 +217,7 @@
     "hp": "310",
     "cc": "4172",
     "engineCodes": "AXQ",
-    "KBA_Numbers": "0603AGP  0603AGZ  0603678"
+    "KBA_Numbers": "0603AGP, 0603AGZ, 0603678"
   },
   {
     "brand": "VW",
@@ -238,8 +238,8 @@
     "kw": "230",
     "hp": "313",
     "cc": "4921",
-    "engineCodes": "BLE  BWF  AYH",
-    "KBA_Numbers": "0603AGW  0603679"
+    "engineCodes": "BLE, BWF, AYH",
+    "KBA_Numbers": "0603AGW, 0603679"
   },
   {
     "brand": "VW",
@@ -249,8 +249,8 @@
     "kw": "331",
     "hp": "450",
     "cc": "5998",
-    "engineCodes": "CFRA  BJN",
-    "KBA_Numbers": "0603AGU  0603774"
+    "engineCodes": "CFRA, BJN",
+    "KBA_Numbers": "0603AGU, 0603774"
   },
   {
     "brand": "VW",
@@ -260,8 +260,8 @@
     "kw": "150",
     "hp": "204",
     "cc": "2967",
-    "engineCodes": "CRCD  CVWA  CASD  CJMA",
-    "KBA_Numbers": "0603ASS  0603ASX  0603BAT"
+    "engineCodes": "CRCD, CVWA, CASD, CJMA",
+    "KBA_Numbers": "0603ASS, 0603ASX, 0603BAT"
   },
   {
     "brand": "VW",
@@ -271,8 +271,8 @@
     "kw": "176",
     "hp": "240",
     "cc": "2967",
-    "engineCodes": "CASA  CNRB",
-    "KBA_Numbers": "0603ASM  0603ASV  0603AXE"
+    "engineCodes": "CASA, CNRB",
+    "KBA_Numbers": "0603ASM, 0603ASV, 0603AXE"
   },
   {
     "brand": "VW",
@@ -293,8 +293,8 @@
     "kw": "180",
     "hp": "245",
     "cc": "2967",
-    "engineCodes": "CJGD  CRCA",
-    "KBA_Numbers": "0603BFM  0603BGB  0603BEC"
+    "engineCodes": "CJGD, CRCA",
+    "KBA_Numbers": "0603BFM, 0603BGB, 0603BEC"
   },
   {
     "brand": "VW",
@@ -305,7 +305,7 @@
     "hp": "262",
     "cc": "2967",
     "engineCodes": "CVVA",
-    "KBA_Numbers": "0603BRD  0603BQO"
+    "KBA_Numbers": "0603BRD, 0603BQO"
   },
   {
     "brand": "VW",
@@ -326,8 +326,8 @@
     "kw": "279",
     "hp": "379",
     "cc": "2995",
-    "engineCodes": "CGEA  CGFA",
-    "KBA_Numbers": "0603ASU  0603ASZ  0603AXD"
+    "engineCodes": "CGEA, CGFA",
+    "KBA_Numbers": "0603ASU, 0603ASZ, 0603AXD"
   },
   {
     "brand": "VW",
@@ -338,7 +338,7 @@
     "hp": "280",
     "cc": "3597",
     "engineCodes": "CGRA",
-    "KBA_Numbers": "0603AST  0603ASY"
+    "KBA_Numbers": "0603AST, 0603ASY"
   },
   {
     "brand": "VW",
@@ -371,6 +371,6 @@
     "hp": "340",
     "cc": "4134",
     "engineCodes": "CKDA",
-    "KBA_Numbers": "0603ASN  0603ASW  0603AXF"
+    "KBA_Numbers": "0603ASN, 0603ASW, 0603AXF"
   }
 ]

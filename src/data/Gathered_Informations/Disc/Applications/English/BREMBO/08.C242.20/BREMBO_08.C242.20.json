@@ -7,8 +7,8 @@
     "kw": "77",
     "hp": "105",
     "cc": "1995",
-    "engineCodes": "BJFA  YLFA  YLFB  BJFB  YLF6  YLFS",
-    "KBA_Numbers": "8566BRW  8566BMW"
+    "engineCodes": "BJFA, YLFA, YLFB, BJFB, YLF6, YLFS",
+    "KBA_Numbers": "8566BRW, 8566BMW"
   },
   {
     "brand": "FORD",
@@ -18,7 +18,7 @@
     "kw": "96",
     "hp": "130",
     "cc": "1995",
-    "engineCodes": "BKFA  YMFA  YMFB  BKFB  YMF6  YMFS",
+    "engineCodes": "BKFA, YMFA, YMFB, BKFB, YMF6, YMFS",
     "KBA_Numbers": "8566BMX"
   },
   {
@@ -29,7 +29,7 @@
     "kw": "125",
     "hp": "170",
     "cc": "1995",
-    "engineCodes": "YNFA  YNFB  BLFB  BLFA  YNF6  YNFS",
+    "engineCodes": "YNFA, YNFB, BLFB, BLFA, YNF6, YNFS",
     "KBA_Numbers": "8566BMY"
   },
   {
@@ -40,7 +40,7 @@
     "kw": "74",
     "hp": "100",
     "cc": "2198",
-    "engineCodes": "DRFF  DRF4  DRFG",
+    "engineCodes": "DRFF, DRF4, DRFG",
     "KBA_Numbers": "8566BFQ"
   },
   {
@@ -51,7 +51,7 @@
     "kw": "92",
     "hp": "125",
     "cc": "2198",
-    "engineCodes": "CYF4  CYFF",
+    "engineCodes": "CYF4, CYFF",
     "KBA_Numbers": "8566BFR"
   },
   {
@@ -73,8 +73,8 @@
     "kw": "77",
     "hp": "105",
     "cc": "1995",
-    "engineCodes": "BJFA  YLFB  YLFA  BJFB  YLF6  YLFS",
-    "KBA_Numbers": "8566BRW  8566BMW"
+    "engineCodes": "BJFA, YLFB, YLFA, BJFB, YLF6, YLFS",
+    "KBA_Numbers": "8566BRW, 8566BMW"
   },
   {
     "brand": "FORD",
@@ -84,7 +84,7 @@
     "kw": "96",
     "hp": "130",
     "cc": "1995",
-    "engineCodes": "BKFA  YMFA  YMFB  BKFB  YMF6  YMFS",
+    "engineCodes": "BKFA, YMFA, YMFB, BKFB, YMF6, YMFS",
     "KBA_Numbers": "8566BMX"
   },
   {
@@ -95,7 +95,7 @@
     "kw": "125",
     "hp": "170",
     "cc": "1995",
-    "engineCodes": "YNFA  BLFB  YNFB  YNF6  BLFA  YNFS",
+    "engineCodes": "YNFA, BLFB, YNFB, YNF6, BLFA, YNFS",
     "KBA_Numbers": "8566BMY"
   },
   {
@@ -106,7 +106,7 @@
     "kw": "74",
     "hp": "100",
     "cc": "2198",
-    "engineCodes": "DRF4  DRFG  DRFF",
+    "engineCodes": "DRF4, DRFG, DRFF",
     "KBA_Numbers": "8566BFQ"
   },
   {
@@ -117,7 +117,7 @@
     "kw": "92",
     "hp": "125",
     "cc": "2198",
-    "engineCodes": "CYFF  CYF4",
+    "engineCodes": "CYFF, CYF4",
     "KBA_Numbers": "8566BFR"
   },
   {
@@ -139,8 +139,8 @@
     "kw": "77",
     "hp": "105",
     "cc": "1995",
-    "engineCodes": "BJFA  YLFB  YLFA  BJFB  YLF6  YLFS",
-    "KBA_Numbers": "8566BSF  8566BMT"
+    "engineCodes": "BJFA, YLFB, YLFA, BJFB, YLF6, YLFS",
+    "KBA_Numbers": "8566BSF, 8566BMT"
   },
   {
     "brand": "FORD",
@@ -150,7 +150,7 @@
     "kw": "96",
     "hp": "130",
     "cc": "1995",
-    "engineCodes": "BKFA  YMFA  YMFB  YMF6  BKFB  YMFS",
+    "engineCodes": "BKFA, YMFA, YMFB, YMF6, BKFB, YMFS",
     "KBA_Numbers": "8566BMU"
   },
   {
@@ -161,7 +161,7 @@
     "kw": "125",
     "hp": "170",
     "cc": "1995",
-    "engineCodes": "YNFA  BLFB  YNFB  BLFA  YNF6  YNFS",
+    "engineCodes": "YNFA, BLFB, YNFB, BLFA, YNF6, YNFS",
     "KBA_Numbers": "8566BMV"
   },
   {
@@ -172,7 +172,7 @@
     "kw": "74",
     "hp": "100",
     "cc": "2198",
-    "engineCodes": "DRFG  DRF4  DRFF",
+    "engineCodes": "DRFG, DRF4, DRFF",
     "KBA_Numbers": "8566BGC"
   },
   {
@@ -183,7 +183,7 @@
     "kw": "92",
     "hp": "125",
     "cc": "2198",
-    "engineCodes": "CYFF  CYF4",
+    "engineCodes": "CYFF, CYF4",
     "KBA_Numbers": "8566BGB"
   },
   {
@@ -205,8 +205,8 @@
     "kw": "77",
     "hp": "105",
     "cc": "1995",
-    "engineCodes": "YLFB  BJFB  BJFA  YLF6  YLFS  YLFA",
-    "KBA_Numbers": "8566BNP  8566BSL"
+    "engineCodes": "YLFB, BJFB, BJFA, YLF6, YLFS, YLFA",
+    "KBA_Numbers": "8566BNP, 8566BSL"
   },
   {
     "brand": "FORD",
@@ -216,7 +216,7 @@
     "kw": "96",
     "hp": "130",
     "cc": "1995",
-    "engineCodes": "BKFA  YMFB  BKFB  YMF6  YMFS  YMFA",
+    "engineCodes": "BKFA, YMFB, BKFB, YMF6, YMFS, YMFA",
     "KBA_Numbers": "8566BNQ"
   },
   {
@@ -227,7 +227,7 @@
     "kw": "125",
     "hp": "170",
     "cc": "1995",
-    "engineCodes": "BLFB  BLFA  YNF6  YNFA  YNFB  YNFS",
+    "engineCodes": "BLFB, BLFA, YNF6, YNFA, YNFB, YNFS",
     "KBA_Numbers": "8566BNR"
   },
   {
@@ -238,7 +238,7 @@
     "kw": "74",
     "hp": "100",
     "cc": "2198",
-    "engineCodes": "DRF5  DRFG  DRFF",
+    "engineCodes": "DRF5, DRFG, DRFF",
     "KBA_Numbers": "8566BHJ"
   },
   {
@@ -249,7 +249,7 @@
     "kw": "92",
     "hp": "125",
     "cc": "2198",
-    "engineCodes": "CY14  CYFG  CYF5  USF6",
+    "engineCodes": "CY14, CYFG, CYF5, USF6",
     "KBA_Numbers": "8566BHK"
   },
   {
@@ -260,7 +260,7 @@
     "kw": "74",
     "hp": "100",
     "cc": "2198",
-    "engineCodes": "DRFG  DRF5  DRFF",
+    "engineCodes": "DRFG, DRF5, DRFF",
     "KBA_Numbers": "8566BIH"
   },
   {
@@ -271,7 +271,7 @@
     "kw": "92",
     "hp": "125",
     "cc": "2198",
-    "engineCodes": "CYF5  USF6  CY14  CYFG",
+    "engineCodes": "CYF5, USF6, CY14, CYFG",
     "KBA_Numbers": "8566BIF"
   },
   {
@@ -293,8 +293,8 @@
     "kw": "77",
     "hp": "105",
     "cc": "1995",
-    "engineCodes": "YLFB  BJFB  YLF6  BJFA  YLFS  YLFA",
-    "KBA_Numbers": "8566BSB  8566BNP  8566BNK  8566BNF  8566BSX"
+    "engineCodes": "YLFB, BJFB, YLF6, BJFA, YLFS, YLFA",
+    "KBA_Numbers": "8566BSB, 8566BNP, 8566BNK, 8566BNF, 8566BSX"
   },
   {
     "brand": "FORD",
@@ -304,8 +304,8 @@
     "kw": "96",
     "hp": "130",
     "cc": "1995",
-    "engineCodes": "BKFA  YMFB  BKFB  YMF6  YMFS  YMFA",
-    "KBA_Numbers": "8566BNL  8566BNQ  8566BNG  8566BSW  8566BSY"
+    "engineCodes": "BKFA, YMFB, BKFB, YMF6, YMFS, YMFA",
+    "KBA_Numbers": "8566BNL, 8566BNQ, 8566BNG, 8566BSW, 8566BSY"
   },
   {
     "brand": "FORD",
@@ -315,8 +315,8 @@
     "kw": "125",
     "hp": "170",
     "cc": "1995",
-    "engineCodes": "BLFB  BLFA  YNFS  YNFB  YNFA  YNF6",
-    "KBA_Numbers": "8566BNN  8566BNR  8566BNI"
+    "engineCodes": "BLFB, BLFA, YNFS, YNFB, YNFA, YNF6",
+    "KBA_Numbers": "8566BNN, 8566BNR, 8566BNI"
   },
   {
     "brand": "FORD",
@@ -326,8 +326,8 @@
     "kw": "74",
     "hp": "100",
     "cc": "2198",
-    "engineCodes": "DRF5  DRFG  DRFF",
-    "KBA_Numbers": "8566BHS  8566BHX"
+    "engineCodes": "DRF5, DRFG, DRFF",
+    "KBA_Numbers": "8566BHS, 8566BHX"
   },
   {
     "brand": "FORD",
@@ -337,8 +337,8 @@
     "kw": "92",
     "hp": "125",
     "cc": "2198",
-    "engineCodes": "USF6  CY14  CYFG  CYF5",
-    "KBA_Numbers": "8566BHQ  8566BHV"
+    "engineCodes": "USF6, CY14, CYFG, CYF5",
+    "KBA_Numbers": "8566BHQ, 8566BHV"
   },
   {
     "brand": "FORD",
@@ -349,6 +349,6 @@
     "hp": "155",
     "cc": "2198",
     "engineCodes": "CVF5",
-    "KBA_Numbers": "8566BHO  8566BHT"
+    "KBA_Numbers": "8566BHO, 8566BHT"
   }
 ]

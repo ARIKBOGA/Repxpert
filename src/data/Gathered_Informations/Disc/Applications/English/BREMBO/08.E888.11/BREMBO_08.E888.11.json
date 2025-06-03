@@ -18,8 +18,8 @@
     "kw": "74",
     "hp": "101",
     "cc": "1199",
-    "engineCodes": "HNK (EB2ADTD)  HNE (EB2ADTD)",
-    "KBA_Numbers": "1889ACK  2525ADL"
+    "engineCodes": "HNK (EB2ADTD), HNE (EB2ADTD)",
+    "KBA_Numbers": "1889ACK, 2525ADL"
   },
   {
     "brand": "CITROËN",
@@ -30,7 +30,7 @@
     "hp": "130",
     "cc": "1199",
     "engineCodes": "HNS (EB2ADTS)",
-    "KBA_Numbers": "1889ACU  2525ADM"
+    "KBA_Numbers": "1889ACU, 2525ADM"
   },
   {
     "brand": "CITROËN",
@@ -41,7 +41,7 @@
     "hp": "131",
     "cc": "1499",
     "engineCodes": "YHZ (DV5RC)",
-    "KBA_Numbers": "1889ACV  2525ADO"
+    "KBA_Numbers": "1889ACV, 2525ADO"
   },
   {
     "brand": "CITROËN",
@@ -74,7 +74,7 @@
     "hp": "101",
     "cc": "1199",
     "engineCodes": "HNE (EB2ADTD)",
-    "KBA_Numbers": "1889AFD  2525ADR"
+    "KBA_Numbers": "1889AFD, 2525ADR"
   },
   {
     "brand": "CITROËN",
@@ -85,7 +85,7 @@
     "hp": "131",
     "cc": "1199",
     "engineCodes": "HNS (EB2ADTS)",
-    "KBA_Numbers": "1889AFE  2525ADS"
+    "KBA_Numbers": "1889AFE, 2525ADS"
   },
   {
     "brand": "CITROËN",
@@ -96,7 +96,7 @@
     "hp": "131",
     "cc": "1499",
     "engineCodes": "YHZ (DV5RC)",
-    "KBA_Numbers": "1889AFF  2525ADU"
+    "KBA_Numbers": "1889AFF, 2525ADU"
   },
   {
     "brand": "DS",
@@ -107,7 +107,7 @@
     "hp": "101",
     "cc": "1199",
     "engineCodes": "HNK (EB2ADTD)",
-    "KBA_Numbers": "1889ABI  2525ABN"
+    "KBA_Numbers": "1889ABI, 2525ABN"
   },
   {
     "brand": "DS",
@@ -118,7 +118,7 @@
     "hp": "131",
     "cc": "1199",
     "engineCodes": "HNS (EB2ADTS)",
-    "KBA_Numbers": "1889ABK  2525ABM"
+    "KBA_Numbers": "1889ABK, 2525ABM"
   },
   {
     "brand": "DS",
@@ -159,10 +159,10 @@
     "engineType": "1.5 BlueHDi 130 (UCYHZR)",
     "madeYear": "from 10.2018",
     "kw": "96",
-    "hp": "131",
+    "hp": "130",
     "cc": "1499",
     "engineCodes": "YHZ (DV5RC)",
-    "KBA_Numbers": "1889ABM  2525ABK"
+    "KBA_Numbers": "1889ABM, 2525ABK"
   },
   {
     "brand": "OPEL",
@@ -172,8 +172,8 @@
     "kw": "55",
     "hp": "75",
     "cc": "1199",
-    "engineCodes": "F 12 XEL (EB2FAD)  HMU (EB2FAMD)",
-    "KBA_Numbers": "1889ABT  2525AAO"
+    "engineCodes": "F 12 XEL (EB2FAD), HMU (EB2FAMD)",
+    "KBA_Numbers": "1889ABT, 2525AAO"
   },
   {
     "brand": "OPEL",
@@ -184,7 +184,7 @@
     "hp": "101",
     "cc": "1199",
     "engineCodes": "F 12 XHL (EB2ADTD)",
-    "KBA_Numbers": "1889ABU  2525AAP"
+    "KBA_Numbers": "1889ABU, 2525AAP"
   },
   {
     "brand": "OPEL",
@@ -194,8 +194,8 @@
     "kw": "96",
     "hp": "131",
     "cc": "1199",
-    "engineCodes": "F 12 XHT (EB2ADTS)  HNL (EB2ADTSM)",
-    "KBA_Numbers": "1889ABV  2525AAQ"
+    "engineCodes": "F 12 XHT (EB2ADTS), HNL (EB2ADTSM)",
+    "KBA_Numbers": "1889ABV, 2525AAQ"
   },
   {
     "brand": "OPEL",
@@ -205,8 +205,8 @@
     "kw": "75",
     "hp": "102",
     "cc": "1499",
-    "engineCodes": "D 15 DT (DV5RD)  YHY (DV5RCF)",
-    "KBA_Numbers": "1889ABW  2525AAI"
+    "engineCodes": "D 15 DT (DV5RD), YHY (DV5RCF)",
+    "KBA_Numbers": "1889ABW, 2525AAI"
   },
   {
     "brand": "OPEL",
@@ -239,7 +239,7 @@
     "hp": "101",
     "cc": "1199",
     "engineCodes": "F 12 XHL (EB2ADTD)",
-    "KBA_Numbers": "1889ADA  2525AAU"
+    "KBA_Numbers": "1889ADA, 2525AAU"
   },
   {
     "brand": "OPEL",
@@ -250,7 +250,7 @@
     "hp": "110",
     "cc": "1499",
     "engineCodes": "F 15 DT (DV5RCE)",
-    "KBA_Numbers": "1889ADC  2525AAJ"
+    "KBA_Numbers": "1889ADC, 2525AAJ"
   },
   {
     "brand": "PEUGEOT",
@@ -272,7 +272,7 @@
     "hp": "101",
     "cc": "1199",
     "engineCodes": "HNK (EB2ADTD)",
-    "KBA_Numbers": "1889ACL  2525ABH"
+    "KBA_Numbers": "1889ACL, 2525ABH"
   },
   {
     "brand": "PEUGEOT",
@@ -283,7 +283,7 @@
     "hp": "130",
     "cc": "1199",
     "engineCodes": "HNS (EB2ADTS)",
-    "KBA_Numbers": "1889ACF  2525ABI"
+    "KBA_Numbers": "1889ACF, 2525ABI"
   },
   {
     "brand": "PEUGEOT",
@@ -293,7 +293,7 @@
     "kw": "114",
     "hp": "155",
     "cc": "1199",
-    "engineCodes": "HNN (EB2ADTX)  HNJ (EB2ADTXM)  HNR (EB2ADTXM)",
+    "engineCodes": "HNN (EB2ADTX), HNJ (EB2ADTXM), HNR (EB2ADTXM)",
     "KBA_Numbers": "1889ACE"
   },
   {
@@ -327,7 +327,7 @@
     "hp": "131",
     "cc": "1499",
     "engineCodes": "YHZ (DV5RC)",
-    "KBA_Numbers": "1889ACD  2525AAX"
+    "KBA_Numbers": "1889ACD, 2525AAX"
   },
   {
     "brand": "PEUGEOT",
@@ -338,7 +338,7 @@
     "hp": "101",
     "cc": "1199",
     "engineCodes": "HPX (EB2LTEDH2)",
-    "KBA_Numbers": "1889AHL  2525ABF"
+    "KBA_Numbers": "1889AHL, 2525ABF"
   },
   {
     "brand": "PEUGEOT",
@@ -349,7 +349,7 @@
     "hp": "136",
     "cc": "1199",
     "engineCodes": "HPY (EB2LTDH2)",
-    "KBA_Numbers": "1889AHN  2525ABG"
+    "KBA_Numbers": "1889AHN, 2525ABG"
   },
   {
     "brand": "PEUGEOT",
@@ -359,8 +359,8 @@
     "kw": "74",
     "hp": "101",
     "cc": "1199",
-    "engineCodes": "HNK (EB2ADT)  HNE (EB2ADTD_B)  HNK (EB2ADTD)",
-    "KBA_Numbers": "1889ABN  2525ABD"
+    "engineCodes": "HNK (EB2ADT), HNE (EB2ADTD_B), HNK (EB2ADTD)",
+    "KBA_Numbers": "1889ABN, 2525ABD"
   },
   {
     "brand": "PEUGEOT",
@@ -370,8 +370,8 @@
     "kw": "96",
     "hp": "131",
     "cc": "1199",
-    "engineCodes": "HNS (EB2ADTS)  HNY (EB2DTS)",
-    "KBA_Numbers": "1889ABO  2525ABE"
+    "engineCodes": "HNS (EB2ADTS), HNY (EB2DTS)",
+    "KBA_Numbers": "1889ABO, 2525ABE"
   },
   {
     "brand": "PEUGEOT",
@@ -381,8 +381,8 @@
     "kw": "55",
     "hp": "75",
     "cc": "1199",
-    "engineCodes": "HMH (EB2FAD)  HMG (EB2FAMD)",
-    "KBA_Numbers": "1889ACB  2525ABC"
+    "engineCodes": "HMH (EB2FAD), HMG (EB2FAMD)",
+    "KBA_Numbers": "1889ACB, 2525ABC"
   },
   {
     "brand": "PEUGEOT",
@@ -392,7 +392,7 @@
     "kw": "75",
     "hp": "102",
     "cc": "1499",
-    "engineCodes": "YHY (DV5RD)  YHT (DV5RCF)",
+    "engineCodes": "YHY (DV5RD), YHT (DV5RCF)",
     "KBA_Numbers": "1889ABP"
   },
   {
@@ -414,7 +414,7 @@
     "kw": "68",
     "hp": "92",
     "cc": "1560",
-    "engineCodes": "9HP (DV6DTED)  BHN (DV6DR)",
+    "engineCodes": "9HP (DV6DTED), BHN (DV6DR)",
     "KBA_Numbers": ""
   },
   {
@@ -469,7 +469,7 @@
     "kw": "75",
     "hp": "102",
     "cc": "1499",
-    "engineCodes": "D 15 DT (DV5RD)  D 15 DT (DV5RCF)",
+    "engineCodes": "D 15 DT (DV5RD), D 15 DT (DV5RCF)",
     "KBA_Numbers": ""
   },
   {

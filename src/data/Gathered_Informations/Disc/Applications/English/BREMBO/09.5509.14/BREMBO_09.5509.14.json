@@ -18,7 +18,7 @@
     "kw": "92",
     "hp": "125",
     "cc": "1590",
-    "engineCodes": "D16Y6  D16Z9",
+    "engineCodes": "D16Y6, D16Z9",
     "KBA_Numbers": "1153305"
   },
   {
@@ -73,7 +73,7 @@
     "kw": "92",
     "hp": "125",
     "cc": "1590",
-    "engineCodes": "D16Z6  D16Z7",
+    "engineCodes": "D16Z6, D16Z7",
     "KBA_Numbers": "7100479"
   },
   {
@@ -106,7 +106,7 @@
     "kw": "55",
     "hp": "75",
     "cc": "1396",
-    "engineCodes": "D14A7  D14Z3",
+    "engineCodes": "D14A7, D14Z3",
     "KBA_Numbers": "2131320"
   },
   {
@@ -117,7 +117,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1396",
-    "engineCodes": "D14A8  D14Z4",
+    "engineCodes": "D14A8, D14Z4",
     "KBA_Numbers": "2131321"
   },
   {
@@ -139,7 +139,7 @@
     "kw": "85",
     "hp": "116",
     "cc": "1590",
-    "engineCodes": "D16B2  D16W3",
+    "engineCodes": "D16B2, D16W3",
     "KBA_Numbers": "2131318"
   },
   {
@@ -216,8 +216,8 @@
     "kw": "66",
     "hp": "90",
     "cc": "1396",
-    "engineCodes": "D14A6  D14Z4  D14A8  D14A2",
-    "KBA_Numbers": "2131306  2131313"
+    "engineCodes": "D14A6, D14Z4, D14A8, D14A2",
+    "KBA_Numbers": "2131306, 2131313"
   },
   {
     "brand": "HONDA",
@@ -227,8 +227,8 @@
     "kw": "55",
     "hp": "75",
     "cc": "1396",
-    "engineCodes": "D14Z3  D14A7  D14A5",
-    "KBA_Numbers": "2131307  2131312"
+    "engineCodes": "D14Z3, D14A7, D14A5",
+    "KBA_Numbers": "2131307, 2131312"
   },
   {
     "brand": "HONDA",
@@ -260,7 +260,7 @@
     "kw": "85",
     "hp": "116",
     "cc": "1590",
-    "engineCodes": "D16B2  D16W3",
+    "engineCodes": "D16B2, D16W3",
     "KBA_Numbers": "2131315"
   },
   {
@@ -337,7 +337,7 @@
     "kw": "55",
     "hp": "75",
     "cc": "1396",
-    "engineCodes": "D14Z1  D14A3",
+    "engineCodes": "D14Z1, D14A3",
     "KBA_Numbers": "7100497"
   },
   {
@@ -348,7 +348,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1396",
-    "engineCodes": "D14Z2  D14A4  D14Z4",
+    "engineCodes": "D14Z2, D14A4, D14Z4",
     "KBA_Numbers": "7100498"
   },
   {
@@ -458,7 +458,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1396",
-    "engineCodes": "D14Z4  D14Z2  D14A4",
+    "engineCodes": "D14Z4, D14Z2, D14A4",
     "KBA_Numbers": "7100499"
   },
   {
@@ -469,7 +469,7 @@
     "kw": "84",
     "hp": "114",
     "cc": "1493",
-    "engineCodes": "D15Z6  D15Z4  D15Z7",
+    "engineCodes": "D15Z6, D15Z4, D15Z7",
     "KBA_Numbers": "7100501"
   },
   {
@@ -480,7 +480,7 @@
     "kw": "92",
     "hp": "125",
     "cc": "1590",
-    "engineCodes": "D16Y6  D16Y8  D16Y5",
+    "engineCodes": "D16Y6, D16Y8, D16Y5",
     "KBA_Numbers": ""
   },
   {
@@ -535,7 +535,7 @@
     "kw": "92",
     "hp": "125",
     "cc": "1590",
-    "engineCodes": "D16Z6  D16Y8",
+    "engineCodes": "D16Z6, D16Y8",
     "KBA_Numbers": "7100486"
   },
   {
@@ -546,7 +546,7 @@
     "kw": "118",
     "hp": "160",
     "cc": "1595",
-    "engineCodes": "B16A2  B16A3",
+    "engineCodes": "B16A2, B16A3",
     "KBA_Numbers": "7100485"
   },
   {
@@ -602,7 +602,7 @@
     "hp": "117",
     "cc": "1796",
     "engineCodes": "18 K4F",
-    "KBA_Numbers": "2142387  2142319"
+    "KBA_Numbers": "2142387, 2142319"
   },
   {
     "brand": "MG",
@@ -624,7 +624,7 @@
     "hp": "113",
     "cc": "1994",
     "engineCodes": "20 T2N",
-    "KBA_Numbers": "2142345  2142390"
+    "KBA_Numbers": "2142345, 2142390"
   },
   {
     "brand": "MG",
@@ -668,7 +668,7 @@
     "hp": "113",
     "cc": "1994",
     "engineCodes": "20 T2N",
-    "KBA_Numbers": "2142381  2142344"
+    "KBA_Numbers": "2142381, 2142344"
   },
   {
     "brand": "MG",
@@ -712,7 +712,7 @@
     "hp": "113",
     "cc": "1994",
     "engineCodes": "20 T2N",
-    "KBA_Numbers": "2142343  2142382"
+    "KBA_Numbers": "2142343, 2142382"
   },
   {
     "brand": "ROVER",
@@ -899,7 +899,7 @@
     "hp": "75",
     "cc": "1120",
     "engineCodes": "11 K4F",
-    "KBA_Numbers": "2142383  2142322"
+    "KBA_Numbers": "2142383, 2142322"
   },
   {
     "brand": "ROVER",
@@ -910,7 +910,7 @@
     "hp": "84",
     "cc": "1396",
     "engineCodes": "14 K4M",
-    "KBA_Numbers": "2055459  2142318"
+    "KBA_Numbers": "2055459, 2142318"
   },
   {
     "brand": "ROVER",
@@ -932,7 +932,7 @@
     "hp": "109",
     "cc": "1588",
     "engineCodes": "16 K4F",
-    "KBA_Numbers": "2055458  2142386  2142317"
+    "KBA_Numbers": "2055458, 2142386, 2142317"
   },
   {
     "brand": "ROVER",
@@ -943,7 +943,7 @@
     "hp": "116",
     "cc": "1796",
     "engineCodes": "18 K4F",
-    "KBA_Numbers": "2055468  2055457"
+    "KBA_Numbers": "2055468, 2055457"
   },
   {
     "brand": "ROVER",
@@ -965,7 +965,7 @@
     "hp": "101",
     "cc": "1994",
     "engineCodes": "20 T2N",
-    "KBA_Numbers": "2055456  2142316"
+    "KBA_Numbers": "2055456, 2142316"
   },
   {
     "brand": "ROVER",
@@ -976,7 +976,7 @@
     "hp": "113",
     "cc": "1994",
     "engineCodes": "20 T2N",
-    "KBA_Numbers": "2142345  2142390"
+    "KBA_Numbers": "2142345, 2142390"
   },
   {
     "brand": "ROVER",
@@ -1185,7 +1185,7 @@
     "hp": "103",
     "cc": "1396",
     "engineCodes": "14 K4F",
-    "KBA_Numbers": "2142370  2142304"
+    "KBA_Numbers": "2142370, 2142304"
   },
   {
     "brand": "ROVER",
@@ -1196,7 +1196,7 @@
     "hp": "109",
     "cc": "1588",
     "engineCodes": "16 K4F",
-    "KBA_Numbers": "2055466  2142372  2142306"
+    "KBA_Numbers": "2055466, 2142372, 2142306"
   },
   {
     "brand": "ROVER",
@@ -1207,7 +1207,7 @@
     "hp": "117",
     "cc": "1796",
     "engineCodes": "18 K4F",
-    "KBA_Numbers": "2055465  2142374  2142308"
+    "KBA_Numbers": "2055465, 2142374, 2142308"
   },
   {
     "brand": "ROVER",
@@ -1218,7 +1218,7 @@
     "hp": "101",
     "cc": "1994",
     "engineCodes": "20 T2N",
-    "KBA_Numbers": "2055467  2142380  2142312"
+    "KBA_Numbers": "2055467, 2142380, 2142312"
   },
   {
     "brand": "ROVER",
@@ -1229,7 +1229,7 @@
     "hp": "113",
     "cc": "1994",
     "engineCodes": "20 T2N",
-    "KBA_Numbers": "2142382  2142343"
+    "KBA_Numbers": "2142382, 2142343"
   },
   {
     "brand": "ROVER",
@@ -1240,7 +1240,7 @@
     "hp": "150",
     "cc": "1997",
     "engineCodes": "20 K4F",
-    "KBA_Numbers": "2055464  2142376  2142310"
+    "KBA_Numbers": "2055464, 2142376, 2142310"
   },
   {
     "brand": "ROVER",
@@ -1251,7 +1251,7 @@
     "hp": "103",
     "cc": "1396",
     "engineCodes": "14 K4F",
-    "KBA_Numbers": "2142369  2142305  2055413"
+    "KBA_Numbers": "2142369, 2142305, 2055413"
   },
   {
     "brand": "ROVER",
@@ -1262,7 +1262,7 @@
     "hp": "109",
     "cc": "1588",
     "engineCodes": "16 K4F",
-    "KBA_Numbers": "2055462  2142371  2142307"
+    "KBA_Numbers": "2055462, 2142371, 2142307"
   },
   {
     "brand": "ROVER",
@@ -1273,7 +1273,7 @@
     "hp": "117",
     "cc": "1796",
     "engineCodes": "18 K4F",
-    "KBA_Numbers": "2142373  2055461  2142309"
+    "KBA_Numbers": "2142373, 2055461, 2142309"
   },
   {
     "brand": "ROVER",
@@ -1284,7 +1284,7 @@
     "hp": "101",
     "cc": "1994",
     "engineCodes": "20 T2N",
-    "KBA_Numbers": "2055463  2142379  2142313"
+    "KBA_Numbers": "2055463, 2142379, 2142313"
   },
   {
     "brand": "ROVER",
@@ -1295,7 +1295,7 @@
     "hp": "113",
     "cc": "1994",
     "engineCodes": "20 T2N",
-    "KBA_Numbers": "2142381  2142344"
+    "KBA_Numbers": "2142381, 2142344"
   },
   {
     "brand": "ROVER",
@@ -1306,7 +1306,7 @@
     "hp": "150",
     "cc": "1997",
     "engineCodes": "20 K4F",
-    "KBA_Numbers": "2142375  2055460  2142311"
+    "KBA_Numbers": "2142375, 2055460, 2142311"
   },
   {
     "brand": "ROVER",

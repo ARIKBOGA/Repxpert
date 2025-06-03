@@ -414,7 +414,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "1731",
-    "engineCodes": "B 4184 S  B 4184 S3",
+    "engineCodes": "B 4184 S, B 4184 S3",
     "KBA_Numbers": "9101722"
   },
   {
@@ -513,7 +513,7 @@
     "kw": "147",
     "hp": "200",
     "cc": "1855",
-    "engineCodes": "B 4194 T2  B 4194 T",
+    "engineCodes": "B 4194 T2, B 4194 T",
     "KBA_Numbers": "9101781"
   },
   {
@@ -535,8 +535,8 @@
     "kw": "100",
     "hp": "136",
     "cc": "1948",
-    "engineCodes": "B 4204 S2  B 4204 S",
-    "KBA_Numbers": "9101821  9101723"
+    "engineCodes": "B 4204 S2, B 4204 S",
+    "KBA_Numbers": "9101821, 9101723"
   },
   {
     "brand": "VOLVO",
@@ -568,7 +568,7 @@
     "kw": "121",
     "hp": "165",
     "cc": "1948",
-    "engineCodes": "B 4204 T3  B 4204 T2",
+    "engineCodes": "B 4204 T3, B 4204 T2",
     "KBA_Numbers": "9101838"
   },
   {
@@ -623,7 +623,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "1731",
-    "engineCodes": "B 4184 S3  B 4184 S",
+    "engineCodes": "B 4184 S3, B 4184 S",
     "KBA_Numbers": "9101724"
   },
   {
@@ -722,7 +722,7 @@
     "kw": "147",
     "hp": "200",
     "cc": "1855",
-    "engineCodes": "B 4194 T2  B 4194 T",
+    "engineCodes": "B 4194 T2, B 4194 T",
     "KBA_Numbers": "9101782"
   },
   {
@@ -744,8 +744,8 @@
     "kw": "100",
     "hp": "136",
     "cc": "1948",
-    "engineCodes": "B 4204 S2  B 4204 S",
-    "KBA_Numbers": "9101822  9101725"
+    "engineCodes": "B 4204 S2, B 4204 S",
+    "KBA_Numbers": "9101822, 9101725"
   },
   {
     "brand": "VOLVO",
@@ -777,7 +777,7 @@
     "kw": "121",
     "hp": "165",
     "cc": "1948",
-    "engineCodes": "B 4204 T2  B 4204 T3",
+    "engineCodes": "B 4204 T2, B 4204 T3",
     "KBA_Numbers": "9101839"
   },
   {

@@ -1,0 +1,35 @@
+[
+  {
+    "brand": "MG",
+    "model": "MG GS",
+    "engineType": "1.5",
+    "madeYear": "from 05.2016",
+    "kw": "122",
+    "hp": "166",
+    "cc": "1490",
+    "engineCodes": "15E4E, G15DT",
+    "KBA_Numbers": ""
+  },
+  {
+    "brand": "MG",
+    "model": "MG HS (AS23)",
+    "engineType": "1.5 EHS Hybrid (CSA6463)",
+    "madeYear": "from 12.2020",
+    "kw": "190",
+    "hp": "258",
+    "cc": "1490",
+    "engineCodes": "15E4E",
+    "KBA_Numbers": "2180AAB"
+  },
+  {
+    "brand": "MG",
+    "model": "MG HS (AS23)",
+    "engineType": "1.5 T (SAS23)",
+    "madeYear": "from 09.2018",
+    "kw": "119",
+    "hp": "162",
+    "cc": "1490",
+    "engineCodes": "15E4E",
+    "KBA_Numbers": "2180AAN"
+  }
+]

@@ -8,7 +8,7 @@
     "hp": "68",
     "cc": "1896",
     "engineCodes": "ABL",
-    "KBA_Numbers": "0600930  0600914  0603300  0603308  0603438"
+    "KBA_Numbers": "0600930, 0600914, 0603300, 0603308, 0603438"
   },
   {
     "brand": "VW",
@@ -19,7 +19,7 @@
     "hp": "84",
     "cc": "1968",
     "engineCodes": "AAC",
-    "KBA_Numbers": "0603519  0600932  0600875  0600884  0603433  0603303  0603311  0603441  0600833"
+    "KBA_Numbers": "0603519, 0600932, 0600875, 0600884, 0603433, 0603303, 0603311, 0603441, 0600833"
   },
   {
     "brand": "VW",
@@ -30,7 +30,7 @@
     "hp": "78",
     "cc": "2370",
     "engineCodes": "AAB",
-    "KBA_Numbers": "0600931  0600873  0600882  0603301  0603309  0600831"
+    "KBA_Numbers": "0600931, 0600873, 0600882, 0603301, 0603309, 0600831"
   },
   {
     "brand": "VW",
@@ -41,7 +41,7 @@
     "hp": "75",
     "cc": "2370",
     "engineCodes": "AJA",
-    "KBA_Numbers": "0603518  0603426  0603427  0603431  0603439"
+    "KBA_Numbers": "0603518, 0603426, 0603427, 0603431, 0603439"
   },
   {
     "brand": "VW",
@@ -52,7 +52,7 @@
     "hp": "78",
     "cc": "2370",
     "engineCodes": "AAB",
-    "KBA_Numbers": "0600921  0600934  0600917  0603432  0603306  0603314  0603440"
+    "KBA_Numbers": "0600921, 0600934, 0600917, 0603432, 0603306, 0603314, 0603440"
   },
   {
     "brand": "VW",
@@ -62,8 +62,8 @@
     "kw": "81",
     "hp": "110",
     "cc": "2461",
-    "engineCodes": "AEN  AEU  AAF  ACU",
-    "KBA_Numbers": "0600933  0600876  0600885  0603304  0603312  0600834"
+    "engineCodes": "AEN, AEU, AAF, ACU",
+    "KBA_Numbers": "0600933, 0600876, 0600885, 0603304, 0603312, 0600834"
   },
   {
     "brand": "VW",
@@ -73,8 +73,8 @@
     "kw": "85",
     "hp": "115",
     "cc": "2461",
-    "engineCodes": "APL  AVT  AET",
-    "KBA_Numbers": "0603340  0603341  0603443  0603663"
+    "engineCodes": "APL, AVT, AET",
+    "KBA_Numbers": "0603340, 0603341, 0603443, 0603663"
   },
   {
     "brand": "VW",
@@ -84,8 +84,8 @@
     "kw": "81",
     "hp": "110",
     "cc": "2461",
-    "engineCodes": "AEU  ACU  AAF",
-    "KBA_Numbers": "0600922  0600935  0600918  0603307  0603315"
+    "engineCodes": "AEU, ACU, AAF",
+    "KBA_Numbers": "0600922, 0600935, 0600918, 0603307, 0603315"
   },
   {
     "brand": "VW",
@@ -95,8 +95,8 @@
     "kw": "85",
     "hp": "115",
     "cc": "2461",
-    "engineCodes": "APL  AVT  AET",
-    "KBA_Numbers": "0603524  0603444  0603334  0603336  0603436  0603664"
+    "engineCodes": "APL, AVT, AET",
+    "KBA_Numbers": "0603524, 0603444, 0603334, 0603336, 0603436, 0603664"
   },
   {
     "brand": "VW",
@@ -106,8 +106,8 @@
     "kw": "75",
     "hp": "102",
     "cc": "2461",
-    "engineCodes": "AYC  AUF  ACV",
-    "KBA_Numbers": "0603302  0603310  0603320  0603442  0603661  0600292  0600293"
+    "engineCodes": "AYC, AUF, ACV",
+    "KBA_Numbers": "0603302, 0603310, 0603320, 0603442, 0603661, 0600292, 0600293"
   },
   {
     "brand": "VW",
@@ -117,8 +117,8 @@
     "kw": "65",
     "hp": "88",
     "cc": "2461",
-    "engineCodes": "AYY  AJT",
-    "KBA_Numbers": "0603459  0603660"
+    "engineCodes": "AYY, AJT",
+    "KBA_Numbers": "0603459, 0603660"
   },
   {
     "brand": "VW",
@@ -128,8 +128,8 @@
     "kw": "75",
     "hp": "102",
     "cc": "2461",
-    "engineCodes": "AXL  ACV",
-    "KBA_Numbers": "0603522  0603455  0603456  0603662"
+    "engineCodes": "AXL, ACV",
+    "KBA_Numbers": "0603522, 0603455, 0603456, 0603662"
   },
   {
     "brand": "VW",
@@ -140,7 +140,7 @@
     "hp": "68",
     "cc": "1896",
     "engineCodes": "ABL",
-    "KBA_Numbers": "0603001  0600236"
+    "KBA_Numbers": "0603001, 0600236"
   },
   {
     "brand": "VW",
@@ -151,7 +151,7 @@
     "hp": "84",
     "cc": "1968",
     "engineCodes": "AAC",
-    "KBA_Numbers": "0603004  0600205"
+    "KBA_Numbers": "0603004, 0600205"
   },
   {
     "brand": "VW",
@@ -162,7 +162,7 @@
     "hp": "78",
     "cc": "2370",
     "engineCodes": "AAB",
-    "KBA_Numbers": "0603002  0600203"
+    "KBA_Numbers": "0603002, 0600203"
   },
   {
     "brand": "VW",
@@ -184,7 +184,7 @@
     "hp": "78",
     "cc": "2370",
     "engineCodes": "AAB",
-    "KBA_Numbers": "0603017  0600239"
+    "KBA_Numbers": "0603017, 0600239"
   },
   {
     "brand": "VW",
@@ -194,8 +194,8 @@
     "kw": "81",
     "hp": "110",
     "cc": "2461",
-    "engineCodes": "AEN  AEU  ACU  AAF",
-    "KBA_Numbers": "0603005  0600206"
+    "engineCodes": "AEN, AEU, ACU, AAF",
+    "KBA_Numbers": "0603005, 0600206"
   },
   {
     "brand": "VW",
@@ -205,7 +205,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "2461",
-    "engineCodes": "APL  AVT  AET",
+    "engineCodes": "APL, AVT, AET",
     "KBA_Numbers": "0603028"
   },
   {
@@ -216,8 +216,8 @@
     "kw": "81",
     "hp": "110",
     "cc": "2461",
-    "engineCodes": "ACU  AEU  AAF",
-    "KBA_Numbers": "0603018  0600240"
+    "engineCodes": "ACU, AEU, AAF",
+    "KBA_Numbers": "0603018, 0600240"
   },
   {
     "brand": "VW",
@@ -227,7 +227,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "2461",
-    "engineCodes": "AVT  APL  AET",
+    "engineCodes": "AVT, APL, AET",
     "KBA_Numbers": "0603026"
   },
   {
@@ -238,8 +238,8 @@
     "kw": "75",
     "hp": "102",
     "cc": "2461",
-    "engineCodes": "AYC  AUF  ACV",
-    "KBA_Numbers": "0603003  0600260"
+    "engineCodes": "AYC, AUF, ACV",
+    "KBA_Numbers": "0603003, 0600260"
   },
   {
     "brand": "VW",
@@ -249,7 +249,7 @@
     "kw": "65",
     "hp": "88",
     "cc": "2461",
-    "engineCodes": "AYY  AJT",
+    "engineCodes": "AYY, AJT",
     "KBA_Numbers": "0603046"
   },
   {
@@ -260,7 +260,7 @@
     "kw": "75",
     "hp": "102",
     "cc": "2461",
-    "engineCodes": "AXL  ACV",
+    "engineCodes": "AXL, ACV",
     "KBA_Numbers": "0603043"
   },
   {
@@ -272,7 +272,7 @@
     "hp": "68",
     "cc": "1896",
     "engineCodes": "ABL",
-    "KBA_Numbers": "0603010  0600235"
+    "KBA_Numbers": "0603010, 0600235"
   },
   {
     "brand": "VW",
@@ -283,7 +283,7 @@
     "hp": "84",
     "cc": "1968",
     "engineCodes": "AAC",
-    "KBA_Numbers": "0603013  0600200"
+    "KBA_Numbers": "0603013, 0600200"
   },
   {
     "brand": "VW",
@@ -294,7 +294,7 @@
     "hp": "78",
     "cc": "2370",
     "engineCodes": "AAB",
-    "KBA_Numbers": "0600198  0603011"
+    "KBA_Numbers": "0600198, 0603011"
   },
   {
     "brand": "VW",
@@ -316,7 +316,7 @@
     "hp": "78",
     "cc": "2370",
     "engineCodes": "AAB",
-    "KBA_Numbers": "0603015  0600237"
+    "KBA_Numbers": "0603015, 0600237"
   },
   {
     "brand": "VW",
@@ -326,8 +326,8 @@
     "kw": "81",
     "hp": "110",
     "cc": "2461",
-    "engineCodes": "AEN  AEU  ACU  AAF",
-    "KBA_Numbers": "0603014  0600201"
+    "engineCodes": "AEN, AEU, ACU, AAF",
+    "KBA_Numbers": "0603014, 0600201"
   },
   {
     "brand": "VW",
@@ -337,7 +337,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "2461",
-    "engineCodes": "APL  AVT  AET",
+    "engineCodes": "APL, AVT, AET",
     "KBA_Numbers": "0603025"
   },
   {
@@ -348,8 +348,8 @@
     "kw": "81",
     "hp": "110",
     "cc": "2461",
-    "engineCodes": "AEU  ACU  AAF",
-    "KBA_Numbers": "0603016  0600238"
+    "engineCodes": "AEU, ACU, AAF",
+    "KBA_Numbers": "0603016, 0600238"
   },
   {
     "brand": "VW",
@@ -359,7 +359,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "2461",
-    "engineCodes": "APL  AVT  AET",
+    "engineCodes": "APL, AVT, AET",
     "KBA_Numbers": "0603027"
   },
   {
@@ -370,8 +370,8 @@
     "kw": "75",
     "hp": "102",
     "cc": "2461",
-    "engineCodes": "AYC  AUF  ACV",
-    "KBA_Numbers": "0603012  0600259"
+    "engineCodes": "AYC, AUF, ACV",
+    "KBA_Numbers": "0603012, 0600259"
   },
   {
     "brand": "VW",
@@ -381,7 +381,7 @@
     "kw": "65",
     "hp": "88",
     "cc": "2461",
-    "engineCodes": "AJT  AYY",
+    "engineCodes": "AJT, AYY",
     "KBA_Numbers": "0603045"
   },
   {
@@ -392,7 +392,7 @@
     "kw": "75",
     "hp": "102",
     "cc": "2461",
-    "engineCodes": "AXL  ACV",
+    "engineCodes": "AXL, ACV",
     "KBA_Numbers": "0603044"
   }
 ]

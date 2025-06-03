@@ -7,7 +7,7 @@
     "kw": "70",
     "hp": "95",
     "cc": "999",
-    "engineCodes": "DKLD  CHZB",
+    "engineCodes": "DKLD, CHZB",
     "KBA_Numbers": "0588BCV"
   },
   {
@@ -51,7 +51,7 @@
     "kw": "90",
     "hp": "122",
     "cc": "1390",
-    "engineCodes": "CAXA  CNVA",
+    "engineCodes": "CAXA, CNVA",
     "KBA_Numbers": "0588ANX"
   },
   {
@@ -62,7 +62,7 @@
     "kw": "136",
     "hp": "185",
     "cc": "1390",
-    "engineCodes": "CTHG  CAVG",
+    "engineCodes": "CTHG, CAVG",
     "KBA_Numbers": "0588AOC"
   },
   {
@@ -73,7 +73,7 @@
     "kw": "92",
     "hp": "125",
     "cc": "1395",
-    "engineCodes": "CZDD  CZCA",
+    "engineCodes": "CZDD, CZCA",
     "KBA_Numbers": "0588BCW"
   },
   {
@@ -161,7 +161,7 @@
     "kw": "70",
     "hp": "95",
     "cc": "999",
-    "engineCodes": "DKLD  CHZB",
+    "engineCodes": "DKLD, CHZB",
     "KBA_Numbers": "0588BDB"
   },
   {
@@ -184,7 +184,7 @@
     "hp": "86",
     "cc": "1197",
     "engineCodes": "CBZA",
-    "KBA_Numbers": "0588ANW  0588AUJ"
+    "KBA_Numbers": "0588ANW, 0588AUJ"
   },
   {
     "brand": "AUDI",
@@ -205,8 +205,8 @@
     "kw": "90",
     "hp": "122",
     "cc": "1390",
-    "engineCodes": "CNVA  CAXA",
-    "KBA_Numbers": "0588ANX  0588AUK"
+    "engineCodes": "CNVA, CAXA",
+    "KBA_Numbers": "0588ANX, 0588AUK"
   },
   {
     "brand": "AUDI",
@@ -216,8 +216,8 @@
     "kw": "136",
     "hp": "185",
     "cc": "1390",
-    "engineCodes": "CTHG  CAVG",
-    "KBA_Numbers": "0588AOC  0588AUN"
+    "engineCodes": "CTHG, CAVG",
+    "KBA_Numbers": "0588AOC, 0588AUN"
   },
   {
     "brand": "AUDI",
@@ -238,7 +238,7 @@
     "kw": "92",
     "hp": "125",
     "cc": "1395",
-    "engineCodes": "CZDD  CZCA",
+    "engineCodes": "CZDD, CZCA",
     "KBA_Numbers": "0588BDC"
   },
   {
@@ -261,7 +261,7 @@
     "hp": "90",
     "cc": "1598",
     "engineCodes": "CAYB",
-    "KBA_Numbers": "0588ANY  0588AUL"
+    "KBA_Numbers": "0588ANY, 0588AUL"
   },
   {
     "brand": "AUDI",
@@ -272,7 +272,7 @@
     "hp": "105",
     "cc": "1598",
     "engineCodes": "CAYC",
-    "KBA_Numbers": "0588ANZ  0588AUM"
+    "KBA_Numbers": "0588ANZ, 0588AUM"
   },
   {
     "brand": "AUDI",
@@ -326,7 +326,7 @@
     "kw": "132",
     "hp": "180",
     "cc": "1390",
-    "engineCodes": "CTJC  CTHE  CAVE",
+    "engineCodes": "CTJC, CTHE, CAVE",
     "KBA_Numbers": "7593ADW"
   },
   {
@@ -392,7 +392,7 @@
     "kw": "132",
     "hp": "180",
     "cc": "1390",
-    "engineCodes": "CTHE  CAVE",
+    "engineCodes": "CTHE, CAVE",
     "KBA_Numbers": "0603ATJ"
   },
   {
@@ -403,7 +403,7 @@
     "kw": "77",
     "hp": "105",
     "cc": "1422",
-    "engineCodes": "CUTA  CYZA",
+    "engineCodes": "CUTA, CYZA",
     "KBA_Numbers": "0603BPN"
   },
   {
@@ -436,7 +436,7 @@
     "kw": "141",
     "hp": "192",
     "cc": "1798",
-    "engineCodes": "DAJB  DAJA",
+    "engineCodes": "DAJB, DAJA",
     "KBA_Numbers": "0603BRE"
   },
   {

@@ -121098,5 +121098,26 @@
     "modeller_markalar::marka": "i CAR",
     "model": "V23",
     "model_Web": "V23"
+  },
+  {
+    "id": 17301,
+    "marka_id": 960,
+    "modeller_markalar::marka": "YUGO",
+    "model": "311",
+    "model_Web": "311"
+  },
+  {
+    "id": 17302,
+    "marka_id": 917,
+    "modeller_markalar::marka": "VW",
+    "model": "POLO Van V (6R1, 6C1) | POLO CityVan",
+    "model_Web": "POLO Van V (6R1, 6C1) | POLO CityVan"
+  },
+  {
+    "id": 17303,
+    "marka_id": 917,
+    "modeller_markalar::marka": "VW",
+    "model": "LOAD UP! (121, 122, BL1, BL2)",
+    "model_Web": "LOAD UP! (121, 122, BL1, BL2)"
   }
 ]

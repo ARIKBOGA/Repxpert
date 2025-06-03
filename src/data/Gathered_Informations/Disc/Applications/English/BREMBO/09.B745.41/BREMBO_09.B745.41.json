@@ -30,7 +30,7 @@
     "hp": "388",
     "cc": "5461",
     "engineCodes": "M 273.960",
-    "KBA_Numbers": "1313AAE  0999AHC"
+    "KBA_Numbers": "1313AAE, 0999AHC"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -63,7 +63,7 @@
     "hp": "314",
     "cc": "3996",
     "engineCodes": "OM 629.910",
-    "KBA_Numbers": "1313ACU  0999AFT  0999419"
+    "KBA_Numbers": "1313ACU, 0999AFT, 0999419"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -74,7 +74,7 @@
     "hp": "388",
     "cc": "5461",
     "engineCodes": "M 273.960",
-    "KBA_Numbers": "1313AHY  1313BFF  1313ADF  0999BAE  0999AGC  0999AGY"
+    "KBA_Numbers": "1313AHY, 1313BFF, 1313ADF, 0999BAE, 0999AGC, 0999AGY"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -85,7 +85,7 @@
     "hp": "388",
     "cc": "5461",
     "engineCodes": "M 273.971",
-    "KBA_Numbers": "1313BPJ  1313BHA  1313BKB"
+    "KBA_Numbers": "1313BPJ, 1313BHA, 1313BKB"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -96,7 +96,7 @@
     "hp": "408",
     "cc": "4663",
     "engineCodes": "M 278.922",
-    "KBA_Numbers": "1313DYC  1313BVH"
+    "KBA_Numbers": "1313DYC, 1313BVH"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -129,7 +129,7 @@
     "hp": "184",
     "cc": "1991",
     "engineCodes": "M 274.920",
-    "KBA_Numbers": "1313DDV  1313DEX"
+    "KBA_Numbers": "1313DDV, 1313DEX"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -151,7 +151,7 @@
     "hp": "184",
     "cc": "1796",
     "engineCodes": "M 271.860",
-    "KBA_Numbers": "1313BML  1313BMJ"
+    "KBA_Numbers": "1313BML, 1313BMJ"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -184,7 +184,7 @@
     "hp": "163",
     "cc": "2143",
     "engineCodes": "OM 651.924",
-    "KBA_Numbers": "1313BMH  1313BMK"
+    "KBA_Numbers": "1313BMH, 1313BMK"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -195,7 +195,7 @@
     "hp": "170",
     "cc": "2143",
     "engineCodes": "OM 651.924",
-    "KBA_Numbers": "1313BMD  1313BHK"
+    "KBA_Numbers": "1313BMD, 1313BHK"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -217,7 +217,7 @@
     "hp": "204",
     "cc": "2143",
     "engineCodes": "OM 651.924",
-    "KBA_Numbers": "1313BME  1313BHL  1313BQU"
+    "KBA_Numbers": "1313BME, 1313BHL, 1313BQU"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -282,8 +282,8 @@
     "kw": "170",
     "hp": "231",
     "cc": "2987",
-    "engineCodes": "OM 642.852  OM 642.850",
-    "KBA_Numbers": "1313BMF  1313BHM"
+    "engineCodes": "OM 642.852, OM 642.850",
+    "KBA_Numbers": "1313BMF, 1313BHM"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -294,7 +294,7 @@
     "hp": "306",
     "cc": "3498",
     "engineCodes": "M 276.952",
-    "KBA_Numbers": "1313BUQ  1313BVA"
+    "KBA_Numbers": "1313BUQ, 1313BVA"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -316,7 +316,7 @@
     "hp": "252",
     "cc": "2987",
     "engineCodes": "OM 642.852",
-    "KBA_Numbers": "1313DDX  1313DEY"
+    "KBA_Numbers": "1313DDX, 1313DEY"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -327,7 +327,7 @@
     "hp": "211",
     "cc": "2987",
     "engineCodes": "OM 642.850",
-    "KBA_Numbers": "1313BPE  0999AGK"
+    "KBA_Numbers": "1313BPE, 0999AGK"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -338,7 +338,7 @@
     "hp": "258",
     "cc": "2987",
     "engineCodes": "OM 642.852",
-    "KBA_Numbers": "1313EJC  1313EJE"
+    "KBA_Numbers": "1313EJC, 1313EJE"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -349,7 +349,7 @@
     "hp": "252",
     "cc": "2987",
     "engineCodes": "OM 642.858",
-    "KBA_Numbers": "1313DEC  1313DEZ"
+    "KBA_Numbers": "1313DEC, 1313DEZ"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -359,8 +359,8 @@
     "kw": "190",
     "hp": "258",
     "cc": "2987",
-    "engineCodes": "OM 642.852  OM 642.858",
-    "KBA_Numbers": "1313EJD  1313EJF"
+    "engineCodes": "OM 642.852, OM 642.858",
+    "KBA_Numbers": "1313EJD, 1313EJF"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -371,7 +371,7 @@
     "hp": "265",
     "cc": "2987",
     "engineCodes": "OM 642.852",
-    "KBA_Numbers": "1313BRP  1313BRR"
+    "KBA_Numbers": "1313BRP, 1313BRR"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -382,7 +382,7 @@
     "hp": "231",
     "cc": "2987",
     "engineCodes": "OM 642.850",
-    "KBA_Numbers": "1313BMF  1313BHM"
+    "KBA_Numbers": "1313BMF, 1313BHM"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -393,7 +393,7 @@
     "hp": "231",
     "cc": "2987",
     "engineCodes": "OM 642.856",
-    "KBA_Numbers": "1313BLY  1313BMG"
+    "KBA_Numbers": "1313BLY, 1313BMG"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -404,7 +404,7 @@
     "hp": "265",
     "cc": "2987",
     "engineCodes": "OM 642.858",
-    "KBA_Numbers": "1313BRQ  1313BRS"
+    "KBA_Numbers": "1313BRQ, 1313BRS"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -448,7 +448,7 @@
     "hp": "408",
     "cc": "4663",
     "engineCodes": "M 278.922",
-    "KBA_Numbers": "1313BUO  1313BVB"
+    "KBA_Numbers": "1313BUO, 1313BVB"
   },
   {
     "brand": "MERCEDES-BENZ",

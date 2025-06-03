@@ -8,7 +8,7 @@
     "hp": "120",
     "cc": "1368",
     "engineCodes": "198 A4.000",
-    "KBA_Numbers": "1742AAM  4136AXR"
+    "KBA_Numbers": "1742AAM, 4136AXR"
   },
   {
     "brand": "ALFA ROMEO",
@@ -19,7 +19,7 @@
     "hp": "150",
     "cc": "1368",
     "engineCodes": "940 C2.000",
-    "KBA_Numbers": "4136BCC  1742AAQ"
+    "KBA_Numbers": "4136BCC, 1742AAQ"
   },
   {
     "brand": "ALFA ROMEO",
@@ -29,8 +29,8 @@
     "kw": "88",
     "hp": "120",
     "cc": "1368",
-    "engineCodes": "940 B7.000  198 A4.000",
-    "KBA_Numbers": "4136APH  1742AAL"
+    "engineCodes": "940 B7.000, 198 A4.000",
+    "KBA_Numbers": "4136APH, 1742AAL"
   },
   {
     "brand": "ALFA ROMEO",
@@ -41,7 +41,7 @@
     "hp": "170",
     "cc": "1368",
     "engineCodes": "940 A2.000",
-    "KBA_Numbers": "4136API  1742AAI"
+    "KBA_Numbers": "4136API, 1742AAI"
   },
   {
     "brand": "ALFA ROMEO",
@@ -63,7 +63,7 @@
     "hp": "163",
     "cc": "1368",
     "engineCodes": "955 A8.000",
-    "KBA_Numbers": "4136ARJ  1742AAJ"
+    "KBA_Numbers": "4136ARJ, 1742AAJ"
   },
   {
     "brand": "ALFA ROMEO",
@@ -73,8 +73,8 @@
     "kw": "77",
     "hp": "105",
     "cc": "1368",
-    "engineCodes": "940 B8.000  940 B1.000",
-    "KBA_Numbers": "4136ASE  1742AAN"
+    "engineCodes": "940 B8.000, 940 B1.000",
+    "KBA_Numbers": "4136ASE, 1742AAN"
   },
   {
     "brand": "ALFA ROMEO",
@@ -95,8 +95,8 @@
     "kw": "88",
     "hp": "120",
     "cc": "1598",
-    "engineCodes": "940 C1.000  940 C5.000  552 80 444",
-    "KBA_Numbers": "4136BCV  1742AAU"
+    "engineCodes": "940 C1.000, 940 C5.000, 552 80 444",
+    "KBA_Numbers": "4136BCV, 1742AAU"
   },
   {
     "brand": "ALFA ROMEO",
@@ -128,8 +128,8 @@
     "kw": "125",
     "hp": "170",
     "cc": "1956",
-    "engineCodes": "940 A4.000  552 83 099",
-    "KBA_Numbers": "1742ABZ  4136APK"
+    "engineCodes": "940 A4.000, 552 83 099",
+    "KBA_Numbers": "1742ABZ, 4136APK"
   },
   {
     "brand": "ALFA ROMEO",
@@ -139,8 +139,8 @@
     "kw": "120",
     "hp": "163",
     "cc": "1956",
-    "engineCodes": "940 B9.000  940 A7.000",
-    "KBA_Numbers": "4136ARK  1742AAP"
+    "engineCodes": "940 B9.000, 940 A7.000",
+    "KBA_Numbers": "4136ARK, 1742AAP"
   },
   {
     "brand": "ALFA ROMEO",
@@ -150,8 +150,8 @@
     "kw": "100",
     "hp": "136",
     "cc": "1956",
-    "engineCodes": "940 C4.000  940 A8.000  940 B6.000",
-    "KBA_Numbers": "4136ARF  1742AAR"
+    "engineCodes": "940 C4.000, 940 A8.000, 940 B6.000",
+    "KBA_Numbers": "4136ARF, 1742AAR"
   },
   {
     "brand": "ALFA ROMEO",
@@ -161,8 +161,8 @@
     "kw": "110",
     "hp": "150",
     "cc": "1956",
-    "engineCodes": "940 C3.000  940 B5.000",
-    "KBA_Numbers": "1742AAV  4136BAR"
+    "engineCodes": "940 C3.000, 940 B5.000",
+    "KBA_Numbers": "1742AAV, 4136BAR"
   },
   {
     "brand": "ALFA ROMEO",
@@ -173,6 +173,6 @@
     "hp": "175",
     "cc": "1956",
     "engineCodes": "940 B4.000",
-    "KBA_Numbers": "4136BBJ  1742AAO"
+    "KBA_Numbers": "4136BBJ, 1742AAO"
   }
 ]

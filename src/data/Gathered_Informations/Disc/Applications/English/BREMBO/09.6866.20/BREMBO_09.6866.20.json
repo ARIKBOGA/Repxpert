@@ -173,7 +173,7 @@
     "hp": "136",
     "cc": "2198",
     "engineCodes": "X 22 XE",
-    "KBA_Numbers": "2127317  2127320"
+    "KBA_Numbers": "2127317, 2127320"
   },
   {
     "brand": "OPEL",
@@ -194,8 +194,8 @@
     "kw": "83",
     "hp": "113",
     "cc": "2771",
-    "engineCodes": "28TD  28 TDI (4JB1-T)",
-    "KBA_Numbers": "2127315  2127318"
+    "engineCodes": "28TD, 28 TDI (4JB1-T)",
+    "KBA_Numbers": "2127315, 2127318"
   },
   {
     "brand": "OPEL",
@@ -205,8 +205,8 @@
     "kw": "85",
     "hp": "115",
     "cc": "1998",
-    "engineCodes": "C 20 NE  X 20 SE",
-    "KBA_Numbers": "2127321  2127310"
+    "engineCodes": "C 20 NE, X 20 SE",
+    "KBA_Numbers": "2127321, 2127310"
   },
   {
     "brand": "OPEL",
@@ -216,7 +216,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "2499",
-    "engineCodes": "25TDS (VM41B)  25TD",
+    "engineCodes": "25TDS (VM41B), 25TD",
     "KBA_Numbers": "2127323"
   },
   {
@@ -238,7 +238,7 @@
     "kw": "85",
     "hp": "116",
     "cc": "2171",
-    "engineCodes": "X 22 DTH  Y 22 DTH",
+    "engineCodes": "X 22 DTH, Y 22 DTH",
     "KBA_Numbers": "0035370"
   },
   {
@@ -249,7 +249,7 @@
     "kw": "100",
     "hp": "136",
     "cc": "2198",
-    "engineCodes": "Y 22 SE  X 22 SE",
+    "engineCodes": "Y 22 SE, X 22 SE",
     "KBA_Numbers": "0035371"
   },
   {
@@ -272,7 +272,7 @@
     "hp": "114",
     "cc": "3059",
     "engineCodes": "4 JG2TC",
-    "KBA_Numbers": "7115311  7115313"
+    "KBA_Numbers": "7115311, 7115313"
   },
   {
     "brand": "OPEL",
@@ -283,7 +283,7 @@
     "hp": "177",
     "cc": "3165",
     "engineCodes": "6VD1 (SOHC)",
-    "KBA_Numbers": "7115310  7115312"
+    "KBA_Numbers": "7115310, 7115312"
   },
   {
     "brand": "VAUXHALL",
@@ -293,7 +293,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "1998",
-    "engineCodes": "X 20 SE  C 20 NE",
+    "engineCodes": "X 20 SE, C 20 NE",
     "KBA_Numbers": ""
   },
   {
@@ -359,7 +359,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "1998",
-    "engineCodes": "X 20 SE  C 20 NE",
+    "engineCodes": "X 20 SE, C 20 NE",
     "KBA_Numbers": ""
   },
   {
@@ -392,7 +392,7 @@
     "kw": "85",
     "hp": "116",
     "cc": "2171",
-    "engineCodes": "X 22 DTH  Y 22 DTH",
+    "engineCodes": "X 22 DTH, Y 22 DTH",
     "KBA_Numbers": ""
   },
   {
@@ -414,7 +414,7 @@
     "kw": "100",
     "hp": "136",
     "cc": "2198",
-    "engineCodes": "Y 22 SE  X 22 SE",
+    "engineCodes": "Y 22 SE, X 22 SE",
     "KBA_Numbers": ""
   },
   {

@@ -8,7 +8,7 @@
     "hp": "143",
     "cc": "1984",
     "engineCodes": "B 5204 FS",
-    "KBA_Numbers": "9101487  9101727"
+    "KBA_Numbers": "9101487, 9101727"
   },
   {
     "brand": "VOLVO",
@@ -19,7 +19,7 @@
     "hp": "126",
     "cc": "1984",
     "engineCodes": "B 5202 S",
-    "KBA_Numbers": "9101715  9101726"
+    "KBA_Numbers": "9101715, 9101726"
   },
   {
     "brand": "VOLVO",
@@ -29,7 +29,7 @@
     "kw": "155",
     "hp": "210",
     "cc": "1984",
-    "engineCodes": "B 5204 T  B 5204 FT",
+    "engineCodes": "B 5204 T, B 5204 FT",
     "KBA_Numbers": "9101729"
   },
   {
@@ -96,7 +96,7 @@
     "hp": "170",
     "cc": "2435",
     "engineCodes": "B 5254 S",
-    "KBA_Numbers": "9101488  9101732"
+    "KBA_Numbers": "9101488, 9101732"
   },
   {
     "brand": "VOLVO",
@@ -107,7 +107,7 @@
     "hp": "144",
     "cc": "2435",
     "engineCodes": "B 5252 FS",
-    "KBA_Numbers": "9101700  9101731"
+    "KBA_Numbers": "9101700, 9101731"
   },
   {
     "brand": "VOLVO",
@@ -129,7 +129,7 @@
     "hp": "140",
     "cc": "2460",
     "engineCodes": "D 5252 T",
-    "KBA_Numbers": "9101719  9101734"
+    "KBA_Numbers": "9101719, 9101734"
   },
   {
     "brand": "VOLVO",
@@ -140,7 +140,7 @@
     "hp": "226",
     "cc": "2319",
     "engineCodes": "B 5234 FT",
-    "KBA_Numbers": "9101496  9101733"
+    "KBA_Numbers": "9101496, 9101733"
   },
   {
     "brand": "VOLVO",
@@ -162,7 +162,7 @@
     "hp": "250",
     "cc": "2319",
     "engineCodes": "B 5234 T4",
-    "KBA_Numbers": "9101718  9101730"
+    "KBA_Numbers": "9101718, 9101730"
   },
   {
     "brand": "VOLVO",
@@ -184,7 +184,7 @@
     "hp": "126",
     "cc": "1984",
     "engineCodes": "B 5202 S",
-    "KBA_Numbers": "9101714  9101735"
+    "KBA_Numbers": "9101714, 9101735"
   },
   {
     "brand": "VOLVO",
@@ -194,7 +194,7 @@
     "kw": "155",
     "hp": "210",
     "cc": "1984",
-    "engineCodes": "B 5204 FT  B 5204 T",
+    "engineCodes": "B 5204 FT, B 5204 T",
     "KBA_Numbers": "9101738"
   },
   {
@@ -239,7 +239,7 @@
     "hp": "170",
     "cc": "2435",
     "engineCodes": "B 5254 S",
-    "KBA_Numbers": "9101740  9101494"
+    "KBA_Numbers": "9101740, 9101494"
   },
   {
     "brand": "VOLVO",
@@ -250,7 +250,7 @@
     "hp": "144",
     "cc": "2435",
     "engineCodes": "B 5252 FS",
-    "KBA_Numbers": "9101741  9101701"
+    "KBA_Numbers": "9101741, 9101701"
   },
   {
     "brand": "VOLVO",
@@ -272,7 +272,7 @@
     "hp": "140",
     "cc": "2460",
     "engineCodes": "D 5252 T",
-    "KBA_Numbers": "9101743  9101721"
+    "KBA_Numbers": "9101743, 9101721"
   },
   {
     "brand": "VOLVO",
@@ -283,7 +283,7 @@
     "hp": "226",
     "cc": "2319",
     "engineCodes": "B 5234 FT",
-    "KBA_Numbers": "9101742  9101497"
+    "KBA_Numbers": "9101742, 9101497"
   },
   {
     "brand": "VOLVO",
@@ -305,7 +305,7 @@
     "hp": "250",
     "cc": "2319",
     "engineCodes": "B 5234 T4",
-    "KBA_Numbers": "9101739  9101720"
+    "KBA_Numbers": "9101739, 9101720"
   },
   {
     "brand": "VOLVO",
@@ -349,7 +349,7 @@
     "hp": "135",
     "cc": "2316",
     "engineCodes": "B 230 FK",
-    "KBA_Numbers": "9101750  9101717"
+    "KBA_Numbers": "9101750, 9101717"
   },
   {
     "brand": "VOLVO",
@@ -360,7 +360,7 @@
     "hp": "170",
     "cc": "2473",
     "engineCodes": "B 6254 S",
-    "KBA_Numbers": "9101752  9101704"
+    "KBA_Numbers": "9101752, 9101704"
   },
   {
     "brand": "VOLVO",
@@ -371,7 +371,7 @@
     "hp": "204",
     "cc": "2922",
     "engineCodes": "B 6304 S",
-    "KBA_Numbers": "9101754  9101702"
+    "KBA_Numbers": "9101754, 9101702"
   },
   {
     "brand": "VOLVO",
@@ -382,7 +382,7 @@
     "hp": "170",
     "cc": "2473",
     "engineCodes": "B 6254 S",
-    "KBA_Numbers": "9101753  9101705"
+    "KBA_Numbers": "9101753, 9101705"
   },
   {
     "brand": "VOLVO",
@@ -393,7 +393,7 @@
     "hp": "204",
     "cc": "2922",
     "engineCodes": "B 6304 S",
-    "KBA_Numbers": "9101755  9101703"
+    "KBA_Numbers": "9101755, 9101703"
   },
   {
     "brand": "VOLVO",
@@ -447,7 +447,7 @@
     "kw": "142",
     "hp": "193",
     "cc": "2435",
-    "engineCodes": "B 5244 T  B 5254 T",
+    "engineCodes": "B 5244 T, B 5254 T",
     "KBA_Numbers": "9101792"
   },
   {
@@ -535,7 +535,7 @@
     "kw": "125",
     "hp": "170",
     "cc": "2435",
-    "engineCodes": "B 5244 S  B 5254 S",
+    "engineCodes": "B 5244 S, B 5254 S",
     "KBA_Numbers": "9101823"
   },
   {
@@ -546,7 +546,7 @@
     "kw": "142",
     "hp": "193",
     "cc": "2435",
-    "engineCodes": "B 5244 T  B 5254 T",
+    "engineCodes": "B 5244 T, B 5254 T",
     "KBA_Numbers": "9101778"
   },
   {
@@ -568,7 +568,7 @@
     "kw": "93",
     "hp": "126",
     "cc": "1984",
-    "engineCodes": "B 5202 FS  B 5202 S",
+    "engineCodes": "B 5202 FS, B 5202 S",
     "KBA_Numbers": "9101726"
   },
   {
@@ -624,7 +624,7 @@
     "hp": "226",
     "cc": "1984",
     "engineCodes": "B 5204 T3",
-    "KBA_Numbers": "9101806  9101766"
+    "KBA_Numbers": "9101806, 9101766"
   },
   {
     "brand": "VOLVO",
@@ -689,7 +689,7 @@
     "kw": "125",
     "hp": "170",
     "cc": "2435",
-    "engineCodes": "B 5244 S  B 5254 S",
+    "engineCodes": "B 5244 S, B 5254 S",
     "KBA_Numbers": "9101732"
   },
   {
@@ -711,7 +711,7 @@
     "kw": "103",
     "hp": "140",
     "cc": "2435",
-    "engineCodes": "B 5244 S2  B 5244 SG",
+    "engineCodes": "B 5244 S2, B 5244 SG",
     "KBA_Numbers": "9101814"
   },
   {
@@ -788,7 +788,7 @@
     "kw": "103",
     "hp": "140",
     "cc": "2435",
-    "engineCodes": "B 5244 S2  B 5244 SG",
+    "engineCodes": "B 5244 S2, B 5244 SG",
     "KBA_Numbers": ""
   },
   {
@@ -810,7 +810,7 @@
     "kw": "142",
     "hp": "193",
     "cc": "2435",
-    "engineCodes": "B 5244 T  B 5254 T",
+    "engineCodes": "B 5244 T, B 5254 T",
     "KBA_Numbers": "9101759"
   },
   {
@@ -843,7 +843,7 @@
     "kw": "132",
     "hp": "180",
     "cc": "2922",
-    "engineCodes": "B 6304 S2  B 6304 FS2",
+    "engineCodes": "B 6304 S2, B 6304 FS2",
     "KBA_Numbers": "9101773"
   },
   {
@@ -865,7 +865,7 @@
     "kw": "93",
     "hp": "126",
     "cc": "1984",
-    "engineCodes": "B 5202 FS  B 5202 S",
+    "engineCodes": "B 5202 FS, B 5202 S",
     "KBA_Numbers": "9101735"
   },
   {
@@ -964,7 +964,7 @@
     "kw": "195",
     "hp": "265",
     "cc": "2319",
-    "engineCodes": "B 5234 T8  B 5234 T7",
+    "engineCodes": "B 5234 T8, B 5234 T7",
     "KBA_Numbers": ""
   },
   {
@@ -1030,7 +1030,7 @@
     "kw": "125",
     "hp": "170",
     "cc": "2435",
-    "engineCodes": "B 5254 FS  B 5244 S  B 5254 S",
+    "engineCodes": "B 5254 FS, B 5244 S, B 5254 S",
     "KBA_Numbers": "9101740"
   },
   {
@@ -1052,7 +1052,7 @@
     "kw": "103",
     "hp": "140",
     "cc": "2435",
-    "engineCodes": "B 5244 S2  B 5244 SG2",
+    "engineCodes": "B 5244 S2, B 5244 SG2",
     "KBA_Numbers": "9101815"
   },
   {
@@ -1096,7 +1096,7 @@
     "kw": "142",
     "hp": "193",
     "cc": "2435",
-    "engineCodes": "B 5244 T  B 5254 T",
+    "engineCodes": "B 5244 T, B 5254 T",
     "KBA_Numbers": "9101760"
   },
   {
@@ -1107,7 +1107,7 @@
     "kw": "142",
     "hp": "193",
     "cc": "2435",
-    "engineCodes": "B 5244 T  B 5254 T",
+    "engineCodes": "B 5244 T, B 5254 T",
     "KBA_Numbers": "9101761"
   },
   {
@@ -1151,7 +1151,7 @@
     "kw": "132",
     "hp": "180",
     "cc": "2922",
-    "engineCodes": "B 6304 S2  B 6304 FS2",
+    "engineCodes": "B 6304 S2, B 6304 FS2",
     "KBA_Numbers": "9101774"
   },
   {
@@ -1162,7 +1162,7 @@
     "kw": "150",
     "hp": "204",
     "cc": "2922",
-    "engineCodes": "B 6304 FS  B 6304 GS",
+    "engineCodes": "B 6304 FS, B 6304 GS",
     "KBA_Numbers": "9101755"
   },
   {

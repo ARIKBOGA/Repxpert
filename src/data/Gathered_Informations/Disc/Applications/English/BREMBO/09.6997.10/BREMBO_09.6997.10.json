@@ -51,7 +51,7 @@
     "kw": "125",
     "hp": "170",
     "cc": "2498",
-    "engineCodes": "C 25 XE  X 25 XE",
+    "engineCodes": "C 25 XE, X 25 XE",
     "KBA_Numbers": "0039904"
   },
   {
@@ -106,7 +106,7 @@
     "kw": "74",
     "hp": "100",
     "cc": "1598",
-    "engineCodes": "X 16 XEL  Y 16 XE  Z 16 XE",
+    "engineCodes": "X 16 XEL, Y 16 XE, Z 16 XE",
     "KBA_Numbers": "0039943"
   },
   {
@@ -117,7 +117,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "1796",
-    "engineCodes": "Z 18 XEL  X 18 XE1",
+    "engineCodes": "Z 18 XEL, X 18 XE1",
     "KBA_Numbers": "0039945"
   },
   {
@@ -161,7 +161,7 @@
     "kw": "74",
     "hp": "101",
     "cc": "1995",
-    "engineCodes": "X 20 DTH  Y 20 DTH",
+    "engineCodes": "X 20 DTH, Y 20 DTH",
     "KBA_Numbers": "0039172"
   },
   {
@@ -183,7 +183,7 @@
     "kw": "100",
     "hp": "136",
     "cc": "1998",
-    "engineCodes": "X 20 XEV  C 20 SEL",
+    "engineCodes": "X 20 XEV, C 20 SEL",
     "KBA_Numbers": "0039946"
   },
   {
@@ -260,7 +260,7 @@
     "kw": "74",
     "hp": "100",
     "cc": "1598",
-    "engineCodes": "Z 16 XE  Y 16 XE  X 16 XEL",
+    "engineCodes": "Z 16 XE, Y 16 XE, X 16 XEL",
     "KBA_Numbers": "0039961"
   },
   {
@@ -271,7 +271,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "1796",
-    "engineCodes": "Z 18 XEL  X 18 XE1",
+    "engineCodes": "Z 18 XEL, X 18 XE1",
     "KBA_Numbers": "0039962"
   },
   {
@@ -315,7 +315,7 @@
     "kw": "74",
     "hp": "101",
     "cc": "1995",
-    "engineCodes": "X 20 DTH  Y 20 DTH",
+    "engineCodes": "X 20 DTH, Y 20 DTH",
     "KBA_Numbers": "0039171"
   },
   {
@@ -337,7 +337,7 @@
     "kw": "100",
     "hp": "136",
     "cc": "1998",
-    "engineCodes": "X 20 XEV  C 20 SEL",
+    "engineCodes": "X 20 XEV, C 20 SEL",
     "KBA_Numbers": "0039963"
   },
   {
@@ -458,7 +458,7 @@
     "kw": "74",
     "hp": "101",
     "cc": "1598",
-    "engineCodes": "Z 16 XE  Y 16 XE  X 16 XEL",
+    "engineCodes": "Z 16 XE, Y 16 XE, X 16 XEL",
     "KBA_Numbers": "0039949"
   },
   {
@@ -469,7 +469,7 @@
     "kw": "85",
     "hp": "116",
     "cc": "1796",
-    "engineCodes": "Z 18 XEL  X 18 XE1",
+    "engineCodes": "Z 18 XEL, X 18 XE1",
     "KBA_Numbers": "0039951"
   },
   {
@@ -513,7 +513,7 @@
     "kw": "74",
     "hp": "101",
     "cc": "1995",
-    "engineCodes": "X 20 DTH  Y 20 DTH",
+    "engineCodes": "X 20 DTH, Y 20 DTH",
     "KBA_Numbers": "0039173"
   },
   {
@@ -535,7 +535,7 @@
     "kw": "100",
     "hp": "136",
     "cc": "1998",
-    "engineCodes": "X 20 XEV  C 20 SEL",
+    "engineCodes": "X 20 XEV, C 20 SEL",
     "KBA_Numbers": "0039952"
   },
   {
@@ -634,7 +634,7 @@
     "kw": "136",
     "hp": "185",
     "cc": "1985",
-    "engineCodes": "B205L  B204L  B205E",
+    "engineCodes": "B205L, B204L, B205E",
     "KBA_Numbers": "9116379"
   },
   {
@@ -678,7 +678,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "2171",
-    "engineCodes": "D223L  X 22 DTH",
+    "engineCodes": "D223L, X 22 DTH",
     "KBA_Numbers": "9116387"
   },
   {
@@ -723,7 +723,7 @@
     "hp": "224",
     "cc": "2290",
     "engineCodes": "B235R",
-    "KBA_Numbers": "9116400  9116404"
+    "KBA_Numbers": "9116400, 9116404"
   },
   {
     "brand": "SAAB",
@@ -755,7 +755,7 @@
     "kw": "136",
     "hp": "185",
     "cc": "1985",
-    "engineCodes": "B205L  B205E  B204L",
+    "engineCodes": "B205L, B205E, B204L",
     "KBA_Numbers": "9116380"
   },
   {
@@ -822,7 +822,7 @@
     "hp": "224",
     "cc": "2290",
     "engineCodes": "B235R",
-    "KBA_Numbers": "9116401  9116405"
+    "KBA_Numbers": "9116401, 9116405"
   },
   {
     "brand": "SAAB",
@@ -844,7 +844,7 @@
     "hp": "150",
     "cc": "1985",
     "engineCodes": "B205E",
-    "KBA_Numbers": "9116AAA  9116385"
+    "KBA_Numbers": "9116AAA, 9116385"
   },
   {
     "brand": "SAAB",
@@ -855,7 +855,7 @@
     "hp": "185",
     "cc": "1985",
     "engineCodes": "B205L",
-    "KBA_Numbers": "9116AAB  9116408"
+    "KBA_Numbers": "9116AAB, 9116408"
   },
   {
     "brand": "SAAB",
@@ -910,7 +910,7 @@
     "hp": "185",
     "cc": "2290",
     "engineCodes": "B235E",
-    "KBA_Numbers": "9116AAC  9116410"
+    "KBA_Numbers": "9116AAC, 9116410"
   },
   {
     "brand": "SAAB",
@@ -932,7 +932,7 @@
     "hp": "220",
     "cc": "2290",
     "engineCodes": "B235L",
-    "KBA_Numbers": "9116435  9116AAD"
+    "KBA_Numbers": "9116435, 9116AAD"
   },
   {
     "brand": "SAAB",
@@ -998,7 +998,7 @@
     "hp": "150",
     "cc": "1985",
     "engineCodes": "B205E",
-    "KBA_Numbers": "9116AAG  9116395"
+    "KBA_Numbers": "9116AAG, 9116395"
   },
   {
     "brand": "SAAB",
@@ -1020,7 +1020,7 @@
     "hp": "185",
     "cc": "1985",
     "engineCodes": "B205L",
-    "KBA_Numbers": "9116AAH  9116409"
+    "KBA_Numbers": "9116AAH, 9116409"
   },
   {
     "brand": "SAAB",
@@ -1064,7 +1064,7 @@
     "hp": "185",
     "cc": "2290",
     "engineCodes": "B235E",
-    "KBA_Numbers": "9116AAI  9116411"
+    "KBA_Numbers": "9116AAI, 9116411"
   },
   {
     "brand": "SAAB",
@@ -1097,7 +1097,7 @@
     "hp": "220",
     "cc": "2290",
     "engineCodes": "B235L",
-    "KBA_Numbers": "9116436  9116AAJ"
+    "KBA_Numbers": "9116436, 9116AAJ"
   },
   {
     "brand": "SAAB",
@@ -1185,7 +1185,7 @@
     "hp": "185",
     "cc": "1985",
     "engineCodes": "B204L",
-    "KBA_Numbers": "9116357  9116380"
+    "KBA_Numbers": "9116357, 9116380"
   },
   {
     "brand": "SAAB",
@@ -1196,7 +1196,7 @@
     "hp": "131",
     "cc": "1985",
     "engineCodes": "B204I",
-    "KBA_Numbers": "9116359  9116378"
+    "KBA_Numbers": "9116359, 9116378"
   },
   {
     "brand": "SAAB",
@@ -1207,7 +1207,7 @@
     "hp": "150",
     "cc": "2290",
     "engineCodes": "B234I",
-    "KBA_Numbers": "9116355  9116382"
+    "KBA_Numbers": "9116355, 9116382"
   },
   {
     "brand": "SAAB",
@@ -1218,7 +1218,7 @@
     "hp": "170",
     "cc": "2498",
     "engineCodes": "B258I",
-    "KBA_Numbers": "9116356  9116384"
+    "KBA_Numbers": "9116356, 9116384"
   },
   {
     "brand": "SAAB",
@@ -1294,7 +1294,7 @@
     "kw": "125",
     "hp": "170",
     "cc": "2498",
-    "engineCodes": "X 25 XE  C 25 XE",
+    "engineCodes": "X 25 XE, C 25 XE",
     "KBA_Numbers": ""
   },
   {
@@ -1360,7 +1360,7 @@
     "kw": "74",
     "hp": "101",
     "cc": "1995",
-    "engineCodes": "X 20 DTH  Y 20 DTH",
+    "engineCodes": "X 20 DTH, Y 20 DTH",
     "KBA_Numbers": ""
   },
   {
@@ -1459,7 +1459,7 @@
     "kw": "74",
     "hp": "101",
     "cc": "1598",
-    "engineCodes": "Z 16 XE  Y 16 XE  X 16 XEL",
+    "engineCodes": "Z 16 XE, Y 16 XE, X 16 XEL",
     "KBA_Numbers": ""
   },
   {
@@ -1525,7 +1525,7 @@
     "kw": "74",
     "hp": "101",
     "cc": "1995",
-    "engineCodes": "X 20 DTH  Y 20 DTH",
+    "engineCodes": "X 20 DTH, Y 20 DTH",
     "KBA_Numbers": ""
   },
   {
@@ -1624,7 +1624,7 @@
     "kw": "74",
     "hp": "100",
     "cc": "1598",
-    "engineCodes": "Y 16 XE  X 16 XEL  Z 16 XE",
+    "engineCodes": "Y 16 XE, X 16 XEL, Z 16 XE",
     "KBA_Numbers": ""
   },
   {
@@ -1690,7 +1690,7 @@
     "kw": "74",
     "hp": "101",
     "cc": "1995",
-    "engineCodes": "X 20 DTH  Y 20 DTH",
+    "engineCodes": "X 20 DTH, Y 20 DTH",
     "KBA_Numbers": ""
   },
   {

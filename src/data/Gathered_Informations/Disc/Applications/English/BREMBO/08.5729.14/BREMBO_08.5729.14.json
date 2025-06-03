@@ -8,7 +8,7 @@
     "hp": "88",
     "cc": "1580",
     "engineCodes": "BFZ (XU5JP)",
-    "KBA_Numbers": "3001236  3001626"
+    "KBA_Numbers": "3001236, 3001626"
   },
   {
     "brand": "CITROËN",
@@ -19,7 +19,7 @@
     "hp": "101",
     "cc": "1761",
     "engineCodes": "LFZ (XU7JP)",
-    "KBA_Numbers": "3001233  3001628"
+    "KBA_Numbers": "3001233, 3001628"
   },
   {
     "brand": "CITROËN",
@@ -30,7 +30,7 @@
     "hp": "90",
     "cc": "1761",
     "engineCodes": "LFX (XU7JB)",
-    "KBA_Numbers": "3001639  3001687"
+    "KBA_Numbers": "3001639, 3001687"
   },
   {
     "brand": "CITROËN",
@@ -41,7 +41,7 @@
     "hp": "110",
     "cc": "1761",
     "engineCodes": "LFY  (XU7JP4)",
-    "KBA_Numbers": "3001272  3001689  3001625"
+    "KBA_Numbers": "3001272, 3001689, 3001625"
   },
   {
     "brand": "CITROËN",
@@ -74,7 +74,7 @@
     "hp": "75",
     "cc": "1905",
     "engineCodes": "DHW (XUD9SD)",
-    "KBA_Numbers": "3001699  3001292  3001299"
+    "KBA_Numbers": "3001699, 3001292, 3001299"
   },
   {
     "brand": "CITROËN",
@@ -84,8 +84,8 @@
     "kw": "66",
     "hp": "90",
     "cc": "1905",
-    "engineCodes": "DHY (XUD9TE/Y)  DHX (XUD9TF)  DHX (XUD9BTF)",
-    "KBA_Numbers": "3001701  3001237  3001603"
+    "engineCodes": "DHY (XUD9TE/Y), DHX (XUD9TF), DHX (XUD9BTF)",
+    "KBA_Numbers": "3001701, 3001237, 3001603"
   },
   {
     "brand": "CITROËN",
@@ -118,7 +118,7 @@
     "hp": "121",
     "cc": "1998",
     "engineCodes": "RFX (XU10J2C)",
-    "KBA_Numbers": "3001234  3001627  3001691"
+    "KBA_Numbers": "3001234, 3001627, 3001691"
   },
   {
     "brand": "CITROËN",
@@ -151,7 +151,7 @@
     "hp": "132",
     "cc": "1998",
     "engineCodes": "RFV (XU10J4R)",
-    "KBA_Numbers": "3001273  3001693  3001624"
+    "KBA_Numbers": "3001273, 3001693, 3001624"
   },
   {
     "brand": "CITROËN",
@@ -162,7 +162,7 @@
     "hp": "147",
     "cc": "1998",
     "engineCodes": "RGX (XU10J2TE)",
-    "KBA_Numbers": "3001274  3001695  3001623"
+    "KBA_Numbers": "3001274, 3001695, 3001623"
   },
   {
     "brand": "CITROËN",
@@ -173,7 +173,7 @@
     "hp": "109",
     "cc": "2088",
     "engineCodes": "P8C (XUD11BTE)",
-    "KBA_Numbers": "3001703  3001275  3001629"
+    "KBA_Numbers": "3001703, 3001275, 3001629"
   },
   {
     "brand": "CITROËN",
@@ -184,7 +184,7 @@
     "hp": "190",
     "cc": "2946",
     "engineCodes": "XFZ (ES9J4)",
-    "KBA_Numbers": "3001697  3001608"
+    "KBA_Numbers": "3001697, 3001608"
   },
   {
     "brand": "CITROËN",
@@ -195,7 +195,7 @@
     "hp": "90",
     "cc": "1761",
     "engineCodes": "LFX (XU7JB)",
-    "KBA_Numbers": "3001640  3001688"
+    "KBA_Numbers": "3001640, 3001688"
   },
   {
     "brand": "CITROËN",
@@ -206,6 +206,6 @@
     "hp": "75",
     "cc": "1905",
     "engineCodes": "DHW (XUD9SD)",
-    "KBA_Numbers": "3001700  3001638"
+    "KBA_Numbers": "3001700, 3001638"
   }
 ]

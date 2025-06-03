@@ -7,7 +7,7 @@
     "kw": "80",
     "hp": "109",
     "cc": "1499",
-    "engineCodes": "4A91  M 135.950 (4A91)",
+    "engineCodes": "4A91, M 135.950 (4A91)",
     "KBA_Numbers": "9758AAA"
   },
   {
@@ -29,8 +29,8 @@
     "kw": "55",
     "hp": "75",
     "cc": "1124",
-    "engineCodes": "3A91  M 134.910 (3A91)",
-    "KBA_Numbers": "9758AAU  9758001  9758006  9758AAD  9758AAC  9758AAM"
+    "engineCodes": "3A91, M 134.910 (3A91)",
+    "KBA_Numbers": "9758AAU, 9758001, 9758006, 9758AAD, 9758AAC, 9758AAM"
   },
   {
     "brand": "MITSUBISHI",
@@ -40,8 +40,8 @@
     "kw": "70",
     "hp": "95",
     "cc": "1332",
-    "engineCodes": "4A90  M 135.930 (4A90)",
-    "KBA_Numbers": "9758AAN  9758002  9758007  9758AAF  9758AAE"
+    "engineCodes": "4A90, M 135.930 (4A90)",
+    "KBA_Numbers": "9758AAN, 9758002, 9758007, 9758AAF, 9758AAE"
   },
   {
     "brand": "MITSUBISHI",
@@ -73,8 +73,8 @@
     "kw": "80",
     "hp": "109",
     "cc": "1499",
-    "engineCodes": "4A91  M 135.950 (4A91)",
-    "KBA_Numbers": "9758AAO  9758003  9758008  9758AAH  9758AAG"
+    "engineCodes": "4A91, M 135.950 (4A91)",
+    "KBA_Numbers": "9758AAO, 9758003, 9758008, 9758AAH, 9758AAG"
   },
   {
     "brand": "MITSUBISHI",
@@ -85,7 +85,7 @@
     "hp": "150",
     "cc": "1468",
     "engineCodes": "4G15T",
-    "KBA_Numbers": "9758AAQ  9758AAP  9758AAT  9758009"
+    "KBA_Numbers": "9758AAQ, 9758AAP, 9758AAT, 9758009"
   },
   {
     "brand": "MITSUBISHI",
@@ -96,7 +96,7 @@
     "hp": "68",
     "cc": "1493",
     "engineCodes": "OM 639.939",
-    "KBA_Numbers": "9758AAR  9758005  9758010  9758AAI  9758AAJ"
+    "KBA_Numbers": "9758AAR, 9758005, 9758010, 9758AAI, 9758AAJ"
   },
   {
     "brand": "MITSUBISHI",
@@ -107,7 +107,7 @@
     "hp": "95",
     "cc": "1493",
     "engineCodes": "OM 639.939",
-    "KBA_Numbers": "9758AAS  9758004  9758011  9758AAK  9758AAL"
+    "KBA_Numbers": "9758AAS, 9758004, 9758011, 9758AAK, 9758AAL"
   },
   {
     "brand": "MITSUBISHI",
@@ -129,7 +129,7 @@
     "hp": "75",
     "cc": "1124",
     "engineCodes": "M 134.910",
-    "KBA_Numbers": "9891016  9891AAK"
+    "KBA_Numbers": "9891016, 9891AAK"
   },
   {
     "brand": "SMART",
@@ -139,8 +139,8 @@
     "kw": "47",
     "hp": "64",
     "cc": "1124",
-    "engineCodes": "M 134.911  M 134.910",
-    "KBA_Numbers": "9891021  9891AAN"
+    "engineCodes": "M 134.911, M 134.910",
+    "KBA_Numbers": "9891021, 9891AAN"
   },
   {
     "brand": "SMART",
@@ -151,7 +151,7 @@
     "hp": "95",
     "cc": "1332",
     "engineCodes": "M 135.930",
-    "KBA_Numbers": "9891015  9891AAJ"
+    "KBA_Numbers": "9891015, 9891AAJ"
   },
   {
     "brand": "SMART",
@@ -162,7 +162,7 @@
     "hp": "109",
     "cc": "1499",
     "engineCodes": "M 135.950",
-    "KBA_Numbers": "9891014  9891AAL"
+    "KBA_Numbers": "9891014, 9891AAL"
   },
   {
     "brand": "SMART",
@@ -173,7 +173,7 @@
     "hp": "122",
     "cc": "1499",
     "engineCodes": "M 135.950",
-    "KBA_Numbers": "9891017  9891AAM"
+    "KBA_Numbers": "9891017, 9891AAM"
   },
   {
     "brand": "SMART",
@@ -184,7 +184,7 @@
     "hp": "177",
     "cc": "1468",
     "engineCodes": "M 122.950",
-    "KBA_Numbers": "9891022  9891AAO"
+    "KBA_Numbers": "9891022, 9891AAO"
   },
   {
     "brand": "SMART",
@@ -195,7 +195,7 @@
     "hp": "68",
     "cc": "1493",
     "engineCodes": "OM 639.939",
-    "KBA_Numbers": "9891018  9891AAI"
+    "KBA_Numbers": "9891018, 9891AAI"
   },
   {
     "brand": "SMART",
@@ -206,6 +206,6 @@
     "hp": "95",
     "cc": "1493",
     "engineCodes": "OM 639.939",
-    "KBA_Numbers": "9891019  9891AAH"
+    "KBA_Numbers": "9891019, 9891AAH"
   }
 ]

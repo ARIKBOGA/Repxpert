@@ -7,8 +7,8 @@
     "kw": "175",
     "hp": "238",
     "cc": "E400V16",
-    "engineCodes": "9101BZH",
-    "KBA_Numbers": ""
+    "engineCodes": "E400V16",
+    "KBA_Numbers": "9101BZH"
   },
   {
     "brand": "VOLVO",
@@ -18,8 +18,8 @@
     "kw": "185",
     "hp": "252",
     "cc": "E400V8",
-    "engineCodes": "9101BYK",
-    "KBA_Numbers": ""
+    "engineCodes": "E400V8",
+    "KBA_Numbers": "9101BYK"
   },
   {
     "brand": "VOLVO",
@@ -29,8 +29,8 @@
     "kw": "300",
     "hp": "408",
     "cc": "E400V6  E400V12",
-    "engineCodes": "9101BTE",
-    "KBA_Numbers": ""
+    "engineCodes": "E400V6, E400V12",
+    "KBA_Numbers": "9101BTE"
   },
   {
     "brand": "VOLVO",
@@ -40,8 +40,8 @@
     "kw": "300",
     "hp": "408",
     "cc": "E400V12",
-    "engineCodes": "9101BYJ",
-    "KBA_Numbers": ""
+    "engineCodes": "E400V12",
+    "KBA_Numbers": "9101BYJ"
   },
   {
     "brand": "VOLVO",
@@ -51,7 +51,7 @@
     "kw": "120",
     "hp": "163",
     "cc": "1969",
-    "engineCodes": "B 420 T3  B 420 T4",
+    "engineCodes": "B 420 T3, B 420 T4",
     "KBA_Numbers": "9101BSD"
   },
   {
@@ -62,7 +62,7 @@
     "kw": "145",
     "hp": "197",
     "cc": "1969",
-    "engineCodes": "B 420 T6  B 420 T5",
+    "engineCodes": "B 420 T6, B 420 T5",
     "KBA_Numbers": "9101BSE"
   },
   {
@@ -106,7 +106,7 @@
     "kw": "140",
     "hp": "190",
     "cc": "1969",
-    "engineCodes": "B 4204 T44  B 4204 T31",
+    "engineCodes": "B 4204 T44, B 4204 T31",
     "KBA_Numbers": "9101BPK"
   },
   {
@@ -205,7 +205,7 @@
     "kw": "250",
     "hp": "340",
     "cc": "1969",
-    "engineCodes": "B 4204 T46  B 4204 T34",
+    "engineCodes": "B 4204 T46, B 4204 T34",
     "KBA_Numbers": "9101BPB"
   },
   {
@@ -227,7 +227,7 @@
     "kw": "299",
     "hp": "407",
     "cc": "1969",
-    "engineCodes": "B 4204 T35  B 4204 T27",
+    "engineCodes": "B 4204 T35, B 4204 T27",
     "KBA_Numbers": ""
   },
   {
@@ -304,7 +304,7 @@
     "kw": "184",
     "hp": "250",
     "cc": "1969",
-    "engineCodes": "B 4204 T26  B 420 T2",
+    "engineCodes": "B 4204 T26, B 420 T2",
     "KBA_Numbers": "9101BRU"
   },
   {
@@ -337,7 +337,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1969",
-    "engineCodes": "D 4204 T16  D 4204 T9",
+    "engineCodes": "D 4204 T16, D 4204 T9",
     "KBA_Numbers": "9101BIK"
   },
   {
@@ -425,7 +425,7 @@
     "kw": "140",
     "hp": "190",
     "cc": "1969",
-    "engineCodes": "B 4204 T31  B 4204 T44",
+    "engineCodes": "B 4204 T31, B 4204 T44",
     "KBA_Numbers": "9101BKC"
   },
   {
@@ -524,7 +524,7 @@
     "kw": "233",
     "hp": "317",
     "cc": "1969",
-    "engineCodes": "B 4204 T34  B 4204 T53",
+    "engineCodes": "B 4204 T34, B 4204 T53",
     "KBA_Numbers": "9101BMW"
   },
   {
@@ -546,7 +546,7 @@
     "kw": "340",
     "hp": "462",
     "cc": "1969",
-    "engineCodes": "B 4204 T57  B 4204 T53  B 4204 T34",
+    "engineCodes": "B 4204 T57, B 4204 T53, B 4204 T34",
     "KBA_Numbers": "9101BMW"
   },
   {
@@ -579,7 +579,7 @@
     "kw": "120",
     "hp": "163",
     "cc": "1969",
-    "engineCodes": "B 420 T3  B 420 T4",
+    "engineCodes": "B 420 T3, B 420 T4",
     "KBA_Numbers": "9101BSI"
   },
   {
@@ -590,7 +590,7 @@
     "kw": "145",
     "hp": "197",
     "cc": "1969",
-    "engineCodes": "B 420 T6  B 420 T5",
+    "engineCodes": "B 420 T6, B 420 T5",
     "KBA_Numbers": "9101BSJ"
   },
   {
@@ -711,7 +711,7 @@
     "kw": "140",
     "hp": "190",
     "cc": "1969",
-    "engineCodes": "B 4204 T31  B 4204 T44",
+    "engineCodes": "B 4204 T31, B 4204 T44",
     "KBA_Numbers": "9101BPF"
   },
   {
@@ -998,7 +998,7 @@
     "hp": "197",
     "cc": "1969",
     "engineCodes": "D 420 T8",
-    "KBA_Numbers": "9101BTI  9101BTD"
+    "KBA_Numbers": "9101BTI, 9101BTD"
   },
   {
     "brand": "VOLVO",
@@ -1074,7 +1074,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1969",
-    "engineCodes": "D 4204 T16  D 4204 T9",
+    "engineCodes": "D 4204 T16, D 4204 T9",
     "KBA_Numbers": "9101BIM"
   },
   {
@@ -1294,7 +1294,7 @@
     "kw": "317",
     "hp": "431",
     "cc": "1969",
-    "engineCodes": "B 4204 T57  B 4204 T56",
+    "engineCodes": "B 4204 T57, B 4204 T56",
     "KBA_Numbers": "9101BNC"
   },
   {
@@ -1305,7 +1305,7 @@
     "kw": "145",
     "hp": "197",
     "cc": "1969",
-    "engineCodes": "B 420 T6  B 420 T5",
+    "engineCodes": "B 420 T6, B 420 T5",
     "KBA_Numbers": "9101BRQ"
   },
   {
@@ -1316,7 +1316,7 @@
     "kw": "145",
     "hp": "197",
     "cc": "1969",
-    "engineCodes": "B 420 T6  B 420 T5",
+    "engineCodes": "B 420 T6, B 420 T5",
     "KBA_Numbers": "9101BRP"
   },
   {
@@ -1415,8 +1415,8 @@
     "kw": "170",
     "hp": "231",
     "cc": "E400V2",
-    "engineCodes": "9101BUN",
-    "KBA_Numbers": ""
+    "engineCodes": "E400V2",
+    "KBA_Numbers": "9101BUN"
   },
   {
     "brand": "VOLVO",
@@ -1426,8 +1426,8 @@
     "kw": "175",
     "hp": "238",
     "cc": "E400V16",
-    "engineCodes": "9101BZH",
-    "KBA_Numbers": ""
+    "engineCodes": "E400V16",
+    "KBA_Numbers": "9101BZH"
   },
   {
     "brand": "VOLVO",
@@ -1437,8 +1437,8 @@
     "kw": "185",
     "hp": "252",
     "cc": "E400V8",
-    "engineCodes": "9101BYK",
-    "KBA_Numbers": ""
+    "engineCodes": "E400V8",
+    "KBA_Numbers": "9101BYK"
   },
   {
     "brand": "VOLVO",
@@ -1448,8 +1448,8 @@
     "kw": "300",
     "hp": "408",
     "cc": "E400V6  E400V12",
-    "engineCodes": "9101BYJ",
-    "KBA_Numbers": ""
+    "engineCodes": "E400V6, E400V12",
+    "KBA_Numbers": "9101BYJ"
   },
   {
     "brand": "VOLVO",
@@ -1459,8 +1459,8 @@
     "kw": "300",
     "hp": "408",
     "cc": "E400V6  E400V12",
-    "engineCodes": "9101BTE",
-    "KBA_Numbers": ""
+    "engineCodes": "E400V6, E400V12",
+    "KBA_Numbers": "9101BTE"
   },
   {
     "brand": "VOLVO",
@@ -1492,7 +1492,7 @@
     "kw": "120",
     "hp": "163",
     "cc": "1477",
-    "engineCodes": "B 3154 T2  B 3154 T7",
+    "engineCodes": "B 3154 T2, B 3154 T7",
     "KBA_Numbers": "9101BOY"
   },
   {
@@ -1514,7 +1514,7 @@
     "kw": "140",
     "hp": "190",
     "cc": "1969",
-    "engineCodes": "B 4204 T47  B 4204 T31",
+    "engineCodes": "B 4204 T47, B 4204 T31",
     "KBA_Numbers": "9101BMF"
   },
   {
@@ -1525,7 +1525,7 @@
     "kw": "140",
     "hp": "190",
     "cc": "1969",
-    "engineCodes": "B 4204 T47  B 4204 T31",
+    "engineCodes": "B 4204 T47, B 4204 T31",
     "KBA_Numbers": "9101BMG"
   },
   {
@@ -1976,7 +1976,7 @@
     "kw": "298",
     "hp": "405",
     "cc": "1969",
-    "engineCodes": "B 4204 T57  B 4204 T28",
+    "engineCodes": "B 4204 T57, B 4204 T28",
     "KBA_Numbers": ""
   },
   {
@@ -2009,7 +2009,7 @@
     "kw": "298",
     "hp": "405",
     "cc": "1969",
-    "engineCodes": "B 4204 T34  B 4204 T48",
+    "engineCodes": "B 4204 T34, B 4204 T48",
     "KBA_Numbers": "9101BNI"
   },
   {
@@ -2280,11 +2280,11 @@
     "brand": "VOLVO",
     "model": "XC90 II (256)",
     "engineType": "T8 Hybrid AWD",
-    "madeYear": "06.2015 - 12.2018",
+    "madeYear": "to 12.2018",
     "kw": "299",
     "hp": "407",
     "cc": "1969",
-    "engineCodes": "B 4204 T35  B 4204 T28  B1APHEV",
+    "engineCodes": "B 4204 T35, B 4204 T28, B1APHEV",
     "KBA_Numbers": "9101BDI"
   },
   {
@@ -2306,7 +2306,7 @@
     "kw": "310",
     "hp": "421",
     "cc": "1969",
-    "engineCodes": "B 4204 T39  B 4204 T35",
+    "engineCodes": "B 4204 T39, B 4204 T35",
     "KBA_Numbers": ""
   },
   {

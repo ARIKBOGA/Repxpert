@@ -106,7 +106,7 @@
     "kw": "74",
     "hp": "100",
     "cc": "1796",
-    "engineCodes": "C 18 NE  S 18 NV",
+    "engineCodes": "C 18 NE, S 18 NV",
     "KBA_Numbers": "0039650"
   },
   {
@@ -172,7 +172,7 @@
     "kw": "74",
     "hp": "100",
     "cc": "1796",
-    "engineCodes": "S 18 NV  C 18 NE",
+    "engineCodes": "S 18 NV, C 18 NE",
     "KBA_Numbers": "0039651"
   },
   {
@@ -283,7 +283,7 @@
     "hp": "75",
     "cc": "1598",
     "engineCodes": "X 16 SZR",
-    "KBA_Numbers": "0035328  0039959"
+    "KBA_Numbers": "0035328, 0039959"
   },
   {
     "brand": "OPEL",
@@ -305,7 +305,7 @@
     "hp": "90",
     "cc": "1389",
     "engineCodes": "X 14 XE",
-    "KBA_Numbers": "0035320  0039957"
+    "KBA_Numbers": "0035320, 0039957"
   },
   {
     "brand": "OPEL",
@@ -315,7 +315,7 @@
     "kw": "55",
     "hp": "75",
     "cc": "1598",
-    "engineCodes": "16 LZ2  16 NZR",
+    "engineCodes": "16 LZ2, 16 NZR",
     "KBA_Numbers": ""
   },
   {
@@ -326,8 +326,8 @@
     "kw": "55",
     "hp": "75",
     "cc": "1598",
-    "engineCodes": "C 16 NZ  X 16 SZR",
-    "KBA_Numbers": "0035321  0039855"
+    "engineCodes": "C 16 NZ, X 16 SZR",
+    "KBA_Numbers": "0035321, 0039855"
   },
   {
     "brand": "OPEL",
@@ -371,7 +371,7 @@
     "hp": "68",
     "cc": "1699",
     "engineCodes": "X 17 DTL",
-    "KBA_Numbers": "0039936  0035325"
+    "KBA_Numbers": "0039936, 0035325"
   },
   {
     "brand": "OPEL",
@@ -403,7 +403,7 @@
     "kw": "55",
     "hp": "75",
     "cc": "1598",
-    "engineCodes": "C 16 NZ  X 16 SZR",
+    "engineCodes": "C 16 NZ, X 16 SZR",
     "KBA_Numbers": "0039118"
   },
   {
@@ -481,7 +481,7 @@
     "hp": "90",
     "cc": "1389",
     "engineCodes": "X 14 XE",
-    "KBA_Numbers": "0035311  0039954"
+    "KBA_Numbers": "0035311, 0039954"
   },
   {
     "brand": "OPEL",
@@ -502,7 +502,7 @@
     "kw": "55",
     "hp": "75",
     "cc": "1598",
-    "engineCodes": "16 NZR  16 LZ2",
+    "engineCodes": "16 NZR, 16 LZ2",
     "KBA_Numbers": ""
   },
   {
@@ -513,8 +513,8 @@
     "kw": "55",
     "hp": "75",
     "cc": "1598",
-    "engineCodes": "C 16 NZ  X 16 SZR",
-    "KBA_Numbers": "0035312  0039863"
+    "engineCodes": "C 16 NZ, X 16 SZR",
+    "KBA_Numbers": "0035312, 0039863"
   },
   {
     "brand": "OPEL",
@@ -569,7 +569,7 @@
     "hp": "68",
     "cc": "1699",
     "engineCodes": "X 17 DTL",
-    "KBA_Numbers": "0039935  0035316"
+    "KBA_Numbers": "0039935, 0035316"
   },
   {
     "brand": "OPEL",
@@ -579,8 +579,8 @@
     "kw": "60",
     "hp": "82",
     "cc": "1686",
-    "engineCodes": "17 DT  X 17 DT",
-    "KBA_Numbers": "0035317  0039869"
+    "engineCodes": "17 DT, X 17 DT",
+    "KBA_Numbers": "0035317, 0039869"
   },
   {
     "brand": "OPEL",
@@ -612,7 +612,7 @@
     "kw": "55",
     "hp": "75",
     "cc": "1598",
-    "engineCodes": "16 LZ2  16 NZR",
+    "engineCodes": "16 LZ2, 16 NZR",
     "KBA_Numbers": ""
   },
   {
@@ -623,8 +623,8 @@
     "kw": "55",
     "hp": "75",
     "cc": "1598",
-    "engineCodes": "C 16 NZ  X 16 SZR",
-    "KBA_Numbers": "0035303  0039874"
+    "engineCodes": "C 16 NZ, X 16 SZR",
+    "KBA_Numbers": "0035303, 0039874"
   },
   {
     "brand": "OPEL",
@@ -668,7 +668,7 @@
     "hp": "68",
     "cc": "1699",
     "engineCodes": "X 17 DTL",
-    "KBA_Numbers": "0039937  0035307"
+    "KBA_Numbers": "0039937, 0035307"
   },
   {
     "brand": "OPEL",
@@ -678,8 +678,8 @@
     "kw": "60",
     "hp": "82",
     "cc": "1686",
-    "engineCodes": "17 TD  X 17 DT  17 DT",
-    "KBA_Numbers": "0035308  0039879"
+    "engineCodes": "17 TD, X 17 DT, 17 DT",
+    "KBA_Numbers": "0035308, 0039879"
   },
   {
     "brand": "OPEL",
@@ -689,8 +689,8 @@
     "kw": "33",
     "hp": "45",
     "cc": "1195",
-    "engineCodes": "X 12 SZ  C 12 NZ",
-    "KBA_Numbers": "0039929  7526327  7526506"
+    "engineCodes": "X 12 SZ, C 12 NZ",
+    "KBA_Numbers": "0039929, 7526327, 7526506"
   },
   {
     "brand": "OPEL",
@@ -700,8 +700,8 @@
     "kw": "44",
     "hp": "60",
     "cc": "1389",
-    "engineCodes": "X 14 SZ  C 14 NZ",
-    "KBA_Numbers": "0039930  0039124  0039155  7526328  7526507"
+    "engineCodes": "X 14 SZ, C 14 NZ",
+    "KBA_Numbers": "0039930, 0039124, 0039155, 7526328, 7526507"
   },
   {
     "brand": "OPEL",
@@ -712,7 +712,7 @@
     "hp": "82",
     "cc": "1389",
     "engineCodes": "C 14 SE",
-    "KBA_Numbers": "0039931  7526329  7526508"
+    "KBA_Numbers": "0039931, 7526329, 7526508"
   },
   {
     "brand": "OPEL",
@@ -722,8 +722,8 @@
     "kw": "44",
     "hp": "60",
     "cc": "1686",
-    "engineCodes": "X 17 D (4EE1)  17 D (4EE1)",
-    "KBA_Numbers": "0039932  0039126  0039154  7526330  7526509"
+    "engineCodes": "X 17 D (4EE1), 17 D (4EE1)",
+    "KBA_Numbers": "0039932, 0039126, 0039154, 7526330, 7526509"
   },
   {
     "brand": "OPEL",
@@ -822,7 +822,7 @@
     "hp": "65",
     "cc": "1199",
     "engineCodes": "X 12 XE",
-    "KBA_Numbers": "0039176  0039175"
+    "KBA_Numbers": "0039176, 0039175"
   },
   {
     "brand": "OPEL",
@@ -832,8 +832,8 @@
     "kw": "44",
     "hp": "60",
     "cc": "1389",
-    "engineCodes": "C 14 NZ  X 14 SZ",
-    "KBA_Numbers": "0039924  0039165  0039166  7526322"
+    "engineCodes": "C 14 NZ, X 14 SZ",
+    "KBA_Numbers": "0039924, 0039165, 0039166, 7526322"
   },
   {
     "brand": "OPEL",
@@ -844,7 +844,7 @@
     "hp": "90",
     "cc": "1389",
     "engineCodes": "X 14 XE",
-    "KBA_Numbers": "0039927  0039160  0039161"
+    "KBA_Numbers": "0039927, 0039160, 0039161"
   },
   {
     "brand": "OPEL",
@@ -865,8 +865,8 @@
     "kw": "44",
     "hp": "60",
     "cc": "1686",
-    "engineCodes": "X 17 D (4EE1)  17 D (4EE1)",
-    "KBA_Numbers": "0039164  0039163  0039956"
+    "engineCodes": "X 17 D (4EE1), 17 D (4EE1)",
+    "KBA_Numbers": "0039164, 0039163, 0039956"
   },
   {
     "brand": "OPEL",
@@ -898,7 +898,7 @@
     "kw": "44",
     "hp": "60",
     "cc": "1389",
-    "engineCodes": "X 14 SZ  C 14 NZ",
+    "engineCodes": "X 14 SZ, C 14 NZ",
     "KBA_Numbers": "0039128"
   },
   {
@@ -909,7 +909,7 @@
     "kw": "44",
     "hp": "60",
     "cc": "1686",
-    "engineCodes": "X 17 D (4EE1)  17 D (4EE1)",
+    "engineCodes": "X 17 D (4EE1), 17 D (4EE1)",
     "KBA_Numbers": "0039130"
   },
   {
@@ -931,7 +931,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1796",
-    "engineCodes": "C 18 NZ  C 18 NT  18 SV",
+    "engineCodes": "C 18 NZ, C 18 NT, 18 SV",
     "KBA_Numbers": "0039848"
   },
   {
@@ -975,7 +975,7 @@
     "kw": "40",
     "hp": "54",
     "cc": "1598",
-    "engineCodes": "16 DA  16 D",
+    "engineCodes": "16 DA, 16 D",
     "KBA_Numbers": "0039105"
   },
   {
@@ -1019,7 +1019,7 @@
     "kw": "55",
     "hp": "75",
     "cc": "1598",
-    "engineCodes": "E 16 NZ  C 16 NZ",
+    "engineCodes": "E 16 NZ, C 16 NZ",
     "KBA_Numbers": "0039692"
   },
   {
@@ -1041,7 +1041,7 @@
     "kw": "55",
     "hp": "75",
     "cc": "1598",
-    "engineCodes": "C 16 NZ  C 16 LZ",
+    "engineCodes": "C 16 NZ, C 16 LZ",
     "KBA_Numbers": "0039692"
   },
   {
@@ -1063,8 +1063,8 @@
     "kw": "40",
     "hp": "54",
     "cc": "1598",
-    "engineCodes": "16 DA  16 D",
-    "KBA_Numbers": "0039739  0039649"
+    "engineCodes": "16 DA, 16 D",
+    "KBA_Numbers": "0039739, 0039649"
   },
   {
     "brand": "OPEL",
@@ -1085,7 +1085,7 @@
     "kw": "55",
     "hp": "75",
     "cc": "1598",
-    "engineCodes": "C 16 NZ  C 16 LZ",
+    "engineCodes": "C 16 NZ, C 16 LZ",
     "KBA_Numbers": "0039647"
   },
   {
@@ -1129,7 +1129,7 @@
     "kw": "40",
     "hp": "54",
     "cc": "1598",
-    "engineCodes": "16 DA  16 D",
+    "engineCodes": "16 DA, 16 D",
     "KBA_Numbers": "0039098"
   },
   {
@@ -1173,7 +1173,7 @@
     "kw": "40",
     "hp": "54",
     "cc": "1598",
-    "engineCodes": "16 DA  16 D",
+    "engineCodes": "16 DA, 16 D",
     "KBA_Numbers": "0039643"
   },
   {
@@ -1195,7 +1195,7 @@
     "kw": "55",
     "hp": "75",
     "cc": "1598",
-    "engineCodes": "C 16 NZ  C 16 LZ",
+    "engineCodes": "C 16 NZ, C 16 LZ",
     "KBA_Numbers": "0039640"
   },
   {
@@ -1239,7 +1239,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "1796",
-    "engineCodes": "18 E  18 SE",
+    "engineCodes": "18 E, 18 SE",
     "KBA_Numbers": "0039642"
   },
   {
@@ -1250,7 +1250,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1796",
-    "engineCodes": "C 18 NZ  C 18 NT",
+    "engineCodes": "C 18 NZ, C 18 NT",
     "KBA_Numbers": "0039652"
   },
   {
@@ -1261,7 +1261,7 @@
     "kw": "62",
     "hp": "84",
     "cc": "1796",
-    "engineCodes": "S 18 NV  E 18 NV",
+    "engineCodes": "S 18 NV, E 18 NV",
     "KBA_Numbers": "0039724"
   },
   {
@@ -1316,7 +1316,7 @@
     "kw": "55",
     "hp": "75",
     "cc": "1598",
-    "engineCodes": "C 16 NZ  C 16 NZ2  E 16 NZ",
+    "engineCodes": "C 16 NZ, C 16 NZ2, E 16 NZ",
     "KBA_Numbers": "0039793"
   },
   {
@@ -1338,7 +1338,7 @@
     "kw": "55",
     "hp": "75",
     "cc": "1598",
-    "engineCodes": "C 16 LZ2  16 LZ2",
+    "engineCodes": "C 16 LZ2, 16 LZ2",
     "KBA_Numbers": ""
   },
   {
@@ -1382,7 +1382,7 @@
     "kw": "55",
     "hp": "75",
     "cc": "1598",
-    "engineCodes": "C 16 NZ  C 16 NZ2",
+    "engineCodes": "C 16 NZ, C 16 NZ2",
     "KBA_Numbers": "0039801"
   },
   {
@@ -1448,7 +1448,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "1796",
-    "engineCodes": "18 SE  18 E",
+    "engineCodes": "18 SE, 18 E",
     "KBA_Numbers": ""
   },
   {
@@ -1470,7 +1470,7 @@
     "kw": "82",
     "hp": "112",
     "cc": "1796",
-    "engineCodes": "18 E  18 SE",
+    "engineCodes": "18 E, 18 SE",
     "KBA_Numbers": ""
   },
   {
@@ -1514,7 +1514,7 @@
     "kw": "44",
     "hp": "60",
     "cc": "1389",
-    "engineCodes": "C 14 NZ  X 14 NZ",
+    "engineCodes": "C 14 NZ, X 14 NZ",
     "KBA_Numbers": ""
   },
   {
@@ -1536,7 +1536,7 @@
     "kw": "55",
     "hp": "75",
     "cc": "1598",
-    "engineCodes": "X 16 SZR  C 16 NZ  E 16 NZ",
+    "engineCodes": "X 16 SZR, C 16 NZ, E 16 NZ",
     "KBA_Numbers": ""
   },
   {
@@ -1635,7 +1635,7 @@
     "kw": "55",
     "hp": "75",
     "cc": "1598",
-    "engineCodes": "C 16 NZ  E 16 NZ  X 16 SZR  16 NZR",
+    "engineCodes": "C 16 NZ, E 16 NZ, X 16 SZR, 16 NZR",
     "KBA_Numbers": ""
   },
   {
@@ -1723,7 +1723,7 @@
     "kw": "55",
     "hp": "75",
     "cc": "1598",
-    "engineCodes": "C 16 NZ  X 16 SZR",
+    "engineCodes": "C 16 NZ, X 16 SZR",
     "KBA_Numbers": ""
   },
   {
@@ -1855,7 +1855,7 @@
     "kw": "61",
     "hp": "83",
     "cc": "1598",
-    "engineCodes": "C 16 NZ  E 16 NZ",
+    "engineCodes": "C 16 NZ, E 16 NZ",
     "KBA_Numbers": ""
   },
   {
@@ -2053,7 +2053,7 @@
     "kw": "55",
     "hp": "75",
     "cc": "1598",
-    "engineCodes": "E 16 NZ  C 16 NZ",
+    "engineCodes": "E 16 NZ, C 16 NZ",
     "KBA_Numbers": ""
   },
   {
@@ -2097,7 +2097,7 @@
     "kw": "55",
     "hp": "75",
     "cc": "1598",
-    "engineCodes": "E 16 NZ  C 16 NZ",
+    "engineCodes": "E 16 NZ, C 16 NZ",
     "KBA_Numbers": ""
   },
   {
@@ -2119,7 +2119,7 @@
     "kw": "44",
     "hp": "60",
     "cc": "1389",
-    "engineCodes": "C 14 NZ  X 14 SZ",
+    "engineCodes": "C 14 NZ, X 14 SZ",
     "KBA_Numbers": ""
   },
   {
@@ -2163,7 +2163,7 @@
     "kw": "44",
     "hp": "60",
     "cc": "1389",
-    "engineCodes": "C 14 NZ  X 14 SZ",
+    "engineCodes": "C 14 NZ, X 14 SZ",
     "KBA_Numbers": ""
   },
   {
@@ -2229,7 +2229,7 @@
     "kw": "44",
     "hp": "60",
     "cc": "1389",
-    "engineCodes": "C 14 NZ  X 14 SZ",
+    "engineCodes": "C 14 NZ, X 14 SZ",
     "KBA_Numbers": ""
   },
   {

@@ -51,7 +51,7 @@
     "kw": "54",
     "hp": "73",
     "cc": "1324",
-    "engineCodes": "B385  B384",
+    "engineCodes": "B385, B384",
     "KBA_Numbers": "7118397"
   },
   {
@@ -63,7 +63,7 @@
     "hp": "84",
     "cc": "1597",
     "engineCodes": "B6E",
-    "KBA_Numbers": "7118401  7118404"
+    "KBA_Numbers": "7118401, 7118404"
   },
   {
     "brand": "MAZDA",
@@ -117,7 +117,7 @@
     "kw": "103",
     "hp": "140",
     "cc": "1840",
-    "engineCodes": "BP31  BP22",
+    "engineCodes": "BP31, BP22",
     "KBA_Numbers": ""
   },
   {
@@ -151,7 +151,7 @@
     "hp": "84",
     "cc": "1597",
     "engineCodes": "B6E",
-    "KBA_Numbers": "7118402  7118405"
+    "KBA_Numbers": "7118402, 7118405"
   },
   {
     "brand": "MAZDA",
@@ -161,7 +161,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1597",
-    "engineCodes": "B67K  B67J  B67L",
+    "engineCodes": "B67K, B67J, B67L",
     "KBA_Numbers": ""
   },
   {
@@ -227,8 +227,8 @@
     "kw": "54",
     "hp": "73",
     "cc": "1324",
-    "engineCodes": "B385  B384",
-    "KBA_Numbers": "7118396  7118425"
+    "engineCodes": "B385, B384",
+    "KBA_Numbers": "7118396, 7118425"
   },
   {
     "brand": "MAZDA",
@@ -238,7 +238,7 @@
     "kw": "64",
     "hp": "87",
     "cc": "1597",
-    "engineCodes": "B61V  B61T  B61S  B61W",
+    "engineCodes": "B61V, B61T, B61S, B61W",
     "KBA_Numbers": ""
   },
   {
@@ -250,7 +250,7 @@
     "hp": "84",
     "cc": "1597",
     "engineCodes": "B6E",
-    "KBA_Numbers": "7118400  7118403"
+    "KBA_Numbers": "7118400, 7118403"
   },
   {
     "brand": "MAZDA",
@@ -271,7 +271,7 @@
     "kw": "41",
     "hp": "56",
     "cc": "1720",
-    "engineCodes": "PN62  PN54  PN46",
+    "engineCodes": "PN62, PN54, PN46",
     "KBA_Numbers": "7118411"
   },
   {
@@ -315,7 +315,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "1597",
-    "engineCodes": "B64F  B6ZE",
+    "engineCodes": "B64F, B6ZE",
     "KBA_Numbers": "7118417"
   },
   {

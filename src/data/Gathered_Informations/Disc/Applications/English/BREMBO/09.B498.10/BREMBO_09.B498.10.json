@@ -7,8 +7,8 @@
     "kw": "103",
     "hp": "140",
     "cc": "1968",
-    "engineCodes": "CCHA  CAAC",
-    "KBA_Numbers": "0603AQX  0603AQZ"
+    "engineCodes": "CCHA, CAAC",
+    "KBA_Numbers": "0603AQX, 0603AQZ"
   },
   {
     "brand": "VW",
@@ -19,7 +19,7 @@
     "hp": "180",
     "cc": "1968",
     "engineCodes": "CFCA",
-    "KBA_Numbers": "0603AQN  0603AQQ"
+    "KBA_Numbers": "0603AQN, 0603AQQ"
   },
   {
     "brand": "VW",
@@ -29,8 +29,8 @@
     "kw": "103",
     "hp": "140",
     "cc": "1968",
-    "engineCodes": "CCHA  CAAC",
-    "KBA_Numbers": "0603ARL  0603ARK"
+    "engineCodes": "CCHA, CAAC",
+    "KBA_Numbers": "0603ARL, 0603ARK"
   },
   {
     "brand": "VW",
@@ -41,7 +41,7 @@
     "hp": "180",
     "cc": "1968",
     "engineCodes": "CFCA",
-    "KBA_Numbers": "0603AQR  0603AQO"
+    "KBA_Numbers": "0603AQR, 0603AQO"
   },
   {
     "brand": "VW",
@@ -51,8 +51,8 @@
     "kw": "75",
     "hp": "102",
     "cc": "1968",
-    "engineCodes": "CAAB  CXGB",
-    "KBA_Numbers": "0603AQW  0603BTB  0603BTL  0603BUW"
+    "engineCodes": "CAAB, CXGB",
+    "KBA_Numbers": "0603AQW, 0603BTB, 0603BTL, 0603BUW"
   },
   {
     "brand": "VW",
@@ -62,8 +62,8 @@
     "kw": "110",
     "hp": "150",
     "cc": "1968",
-    "engineCodes": "DNAA  CXHA  CXFA",
-    "KBA_Numbers": "0603BTE  0603BTM  0603BUZ  0603CLV  0603BXB"
+    "engineCodes": "DNAA, CXHA, CXFA",
+    "KBA_Numbers": "0603BTE, 0603BTM, 0603BUZ, 0603CLV, 0603BXB"
   },
   {
     "brand": "VW",
@@ -73,8 +73,8 @@
     "kw": "150",
     "hp": "204",
     "cc": "1968",
-    "engineCodes": "CXEB  DMZA",
-    "KBA_Numbers": "0603BTO  0603BVD  0603BTG  0603CPX"
+    "engineCodes": "CXEB, DMZA",
+    "KBA_Numbers": "0603BTO, 0603BVD, 0603BTG, 0603CPX"
   },
   {
     "brand": "VW",
@@ -85,7 +85,7 @@
     "hp": "114",
     "cc": "1968",
     "engineCodes": "CXHB",
-    "KBA_Numbers": "0603CAL  0603CAO  0603CAP"
+    "KBA_Numbers": "0603CAL, 0603CAO, 0603CAP"
   },
   {
     "brand": "VW",
@@ -96,7 +96,7 @@
     "hp": "199",
     "cc": "1968",
     "engineCodes": "CXEC",
-    "KBA_Numbers": "0603CLT  0603CHL  0603CHJ  0603CHO"
+    "KBA_Numbers": "0603CLT, 0603CHL, 0603CHJ, 0603CHO"
   },
   {
     "brand": "VW",
@@ -106,8 +106,8 @@
     "kw": "81",
     "hp": "110",
     "cc": "1968",
-    "engineCodes": "CXHC  DNAB",
-    "KBA_Numbers": "0603CJZ  0603CKC  0603CKD  0603CKE"
+    "engineCodes": "CXHC, DNAB",
+    "KBA_Numbers": "0603CJZ, 0603CKC, 0603CKD, 0603CKE"
   },
   {
     "brand": "VW",
@@ -117,8 +117,8 @@
     "kw": "150",
     "hp": "204",
     "cc": "1968",
-    "engineCodes": "DMZA  CXEB",
-    "KBA_Numbers": "0603BTH  0603BTP  0603BVE  0603CPY"
+    "engineCodes": "DMZA, CXEB",
+    "KBA_Numbers": "0603BTH, 0603BTP, 0603BVE, 0603CPY"
   },
   {
     "brand": "VW",
@@ -128,8 +128,8 @@
     "kw": "110",
     "hp": "150",
     "cc": "1968",
-    "engineCodes": "DNAA  CXFA  CXHA",
-    "KBA_Numbers": "0603BVA  0603BTF  0603CLW  0603BTN"
+    "engineCodes": "DNAA, CXFA, CXHA",
+    "KBA_Numbers": "0603BVA, 0603BTF, 0603CLW, 0603BTN"
   },
   {
     "brand": "VW",
@@ -140,7 +140,7 @@
     "hp": "199",
     "cc": "1968",
     "engineCodes": "CXEC",
-    "KBA_Numbers": "0603CHP  0603CHK  0603CHS  0603CLU"
+    "KBA_Numbers": "0603CHP, 0603CHK, 0603CHS, 0603CLU"
   },
   {
     "brand": "VW",
@@ -151,7 +151,7 @@
     "hp": "150",
     "cc": "1984",
     "engineCodes": "CJKB",
-    "KBA_Numbers": "0603BTI  0603BTQ  0603BVF  0603BIM"
+    "KBA_Numbers": "0603BTI, 0603BTQ, 0603BVF, 0603BIM"
   },
   {
     "brand": "VW",
@@ -162,7 +162,7 @@
     "hp": "204",
     "cc": "1984",
     "engineCodes": "CJKA",
-    "KBA_Numbers": "0603BTK  0603BVH  0603BTS  0603BFS"
+    "KBA_Numbers": "0603BTK, 0603BVH, 0603BTS, 0603BFS"
   },
   {
     "brand": "VW",
@@ -173,7 +173,7 @@
     "hp": "115",
     "cc": "1984",
     "engineCodes": "AXA",
-    "KBA_Numbers": "0603AQP  0603696  0603ABY  0603ACI"
+    "KBA_Numbers": "0603AQP, 0603696, 0603ABY, 0603ACI"
   },
   {
     "brand": "VW",
@@ -227,7 +227,7 @@
     "kw": "103",
     "hp": "140",
     "cc": "1968",
-    "engineCodes": "CAAC  CCHA",
+    "engineCodes": "CAAC, CCHA",
     "KBA_Numbers": "0603AQX"
   },
   {
@@ -238,7 +238,7 @@
     "kw": "100",
     "hp": "136",
     "cc": "1968",
-    "engineCodes": "CCHB  CAAE",
+    "engineCodes": "CCHB, CAAE",
     "KBA_Numbers": "0603ATK"
   },
   {
@@ -260,7 +260,7 @@
     "kw": "103",
     "hp": "140",
     "cc": "1968",
-    "engineCodes": "CAAC  CCHA",
+    "engineCodes": "CAAC, CCHA",
     "KBA_Numbers": "0603ARK"
   },
   {
@@ -271,7 +271,7 @@
     "kw": "100",
     "hp": "136",
     "cc": "1968",
-    "engineCodes": "CCHB  CAAE",
+    "engineCodes": "CCHB, CAAE",
     "KBA_Numbers": "0603ATL"
   },
   {
@@ -315,8 +315,8 @@
     "kw": "62",
     "hp": "84",
     "cc": "1968",
-    "engineCodes": "CXGA  CAAA",
-    "KBA_Numbers": "0603BUH  0603AQV"
+    "engineCodes": "CXGA, CAAA",
+    "KBA_Numbers": "0603BUH, 0603AQV"
   },
   {
     "brand": "VW",
@@ -326,8 +326,8 @@
     "kw": "75",
     "hp": "102",
     "cc": "1968",
-    "engineCodes": "CAAB  CXGB",
-    "KBA_Numbers": "0603BUI  0603AQW"
+    "engineCodes": "CAAB, CXGB",
+    "KBA_Numbers": "0603BUI, 0603AQW"
   },
   {
     "brand": "VW",
@@ -348,8 +348,8 @@
     "kw": "110",
     "hp": "150",
     "cc": "1968",
-    "engineCodes": "CXHA  CXFA  DNAA",
-    "KBA_Numbers": "0603BUL  0603BXB"
+    "engineCodes": "CXHA, CXFA, DNAA",
+    "KBA_Numbers": "0603BUL, 0603BXB"
   },
   {
     "brand": "VW",
@@ -370,7 +370,7 @@
     "kw": "150",
     "hp": "204",
     "cc": "1968",
-    "engineCodes": "CXEB  DMZA",
+    "engineCodes": "CXEB, DMZA",
     "KBA_Numbers": "0603BUP"
   },
   {
@@ -388,7 +388,7 @@
     "brand": "VW",
     "model": "MULTIVAN T6 (SGF, SGM, SGN, SHM, SHN) | CARAVELLE",
     "engineType": "2.0 TDI",
-    "madeYear": "11.2018 - 08.2024",
+    "madeYear": "08.2018 - 08.2024",
     "kw": "146",
     "hp": "199",
     "cc": "1968",
@@ -403,7 +403,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1968",
-    "engineCodes": "CXHC  DNAB",
+    "engineCodes": "CXHC, DNAB",
     "KBA_Numbers": "0603CKB"
   },
   {
@@ -436,7 +436,7 @@
     "kw": "150",
     "hp": "204",
     "cc": "1968",
-    "engineCodes": "CXEB  DMZA",
+    "engineCodes": "CXEB, DMZA",
     "KBA_Numbers": "0603BUQ"
   },
   {
@@ -447,14 +447,14 @@
     "kw": "110",
     "hp": "150",
     "cc": "1968",
-    "engineCodes": "CXFA  CXHA  DNAA",
+    "engineCodes": "CXFA, CXHA, DNAA",
     "KBA_Numbers": "0603BUM"
   },
   {
     "brand": "VW",
     "model": "MULTIVAN T6 (SGF, SGM, SGN, SHM, SHN) | CARAVELLE",
     "engineType": "2.0 TDI 4motion",
-    "madeYear": "to 08.2024",
+    "madeYear": "08.2018 - 08.2024",
     "kw": "146",
     "hp": "199",
     "cc": "1968",
@@ -470,7 +470,7 @@
     "hp": "150",
     "cc": "1984",
     "engineCodes": "CJKB",
-    "KBA_Numbers": "0603BUR  0603BIM"
+    "KBA_Numbers": "0603BUR, 0603BIM"
   },
   {
     "brand": "VW",
@@ -481,7 +481,7 @@
     "hp": "204",
     "cc": "1984",
     "engineCodes": "CJKA",
-    "KBA_Numbers": "0603BUT  0603BFR"
+    "KBA_Numbers": "0603BUT, 0603BFR"
   },
   {
     "brand": "VW",
@@ -492,7 +492,7 @@
     "hp": "204",
     "cc": "1984",
     "engineCodes": "CJKA",
-    "KBA_Numbers": "0603BUU  0603BFS"
+    "KBA_Numbers": "0603BUU, 0603BFS"
   },
   {
     "brand": "VW",
@@ -503,7 +503,7 @@
     "hp": "115",
     "cc": "1984",
     "engineCodes": "AXA",
-    "KBA_Numbers": "0603AFM  0603699"
+    "KBA_Numbers": "0603AFM, 0603699"
   },
   {
     "brand": "VW",
@@ -525,7 +525,7 @@
     "hp": "180",
     "cc": "1968",
     "engineCodes": "CFCA",
-    "KBA_Numbers": "0603AQM  0603BBY"
+    "KBA_Numbers": "0603AQM, 0603BBY"
   },
   {
     "brand": "VW",
@@ -557,7 +557,7 @@
     "kw": "103",
     "hp": "140",
     "cc": "1968",
-    "engineCodes": "CAAC  CCHA",
+    "engineCodes": "CAAC, CCHA",
     "KBA_Numbers": "0603AQU"
   },
   {
@@ -568,7 +568,7 @@
     "kw": "100",
     "hp": "136",
     "cc": "1968",
-    "engineCodes": "CCHB  CAAE",
+    "engineCodes": "CCHB, CAAE",
     "KBA_Numbers": "0603AUP"
   },
   {
@@ -590,8 +590,8 @@
     "kw": "103",
     "hp": "140",
     "cc": "1968",
-    "engineCodes": "CAAC  CCHA",
-    "KBA_Numbers": "0603ARJ  0603BAL"
+    "engineCodes": "CAAC, CCHA",
+    "KBA_Numbers": "0603ARJ, 0603BAL"
   },
   {
     "brand": "VW",
@@ -601,7 +601,7 @@
     "kw": "100",
     "hp": "136",
     "cc": "1968",
-    "engineCodes": "CCHB  CAAE",
+    "engineCodes": "CCHB, CAAE",
     "KBA_Numbers": "0603AUQ"
   },
   {
@@ -646,7 +646,7 @@
     "hp": "115",
     "cc": "1984",
     "engineCodes": "AXA",
-    "KBA_Numbers": "0603ARN  0603AIT  0603730  0603AVX"
+    "KBA_Numbers": "0603ARN, 0603AIT, 0603730, 0603AVX"
   },
   {
     "brand": "VW",
@@ -657,7 +657,7 @@
     "hp": "180",
     "cc": "1968",
     "engineCodes": "CFCA",
-    "KBA_Numbers": "0603ARP  0603AWE"
+    "KBA_Numbers": "0603ARP, 0603AWE"
   },
   {
     "brand": "VW",
@@ -679,7 +679,7 @@
     "hp": "84",
     "cc": "1968",
     "engineCodes": "CAAA",
-    "KBA_Numbers": "0603ARG  0603AVY"
+    "KBA_Numbers": "0603ARG, 0603AVY"
   },
   {
     "brand": "VW",
@@ -700,7 +700,7 @@
     "kw": "103",
     "hp": "140",
     "cc": "1968",
-    "engineCodes": "CAAC  CCHA",
+    "engineCodes": "CAAC, CCHA",
     "KBA_Numbers": "0603AWA"
   },
   {
@@ -733,7 +733,7 @@
     "kw": "103",
     "hp": "140",
     "cc": "1968",
-    "engineCodes": "CAAC  CCHA",
+    "engineCodes": "CAAC, CCHA",
     "KBA_Numbers": "0603AWB"
   },
   {
@@ -744,7 +744,7 @@
     "kw": "100",
     "hp": "136",
     "cc": "1968",
-    "engineCodes": "CCHB  CAAE",
+    "engineCodes": "CCHB, CAAE",
     "KBA_Numbers": "0603AWD"
   },
   {
@@ -767,7 +767,7 @@
     "hp": "115",
     "cc": "1984",
     "engineCodes": "AXA",
-    "KBA_Numbers": "0603AII  0603080  0603AVO"
+    "KBA_Numbers": "0603AII, 0603080, 0603AVO"
   },
   {
     "brand": "VW",
@@ -789,7 +789,7 @@
     "hp": "180",
     "cc": "1968",
     "engineCodes": "CFCA",
-    "KBA_Numbers": "0603ASR  0603AVW"
+    "KBA_Numbers": "0603ASR, 0603AVW"
   },
   {
     "brand": "VW",
@@ -811,7 +811,7 @@
     "hp": "102",
     "cc": "1968",
     "engineCodes": "CAAB",
-    "KBA_Numbers": "0603ARH  0603AVQ"
+    "KBA_Numbers": "0603ARH, 0603AVQ"
   },
   {
     "brand": "VW",
@@ -821,8 +821,8 @@
     "kw": "103",
     "hp": "140",
     "cc": "1968",
-    "engineCodes": "CAAC  CCHA",
-    "KBA_Numbers": "0603ARI  0603AVR"
+    "engineCodes": "CAAC, CCHA",
+    "KBA_Numbers": "0603ARI, 0603AVR"
   },
   {
     "brand": "VW",
@@ -832,7 +832,7 @@
     "kw": "100",
     "hp": "136",
     "cc": "1968",
-    "engineCodes": "CAAE  CCHB",
+    "engineCodes": "CAAE, CCHB",
     "KBA_Numbers": "0603AVT"
   },
   {
@@ -854,8 +854,8 @@
     "kw": "103",
     "hp": "140",
     "cc": "1968",
-    "engineCodes": "CAAC  CCHA",
-    "KBA_Numbers": "0603ARO  0603AVS"
+    "engineCodes": "CAAC, CCHA",
+    "KBA_Numbers": "0603ARO, 0603AVS"
   },
   {
     "brand": "VW",
@@ -865,7 +865,7 @@
     "kw": "100",
     "hp": "136",
     "cc": "1968",
-    "engineCodes": "CCHB  CAAE",
+    "engineCodes": "CCHB, CAAE",
     "KBA_Numbers": "0603AVU"
   },
   {
@@ -909,8 +909,8 @@
     "kw": "62",
     "hp": "84",
     "cc": "1968",
-    "engineCodes": "CXGA  CAAA",
-    "KBA_Numbers": "0603AQS  0603BTT"
+    "engineCodes": "CXGA, CAAA",
+    "KBA_Numbers": "0603AQS, 0603BTT"
   },
   {
     "brand": "VW",
@@ -920,8 +920,8 @@
     "kw": "75",
     "hp": "102",
     "cc": "1968",
-    "engineCodes": "CXGB  CAAB",
-    "KBA_Numbers": "0603AQT  0603BTU"
+    "engineCodes": "CXGB, CAAB",
+    "KBA_Numbers": "0603AQT, 0603BTU"
   },
   {
     "brand": "VW",
@@ -933,6 +933,17 @@
     "cc": "1968",
     "engineCodes": "CAAC",
     "KBA_Numbers": "0603AQU"
+  },
+  {
+    "brand": "VW",
+    "model": "TRANSPORTER T6 / CARAVELLE T6 Bus (SGB, SGJ, SHB, SHJ) | TRANSPORTER / CARAVELLE | KOMBI / TRANSPORTER KOMBI",
+    "engineType": "2.0 TDI",
+    "madeYear": "04.2015 - 08.2024",
+    "kw": "110",
+    "hp": "150",
+    "cc": "1968",
+    "engineCodes": "CXFA, CXHA, DNAA",
+    "KBA_Numbers": "0603BTX, 0603BXC"
   },
   {
     "brand": "VW",
@@ -953,7 +964,7 @@
     "kw": "150",
     "hp": "204",
     "cc": "1968",
-    "engineCodes": "CXEB  DMZA",
+    "engineCodes": "CXEB, DMZA",
     "KBA_Numbers": "0603BUB"
   },
   {
@@ -971,7 +982,7 @@
     "brand": "VW",
     "model": "TRANSPORTER T6 / CARAVELLE T6 Bus (SGB, SGJ, SHB, SHJ) | TRANSPORTER / CARAVELLE | KOMBI / TRANSPORTER KOMBI",
     "engineType": "2.0 TDI",
-    "madeYear": "11.2018 - 08.2024",
+    "madeYear": "08.2018 - 08.2024",
     "kw": "146",
     "hp": "199",
     "cc": "1968",
@@ -986,7 +997,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1968",
-    "engineCodes": "DNAC  CXGD",
+    "engineCodes": "DNAC, CXGD",
     "KBA_Numbers": ""
   },
   {
@@ -997,19 +1008,8 @@
     "kw": "81",
     "hp": "110",
     "cc": "1968",
-    "engineCodes": "CXHC  DNAB",
+    "engineCodes": "CXHC, DNAB",
     "KBA_Numbers": "0603CKA"
-  },
-  {
-    "brand": "VW",
-    "model": "TRANSPORTER T6 / CARAVELLE T6 Bus (SGB, SGJ, SHB, SHJ) | TRANSPORTER / CARAVELLE | KOMBI / TRANSPORTER KOMBI",
-    "engineType": "2.0 TDI",
-    "madeYear": "to 08.2024",
-    "kw": "110",
-    "hp": "150",
-    "cc": "1968",
-    "engineCodes": "CXFA  CXHA  DNAA",
-    "KBA_Numbers": "0603BTX  0603BXC"
   },
   {
     "brand": "VW",
@@ -1041,7 +1041,7 @@
     "kw": "150",
     "hp": "204",
     "cc": "1968",
-    "engineCodes": "CXEB  DMZA",
+    "engineCodes": "CXEB, DMZA",
     "KBA_Numbers": "0603BUC"
   },
   {
@@ -1052,8 +1052,8 @@
     "kw": "110",
     "hp": "150",
     "cc": "1968",
-    "engineCodes": "CXHA  CXFA  DNAA",
-    "KBA_Numbers": "0603BTY  0603CEZ"
+    "engineCodes": "CXHA, CXFA, DNAA",
+    "KBA_Numbers": "0603BTY, 0603CEZ"
   },
   {
     "brand": "VW",
@@ -1075,7 +1075,7 @@
     "hp": "150",
     "cc": "1984",
     "engineCodes": "CJKB",
-    "KBA_Numbers": "0603BUD  0603BIN"
+    "KBA_Numbers": "0603BUD, 0603BIN"
   },
   {
     "brand": "VW",
@@ -1086,7 +1086,7 @@
     "hp": "204",
     "cc": "1984",
     "engineCodes": "CJKA",
-    "KBA_Numbers": "0603BUF  0603BFU"
+    "KBA_Numbers": "0603BUF, 0603BFU"
   },
   {
     "brand": "VW",
@@ -1097,7 +1097,7 @@
     "hp": "204",
     "cc": "1984",
     "engineCodes": "CJKA",
-    "KBA_Numbers": "0603BUG  0603BFV"
+    "KBA_Numbers": "0603BUG, 0603BFV"
   },
   {
     "brand": "VW",
@@ -1107,7 +1107,7 @@
     "kw": "62",
     "hp": "84",
     "cc": "1968",
-    "engineCodes": "CXGA  CAAA",
+    "engineCodes": "CXGA, CAAA",
     "KBA_Numbers": "0603AVY"
   },
   {
@@ -1118,7 +1118,7 @@
     "kw": "75",
     "hp": "102",
     "cc": "1968",
-    "engineCodes": "CXGB  CAAB",
+    "engineCodes": "CXGB, CAAB",
     "KBA_Numbers": "0603AVZ"
   },
   {
@@ -1151,7 +1151,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1968",
-    "engineCodes": "CXHA  DNAA",
+    "engineCodes": "CXHA, DNAA",
     "KBA_Numbers": "0603BXV"
   },
   {
@@ -1173,7 +1173,7 @@
     "kw": "150",
     "hp": "204",
     "cc": "1968",
-    "engineCodes": "CXEB  DMZA",
+    "engineCodes": "CXEB, DMZA",
     "KBA_Numbers": "0603CBC"
   },
   {
@@ -1184,7 +1184,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1968",
-    "engineCodes": "CXHC  DNAB",
+    "engineCodes": "CXHC, DNAB",
     "KBA_Numbers": "0603CKF"
   },
   {
@@ -1206,7 +1206,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1968",
-    "engineCodes": "CXGD  DNAC",
+    "engineCodes": "CXGD, DNAC",
     "KBA_Numbers": "0603CKH"
   },
   {
@@ -1239,7 +1239,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1968",
-    "engineCodes": "CXHA  DNAA",
+    "engineCodes": "CXHA, DNAA",
     "KBA_Numbers": "0603CBE"
   },
   {
@@ -1250,7 +1250,7 @@
     "kw": "150",
     "hp": "204",
     "cc": "1968",
-    "engineCodes": "CXEB  DMZA",
+    "engineCodes": "CXEB, DMZA",
     "KBA_Numbers": "0603CBD"
   },
   {
@@ -1283,7 +1283,7 @@
     "kw": "62",
     "hp": "84",
     "cc": "1968",
-    "engineCodes": "CXGA  CAAA",
+    "engineCodes": "CXGA, CAAA",
     "KBA_Numbers": "0603AVP"
   },
   {
@@ -1294,7 +1294,7 @@
     "kw": "75",
     "hp": "102",
     "cc": "1968",
-    "engineCodes": "CXGB  CAAB",
+    "engineCodes": "CXGB, CAAB",
     "KBA_Numbers": "0603AVQ"
   },
   {
@@ -1316,8 +1316,8 @@
     "kw": "110",
     "hp": "150",
     "cc": "1968",
-    "engineCodes": "CXHA  CXFA  DNAA",
-    "KBA_Numbers": "0603BXU  0603CTC"
+    "engineCodes": "CXHA, CXFA, DNAA",
+    "KBA_Numbers": "0603BXU, 0603CTC"
   },
   {
     "brand": "VW",
@@ -1338,7 +1338,7 @@
     "kw": "150",
     "hp": "204",
     "cc": "1968",
-    "engineCodes": "CXEB  DMZA",
+    "engineCodes": "CXEB, DMZA",
     "KBA_Numbers": "0603CBA"
   },
   {
@@ -1371,7 +1371,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1968",
-    "engineCodes": "CXHC  DNAB",
+    "engineCodes": "CXHC, DNAB",
     "KBA_Numbers": "0603CKG"
   },
   {
@@ -1382,7 +1382,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1968",
-    "engineCodes": "DNAC  CXGD",
+    "engineCodes": "DNAC, CXGD",
     "KBA_Numbers": "0603CKI"
   },
   {
@@ -1415,7 +1415,7 @@
     "kw": "150",
     "hp": "204",
     "cc": "1968",
-    "engineCodes": "CXEB  DMZA",
+    "engineCodes": "CXEB, DMZA",
     "KBA_Numbers": "0603CBB"
   },
   {
@@ -1426,7 +1426,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1968",
-    "engineCodes": "CXFA  CXHA  DNAA",
+    "engineCodes": "CXFA, CXHA, DNAA",
     "KBA_Numbers": "0603BXT"
   },
   {

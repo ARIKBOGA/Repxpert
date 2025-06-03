@@ -7,8 +7,8 @@
     "kw": "155",
     "hp": "211",
     "cc": "1984",
-    "engineCodes": "CPMA  CDNC",
-    "KBA_Numbers": "0588APX  0588AHR"
+    "engineCodes": "CPMA, CDNC",
+    "KBA_Numbers": "0588APX, 0588AHR"
   },
   {
     "brand": "AUDI",
@@ -30,7 +30,7 @@
     "hp": "224",
     "cc": "1984",
     "engineCodes": "CNCD",
-    "KBA_Numbers": "0588AZS  0588AXM"
+    "KBA_Numbers": "0588AZS, 0588AXM"
   },
   {
     "brand": "AUDI",
@@ -40,7 +40,7 @@
     "kw": "118",
     "hp": "160",
     "cc": "1798",
-    "engineCodes": "CDHB  CABB",
+    "engineCodes": "CDHB, CABB",
     "KBA_Numbers": "0588AGO"
   },
   {
@@ -51,7 +51,7 @@
     "kw": "88",
     "hp": "120",
     "cc": "1798",
-    "engineCodes": "CDHA  CABA",
+    "engineCodes": "CDHA, CABA",
     "KBA_Numbers": "0588AGW"
   },
   {
@@ -95,8 +95,8 @@
     "kw": "100",
     "hp": "136",
     "cc": "1968",
-    "engineCodes": "CSUB  CJCB  CAGB",
-    "KBA_Numbers": "0588AGY  0588BGB"
+    "engineCodes": "CSUB, CJCB, CAGB",
+    "KBA_Numbers": "0588AGY, 0588BGB"
   },
   {
     "brand": "AUDI",
@@ -106,7 +106,7 @@
     "kw": "105",
     "hp": "143",
     "cc": "1968",
-    "engineCodes": "CMFA  CMEA  CJCA  CAGA",
+    "engineCodes": "CMFA, CMEA, CJCA, CAGA",
     "KBA_Numbers": "0588AGR"
   },
   {
@@ -128,7 +128,7 @@
     "kw": "88",
     "hp": "120",
     "cc": "1968",
-    "engineCodes": "CJCC  CAGC",
+    "engineCodes": "CJCC, CAGC",
     "KBA_Numbers": "0588AHI"
   },
   {
@@ -139,7 +139,7 @@
     "kw": "120",
     "hp": "163",
     "cc": "1968",
-    "engineCodes": "CGLD  CNHC  CAHB",
+    "engineCodes": "CGLD, CNHC, CAHB",
     "KBA_Numbers": "0588AHG"
   },
   {
@@ -150,7 +150,7 @@
     "kw": "130",
     "hp": "177",
     "cc": "1968",
-    "engineCodes": "CMGB  CGLC",
+    "engineCodes": "CMGB, CGLC",
     "KBA_Numbers": "0588ASY"
   },
   {
@@ -161,8 +161,8 @@
     "kw": "110",
     "hp": "150",
     "cc": "1968",
-    "engineCodes": "CMFB  CJCD  CSUA",
-    "KBA_Numbers": "0588AXG  0588BFL"
+    "engineCodes": "CMFB, CJCD, CSUA",
+    "KBA_Numbers": "0588AXG, 0588BFL"
   },
   {
     "brand": "AUDI",
@@ -194,7 +194,7 @@
     "kw": "105",
     "hp": "143",
     "cc": "1968",
-    "engineCodes": "CJCA  CAGA",
+    "engineCodes": "CJCA, CAGA",
     "KBA_Numbers": "0588AJT"
   },
   {
@@ -216,7 +216,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1968",
-    "engineCodes": "CJCD  CSUA",
+    "engineCodes": "CJCD, CSUA",
     "KBA_Numbers": "0588AXH"
   },
   {
@@ -238,7 +238,7 @@
     "kw": "132",
     "hp": "180",
     "cc": "1984",
-    "engineCodes": "CFKA  CDNB  CAEA",
+    "engineCodes": "CFKA, CDNB, CAEA",
     "KBA_Numbers": "0588AHK"
   },
   {
@@ -249,7 +249,7 @@
     "kw": "155",
     "hp": "211",
     "cc": "1984",
-    "engineCodes": "CAEB  CDNC",
+    "engineCodes": "CAEB, CDNC",
     "KBA_Numbers": "0588AGP"
   },
   {
@@ -304,7 +304,7 @@
     "kw": "155",
     "hp": "211",
     "cc": "1984",
-    "engineCodes": "CPMA  CDNC",
+    "engineCodes": "CPMA, CDNC",
     "KBA_Numbers": "0588AHL"
   },
   {
@@ -326,7 +326,7 @@
     "kw": "120",
     "hp": "163",
     "cc": "2698",
-    "engineCodes": "CGKB  CAMB",
+    "engineCodes": "CGKB, CAMB",
     "KBA_Numbers": "0588AGV"
   },
   {
@@ -337,7 +337,7 @@
     "kw": "140",
     "hp": "190",
     "cc": "2698",
-    "engineCodes": "CGKA  CAMA",
+    "engineCodes": "CGKA, CAMA",
     "KBA_Numbers": "0588AGS"
   },
   {
@@ -359,7 +359,7 @@
     "kw": "176",
     "hp": "240",
     "cc": "2967",
-    "engineCodes": "CAPA  CCLA  CCWA",
+    "engineCodes": "CAPA, CCLA, CCWA",
     "KBA_Numbers": "0588AGT"
   },
   {
@@ -381,7 +381,7 @@
     "kw": "180",
     "hp": "245",
     "cc": "2967",
-    "engineCodes": "CKVC  CKVB  CDUC",
+    "engineCodes": "CKVC, CKVB, CDUC",
     "KBA_Numbers": "0588ATD"
   },
   {
@@ -392,7 +392,7 @@
     "kw": "200",
     "hp": "272",
     "cc": "2995",
-    "engineCodes": "CRED  CMUA",
+    "engineCodes": "CRED, CMUA",
     "KBA_Numbers": "0588AUH"
   },
   {
@@ -425,7 +425,7 @@
     "kw": "245",
     "hp": "333",
     "cc": "2995",
-    "engineCodes": "CREC  CCBA  CTUB  CGXC  CAKA  CGWC",
+    "engineCodes": "CREC, CCBA, CTUB, CGXC, CAKA, CGWC",
     "KBA_Numbers": "0588AJV"
   },
   {
@@ -436,8 +436,8 @@
     "kw": "118",
     "hp": "160",
     "cc": "1798",
-    "engineCodes": "CDHB  CABB",
-    "KBA_Numbers": "0588APT  0588AGZ"
+    "engineCodes": "CDHB, CABB",
+    "KBA_Numbers": "0588APT, 0588AGZ"
   },
   {
     "brand": "AUDI",
@@ -448,7 +448,7 @@
     "hp": "120",
     "cc": "1798",
     "engineCodes": "CDHA",
-    "KBA_Numbers": "0588APS  0588AJS"
+    "KBA_Numbers": "0588APS, 0588AJS"
   },
   {
     "brand": "AUDI",
@@ -459,7 +459,7 @@
     "hp": "170",
     "cc": "1798",
     "engineCodes": "CJEB",
-    "KBA_Numbers": "0588ATB  0588ATX"
+    "KBA_Numbers": "0588ATB, 0588ATX"
   },
   {
     "brand": "AUDI",
@@ -470,7 +470,7 @@
     "hp": "160",
     "cc": "1798",
     "engineCodes": "CDHB",
-    "KBA_Numbers": "0588APU  0588AIS"
+    "KBA_Numbers": "0588APU, 0588AIS"
   },
   {
     "brand": "AUDI",
@@ -481,7 +481,7 @@
     "hp": "170",
     "cc": "1798",
     "engineCodes": "CJEB",
-    "KBA_Numbers": "0588AUZ  0588AVZ"
+    "KBA_Numbers": "0588AUZ, 0588AVZ"
   },
   {
     "brand": "AUDI",
@@ -491,8 +491,8 @@
     "kw": "100",
     "hp": "136",
     "cc": "1968",
-    "engineCodes": "CJCB  CAGB  CSUB",
-    "KBA_Numbers": "0588API  0588AHB"
+    "engineCodes": "CJCB, CAGB, CSUB",
+    "KBA_Numbers": "0588API, 0588AHB"
   },
   {
     "brand": "AUDI",
@@ -503,7 +503,7 @@
     "hp": "170",
     "cc": "1968",
     "engineCodes": "CAHA",
-    "KBA_Numbers": "0588APK  0588AHC"
+    "KBA_Numbers": "0588APK, 0588AHC"
   },
   {
     "brand": "AUDI",
@@ -513,8 +513,8 @@
     "kw": "88",
     "hp": "120",
     "cc": "1968",
-    "engineCodes": "CJCC  CAGC",
-    "KBA_Numbers": "0588APJ  0588AHM"
+    "engineCodes": "CJCC, CAGC",
+    "KBA_Numbers": "0588APJ, 0588AHM"
   },
   {
     "brand": "AUDI",
@@ -524,8 +524,8 @@
     "kw": "120",
     "hp": "163",
     "cc": "1968",
-    "engineCodes": "CNHC  CGLD  CAHB",
-    "KBA_Numbers": "0588APM  0588AHD"
+    "engineCodes": "CNHC, CGLD, CAHB",
+    "KBA_Numbers": "0588APM, 0588AHD"
   },
   {
     "brand": "AUDI",
@@ -536,7 +536,7 @@
     "hp": "177",
     "cc": "1968",
     "engineCodes": "CGLC",
-    "KBA_Numbers": "0588ASX  0588ATW"
+    "KBA_Numbers": "0588ASX, 0588ATW"
   },
   {
     "brand": "AUDI",
@@ -546,8 +546,8 @@
     "kw": "110",
     "hp": "150",
     "cc": "1968",
-    "engineCodes": "CMFB  CJCD  CSUA",
-    "KBA_Numbers": "0588AZP  0588AXN"
+    "engineCodes": "CMFB, CJCD, CSUA",
+    "KBA_Numbers": "0588AZP, 0588AXN"
   },
   {
     "brand": "AUDI",
@@ -558,7 +558,7 @@
     "hp": "190",
     "cc": "1968",
     "engineCodes": "CNHA",
-    "KBA_Numbers": "0588AZT  0588AYJ"
+    "KBA_Numbers": "0588AZT, 0588AYJ"
   },
   {
     "brand": "AUDI",
@@ -568,8 +568,8 @@
     "kw": "105",
     "hp": "143",
     "cc": "1968",
-    "engineCodes": "CMFA  CMEA  CJCA  CAGA",
-    "KBA_Numbers": "0588APG  0588AHA"
+    "engineCodes": "CMFA, CMEA, CJCA, CAGA",
+    "KBA_Numbers": "0588APG, 0588AHA"
   },
   {
     "brand": "AUDI",
@@ -579,7 +579,7 @@
     "kw": "105",
     "hp": "143",
     "cc": "1968",
-    "engineCodes": "CJCA  CAGA",
+    "engineCodes": "CJCA, CAGA",
     "KBA_Numbers": "0588AJU"
   },
   {
@@ -612,8 +612,8 @@
     "kw": "110",
     "hp": "150",
     "cc": "1968",
-    "engineCodes": "CJCD  CSUA",
-    "KBA_Numbers": "0588AZQ  0588AXO"
+    "engineCodes": "CJCD, CSUA",
+    "KBA_Numbers": "0588AZQ, 0588AXO"
   },
   {
     "brand": "AUDI",
@@ -624,7 +624,7 @@
     "hp": "190",
     "cc": "1968",
     "engineCodes": "CNHA",
-    "KBA_Numbers": "0588AZU  0588AYK"
+    "KBA_Numbers": "0588AZU, 0588AYK"
   },
   {
     "brand": "AUDI",
@@ -634,8 +634,8 @@
     "kw": "132",
     "hp": "180",
     "cc": "1984",
-    "engineCodes": "CFKA  CDNB",
-    "KBA_Numbers": "0588APV  0588AHP"
+    "engineCodes": "CFKA, CDNB",
+    "KBA_Numbers": "0588APV, 0588AHP"
   },
   {
     "brand": "AUDI",
@@ -645,8 +645,8 @@
     "kw": "155",
     "hp": "211",
     "cc": "1984",
-    "engineCodes": "CAEB  CDNC",
-    "KBA_Numbers": "0588APW  0588AHQ"
+    "engineCodes": "CAEB, CDNC",
+    "KBA_Numbers": "0588APW, 0588AHQ"
   },
   {
     "brand": "AUDI",
@@ -657,7 +657,7 @@
     "hp": "224",
     "cc": "1984",
     "engineCodes": "CNCD",
-    "KBA_Numbers": "0588AZR  0588AXL"
+    "KBA_Numbers": "0588AZR, 0588AXL"
   },
   {
     "brand": "AUDI",
@@ -668,7 +668,7 @@
     "hp": "180",
     "cc": "1984",
     "engineCodes": "CFKA",
-    "KBA_Numbers": "0588ALA  0588APY"
+    "KBA_Numbers": "0588ALA, 0588APY"
   },
   {
     "brand": "AUDI",
@@ -679,7 +679,7 @@
     "hp": "180",
     "cc": "1984",
     "engineCodes": "CFKA",
-    "KBA_Numbers": "0588ALB  0588APZ"
+    "KBA_Numbers": "0588ALB, 0588APZ"
   },
   {
     "brand": "AUDI",
@@ -689,7 +689,7 @@
     "kw": "155",
     "hp": "211",
     "cc": "1984",
-    "engineCodes": "CAEB  CDNC",
+    "engineCodes": "CAEB, CDNC",
     "KBA_Numbers": "0588AHR"
   },
   {
@@ -701,7 +701,7 @@
     "hp": "224",
     "cc": "1984",
     "engineCodes": "CNCD",
-    "KBA_Numbers": "0588AZS  0588AXM"
+    "KBA_Numbers": "0588AZS, 0588AXM"
   },
   {
     "brand": "AUDI",
@@ -711,8 +711,8 @@
     "kw": "140",
     "hp": "190",
     "cc": "2698",
-    "engineCodes": "CGKA  CAMA",
-    "KBA_Numbers": "0588AQA  0588AHO"
+    "engineCodes": "CGKA, CAMA",
+    "KBA_Numbers": "0588AQA, 0588AHO"
   },
   {
     "brand": "AUDI",
@@ -722,8 +722,8 @@
     "kw": "120",
     "hp": "163",
     "cc": "2698",
-    "engineCodes": "CGKB  CAMB",
-    "KBA_Numbers": "0588AQB  0588AIO"
+    "engineCodes": "CGKB, CAMB",
+    "KBA_Numbers": "0588AQB, 0588AIO"
   },
   {
     "brand": "AUDI",
@@ -734,7 +734,7 @@
     "hp": "204",
     "cc": "2967",
     "engineCodes": "CLAB",
-    "KBA_Numbers": "0588ATY  0588AUD"
+    "KBA_Numbers": "0588ATY, 0588AUD"
   },
   {
     "brand": "AUDI",
@@ -744,7 +744,7 @@
     "kw": "176",
     "hp": "240",
     "cc": "2967",
-    "engineCodes": "CCLA  CAPA  CCWA",
+    "engineCodes": "CCLA, CAPA, CCWA",
     "KBA_Numbers": "0588AHE"
   },
   {
@@ -756,7 +756,7 @@
     "hp": "211",
     "cc": "2967",
     "engineCodes": "CCWB",
-    "KBA_Numbers": "0588APR  0588AIN"
+    "KBA_Numbers": "0588APR, 0588AIN"
   },
   {
     "brand": "AUDI",
@@ -766,7 +766,7 @@
     "kw": "180",
     "hp": "245",
     "cc": "2967",
-    "engineCodes": "CKVC  CKVB  CDUC",
+    "engineCodes": "CKVC, CKVB, CDUC",
     "KBA_Numbers": "0588AUE"
   },
   {
@@ -777,8 +777,8 @@
     "kw": "200",
     "hp": "272",
     "cc": "2995",
-    "engineCodes": "CRED  CMUA",
-    "KBA_Numbers": "0588AUR  0588AUI"
+    "engineCodes": "CRED, CMUA",
+    "KBA_Numbers": "0588AUR, 0588AUI"
   },
   {
     "brand": "AUDI",
@@ -789,7 +789,7 @@
     "hp": "265",
     "cc": "3197",
     "engineCodes": "CALA",
-    "KBA_Numbers": "0588APO  0588AIU"
+    "KBA_Numbers": "0588APO, 0588AIU"
   },
   {
     "brand": "AUDI",
@@ -800,7 +800,7 @@
     "hp": "265",
     "cc": "3197",
     "engineCodes": "CALA",
-    "KBA_Numbers": "0588APP  0588AHS"
+    "KBA_Numbers": "0588APP, 0588AHS"
   },
   {
     "brand": "AUDI",
@@ -810,8 +810,8 @@
     "kw": "245",
     "hp": "333",
     "cc": "2995",
-    "engineCodes": "CREC  CCBA  CGXC  CTUB  CGWC  CAKA",
-    "KBA_Numbers": "0588APN  0588AJW"
+    "engineCodes": "CREC, CCBA, CGXC, CTUB, CGWC, CAKA",
+    "KBA_Numbers": "0588APN, 0588AJW"
   },
   {
     "brand": "AUDI",
@@ -843,7 +843,7 @@
     "kw": "125",
     "hp": "170",
     "cc": "1798",
-    "engineCodes": "CJEB  CABD",
+    "engineCodes": "CJEB, CABD",
     "KBA_Numbers": "0588AGB"
   },
   {
@@ -876,7 +876,7 @@
     "kw": "120",
     "hp": "163",
     "cc": "1968",
-    "engineCodes": "CNHC  CGLD  CAHB",
+    "engineCodes": "CNHC, CGLD, CAHB",
     "KBA_Numbers": "0588AHF"
   },
   {
@@ -975,7 +975,7 @@
     "kw": "155",
     "hp": "211",
     "cc": "1984",
-    "engineCodes": "CAEB  CDNC  CPMA",
+    "engineCodes": "CAEB, CDNC, CPMA",
     "KBA_Numbers": "0588AHH"
   },
   {
@@ -986,7 +986,7 @@
     "kw": "162",
     "hp": "220",
     "cc": "1984",
-    "engineCodes": "CPMB  CAED",
+    "engineCodes": "CPMB, CAED",
     "KBA_Numbers": ""
   },
   {
@@ -1019,8 +1019,8 @@
     "kw": "120",
     "hp": "163",
     "cc": "2698",
-    "engineCodes": "CGKB  CAMB",
-    "KBA_Numbers": "0588ALL  0588AGN"
+    "engineCodes": "CGKB, CAMB",
+    "KBA_Numbers": "0588ALL, 0588AGN"
   },
   {
     "brand": "AUDI",
@@ -1030,7 +1030,7 @@
     "kw": "140",
     "hp": "190",
     "cc": "2698",
-    "engineCodes": "CGKA  CAMA",
+    "engineCodes": "CGKA, CAMA",
     "KBA_Numbers": "0588AGF"
   },
   {
@@ -1052,7 +1052,7 @@
     "kw": "176",
     "hp": "240",
     "cc": "2967",
-    "engineCodes": "CAPA  CCWA",
+    "engineCodes": "CAPA, CCWA",
     "KBA_Numbers": "0588AGG"
   },
   {
@@ -1074,7 +1074,7 @@
     "kw": "180",
     "hp": "245",
     "cc": "2967",
-    "engineCodes": "CKVC  CKVB  CDUC",
+    "engineCodes": "CKVC, CKVB, CDUC",
     "KBA_Numbers": "0588ASB"
   },
   {
@@ -1096,7 +1096,7 @@
     "kw": "200",
     "hp": "272",
     "cc": "2995",
-    "engineCodes": "CMUA  CRED  CHMB",
+    "engineCodes": "CMUA, CRED, CHMB",
     "KBA_Numbers": "0588ATF"
   },
   {
@@ -1151,7 +1151,7 @@
     "kw": "245",
     "hp": "333",
     "cc": "2995",
-    "engineCodes": "CGWC  CAKA  CTDA  CREC  CTUB  CGXC",
+    "engineCodes": "CGWC, CAKA, CTDA, CREC, CTUB, CGXC",
     "KBA_Numbers": "0588ASC"
   },
   {
@@ -1195,7 +1195,7 @@
     "kw": "120",
     "hp": "163",
     "cc": "1968",
-    "engineCodes": "CGLD  CAHB",
+    "engineCodes": "CGLD, CAHB",
     "KBA_Numbers": "0588AKT"
   },
   {
@@ -1239,7 +1239,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1968",
-    "engineCodes": "CJCD  CSUA",
+    "engineCodes": "CJCD, CSUA",
     "KBA_Numbers": "0588AXP"
   },
   {
@@ -1261,7 +1261,7 @@
     "kw": "155",
     "hp": "211",
     "cc": "1984",
-    "engineCodes": "CAEB  CDNC",
+    "engineCodes": "CAEB, CDNC",
     "KBA_Numbers": "0588AJZ"
   },
   {
@@ -1272,7 +1272,7 @@
     "kw": "132",
     "hp": "180",
     "cc": "1984",
-    "engineCodes": "CAEA  CDNB",
+    "engineCodes": "CAEA, CDNB",
     "KBA_Numbers": "0588AJY"
   },
   {
@@ -1316,7 +1316,7 @@
     "kw": "155",
     "hp": "211",
     "cc": "1984",
-    "engineCodes": "CPMA  CAEB  CDNC",
+    "engineCodes": "CPMA, CAEB, CDNC",
     "KBA_Numbers": "0588AKA"
   },
   {
@@ -1393,7 +1393,7 @@
     "kw": "180",
     "hp": "245",
     "cc": "2967",
-    "engineCodes": "CDUC  CKVC",
+    "engineCodes": "CDUC, CKVC",
     "KBA_Numbers": "0588ASK"
   },
   {
@@ -1415,7 +1415,7 @@
     "kw": "200",
     "hp": "272",
     "cc": "2995",
-    "engineCodes": "CRED  CMUA",
+    "engineCodes": "CRED, CMUA",
     "KBA_Numbers": "0588ATE"
   },
   {
@@ -1448,7 +1448,7 @@
     "kw": "245",
     "hp": "333",
     "cc": "2995",
-    "engineCodes": "CTDA  CREC  CCBA  CGXC  CTUB  CGWC  CAKA",
+    "engineCodes": "CTDA, CREC, CCBA, CGXC, CTUB, CGWC, CAKA",
     "KBA_Numbers": "0588AKF"
   },
   {
@@ -1460,7 +1460,7 @@
     "hp": "144",
     "cc": "1798",
     "engineCodes": "CJED",
-    "KBA_Numbers": "0588BBA  0588BCI"
+    "KBA_Numbers": "0588BBA, 0588BCI"
   },
   {
     "brand": "AUDI",
@@ -1471,7 +1471,7 @@
     "hp": "177",
     "cc": "1798",
     "engineCodes": "CJEE",
-    "KBA_Numbers": "0588BEB  0588BEV"
+    "KBA_Numbers": "0588BEB, 0588BEV"
   },
   {
     "brand": "AUDI",
@@ -1482,7 +1482,7 @@
     "hp": "170",
     "cc": "1798",
     "engineCodes": "CJEB",
-    "KBA_Numbers": "0588ATX  0588ASD"
+    "KBA_Numbers": "0588ATX, 0588ASD"
   },
   {
     "brand": "AUDI",
@@ -1493,7 +1493,7 @@
     "hp": "170",
     "cc": "1968",
     "engineCodes": "CAHA",
-    "KBA_Numbers": "0588APK  0588AKP"
+    "KBA_Numbers": "0588APK, 0588AKP"
   },
   {
     "brand": "AUDI",
@@ -1503,8 +1503,8 @@
     "kw": "105",
     "hp": "143",
     "cc": "1968",
-    "engineCodes": "CMFA  CMEA  CJCA  CAGA",
-    "KBA_Numbers": "0588APG  0588ALI"
+    "engineCodes": "CMFA, CMEA, CJCA, CAGA",
+    "KBA_Numbers": "0588APG, 0588ALI"
   },
   {
     "brand": "AUDI",
@@ -1515,7 +1515,7 @@
     "hp": "177",
     "cc": "1968",
     "engineCodes": "CGLC",
-    "KBA_Numbers": "0588ATW  0588ASE"
+    "KBA_Numbers": "0588ATW, 0588ASE"
   },
   {
     "brand": "AUDI",
@@ -1525,8 +1525,8 @@
     "kw": "100",
     "hp": "136",
     "cc": "1968",
-    "engineCodes": "CSUB  CJCB  CAGB",
-    "KBA_Numbers": "0588API  0588ALK"
+    "engineCodes": "CSUB, CJCB, CAGB",
+    "KBA_Numbers": "0588API, 0588ALK"
   },
   {
     "brand": "AUDI",
@@ -1536,8 +1536,8 @@
     "kw": "120",
     "hp": "163",
     "cc": "1968",
-    "engineCodes": "CNHC  CGLD  CAHB",
-    "KBA_Numbers": "0588APM  0588AKW"
+    "engineCodes": "CNHC, CGLD, CAHB",
+    "KBA_Numbers": "0588APM, 0588AKW"
   },
   {
     "brand": "AUDI",
@@ -1547,8 +1547,8 @@
     "kw": "110",
     "hp": "150",
     "cc": "1968",
-    "engineCodes": "CMFB  CSUA  CJCD",
-    "KBA_Numbers": "0588AZP  0588AXI"
+    "engineCodes": "CMFB, CSUA, CJCD",
+    "KBA_Numbers": "0588AZP, 0588AXI"
   },
   {
     "brand": "AUDI",
@@ -1559,7 +1559,7 @@
     "hp": "170",
     "cc": "1968",
     "engineCodes": "CAHA",
-    "KBA_Numbers": "0588ALF  0588APL"
+    "KBA_Numbers": "0588ALF, 0588APL"
   },
   {
     "brand": "AUDI",
@@ -1570,7 +1570,7 @@
     "hp": "177",
     "cc": "1968",
     "engineCodes": "CGLC",
-    "KBA_Numbers": "0588AUQ  0588ATA"
+    "KBA_Numbers": "0588AUQ, 0588ATA"
   },
   {
     "brand": "AUDI",
@@ -1581,7 +1581,7 @@
     "hp": "190",
     "cc": "1968",
     "engineCodes": "CNHA",
-    "KBA_Numbers": "0588AZU  0588AYS"
+    "KBA_Numbers": "0588AZU, 0588AYS"
   },
   {
     "brand": "AUDI",
@@ -1592,7 +1592,7 @@
     "hp": "211",
     "cc": "1984",
     "engineCodes": "CDNC",
-    "KBA_Numbers": "0588ALE  0588APW"
+    "KBA_Numbers": "0588ALE, 0588APW"
   },
   {
     "brand": "AUDI",
@@ -1603,7 +1603,7 @@
     "hp": "224",
     "cc": "1984",
     "engineCodes": "CNCD",
-    "KBA_Numbers": "0588AZR  0588AXJ"
+    "KBA_Numbers": "0588AZR, 0588AXJ"
   },
   {
     "brand": "AUDI",
@@ -1614,7 +1614,7 @@
     "hp": "230",
     "cc": "1984",
     "engineCodes": "CNCE",
-    "KBA_Numbers": "0588BFB  0588BGU"
+    "KBA_Numbers": "0588BFB, 0588BGU"
   },
   {
     "brand": "AUDI",
@@ -1625,7 +1625,7 @@
     "hp": "180",
     "cc": "1984",
     "engineCodes": "CDNB",
-    "KBA_Numbers": "0588ALD  0588APV"
+    "KBA_Numbers": "0588ALD, 0588APV"
   },
   {
     "brand": "AUDI",
@@ -1636,7 +1636,7 @@
     "hp": "224",
     "cc": "1984",
     "engineCodes": "CNCD",
-    "KBA_Numbers": "0588AZS  0588AXK"
+    "KBA_Numbers": "0588AZS, 0588AXK"
   },
   {
     "brand": "AUDI",
@@ -1647,7 +1647,7 @@
     "hp": "230",
     "cc": "1984",
     "engineCodes": "CNCE",
-    "KBA_Numbers": "0588BFC  0588BGV"
+    "KBA_Numbers": "0588BFC, 0588BGV"
   },
   {
     "brand": "AUDI",
@@ -1658,7 +1658,7 @@
     "hp": "211",
     "cc": "1984",
     "engineCodes": "CDNC",
-    "KBA_Numbers": "0588APX  0588AKL"
+    "KBA_Numbers": "0588APX, 0588AKL"
   },
   {
     "brand": "AUDI",
@@ -1679,8 +1679,8 @@
     "kw": "140",
     "hp": "190",
     "cc": "2698",
-    "engineCodes": "CGKA  CAMA",
-    "KBA_Numbers": "0588AQA  0588AKN"
+    "engineCodes": "CGKA",
+    "KBA_Numbers": "0588AQA, 0588AKN"
   },
   {
     "brand": "AUDI",
@@ -1691,7 +1691,7 @@
     "hp": "204",
     "cc": "2967",
     "engineCodes": "CLAB",
-    "KBA_Numbers": "0588ATY  0588ASF"
+    "KBA_Numbers": "0588ATY, 0588ASF"
   },
   {
     "brand": "AUDI",
@@ -1702,7 +1702,7 @@
     "hp": "240",
     "cc": "2967",
     "engineCodes": "CCWA",
-    "KBA_Numbers": "0588APQ  0588AKO"
+    "KBA_Numbers": "0588APQ, 0588AKO"
   },
   {
     "brand": "AUDI",
@@ -1712,8 +1712,8 @@
     "kw": "180",
     "hp": "245",
     "cc": "2967",
-    "engineCodes": "CKVC  CKVB  CDUC",
-    "KBA_Numbers": "0588ATV  0588ASG"
+    "engineCodes": "CKVC, CKVB, CDUC",
+    "KBA_Numbers": "0588ATV, 0588ASG"
   },
   {
     "brand": "AUDI",
@@ -1724,7 +1724,7 @@
     "hp": "218",
     "cc": "2967",
     "engineCodes": "CKVD",
-    "KBA_Numbers": "0588BDY  0588BEW"
+    "KBA_Numbers": "0588BDY, 0588BEW"
   },
   {
     "brand": "AUDI",
@@ -1734,8 +1734,8 @@
     "kw": "200",
     "hp": "272",
     "cc": "2995",
-    "engineCodes": "CHMB  CRED  CMUA",
-    "KBA_Numbers": "0588AUR  0588ATG"
+    "engineCodes": "CHMB, CRED, CMUA",
+    "KBA_Numbers": "0588AUR, 0588ATG"
   },
   {
     "brand": "AUDI",
@@ -1746,7 +1746,7 @@
     "hp": "265",
     "cc": "3197",
     "engineCodes": "CALA",
-    "KBA_Numbers": "0588APP  0588AKM"
+    "KBA_Numbers": "0588APP, 0588AKM"
   },
   {
     "brand": "AUDI",
@@ -1756,8 +1756,8 @@
     "kw": "245",
     "hp": "333",
     "cc": "2995",
-    "engineCodes": "CTDA  CREC  CGWC  CAKA",
-    "KBA_Numbers": "0588APN  0588ALN"
+    "engineCodes": "CTDA, CREC, CGWC, CAKA",
+    "KBA_Numbers": "0588APN, 0588ALN"
   },
   {
     "brand": "AUDI",
@@ -1789,7 +1789,7 @@
     "kw": "130",
     "hp": "177",
     "cc": "1968",
-    "engineCodes": "CMGB  CGLC",
+    "engineCodes": "CMGB, CGLC",
     "KBA_Numbers": "0588AQY"
   },
   {
@@ -1800,7 +1800,7 @@
     "kw": "100",
     "hp": "136",
     "cc": "1968",
-    "engineCodes": "CSUE  CGLE  DDCA",
+    "engineCodes": "CSUE, CGLE, DDCA",
     "KBA_Numbers": "0588AUU"
   },
   {
@@ -1811,7 +1811,7 @@
     "kw": "140",
     "hp": "190",
     "cc": "1968",
-    "engineCodes": "CZJA  DDDA  CNHA",
+    "engineCodes": "CZJA, DDDA, CNHA",
     "KBA_Numbers": "0588AYT"
   },
   {
@@ -1822,7 +1822,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1968",
-    "engineCodes": "DDCB  CSUD",
+    "engineCodes": "DDCB, CSUD",
     "KBA_Numbers": "0588BBL"
   },
   {
@@ -1833,7 +1833,7 @@
     "kw": "140",
     "hp": "190",
     "cc": "1968",
-    "engineCodes": "CNHA  DDDA",
+    "engineCodes": "CNHA, DDDA",
     "KBA_Numbers": "0588BEC"
   },
   {
@@ -1866,7 +1866,7 @@
     "kw": "185",
     "hp": "252",
     "cc": "1984",
-    "engineCodes": "CYNB  CYPA",
+    "engineCodes": "CYNB, CYPA",
     "KBA_Numbers": "0588BBI"
   },
   {
@@ -1899,7 +1899,7 @@
     "kw": "185",
     "hp": "252",
     "cc": "1984",
-    "engineCodes": "CYNB  CYPA",
+    "engineCodes": "CYNB, CYPA",
     "KBA_Numbers": "0588BEE"
   },
   {
@@ -1965,7 +1965,7 @@
     "kw": "155",
     "hp": "211",
     "cc": "2967",
-    "engineCodes": "CZVD  CTCB",
+    "engineCodes": "CZVD, CTCB",
     "KBA_Numbers": "0588BCM"
   },
   {
@@ -1976,7 +1976,7 @@
     "kw": "160",
     "hp": "218",
     "cc": "2967",
-    "engineCodes": "CZVB  CTCC",
+    "engineCodes": "CZVB, CTCC",
     "KBA_Numbers": "0588BBM"
   },
   {
@@ -1998,7 +1998,7 @@
     "kw": "180",
     "hp": "245",
     "cc": "2967",
-    "engineCodes": "CDUD  CKVC  CKVB  CDUC",
+    "engineCodes": "CDUD, CKVC, CKVB, CDUC",
     "KBA_Numbers": "0588ARD"
   },
   {
@@ -2020,7 +2020,7 @@
     "kw": "155",
     "hp": "211",
     "cc": "2967",
-    "engineCodes": "CZVC  CRTF",
+    "engineCodes": "CZVC, CRTF",
     "KBA_Numbers": "0588BCL"
   },
   {
@@ -2031,7 +2031,7 @@
     "kw": "160",
     "hp": "218",
     "cc": "2967",
-    "engineCodes": "CZVA  CRTE",
+    "engineCodes": "CZVA, CRTE",
     "KBA_Numbers": "0588BBN"
   },
   {
@@ -2086,7 +2086,7 @@
     "kw": "228",
     "hp": "310",
     "cc": "2995",
-    "engineCodes": "CGWD  CTUA  CGXB",
+    "engineCodes": "CGWD, CTUA, CGXB",
     "KBA_Numbers": "0588AVW"
   },
   {
@@ -2124,347 +2124,6 @@
   },
   {
     "brand": "AUDI",
-    "model": "A6 C7 Avant (4G5, 4GD) | A6 / S6",
-    "engineType": "1.8 TFSI",
-    "madeYear": "09.2014 - 09.2018",
-    "kw": "140",
-    "hp": "190",
-    "cc": "1798",
-    "engineCodes": "CYGA",
-    "KBA_Numbers": "0588BBR  0588BCO"
-  },
-  {
-    "brand": "AUDI",
-    "model": "A6 C7 Avant (4G5, 4GD) | A6 / S6",
-    "engineType": "2.0 TDI",
-    "madeYear": "05.2011 - 09.2018",
-    "kw": "120",
-    "hp": "163",
-    "cc": "1968",
-    "engineCodes": "CGLD",
-    "KBA_Numbers": "0588ART  0588ARX"
-  },
-  {
-    "brand": "AUDI",
-    "model": "A6 C7 Avant (4G5, 4GD) | A6 / S6",
-    "engineType": "2.0 TDI",
-    "madeYear": "05.2011 - 09.2018",
-    "kw": "130",
-    "hp": "177",
-    "cc": "1968",
-    "engineCodes": "CGLC  CMGB",
-    "KBA_Numbers": "0588ARK  0588ARW"
-  },
-  {
-    "brand": "AUDI",
-    "model": "A6 C7 Avant (4G5, 4GD) | A6 / S6",
-    "engineType": "2.0 TDI",
-    "madeYear": "01.2012 - 09.2018",
-    "kw": "100",
-    "hp": "136",
-    "cc": "1968",
-    "engineCodes": "CSUE  CGLE  DDCA",
-    "KBA_Numbers": "0588AUT  0588AUW"
-  },
-  {
-    "brand": "AUDI",
-    "model": "A6 C7 Avant (4G5, 4GD) | A6 / S6",
-    "engineType": "2.0 TDI",
-    "madeYear": "11.2013 - 09.2018",
-    "kw": "140",
-    "hp": "190",
-    "cc": "1968",
-    "engineCodes": "DDDA  CZJA  CNHA",
-    "KBA_Numbers": "0588BAB  0588AYU"
-  },
-  {
-    "brand": "AUDI",
-    "model": "A6 C7 Avant (4G5, 4GD) | A6 / S6",
-    "engineType": "2.0 TDI",
-    "madeYear": "09.2014 - 09.2018",
-    "kw": "110",
-    "hp": "150",
-    "cc": "1968",
-    "engineCodes": "CSUD  DDCB",
-    "KBA_Numbers": "0588BBV  0588BCN"
-  },
-  {
-    "brand": "AUDI",
-    "model": "A6 C7 Avant (4G5, 4GD) | A6 / S6",
-    "engineType": "2.0 TDI quattro",
-    "madeYear": "04.2015 - 09.2018",
-    "kw": "140",
-    "hp": "190",
-    "cc": "1968",
-    "engineCodes": "DDDA  CNHA",
-    "KBA_Numbers": "0588BED  0588BEL"
-  },
-  {
-    "brand": "AUDI",
-    "model": "A6 C7 Avant (4G5, 4GD) | A6 / S6",
-    "engineType": "2.0 TFSI",
-    "madeYear": "06.2011 - 09.2018",
-    "kw": "132",
-    "hp": "180",
-    "cc": "1984",
-    "engineCodes": "CDNB",
-    "KBA_Numbers": "0588AST  0588ASU"
-  },
-  {
-    "brand": "AUDI",
-    "model": "A6 C7 Avant (4G5, 4GD) | A6 / S6",
-    "engineType": "2.0 TFSI",
-    "madeYear": "09.2014 - 09.2018",
-    "kw": "185",
-    "hp": "252",
-    "cc": "1984",
-    "engineCodes": "CYNB  CYPA",
-    "KBA_Numbers": "0588BBS  0588BCP"
-  },
-  {
-    "brand": "AUDI",
-    "model": "A6 C7 Avant (4G5, 4GD) | A6 / S6",
-    "engineType": "2.0 TFSI quattro",
-    "madeYear": "05.2015 - 09.2018",
-    "kw": "183",
-    "hp": "249",
-    "cc": "1984",
-    "engineCodes": "CYPB",
-    "KBA_Numbers": "0588BEO  0588BHE"
-  },
-  {
-    "brand": "AUDI",
-    "model": "A6 C7 Avant (4G5, 4GD) | A6 / S6",
-    "engineType": "2.0 TFSI quattro",
-    "madeYear": "05.2015 - 09.2018",
-    "kw": "185",
-    "hp": "252",
-    "cc": "1984",
-    "engineCodes": "CYPA",
-    "KBA_Numbers": "0588BEF  0588BEU"
-  },
-  {
-    "brand": "AUDI",
-    "model": "A6 C7 Avant (4G5, 4GD) | A6 / S6",
-    "engineType": "2.8 FSI",
-    "madeYear": "05.2011 - 04.2015",
-    "kw": "150",
-    "hp": "204",
-    "cc": "2773",
-    "engineCodes": "CHVA",
-    "KBA_Numbers": "0588ARL"
-  },
-  {
-    "brand": "AUDI",
-    "model": "A6 C7 Avant (4G5, 4GD) | A6 / S6",
-    "engineType": "2.8 FSI quattro",
-    "madeYear": "05.2011 - 04.2015",
-    "kw": "150",
-    "hp": "204",
-    "cc": "2773",
-    "engineCodes": "CHVA",
-    "KBA_Numbers": "0588ARM"
-  },
-  {
-    "brand": "AUDI",
-    "model": "A6 C7 Avant (4G5, 4GD) | A6 / S6",
-    "engineType": "2.8 FSI quattro",
-    "madeYear": "09.2014 - 09.2018",
-    "kw": "162",
-    "hp": "220",
-    "cc": "2773",
-    "engineCodes": "CVPA",
-    "KBA_Numbers": ""
-  },
-  {
-    "brand": "AUDI",
-    "model": "A6 C7 Avant (4G5, 4GD) | A6 / S6",
-    "engineType": "3.0 TDI",
-    "madeYear": "05.2011 - 09.2018",
-    "kw": "150",
-    "hp": "204",
-    "cc": "2967",
-    "engineCodes": "CLAB",
-    "KBA_Numbers": "0588AQS"
-  },
-  {
-    "brand": "AUDI",
-    "model": "A6 C7 Avant (4G5, 4GD) | A6 / S6",
-    "engineType": "3.0 TDI",
-    "madeYear": "09.2014 - 09.2018",
-    "kw": "155",
-    "hp": "211",
-    "cc": "2967",
-    "engineCodes": "CZVD  CTCB",
-    "KBA_Numbers": "0588BCF  0588BCK"
-  },
-  {
-    "brand": "AUDI",
-    "model": "A6 C7 Avant (4G5, 4GD) | A6 / S6",
-    "engineType": "3.0 TDI",
-    "madeYear": "09.2014 - 09.2018",
-    "kw": "160",
-    "hp": "218",
-    "cc": "2967",
-    "engineCodes": "CZVB  CTCC",
-    "KBA_Numbers": "0588BBW  0588BCG"
-  },
-  {
-    "brand": "AUDI",
-    "model": "A6 C7 Avant (4G5, 4GD) | A6 / S6",
-    "engineType": "3.0 TDI quattro",
-    "madeYear": "05.2011 - 09.2018",
-    "kw": "150",
-    "hp": "204",
-    "cc": "2967",
-    "engineCodes": "CLAA",
-    "KBA_Numbers": "0588ARO"
-  },
-  {
-    "brand": "AUDI",
-    "model": "A6 C7 Avant (4G5, 4GD) | A6 / S6",
-    "engineType": "3.0 TDI quattro",
-    "madeYear": "05.2011 - 09.2018",
-    "kw": "180",
-    "hp": "245",
-    "cc": "2967",
-    "engineCodes": "CDUD  CKVC  CKVB  CDUC",
-    "KBA_Numbers": "0588ARP"
-  },
-  {
-    "brand": "AUDI",
-    "model": "A6 C7 Avant (4G5, 4GD) | A6 / S6",
-    "engineType": "3.0 TDI quattro",
-    "madeYear": "11.2011 - 09.2018",
-    "kw": "230",
-    "hp": "313",
-    "cc": "2967",
-    "engineCodes": "CGQB",
-    "KBA_Numbers": "0588ATI  0588ATZ"
-  },
-  {
-    "brand": "AUDI",
-    "model": "A6 C7 Avant (4G5, 4GD) | A6 / S6",
-    "engineType": "3.0 TDI quattro",
-    "madeYear": "09.2014 - 09.2018",
-    "kw": "155",
-    "hp": "211",
-    "cc": "2967",
-    "engineCodes": "CZVC  CRTF",
-    "KBA_Numbers": "0588BCJ"
-  },
-  {
-    "brand": "AUDI",
-    "model": "A6 C7 Avant (4G5, 4GD) | A6 / S6",
-    "engineType": "3.0 TDI quattro",
-    "madeYear": "09.2014 - 09.2018",
-    "kw": "160",
-    "hp": "218",
-    "cc": "2967",
-    "engineCodes": "CZVA  CRTE",
-    "KBA_Numbers": "0588BBX  0588BCD"
-  },
-  {
-    "brand": "AUDI",
-    "model": "A6 C7 Avant (4G5, 4GD) | A6 / S6",
-    "engineType": "3.0 TDI quattro",
-    "madeYear": "09.2014 - 09.2018",
-    "kw": "200",
-    "hp": "272",
-    "cc": "2967",
-    "engineCodes": "CRTD",
-    "KBA_Numbers": "0588BBY"
-  },
-  {
-    "brand": "AUDI",
-    "model": "A6 C7 Avant (4G5, 4GD) | A6 / S6",
-    "engineType": "3.0 TDI quattro",
-    "madeYear": "09.2014 - 09.2018",
-    "kw": "235",
-    "hp": "320",
-    "cc": "2967",
-    "engineCodes": "CVUA",
-    "KBA_Numbers": "0588BBZ"
-  },
-  {
-    "brand": "AUDI",
-    "model": "A6 C7 Avant (4G5, 4GD) | A6 / S6",
-    "engineType": "3.0 TDI quattro",
-    "madeYear": "09.2014 - 09.2018",
-    "kw": "240",
-    "hp": "326",
-    "cc": "2967",
-    "engineCodes": "CVUB",
-    "KBA_Numbers": "0588BBG  0588BCA"
-  },
-  {
-    "brand": "AUDI",
-    "model": "A6 C7 Avant (4G5, 4GD) | A6 / S6",
-    "engineType": "3.0 TFSI quattro",
-    "madeYear": "05.2011 - 05.2012",
-    "kw": "220",
-    "hp": "300",
-    "cc": "2995",
-    "engineCodes": "CGWB",
-    "KBA_Numbers": "0588ARN"
-  },
-  {
-    "brand": "AUDI",
-    "model": "A6 C7 Avant (4G5, 4GD) | A6 / S6",
-    "engineType": "3.0 TFSI quattro",
-    "madeYear": "11.2011 - 09.2018",
-    "kw": "228",
-    "hp": "310",
-    "cc": "2995",
-    "engineCodes": "CGWD",
-    "KBA_Numbers": "0588AVB"
-  },
-  {
-    "brand": "AUDI",
-    "model": "A6 C7 Avant (4G5, 4GD) | A6 / S6",
-    "engineType": "3.0 TFSI quattro",
-    "madeYear": "09.2014 - 09.2018",
-    "kw": "245",
-    "hp": "333",
-    "cc": "2995",
-    "engineCodes": "CREC",
-    "KBA_Numbers": "0588BBT"
-  },
-  {
-    "brand": "AUDI",
-    "model": "A6 C7 Avant (4G5, 4GD) | A6 / S6",
-    "engineType": "RS6 quattro",
-    "madeYear": "01.2013 - 09.2018",
-    "kw": "412",
-    "hp": "560",
-    "cc": "3993",
-    "engineCodes": "CWUB  CRDB",
-    "KBA_Numbers": "1860AAH  7967AAY"
-  },
-  {
-    "brand": "AUDI",
-    "model": "A6 C7 Avant (4G5, 4GD) | A6 / S6",
-    "engineType": "S6 quattro",
-    "madeYear": "02.2012 - 09.2018",
-    "kw": "309",
-    "hp": "420",
-    "cc": "3993",
-    "engineCodes": "CEUC",
-    "KBA_Numbers": "0588AVC  0588AVY"
-  },
-  {
-    "brand": "AUDI",
-    "model": "A6 C7 Avant (4G5, 4GD) | A6 / S6",
-    "engineType": "S6 quattro",
-    "madeYear": "10.2014 - 09.2018",
-    "kw": "331",
-    "hp": "450",
-    "cc": "3993",
-    "engineCodes": "CTGE",
-    "KBA_Numbers": "0588BBU  0588BCH"
-  },
-  {
-    "brand": "AUDI",
     "model": "A7 Sportback (4GA, 4GF) | A7 / S7",
     "engineType": "1.8 TFSI",
     "madeYear": "04.2015 - 05.2018",
@@ -2483,7 +2142,7 @@
     "hp": "252",
     "cc": "1984",
     "engineCodes": "CYPA",
-    "KBA_Numbers": "0588BBC  0588BCP"
+    "KBA_Numbers": "0588BBC, 0588BCP"
   },
   {
     "brand": "AUDI",
@@ -2494,7 +2153,7 @@
     "hp": "249",
     "cc": "1984",
     "engineCodes": "CYPB",
-    "KBA_Numbers": "0588BEQ  0588BHE"
+    "KBA_Numbers": "0588BEQ, 0588BHE"
   },
   {
     "brand": "AUDI",
@@ -2504,8 +2163,8 @@
     "kw": "185",
     "hp": "252",
     "cc": "1984",
-    "engineCodes": "CYNB  CYPA",
-    "KBA_Numbers": "0588BEG  0588BEU"
+    "engineCodes": "CYNB, CYPA",
+    "KBA_Numbers": "0588BEG, 0588BEU"
   },
   {
     "brand": "AUDI",
@@ -2516,7 +2175,7 @@
     "hp": "204",
     "cc": "2773",
     "engineCodes": "CHVA",
-    "KBA_Numbers": "0588AQE  0588ARF"
+    "KBA_Numbers": "0588AQE, 0588ARF"
   },
   {
     "brand": "AUDI",
@@ -2526,8 +2185,8 @@
     "kw": "150",
     "hp": "204",
     "cc": "2773",
-    "engineCodes": "CHVA  CNYA",
-    "KBA_Numbers": "0588AQF  0588AQW"
+    "engineCodes": "CHVA, CNYA",
+    "KBA_Numbers": "0588AQF, 0588AQW"
   },
   {
     "brand": "AUDI",
@@ -2549,7 +2208,7 @@
     "hp": "204",
     "cc": "2967",
     "engineCodes": "CLAB",
-    "KBA_Numbers": "0588AQT  0588AQX"
+    "KBA_Numbers": "0588AQT, 0588AQX"
   },
   {
     "brand": "AUDI",
@@ -2559,8 +2218,8 @@
     "kw": "160",
     "hp": "218",
     "cc": "2967",
-    "engineCodes": "CTCC  CZVB",
-    "KBA_Numbers": "0588BAW  0588BCG"
+    "engineCodes": "CTCC, CZVB",
+    "KBA_Numbers": "0588BAW, 0588BCG"
   },
   {
     "brand": "AUDI",
@@ -2571,7 +2230,7 @@
     "hp": "190",
     "cc": "2967",
     "engineCodes": "CZVE",
-    "KBA_Numbers": "0588BEX  0588BHG"
+    "KBA_Numbers": "0588BEX, 0588BHG"
   },
   {
     "brand": "AUDI",
@@ -2581,8 +2240,8 @@
     "kw": "155",
     "hp": "211",
     "cc": "2967",
-    "engineCodes": "CZVC  CZVD  CTCB",
-    "KBA_Numbers": "0588BCC  0588BCF"
+    "engineCodes": "CZVC, CZVD, CTCB",
+    "KBA_Numbers": "0588BCC, 0588BCF"
   },
   {
     "brand": "AUDI",
@@ -2592,8 +2251,8 @@
     "kw": "180",
     "hp": "245",
     "cc": "2967",
-    "engineCodes": "CDUD  CKVC  CKVB  CDUC",
-    "KBA_Numbers": "0588AQH  0588AQU"
+    "engineCodes": "CDUD, CKVC, CKVB, CDUC",
+    "KBA_Numbers": "0588AQH, 0588AQU"
   },
   {
     "brand": "AUDI",
@@ -2604,7 +2263,7 @@
     "hp": "204",
     "cc": "2967",
     "engineCodes": "CLAA",
-    "KBA_Numbers": "0588ARS  0588ARY"
+    "KBA_Numbers": "0588ARS, 0588ARY"
   },
   {
     "brand": "AUDI",
@@ -2615,7 +2274,7 @@
     "hp": "313",
     "cc": "2967",
     "engineCodes": "CGQB",
-    "KBA_Numbers": "0588ATJ  0588ATZ"
+    "KBA_Numbers": "0588ATJ, 0588ATZ"
   },
   {
     "brand": "AUDI",
@@ -2637,7 +2296,7 @@
     "hp": "272",
     "cc": "2967",
     "engineCodes": "CRTD",
-    "KBA_Numbers": "0588BAY  0588BBE"
+    "KBA_Numbers": "0588BAY, 0588BBE"
   },
   {
     "brand": "AUDI",
@@ -2648,7 +2307,7 @@
     "hp": "320",
     "cc": "2967",
     "engineCodes": "CVUA",
-    "KBA_Numbers": "0588BAZ  0588BBF"
+    "KBA_Numbers": "0588BAZ, 0588BBF"
   },
   {
     "brand": "AUDI",
@@ -2658,8 +2317,8 @@
     "kw": "155",
     "hp": "211",
     "cc": "2967",
-    "engineCodes": "CRTF  CTCB  CZVC  CZVD",
-    "KBA_Numbers": "0588BCB  0588BCE"
+    "engineCodes": "CRTF, CTCB, CZVC, CZVD",
+    "KBA_Numbers": "0588BCB, 0588BCE"
   },
   {
     "brand": "AUDI",
@@ -2669,8 +2328,8 @@
     "kw": "160",
     "hp": "218",
     "cc": "2967",
-    "engineCodes": "CZVA  CRTE",
-    "KBA_Numbers": "0588BAX  0588BCD"
+    "engineCodes": "CZVA, CRTE",
+    "KBA_Numbers": "0588BAX, 0588BCD"
   },
   {
     "brand": "AUDI",
@@ -2681,7 +2340,7 @@
     "hp": "326",
     "cc": "2967",
     "engineCodes": "CVUB",
-    "KBA_Numbers": "0588BBB  0588BBG"
+    "KBA_Numbers": "0588BBB, 0588BBG"
   },
   {
     "brand": "AUDI",
@@ -2691,8 +2350,8 @@
     "kw": "140",
     "hp": "190",
     "cc": "2967",
-    "engineCodes": "CZVF  CZVE",
-    "KBA_Numbers": "0588BGH  0588BHF"
+    "engineCodes": "CZVF, CZVE",
+    "KBA_Numbers": "0588BGH, 0588BHF"
   },
   {
     "brand": "AUDI",
@@ -2702,8 +2361,8 @@
     "kw": "220",
     "hp": "300",
     "cc": "2995",
-    "engineCodes": "CGWB  CHMA",
-    "KBA_Numbers": "0588AQG  0588AQV"
+    "engineCodes": "CGWB, CHMA",
+    "KBA_Numbers": "0588AQG, 0588AQV"
   },
   {
     "brand": "AUDI",
@@ -2713,7 +2372,7 @@
     "kw": "228",
     "hp": "310",
     "cc": "2995",
-    "engineCodes": "CGWD  CTUA  CTTA  CGXB",
+    "engineCodes": "CGWD, CTUA, CTTA, CGXB",
     "KBA_Numbers": "0588AVX"
   },
   {
@@ -2725,7 +2384,7 @@
     "hp": "333",
     "cc": "2995",
     "engineCodes": "CREC",
-    "KBA_Numbers": "0588BAU  0588BBD"
+    "KBA_Numbers": "0588BAU, 0588BBD"
   },
   {
     "brand": "AUDI",
@@ -2736,7 +2395,7 @@
     "hp": "420",
     "cc": "3993",
     "engineCodes": "CEUC",
-    "KBA_Numbers": "0588AVE  0588AVY"
+    "KBA_Numbers": "0588AVE, 0588AVY"
   },
   {
     "brand": "AUDI",
@@ -2746,8 +2405,8 @@
     "kw": "441",
     "hp": "600",
     "cc": "3996",
-    "engineCodes": "DJPB  DWLA  DYGB",
-    "KBA_Numbers": "1860ABB  0588BSR"
+    "engineCodes": "DJPB, DWLA, DYGB",
+    "KBA_Numbers": "1860ABB, 0588BSR"
   },
   {
     "brand": "AUDI",
@@ -2757,8 +2416,8 @@
     "kw": "100",
     "hp": "136",
     "cc": "1968",
-    "engineCodes": "CSUB  CJCB",
-    "KBA_Numbers": "0588ARI  0588ARH"
+    "engineCodes": "CSUB, CJCB",
+    "KBA_Numbers": "0588ARI, 0588ARH"
   },
   {
     "brand": "AUDI",
@@ -2769,7 +2428,7 @@
     "hp": "143",
     "cc": "1968",
     "engineCodes": "CJCA",
-    "KBA_Numbers": "0588AQI  0588ARG"
+    "KBA_Numbers": "0588AQI, 0588ARG"
   },
   {
     "brand": "AUDI",
@@ -2779,8 +2438,8 @@
     "kw": "110",
     "hp": "150",
     "cc": "1968",
-    "engineCodes": "CJCD  CSUA",
-    "KBA_Numbers": "0588AZK  0588AXU"
+    "engineCodes": "CJCD, CSUA",
+    "KBA_Numbers": "0588AZK, 0588AXU"
   },
   {
     "brand": "AUDI",
@@ -2791,7 +2450,7 @@
     "hp": "190",
     "cc": "1968",
     "engineCodes": "CNHA",
-    "KBA_Numbers": "0588BGI  0588BHH"
+    "KBA_Numbers": "0588BGI, 0588BHH"
   },
   {
     "brand": "AUDI",
@@ -2801,8 +2460,8 @@
     "kw": "120",
     "hp": "163",
     "cc": "1968",
-    "engineCodes": "CGLA  CNHC  CGLD  CAHB",
-    "KBA_Numbers": "0588ALV  0588AOI  0588AIX"
+    "engineCodes": "CGLA, CNHC, CGLD, CAHB",
+    "KBA_Numbers": "0588ALV, 0588AOI, 0588AIX"
   },
   {
     "brand": "AUDI",
@@ -2812,8 +2471,8 @@
     "kw": "125",
     "hp": "170",
     "cc": "1968",
-    "engineCodes": "CMGA  CGLB  CAHA",
-    "KBA_Numbers": "0588ALU  0588AOH  0588AIW"
+    "engineCodes": "CMGA, CGLB, CAHA",
+    "KBA_Numbers": "0588ALU, 0588AOH, 0588AIW"
   },
   {
     "brand": "AUDI",
@@ -2823,8 +2482,8 @@
     "kw": "100",
     "hp": "136",
     "cc": "1968",
-    "engineCodes": "CJCB  CSUB  CAGB",
-    "KBA_Numbers": "0588ALJ  0588ALT  0588AOG"
+    "engineCodes": "CJCB, CSUB, CAGB",
+    "KBA_Numbers": "0588ALJ, 0588ALT, 0588AOG"
   },
   {
     "brand": "AUDI",
@@ -2834,8 +2493,8 @@
     "kw": "105",
     "hp": "143",
     "cc": "1968",
-    "engineCodes": "CJCA  CAGA",
-    "KBA_Numbers": "0588ALH  0588ALS  0588AOF"
+    "engineCodes": "CJCA, CAGA",
+    "KBA_Numbers": "0588ALH, 0588ALS, 0588AOF"
   },
   {
     "brand": "AUDI",
@@ -2845,8 +2504,8 @@
     "kw": "130",
     "hp": "177",
     "cc": "1968",
-    "engineCodes": "CGLC  CMGB",
-    "KBA_Numbers": "0588AVU  0588AWD"
+    "engineCodes": "CGLC, CMGB",
+    "KBA_Numbers": "0588AVU, 0588AWD"
   },
   {
     "brand": "AUDI",
@@ -2856,8 +2515,8 @@
     "kw": "110",
     "hp": "150",
     "cc": "1968",
-    "engineCodes": "CJCD  CSUA",
-    "KBA_Numbers": "0588AZL  0588AXV"
+    "engineCodes": "CJCD, CSUA",
+    "KBA_Numbers": "0588AZL, 0588AXV"
   },
   {
     "brand": "AUDI",
@@ -2868,7 +2527,7 @@
     "hp": "190",
     "cc": "1968",
     "engineCodes": "CNHA",
-    "KBA_Numbers": "0588AZM  0588AYZ"
+    "KBA_Numbers": "0588AZM, 0588AYZ"
   },
   {
     "brand": "AUDI",
@@ -2889,8 +2548,8 @@
     "kw": "155",
     "hp": "211",
     "cc": "1984",
-    "engineCodes": "CAEB  CDNC",
-    "KBA_Numbers": "0588AMA  0588AON  0588AIV"
+    "engineCodes": "CAEB, CDNC",
+    "KBA_Numbers": "0588AMA, 0588AON, 0588AIV"
   },
   {
     "brand": "AUDI",
@@ -2900,8 +2559,8 @@
     "kw": "132",
     "hp": "180",
     "cc": "1984",
-    "engineCodes": "CDNB  CNCB",
-    "KBA_Numbers": "0588ALG  0588ALZ  0588AOM"
+    "engineCodes": "CDNB, CNCB",
+    "KBA_Numbers": "0588ALG, 0588ALZ, 0588AOM"
   },
   {
     "brand": "AUDI",
@@ -2912,7 +2571,7 @@
     "hp": "224",
     "cc": "1984",
     "engineCodes": "CNCD",
-    "KBA_Numbers": "0588AVS  0588AWE"
+    "KBA_Numbers": "0588AVS, 0588AWE"
   },
   {
     "brand": "AUDI",
@@ -2934,7 +2593,7 @@
     "hp": "230",
     "cc": "1984",
     "engineCodes": "CNCE",
-    "KBA_Numbers": "0588BGC  0588BGT"
+    "KBA_Numbers": "0588BGC, 0588BGT"
   },
   {
     "brand": "AUDI",
@@ -2944,8 +2603,8 @@
     "kw": "176",
     "hp": "240",
     "cc": "2967",
-    "engineCodes": "CPNB  CCWA",
-    "KBA_Numbers": "0588ALX  0588AOK  0588AIY"
+    "engineCodes": "CPNB, CCWA",
+    "KBA_Numbers": "0588ALX, 0588AOK, 0588AIY"
   },
   {
     "brand": "AUDI",
@@ -2956,7 +2615,7 @@
     "hp": "245",
     "cc": "2967",
     "engineCodes": "CDUD",
-    "KBA_Numbers": "0588AVV  0588AWC"
+    "KBA_Numbers": "0588AVV, 0588AWC"
   },
   {
     "brand": "AUDI",
@@ -2967,7 +2626,7 @@
     "hp": "250",
     "cc": "2967",
     "engineCodes": "CTBC",
-    "KBA_Numbers": "0588AZV  0588BAA"
+    "KBA_Numbers": "0588AZV, 0588BAA"
   },
   {
     "brand": "AUDI",
@@ -2978,7 +2637,7 @@
     "hp": "258",
     "cc": "2967",
     "engineCodes": "CTBA",
-    "KBA_Numbers": "0588AZN  0588AZA"
+    "KBA_Numbers": "0588AZN, 0588AZA"
   },
   {
     "brand": "AUDI",
@@ -2988,8 +2647,8 @@
     "kw": "200",
     "hp": "272",
     "cc": "2995",
-    "engineCodes": "CTVA  CTUC",
-    "KBA_Numbers": "0588AVT  0588AWF"
+    "engineCodes": "CTVA, CTUC",
+    "KBA_Numbers": "0588AVT, 0588AWF"
   },
   {
     "brand": "AUDI",
@@ -3000,7 +2659,7 @@
     "hp": "270",
     "cc": "3197",
     "engineCodes": "CALB",
-    "KBA_Numbers": "0588ALW  0588AOJ  0588AJX"
+    "KBA_Numbers": "0588ALW, 0588AOJ, 0588AJX"
   },
   {
     "brand": "AUDI",
@@ -3010,8 +2669,8 @@
     "kw": "230",
     "hp": "313",
     "cc": "2967",
-    "engineCodes": "CVUC  CGQB",
-    "KBA_Numbers": "0588AWB  0588AWV"
+    "engineCodes": "CVUC, CGQB",
+    "KBA_Numbers": "0588AWB, 0588AWV"
   },
   {
     "brand": "PORSCHE",
@@ -3021,8 +2680,8 @@
     "kw": "174",
     "hp": "237",
     "cc": "1984",
-    "engineCodes": "MCN.CC  MCY.NA  CNCC  CYNA",
-    "KBA_Numbers": "0583AHF  0583AID"
+    "engineCodes": "MCN.CC, MCY.NA, CNCC, CYNA",
+    "KBA_Numbers": "0583AHF, 0583AID"
   },
   {
     "brand": "PORSCHE",
@@ -3032,8 +2691,8 @@
     "kw": "185",
     "hp": "252",
     "cc": "1984",
-    "engineCodes": "MCY.NB  DLHB  MCY.PA  CYPA  CYNB",
-    "KBA_Numbers": "0583AJI  0583AJG"
+    "engineCodes": "MCY.NB, DLHB, MCY.PA, CYPA, CYNB",
+    "KBA_Numbers": "0583AJI, 0583AJG"
   },
   {
     "brand": "PORSCHE",
@@ -3110,7 +2769,7 @@
     "hp": "360",
     "cc": "2997",
     "engineCodes": "MDC.NA",
-    "KBA_Numbers": "0583AJF  0583AJJ"
+    "KBA_Numbers": "0583AJF, 0583AJJ"
   },
   {
     "brand": "PORSCHE",
@@ -3121,7 +2780,7 @@
     "hp": "340",
     "cc": "2997",
     "engineCodes": "MCT.MA",
-    "KBA_Numbers": "0583AHA  0583AHB  0583AHN  0583AHO"
+    "KBA_Numbers": "0583AHA, 0583AHB, 0583AHN, 0583AHO"
   },
   {
     "brand": "PORSCHE",
@@ -3143,7 +2802,7 @@
     "hp": "211",
     "cc": "2967",
     "engineCodes": "MCT.BB",
-    "KBA_Numbers": "0583AHH  0583AHI  0583AHV  0583AHW"
+    "KBA_Numbers": "0583AHH, 0583AHI, 0583AHV, 0583AHW"
   },
   {
     "brand": "PORSCHE",
@@ -3165,7 +2824,7 @@
     "hp": "250",
     "cc": "2967",
     "engineCodes": "MCT.BC",
-    "KBA_Numbers": "0583AHJ  0583AHK  0583AHT  0583AHU"
+    "KBA_Numbers": "0583AHJ, 0583AHK, 0583AHT, 0583AHU"
   },
   {
     "brand": "PORSCHE",
@@ -3176,7 +2835,7 @@
     "hp": "258",
     "cc": "2967",
     "engineCodes": "MCT.BA",
-    "KBA_Numbers": "0583AGY  0583AGZ  0583AHS  0583AHR"
+    "KBA_Numbers": "0583AGY, 0583AGZ, 0583AHS, 0583AHR"
   },
   {
     "brand": "PORSCHE",
@@ -3187,7 +2846,7 @@
     "hp": "400",
     "cc": "3604",
     "engineCodes": "MCT.LA",
-    "KBA_Numbers": "0583AHD  0583AHC  0583AHP  0583AHQ"
+    "KBA_Numbers": "0583AHD, 0583AHC, 0583AHP, 0583AHQ"
   },
   {
     "brand": "PORSCHE",
@@ -3198,6 +2857,6 @@
     "hp": "440",
     "cc": "3604",
     "engineCodes": "MDH.KA",
-    "KBA_Numbers": "0583AJU  0583AJT"
+    "KBA_Numbers": "0583AJU, 0583AJT"
   }
 ]

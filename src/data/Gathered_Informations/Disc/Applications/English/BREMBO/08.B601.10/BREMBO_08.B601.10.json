@@ -7,7 +7,7 @@
     "kw": "74",
     "hp": "100",
     "cc": "998",
-    "engineCodes": "M2DA  M2DC",
+    "engineCodes": "M2DA, M2DC",
     "KBA_Numbers": "8566BEQ"
   },
   {
@@ -18,7 +18,7 @@
     "kw": "92",
     "hp": "125",
     "cc": "998",
-    "engineCodes": "M1DA  M1DD",
+    "engineCodes": "M1DA, M1DD",
     "KBA_Numbers": "8566BEP"
   },
   {
@@ -27,7 +27,7 @@
     "engineType": "1.0 EcoBoost",
     "madeYear": "07.2018 - 06.2019",
     "kw": "74",
-    "hp": "100",
+    "hp": "101",
     "cc": "999",
     "engineCodes": "B3DA",
     "KBA_Numbers": "8566BEO"
@@ -51,7 +51,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1498",
-    "engineCodes": "M8DB  M8DF",
+    "engineCodes": "M8DB, M8DF",
     "KBA_Numbers": "8566BKW"
   },
   {
@@ -73,7 +73,7 @@
     "kw": "70",
     "hp": "95",
     "cc": "1499",
-    "engineCodes": "XXDA  XXDC  XXDD",
+    "engineCodes": "XXDA, XXDC, XXDD",
     "KBA_Numbers": "8566BLG"
   },
   {
@@ -84,7 +84,7 @@
     "kw": "88",
     "hp": "120",
     "cc": "1499",
-    "engineCodes": "XWDE  XWDD  XWDC  XWDB  XWDA",
+    "engineCodes": "XWDE, XWDD, XWDC, XWDB, XWDA",
     "KBA_Numbers": "8566BLE"
   },
   {
@@ -106,7 +106,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1596",
-    "engineCodes": "JQDB  JQDA",
+    "engineCodes": "JQDB, JQDA",
     "KBA_Numbers": "8566AUO"
   },
   {
@@ -117,7 +117,7 @@
     "kw": "134",
     "hp": "182",
     "cc": "1596",
-    "engineCodes": "JTDB  JTDA",
+    "engineCodes": "JTDB, JTDA",
     "KBA_Numbers": "8566AUP"
   },
   {
@@ -128,7 +128,7 @@
     "kw": "88",
     "hp": "120",
     "cc": "1596",
-    "engineCodes": "MUDD  MUDA",
+    "engineCodes": "MUDD, MUDA",
     "KBA_Numbers": "8566AXQ"
   },
   {
@@ -139,7 +139,7 @@
     "kw": "86",
     "hp": "117",
     "cc": "1596",
-    "engineCodes": "MUDA  MUDD",
+    "engineCodes": "MUDA, MUDD",
     "KBA_Numbers": ""
   },
   {
@@ -150,7 +150,7 @@
     "kw": "88",
     "hp": "120",
     "cc": "1596",
-    "engineCodes": "MUDD  MUDA",
+    "engineCodes": "MUDD, MUDA",
     "KBA_Numbers": "8566BEZ"
   },
   {
@@ -161,7 +161,7 @@
     "kw": "70",
     "hp": "95",
     "cc": "1560",
-    "engineCodes": "T3DB  T3DA",
+    "engineCodes": "T3DB, T3DA",
     "KBA_Numbers": "8566AUI"
   },
   {
@@ -172,7 +172,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "1560",
-    "engineCodes": "T1DB  T1DA",
+    "engineCodes": "T1DB, T1DA",
     "KBA_Numbers": "8566AUH"
   },
   {
@@ -183,7 +183,7 @@
     "kw": "63",
     "hp": "85",
     "cc": "1596",
-    "engineCodes": "XTDA  XTDB",
+    "engineCodes": "XTDA, XTDB",
     "KBA_Numbers": "8566BCI"
   },
   {
@@ -194,7 +194,7 @@
     "kw": "77",
     "hp": "105",
     "cc": "1596",
-    "engineCodes": "IQDB  IQDA",
+    "engineCodes": "IQDB, IQDA",
     "KBA_Numbers": "8566AUF"
   },
   {
@@ -205,7 +205,7 @@
     "kw": "92",
     "hp": "125",
     "cc": "1596",
-    "engineCodes": "PNDA  PNDD",
+    "engineCodes": "PNDA, PNDD",
     "KBA_Numbers": "8566AUG"
   },
   {
@@ -216,8 +216,8 @@
     "kw": "88",
     "hp": "120",
     "cc": "1596",
-    "engineCodes": "MUDD  MUDA",
-    "KBA_Numbers": "8566BGM  8566BFT"
+    "engineCodes": "MUDD, MUDA",
+    "KBA_Numbers": "8566BGM, 8566BFT"
   },
   {
     "brand": "FORD",
@@ -228,7 +228,7 @@
     "hp": "140",
     "cc": "1997",
     "engineCodes": "UFDB",
-    "KBA_Numbers": "8566AUM  8566AUR"
+    "KBA_Numbers": "8566AUM, 8566AUR"
   },
   {
     "brand": "FORD",
@@ -250,7 +250,7 @@
     "hp": "115",
     "cc": "1997",
     "engineCodes": "TYDA",
-    "KBA_Numbers": "8566AUT  8566AUU"
+    "KBA_Numbers": "8566AUT, 8566AUU"
   },
   {
     "brand": "FORD",
@@ -271,7 +271,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1997",
-    "engineCodes": "T7DB  T7DC  T7DD",
+    "engineCodes": "T7DB, T7DC, T7DD",
     "KBA_Numbers": "8566BLA"
   },
   {
@@ -282,7 +282,7 @@
     "kw": "125",
     "hp": "170",
     "cc": "1997",
-    "engineCodes": "T8DE  T8DF",
+    "engineCodes": "T8DE, T8DF",
     "KBA_Numbers": "8566BLC"
   },
   {
@@ -293,7 +293,7 @@
     "kw": "134",
     "hp": "182",
     "cc": "1596",
-    "engineCodes": "JTDA  JTDB",
+    "engineCodes": "JTDA, JTDB",
     "KBA_Numbers": ""
   },
   {
@@ -326,7 +326,7 @@
     "kw": "74",
     "hp": "100",
     "cc": "998",
-    "engineCodes": "M2DA  M2DC",
+    "engineCodes": "M2DA, M2DC",
     "KBA_Numbers": "8566BEO"
   },
   {
@@ -337,7 +337,7 @@
     "kw": "92",
     "hp": "125",
     "cc": "998",
-    "engineCodes": "M1DD  M1DA",
+    "engineCodes": "M1DD, M1DA",
     "KBA_Numbers": "8566BEN"
   },
   {
@@ -346,7 +346,7 @@
     "engineType": "1.0 EcoBoost",
     "madeYear": "07.2018 - 06.2019",
     "kw": "74",
-    "hp": "100",
+    "hp": "101",
     "cc": "999",
     "engineCodes": "B3DA",
     "KBA_Numbers": ""
@@ -370,7 +370,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1498",
-    "engineCodes": "M8DB  M8DF",
+    "engineCodes": "M8DB, M8DF",
     "KBA_Numbers": "8566BKX"
   },
   {
@@ -392,7 +392,7 @@
     "kw": "70",
     "hp": "95",
     "cc": "1499",
-    "engineCodes": "XXDC  XXDA",
+    "engineCodes": "XXDC, XXDA",
     "KBA_Numbers": "8566BLH"
   },
   {
@@ -403,7 +403,7 @@
     "kw": "88",
     "hp": "120",
     "cc": "1499",
-    "engineCodes": "XWDD  XWDB  XWDA  XWDC  XWDE",
+    "engineCodes": "XWDD, XWDB, XWDA, XWDC, XWDE",
     "KBA_Numbers": "8566BLF"
   },
   {
@@ -414,8 +414,8 @@
     "kw": "110",
     "hp": "150",
     "cc": "1596",
-    "engineCodes": "JQDB  JQDA",
-    "KBA_Numbers": "8566AUJ  8566AUO"
+    "engineCodes": "JQDB, JQDA",
+    "KBA_Numbers": "8566AUJ, 8566AUO"
   },
   {
     "brand": "FORD",
@@ -425,8 +425,8 @@
     "kw": "134",
     "hp": "182",
     "cc": "1596",
-    "engineCodes": "JTDA  JTDB",
-    "KBA_Numbers": "8566AUK  8566AUP"
+    "engineCodes": "JTDA, JTDB",
+    "KBA_Numbers": "8566AUK, 8566AUP"
   },
   {
     "brand": "FORD",
@@ -436,8 +436,8 @@
     "kw": "70",
     "hp": "95",
     "cc": "1560",
-    "engineCodes": "T3DB  T3DA",
-    "KBA_Numbers": "8566AUE  8566AUI"
+    "engineCodes": "T3DB, T3DA",
+    "KBA_Numbers": "8566AUE, 8566AUI"
   },
   {
     "brand": "FORD",
@@ -447,8 +447,8 @@
     "kw": "85",
     "hp": "115",
     "cc": "1560",
-    "engineCodes": "T1DB  T1DA",
-    "KBA_Numbers": "8566AUD  8566AUH"
+    "engineCodes": "T1DB, T1DA",
+    "KBA_Numbers": "8566AUD, 8566AUH"
   },
   {
     "brand": "FORD",
@@ -469,8 +469,8 @@
     "kw": "77",
     "hp": "105",
     "cc": "1596",
-    "engineCodes": "IQDB  IQDA",
-    "KBA_Numbers": "8566AUB  8566AUF"
+    "engineCodes": "IQDB, IQDA",
+    "KBA_Numbers": "8566AUB, 8566AUF"
   },
   {
     "brand": "FORD",
@@ -480,8 +480,8 @@
     "kw": "92",
     "hp": "125",
     "cc": "1596",
-    "engineCodes": "PNDA  PNDD",
-    "KBA_Numbers": "8566AUC  8566AUG"
+    "engineCodes": "PNDA, PNDD",
+    "KBA_Numbers": "8566AUC, 8566AUG"
   },
   {
     "brand": "FORD",
@@ -492,7 +492,7 @@
     "hp": "163",
     "cc": "1997",
     "engineCodes": "TXDB",
-    "KBA_Numbers": "8566AUL  8566AUQ"
+    "KBA_Numbers": "8566AUL, 8566AUQ"
   },
   {
     "brand": "FORD",
@@ -514,7 +514,7 @@
     "hp": "136",
     "cc": "1997",
     "engineCodes": "UKDB",
-    "KBA_Numbers": "8566AUN  8566AUS"
+    "KBA_Numbers": "8566AUN, 8566AUS"
   },
   {
     "brand": "FORD",
@@ -525,7 +525,7 @@
     "hp": "140",
     "cc": "1997",
     "engineCodes": "UFDB",
-    "KBA_Numbers": "8566AUM  8566AUR"
+    "KBA_Numbers": "8566AUM, 8566AUR"
   },
   {
     "brand": "FORD",
@@ -535,7 +535,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1997",
-    "engineCodes": "T7DB  T7DC  T7DD",
+    "engineCodes": "T7DB, T7DC, T7DD",
     "KBA_Numbers": "8566BLB"
   },
   {
@@ -546,7 +546,7 @@
     "kw": "125",
     "hp": "170",
     "cc": "1997",
-    "engineCodes": "T8DE  T8DF",
+    "engineCodes": "T8DE, T8DF",
     "KBA_Numbers": "8566BLD"
   },
   {
@@ -557,7 +557,7 @@
     "kw": "134",
     "hp": "182",
     "cc": "1596",
-    "engineCodes": "JTDB  JTDA",
+    "engineCodes": "JTDB, JTDA",
     "KBA_Numbers": ""
   },
   {
@@ -568,7 +568,7 @@
     "kw": "70",
     "hp": "95",
     "cc": "1560",
-    "engineCodes": "T3DB  T3DA",
+    "engineCodes": "T3DB, T3DA",
     "KBA_Numbers": ""
   },
   {
@@ -601,7 +601,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1997",
-    "engineCodes": "T7DB  T7DC",
+    "engineCodes": "T7DB, T7DC",
     "KBA_Numbers": ""
   },
   {
@@ -623,8 +623,8 @@
     "kw": "110",
     "hp": "150",
     "cc": "1499",
-    "engineCodes": "M8MA  M8MC  M8MB  M8ME  M8MD",
-    "KBA_Numbers": "8566BRU  8566BJH"
+    "engineCodes": "M8MA, M8MC, M8MB, M8ME, M8MD",
+    "KBA_Numbers": "8566BRU, 8566BJH"
   },
   {
     "brand": "FORD",
@@ -634,7 +634,7 @@
     "kw": "88",
     "hp": "120",
     "cc": "1499",
-    "engineCodes": "BNMA  BNMB  BNMC",
+    "engineCodes": "BNMA, BNMB, BNMC",
     "KBA_Numbers": "8566BMQ"
   },
   {
@@ -645,8 +645,8 @@
     "kw": "134",
     "hp": "182",
     "cc": "1499",
-    "engineCodes": "M9MA  M9MC  M9MD  M9MB",
-    "KBA_Numbers": "8566BJI  8566BMO"
+    "engineCodes": "M9MA, M9MC, M9MD, M9MB",
+    "KBA_Numbers": "8566BJI, 8566BMO"
   },
   {
     "brand": "FORD",
@@ -656,7 +656,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1499",
-    "engineCodes": "M8MA  M8MD  M8MB  M8ME  M8MC",
+    "engineCodes": "M8MA, M8MD, M8MB, M8ME, M8MC",
     "KBA_Numbers": ""
   },
   {
@@ -678,7 +678,7 @@
     "kw": "88",
     "hp": "120",
     "cc": "1499",
-    "engineCodes": "XWMB  XWMC",
+    "engineCodes": "XWMB, XWMC",
     "KBA_Numbers": "8566BOB"
   },
   {
@@ -689,7 +689,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1596",
-    "engineCodes": "JQMB  JQMA",
+    "engineCodes": "JQMB, JQMA",
     "KBA_Numbers": "8566BFX"
   },
   {
@@ -711,7 +711,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1596",
-    "engineCodes": "JQMB  JQMA",
+    "engineCodes": "JQMB, JQMA",
     "KBA_Numbers": "8566BFY"
   },
   {
@@ -788,7 +788,7 @@
     "kw": "88",
     "hp": "120",
     "cc": "1997",
-    "engineCodes": "XRMA  XRMB  XRMC",
+    "engineCodes": "XRMA, XRMB, XRMC",
     "KBA_Numbers": "8566BJM"
   },
   {
@@ -799,7 +799,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1997",
-    "engineCodes": "T7MA  T7MB  T7MC  T7MD",
+    "engineCodes": "T7MA, T7MB, T7MC, T7MD",
     "KBA_Numbers": "8566BJJ"
   },
   {
@@ -832,7 +832,7 @@
     "kw": "120",
     "hp": "163",
     "cc": "1997",
-    "engineCodes": "TXMA  TXDA",
+    "engineCodes": "TXMA, TXDA",
     "KBA_Numbers": "8566ATO"
   },
   {
@@ -843,7 +843,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1997",
-    "engineCodes": "T7MA  T7MB",
+    "engineCodes": "T7MA, T7MB",
     "KBA_Numbers": "8566BJK"
   },
   {
@@ -854,7 +854,7 @@
     "kw": "132",
     "hp": "180",
     "cc": "1997",
-    "engineCodes": "T8MA  T8MB  T8MC",
+    "engineCodes": "T8MA, T8MB, T8MC",
     "KBA_Numbers": "8566BJL"
   },
   {
@@ -876,7 +876,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1499",
-    "engineCodes": "M8MA  M8MC  M8MB  M8MD  M8ME",
+    "engineCodes": "M8MA, M8MC, M8MB, M8MD, M8ME",
     "KBA_Numbers": ""
   },
   {
@@ -920,7 +920,7 @@
     "kw": "88",
     "hp": "120",
     "cc": "1499",
-    "engineCodes": "XWMB  XWMC",
+    "engineCodes": "XWMB, XWMC",
     "KBA_Numbers": ""
   },
   {
@@ -942,7 +942,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1997",
-    "engineCodes": "T7MA  T7MB",
+    "engineCodes": "T7MA, T7MB",
     "KBA_Numbers": ""
   },
   {
@@ -953,7 +953,7 @@
     "kw": "88",
     "hp": "120",
     "cc": "1997",
-    "engineCodes": "XRMA  XRMB",
+    "engineCodes": "XRMA, XRMB",
     "KBA_Numbers": ""
   },
   {
@@ -964,7 +964,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1997",
-    "engineCodes": "T7MA  T7MB",
+    "engineCodes": "T7MA, T7MB",
     "KBA_Numbers": ""
   },
   {
@@ -975,7 +975,7 @@
     "kw": "132",
     "hp": "180",
     "cc": "1998",
-    "engineCodes": "T8MA  T8MB",
+    "engineCodes": "T8MA, T8MB",
     "KBA_Numbers": ""
   },
   {
@@ -986,8 +986,8 @@
     "kw": "74",
     "hp": "100",
     "cc": "998",
-    "engineCodes": "B3GA  M2GA  M2GB",
-    "KBA_Numbers": "8566BME  8566BHF"
+    "engineCodes": "B3GA, M2GA, M2GB",
+    "KBA_Numbers": "8566BME, 8566BHF"
   },
   {
     "brand": "FORD",
@@ -998,7 +998,7 @@
     "hp": "75",
     "cc": "1499",
     "engineCodes": "XUGA",
-    "KBA_Numbers": "8566BLI  8566BMI  8566BML"
+    "KBA_Numbers": "8566BLI, 8566BMI, 8566BML"
   },
   {
     "brand": "FORD",
@@ -1008,8 +1008,8 @@
     "kw": "74",
     "hp": "101",
     "cc": "1499",
-    "engineCodes": "XXGA  XVGC  XVGB  XVGA",
-    "KBA_Numbers": "8566BLJ  8566BMJ"
+    "engineCodes": "XXGA, XVGC, XVGB, XVGA",
+    "KBA_Numbers": "8566BLJ, 8566BMJ"
   },
   {
     "brand": "FORD",
@@ -1019,8 +1019,8 @@
     "kw": "88",
     "hp": "120",
     "cc": "1499",
-    "engineCodes": "XWGC  XWGB  XWGA",
-    "KBA_Numbers": "8566BLK  8566BMK"
+    "engineCodes": "XWGC, XWGB, XWGA",
+    "KBA_Numbers": "8566BLK, 8566BMK"
   },
   {
     "brand": "FORD",
@@ -1042,7 +1042,7 @@
     "hp": "150",
     "cc": "1596",
     "engineCodes": "JQGA",
-    "KBA_Numbers": "8566BMD  8566BHE"
+    "KBA_Numbers": "8566BMD, 8566BHE"
   },
   {
     "brand": "FORD",
@@ -1053,7 +1053,7 @@
     "hp": "75",
     "cc": "1560",
     "engineCodes": "UBGA",
-    "KBA_Numbers": "8566BMH  8566BHI"
+    "KBA_Numbers": "8566BMH, 8566BHI"
   },
   {
     "brand": "FORD",
@@ -1063,8 +1063,8 @@
     "kw": "70",
     "hp": "95",
     "cc": "1560",
-    "engineCodes": "TZGA  TZGB",
-    "KBA_Numbers": "8566BMG  8566BHC  8566BHH"
+    "engineCodes": "TZGA, TZGB",
+    "KBA_Numbers": "8566BMG, 8566BHC, 8566BHH"
   },
   {
     "brand": "FORD",
@@ -1075,7 +1075,7 @@
     "hp": "115",
     "cc": "1560",
     "engineCodes": "T1GA",
-    "KBA_Numbers": "8566BMF  8566BHG"
+    "KBA_Numbers": "8566BMF, 8566BHG"
   },
   {
     "brand": "FORD",
@@ -1085,8 +1085,8 @@
     "kw": "74",
     "hp": "101",
     "cc": "1499",
-    "engineCodes": "XVGB  XVGC  XXGA  XVGA",
-    "KBA_Numbers": "8566BLJ  8566BMJ"
+    "engineCodes": "XVGB, XVGC, XXGA, XVGA",
+    "KBA_Numbers": "8566BLJ, 8566BMJ"
   },
   {
     "brand": "FORD",
@@ -1096,8 +1096,8 @@
     "kw": "88",
     "hp": "120",
     "cc": "1499",
-    "engineCodes": "XWGA  XWGB  XWGC",
-    "KBA_Numbers": "8566BLK  8566BMK"
+    "engineCodes": "XWGA, XWGB, XWGC",
+    "KBA_Numbers": "8566BLK, 8566BMK"
   },
   {
     "brand": "FORD",
@@ -1108,7 +1108,7 @@
     "hp": "75",
     "cc": "1499",
     "engineCodes": "XUGA",
-    "KBA_Numbers": "8566BLI  8566BML"
+    "KBA_Numbers": "8566BLI, 8566BML"
   },
   {
     "brand": "FORD",
@@ -1129,8 +1129,8 @@
     "kw": "70",
     "hp": "95",
     "cc": "1560",
-    "engineCodes": "TZGA  TZGB",
-    "KBA_Numbers": "8566BHC  8566BHH"
+    "engineCodes": "TZGA, TZGB",
+    "KBA_Numbers": "8566BHC, 8566BHH"
   },
   {
     "brand": "FORD",
@@ -1151,7 +1151,7 @@
     "kw": "74",
     "hp": "100",
     "cc": "998",
-    "engineCodes": "M2GA  M2GB  B3GA",
+    "engineCodes": "M2GA, M2GB, B3GA",
     "KBA_Numbers": "8566BHA"
   },
   {
@@ -1162,7 +1162,7 @@
     "kw": "74",
     "hp": "101",
     "cc": "1499",
-    "engineCodes": "XXGA  XVGC  XVGA  XVGB",
+    "engineCodes": "XXGA, XVGC, XVGA, XVGB",
     "KBA_Numbers": "8566BMM"
   },
   {
@@ -1173,7 +1173,7 @@
     "kw": "88",
     "hp": "120",
     "cc": "1499",
-    "engineCodes": "XWGB  XWGC  XWGA",
+    "engineCodes": "XWGB, XWGC, XWGA",
     "KBA_Numbers": "8566BMN"
   },
   {
@@ -1228,7 +1228,7 @@
     "kw": "70",
     "hp": "95",
     "cc": "1560",
-    "engineCodes": "TZGA  TZGB",
+    "engineCodes": "TZGA, TZGB",
     "KBA_Numbers": "8566BHC"
   },
   {

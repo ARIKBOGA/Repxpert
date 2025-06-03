@@ -18,7 +18,7 @@
     "kw": "88",
     "hp": "120",
     "cc": "1596",
-    "engineCodes": "HXJA  HXJB  HXJE",
+    "engineCodes": "HXJA, HXJB, HXJE",
     "KBA_Numbers": ""
   },
   {
@@ -29,7 +29,7 @@
     "kw": "77",
     "hp": "105",
     "cc": "1596",
-    "engineCodes": "IQJE  IQJA  IQJC",
+    "engineCodes": "IQJE, IQJA, IQJC",
     "KBA_Numbers": ""
   },
   {
@@ -40,7 +40,7 @@
     "kw": "59",
     "hp": "80",
     "cc": "998",
-    "engineCodes": "P4JD  P4JA  P4JC  P4JB",
+    "engineCodes": "P4JD, P4JA, P4JC, P4JB",
     "KBA_Numbers": "8566BGJ"
   },
   {
@@ -51,7 +51,7 @@
     "kw": "48",
     "hp": "65",
     "cc": "998",
-    "engineCodes": "XMJB  XMJA  XMJC  XMJD",
+    "engineCodes": "XMJB, XMJA, XMJC, XMJD",
     "KBA_Numbers": "8566BGK"
   },
   {
@@ -62,7 +62,7 @@
     "kw": "74",
     "hp": "100",
     "cc": "998",
-    "engineCodes": "SFJA  SFJB  SFJD  SFJC",
+    "engineCodes": "SFJA, SFJB, SFJD, SFJC",
     "KBA_Numbers": "8566BGD"
   },
   {
@@ -73,7 +73,7 @@
     "kw": "92",
     "hp": "125",
     "cc": "998",
-    "engineCodes": "M1JH  M1JE",
+    "engineCodes": "M1JH, M1JE",
     "KBA_Numbers": "8566BGE"
   },
   {
@@ -84,7 +84,7 @@
     "kw": "103",
     "hp": "140",
     "cc": "998",
-    "engineCodes": "YYJB  YYJA",
+    "engineCodes": "YYJB, YYJA",
     "KBA_Numbers": "8566BIP"
   },
   {
@@ -95,7 +95,7 @@
     "kw": "44",
     "hp": "60",
     "cc": "1242",
-    "engineCodes": "STJC  STJB  STJA  STJD",
+    "engineCodes": "STJC, STJB, STJA, STJD",
     "KBA_Numbers": "8566AOO"
   },
   {
@@ -106,7 +106,7 @@
     "kw": "60",
     "hp": "82",
     "cc": "1242",
-    "engineCodes": "SNJD  SNJA  SNJC  SNJB",
+    "engineCodes": "SNJD, SNJA, SNJC, SNJB",
     "KBA_Numbers": "8566AOP"
   },
   {
@@ -117,7 +117,7 @@
     "kw": "71",
     "hp": "97",
     "cc": "1388",
-    "engineCodes": "SPJA  SPJC  RTJB  RTJA  SPJE",
+    "engineCodes": "SPJA, SPJC, RTJB, RTJA, SPJE",
     "KBA_Numbers": "8566AOQ"
   },
   {
@@ -128,7 +128,7 @@
     "kw": "68",
     "hp": "92",
     "cc": "1388",
-    "engineCodes": "RTJB  RTJA  RTJD",
+    "engineCodes": "RTJB, RTJA, RTJD",
     "KBA_Numbers": ""
   },
   {
@@ -139,7 +139,7 @@
     "kw": "71",
     "hp": "97",
     "cc": "1388",
-    "engineCodes": "RTJA  RTJB  SPJA  RTJD  SPJE  SPJC",
+    "engineCodes": "RTJA, RTJB, SPJA, RTJD, SPJE, SPJC",
     "KBA_Numbers": "8566AQW"
   },
   {
@@ -150,7 +150,7 @@
     "kw": "50",
     "hp": "68",
     "cc": "1399",
-    "engineCodes": "F6JD  F6JB",
+    "engineCodes": "F6JD, F6JB",
     "KBA_Numbers": "8566AOS"
   },
   {
@@ -161,7 +161,7 @@
     "kw": "51",
     "hp": "70",
     "cc": "1399",
-    "engineCodes": "F6JD  KVJA",
+    "engineCodes": "F6JD, KVJA",
     "KBA_Numbers": "8566AVO"
   },
   {
@@ -172,7 +172,7 @@
     "kw": "55",
     "hp": "75",
     "cc": "1499",
-    "engineCodes": "XUJB  XUJA  UGJC",
+    "engineCodes": "XUJB, XUJA, UGJC",
     "KBA_Numbers": "8566BGG"
   },
   {
@@ -183,7 +183,7 @@
     "kw": "70",
     "hp": "95",
     "cc": "1499",
-    "engineCodes": "XVJC  XVJB",
+    "engineCodes": "XVJC, XVJB",
     "KBA_Numbers": "8566BKI"
   },
   {
@@ -205,7 +205,7 @@
     "kw": "55",
     "hp": "75",
     "cc": "1560",
-    "engineCodes": "UBJA  HHJF",
+    "engineCodes": "UBJA, HHJF",
     "KBA_Numbers": "8566AQD"
   },
   {
@@ -216,7 +216,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1560",
-    "engineCodes": "HHJD  HHJC  HHJE",
+    "engineCodes": "HHJD, HHJC, HHJE",
     "KBA_Numbers": "8566AOT"
   },
   {
@@ -227,7 +227,7 @@
     "kw": "70",
     "hp": "95",
     "cc": "1560",
-    "engineCodes": "T3JA  TZJA  TZJB",
+    "engineCodes": "T3JA, TZJA, TZJB",
     "KBA_Numbers": "8566ATS"
   },
   {
@@ -249,7 +249,7 @@
     "kw": "77",
     "hp": "105",
     "cc": "1596",
-    "engineCodes": "IQJC  IQJA  IQJE",
+    "engineCodes": "IQJC, IQJA, IQJE",
     "KBA_Numbers": "8566BGF"
   },
   {
@@ -260,7 +260,7 @@
     "kw": "88",
     "hp": "120",
     "cc": "1596",
-    "engineCodes": "HXJA  HXJB  HXJE  RVJA",
+    "engineCodes": "HXJA, HXJB, HXJE, RVJA",
     "KBA_Numbers": "8566AOR"
   },
   {
@@ -271,7 +271,7 @@
     "kw": "59",
     "hp": "80",
     "cc": "998",
-    "engineCodes": "P4JD  P4JC  P4JB  P4JA",
+    "engineCodes": "P4JD, P4JC, P4JB, P4JA",
     "KBA_Numbers": "8566BGV"
   },
   {
@@ -282,7 +282,7 @@
     "kw": "48",
     "hp": "65",
     "cc": "998",
-    "engineCodes": "XMJB  XMJA  XMJD  XMJC",
+    "engineCodes": "XMJB, XMJA, XMJD, XMJC",
     "KBA_Numbers": ""
   },
   {
@@ -293,7 +293,7 @@
     "kw": "92",
     "hp": "125",
     "cc": "998",
-    "engineCodes": "M1JE  M1JH",
+    "engineCodes": "M1JE, M1JH",
     "KBA_Numbers": ""
   },
   {
@@ -304,7 +304,7 @@
     "kw": "74",
     "hp": "100",
     "cc": "998",
-    "engineCodes": "SFJB  SFJA  SFJD  SFJC",
+    "engineCodes": "SFJB, SFJA, SFJD, SFJC",
     "KBA_Numbers": ""
   },
   {
@@ -315,7 +315,7 @@
     "kw": "103",
     "hp": "140",
     "cc": "998",
-    "engineCodes": "YYJB  YYJA",
+    "engineCodes": "YYJB, YYJA",
     "KBA_Numbers": ""
   },
   {
@@ -326,8 +326,8 @@
     "kw": "60",
     "hp": "82",
     "cc": "1242",
-    "engineCodes": "SNJA  SNJB  SNJD  SNJC",
-    "KBA_Numbers": "8566AVL  8566ATY  8566AQO"
+    "engineCodes": "SNJA, SNJB, SNJD, SNJC",
+    "KBA_Numbers": "8566AVL, 8566ATY, 8566AQO"
   },
   {
     "brand": "FORD",
@@ -337,7 +337,7 @@
     "kw": "71",
     "hp": "97",
     "cc": "1388",
-    "engineCodes": "SPJA  SPJC",
+    "engineCodes": "SPJA, SPJC",
     "KBA_Numbers": ""
   },
   {
@@ -348,8 +348,8 @@
     "kw": "50",
     "hp": "68",
     "cc": "1399",
-    "engineCodes": "F6JD  F6JB",
-    "KBA_Numbers": "8566AQM  8566AVJ  8566ATW"
+    "engineCodes": "F6JD, F6JB",
+    "KBA_Numbers": "8566AQM, 8566AVJ, 8566ATW"
   },
   {
     "brand": "FORD",
@@ -359,7 +359,7 @@
     "kw": "51",
     "hp": "70",
     "cc": "1399",
-    "engineCodes": "F6JD  KVJA",
+    "engineCodes": "F6JD, KVJA",
     "KBA_Numbers": "8566AVN"
   },
   {
@@ -370,7 +370,7 @@
     "kw": "55",
     "hp": "75",
     "cc": "1499",
-    "engineCodes": "XUJA  XUJB  UGJC",
+    "engineCodes": "XUJA, XUJB, UGJC",
     "KBA_Numbers": "8566BGI"
   },
   {
@@ -381,7 +381,7 @@
     "kw": "70",
     "hp": "95",
     "cc": "1499",
-    "engineCodes": "XVJB  XVJC",
+    "engineCodes": "XVJB, XVJC",
     "KBA_Numbers": "8566BKH"
   },
   {
@@ -392,8 +392,8 @@
     "kw": "66",
     "hp": "90",
     "cc": "1560",
-    "engineCodes": "HHJD  HHJE  HHJC",
-    "KBA_Numbers": "8566AVK  8566ATX  8566AQN"
+    "engineCodes": "HHJD, HHJE, HHJC",
+    "KBA_Numbers": "8566AVK, 8566ATX, 8566AQN"
   },
   {
     "brand": "FORD",
@@ -403,8 +403,8 @@
     "kw": "70",
     "hp": "95",
     "cc": "1560",
-    "engineCodes": "T3JA  TZJA  TZJB",
-    "KBA_Numbers": "8566AVM  8566ATZ"
+    "engineCodes": "T3JA, TZJA, TZJB",
+    "KBA_Numbers": "8566AVM, 8566ATZ"
   },
   {
     "brand": "FORD",
@@ -414,7 +414,7 @@
     "kw": "88",
     "hp": "120",
     "cc": "1596",
-    "engineCodes": "HXJA  HXJB",
+    "engineCodes": "HXJA, HXJB",
     "KBA_Numbers": ""
   },
   {
@@ -434,9 +434,9 @@
     "engineType": "1.2",
     "madeYear": "from 02.2018",
     "kw": "51",
-    "hp": "70",
+    "hp": "69",
     "cc": "1194",
-    "engineCodes": "C12FDOS  ENAP",
+    "engineCodes": "C12FDOS, ENAP",
     "KBA_Numbers": "1778AAC"
   },
   {
@@ -447,7 +447,7 @@
     "kw": "63",
     "hp": "85",
     "cc": "1194",
-    "engineCodes": "C12FDOS  ENBI",
+    "engineCodes": "C12FDOS, ENBI",
     "KBA_Numbers": "1778AAD"
   },
   {
@@ -458,7 +458,7 @@
     "kw": "63",
     "hp": "85",
     "cc": "1196",
-    "engineCodes": "YSKE  YSKD",
+    "engineCodes": "YSKE, YSKD",
     "KBA_Numbers": "1778AAD"
   },
   {
@@ -491,7 +491,7 @@
     "kw": "63",
     "hp": "85",
     "cc": "1196",
-    "engineCodes": "YSKD  YSKE",
+    "engineCodes": "YSKD, YSKE",
     "KBA_Numbers": "1778AAB"
   }
 ]

@@ -19,7 +19,7 @@
     "hp": "211",
     "cc": "2993",
     "engineCodes": "M57 D30 (306D2)",
-    "KBA_Numbers": "0005ACN  0005791"
+    "KBA_Numbers": "0005ACN, 0005791"
   },
   {
     "brand": "BMW",
@@ -30,7 +30,7 @@
     "hp": "218",
     "cc": "2993",
     "engineCodes": "M57 D30 (306D2)",
-    "KBA_Numbers": "0005ACO  0005786"
+    "KBA_Numbers": "0005ACO, 0005786"
   },
   {
     "brand": "BMW",
@@ -63,6 +63,6 @@
     "hp": "320",
     "cc": "4398",
     "engineCodes": "N62 B44 A",
-    "KBA_Numbers": "0005AMX  0005785"
+    "KBA_Numbers": "0005AMX, 0005785"
   }
 ]

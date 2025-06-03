@@ -7,8 +7,8 @@
     "kw": "80",
     "hp": "109",
     "cc": "EM57  EM61",
-    "engineCodes": "1329AFV",
-    "KBA_Numbers": ""
+    "engineCodes": "EM57, EM61",
+    "KBA_Numbers": "1329AFV"
   },
   {
     "brand": "NISSAN",
@@ -30,7 +30,7 @@
     "hp": "140",
     "cc": "1332",
     "engineCodes": "HR13DDT",
-    "KBA_Numbers": "1329ALO  1329AMQ"
+    "KBA_Numbers": "1329ALO, 1329AMQ"
   },
   {
     "brand": "NISSAN",
@@ -52,7 +52,7 @@
     "hp": "158",
     "cc": "1332",
     "engineCodes": "HR13DDT",
-    "KBA_Numbers": "1329AML  1329AMR"
+    "KBA_Numbers": "1329AML, 1329AMR"
   },
   {
     "brand": "NISSAN",
@@ -62,7 +62,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1461",
-    "engineCodes": "K9K 636  K9K 646",
+    "engineCodes": "K9K 636, K9K 646",
     "KBA_Numbers": "1329AHR"
   },
   {
@@ -293,7 +293,7 @@
     "kw": "103",
     "hp": "140",
     "cc": "1332",
-    "engineCodes": "H5H 470  H5H 490",
+    "engineCodes": "H5H 470, H5H 490",
     "KBA_Numbers": "3333BJU"
   },
   {
@@ -326,7 +326,7 @@
     "kw": "85",
     "hp": "116",
     "cc": "1461",
-    "engineCodes": "K9K 873  K9K 872",
+    "engineCodes": "K9K 873, K9K 872",
     "KBA_Numbers": "3333BJW"
   },
   {
@@ -337,7 +337,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1461",
-    "engineCodes": "K9K 649  K9K 647  K9K 646  K9K 648",
+    "engineCodes": "K9K 649, K9K 647, K9K 646, K9K 648",
     "KBA_Numbers": "3333BDX"
   },
   {

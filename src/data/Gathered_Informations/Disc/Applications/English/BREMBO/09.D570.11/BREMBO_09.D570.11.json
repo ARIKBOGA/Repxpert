@@ -29,7 +29,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1498",
-    "engineCodes": "DPCA  DXDB",
+    "engineCodes": "DPCA, DXDB",
     "KBA_Numbers": "0588BSF"
   },
   {
@@ -51,7 +51,7 @@
     "kw": "85",
     "hp": "116",
     "cc": "999",
-    "engineCodes": "DKJA  DKRF",
+    "engineCodes": "DKJA, DKRF",
     "KBA_Numbers": "0588BRA"
   },
   {
@@ -84,7 +84,7 @@
     "kw": "70",
     "hp": "95",
     "cc": "999",
-    "engineCodes": "DKLA  DLAC  DUSB",
+    "engineCodes": "DKLA, DLAC, DUSB",
     "KBA_Numbers": "0588BNN"
   },
   {
@@ -95,7 +95,7 @@
     "kw": "85",
     "hp": "116",
     "cc": "999",
-    "engineCodes": "DKJA  DKRF  DUSA",
+    "engineCodes": "DKJA, DKRF, DUSA",
     "KBA_Numbers": "0588BNO"
   },
   {
@@ -117,7 +117,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1498",
-    "engineCodes": "DPCA  DADA  DXDB",
+    "engineCodes": "DPCA, DADA, DXDB",
     "KBA_Numbers": "0588BNP"
   },
   {
@@ -139,7 +139,7 @@
     "kw": "48",
     "hp": "65",
     "cc": "999",
-    "engineCodes": "DFNB  CHYC",
+    "engineCodes": "DFNB, CHYC",
     "KBA_Numbers": "7593ANE"
   },
   {
@@ -150,7 +150,7 @@
     "kw": "59",
     "hp": "80",
     "cc": "999",
-    "engineCodes": "DFNA  DSGD  DSGB",
+    "engineCodes": "DFNA, DSGD, DSGB",
     "KBA_Numbers": "7593ANY"
   },
   {
@@ -162,7 +162,7 @@
     "hp": "90",
     "cc": "999",
     "engineCodes": "DBYA",
-    "KBA_Numbers": "7593AOW  7593ANN"
+    "KBA_Numbers": "7593AOW, 7593ANN"
   },
   {
     "brand": "SEAT",
@@ -172,7 +172,7 @@
     "kw": "70",
     "hp": "95",
     "cc": "999",
-    "engineCodes": "DKLA  CHZL  DLAC  DUSB",
+    "engineCodes": "DKLA, CHZL, DLAC, DUSB",
     "KBA_Numbers": "7593ANG"
   },
   {
@@ -183,7 +183,7 @@
     "kw": "85",
     "hp": "116",
     "cc": "999",
-    "engineCodes": "DKRF  DKJA  CHZJ  DUSA",
+    "engineCodes": "DKRF, DKJA, CHZJ, DUSA",
     "KBA_Numbers": "7593ANH"
   },
   {
@@ -205,7 +205,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1498",
-    "engineCodes": "DADA  DPCA  DXDB",
+    "engineCodes": "DADA, DPCA, DXDB",
     "KBA_Numbers": "7593ANI"
   },
   {
@@ -271,7 +271,7 @@
     "kw": "70",
     "hp": "95",
     "cc": "999",
-    "engineCodes": "DLAC  DUSB",
+    "engineCodes": "DLAC, DUSB",
     "KBA_Numbers": "8004AXN"
   },
   {
@@ -293,7 +293,7 @@
     "kw": "70",
     "hp": "95",
     "cc": "999",
-    "engineCodes": "DKLA  DLAC  DUSB",
+    "engineCodes": "DKLA, DLAC, DUSB",
     "KBA_Numbers": "8004AUE"
   },
   {
@@ -304,7 +304,7 @@
     "kw": "85",
     "hp": "116",
     "cc": "999",
-    "engineCodes": "DKRF  DKJA  DXUA  DUSA",
+    "engineCodes": "DKRF, DKJA, DXUA, DUSA",
     "KBA_Numbers": "8004AUF"
   },
   {
@@ -326,7 +326,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1498",
-    "engineCodes": "DADA  DPCA  DXDB",
+    "engineCodes": "DADA, DPCA, DXDB",
     "KBA_Numbers": "8004AUG"
   },
   {
@@ -370,7 +370,7 @@
     "kw": "70",
     "hp": "95",
     "cc": "999",
-    "engineCodes": "DKLA  DLAC  DUSB",
+    "engineCodes": "DKLA, DLAC, DUSB",
     "KBA_Numbers": "8004ATZ"
   },
   {
@@ -381,8 +381,8 @@
     "kw": "85",
     "hp": "116",
     "cc": "999",
-    "engineCodes": "DKRF  DKJA  DXUA  DUSA",
-    "KBA_Numbers": "8004AUA  8004AUM"
+    "engineCodes": "DKRF, DKJA, DXUA, DUSA",
+    "KBA_Numbers": "8004AUA, 8004AUM"
   },
   {
     "brand": "SKODA",
@@ -403,8 +403,8 @@
     "kw": "110",
     "hp": "150",
     "cc": "1498",
-    "engineCodes": "DPCA  DADA  DXDB",
-    "KBA_Numbers": "8004AVK  8004AUB"
+    "engineCodes": "DPCA, DADA, DXDB",
+    "KBA_Numbers": "8004AVK, 8004AUB"
   },
   {
     "brand": "SKODA",
@@ -415,7 +415,7 @@
     "hp": "116",
     "cc": "1598",
     "engineCodes": "DGTA",
-    "KBA_Numbers": "8004AUC  8004AUL"
+    "KBA_Numbers": "8004AUC, 8004AUL"
   },
   {
     "brand": "SKODA",
@@ -447,7 +447,7 @@
     "kw": "48",
     "hp": "65",
     "cc": "999",
-    "engineCodes": "DFNB  CHYC",
+    "engineCodes": "DFNB, CHYC",
     "KBA_Numbers": "0603CDQ"
   },
   {
@@ -458,7 +458,7 @@
     "kw": "59",
     "hp": "80",
     "cc": "999",
-    "engineCodes": "DFNA  DSGB  DSGD",
+    "engineCodes": "DFNA, DSGB, DSGD",
     "KBA_Numbers": "0603CIE"
   },
   {
@@ -470,7 +470,7 @@
     "hp": "90",
     "cc": "999",
     "engineCodes": "DBYA",
-    "KBA_Numbers": "0603CDV  0603CJP"
+    "KBA_Numbers": "0603CDV, 0603CJP"
   },
   {
     "brand": "VW",
@@ -480,7 +480,7 @@
     "kw": "70",
     "hp": "95",
     "cc": "999",
-    "engineCodes": "DKLA  CHZL  DLAC  DXTA  DUSB",
+    "engineCodes": "DKLA, CHZL, DLAC, DXTA, DUSB",
     "KBA_Numbers": "0603CDS"
   },
   {
@@ -491,7 +491,7 @@
     "kw": "85",
     "hp": "116",
     "cc": "999",
-    "engineCodes": "DKRF  CHZJ  DKJA  DXUA  DUSA",
+    "engineCodes": "DKRF, CHZJ, DKJA, DXUA, DUSA",
     "KBA_Numbers": "0603CDT"
   }
 ]

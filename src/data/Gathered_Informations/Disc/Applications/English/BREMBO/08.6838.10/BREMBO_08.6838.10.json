@@ -7,7 +7,7 @@
     "kw": "100",
     "hp": "136",
     "cc": "2495",
-    "engineCodes": "15 P  10 P",
+    "engineCodes": "15 P, 10 P",
     "KBA_Numbers": ""
   },
   {
@@ -18,8 +18,8 @@
     "kw": "102",
     "hp": "139",
     "cc": "2495",
-    "engineCodes": "15 P  10 P  16 P",
-    "KBA_Numbers": "2055449  2143006  2140301"
+    "engineCodes": "15 P, 10 P, 16 P",
+    "KBA_Numbers": "2055449, 2143006, 2140301"
   },
   {
     "brand": "LAND ROVER",
@@ -29,8 +29,8 @@
     "kw": "136",
     "hp": "185",
     "cc": "3947",
-    "engineCodes": "94 D  35 D  56 D",
-    "KBA_Numbers": "2143005  2140300  2055448"
+    "engineCodes": "94 D, 35 D, 56 D",
+    "KBA_Numbers": "2143005, 2140300, 2055448"
   },
   {
     "brand": "LAND ROVER",
@@ -41,7 +41,7 @@
     "hp": "136",
     "cc": "2497",
     "engineCodes": "25 6T (BMW)",
-    "KBA_Numbers": "2140310  2055391"
+    "KBA_Numbers": "2140310, 2055391"
   },
   {
     "brand": "LAND ROVER",
@@ -63,7 +63,7 @@
     "hp": "185",
     "cc": "3947",
     "engineCodes": "42 D",
-    "KBA_Numbers": "2140311  2055446"
+    "KBA_Numbers": "2140311, 2055446"
   },
   {
     "brand": "LAND ROVER",
@@ -74,7 +74,7 @@
     "hp": "224",
     "cc": "4553",
     "engineCodes": "46 D",
-    "KBA_Numbers": "2055430  2055393"
+    "KBA_Numbers": "2055430, 2055393"
   },
   {
     "brand": "LAND ROVER",
@@ -96,7 +96,7 @@
     "hp": "218",
     "cc": "4554",
     "engineCodes": "60 D",
-    "KBA_Numbers": "2140312  2055447"
+    "KBA_Numbers": "2140312, 2055447"
   },
   {
     "brand": "LAND ROVER",
@@ -107,7 +107,7 @@
     "hp": "177",
     "cc": "2926",
     "engineCodes": "306D1(M57D30)",
-    "KBA_Numbers": "2143009  2143AAB  2143AAA"
+    "KBA_Numbers": "2143009, 2143AAB, 2143AAA"
   },
   {
     "brand": "LAND ROVER",
@@ -118,7 +118,7 @@
     "hp": "272",
     "cc": "3628",
     "engineCodes": "368DT(LION)",
-    "KBA_Numbers": "2143AAM  2143AAN"
+    "KBA_Numbers": "2143AAM, 2143AAN"
   },
   {
     "brand": "LAND ROVER",
@@ -129,7 +129,7 @@
     "hp": "396",
     "cc": "4197",
     "engineCodes": "428PS(AJV8)",
-    "KBA_Numbers": "2143017  2143AAC  2143AAD"
+    "KBA_Numbers": "2143017, 2143AAC, 2143AAD"
   },
   {
     "brand": "LAND ROVER",
@@ -162,6 +162,6 @@
     "hp": "306",
     "cc": "4394",
     "engineCodes": "448PN(AJV8)",
-    "KBA_Numbers": "2143018  2143AAE  2143AAF"
+    "KBA_Numbers": "2143018, 2143AAE, 2143AAF"
   }
 ]

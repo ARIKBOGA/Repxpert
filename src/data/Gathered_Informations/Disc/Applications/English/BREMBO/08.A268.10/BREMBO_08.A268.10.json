@@ -7,7 +7,7 @@
     "kw": "55",
     "hp": "75",
     "cc": "1149",
-    "engineCodes": "D4F 732  D4F 734",
+    "engineCodes": "D4F 732, D4F 734",
     "KBA_Numbers": "8212AAV"
   },
   {
@@ -29,8 +29,8 @@
     "kw": "55",
     "hp": "75",
     "cc": "1390",
-    "engineCodes": "K7J 710  K7J 714",
-    "KBA_Numbers": "8212001  8212AAA  8212ABB"
+    "engineCodes": "K7J 710, K7J 714",
+    "KBA_Numbers": "8212001, 8212AAA, 8212ABB"
   },
   {
     "brand": "DACIA",
@@ -40,7 +40,7 @@
     "kw": "55",
     "hp": "75",
     "cc": "1390",
-    "engineCodes": "K7J 714  K7J 710",
+    "engineCodes": "K7J 714, K7J 710",
     "KBA_Numbers": "8212AAW"
   },
   {
@@ -95,8 +95,8 @@
     "kw": "64",
     "hp": "87",
     "cc": "1598",
-    "engineCodes": "K7M 710  K7M 718",
-    "KBA_Numbers": "8212002  8212AAB"
+    "engineCodes": "K7M 710, K7M 718",
+    "KBA_Numbers": "8212002, 8212AAB"
   },
   {
     "brand": "DACIA",
@@ -107,7 +107,7 @@
     "hp": "105",
     "cc": "1598",
     "engineCodes": "K4M 696",
-    "KBA_Numbers": "8212ACJ  8212ACD"
+    "KBA_Numbers": "8212ACJ, 8212ACD"
   },
   {
     "brand": "DACIA",
@@ -140,7 +140,7 @@
     "hp": "75",
     "cc": "1149",
     "engineCodes": "D4F 732",
-    "KBA_Numbers": "8212AAU  8212ABV"
+    "KBA_Numbers": "8212AAU, 8212ABV"
   },
   {
     "brand": "DACIA",
@@ -161,8 +161,8 @@
     "kw": "55",
     "hp": "75",
     "cc": "1390",
-    "engineCodes": "K7J 710  K7J 714",
-    "KBA_Numbers": "8212AAK  8212ABB  8212ABR"
+    "engineCodes": "K7J 710, K7J 714",
+    "KBA_Numbers": "8212AAK, 8212ABB, 8212ABR"
   },
   {
     "brand": "DACIA",
@@ -184,7 +184,7 @@
     "hp": "68",
     "cc": "1461",
     "engineCodes": "K9K 792",
-    "KBA_Numbers": "8212AAM  8212ABC  8212ABT"
+    "KBA_Numbers": "8212AAM, 8212ABC, 8212ABT"
   },
   {
     "brand": "DACIA",
@@ -195,7 +195,7 @@
     "hp": "86",
     "cc": "1461",
     "engineCodes": "K9K 796",
-    "KBA_Numbers": "8212AAN  8212AAY  8212ABU"
+    "KBA_Numbers": "8212AAN, 8212AAY, 8212ABU"
   },
   {
     "brand": "DACIA",
@@ -206,7 +206,7 @@
     "hp": "75",
     "cc": "1461",
     "engineCodes": "K9K 892",
-    "KBA_Numbers": "8212ABN  8212ABW"
+    "KBA_Numbers": "8212ABN, 8212ABW"
   },
   {
     "brand": "DACIA",
@@ -217,7 +217,7 @@
     "hp": "88",
     "cc": "1461",
     "engineCodes": "K9K 892",
-    "KBA_Numbers": "8212ABK  8212ABX"
+    "KBA_Numbers": "8212ABK, 8212ABX"
   },
   {
     "brand": "DACIA",
@@ -227,8 +227,8 @@
     "kw": "64",
     "hp": "87",
     "cc": "1598",
-    "engineCodes": "K7M 710  K7M 718",
-    "KBA_Numbers": "8212AAL  8212ABA  8212ABS"
+    "engineCodes": "K7M 710, K7M 718",
+    "KBA_Numbers": "8212AAL, 8212ABA, 8212ABS"
   },
   {
     "brand": "DACIA",
@@ -238,7 +238,7 @@
     "kw": "77",
     "hp": "105",
     "cc": "1598",
-    "engineCodes": "K4M 694  K4M 690",
+    "engineCodes": "K4M 694, K4M 690",
     "KBA_Numbers": "8212ACT"
   },
   {
@@ -249,8 +249,8 @@
     "kw": "62",
     "hp": "84",
     "cc": "1598",
-    "engineCodes": "K7M 800  K7M 818",
-    "KBA_Numbers": "8212ACI  8212ACE"
+    "engineCodes": "K7M 800, K7M 818",
+    "KBA_Numbers": "8212ACI, 8212ACE"
   },
   {
     "brand": "DACIA",
@@ -304,7 +304,7 @@
     "kw": "48",
     "hp": "65",
     "cc": "1461",
-    "engineCodes": "K9K 794  K9K 790  K9K 700",
+    "engineCodes": "K9K 794, K9K 790, K9K 700",
     "KBA_Numbers": ""
   },
   {
@@ -370,7 +370,7 @@
     "kw": "64",
     "hp": "87",
     "cc": "1598",
-    "engineCodes": "K7M 710  K7M 718",
+    "engineCodes": "K7M 710, K7M 718",
     "KBA_Numbers": "3333ASG"
   },
   {
@@ -381,8 +381,8 @@
     "kw": "43",
     "hp": "58",
     "cc": "1149",
-    "engineCodes": "D7F 703  D7F 701  D7F 702  D7F 700  D7F 704",
-    "KBA_Numbers": "3333ADN  3004779"
+    "engineCodes": "D7F 703, D7F 701, D7F 702, D7F 700, D7F 704",
+    "KBA_Numbers": "3333ADN, 3004779"
   },
   {
     "brand": "RENAULT",
@@ -392,7 +392,7 @@
     "kw": "40",
     "hp": "54",
     "cc": "1149",
-    "engineCodes": "D7F 701  D7F 700",
+    "engineCodes": "D7F 701, D7F 700",
     "KBA_Numbers": "3004780"
   },
   {
@@ -415,7 +415,7 @@
     "hp": "75",
     "cc": "1149",
     "engineCodes": "D4F 702",
-    "KBA_Numbers": "3004129  3333ADM"
+    "KBA_Numbers": "3004129, 3333ADM"
   },
   {
     "brand": "RENAULT",
@@ -425,8 +425,8 @@
     "kw": "44",
     "hp": "60",
     "cc": "1149",
-    "engineCodes": "D7F 708  D7F 702",
-    "KBA_Numbers": "3333059  3333AII"
+    "engineCodes": "D7F 708, D7F 702",
+    "KBA_Numbers": "3333059, 3333AII"
   },
   {
     "brand": "RENAULT",
@@ -447,7 +447,7 @@
     "kw": "55",
     "hp": "75",
     "cc": "1149",
-    "engineCodes": "D4F 770  D4F 764  D4F 772",
+    "engineCodes": "D4F 770, D4F 764, D4F 772",
     "KBA_Numbers": "3333AQU"
   },
   {
@@ -469,7 +469,7 @@
     "kw": "74",
     "hp": "100",
     "cc": "1149",
-    "engineCodes": "D4F 782  D4F 780",
+    "engineCodes": "D4F 782, D4F 780",
     "KBA_Numbers": "3333APO"
   },
   {

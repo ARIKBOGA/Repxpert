@@ -19,7 +19,7 @@
     "hp": "105",
     "cc": "1896",
     "engineCodes": "AXB",
-    "KBA_Numbers": "0603690  0603ACB  0603ACK"
+    "KBA_Numbers": "0603690, 0603ACB, 0603ACK"
   },
   {
     "brand": "VW",
@@ -41,7 +41,7 @@
     "hp": "102",
     "cc": "1896",
     "engineCodes": "BRS",
-    "KBA_Numbers": "0603AHJ  0603AHK"
+    "KBA_Numbers": "0603AHJ, 0603AHK"
   },
   {
     "brand": "VW",
@@ -52,7 +52,7 @@
     "hp": "115",
     "cc": "1984",
     "engineCodes": "AXA",
-    "KBA_Numbers": "0603AQP  0603696  0603ABY  0603ACI"
+    "KBA_Numbers": "0603AQP, 0603696, 0603ABY, 0603ACI"
   },
   {
     "brand": "VW",
@@ -62,8 +62,8 @@
     "kw": "96",
     "hp": "130",
     "cc": "2461",
-    "engineCodes": "BNZ  AXD",
-    "KBA_Numbers": "0603691  0603ABW  0603ACD"
+    "engineCodes": "BNZ, AXD",
+    "KBA_Numbers": "0603691, 0603ABW, 0603ACD"
   },
   {
     "brand": "VW",
@@ -73,8 +73,8 @@
     "kw": "128",
     "hp": "174",
     "cc": "2461",
-    "engineCodes": "BPC  AXE",
-    "KBA_Numbers": "0603692  0603ABX  0603ACF"
+    "engineCodes": "BPC, AXE",
+    "KBA_Numbers": "0603692, 0603ABX, 0603ACF"
   },
   {
     "brand": "VW",
@@ -85,7 +85,7 @@
     "hp": "163",
     "cc": "2461",
     "engineCodes": "BLJ",
-    "KBA_Numbers": "0603737  0603ACH  0603ACN"
+    "KBA_Numbers": "0603737, 0603ACH, 0603ACN"
   },
   {
     "brand": "VW",
@@ -95,8 +95,8 @@
     "kw": "96",
     "hp": "130",
     "cc": "2461",
-    "engineCodes": "BNZ  AXD",
-    "KBA_Numbers": "0603750  0603ACE  0603ACL"
+    "engineCodes": "BNZ, AXD",
+    "KBA_Numbers": "0603750, 0603ACE, 0603ACL"
   },
   {
     "brand": "VW",
@@ -106,8 +106,8 @@
     "kw": "128",
     "hp": "174",
     "cc": "2461",
-    "engineCodes": "BPC  AXE",
-    "KBA_Numbers": "0603751  0603ACG  0603ACM"
+    "engineCodes": "BPC, AXE",
+    "KBA_Numbers": "0603751, 0603ACG, 0603ACM"
   },
   {
     "brand": "VW",
@@ -117,8 +117,8 @@
     "kw": "173",
     "hp": "235",
     "cc": "3189",
-    "engineCodes": "CFLA  BKK  BDL",
-    "KBA_Numbers": "0603697  0603ABV  0603ABZ"
+    "engineCodes": "CFLA, BKK, BDL",
+    "KBA_Numbers": "0603697, 0603ABV, 0603ABZ"
   },
   {
     "brand": "VW",
@@ -128,8 +128,8 @@
     "kw": "173",
     "hp": "235",
     "cc": "3189",
-    "engineCodes": "CFLA  BKK  BDL",
-    "KBA_Numbers": "0603749  0603ACA  0603ACJ"
+    "engineCodes": "CFLA, BKK, BDL",
+    "KBA_Numbers": "0603749, 0603ACA, 0603ACJ"
   },
   {
     "brand": "VW",
@@ -140,7 +140,7 @@
     "hp": "85",
     "cc": "1896",
     "engineCodes": "AXC",
-    "KBA_Numbers": "0603AFP  0603698"
+    "KBA_Numbers": "0603AFP, 0603698"
   },
   {
     "brand": "VW",
@@ -151,7 +151,7 @@
     "hp": "105",
     "cc": "1896",
     "engineCodes": "AXB",
-    "KBA_Numbers": "0603AFO  0603687"
+    "KBA_Numbers": "0603AFO, 0603687"
   },
   {
     "brand": "VW",
@@ -184,7 +184,7 @@
     "hp": "115",
     "cc": "1984",
     "engineCodes": "AXA",
-    "KBA_Numbers": "0603AFM  0603699"
+    "KBA_Numbers": "0603AFM, 0603699"
   },
   {
     "brand": "VW",
@@ -194,8 +194,8 @@
     "kw": "96",
     "hp": "130",
     "cc": "2461",
-    "engineCodes": "BNZ  AXD",
-    "KBA_Numbers": "0603AFR  0603688"
+    "engineCodes": "BNZ, AXD",
+    "KBA_Numbers": "0603AFR, 0603688"
   },
   {
     "brand": "VW",
@@ -205,8 +205,8 @@
     "kw": "128",
     "hp": "174",
     "cc": "2461",
-    "engineCodes": "BPC  AXE",
-    "KBA_Numbers": "0603AFQ  0603689"
+    "engineCodes": "BPC, AXE",
+    "KBA_Numbers": "0603AFQ, 0603689"
   },
   {
     "brand": "VW",
@@ -217,7 +217,7 @@
     "hp": "163",
     "cc": "2461",
     "engineCodes": "BLJ",
-    "KBA_Numbers": "0603AFS  0603738"
+    "KBA_Numbers": "0603AFS, 0603738"
   },
   {
     "brand": "VW",
@@ -227,8 +227,8 @@
     "kw": "96",
     "hp": "130",
     "cc": "2461",
-    "engineCodes": "AXD  BNZ",
-    "KBA_Numbers": "0603AHG  0603090"
+    "engineCodes": "AXD, BNZ",
+    "KBA_Numbers": "0603AHG, 0603090"
   },
   {
     "brand": "VW",
@@ -238,8 +238,8 @@
     "kw": "128",
     "hp": "174",
     "cc": "2461",
-    "engineCodes": "BPC  AXE",
-    "KBA_Numbers": "0603AHH  0603091"
+    "engineCodes": "BPC, AXE",
+    "KBA_Numbers": "0603AHH, 0603091"
   },
   {
     "brand": "VW",
@@ -249,8 +249,8 @@
     "kw": "173",
     "hp": "235",
     "cc": "3189",
-    "engineCodes": "BKK  CFLA  BDL",
-    "KBA_Numbers": "0603AHF  0603092"
+    "engineCodes": "BKK, CFLA, BDL",
+    "KBA_Numbers": "0603AHF, 0603092"
   },
   {
     "brand": "VW",
@@ -260,8 +260,8 @@
     "kw": "173",
     "hp": "235",
     "cc": "3189",
-    "engineCodes": "BKK  CFLA  BDL",
-    "KBA_Numbers": "0603AFN  0603700"
+    "engineCodes": "BKK, CFLA, BDL",
+    "KBA_Numbers": "0603AFN, 0603700"
   },
   {
     "brand": "VW",
@@ -272,7 +272,7 @@
     "hp": "85",
     "cc": "1896",
     "engineCodes": "AXC",
-    "KBA_Numbers": "0603AIV  0603712"
+    "KBA_Numbers": "0603AIV, 0603712"
   },
   {
     "brand": "VW",
@@ -283,7 +283,7 @@
     "hp": "105",
     "cc": "1896",
     "engineCodes": "AXB",
-    "KBA_Numbers": "0603AIU  0603711"
+    "KBA_Numbers": "0603AIU, 0603711"
   },
   {
     "brand": "VW",
@@ -316,7 +316,7 @@
     "hp": "115",
     "cc": "1984",
     "engineCodes": "AXA",
-    "KBA_Numbers": "0603ARN  0603AIT  0603730  0603AVX"
+    "KBA_Numbers": "0603ARN, 0603AIT, 0603730, 0603AVX"
   },
   {
     "brand": "VW",
@@ -326,7 +326,7 @@
     "kw": "103",
     "hp": "140",
     "cc": "1968",
-    "engineCodes": "CAAC  CCHA",
+    "engineCodes": "CAAC, CCHA",
     "KBA_Numbers": "0603AWA"
   },
   {
@@ -337,7 +337,7 @@
     "kw": "103",
     "hp": "140",
     "cc": "1968",
-    "engineCodes": "CAAC  CCHA",
+    "engineCodes": "CAAC, CCHA",
     "KBA_Numbers": "0603AWB"
   },
   {
@@ -348,8 +348,8 @@
     "kw": "96",
     "hp": "130",
     "cc": "2461",
-    "engineCodes": "BNZ  AXD",
-    "KBA_Numbers": "0603AIW  0603713  0603789"
+    "engineCodes": "BNZ, AXD",
+    "KBA_Numbers": "0603AIW, 0603713, 0603789"
   },
   {
     "brand": "VW",
@@ -359,8 +359,8 @@
     "kw": "128",
     "hp": "174",
     "cc": "2461",
-    "engineCodes": "BPC  AXE",
-    "KBA_Numbers": "0603AIY  0603714"
+    "engineCodes": "BPC, AXE",
+    "KBA_Numbers": "0603AIY, 0603714"
   },
   {
     "brand": "VW",
@@ -370,7 +370,7 @@
     "kw": "128",
     "hp": "174",
     "cc": "2461",
-    "engineCodes": "BPC  AXE",
+    "engineCodes": "BPC, AXE",
     "KBA_Numbers": "0603AKD"
   },
   {
@@ -381,8 +381,8 @@
     "kw": "96",
     "hp": "130",
     "cc": "2461",
-    "engineCodes": "BNZ  AXD",
-    "KBA_Numbers": "0603AIX  0603753"
+    "engineCodes": "BNZ, AXD",
+    "KBA_Numbers": "0603AIX, 0603753"
   },
   {
     "brand": "VW",
@@ -392,8 +392,8 @@
     "kw": "173",
     "hp": "235",
     "cc": "3189",
-    "engineCodes": "BKK  BDL",
-    "KBA_Numbers": "0603731  0603AIZ"
+    "engineCodes": "BKK, BDL",
+    "KBA_Numbers": "0603731, 0603AIZ"
   },
   {
     "brand": "VW",
@@ -415,7 +415,7 @@
     "hp": "85",
     "cc": "1896",
     "engineCodes": "AXC",
-    "KBA_Numbers": "0603AIM  0603076  0603707"
+    "KBA_Numbers": "0603AIM, 0603076, 0603707"
   },
   {
     "brand": "VW",
@@ -426,7 +426,7 @@
     "hp": "105",
     "cc": "1896",
     "engineCodes": "AXB",
-    "KBA_Numbers": "0603AIL  0603077  0603706"
+    "KBA_Numbers": "0603AIL, 0603077, 0603706"
   },
   {
     "brand": "VW",
@@ -459,7 +459,7 @@
     "hp": "115",
     "cc": "1984",
     "engineCodes": "AXA",
-    "KBA_Numbers": "0603AII  0603080  0603AVO"
+    "KBA_Numbers": "0603AII, 0603080, 0603AVO"
   },
   {
     "brand": "VW",
@@ -480,8 +480,8 @@
     "kw": "96",
     "hp": "130",
     "cc": "2461",
-    "engineCodes": "BNZ  AXD",
-    "KBA_Numbers": "0603AIQ  0603078  0603708"
+    "engineCodes": "BNZ, AXD",
+    "KBA_Numbers": "0603AIQ, 0603078, 0603708"
   },
   {
     "brand": "VW",
@@ -491,8 +491,8 @@
     "kw": "128",
     "hp": "174",
     "cc": "2461",
-    "engineCodes": "BPC  AXE",
-    "KBA_Numbers": "0603AIP  0603079  0603709"
+    "engineCodes": "BPC, AXE",
+    "KBA_Numbers": "0603AIP, 0603079, 0603709"
   },
   {
     "brand": "VW",
@@ -502,8 +502,8 @@
     "kw": "96",
     "hp": "130",
     "cc": "2461",
-    "engineCodes": "BNZ  AXD",
-    "KBA_Numbers": "0603AIR  0603747"
+    "engineCodes": "BNZ, AXD",
+    "KBA_Numbers": "0603AIR, 0603747"
   },
   {
     "brand": "VW",
@@ -513,8 +513,8 @@
     "kw": "128",
     "hp": "174",
     "cc": "2461",
-    "engineCodes": "BPC  AXE",
-    "KBA_Numbers": "0603AIS  0603748"
+    "engineCodes": "BPC, AXE",
+    "KBA_Numbers": "0603AIS, 0603748"
   },
   {
     "brand": "VW",
@@ -524,8 +524,8 @@
     "kw": "173",
     "hp": "235",
     "cc": "3189",
-    "engineCodes": "BKK  CFLA  BDL",
-    "KBA_Numbers": "0603AIJ  0603081"
+    "engineCodes": "BKK, CFLA, BDL",
+    "KBA_Numbers": "0603AIJ, 0603081"
   },
   {
     "brand": "VW",
@@ -535,7 +535,7 @@
     "kw": "173",
     "hp": "235",
     "cc": "3189",
-    "engineCodes": "CFLA  BKK  BDL",
-    "KBA_Numbers": "0603AIK  0603752"
+    "engineCodes": "CFLA, BKK, BDL",
+    "KBA_Numbers": "0603AIK, 0603752"
   }
 ]

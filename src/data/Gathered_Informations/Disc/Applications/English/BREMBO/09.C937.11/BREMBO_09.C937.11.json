@@ -392,7 +392,7 @@
     "kw": "298",
     "hp": "405",
     "cc": "1969",
-    "engineCodes": "B 4204 T57  B 4204 T28",
+    "engineCodes": "B 4204 T57, B 4204 T28",
     "KBA_Numbers": ""
   },
   {
@@ -425,7 +425,7 @@
     "kw": "298",
     "hp": "405",
     "cc": "1969",
-    "engineCodes": "B 4204 T34  B 4204 T48",
+    "engineCodes": "B 4204 T34, B 4204 T48",
     "KBA_Numbers": "9101BNI"
   },
   {
@@ -696,11 +696,11 @@
     "brand": "VOLVO",
     "model": "XC90 II (256)",
     "engineType": "T8 Hybrid AWD",
-    "madeYear": "06.2015 - 12.2018",
+    "madeYear": "to 12.2018",
     "kw": "299",
     "hp": "407",
     "cc": "1969",
-    "engineCodes": "B 4204 T35  B 4204 T28  B1APHEV",
+    "engineCodes": "B 4204 T35, B 4204 T28, B1APHEV",
     "KBA_Numbers": "9101BDI"
   },
   {
@@ -722,7 +722,7 @@
     "kw": "310",
     "hp": "421",
     "cc": "1969",
-    "engineCodes": "B 4204 T39  B 4204 T35",
+    "engineCodes": "B 4204 T39, B 4204 T35",
     "KBA_Numbers": ""
   },
   {

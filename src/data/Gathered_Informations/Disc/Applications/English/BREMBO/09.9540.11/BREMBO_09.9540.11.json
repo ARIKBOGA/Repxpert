@@ -7,8 +7,8 @@
     "kw": "100",
     "hp": "136",
     "cc": "1968",
-    "engineCodes": "BRF  BNA  CAGB",
-    "KBA_Numbers": "0588874  0588894  0588ACB"
+    "engineCodes": "BRF, BNA, CAGB",
+    "KBA_Numbers": "0588874, 0588894, 0588ACB"
   },
   {
     "brand": "AUDI",
@@ -18,8 +18,8 @@
     "kw": "103",
     "hp": "140",
     "cc": "1968",
-    "engineCodes": "BRE  BLB",
-    "KBA_Numbers": "0588856  0588ABZ"
+    "engineCodes": "BRE, BLB",
+    "KBA_Numbers": "0588856, 0588ABZ"
   },
   {
     "brand": "AUDI",
@@ -30,7 +30,7 @@
     "hp": "121",
     "cc": "1968",
     "engineCodes": "BVG",
-    "KBA_Numbers": "0588905  0588AAC"
+    "KBA_Numbers": "0588905, 0588AAC"
   },
   {
     "brand": "AUDI",
@@ -52,7 +52,7 @@
     "hp": "170",
     "cc": "1984",
     "engineCodes": "BPJ",
-    "KBA_Numbers": "0588901  0588ACD"
+    "KBA_Numbers": "0588901, 0588ACD"
   },
   {
     "brand": "AUDI",
@@ -63,7 +63,7 @@
     "hp": "177",
     "cc": "2393",
     "engineCodes": "BDW",
-    "KBA_Numbers": "0588851  0588ABX"
+    "KBA_Numbers": "0588851, 0588ABX"
   },
   {
     "brand": "AUDI",
@@ -74,7 +74,7 @@
     "hp": "177",
     "cc": "2393",
     "engineCodes": "BDW",
-    "KBA_Numbers": "0588875  0588ABY"
+    "KBA_Numbers": "0588875, 0588ABY"
   },
   {
     "brand": "AUDI",
@@ -85,7 +85,7 @@
     "hp": "180",
     "cc": "2698",
     "engineCodes": "BPP",
-    "KBA_Numbers": "0588ACF  0588903"
+    "KBA_Numbers": "0588ACF, 0588903"
   },
   {
     "brand": "AUDI",
@@ -95,8 +95,8 @@
     "kw": "120",
     "hp": "163",
     "cc": "2698",
-    "engineCodes": "CAND  BSG",
-    "KBA_Numbers": "0588ACH  0588899"
+    "engineCodes": "CAND, BSG",
+    "KBA_Numbers": "0588ACH, 0588899"
   },
   {
     "brand": "AUDI",
@@ -161,8 +161,8 @@
     "kw": "188",
     "hp": "255",
     "cc": "3123",
-    "engineCodes": "AUK  BKH",
-    "KBA_Numbers": "0588848  0588ABS"
+    "engineCodes": "AUK, BKH",
+    "KBA_Numbers": "0588848, 0588ABS"
   },
   {
     "brand": "AUDI",
@@ -172,8 +172,8 @@
     "kw": "188",
     "hp": "255",
     "cc": "3123",
-    "engineCodes": "AUK  BKH",
-    "KBA_Numbers": "0588849  0588ABT"
+    "engineCodes": "AUK, BKH",
+    "KBA_Numbers": "0588849, 0588ABT"
   },
   {
     "brand": "AUDI",
@@ -183,8 +183,8 @@
     "kw": "100",
     "hp": "136",
     "cc": "1968",
-    "engineCodes": "BRF  BNA  CAGB",
-    "KBA_Numbers": "0588AOR  0588ABK"
+    "engineCodes": "BRF, BNA, CAGB",
+    "KBA_Numbers": "0588AOR, 0588ABK"
   },
   {
     "brand": "AUDI",
@@ -194,8 +194,8 @@
     "kw": "103",
     "hp": "140",
     "cc": "1968",
-    "engineCodes": "BRE  BLB",
-    "KBA_Numbers": "0588887  0588ABI"
+    "engineCodes": "BRE, BLB",
+    "KBA_Numbers": "0588887, 0588ABI"
   },
   {
     "brand": "AUDI",
@@ -206,7 +206,7 @@
     "hp": "121",
     "cc": "1968",
     "engineCodes": "BVG",
-    "KBA_Numbers": "0588906  0588AAB"
+    "KBA_Numbers": "0588906, 0588AAB"
   },
   {
     "brand": "AUDI",
@@ -217,7 +217,7 @@
     "hp": "170",
     "cc": "1968",
     "engineCodes": "CAHA",
-    "KBA_Numbers": "0588AOS  0588AJP"
+    "KBA_Numbers": "0588AOS, 0588AJP"
   },
   {
     "brand": "AUDI",
@@ -228,7 +228,7 @@
     "hp": "163",
     "cc": "1968",
     "engineCodes": "CAHB",
-    "KBA_Numbers": "0588AOT  0588AKJ"
+    "KBA_Numbers": "0588AOT, 0588AKJ"
   },
   {
     "brand": "AUDI",
@@ -239,7 +239,7 @@
     "hp": "170",
     "cc": "1984",
     "engineCodes": "BPJ",
-    "KBA_Numbers": "0588AOO  0588902  0588ABM"
+    "KBA_Numbers": "0588AOO, 0588902, 0588ABM"
   },
   {
     "brand": "AUDI",
@@ -250,7 +250,7 @@
     "hp": "177",
     "cc": "2393",
     "engineCodes": "BDW",
-    "KBA_Numbers": "0588885  0588ABG"
+    "KBA_Numbers": "0588885, 0588ABG"
   },
   {
     "brand": "AUDI",
@@ -261,6 +261,6 @@
     "hp": "177",
     "cc": "2393",
     "engineCodes": "BDW",
-    "KBA_Numbers": "0588886  0588ABH"
+    "KBA_Numbers": "0588886, 0588ABH"
   }
 ]

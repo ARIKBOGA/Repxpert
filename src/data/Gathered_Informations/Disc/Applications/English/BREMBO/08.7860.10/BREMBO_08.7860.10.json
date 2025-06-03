@@ -162,7 +162,7 @@
     "hp": "64",
     "cc": "1201",
     "engineCodes": "P120",
-    "KBA_Numbers": "4013AKN  4013AIA"
+    "KBA_Numbers": "4013AKN, 4013AIA"
   },
   {
     "brand": "PIAGGIO",
@@ -184,7 +184,7 @@
     "hp": "71",
     "cc": "1308",
     "engineCodes": "DA471QLR",
-    "KBA_Numbers": "4013AKO  4013AID"
+    "KBA_Numbers": "4013AKO, 4013AID"
   },
   {
     "brand": "PIAGGIO",
@@ -195,7 +195,7 @@
     "hp": "72",
     "cc": "1308",
     "engineCodes": "DA471QLR",
-    "KBA_Numbers": "4013AHB  4013AHX"
+    "KBA_Numbers": "4013AHB, 4013AHX"
   },
   {
     "brand": "PIAGGIO",
@@ -228,7 +228,7 @@
     "hp": "71",
     "cc": "1308",
     "engineCodes": "DA471QLR",
-    "KBA_Numbers": "4013AKP  4013AIJ"
+    "KBA_Numbers": "4013AKP, 4013AIJ"
   },
   {
     "brand": "PIAGGIO",
@@ -239,7 +239,7 @@
     "hp": "72",
     "cc": "1308",
     "engineCodes": "DA471QLR",
-    "KBA_Numbers": "4013AHC  4013AHY"
+    "KBA_Numbers": "4013AHC, 4013AHY"
   },
   {
     "brand": "PIAGGIO",
@@ -249,8 +249,8 @@
     "kw": "11",
     "hp": "15",
     "cc": "96V",
-    "engineCodes": "4013AHL",
-    "KBA_Numbers": ""
+    "engineCodes": "96V",
+    "KBA_Numbers": "4013AHL"
   },
   {
     "brand": "PIAGGIO",
@@ -260,7 +260,7 @@
     "kw": "18",
     "hp": "24",
     "cc": "96V",
-    "engineCodes": "",
+    "engineCodes": "96V",
     "KBA_Numbers": ""
   },
   {
@@ -305,7 +305,7 @@
     "hp": "64",
     "cc": "1201",
     "engineCodes": "P120",
-    "KBA_Numbers": "4013AKC  4013AKF  4013AHZ"
+    "KBA_Numbers": "4013AKC, 4013AKF, 4013AHZ"
   },
   {
     "brand": "PIAGGIO",
@@ -316,7 +316,7 @@
     "hp": "71",
     "cc": "1308",
     "engineCodes": "DA471QLR",
-    "KBA_Numbers": "4013AKB  4013AKG  4013AIC"
+    "KBA_Numbers": "4013AKB, 4013AKG, 4013AIC"
   },
   {
     "brand": "PIAGGIO",
@@ -349,7 +349,7 @@
     "hp": "83",
     "cc": "1299",
     "engineCodes": "DAM13R",
-    "KBA_Numbers": "4013AKQ  4013ALW"
+    "KBA_Numbers": "4013AKQ, 4013ALW"
   },
   {
     "brand": "PIAGGIO",
@@ -360,7 +360,7 @@
     "hp": "65",
     "cc": "1296",
     "engineCodes": "HC-EL",
-    "KBA_Numbers": "4013AGN  4013AHQ"
+    "KBA_Numbers": "4013AGN, 4013AHQ"
   },
   {
     "brand": "PIAGGIO",
@@ -371,7 +371,7 @@
     "hp": "65",
     "cc": "1296",
     "engineCodes": "HC-EL",
-    "KBA_Numbers": "4013AGP  4013AHU"
+    "KBA_Numbers": "4013AGP, 4013AHU"
   },
   {
     "brand": "PIAGGIO",
@@ -393,7 +393,7 @@
     "hp": "71",
     "cc": "1308",
     "engineCodes": "DA471QLR",
-    "KBA_Numbers": "4013AKE  4013AKI  4013AIO"
+    "KBA_Numbers": "4013AKE, 4013AKI, 4013AIO"
   },
   {
     "brand": "PIAGGIO",
@@ -437,7 +437,7 @@
     "hp": "64",
     "cc": "1296",
     "engineCodes": "HC-EL",
-    "KBA_Numbers": "4013AGO  4013AHS"
+    "KBA_Numbers": "4013AGO, 4013AHS"
   },
   {
     "brand": "PIAGGIO",
@@ -448,7 +448,7 @@
     "hp": "71",
     "cc": "1308",
     "engineCodes": "DA471QLR",
-    "KBA_Numbers": "4013AKD  4013AKH  4013AII"
+    "KBA_Numbers": "4013AKD, 4013AKH, 4013AII"
   },
   {
     "brand": "PIAGGIO",
@@ -481,7 +481,7 @@
     "hp": "83",
     "cc": "1299",
     "engineCodes": "DAM13R",
-    "KBA_Numbers": "4013AKV  4013ALA"
+    "KBA_Numbers": "4013AKV, 4013ALA"
   },
   {
     "brand": "PIAGGIO",
@@ -502,8 +502,8 @@
     "kw": "11",
     "hp": "15",
     "cc": "96V",
-    "engineCodes": "4013ANW  4013ALU  4013AGZ",
-    "KBA_Numbers": ""
+    "engineCodes": "96V",
+    "KBA_Numbers": "4013ANW, 4013ALU, 4013AGZ"
   },
   {
     "brand": "PIAGGIO",
@@ -513,7 +513,7 @@
     "kw": "18",
     "hp": "24",
     "cc": "96V",
-    "engineCodes": "",
+    "engineCodes": "96V",
     "KBA_Numbers": ""
   },
   {
@@ -591,7 +591,7 @@
     "hp": "65",
     "cc": "1296",
     "engineCodes": "HC-EL",
-    "KBA_Numbers": "4013AGN  4013AHP"
+    "KBA_Numbers": "4013AGN, 4013AHP"
   },
   {
     "brand": "PIAGGIO",
@@ -602,7 +602,7 @@
     "hp": "65",
     "cc": "1296",
     "engineCodes": "HC-EL",
-    "KBA_Numbers": "4013AGP  4013AHT"
+    "KBA_Numbers": "4013AGP, 4013AHT"
   },
   {
     "brand": "PIAGGIO",
@@ -657,7 +657,7 @@
     "hp": "64",
     "cc": "1296",
     "engineCodes": "HC-EL",
-    "KBA_Numbers": "4013AGO  4013AHR"
+    "KBA_Numbers": "4013AGO, 4013AHR"
   },
   {
     "brand": "PIAGGIO",
@@ -668,7 +668,7 @@
     "hp": "71",
     "cc": "1308",
     "engineCodes": "DA471QLR",
-    "KBA_Numbers": "4013AKP  4013AIJ"
+    "KBA_Numbers": "4013AKP, 4013AIJ"
   },
   {
     "brand": "PIAGGIO",
@@ -711,8 +711,8 @@
     "kw": "11",
     "hp": "15",
     "cc": "96V",
-    "engineCodes": "4013ALV  4013AHL",
-    "KBA_Numbers": ""
+    "engineCodes": "96V",
+    "KBA_Numbers": "4013ALV, 4013AHL"
   },
   {
     "brand": "PIAGGIO",
@@ -722,7 +722,7 @@
     "kw": "18",
     "hp": "24",
     "cc": "96V",
-    "engineCodes": "",
+    "engineCodes": "96V",
     "KBA_Numbers": ""
   }
 ]

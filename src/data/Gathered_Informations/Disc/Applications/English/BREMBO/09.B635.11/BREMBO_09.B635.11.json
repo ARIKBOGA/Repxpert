@@ -7,8 +7,8 @@
     "kw": "110",
     "hp": "150",
     "cc": "1390",
-    "engineCodes": "CAVA  CNWB  CTHA",
-    "KBA_Numbers": "7593AFG  7593AFJ"
+    "engineCodes": "CAVA, CNWB, CTHA",
+    "KBA_Numbers": "7593AFG, 7593AFJ"
   },
   {
     "brand": "SEAT",
@@ -18,8 +18,8 @@
     "kw": "110",
     "hp": "150",
     "cc": "1395",
-    "engineCodes": "DJKA  CZDA",
-    "KBA_Numbers": "7593AFG  7593AFJ"
+    "engineCodes": "DJKA, CZDA",
+    "KBA_Numbers": "7593AFG, 7593AFJ"
   },
   {
     "brand": "SEAT",
@@ -41,18 +41,18 @@
     "hp": "136",
     "cc": "1968",
     "engineCodes": "CFFA",
-    "KBA_Numbers": "7593AFX  7593AFH  7593AFK"
+    "KBA_Numbers": "7593AFX, 7593AFH, 7593AFK"
   },
   {
     "brand": "SEAT",
     "model": "ALHAMBRA (710, 711)",
     "engineType": "2.0 TDI",
-    "madeYear": "06.2010 - 12.2011",
+    "madeYear": "06.2010 - 04.2015",
     "kw": "103",
     "hp": "140",
     "cc": "1968",
     "engineCodes": "CFFB",
-    "KBA_Numbers": "7593AFY  7593AFI  7593AFL"
+    "KBA_Numbers": "7593AFY, 7593AFI, 7593AFL"
   },
   {
     "brand": "SEAT",
@@ -63,7 +63,7 @@
     "hp": "170",
     "cc": "1968",
     "engineCodes": "CFGB",
-    "KBA_Numbers": "7593AFZ  7593AFM  7593AFN"
+    "KBA_Numbers": "7593AFZ, 7593AFM, 7593AFN"
   },
   {
     "brand": "SEAT",
@@ -73,8 +73,8 @@
     "kw": "85",
     "hp": "115",
     "cc": "1968",
-    "engineCodes": "CUVA  CFFE  DFLD  DLTC",
-    "KBA_Numbers": "7593AFS  7593AFT"
+    "engineCodes": "CUVA, CFFE, DFLD, DLTC",
+    "KBA_Numbers": "7593AFS, 7593AFT"
   },
   {
     "brand": "SEAT",
@@ -84,8 +84,8 @@
     "kw": "130",
     "hp": "177",
     "cc": "1968",
-    "engineCodes": "DLUB  CFGC",
-    "KBA_Numbers": "7593AHO  7593AHQ  7593AHP"
+    "engineCodes": "DLUB, CFGC",
+    "KBA_Numbers": "7593AHO, 7593AHQ, 7593AHP"
   },
   {
     "brand": "SEAT",
@@ -95,8 +95,8 @@
     "kw": "110",
     "hp": "150",
     "cc": "1968",
-    "engineCodes": "DLTA  CUVC  DFLA",
-    "KBA_Numbers": "7593ALK  7593ALL"
+    "engineCodes": "DLTA, CUVC, DFLA",
+    "KBA_Numbers": "7593ALK, 7593ALL"
   },
   {
     "brand": "SEAT",
@@ -106,8 +106,8 @@
     "kw": "135",
     "hp": "184",
     "cc": "1968",
-    "engineCodes": "CUWA  DFMA",
-    "KBA_Numbers": "7593ALM  7593ALN"
+    "engineCodes": "CUWA, DFMA",
+    "KBA_Numbers": "7593ALM, 7593ALN"
   },
   {
     "brand": "SEAT",
@@ -118,7 +118,7 @@
     "hp": "140",
     "cc": "1968",
     "engineCodes": "CFFB",
-    "KBA_Numbers": "7593AGG  7593AGL  7593AGK"
+    "KBA_Numbers": "7593AGG, 7593AGL, 7593AGK"
   },
   {
     "brand": "SEAT",
@@ -128,8 +128,8 @@
     "kw": "110",
     "hp": "150",
     "cc": "1968",
-    "engineCodes": "CUVC  DFLA  DLTA",
-    "KBA_Numbers": "7593ALZ  7593AMA"
+    "engineCodes": "CUVC, DFLA, DLTA",
+    "KBA_Numbers": "7593ALZ, 7593AMA"
   },
   {
     "brand": "SEAT",
@@ -140,7 +140,7 @@
     "hp": "184",
     "cc": "1968",
     "engineCodes": "DFMA",
-    "KBA_Numbers": "7593AMS  7593AMU  7593AMT"
+    "KBA_Numbers": "7593AMS, 7593AMU, 7593AMT"
   },
   {
     "brand": "SEAT",
@@ -151,7 +151,7 @@
     "hp": "177",
     "cc": "1968",
     "engineCodes": "DLUB",
-    "KBA_Numbers": "7593ANZ  7593AOA"
+    "KBA_Numbers": "7593ANZ, 7593AOA"
   },
   {
     "brand": "SEAT",
@@ -162,7 +162,7 @@
     "hp": "200",
     "cc": "1984",
     "engineCodes": "CCZA",
-    "KBA_Numbers": "7593AGA  7593AFP  7593AFO"
+    "KBA_Numbers": "7593AGA, 7593AFP, 7593AFO"
   },
   {
     "brand": "SEAT",
@@ -173,7 +173,7 @@
     "hp": "220",
     "cc": "1984",
     "engineCodes": "DEDA",
-    "KBA_Numbers": "7593AME  7593ALI  7593ALJ"
+    "KBA_Numbers": "7593AME, 7593ALI, 7593ALJ"
   },
   {
     "brand": "SEAT",
@@ -183,7 +183,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1968",
-    "engineCodes": "CUVC  DFLA",
+    "engineCodes": "CUVC, DFLA",
     "KBA_Numbers": "7593AMB"
   },
   {
@@ -201,7 +201,7 @@
     "brand": "SEAT",
     "model": "TARRACO (KN2)",
     "engineType": "1.4 e-HYBRID",
-    "madeYear": "from 02.2021",
+    "madeYear": "02.2021 - 05.2024",
     "kw": "180",
     "hp": "245",
     "cc": "1395",
@@ -212,29 +212,29 @@
     "brand": "SEAT",
     "model": "TARRACO (KN2)",
     "engineType": "1.5 TSI ACT",
-    "madeYear": "from 09.2018",
+    "madeYear": "09.2018 - 05.2024",
     "kw": "110",
     "hp": "150",
     "cc": "1498",
-    "engineCodes": "DPCA  DADA  DXDB",
+    "engineCodes": "DPCA, DADA, DXDB",
     "KBA_Numbers": "7593AOP"
   },
   {
     "brand": "SEAT",
     "model": "TARRACO (KN2)",
     "engineType": "2.0 TDI",
-    "madeYear": "from 09.2018",
+    "madeYear": "09.2018 - 05.2024",
     "kw": "110",
     "hp": "150",
     "cc": "1968",
-    "engineCodes": "DFGA  DTSA  DTSB",
+    "engineCodes": "DFGA, DTSA, DTSB",
     "KBA_Numbers": "7593AOR"
   },
   {
     "brand": "SEAT",
     "model": "TARRACO (KN2)",
     "engineType": "2.0 TDI 4Drive",
-    "madeYear": "from 09.2018",
+    "madeYear": "09.2018 - 05.2024",
     "kw": "110",
     "hp": "150",
     "cc": "1968",
@@ -245,7 +245,7 @@
     "brand": "SEAT",
     "model": "TARRACO (KN2)",
     "engineType": "2.0 TDI 4Drive",
-    "madeYear": "from 09.2018",
+    "madeYear": "09.2018 - 05.2024",
     "kw": "140",
     "hp": "190",
     "cc": "1968",
@@ -256,11 +256,11 @@
     "brand": "SEAT",
     "model": "TARRACO (KN2)",
     "engineType": "2.0 TSI 4Drive",
-    "madeYear": "from 11.2018",
+    "madeYear": "09.2018 - 05.2024",
     "kw": "140",
     "hp": "190",
     "cc": "1984",
-    "engineCodes": "DKZA  DNNA",
+    "engineCodes": "DKZA, DNNA",
     "KBA_Numbers": "7593AOQ"
   },
   {
@@ -271,8 +271,8 @@
     "kw": "92",
     "hp": "125",
     "cc": "1395",
-    "engineCodes": "CZCA  CZDB",
-    "KBA_Numbers": "8004ARO  8004ASG"
+    "engineCodes": "CZCA, CZDB",
+    "KBA_Numbers": "8004ARO, 8004ASG"
   },
   {
     "brand": "SKODA",
@@ -282,8 +282,8 @@
     "kw": "110",
     "hp": "150",
     "cc": "1395",
-    "engineCodes": "CZEA  CZDA",
-    "KBA_Numbers": "8004ARP  8004ASH"
+    "engineCodes": "CZEA, CZDA",
+    "KBA_Numbers": "8004ARP, 8004ASH"
   },
   {
     "brand": "SKODA",
@@ -293,8 +293,8 @@
     "kw": "110",
     "hp": "150",
     "cc": "1395",
-    "engineCodes": "CZDA  CZEA",
-    "KBA_Numbers": "8004ARQ  8004ARY"
+    "engineCodes": "CZDA, CZEA",
+    "KBA_Numbers": "8004ARQ, 8004ARY"
   },
   {
     "brand": "SKODA",
@@ -304,7 +304,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1498",
-    "engineCodes": "DPCA  DADA",
+    "engineCodes": "DPCA, DADA",
     "KBA_Numbers": "8004ATM"
   },
   {
@@ -315,7 +315,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1498",
-    "engineCodes": "DPCA  DADA",
+    "engineCodes": "DPCA, DADA",
     "KBA_Numbers": "8004ATN"
   },
   {
@@ -326,8 +326,8 @@
     "kw": "110",
     "hp": "150",
     "cc": "1968",
-    "engineCodes": "DBGC  DFGA  DTSB",
-    "KBA_Numbers": "8004ART  8004ASI"
+    "engineCodes": "DBGC, DFGA, DTSB",
+    "KBA_Numbers": "8004ART, 8004ASI"
   },
   {
     "brand": "SKODA",
@@ -348,8 +348,8 @@
     "kw": "110",
     "hp": "150",
     "cc": "1968",
-    "engineCodes": "DBGC  DFGA  DTSB",
-    "KBA_Numbers": "8004ARU  8004ARW  8004ASB  8004ASA"
+    "engineCodes": "DBGC, DFGA, DTSB",
+    "KBA_Numbers": "8004ARU, 8004ARW, 8004ASB, 8004ASA"
   },
   {
     "brand": "SKODA",
@@ -360,7 +360,7 @@
     "hp": "190",
     "cc": "1968",
     "engineCodes": "DFHA",
-    "KBA_Numbers": "8004ARV  8004ARX  8004ASC  8004ASD"
+    "KBA_Numbers": "8004ARV, 8004ARX, 8004ASC, 8004ASD"
   },
   {
     "brand": "SKODA",
@@ -371,7 +371,7 @@
     "hp": "180",
     "cc": "1984",
     "engineCodes": "CZPA",
-    "KBA_Numbers": "8004ARR  8004ARZ"
+    "KBA_Numbers": "8004ARR, 8004ARZ"
   },
   {
     "brand": "VW",
@@ -381,8 +381,8 @@
     "kw": "110",
     "hp": "150",
     "cc": "1390",
-    "engineCodes": "CAVA  CTHA",
-    "KBA_Numbers": "0603ATO  0603ATP  0603AWM"
+    "engineCodes": "CAVA, CTHA",
+    "KBA_Numbers": "0603ATO, 0603ATP, 0603AWM"
   },
   {
     "brand": "VW",
@@ -392,8 +392,8 @@
     "kw": "110",
     "hp": "150",
     "cc": "1395",
-    "engineCodes": "DJKA  CZDA",
-    "KBA_Numbers": "0603ATO  0603ATP  0603AWM"
+    "engineCodes": "DJKA, CZDA",
+    "KBA_Numbers": "0603ATO, 0603ATP, 0603AWM"
   },
   {
     "brand": "VW",
@@ -404,7 +404,7 @@
     "hp": "136",
     "cc": "1968",
     "engineCodes": "CFFA",
-    "KBA_Numbers": "0603AWN  0603AUA  0603AUB"
+    "KBA_Numbers": "0603AWN, 0603AUA, 0603AUB"
   },
   {
     "brand": "VW",
@@ -415,7 +415,7 @@
     "hp": "140",
     "cc": "1968",
     "engineCodes": "CFFB",
-    "KBA_Numbers": "0603ATU  0603AWO  0603ATV"
+    "KBA_Numbers": "0603ATU, 0603AWO, 0603ATV"
   },
   {
     "brand": "VW",
@@ -426,7 +426,7 @@
     "hp": "170",
     "cc": "1968",
     "engineCodes": "CFGB",
-    "KBA_Numbers": "0603ATY  0603ATZ  0603AYQ"
+    "KBA_Numbers": "0603ATY, 0603ATZ, 0603AYQ"
   },
   {
     "brand": "VW",
@@ -436,8 +436,8 @@
     "kw": "85",
     "hp": "115",
     "cc": "1968",
-    "engineCodes": "DFLD  CUVA  CFFE  DLTC",
-    "KBA_Numbers": "0603ATS  0603ATT  0603BGA"
+    "engineCodes": "DFLD, CUVA, CFFE, DLTC",
+    "KBA_Numbers": "0603ATS, 0603ATT, 0603BGA"
   },
   {
     "brand": "VW",
@@ -447,8 +447,8 @@
     "kw": "130",
     "hp": "177",
     "cc": "1968",
-    "engineCodes": "DLUB  CFGC",
-    "KBA_Numbers": "0603BKP  0603BKQ  0603BKU"
+    "engineCodes": "DLUB, CFGC",
+    "KBA_Numbers": "0603BKP, 0603BKQ, 0603BKU"
   },
   {
     "brand": "VW",
@@ -458,8 +458,8 @@
     "kw": "110",
     "hp": "150",
     "cc": "1968",
-    "engineCodes": "CUVC  DFLA  DLTA",
-    "KBA_Numbers": "0603BXP  0603BVI  0603BVJ"
+    "engineCodes": "CUVC, DFLA, DLTA",
+    "KBA_Numbers": "0603BXP, 0603BVI, 0603BVJ"
   },
   {
     "brand": "VW",
@@ -469,8 +469,8 @@
     "kw": "135",
     "hp": "184",
     "cc": "1968",
-    "engineCodes": "DFMA  CUWA",
-    "KBA_Numbers": "0603BXR  0603BVM  0603BVN"
+    "engineCodes": "DFMA, CUWA",
+    "KBA_Numbers": "0603BXR, 0603BVM, 0603BVN"
   },
   {
     "brand": "VW",
@@ -481,7 +481,7 @@
     "hp": "140",
     "cc": "1968",
     "engineCodes": "CFFB",
-    "KBA_Numbers": "0603ATX  0603ATW  0603BFZ"
+    "KBA_Numbers": "0603ATX, 0603ATW, 0603BFZ"
   },
   {
     "brand": "VW",
@@ -491,8 +491,8 @@
     "kw": "110",
     "hp": "150",
     "cc": "1968",
-    "engineCodes": "DLTA  DFLA  CUVC",
-    "KBA_Numbers": "0603BXQ  0603BVL  0603BVK"
+    "engineCodes": "DLTA, DFLA, CUVC",
+    "KBA_Numbers": "0603BXQ, 0603BVL, 0603BVK"
   },
   {
     "brand": "VW",
@@ -503,7 +503,7 @@
     "hp": "184",
     "cc": "1968",
     "engineCodes": "DFMA",
-    "KBA_Numbers": "0603CAW  0603CAX  0603CAV"
+    "KBA_Numbers": "0603CAW, 0603CAX, 0603CAV"
   },
   {
     "brand": "VW",
@@ -514,7 +514,7 @@
     "hp": "177",
     "cc": "1968",
     "engineCodes": "DLUB",
-    "KBA_Numbers": "0603CIW  0603CIX"
+    "KBA_Numbers": "0603CIW, 0603CIX"
   },
   {
     "brand": "VW",
@@ -525,7 +525,7 @@
     "hp": "200",
     "cc": "1984",
     "engineCodes": "CCZA",
-    "KBA_Numbers": "0603ATQ  0603ATR  0603BAG"
+    "KBA_Numbers": "0603ATQ, 0603ATR, 0603BAG"
   },
   {
     "brand": "VW",
@@ -536,7 +536,7 @@
     "hp": "220",
     "cc": "1984",
     "engineCodes": "DEDA",
-    "KBA_Numbers": "0603BXS  0603BVO  0603BVP"
+    "KBA_Numbers": "0603BXS, 0603BVO, 0603BVP"
   },
   {
     "brand": "VW",
@@ -546,7 +546,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1390",
-    "engineCodes": "CTHA  CAVA",
+    "engineCodes": "CTHA, CAVA",
     "KBA_Numbers": "0603AWM"
   },
   {
@@ -590,7 +590,7 @@
     "kw": "92",
     "hp": "125",
     "cc": "1395",
-    "engineCodes": "CZDB  CZCA",
+    "engineCodes": "CZDB, CZCA",
     "KBA_Numbers": "0603BYZ"
   },
   {
@@ -601,7 +601,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1395",
-    "engineCodes": "CZDA  CZEA  DJVA",
+    "engineCodes": "CZDA, CZEA, DJVA",
     "KBA_Numbers": "0603BZA"
   },
   {
@@ -612,8 +612,8 @@
     "kw": "110",
     "hp": "150",
     "cc": "1395",
-    "engineCodes": "CZDA  CZEA",
-    "KBA_Numbers": "0603BZB  0603BZC"
+    "engineCodes": "CZDA, CZEA",
+    "KBA_Numbers": "0603BZB, 0603BZC"
   },
   {
     "brand": "VW",
@@ -623,7 +623,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1498",
-    "engineCodes": "DADA  DPCA  DXDB",
+    "engineCodes": "DADA, DPCA, DXDB",
     "KBA_Numbers": "0603CIR"
   },
   {
@@ -645,7 +645,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1968",
-    "engineCodes": "DTSB  DFGA  DTSA",
+    "engineCodes": "DTSB, DFGA, DTSA",
     "KBA_Numbers": "0603BZG"
   },
   {
@@ -678,8 +678,8 @@
     "kw": "110",
     "hp": "150",
     "cc": "1968",
-    "engineCodes": "DBGC  DFGA  DTSB  DTSA",
-    "KBA_Numbers": "0603BZH  0603BZI"
+    "engineCodes": "DBGC, DFGA, DTSB, DTSA",
+    "KBA_Numbers": "0603BZH, 0603BZI"
   },
   {
     "brand": "VW",
@@ -690,7 +690,7 @@
     "hp": "190",
     "cc": "1968",
     "engineCodes": "DFHA",
-    "KBA_Numbers": "0603CDF  0603BZJ  0603BZK  0603CDG"
+    "KBA_Numbers": "0603CDF, 0603BZJ, 0603BZK, 0603CDG"
   },
   {
     "brand": "VW",
@@ -701,7 +701,7 @@
     "hp": "240",
     "cc": "1968",
     "engineCodes": "CUAA",
-    "KBA_Numbers": "0603CDD  0603CDE  0603BZP  0603BZZ"
+    "KBA_Numbers": "0603CDD, 0603CDE, 0603BZP, 0603BZZ"
   },
   {
     "brand": "VW",
@@ -712,7 +712,7 @@
     "hp": "200",
     "cc": "1968",
     "engineCodes": "DTUA",
-    "KBA_Numbers": "0603CLD  0603CLE"
+    "KBA_Numbers": "0603CLD, 0603CLE"
   },
   {
     "brand": "VW",
@@ -723,7 +723,7 @@
     "hp": "180",
     "cc": "1984",
     "engineCodes": "CZPA",
-    "KBA_Numbers": "0603BZD  0603BZE  0603BGM  0603BGN"
+    "KBA_Numbers": "0603BZD, 0603BZE, 0603BGM, 0603BGN"
   },
   {
     "brand": "VW",
@@ -734,7 +734,7 @@
     "hp": "220",
     "cc": "1984",
     "engineCodes": "CHHB",
-    "KBA_Numbers": "0603BZN  0603BZO"
+    "KBA_Numbers": "0603BZN, 0603BZO"
   },
   {
     "brand": "VW",
@@ -744,8 +744,8 @@
     "kw": "140",
     "hp": "190",
     "cc": "1984",
-    "engineCodes": "DKZA  DNNA",
-    "KBA_Numbers": "0603CIS  0603CIU"
+    "engineCodes": "DKZA, DNNA",
+    "KBA_Numbers": "0603CIS, 0603CIU"
   },
   {
     "brand": "VW",
@@ -756,7 +756,7 @@
     "hp": "230",
     "cc": "1984",
     "engineCodes": "DKTA",
-    "KBA_Numbers": "0603CIT  0603CIV"
+    "KBA_Numbers": "0603CIT, 0603CIV"
   },
   {
     "brand": "VW",
@@ -766,7 +766,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1395",
-    "engineCodes": "CZDA  CZEA",
+    "engineCodes": "CZDA, CZEA",
     "KBA_Numbers": "0603BZA"
   },
   {
@@ -777,7 +777,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1498",
-    "engineCodes": "DADA  DPCA  DXDB",
+    "engineCodes": "DADA, DPCA, DXDB",
     "KBA_Numbers": "0603CIR"
   },
   {
@@ -788,7 +788,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1968",
-    "engineCodes": "DFGA  DTSB  DTSA",
+    "engineCodes": "DFGA, DTSB, DTSA",
     "KBA_Numbers": "0603BZG"
   },
   {
@@ -799,8 +799,8 @@
     "kw": "110",
     "hp": "150",
     "cc": "1968",
-    "engineCodes": "DBGC  DFGA  DTSA  DTSB",
-    "KBA_Numbers": "0603BZI  0603BZH"
+    "engineCodes": "DBGC, DFGA, DTSA, DTSB",
+    "KBA_Numbers": "0603BZI, 0603BZH"
   },
   {
     "brand": "VW",
@@ -811,7 +811,7 @@
     "hp": "190",
     "cc": "1968",
     "engineCodes": "DFHA",
-    "KBA_Numbers": "0603BZK  0603BZJ"
+    "KBA_Numbers": "0603BZK, 0603BZJ"
   },
   {
     "brand": "VW",
@@ -822,7 +822,7 @@
     "hp": "240",
     "cc": "1968",
     "engineCodes": "CUAA",
-    "KBA_Numbers": "0603BZP  0603BZZ"
+    "KBA_Numbers": "0603BZP, 0603BZZ"
   },
   {
     "brand": "VW",
@@ -833,7 +833,7 @@
     "hp": "180",
     "cc": "1984",
     "engineCodes": "DGVA",
-    "KBA_Numbers": "0603BZD  0603BZE"
+    "KBA_Numbers": "0603BZD, 0603BZE"
   },
   {
     "brand": "VW",
@@ -843,8 +843,8 @@
     "kw": "162",
     "hp": "220",
     "cc": "1984",
-    "engineCodes": "CXDA  DNJA",
-    "KBA_Numbers": "0603BZN  0603BZO"
+    "engineCodes": "CXDA, DNJA",
+    "KBA_Numbers": "0603BZN, 0603BZO"
   },
   {
     "brand": "VW",
@@ -854,7 +854,7 @@
     "kw": "140",
     "hp": "190",
     "cc": "1984",
-    "engineCodes": "DNLA  DNNA",
-    "KBA_Numbers": "0603CIS  0603CIU"
+    "engineCodes": "DNLA, DNNA",
+    "KBA_Numbers": "0603CIS, 0603CIU"
   }
 ]

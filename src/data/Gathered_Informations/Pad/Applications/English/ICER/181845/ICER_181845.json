@@ -1,0 +1,35 @@
+[
+  {
+    "brand": "CHRYSLER",
+    "model": "YPSILON",
+    "engineType": "0.9 Twinair",
+    "madeYear": "05.2011 - 12.2018",
+    "kw": "63",
+    "hp": "86",
+    "cc": "875",
+    "engineCodes": "312 A2.000",
+    "KBA_Numbers": ""
+  },
+  {
+    "brand": "CHRYSLER",
+    "model": "YPSILON",
+    "engineType": "1.2",
+    "madeYear": "05.2011 - 12.2021",
+    "kw": "51",
+    "hp": "69",
+    "cc": "1242",
+    "engineCodes": "169 A4.000",
+    "KBA_Numbers": ""
+  },
+  {
+    "brand": "CHRYSLER",
+    "model": "YPSILON",
+    "engineType": "1.3 Multijet",
+    "madeYear": "from 05.2011",
+    "kw": "70",
+    "hp": "95",
+    "cc": "1248",
+    "engineCodes": "199 B1.000",
+    "KBA_Numbers": ""
+  }
+]

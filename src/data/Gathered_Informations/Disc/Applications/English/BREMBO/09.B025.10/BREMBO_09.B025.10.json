@@ -19,7 +19,7 @@
     "hp": "175",
     "cc": "2400",
     "engineCodes": "D 5244 T14",
-    "KBA_Numbers": "9101ALZ  9101AJZ"
+    "KBA_Numbers": "9101ALZ, 9101AJZ"
   },
   {
     "brand": "VOLVO",
@@ -29,8 +29,8 @@
     "kw": "120",
     "hp": "163",
     "cc": "2400",
-    "engineCodes": "D 5244 T16  D 5244 T17  D 5244 T5",
-    "KBA_Numbers": "9101AIC  9101ALY  9101AIS"
+    "engineCodes": "D 5244 T16, D 5244 T17, D 5244 T5",
+    "KBA_Numbers": "9101AIC, 9101ALY, 9101AIS"
   },
   {
     "brand": "VOLVO",
@@ -41,7 +41,7 @@
     "hp": "238",
     "cc": "3192",
     "engineCodes": "B 6324 S",
-    "KBA_Numbers": "9101AJM  9101ALX"
+    "KBA_Numbers": "9101AJM, 9101ALX"
   },
   {
     "brand": "VOLVO",
@@ -84,7 +84,7 @@
     "kw": "120",
     "hp": "163",
     "cc": "1984",
-    "engineCodes": "D 5204 T3  D 5204 T2",
+    "engineCodes": "D 5204 T3, D 5204 T2",
     "KBA_Numbers": "9101ANR"
   },
   {
@@ -139,7 +139,7 @@
     "kw": "158",
     "hp": "215",
     "cc": "2400",
-    "engineCodes": "D 5244 T15  D 5244 T11",
+    "engineCodes": "D 5244 T15, D 5244 T11",
     "KBA_Numbers": ""
   },
   {
@@ -162,7 +162,7 @@
     "hp": "205",
     "cc": "2400",
     "engineCodes": "D 5244 T10",
-    "KBA_Numbers": "9101AMA  9101AJO"
+    "KBA_Numbers": "9101AMA, 9101AJO"
   },
   {
     "brand": "VOLVO",
@@ -172,7 +172,7 @@
     "kw": "158",
     "hp": "215",
     "cc": "2400",
-    "engineCodes": "D 5244 T15  D 5244 T11",
+    "engineCodes": "D 5244 T15, D 5244 T11",
     "KBA_Numbers": "9101APR"
   },
   {
@@ -194,7 +194,7 @@
     "kw": "162",
     "hp": "220",
     "cc": "2400",
-    "engineCodes": "D 5244 T20  D 5244 T22",
+    "engineCodes": "D 5244 T20, D 5244 T22",
     "KBA_Numbers": "9101AIH"
   },
   {
@@ -216,7 +216,7 @@
     "kw": "180",
     "hp": "245",
     "cc": "1969",
-    "engineCodes": "B 4204 T11  B 4204 T41",
+    "engineCodes": "B 4204 T11, B 4204 T41",
     "KBA_Numbers": "9101AZV"
   },
   {
@@ -250,7 +250,7 @@
     "hp": "286",
     "cc": "2953",
     "engineCodes": "B 6304 T2",
-    "KBA_Numbers": "9101AIE  9101ALW"
+    "KBA_Numbers": "9101AIE, 9101ALW"
   },
   {
     "brand": "VOLVO",
@@ -282,7 +282,7 @@
     "kw": "242",
     "hp": "329",
     "cc": "2953",
-    "engineCodes": "B 6304 T4  B 6304 T3",
+    "engineCodes": "B 6304 T4, B 6304 T3",
     "KBA_Numbers": "9101BAT"
   },
   {
@@ -304,7 +304,7 @@
     "kw": "158",
     "hp": "215",
     "cc": "2400",
-    "engineCodes": "D 5244 T11  D 5244 T15",
+    "engineCodes": "D 5244 T11, D 5244 T15",
     "KBA_Numbers": ""
   }
 ]

@@ -7,8 +7,8 @@
     "kw": "110",
     "hp": "150",
     "cc": "EM57",
-    "engineCodes": "1329ALE",
-    "KBA_Numbers": ""
+    "engineCodes": "EM57",
+    "KBA_Numbers": "1329ALE"
   },
   {
     "brand": "NISSAN",
@@ -18,8 +18,8 @@
     "kw": "160",
     "hp": "218",
     "cc": "EM57",
-    "engineCodes": "2228AAJ  1329ALE",
-    "KBA_Numbers": ""
+    "engineCodes": "EM57",
+    "KBA_Numbers": "2228AAJ, 1329ALE"
   },
   {
     "brand": "NISSAN",
@@ -326,7 +326,7 @@
     "kw": "96",
     "hp": "130",
     "cc": "1598",
-    "engineCodes": "R9M 414  R9M 409",
+    "engineCodes": "R9M 414, R9M 409",
     "KBA_Numbers": "3333BFH"
   },
   {
@@ -346,7 +346,7 @@
     "engineType": "2.0 BLUE DCI 185 (HCAN)",
     "madeYear": "from 01.2020",
     "kw": "135",
-    "hp": "185",
+    "hp": "184",
     "cc": "1997",
     "engineCodes": "M9R 716",
     "KBA_Numbers": "3333BON"
@@ -357,7 +357,7 @@
     "engineType": "2.0 BLUE DCI 185 4WD (HCAN)",
     "madeYear": "from 01.2020",
     "kw": "135",
-    "hp": "185",
+    "hp": "184",
     "cc": "1997",
     "engineCodes": "M9R 716",
     "KBA_Numbers": "3333BOO"

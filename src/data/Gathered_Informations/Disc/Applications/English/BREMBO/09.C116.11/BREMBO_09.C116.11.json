@@ -18,7 +18,7 @@
     "kw": "185",
     "hp": "252",
     "cc": "1998",
-    "engineCodes": "B48 B20 B  B46 B20 B",
+    "engineCodes": "B48 B20 B, B46 B20 B",
     "KBA_Numbers": "0005CII"
   },
   {
@@ -29,7 +29,7 @@
     "kw": "180",
     "hp": "245",
     "cc": "1997",
-    "engineCodes": "N20 B20 A  N26 B20 A",
+    "engineCodes": "N20 B20 A, N26 B20 A",
     "KBA_Numbers": "0005BVS"
   },
   {
@@ -40,7 +40,7 @@
     "kw": "185",
     "hp": "252",
     "cc": "1998",
-    "engineCodes": "B48 B20 B  B46 B20 B",
+    "engineCodes": "B48 B20 B, B46 B20 B",
     "KBA_Numbers": "0005CIF"
   },
   {
@@ -84,8 +84,8 @@
     "kw": "180",
     "hp": "245",
     "cc": "1997",
-    "engineCodes": "N20 B20 A  N26 B20 A",
-    "KBA_Numbers": "0005BHH  0005BKV"
+    "engineCodes": "N20 B20 A, N26 B20 A",
+    "KBA_Numbers": "0005BHH, 0005BKV"
   },
   {
     "brand": "BMW",
@@ -95,7 +95,7 @@
     "kw": "180",
     "hp": "245",
     "cc": "1997",
-    "engineCodes": "N26 B20 A  N20 B20 A",
+    "engineCodes": "N26 B20 A, N20 B20 A",
     "KBA_Numbers": "0005BKK"
   },
   {
@@ -150,7 +150,7 @@
     "kw": "185",
     "hp": "252",
     "cc": "1998",
-    "engineCodes": "B46 B20 B  B48 B20 B",
+    "engineCodes": "B46 B20 B, B48 B20 B",
     "KBA_Numbers": "0005CDS"
   },
   {
@@ -161,7 +161,7 @@
     "kw": "185",
     "hp": "252",
     "cc": "1998",
-    "engineCodes": "B48 B20 B  B46 B20 B  B48 B20 A",
+    "engineCodes": "B48 B20 B, B46 B20 B, B48 B20 A",
     "KBA_Numbers": "0005CDZ"
   },
   {
@@ -205,7 +205,7 @@
     "kw": "180",
     "hp": "245",
     "cc": "1997",
-    "engineCodes": "N20 B20 A  N26 B20 A",
+    "engineCodes": "N20 B20 A, N26 B20 A",
     "KBA_Numbers": "0005BOJ"
   },
   {
@@ -216,7 +216,7 @@
     "kw": "180",
     "hp": "245",
     "cc": "1997",
-    "engineCodes": "N20 B20 A  N26 B20 A",
+    "engineCodes": "N20 B20 A, N26 B20 A",
     "KBA_Numbers": "0005BQT"
   },
   {
@@ -293,7 +293,7 @@
     "kw": "185",
     "hp": "252",
     "cc": "1998",
-    "engineCodes": "B48 B20 B  B46 B20 B",
+    "engineCodes": "B48 B20 B, B46 B20 B",
     "KBA_Numbers": "0005CHT"
   },
   {
@@ -348,7 +348,7 @@
     "kw": "180",
     "hp": "245",
     "cc": "1997",
-    "engineCodes": "N20 B20 A  N26 B20 A",
+    "engineCodes": "N20 B20 A, N26 B20 A",
     "KBA_Numbers": "0005BKZ"
   },
   {
@@ -359,7 +359,7 @@
     "kw": "180",
     "hp": "245",
     "cc": "1997",
-    "engineCodes": "N20 B20 A  N26 B20 A",
+    "engineCodes": "N20 B20 A, N26 B20 A",
     "KBA_Numbers": "0005BPF"
   },
   {
@@ -425,7 +425,7 @@
     "kw": "185",
     "hp": "252",
     "cc": "1998",
-    "engineCodes": "B48 B20 B  B46 B20 B",
+    "engineCodes": "B48 B20 B, B46 B20 B",
     "KBA_Numbers": "0005CDM"
   },
   {
@@ -469,7 +469,7 @@
     "kw": "180",
     "hp": "245",
     "cc": "1997",
-    "engineCodes": "N20 B20 A  N26 B20 A",
+    "engineCodes": "N20 B20 A, N26 B20 A",
     "KBA_Numbers": "0005BTB"
   },
   {
@@ -557,7 +557,7 @@
     "kw": "180",
     "hp": "245",
     "cc": "1997",
-    "engineCodes": "N20 B20 A  N26 B20 A",
+    "engineCodes": "N20 B20 A, N26 B20 A",
     "KBA_Numbers": "0005BRD"
   },
   {
@@ -568,7 +568,7 @@
     "kw": "180",
     "hp": "245",
     "cc": "1997",
-    "engineCodes": "N20 B20 A  N26 B20 A",
+    "engineCodes": "N20 B20 A, N26 B20 A",
     "KBA_Numbers": "0005BRE"
   },
   {
@@ -623,7 +623,7 @@
     "kw": "185",
     "hp": "252",
     "cc": "1998",
-    "engineCodes": "B46 B20 B  B48 B20 B",
+    "engineCodes": "B46 B20 B, B48 B20 B",
     "KBA_Numbers": "0005CGU"
   },
   {
@@ -634,7 +634,7 @@
     "kw": "185",
     "hp": "252",
     "cc": "1998",
-    "engineCodes": "B46 B20 B  B48 B20 B",
+    "engineCodes": "B46 B20 B, B48 B20 B",
     "KBA_Numbers": "0005CGY"
   },
   {
@@ -667,7 +667,7 @@
     "kw": "180",
     "hp": "245",
     "cc": "1997",
-    "engineCodes": "N26 B20 A  N20 B20 A",
+    "engineCodes": "N26 B20 A, N20 B20 A",
     "KBA_Numbers": "0005BUQ"
   },
   {
@@ -678,7 +678,7 @@
     "kw": "180",
     "hp": "245",
     "cc": "1997",
-    "engineCodes": "N20 B20 A  N26 B20 A",
+    "engineCodes": "N20 B20 A, N26 B20 A",
     "KBA_Numbers": "0005BUY"
   },
   {

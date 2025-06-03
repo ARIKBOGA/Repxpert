@@ -7,7 +7,7 @@
     "kw": "104",
     "hp": "141",
     "cc": "1999",
-    "engineCodes": "LF18  LF17",
+    "engineCodes": "LF18, LF17",
     "KBA_Numbers": "7118268"
   },
   {
@@ -19,7 +19,7 @@
     "hp": "147",
     "cc": "1999",
     "engineCodes": "LFF7",
-    "KBA_Numbers": "7118535  7118AAF"
+    "KBA_Numbers": "7118535, 7118AAF"
   },
   {
     "brand": "MAZDA",
@@ -29,8 +29,8 @@
     "kw": "89",
     "hp": "121",
     "cc": "1998",
-    "engineCodes": "RF5C  RF7J",
-    "KBA_Numbers": "7118264  7118543  7118AAH"
+    "engineCodes": "RF5C, RF7J",
+    "KBA_Numbers": "7118264, 7118543, 7118AAH"
   },
   {
     "brand": "MAZDA",
@@ -52,7 +52,7 @@
     "hp": "143",
     "cc": "1998",
     "engineCodes": "RF7J",
-    "KBA_Numbers": "7118546  7118AAG"
+    "KBA_Numbers": "7118546, 7118AAG"
   },
   {
     "brand": "MAZDA",
@@ -63,7 +63,7 @@
     "hp": "166",
     "cc": "2261",
     "engineCodes": "L3C1",
-    "KBA_Numbers": "7118270  7118539  7118AAI"
+    "KBA_Numbers": "7118270, 7118539, 7118AAI"
   },
   {
     "brand": "MAZDA",
@@ -95,7 +95,7 @@
     "kw": "104",
     "hp": "141",
     "cc": "1999",
-    "engineCodes": "LF18  LF17",
+    "engineCodes": "LF18, LF17",
     "KBA_Numbers": "7118267"
   },
   {
@@ -107,7 +107,7 @@
     "hp": "147",
     "cc": "1999",
     "engineCodes": "LFF7",
-    "KBA_Numbers": "7118536  7118AAA"
+    "KBA_Numbers": "7118536, 7118AAA"
   },
   {
     "brand": "MAZDA",
@@ -128,8 +128,8 @@
     "kw": "89",
     "hp": "121",
     "cc": "1998",
-    "engineCodes": "RF5C  RF7J",
-    "KBA_Numbers": "7118263  7118542  7118AAC"
+    "engineCodes": "RF5C, RF7J",
+    "KBA_Numbers": "7118263, 7118542, 7118AAC"
   },
   {
     "brand": "MAZDA",
@@ -140,7 +140,7 @@
     "hp": "143",
     "cc": "1998",
     "engineCodes": "RF7J",
-    "KBA_Numbers": "7118545  7118AAB"
+    "KBA_Numbers": "7118545, 7118AAB"
   },
   {
     "brand": "MAZDA",
@@ -162,7 +162,7 @@
     "hp": "166",
     "cc": "2261",
     "engineCodes": "L3C1",
-    "KBA_Numbers": "7118269  7118538  7118AAD"
+    "KBA_Numbers": "7118269, 7118538, 7118AAD"
   },
   {
     "brand": "MAZDA",
@@ -173,7 +173,7 @@
     "hp": "120",
     "cc": "1798",
     "engineCodes": "L813",
-    "KBA_Numbers": "7118258  7118AAO  7118534"
+    "KBA_Numbers": "7118258, 7118AAO, 7118534"
   },
   {
     "brand": "MAZDA",
@@ -183,7 +183,7 @@
     "kw": "104",
     "hp": "141",
     "cc": "1999",
-    "engineCodes": "LF18  LF17",
+    "engineCodes": "LF18, LF17",
     "KBA_Numbers": "7118259"
   },
   {
@@ -195,7 +195,7 @@
     "hp": "147",
     "cc": "1999",
     "engineCodes": "LFF7",
-    "KBA_Numbers": "7118AAK  7118537"
+    "KBA_Numbers": "7118AAK, 7118537"
   },
   {
     "brand": "MAZDA",
@@ -205,8 +205,8 @@
     "kw": "89",
     "hp": "121",
     "cc": "1998",
-    "engineCodes": "RF5C  RF7J",
-    "KBA_Numbers": "7118257  7118AAM  7118544"
+    "engineCodes": "RF5C, RF7J",
+    "KBA_Numbers": "7118257, 7118AAM, 7118544"
   },
   {
     "brand": "MAZDA",
@@ -228,7 +228,7 @@
     "hp": "143",
     "cc": "1998",
     "engineCodes": "RF7J",
-    "KBA_Numbers": "7118AAL  7118547"
+    "KBA_Numbers": "7118AAL, 7118547"
   },
   {
     "brand": "MAZDA",
@@ -239,7 +239,7 @@
     "hp": "166",
     "cc": "2261",
     "engineCodes": "L3C1",
-    "KBA_Numbers": "7118256  7118AAN  7118540"
+    "KBA_Numbers": "7118256, 7118AAN, 7118540"
   },
   {
     "brand": "MAZDA",
@@ -250,6 +250,6 @@
     "hp": "162",
     "cc": "2261",
     "engineCodes": "L3C1",
-    "KBA_Numbers": "7118255  7118AAP"
+    "KBA_Numbers": "7118255, 7118AAP"
   }
 ]

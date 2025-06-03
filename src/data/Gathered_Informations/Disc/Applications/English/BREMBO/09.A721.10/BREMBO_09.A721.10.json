@@ -8,7 +8,7 @@
     "hp": "120",
     "cc": "1368",
     "engineCodes": "198 A4.000",
-    "KBA_Numbers": "1742AAM  4136AXR"
+    "KBA_Numbers": "1742AAM, 4136AXR"
   },
   {
     "brand": "ALFA ROMEO",
@@ -18,8 +18,8 @@
     "kw": "88",
     "hp": "120",
     "cc": "1368",
-    "engineCodes": "940 B7.000  198 A4.000",
-    "KBA_Numbers": "4136APH  1742AAL"
+    "engineCodes": "940 B7.000, 198 A4.000",
+    "KBA_Numbers": "4136APH, 1742AAL"
   },
   {
     "brand": "ALFA ROMEO",
@@ -40,8 +40,8 @@
     "kw": "77",
     "hp": "105",
     "cc": "1368",
-    "engineCodes": "940 B8.000  940 B1.000",
-    "KBA_Numbers": "4136ASE  1742AAN"
+    "engineCodes": "940 B8.000, 940 B1.000",
+    "KBA_Numbers": "4136ASE, 1742AAN"
   },
   {
     "brand": "ALFA ROMEO",
@@ -62,8 +62,8 @@
     "kw": "88",
     "hp": "120",
     "cc": "1598",
-    "engineCodes": "940 C1.000  940 C5.000  552 80 444",
-    "KBA_Numbers": "4136BCV  1742AAU"
+    "engineCodes": "940 C1.000, 940 C5.000, 552 80 444",
+    "KBA_Numbers": "4136BCV, 1742AAU"
   },
   {
     "brand": "ALFA ROMEO",
@@ -96,7 +96,7 @@
     "hp": "120",
     "cc": "999",
     "engineCodes": "552 82 151",
-    "KBA_Numbers": "1727AQE  2424ABJ"
+    "KBA_Numbers": "1727AQE, 2424ABJ"
   },
   {
     "brand": "FIAT",
@@ -106,8 +106,8 @@
     "kw": "70",
     "hp": "95",
     "cc": "1248",
-    "engineCodes": "552 66 963  552 83 775",
-    "KBA_Numbers": "1727ABY  2424ABK"
+    "engineCodes": "552 66 963, 552 83 775",
+    "KBA_Numbers": "1727ABY, 2424ABK"
   },
   {
     "brand": "FIAT",
@@ -118,7 +118,7 @@
     "hp": "136",
     "cc": "1368",
     "engineCodes": "552 63 624",
-    "KBA_Numbers": "4136BCI  1727AAF"
+    "KBA_Numbers": "4136BCI, 1727AAF"
   },
   {
     "brand": "FIAT",
@@ -129,7 +129,7 @@
     "hp": "140",
     "cc": "1368",
     "engineCodes": "552 63 624",
-    "KBA_Numbers": "4136BCH  1727AAE"
+    "KBA_Numbers": "4136BCH, 1727AAE"
   },
   {
     "brand": "FIAT",
@@ -150,8 +150,8 @@
     "kw": "84",
     "hp": "114",
     "cc": "1598",
-    "engineCodes": "552 60 384  552 80 444",
-    "KBA_Numbers": "4136BCE  1727AAB"
+    "engineCodes": "552 60 384, 552 80 444",
+    "KBA_Numbers": "4136BCE, 1727AAB"
   },
   {
     "brand": "FIAT",
@@ -161,8 +161,8 @@
     "kw": "88",
     "hp": "120",
     "cc": "1598",
-    "engineCodes": "552 60 384  552 80 444",
-    "KBA_Numbers": "4136BCD  1727AAA"
+    "engineCodes": "552 60 384, 552 80 444",
+    "KBA_Numbers": "4136BCD, 1727AAA"
   },
   {
     "brand": "JEEP",
@@ -172,7 +172,7 @@
     "kw": "88",
     "hp": "120",
     "cc": "999",
-    "engineCodes": "552 82 151  EKA",
+    "engineCodes": "552 82 151, EKA",
     "KBA_Numbers": "1726ABY"
   },
   {
@@ -183,8 +183,8 @@
     "kw": "103",
     "hp": "140",
     "cc": "1368",
-    "engineCodes": "552 63 624  EAM",
-    "KBA_Numbers": "1004AEP  1726AAE"
+    "engineCodes": "552 63 624, EAM",
+    "KBA_Numbers": "1004AEP, 1726AAE"
   },
   {
     "brand": "JEEP",
@@ -194,7 +194,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1598",
-    "engineCodes": "552 63 842  EJH",
+    "engineCodes": "552 63 842, EJH",
     "KBA_Numbers": "1726AAS"
   },
   {
@@ -205,8 +205,8 @@
     "kw": "88",
     "hp": "120",
     "cc": "1598",
-    "engineCodes": "552 63 113  EJK  552 80 444  552 60 384",
-    "KBA_Numbers": "1004AEL  1726AAA"
+    "engineCodes": "552 63 113, EJK, 552 80 444, 552 60 384",
+    "KBA_Numbers": "1004AEL, 1726AAA"
   },
   {
     "brand": "JEEP",
@@ -216,7 +216,7 @@
     "kw": "103",
     "hp": "140",
     "cc": "1956",
-    "engineCodes": "552 63 087  EBT  552 63 088  552 84 064  552 83 099",
-    "KBA_Numbers": "1004AEM  1726AAC"
+    "engineCodes": "552 63 087, EBT, 552 63 088, 552 84 064, 552 83 099",
+    "KBA_Numbers": "1004AEM, 1726AAC"
   }
 ]

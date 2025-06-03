@@ -7,7 +7,7 @@
     "kw": "154",
     "hp": "210",
     "cc": "1781",
-    "engineCodes": "APY  AMK",
+    "engineCodes": "APY, AMK",
     "KBA_Numbers": "0588704"
   },
   {
@@ -29,8 +29,8 @@
     "kw": "132",
     "hp": "180",
     "cc": "1781",
-    "engineCodes": "APP  AJQ  ATC  AUQ  AWP",
-    "KBA_Numbers": "8307300  8307AAC"
+    "engineCodes": "APP, AJQ, ATC, AUQ, AWP",
+    "KBA_Numbers": "8307300, 8307AAC"
   },
   {
     "brand": "AUDI",
@@ -41,7 +41,7 @@
     "hp": "150",
     "cc": "1781",
     "engineCodes": "AUM",
-    "KBA_Numbers": "8307309  8307AAB"
+    "KBA_Numbers": "8307309, 8307AAB"
   },
   {
     "brand": "AUDI",
@@ -52,7 +52,7 @@
     "hp": "163",
     "cc": "1781",
     "engineCodes": "BVP",
-    "KBA_Numbers": "8307313  8307AAF"
+    "KBA_Numbers": "8307313, 8307AAF"
   },
   {
     "brand": "AUDI",
@@ -63,7 +63,7 @@
     "hp": "190",
     "cc": "1781",
     "engineCodes": "BVR",
-    "KBA_Numbers": "8307314  8307AAG"
+    "KBA_Numbers": "8307314, 8307AAG"
   },
   {
     "brand": "AUDI",
@@ -73,8 +73,8 @@
     "kw": "132",
     "hp": "180",
     "cc": "1781",
-    "engineCodes": "AJQ  AUQ  ARY  ATC",
-    "KBA_Numbers": "8307301  8307AAA"
+    "engineCodes": "AJQ, AUQ, ARY, ATC",
+    "KBA_Numbers": "8307301, 8307AAA"
   },
   {
     "brand": "AUDI",
@@ -84,8 +84,8 @@
     "kw": "165",
     "hp": "224",
     "cc": "1781",
-    "engineCodes": "BAM  APX  BEA",
-    "KBA_Numbers": "8307302  8307AAD"
+    "engineCodes": "BAM, APX, BEA",
+    "KBA_Numbers": "8307302, 8307AAD"
   },
   {
     "brand": "AUDI",
@@ -107,7 +107,7 @@
     "hp": "190",
     "cc": "1781",
     "engineCodes": "BVR",
-    "KBA_Numbers": "8307312  8307AAH"
+    "KBA_Numbers": "8307312, 8307AAH"
   },
   {
     "brand": "AUDI",
@@ -117,8 +117,8 @@
     "kw": "132",
     "hp": "180",
     "cc": "1781",
-    "engineCodes": "APP  AJQ  ATC  AUQ",
-    "KBA_Numbers": "8307303  8307AAK"
+    "engineCodes": "APP, AJQ, ATC, AUQ",
+    "KBA_Numbers": "8307303, 8307AAK"
   },
   {
     "brand": "AUDI",
@@ -129,7 +129,7 @@
     "hp": "150",
     "cc": "1781",
     "engineCodes": "AUM",
-    "KBA_Numbers": "8307306  8307AAJ"
+    "KBA_Numbers": "8307306, 8307AAJ"
   },
   {
     "brand": "AUDI",
@@ -140,7 +140,7 @@
     "hp": "163",
     "cc": "1781",
     "engineCodes": "BVP",
-    "KBA_Numbers": "8307316  8307AAN"
+    "KBA_Numbers": "8307316, 8307AAN"
   },
   {
     "brand": "AUDI",
@@ -151,7 +151,7 @@
     "hp": "190",
     "cc": "1781",
     "engineCodes": "BVR",
-    "KBA_Numbers": "8307317  8307AAO"
+    "KBA_Numbers": "8307317, 8307AAO"
   },
   {
     "brand": "AUDI",
@@ -161,8 +161,8 @@
     "kw": "165",
     "hp": "224",
     "cc": "1781",
-    "engineCodes": "APX  BAM  BEA",
-    "KBA_Numbers": "8307305  8307AAL"
+    "engineCodes": "APX, BAM, BEA",
+    "KBA_Numbers": "8307305, 8307AAL"
   },
   {
     "brand": "AUDI",
@@ -172,8 +172,8 @@
     "kw": "132",
     "hp": "180",
     "cc": "1781",
-    "engineCodes": "AJQ  ARY  AUQ",
-    "KBA_Numbers": "8307304  8307AAI"
+    "engineCodes": "AJQ, ARY, AUQ",
+    "KBA_Numbers": "8307304, 8307AAI"
   },
   {
     "brand": "AUDI",
@@ -184,7 +184,7 @@
     "hp": "190",
     "cc": "1781",
     "engineCodes": "BVR",
-    "KBA_Numbers": "8307315  8307AAP"
+    "KBA_Numbers": "8307315, 8307AAP"
   },
   {
     "brand": "SEAT",
@@ -195,7 +195,7 @@
     "hp": "180",
     "cc": "1781",
     "engineCodes": "BBU",
-    "KBA_Numbers": "7593ABX  7593028"
+    "KBA_Numbers": "7593ABX, 7593028"
   },
   {
     "brand": "SEAT",
@@ -205,8 +205,8 @@
     "kw": "118",
     "hp": "160",
     "cc": "1896",
-    "engineCodes": "BUK  BPX",
-    "KBA_Numbers": "7593ACD  7593499"
+    "engineCodes": "BUK, BPX",
+    "KBA_Numbers": "7593ACD, 7593499"
   },
   {
     "brand": "SEAT",
@@ -249,7 +249,7 @@
     "kw": "132",
     "hp": "180",
     "cc": "1390",
-    "engineCodes": "CTJC  CTHE  CAVE",
+    "engineCodes": "CTJC, CTHE, CAVE",
     "KBA_Numbers": "7593ADW"
   },
   {
@@ -282,8 +282,8 @@
     "kw": "132",
     "hp": "180",
     "cc": "1781",
-    "engineCodes": "AUQ  APP",
-    "KBA_Numbers": "7593ABM  7593480"
+    "engineCodes": "AUQ, APP",
+    "KBA_Numbers": "7593ABM, 7593480"
   },
   {
     "brand": "SEAT",
@@ -293,7 +293,7 @@
     "kw": "132",
     "hp": "180",
     "cc": "1781",
-    "engineCodes": "AJQ  ARY",
+    "engineCodes": "AJQ, ARY",
     "KBA_Numbers": "7593483"
   },
   {
@@ -327,7 +327,7 @@
     "hp": "150",
     "cc": "1896",
     "engineCodes": "ARL",
-    "KBA_Numbers": "7593ABJ  7593497"
+    "KBA_Numbers": "7593ABJ, 7593497"
   },
   {
     "brand": "SEAT",
@@ -359,7 +359,7 @@
     "kw": "150",
     "hp": "204",
     "cc": "2792",
-    "engineCodes": "AUE  BDE",
+    "engineCodes": "AUE, BDE",
     "KBA_Numbers": "7593002"
   },
   {
@@ -370,8 +370,8 @@
     "kw": "132",
     "hp": "180",
     "cc": "1781",
-    "engineCodes": "ARY  AUQ  APP",
-    "KBA_Numbers": "7593003  7593ABF"
+    "engineCodes": "ARY, AUQ, APP",
+    "KBA_Numbers": "7593003, 7593ABF"
   },
   {
     "brand": "SEAT",
@@ -403,8 +403,8 @@
     "kw": "85",
     "hp": "116",
     "cc": "1984",
-    "engineCodes": "AZJ  AZH  APK  AEG  AQY",
-    "KBA_Numbers": "8004336  8004ABO"
+    "engineCodes": "AZJ, AZH, APK, AEG, AQY",
+    "KBA_Numbers": "8004336, 8004ABO"
   },
   {
     "brand": "SKODA",
@@ -415,7 +415,7 @@
     "hp": "180",
     "cc": "1781",
     "engineCodes": "AUQ",
-    "KBA_Numbers": "8004357  8004ABN"
+    "KBA_Numbers": "8004357, 8004ABN"
   },
   {
     "brand": "SKODA",
@@ -426,7 +426,7 @@
     "hp": "180",
     "cc": "1781",
     "engineCodes": "AUQ",
-    "KBA_Numbers": "8004AAR  8004ABC  8004358"
+    "KBA_Numbers": "8004AAR, 8004ABC, 8004358"
   },
   {
     "brand": "VW",
@@ -491,7 +491,7 @@
     "kw": "150",
     "hp": "204",
     "cc": "2792",
-    "engineCodes": "BDE  AUE  AQP",
+    "engineCodes": "BDE, AUE, AQP",
     "KBA_Numbers": "0603528"
   },
   {
@@ -557,7 +557,7 @@
     "kw": "150",
     "hp": "204",
     "cc": "2792",
-    "engineCodes": "BDE  AUE  AQP",
+    "engineCodes": "BDE, AUE, AQP",
     "KBA_Numbers": "0603529"
   },
   {
@@ -568,7 +568,7 @@
     "kw": "55",
     "hp": "75",
     "cc": "1390",
-    "engineCodes": "BCA  AKQ  APE  AHW  AXP",
+    "engineCodes": "BCA, AKQ, APE, AHW, AXP",
     "KBA_Numbers": "0603419"
   },
   {
@@ -579,7 +579,7 @@
     "kw": "74",
     "hp": "100",
     "cc": "1595",
-    "engineCodes": "AKL  AEH  APF",
+    "engineCodes": "AKL, AEH, APF",
     "KBA_Numbers": "0603421"
   },
   {
@@ -590,7 +590,7 @@
     "kw": "75",
     "hp": "102",
     "cc": "1595",
-    "engineCodes": "BFQ  AVU",
+    "engineCodes": "BFQ, AVU",
     "KBA_Numbers": "0603603"
   },
   {
@@ -601,7 +601,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1781",
-    "engineCodes": "ARZ  AGU  AUM  AWD  AQA",
+    "engineCodes": "ARZ, AGU, AUM, AWD, AQA",
     "KBA_Numbers": "0603424"
   },
   {
@@ -612,7 +612,7 @@
     "kw": "132",
     "hp": "180",
     "cc": "1781",
-    "engineCodes": "AUQ  BEK",
+    "engineCodes": "AUQ, BEK",
     "KBA_Numbers": "0603649"
   },
   {
@@ -667,7 +667,7 @@
     "kw": "150",
     "hp": "204",
     "cc": "2792",
-    "engineCodes": "BDE  AUE  AQP",
+    "engineCodes": "BDE, AUE, AQP",
     "KBA_Numbers": "0603530"
   },
   {
@@ -733,7 +733,7 @@
     "kw": "150",
     "hp": "204",
     "cc": "2792",
-    "engineCodes": "BDE  AUE  AQP",
+    "engineCodes": "BDE, AUE, AQP",
     "KBA_Numbers": "0603531"
   },
   {
@@ -744,8 +744,8 @@
     "kw": "75",
     "hp": "102",
     "cc": "1595",
-    "engineCodes": "BFS  AYD",
-    "KBA_Numbers": "0603586  0603AHX"
+    "engineCodes": "BFS, AYD",
+    "KBA_Numbers": "0603586, 0603AHX"
   },
   {
     "brand": "VW",
@@ -755,8 +755,8 @@
     "kw": "110",
     "hp": "150",
     "cc": "1781",
-    "engineCodes": "BKF  AGU  APH  AWV  AWU  AVC",
-    "KBA_Numbers": "0603542  0603AHU"
+    "engineCodes": "BKF, AGU, APH, AWV, AWU, AVC",
+    "KBA_Numbers": "0603542, 0603AHU"
   },
   {
     "brand": "VW",
@@ -766,7 +766,7 @@
     "kw": "132",
     "hp": "180",
     "cc": "1781",
-    "engineCodes": "BNU  AWP",
+    "engineCodes": "BNU, AWP",
     "KBA_Numbers": ""
   },
   {
@@ -777,8 +777,8 @@
     "kw": "85",
     "hp": "115",
     "cc": "1984",
-    "engineCodes": "AVH  BEV  BER  CBPA  BHP  BEJ  AZJ  AEG  AQY  APK  AZG",
-    "KBA_Numbers": "0603AHV  0603471"
+    "engineCodes": "AVH, BEV, BER, CBPA, BHP, BEJ, AZJ, AEG, AQY, APK, AZG",
+    "KBA_Numbers": "0603AHV, 0603471"
   },
   {
     "brand": "VW",
@@ -799,7 +799,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "2480",
-    "engineCodes": "BPS  BPR",
+    "engineCodes": "BPS, BPR",
     "KBA_Numbers": ""
   },
   {
@@ -832,8 +832,8 @@
     "kw": "51",
     "hp": "70",
     "cc": "1422",
-    "engineCodes": "BNM  BWB",
-    "KBA_Numbers": "0603792  0603AAZ"
+    "engineCodes": "BNM, BWB",
+    "KBA_Numbers": "0603792, 0603AAZ"
   },
   {
     "brand": "VW",
@@ -843,8 +843,8 @@
     "kw": "59",
     "hp": "80",
     "cc": "1422",
-    "engineCodes": "BNV  BMS",
-    "KBA_Numbers": "0603793  0603ABE"
+    "engineCodes": "BNV, BMS",
+    "KBA_Numbers": "0603793, 0603ABE"
   },
   {
     "brand": "VW",
@@ -855,7 +855,7 @@
     "hp": "150",
     "cc": "1781",
     "engineCodes": "BJX",
-    "KBA_Numbers": "0603ABB  0603819"
+    "KBA_Numbers": "0603ABB, 0603819"
   },
   {
     "brand": "VW",

@@ -7,8 +7,8 @@
     "kw": "96",
     "hp": "130",
     "cc": "1995",
-    "engineCodes": "YMHA  BKHA",
-    "KBA_Numbers": "8566BSI  8566BXI"
+    "engineCodes": "YMHA, BKHA",
+    "KBA_Numbers": "8566BSI, 8566BXI"
   },
   {
     "brand": "FORD",
@@ -18,7 +18,7 @@
     "kw": "125",
     "hp": "170",
     "cc": "1995",
-    "engineCodes": "YNHA  BLHA",
+    "engineCodes": "YNHA, BLHA",
     "KBA_Numbers": "8566BSJ"
   },
   {
@@ -40,7 +40,7 @@
     "kw": "92",
     "hp": "125",
     "cc": "2198",
-    "engineCodes": "CY24  CYR5",
+    "engineCodes": "CY24, CYR5",
     "KBA_Numbers": "8566BJG"
   },
   {
@@ -51,7 +51,7 @@
     "kw": "114",
     "hp": "155",
     "cc": "2198",
-    "engineCodes": "CV24  CVR5",
+    "engineCodes": "CV24, CVR5",
     "KBA_Numbers": "8566BJF"
   },
   {
@@ -73,8 +73,8 @@
     "kw": "92",
     "hp": "125",
     "cc": "2198",
-    "engineCodes": "CYR5  USR6",
-    "KBA_Numbers": "8566BHK  8566BHM"
+    "engineCodes": "CYR5, USR6",
+    "KBA_Numbers": "8566BHK, 8566BHM"
   },
   {
     "brand": "FORD",
@@ -95,8 +95,8 @@
     "kw": "114",
     "hp": "155",
     "cc": "2198",
-    "engineCodes": "CV24  CVR5  UYR6",
-    "KBA_Numbers": "8566BHL  8566BHN"
+    "engineCodes": "CV24, CVR5, UYR6",
+    "KBA_Numbers": "8566BHL, 8566BHN"
   },
   {
     "brand": "FORD",
@@ -106,8 +106,8 @@
     "kw": "96",
     "hp": "130",
     "cc": "1995",
-    "engineCodes": "BKRA  YMRA  YMR6",
-    "KBA_Numbers": "8566BNC  8566BXK"
+    "engineCodes": "BKRA, YMRA, YMR6",
+    "KBA_Numbers": "8566BNC, 8566BXK"
   },
   {
     "brand": "FORD",
@@ -117,8 +117,8 @@
     "kw": "125",
     "hp": "170",
     "cc": "1995",
-    "engineCodes": "YNR6  BLRA  YNRB",
-    "KBA_Numbers": "8566BNE  8566BXM"
+    "engineCodes": "YNR6, BLRA, YNRB",
+    "KBA_Numbers": "8566BNE, 8566BXM"
   },
   {
     "brand": "FORD",
@@ -129,7 +129,7 @@
     "hp": "165",
     "cc": "1995",
     "engineCodes": "BLAA",
-    "KBA_Numbers": "8566CDH  8566CDG"
+    "KBA_Numbers": "8566CDH, 8566CDG"
   },
   {
     "brand": "FORD",
@@ -139,8 +139,8 @@
     "kw": "77",
     "hp": "105",
     "cc": "1995",
-    "engineCodes": "BJRA  YLRA  YLR6",
-    "KBA_Numbers": "8566BNS  8566BNA  8566BSS"
+    "engineCodes": "BJRA, YLRA, YLR6",
+    "KBA_Numbers": "8566BNS, 8566BNA, 8566BSS"
   },
   {
     "brand": "FORD",
@@ -150,8 +150,8 @@
     "kw": "96",
     "hp": "130",
     "cc": "1995",
-    "engineCodes": "YMR6  YMHA  BKRA",
-    "KBA_Numbers": "8566BUI  8566BNT  8566BNB  8566BST"
+    "engineCodes": "YMR6, YMHA, BKRA",
+    "KBA_Numbers": "8566BUI, 8566BNT, 8566BNB, 8566BST"
   },
   {
     "brand": "FORD",
@@ -161,7 +161,7 @@
     "kw": "125",
     "hp": "170",
     "cc": "1995",
-    "engineCodes": "BLRA  YNR6  YNHA  BLHA",
+    "engineCodes": "BLRA, YNR6, YNHA, BLHA",
     "KBA_Numbers": "8566BNU"
   },
   {
@@ -173,7 +173,7 @@
     "hp": "165",
     "cc": "1995",
     "engineCodes": "BLHA",
-    "KBA_Numbers": "8566BXL  8566BXX"
+    "KBA_Numbers": "8566BXL, 8566BXX"
   },
   {
     "brand": "FORD",
@@ -183,7 +183,7 @@
     "kw": "92",
     "hp": "125",
     "cc": "2198",
-    "engineCodes": "CY24  CYR5",
+    "engineCodes": "CY24, CYR5",
     "KBA_Numbers": "8566BIG"
   },
   {
@@ -194,7 +194,7 @@
     "kw": "114",
     "hp": "155",
     "cc": "2198",
-    "engineCodes": "CV24  CVR5",
+    "engineCodes": "CV24, CVR5",
     "KBA_Numbers": "8566BIE"
   },
   {
@@ -206,7 +206,7 @@
     "hp": "100",
     "cc": "2198",
     "engineCodes": "DRR5",
-    "KBA_Numbers": "8566BIC  8566BIH"
+    "KBA_Numbers": "8566BIC, 8566BIH"
   },
   {
     "brand": "FORD",
@@ -216,8 +216,8 @@
     "kw": "92",
     "hp": "125",
     "cc": "2198",
-    "engineCodes": "CYR5  USR6",
-    "KBA_Numbers": "8566BIB  8566BIF"
+    "engineCodes": "CYR5, USR6",
+    "KBA_Numbers": "8566BIB, 8566BIF"
   },
   {
     "brand": "FORD",
@@ -238,8 +238,8 @@
     "kw": "114",
     "hp": "155",
     "cc": "2198",
-    "engineCodes": "CV24  UYR6  CVR5  CYR5",
-    "KBA_Numbers": "8566BIA  8566BID"
+    "engineCodes": "CV24, UYR6, CVR5, CYR5",
+    "KBA_Numbers": "8566BIA, 8566BID"
   },
   {
     "brand": "FORD",
@@ -249,8 +249,8 @@
     "kw": "135",
     "hp": "184",
     "cc": "C2RA",
-    "engineCodes": "8566BWN  8566BWM",
-    "KBA_Numbers": ""
+    "engineCodes": "C2RA",
+    "KBA_Numbers": "8566BWN, 8566BWM"
   },
   {
     "brand": "FORD",
@@ -260,8 +260,8 @@
     "kw": "198",
     "hp": "269",
     "cc": "C0RA",
-    "engineCodes": "8566BWN  8566BWM",
-    "KBA_Numbers": ""
+    "engineCodes": "C0RA",
+    "KBA_Numbers": "8566BWN, 8566BWM"
   },
   {
     "brand": "FORD",
@@ -271,8 +271,8 @@
     "kw": "96",
     "hp": "130",
     "cc": "1995",
-    "engineCodes": "BKRA  YMRA  YMR6",
-    "KBA_Numbers": "8566BNM  8566BNH"
+    "engineCodes": "BKRA, YMRA, YMR6",
+    "KBA_Numbers": "8566BNM, 8566BNH"
   },
   {
     "brand": "FORD",
@@ -282,8 +282,8 @@
     "kw": "125",
     "hp": "170",
     "cc": "1995",
-    "engineCodes": "YNR6  BLRA  YNRB",
-    "KBA_Numbers": "8566BNO  8566BNJ"
+    "engineCodes": "YNR6, BLRA, YNRB",
+    "KBA_Numbers": "8566BNO, 8566BNJ"
   },
   {
     "brand": "FORD",
@@ -294,7 +294,7 @@
     "hp": "165",
     "cc": "1995",
     "engineCodes": "BLAA",
-    "KBA_Numbers": "8566CDF  8566CDD"
+    "KBA_Numbers": "8566CDF, 8566CDD"
   },
   {
     "brand": "FORD",
@@ -304,8 +304,8 @@
     "kw": "77",
     "hp": "105",
     "cc": "1995",
-    "engineCodes": "BJRA  YLRA  YLR6",
-    "KBA_Numbers": "8566BSB  8566BNK  8566BNP  8566BNF  8566BSX"
+    "engineCodes": "BJRA, YLRA, YLR6",
+    "KBA_Numbers": "8566BSB, 8566BNK, 8566BNP, 8566BNF, 8566BSX"
   },
   {
     "brand": "FORD",
@@ -315,8 +315,8 @@
     "kw": "96",
     "hp": "130",
     "cc": "1995",
-    "engineCodes": "YMHA  YMR6  BKRA",
-    "KBA_Numbers": "8566BNL  8566BNQ  8566BNG  8566BSW  8566BSY"
+    "engineCodes": "YMHA, YMR6, BKRA",
+    "KBA_Numbers": "8566BNL, 8566BNQ, 8566BNG, 8566BSW, 8566BSY"
   },
   {
     "brand": "FORD",
@@ -326,8 +326,8 @@
     "kw": "125",
     "hp": "170",
     "cc": "1995",
-    "engineCodes": "YNR6  BLHA  YNHA  BLRA",
-    "KBA_Numbers": "8566BNN  8566BNR  8566BNI"
+    "engineCodes": "YNR6, BLHA, YNHA, BLRA",
+    "KBA_Numbers": "8566BNN, 8566BNR, 8566BNI"
   },
   {
     "brand": "FORD",
@@ -338,7 +338,7 @@
     "hp": "165",
     "cc": "1995",
     "engineCodes": "BLHA",
-    "KBA_Numbers": "8566BXV  8566BXZ"
+    "KBA_Numbers": "8566BXV, 8566BXZ"
   },
   {
     "brand": "FORD",
@@ -348,8 +348,8 @@
     "kw": "92",
     "hp": "125",
     "cc": "2198",
-    "engineCodes": "CY24  CYR5",
-    "KBA_Numbers": "8566BHR  8566BHW"
+    "engineCodes": "CY24, CYR5",
+    "KBA_Numbers": "8566BHR, 8566BHW"
   },
   {
     "brand": "FORD",
@@ -359,8 +359,8 @@
     "kw": "114",
     "hp": "155",
     "cc": "2198",
-    "engineCodes": "CV24  CVR5",
-    "KBA_Numbers": "8566BHP  8566BHU"
+    "engineCodes": "CV24, CVR5",
+    "KBA_Numbers": "8566BHP, 8566BHU"
   },
   {
     "brand": "FORD",
@@ -371,7 +371,7 @@
     "hp": "100",
     "cc": "2198",
     "engineCodes": "DRR5",
-    "KBA_Numbers": "8566BHS  8566BHX"
+    "KBA_Numbers": "8566BHS, 8566BHX"
   },
   {
     "brand": "FORD",
@@ -381,8 +381,8 @@
     "kw": "92",
     "hp": "125",
     "cc": "2198",
-    "engineCodes": "CYR5  USR6",
-    "KBA_Numbers": "8566BHQ  8566BHV"
+    "engineCodes": "CYR5, USR6",
+    "KBA_Numbers": "8566BHQ, 8566BHV"
   },
   {
     "brand": "FORD",
@@ -392,8 +392,8 @@
     "kw": "114",
     "hp": "155",
     "cc": "2198",
-    "engineCodes": "CV24  UYR6  CVR5",
-    "KBA_Numbers": "8566BHO  8566BHT"
+    "engineCodes": "CV24, UYR6, CVR5",
+    "KBA_Numbers": "8566BHO, 8566BHT"
   },
   {
     "brand": "FORD",
@@ -403,8 +403,8 @@
     "kw": "135",
     "hp": "184",
     "cc": "C2RA",
-    "engineCodes": "8566BWL  8566BWK",
-    "KBA_Numbers": ""
+    "engineCodes": "C2RA",
+    "KBA_Numbers": "8566BWL, 8566BWK"
   },
   {
     "brand": "FORD",
@@ -414,7 +414,7 @@
     "kw": "198",
     "hp": "269",
     "cc": "C0RA",
-    "engineCodes": "8566BWL  8566BWK",
-    "KBA_Numbers": ""
+    "engineCodes": "C0RA",
+    "KBA_Numbers": "8566BWL, 8566BWK"
   }
 ]

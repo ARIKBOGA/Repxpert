@@ -40,7 +40,7 @@
     "kw": "100",
     "hp": "136",
     "cc": "1990",
-    "engineCodes": "M52 B20 (206S4)  M52 B20 (206S3)",
+    "engineCodes": "M52 B20 (206S4), M52 B20 (206S3)",
     "KBA_Numbers": "0005613"
   },
   {
@@ -51,7 +51,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1990",
-    "engineCodes": "M52 B20 (206S4)  M52 B20 (206S3)",
+    "engineCodes": "M52 B20 (206S4), M52 B20 (206S3)",
     "KBA_Numbers": "0005569"
   },
   {
@@ -84,8 +84,8 @@
     "kw": "125",
     "hp": "170",
     "cc": "2494",
-    "engineCodes": "M52 B25 (256S3)  M52 B25 (256S4)",
-    "KBA_Numbers": "0005601  0005567"
+    "engineCodes": "M52 B25 (256S3), M52 B25 (256S4)",
+    "KBA_Numbers": "0005601, 0005567"
   },
   {
     "brand": "BMW",
@@ -139,7 +139,7 @@
     "kw": "142",
     "hp": "193",
     "cc": "2793",
-    "engineCodes": "M52 B28 (286S1)  M52 B28 (286S2)",
+    "engineCodes": "M52 B28 (286S1), M52 B28 (286S2)",
     "KBA_Numbers": "0005568"
   },
   {
@@ -205,8 +205,8 @@
     "kw": "210",
     "hp": "286",
     "cc": "4398",
-    "engineCodes": "M62 B44 (448S2)  M62 B44 (448S1)",
-    "KBA_Numbers": "0005619  0005572"
+    "engineCodes": "M62 B44 (448S2), M62 B44 (448S1)",
+    "KBA_Numbers": "0005619, 0005572"
   },
   {
     "brand": "BMW",
@@ -227,7 +227,7 @@
     "kw": "100",
     "hp": "136",
     "cc": "1990",
-    "engineCodes": "M52 B20 (206S3)  M52 B20 (206S4)",
+    "engineCodes": "M52 B20 (206S3), M52 B20 (206S4)",
     "KBA_Numbers": "0005615"
   },
   {
@@ -238,7 +238,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1990",
-    "engineCodes": "M52 B20 (206S4)  M52 B20 (206S3)",
+    "engineCodes": "M52 B20 (206S4), M52 B20 (206S3)",
     "KBA_Numbers": "0005602"
   },
   {
@@ -271,7 +271,7 @@
     "kw": "125",
     "hp": "170",
     "cc": "2494",
-    "engineCodes": "M52 B25 (256S3)  M52 B25 (256S4)",
+    "engineCodes": "M52 B25 (256S3), M52 B25 (256S4)",
     "KBA_Numbers": "0005604"
   },
   {
@@ -326,7 +326,7 @@
     "kw": "142",
     "hp": "193",
     "cc": "2793",
-    "engineCodes": "M52 B28 (286S2)  M52 B28 (286S1)",
+    "engineCodes": "M52 B28 (286S2), M52 B28 (286S1)",
     "KBA_Numbers": "0005605"
   },
   {
@@ -370,7 +370,7 @@
     "kw": "210",
     "hp": "286",
     "cc": "4398",
-    "engineCodes": "M62 B44 (448S2)  M62 B44 (448S1)",
+    "engineCodes": "M62 B44 (448S2), M62 B44 (448S1)",
     "KBA_Numbers": "0005606"
   }
 ]

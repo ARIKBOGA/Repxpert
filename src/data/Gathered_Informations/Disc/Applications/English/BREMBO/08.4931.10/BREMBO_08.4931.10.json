@@ -18,7 +18,7 @@
     "kw": "77",
     "hp": "105",
     "cc": "1993",
-    "engineCodes": "NEL  N8D",
+    "engineCodes": "NEL, N8D",
     "KBA_Numbers": "0928599"
   },
   {
@@ -40,7 +40,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "1993",
-    "engineCodes": "NRI  NRA",
+    "engineCodes": "NRI, NRA",
     "KBA_Numbers": "0928600"
   },
   {
@@ -51,7 +51,7 @@
     "kw": "74",
     "hp": "100",
     "cc": "1993",
-    "engineCodes": "NRC  NER",
+    "engineCodes": "NRC, NER",
     "KBA_Numbers": "0928613"
   },
   {
@@ -63,7 +63,7 @@
     "hp": "120",
     "cc": "1998",
     "engineCodes": "N9D",
-    "KBA_Numbers": "0928753  0928717"
+    "KBA_Numbers": "0928753, 0928717"
   },
   {
     "brand": "FORD",
@@ -96,7 +96,7 @@
     "hp": "125",
     "cc": "2394",
     "engineCodes": "ARD",
-    "KBA_Numbers": "0928755  0928706"
+    "KBA_Numbers": "0928755, 0928706"
   },
   {
     "brand": "FORD",
@@ -118,7 +118,7 @@
     "hp": "69",
     "cc": "2498",
     "engineCodes": "STR",
-    "KBA_Numbers": "0928747  0928612"
+    "KBA_Numbers": "0928747, 0928612"
   },
   {
     "brand": "FORD",
@@ -128,8 +128,8 @@
     "kw": "68",
     "hp": "92",
     "cc": "2498",
-    "engineCodes": "SFB  SFA",
-    "KBA_Numbers": "0928749  0928683"
+    "engineCodes": "SFB, SFA",
+    "KBA_Numbers": "0928749, 0928683"
   },
   {
     "brand": "FORD",
@@ -172,7 +172,7 @@
     "kw": "107",
     "hp": "145",
     "cc": "2933",
-    "engineCodes": "BRD  BRE  BRF",
+    "engineCodes": "BRD, BRE, BRF",
     "KBA_Numbers": "0928651"
   },
   {
@@ -216,8 +216,8 @@
     "kw": "107",
     "hp": "145",
     "cc": "2933",
-    "engineCodes": "BRD  BRF  BRE",
-    "KBA_Numbers": "0928759  0928735  0928692"
+    "engineCodes": "BRD, BRF, BRE",
+    "KBA_Numbers": "0928759, 0928735, 0928692"
   },
   {
     "brand": "FORD",
@@ -228,7 +228,7 @@
     "hp": "145",
     "cc": "2933",
     "engineCodes": "BRE",
-    "KBA_Numbers": "0928757  0928733"
+    "KBA_Numbers": "0928757, 0928733"
   },
   {
     "brand": "FORD",
@@ -260,7 +260,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "1993",
-    "engineCodes": "NRA  NRI",
+    "engineCodes": "NRA, NRI",
     "KBA_Numbers": ""
   },
   {
@@ -326,7 +326,7 @@
     "kw": "68",
     "hp": "92",
     "cc": "2498",
-    "engineCodes": "SFA  SFB",
+    "engineCodes": "SFA, SFB",
     "KBA_Numbers": "0928750"
   },
   {
@@ -348,7 +348,7 @@
     "kw": "107",
     "hp": "145",
     "cc": "2933",
-    "engineCodes": "BRD  BRF  BRE",
+    "engineCodes": "BRD, BRF, BRE",
     "KBA_Numbers": "0928758"
   },
   {
@@ -370,7 +370,7 @@
     "kw": "107",
     "hp": "145",
     "cc": "2933",
-    "engineCodes": "BRD  BRF  BRE",
+    "engineCodes": "BRD, BRF, BRE",
     "KBA_Numbers": "0928760"
   },
   {
@@ -425,7 +425,7 @@
     "kw": "68",
     "hp": "92",
     "cc": "2498",
-    "engineCodes": "SFA  SFB",
+    "engineCodes": "SFA, SFB",
     "KBA_Numbers": "0928815"
   },
   {
@@ -458,7 +458,7 @@
     "kw": "107",
     "hp": "145",
     "cc": "2933",
-    "engineCodes": "BRD  BRF  BRE",
+    "engineCodes": "BRD, BRF, BRE",
     "KBA_Numbers": "0928822"
   }
 ]

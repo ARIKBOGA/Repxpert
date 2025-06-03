@@ -7,7 +7,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1199",
-    "engineCodes": "HNP (EB2ADT)  HNZ (EB2DT)  HNV (EB2DTM)",
+    "engineCodes": "HNP (EB2ADT), HNZ (EB2DT), HNV (EB2DTM)",
     "KBA_Numbers": "3001AYT"
   },
   {
@@ -18,7 +18,7 @@
     "kw": "96",
     "hp": "131",
     "cc": "1199",
-    "engineCodes": "HNS (EB2ADTS)  HNY (EB2DTS)",
+    "engineCodes": "HNS (EB2ADTS), HNY (EB2DTS)",
     "KBA_Numbers": "3001AYX"
   },
   {
@@ -29,8 +29,8 @@
     "kw": "60",
     "hp": "82",
     "cc": "1199",
-    "engineCodes": "HMZ (EB2F)  HMR (EB2FA)",
-    "KBA_Numbers": "3001AYS  3001AZN"
+    "engineCodes": "HMZ (EB2F), HMR (EB2FA)",
+    "KBA_Numbers": "3001AYS, 3001AZN"
   },
   {
     "brand": "CITROËN",
@@ -84,8 +84,8 @@
     "kw": "44",
     "hp": "60",
     "cc": "1124",
-    "engineCodes": "HFV (TU1A)  HFX (TU1A)",
-    "KBA_Numbers": "3001AKY  3001AIQ"
+    "engineCodes": "HFV (TU1A), HFX (TU1A)",
+    "KBA_Numbers": "3001AKY, 3001AIQ"
   },
   {
     "brand": "CITROËN",
@@ -106,7 +106,7 @@
     "kw": "60",
     "hp": "82",
     "cc": "1199",
-    "engineCodes": "HMZ (EB2)  HMZ (EB2F)",
+    "engineCodes": "HMZ (EB2), HMZ (EB2F)",
     "KBA_Numbers": "3001ART"
   },
   {
@@ -117,8 +117,8 @@
     "kw": "54",
     "hp": "73",
     "cc": "1360",
-    "engineCodes": "KFT (TU3AE5)  KFT (TU3A)  K6E (TU3A)",
-    "KBA_Numbers": "3001AKZ  3001AIR"
+    "engineCodes": "KFT (TU3AE5), KFT (TU3A), K6E (TU3A)",
+    "KBA_Numbers": "3001AKZ, 3001AIR"
   },
   {
     "brand": "CITROËN",
@@ -128,8 +128,8 @@
     "kw": "50",
     "hp": "68",
     "cc": "1398",
-    "engineCodes": "8HZ (DV4TD)  8HR (DV4C)  8HP (DV4C)",
-    "KBA_Numbers": "3001ALD  3001AIV"
+    "engineCodes": "8HZ (DV4TD), 8HR (DV4C), 8HP (DV4C)",
+    "KBA_Numbers": "3001ALD, 3001AIV"
   },
   {
     "brand": "CITROËN",
@@ -162,7 +162,7 @@
     "hp": "98",
     "cc": "1397",
     "engineCodes": "8FR (EP3)",
-    "KBA_Numbers": "3001ALB  3001AIT"
+    "KBA_Numbers": "3001ALB, 3001AIT"
   },
   {
     "brand": "CITROËN",
@@ -173,7 +173,7 @@
     "hp": "95",
     "cc": "1397",
     "engineCodes": "8FP (EP3C)",
-    "KBA_Numbers": "3001ALA  3001AIS"
+    "KBA_Numbers": "3001ALA, 3001AIS"
   },
   {
     "brand": "CITROËN",
@@ -194,7 +194,7 @@
     "kw": "55",
     "hp": "75",
     "cc": "1560",
-    "engineCodes": "9HK (DV6ETEDM)  BHW (DV6FE)",
+    "engineCodes": "9HK (DV6ETEDM), BHW (DV6FE)",
     "KBA_Numbers": "3001ASD"
   },
   {
@@ -205,8 +205,8 @@
     "kw": "68",
     "hp": "92",
     "cc": "1560",
-    "engineCodes": "9HJ (DV6DTEDM)  9HP (DV6DTED)",
-    "KBA_Numbers": "3001ALF  3001AJD"
+    "engineCodes": "9HJ (DV6DTEDM), 9HP (DV6DTED)",
+    "KBA_Numbers": "3001ALF, 3001AJD"
   },
   {
     "brand": "CITROËN",
@@ -217,7 +217,7 @@
     "hp": "112",
     "cc": "1560",
     "engineCodes": "9HR (DV6C)",
-    "KBA_Numbers": "3001ALG  3001AJG"
+    "KBA_Numbers": "3001ALG, 3001AJG"
   },
   {
     "brand": "CITROËN",
@@ -239,7 +239,7 @@
     "hp": "90",
     "cc": "1560",
     "engineCodes": "9HX (DV6ATED4)",
-    "KBA_Numbers": "3001ALE  3001AIW"
+    "KBA_Numbers": "3001ALE, 3001AIW"
   },
   {
     "brand": "CITROËN",
@@ -250,7 +250,7 @@
     "hp": "120",
     "cc": "1598",
     "engineCodes": "5FS (EP6C)",
-    "KBA_Numbers": "3001ALC  3001AIU"
+    "KBA_Numbers": "3001ALC, 3001AIU"
   },
   {
     "brand": "CITROËN",
@@ -260,7 +260,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1199",
-    "engineCodes": "HNP (EB2ADT)  HNZ (EB2DT)  HNV (EB2DTM)",
+    "engineCodes": "HNP (EB2ADT), HNZ (EB2DT), HNV (EB2DTM)",
     "KBA_Numbers": "3001ASW"
   },
   {
@@ -271,7 +271,7 @@
     "kw": "50",
     "hp": "68",
     "cc": "1199",
-    "engineCodes": "HMM (EB2FAD)  HMP (EB2FB)",
+    "engineCodes": "HMM (EB2FAD), HMP (EB2FB)",
     "KBA_Numbers": "3001AXU"
   },
   {
@@ -337,8 +337,8 @@
     "kw": "70",
     "hp": "95",
     "cc": "1397",
-    "engineCodes": "8FP (EP3C)  8FS (EP3)",
-    "KBA_Numbers": "3001AHR  3001AND"
+    "engineCodes": "8FP (EP3C), 8FS (EP3)",
+    "KBA_Numbers": "3001AHR, 3001AND"
   },
   {
     "brand": "CITROËN",
@@ -371,7 +371,7 @@
     "hp": "90",
     "cc": "1560",
     "engineCodes": "9HX (DV6ATED4)",
-    "KBA_Numbers": "3001AHS  3001ANF"
+    "KBA_Numbers": "3001AHS, 3001ANF"
   },
   {
     "brand": "CITROËN",
@@ -382,7 +382,7 @@
     "hp": "109",
     "cc": "1560",
     "engineCodes": "9HZ (DV6TED4)",
-    "KBA_Numbers": "3001AHT  3001ANI"
+    "KBA_Numbers": "3001AHT, 3001ANI"
   },
   {
     "brand": "CITROËN",
@@ -393,7 +393,7 @@
     "hp": "112",
     "cc": "1560",
     "engineCodes": "9HR (DV6C)",
-    "KBA_Numbers": "3001AKJ  3001ANJ"
+    "KBA_Numbers": "3001AKJ, 3001ANJ"
   },
   {
     "brand": "CITROËN",
@@ -415,7 +415,7 @@
     "hp": "92",
     "cc": "1560",
     "engineCodes": "9HP (DV6DTED)",
-    "KBA_Numbers": "3001AJR  3001ANH"
+    "KBA_Numbers": "3001AJR, 3001ANH"
   },
   {
     "brand": "CITROËN",
@@ -426,7 +426,7 @@
     "hp": "114",
     "cc": "1598",
     "engineCodes": "5FP (EP6)",
-    "KBA_Numbers": "3001AIL  3001ANG"
+    "KBA_Numbers": "3001AIL, 3001ANG"
   },
   {
     "brand": "CITROËN",
@@ -436,8 +436,8 @@
     "kw": "88",
     "hp": "120",
     "cc": "1598",
-    "engineCodes": "5FS (EP6C)  5FW (EP6)",
-    "KBA_Numbers": "3001AHW  3001ANE"
+    "engineCodes": "5FS (EP6C), 5FW (EP6)",
+    "KBA_Numbers": "3001AHW, 3001ANE"
   },
   {
     "brand": "CITROËN",
@@ -447,7 +447,7 @@
     "kw": "96",
     "hp": "131",
     "cc": "1199",
-    "engineCodes": "HNS (EB2ADTS)  HNY (EB2DTS)",
+    "engineCodes": "HNS (EB2ADTS), HNY (EB2DTS)",
     "KBA_Numbers": "3001AYY"
   },
   {
@@ -458,7 +458,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1199",
-    "engineCodes": "HNZ (EB2DT)  HNP (EB2ADT)  HNV (EB2DTM)",
+    "engineCodes": "HNZ (EB2DT), HNP (EB2ADT), HNV (EB2DTM)",
     "KBA_Numbers": "3001AUI"
   },
   {
@@ -469,7 +469,7 @@
     "kw": "55",
     "hp": "75",
     "cc": "1199",
-    "engineCodes": "HMU (EB2FD)  HMU (EB2D)",
+    "engineCodes": "HMU (EB2FD), HMU (EB2D)",
     "KBA_Numbers": "3001AUF"
   },
   {
@@ -502,7 +502,7 @@
     "kw": "68",
     "hp": "92",
     "cc": "1560",
-    "engineCodes": "9HJ (DV6DTEDM)  9HP (DV6D)  9HP (DV6DTED)",
+    "engineCodes": "9HJ (DV6DTEDM), 9HP (DV6D), 9HP (DV6DTED)",
     "KBA_Numbers": "3001ATZ"
   },
   {
@@ -514,7 +514,7 @@
     "hp": "88",
     "cc": "1360",
     "engineCodes": "KFU (ET3J4)",
-    "KBA_Numbers": "3001848  3001AAK"
+    "KBA_Numbers": "3001848, 3001AAK"
   },
   {
     "brand": "CITROËN",
@@ -535,7 +535,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1560",
-    "engineCodes": "9HX (DV6ATED4)  9HV (DV6TED4B)  9HV (DV6TED4BU)",
+    "engineCodes": "9HX (DV6ATED4), 9HV (DV6TED4B), 9HV (DV6TED4BU)",
     "KBA_Numbers": "3001853"
   },
   {
@@ -546,7 +546,7 @@
     "kw": "80",
     "hp": "109",
     "cc": "1560",
-    "engineCodes": "9HY (DV6TED4)  9HZ (DV6TED4)",
+    "engineCodes": "9HY (DV6TED4), 9HZ (DV6TED4)",
     "KBA_Numbers": "3001852"
   },
   {
@@ -646,7 +646,7 @@
     "hp": "88",
     "cc": "1360",
     "engineCodes": "KFU (ET3J4)",
-    "KBA_Numbers": "3001855  3001AAK"
+    "KBA_Numbers": "3001855, 3001AAK"
   },
   {
     "brand": "CITROËN",
@@ -657,7 +657,7 @@
     "hp": "109",
     "cc": "1587",
     "engineCodes": "NFU (TU5JP4)",
-    "KBA_Numbers": "3001856  3001AAL"
+    "KBA_Numbers": "3001856, 3001AAL"
   },
   {
     "brand": "CITROËN",
@@ -678,8 +678,8 @@
     "kw": "66",
     "hp": "90",
     "cc": "1560",
-    "engineCodes": "9HX (DV6ATED4)  9HV (DV6TED4B)  9HV (DV6TED4BU)",
-    "KBA_Numbers": "3001AAO  3001859"
+    "engineCodes": "9HX (DV6ATED4), 9HV (DV6TED4B), 9HV (DV6TED4BU)",
+    "KBA_Numbers": "3001AAO, 3001859"
   },
   {
     "brand": "CITROËN",
@@ -689,8 +689,8 @@
     "kw": "80",
     "hp": "109",
     "cc": "1560",
-    "engineCodes": "9HY (DV6TED4)  9HZ (DV6TED4)",
-    "KBA_Numbers": "3001858  3001AAN"
+    "engineCodes": "9HY (DV6TED4), 9HZ (DV6TED4)",
+    "KBA_Numbers": "3001858, 3001AAN"
   },
   {
     "brand": "CITROËN",
@@ -734,7 +734,7 @@
     "hp": "136",
     "cc": "1997",
     "engineCodes": "RFN (EW10J4)",
-    "KBA_Numbers": "3001857  3001AAM"
+    "KBA_Numbers": "3001857, 3001AAM"
   },
   {
     "brand": "CITROËN",
@@ -745,7 +745,7 @@
     "hp": "140",
     "cc": "1997",
     "engineCodes": "RFJ (EW10A)",
-    "KBA_Numbers": "3001AAJ  3001867"
+    "KBA_Numbers": "3001AAJ, 3001867"
   },
   {
     "brand": "CITROËN",
@@ -778,7 +778,7 @@
     "hp": "136",
     "cc": "1997",
     "engineCodes": "RHR (DW10BTED4)",
-    "KBA_Numbers": "3001AAP  3001860"
+    "KBA_Numbers": "3001AAP, 3001860"
   },
   {
     "brand": "CITROËN",
@@ -832,7 +832,7 @@
     "kw": "80",
     "hp": "109",
     "cc": "1560",
-    "engineCodes": "9HY (DV6TED4)  9HZ (DV6TED4)",
+    "engineCodes": "9HY (DV6TED4), 9HZ (DV6TED4)",
     "KBA_Numbers": "3001AFS"
   },
   {
@@ -854,7 +854,7 @@
     "kw": "60",
     "hp": "82",
     "cc": "1199",
-    "engineCodes": "HMZ (EB2F)  HMZ (EB2)",
+    "engineCodes": "HMZ (EB2F), HMZ (EB2)",
     "KBA_Numbers": "3001ARU"
   },
   {
@@ -865,7 +865,7 @@
     "kw": "50",
     "hp": "68",
     "cc": "1398",
-    "engineCodes": "8HR (DV4C)  8HP (DV4C)",
+    "engineCodes": "8HR (DV4C), 8HP (DV4C)",
     "KBA_Numbers": "3001ALO"
   },
   {
@@ -877,7 +877,7 @@
     "hp": "95",
     "cc": "1397",
     "engineCodes": "8FP (EP3C)",
-    "KBA_Numbers": "3001ALH  3001AIS"
+    "KBA_Numbers": "3001ALH, 3001AIS"
   },
   {
     "brand": "CITROËN",
@@ -888,7 +888,7 @@
     "hp": "95",
     "cc": "1397",
     "engineCodes": "8FR (EP3C)",
-    "KBA_Numbers": "3001APN  3001ATS"
+    "KBA_Numbers": "3001APN, 3001ATS"
   },
   {
     "brand": "CITROËN",
@@ -899,7 +899,7 @@
     "hp": "98",
     "cc": "1397",
     "engineCodes": "8FR (EP3C)",
-    "KBA_Numbers": "3001ALI  3001AIT"
+    "KBA_Numbers": "3001ALI, 3001AIT"
   },
   {
     "brand": "CITROËN",
@@ -943,7 +943,7 @@
     "hp": "112",
     "cc": "1560",
     "engineCodes": "9HR (DV6C)",
-    "KBA_Numbers": "3001ALN  3001AJG"
+    "KBA_Numbers": "3001ALN, 3001AJG"
   },
   {
     "brand": "CITROËN",
@@ -976,7 +976,7 @@
     "hp": "92",
     "cc": "1560",
     "engineCodes": "9HP (DV6DTED)",
-    "KBA_Numbers": "3001ALM  3001AJD"
+    "KBA_Numbers": "3001ALM, 3001AJD"
   },
   {
     "brand": "CITROËN",
@@ -1008,8 +1008,8 @@
     "kw": "110",
     "hp": "150",
     "cc": "1598",
-    "engineCodes": "5FN (EP6CDT)  5FX (EP6DT)",
-    "KBA_Numbers": "3001ALL  3001AJC"
+    "engineCodes": "5FN (EP6CDT), 5FX (EP6DT)",
+    "KBA_Numbers": "3001ALL, 3001AJC"
   },
   {
     "brand": "CITROËN",
@@ -1019,8 +1019,8 @@
     "kw": "115",
     "hp": "156",
     "cc": "1598",
-    "engineCodes": "5FR (EP6DT)  5FV (EP6CDT)",
-    "KBA_Numbers": "3001ALK  3001AJB"
+    "engineCodes": "5FR (EP6DT), 5FV (EP6CDT)",
+    "KBA_Numbers": "3001ALK, 3001AJB"
   },
   {
     "brand": "CITROËN",
@@ -1053,7 +1053,7 @@
     "hp": "120",
     "cc": "1598",
     "engineCodes": "5FS (EP6C)",
-    "KBA_Numbers": "3001ALJ  3001AIU"
+    "KBA_Numbers": "3001ALJ, 3001AIU"
   },
   {
     "brand": "CITROËN",
@@ -1206,7 +1206,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1199",
-    "engineCodes": "HNZ (EB2DT)  HNP (EB2ADT)",
+    "engineCodes": "HNZ (EB2DT), HNP (EB2ADT)",
     "KBA_Numbers": "3001ASX"
   },
   {
@@ -1228,7 +1228,7 @@
     "kw": "60",
     "hp": "82",
     "cc": "1199",
-    "engineCodes": "HMZ (EB2)  HMZ (EB2F)",
+    "engineCodes": "HMZ (EB2), HMZ (EB2F)",
     "KBA_Numbers": "3001ARU"
   },
   {
@@ -1239,7 +1239,7 @@
     "kw": "50",
     "hp": "68",
     "cc": "1398",
-    "engineCodes": "8HR (DV4C)  8HP (DV4C)",
+    "engineCodes": "8HR (DV4C), 8HP (DV4C)",
     "KBA_Numbers": ""
   },
   {
@@ -1327,7 +1327,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1199",
-    "engineCodes": "HNP (EB2ADT)  HNZ (EB2DT)",
+    "engineCodes": "HNP (EB2ADT), HNZ (EB2DT)",
     "KBA_Numbers": "3001ASY"
   },
   {
@@ -1415,8 +1415,8 @@
     "kw": "60",
     "hp": "82",
     "cc": "1199",
-    "engineCodes": "D 12 XE (EB2FA)  B 12 XE (EB2F)",
-    "KBA_Numbers": "0035BIZ  1844ADU"
+    "engineCodes": "D 12 XE (EB2FA), B 12 XE (EB2F)",
+    "KBA_Numbers": "0035BIZ, 1844ADU"
   },
   {
     "brand": "OPEL",
@@ -1426,8 +1426,8 @@
     "kw": "81",
     "hp": "110",
     "cc": "1199",
-    "engineCodes": "B 12 XHL (EB2DT)  D 12 XHL (EB2ADT)  F 12 XHL (EB2ADT)",
-    "KBA_Numbers": "0035BJA  1844AKH  1844ADT"
+    "engineCodes": "B 12 XHL (EB2DT), D 12 XHL (EB2ADT), F 12 XHL (EB2ADT)",
+    "KBA_Numbers": "0035BJA, 1844AKH, 1844ADT"
   },
   {
     "brand": "OPEL",
@@ -1437,8 +1437,8 @@
     "kw": "96",
     "hp": "131",
     "cc": "1199",
-    "engineCodes": "F 12 XHT (EB2ADTS)  D 12 XHT (EB2ADTS)  B 12 XHT (EB2DTS)",
-    "KBA_Numbers": "0035BJB  1844AKF  1844ADS"
+    "engineCodes": "F 12 XHT (EB2ADTS), D 12 XHT (EB2ADTS), B 12 XHT (EB2DTS)",
+    "KBA_Numbers": "0035BJB, 1844AKF, 1844ADS"
   },
   {
     "brand": "OPEL",
@@ -1460,7 +1460,7 @@
     "hp": "99",
     "cc": "1560",
     "engineCodes": "B 16 DT (DV6FD)",
-    "KBA_Numbers": "0035BJC  1844ADV"
+    "KBA_Numbers": "0035BJC, 1844ADV"
   },
   {
     "brand": "OPEL",
@@ -1471,7 +1471,7 @@
     "hp": "120",
     "cc": "1560",
     "engineCodes": "B 16 DTH (DV6FC)",
-    "KBA_Numbers": "0035BJE  1844ADW"
+    "KBA_Numbers": "0035BJE, 1844ADW"
   },
   {
     "brand": "PEUGEOT",
@@ -1481,7 +1481,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1199",
-    "engineCodes": "HNP (EB2ADT)  HNV (EB2DTM)  HNZ (EB2DT)",
+    "engineCodes": "HNP (EB2ADT), HNV (EB2DTM), HNZ (EB2DT)",
     "KBA_Numbers": "3003AVQ"
   },
   {
@@ -1492,7 +1492,7 @@
     "kw": "96",
     "hp": "130",
     "cc": "1199",
-    "engineCodes": "HNS (EB2ADTS)  HNY (EB2DTS)",
+    "engineCodes": "HNS (EB2ADTS), HNY (EB2DTS)",
     "KBA_Numbers": "3003AVR"
   },
   {
@@ -1503,7 +1503,7 @@
     "kw": "60",
     "hp": "82",
     "cc": "1199",
-    "engineCodes": "HMZ (EB2)  HMZ (EB2F)",
+    "engineCodes": "HMZ (EB2), HMZ (EB2F)",
     "KBA_Numbers": "3003ASU"
   },
   {
@@ -1613,7 +1613,7 @@
     "kw": "70",
     "hp": "95",
     "cc": "1397",
-    "engineCodes": "EP3C  EP3  8FS (EP3)",
+    "engineCodes": "EP3C, EP3, 8FS (EP3)",
     "KBA_Numbers": "3003AFS"
   },
   {
@@ -1635,8 +1635,8 @@
     "kw": "50",
     "hp": "68",
     "cc": "1398",
-    "engineCodes": "8HR (DV4C)  8HZ (DV4TD)",
-    "KBA_Numbers": "3003AJO  3003ACB"
+    "engineCodes": "8HR (DV4C), 8HZ (DV4TD)",
+    "KBA_Numbers": "3003AJO, 3003ACB"
   },
   {
     "brand": "PEUGEOT",
@@ -1701,7 +1701,7 @@
     "kw": "88",
     "hp": "120",
     "cc": "1598",
-    "engineCodes": "5FW (EP6)  5FS (EP6C)  EP6",
+    "engineCodes": "5FW (EP6), 5FS (EP6C), EP6",
     "KBA_Numbers": "3003ADQ"
   },
   {
@@ -1723,7 +1723,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1560",
-    "engineCodes": "9HV (DV6TED4B)  9HV (DV6TED4BU)  9HX (DV6ATED4)  9HV (DV6TED4)",
+    "engineCodes": "9HV (DV6TED4B), 9HV (DV6TED4BU), 9HX (DV6ATED4), 9HV (DV6TED4)",
     "KBA_Numbers": "3003ACC"
   },
   {
@@ -1734,7 +1734,7 @@
     "kw": "80",
     "hp": "109",
     "cc": "1560",
-    "engineCodes": "9HY (DV6TED4)  9HZ (DV6TED4)",
+    "engineCodes": "9HY (DV6TED4), 9HZ (DV6TED4)",
     "KBA_Numbers": "3003ACD"
   },
   {
@@ -1767,7 +1767,7 @@
     "kw": "88",
     "hp": "120",
     "cc": "1598",
-    "engineCodes": "5FS (EP6C)  5FW (EP6)  EP6",
+    "engineCodes": "5FS (EP6C), 5FW (EP6), EP6",
     "KBA_Numbers": "3003AEE"
   },
   {
@@ -1789,7 +1789,7 @@
     "kw": "115",
     "hp": "156",
     "cc": "1598",
-    "engineCodes": "5FR (EP6DT)  5FV (EP6CDT)",
+    "engineCodes": "5FR (EP6DT), 5FV (EP6CDT)",
     "KBA_Numbers": "3003AKV"
   },
   {
@@ -1855,7 +1855,7 @@
     "kw": "54",
     "hp": "73",
     "cc": "1360",
-    "engineCodes": "KFT (TU3A)  KFV (TU3A)",
+    "engineCodes": "KFT (TU3A), KFV (TU3A)",
     "KBA_Numbers": ""
   },
   {
@@ -1866,7 +1866,7 @@
     "kw": "54",
     "hp": "73",
     "cc": "1360",
-    "engineCodes": "KFV (TU3A)  KFT (TU3AE5)",
+    "engineCodes": "KFV (TU3A), KFT (TU3AE5)",
     "KBA_Numbers": "3003AFR"
   },
   {
@@ -1877,8 +1877,8 @@
     "kw": "70",
     "hp": "95",
     "cc": "1397",
-    "engineCodes": "8FS (EP3)  8FP (EP3C)",
-    "KBA_Numbers": "3003AFT  3003AJM"
+    "engineCodes": "8FS (EP3), 8FP (EP3C)",
+    "KBA_Numbers": "3003AFT, 3003AJM"
   },
   {
     "brand": "PEUGEOT",
@@ -1899,8 +1899,8 @@
     "kw": "88",
     "hp": "120",
     "cc": "1598",
-    "engineCodes": "5FW (EP6)  5FS (EP6C)  EP6",
-    "KBA_Numbers": "3003AFU  3003AJN"
+    "engineCodes": "5FW (EP6), 5FS (EP6C), EP6",
+    "KBA_Numbers": "3003AFU, 3003AJN"
   },
   {
     "brand": "PEUGEOT",
@@ -1932,8 +1932,8 @@
     "kw": "66",
     "hp": "90",
     "cc": "1560",
-    "engineCodes": "9HX (DV6ATED4)  9HV (DV6TED4B)  9HV (DV6TED4BU)  9HV (DV6TED4)",
-    "KBA_Numbers": "3003AFW  3003AJP"
+    "engineCodes": "9HX (DV6ATED4), 9HV (DV6TED4B), 9HV (DV6TED4BU), 9HV (DV6TED4)",
+    "KBA_Numbers": "3003AFW, 3003AJP"
   },
   {
     "brand": "PEUGEOT",
@@ -1944,7 +1944,7 @@
     "hp": "109",
     "cc": "1560",
     "engineCodes": "9HZ (DV6TED4)",
-    "KBA_Numbers": "3003AFX  3003AJQ"
+    "KBA_Numbers": "3003AFX, 3003AJQ"
   },
   {
     "brand": "PEUGEOT",
@@ -1955,7 +1955,7 @@
     "hp": "112",
     "cc": "1560",
     "engineCodes": "9HR (DV6C)",
-    "KBA_Numbers": "3003AKI  3003AKP"
+    "KBA_Numbers": "3003AKI, 3003AKP"
   },
   {
     "brand": "PEUGEOT",
@@ -2020,7 +2020,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1199",
-    "engineCodes": "HNP (EB2ADT)  HNV (EB2DTM)  HNZ (EB2DT)",
+    "engineCodes": "HNP (EB2ADT), HNV (EB2DTM), HNZ (EB2DT)",
     "KBA_Numbers": "3003AUK"
   },
   {
@@ -2031,7 +2031,7 @@
     "kw": "60",
     "hp": "82",
     "cc": "1199",
-    "engineCodes": "HMZ (EB2)  HMZ (EB2F)  HMR (EB2FA)",
+    "engineCodes": "HMZ (EB2), HMZ (EB2F), HMR (EB2FA)",
     "KBA_Numbers": "3003ARN"
   },
   {
@@ -2042,7 +2042,7 @@
     "kw": "50",
     "hp": "68",
     "cc": "1398",
-    "engineCodes": "8HR (DV4C)  8HP (DV4C)",
+    "engineCodes": "8HR (DV4C), 8HP (DV4C)",
     "KBA_Numbers": "3003ARG"
   },
   {
@@ -2053,7 +2053,7 @@
     "kw": "70",
     "hp": "95",
     "cc": "1397",
-    "engineCodes": "8FS (EP3)  8FN (EP3C)  8FP (EP3C)",
+    "engineCodes": "8FS (EP3), 8FN (EP3C), 8FP (EP3C)",
     "KBA_Numbers": "3003ARF"
   },
   {
@@ -2130,7 +2130,7 @@
     "kw": "68",
     "hp": "92",
     "cc": "1560",
-    "engineCodes": "9HJ (DV6DTEDM)  9HP (DV6DTED)",
+    "engineCodes": "9HJ (DV6DTEDM), 9HP (DV6DTED)",
     "KBA_Numbers": "3003ARH"
   },
   {
@@ -2163,7 +2163,7 @@
     "kw": "55",
     "hp": "75",
     "cc": "1560",
-    "engineCodes": "9HK (DV6ETEDM)  BHW (DV6FE)",
+    "engineCodes": "9HK (DV6ETEDM), BHW (DV6FE)",
     "KBA_Numbers": "3003AWG"
   },
   {
@@ -2208,7 +2208,7 @@
     "hp": "88",
     "cc": "1360",
     "engineCodes": "KFU (ET3J4)",
-    "KBA_Numbers": "3003AGH  3003116"
+    "KBA_Numbers": "3003AGH, 3003116"
   },
   {
     "brand": "PEUGEOT",
@@ -2230,7 +2230,7 @@
     "hp": "109",
     "cc": "1587",
     "engineCodes": "NFU (TU5JP4)",
-    "KBA_Numbers": "3003ADX  3003542"
+    "KBA_Numbers": "3003ADX, 3003542"
   },
   {
     "brand": "PEUGEOT",
@@ -2240,8 +2240,8 @@
     "kw": "66",
     "hp": "90",
     "cc": "1560",
-    "engineCodes": "9HV (DV6TED4BU)  9HV (DV6TED4B)  9HX (DV6ATED4)",
-    "KBA_Numbers": "3003ADS  3003AGR  3003900"
+    "engineCodes": "9HV (DV6TED4BU), 9HV (DV6TED4B), 9HX (DV6ATED4)",
+    "KBA_Numbers": "3003ADS, 3003AGR, 3003900"
   },
   {
     "brand": "PEUGEOT",
@@ -2251,8 +2251,8 @@
     "kw": "80",
     "hp": "109",
     "cc": "1560",
-    "engineCodes": "9HZ (DV6TED4)  9HY (DV6TED4)",
-    "KBA_Numbers": "3003AGJ  3003128  3003136"
+    "engineCodes": "9HZ (DV6TED4), 9HY (DV6TED4)",
+    "KBA_Numbers": "3003AGJ, 3003128, 3003136"
   },
   {
     "brand": "PEUGEOT",
@@ -2262,7 +2262,7 @@
     "kw": "105",
     "hp": "143",
     "cc": "1997",
-    "engineCodes": "RFJ (EW10A)  RFN (EW10J4)",
+    "engineCodes": "RFJ (EW10A), RFN (EW10J4)",
     "KBA_Numbers": ""
   },
   {
@@ -2274,7 +2274,7 @@
     "hp": "140",
     "cc": "1997",
     "engineCodes": "RFJ (EW10A)",
-    "KBA_Numbers": "3003AET  3003147"
+    "KBA_Numbers": "3003AET, 3003147"
   },
   {
     "brand": "PEUGEOT",
@@ -2285,7 +2285,7 @@
     "hp": "177",
     "cc": "1997",
     "engineCodes": "RFK (EW10J4S)",
-    "KBA_Numbers": "3003ABU  3003153"
+    "KBA_Numbers": "3003ABU, 3003153"
   },
   {
     "brand": "PEUGEOT",
@@ -2307,7 +2307,7 @@
     "hp": "136",
     "cc": "1997",
     "engineCodes": "RHR (DW10BTED4)",
-    "KBA_Numbers": "3003ABV  3003118"
+    "KBA_Numbers": "3003ABV, 3003118"
   },
   {
     "brand": "PEUGEOT",
@@ -2340,7 +2340,7 @@
     "hp": "109",
     "cc": "1587",
     "engineCodes": "NFU (TU5JP4)",
-    "KBA_Numbers": "3003AGV  3003569"
+    "KBA_Numbers": "3003AGV, 3003569"
   },
   {
     "brand": "PEUGEOT",
@@ -2350,8 +2350,8 @@
     "kw": "66",
     "hp": "90",
     "cc": "1560",
-    "engineCodes": "9HV (DV6TED4BU)  9HV (DV6TED4B)  9HX (DV6AUTED4)  9HX (DV6ATED4)",
-    "KBA_Numbers": "3003ADT  3003AGT  3003911  3003596"
+    "engineCodes": "9HV (DV6TED4BU), 9HV (DV6TED4B), 9HX (DV6AUTED4), 9HX (DV6ATED4)",
+    "KBA_Numbers": "3003ADT, 3003AGT, 3003911, 3003596"
   },
   {
     "brand": "PEUGEOT",
@@ -2361,8 +2361,8 @@
     "kw": "80",
     "hp": "109",
     "cc": "1560",
-    "engineCodes": "9HZ (DV6TED4)  9HY (DV6TED4)",
-    "KBA_Numbers": "3003AGK  3003AGL  3003128  3003129  3003137"
+    "engineCodes": "9HZ (DV6TED4), 9HY (DV6TED4)",
+    "KBA_Numbers": "3003AGK, 3003AGL, 3003128, 3003129, 3003137"
   },
   {
     "brand": "PEUGEOT",
@@ -2373,7 +2373,7 @@
     "hp": "140",
     "cc": "1997",
     "engineCodes": "RFJ (EW10A)",
-    "KBA_Numbers": "3003AER  3003AES  3003148"
+    "KBA_Numbers": "3003AER, 3003AES, 3003148"
   },
   {
     "brand": "PEUGEOT",
@@ -2395,7 +2395,7 @@
     "hp": "136",
     "cc": "1997",
     "engineCodes": "RHR (DW10BTED4)",
-    "KBA_Numbers": "3003ABX  3003119"
+    "KBA_Numbers": "3003ABX, 3003119"
   },
   {
     "brand": "PEUGEOT",
@@ -2417,7 +2417,7 @@
     "hp": "110",
     "cc": "1587",
     "engineCodes": "NFU (TU5JP4)",
-    "KBA_Numbers": "3003AGW  3003107"
+    "KBA_Numbers": "3003AGW, 3003107"
   },
   {
     "brand": "PEUGEOT",
@@ -2428,7 +2428,7 @@
     "hp": "177",
     "cc": "1997",
     "engineCodes": "RFK (EW10J4S)",
-    "KBA_Numbers": "3003110  3003AAW"
+    "KBA_Numbers": "3003110, 3003AAW"
   },
   {
     "brand": "PEUGEOT",
@@ -2439,7 +2439,7 @@
     "hp": "140",
     "cc": "1997",
     "engineCodes": "RFJ (EW10A)",
-    "KBA_Numbers": "3003AEU  3003149"
+    "KBA_Numbers": "3003AEU, 3003149"
   },
   {
     "brand": "PEUGEOT",
@@ -2472,7 +2472,7 @@
     "hp": "136",
     "cc": "1997",
     "engineCodes": "RHR (DW10BTED4)",
-    "KBA_Numbers": "3003ABW  3003165"
+    "KBA_Numbers": "3003ABW, 3003165"
   },
   {
     "brand": "PEUGEOT",
@@ -2483,7 +2483,7 @@
     "hp": "88",
     "cc": "1360",
     "engineCodes": "KFU (ET3J4)",
-    "KBA_Numbers": "3003AGI  3003117"
+    "KBA_Numbers": "3003AGI, 3003117"
   },
   {
     "brand": "PEUGEOT",
@@ -2494,7 +2494,7 @@
     "hp": "109",
     "cc": "1587",
     "engineCodes": "NFU (TU5JP4)",
-    "KBA_Numbers": "3003ADY  3003569"
+    "KBA_Numbers": "3003ADY, 3003569"
   },
   {
     "brand": "PEUGEOT",
@@ -2504,8 +2504,8 @@
     "kw": "80",
     "hp": "109",
     "cc": "1560",
-    "engineCodes": "9HY (DV6TED4)  9HZ (DV6TED4)",
-    "KBA_Numbers": "3003AGK  3003AGL  3003129  3003137"
+    "engineCodes": "9HY (DV6TED4), 9HZ (DV6TED4)",
+    "KBA_Numbers": "3003AGK, 3003AGL, 3003129, 3003137"
   },
   {
     "brand": "PEUGEOT",
@@ -2515,8 +2515,8 @@
     "kw": "66",
     "hp": "90",
     "cc": "1560",
-    "engineCodes": "9HV (DV6TED4BU)  9HX (DV6AUTED4)  9HV (DV6TED4B)  9HX (DV6ATED4)",
-    "KBA_Numbers": "3003ADU  3003AGU  3003595"
+    "engineCodes": "9HV (DV6TED4BU), 9HX (DV6AUTED4), 9HV (DV6TED4B), 9HX (DV6ATED4)",
+    "KBA_Numbers": "3003ADU, 3003AGU, 3003595"
   },
   {
     "brand": "PEUGEOT",
@@ -2527,7 +2527,7 @@
     "hp": "140",
     "cc": "1997",
     "engineCodes": "RFJ (EW10A)",
-    "KBA_Numbers": "3003AER  3003AES  3003148"
+    "KBA_Numbers": "3003AER, 3003AES, 3003148"
   },
   {
     "brand": "PEUGEOT",
@@ -2570,7 +2570,7 @@
     "kw": "61",
     "hp": "83",
     "cc": "1199",
-    "engineCodes": "B 12 XE (EB2F)  D 12 XE (EB2FA)  F 12 XE (EB2FA)",
+    "engineCodes": "B 12 XE (EB2F), D 12 XE (EB2FA), F 12 XE (EB2FA)",
     "KBA_Numbers": ""
   },
   {
@@ -2581,7 +2581,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1199",
-    "engineCodes": "D 12 XHL (EB2ADT)  B 12 XHT (EB2DTS)  B 12 XHL (EB2DT)  F 12 XHL (EB2ADT)",
+    "engineCodes": "D 12 XHL (EB2ADT), B 12 XHT (EB2DTS), B 12 XHL (EB2DT), F 12 XHL (EB2ADT)",
     "KBA_Numbers": ""
   },
   {
@@ -2592,7 +2592,7 @@
     "kw": "96",
     "hp": "131",
     "cc": "1199",
-    "engineCodes": "D 12 XHT (EB2ADTS)  B 12 XHT (EB2DTS)  F 12 XHT (EB2ADTS)",
+    "engineCodes": "D 12 XHT (EB2ADTS), B 12 XHT (EB2DTS), F 12 XHT (EB2ADTS)",
     "KBA_Numbers": ""
   },
   {

@@ -7,7 +7,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1199",
-    "engineCodes": "HNP (EB2ADT)  HNV (EB2DTM)  HNZ (EB2DT)",
+    "engineCodes": "HNP (EB2ADT), HNV (EB2DTM), HNZ (EB2DT)",
     "KBA_Numbers": "3003ATU"
   },
   {
@@ -18,7 +18,7 @@
     "kw": "96",
     "hp": "131",
     "cc": "1199",
-    "engineCodes": "HNY (EB2DTS)  HNS (EB2ADTS)",
+    "engineCodes": "HNY (EB2DTS), HNS (EB2ADTS)",
     "KBA_Numbers": "3003ATI"
   },
   {
@@ -95,7 +95,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "1560",
-    "engineCodes": "9HC (DV6C)  BHZ (DV6FC)  BHX (DV6FC)",
+    "engineCodes": "9HC (DV6C), BHZ (DV6FC), BHX (DV6FC)",
     "KBA_Numbers": "3003ATD"
   },
   {
@@ -161,8 +161,8 @@
     "kw": "110",
     "hp": "150",
     "cc": "1997",
-    "engineCodes": "AHX (DW10FCD)  AHX (DW10FD)",
-    "KBA_Numbers": "3003ATL  3003AVY"
+    "engineCodes": "AHX (DW10FCD), AHX (DW10FD)",
+    "KBA_Numbers": "3003ATL, 3003AVY"
   },
   {
     "brand": "PEUGEOT",
@@ -183,7 +183,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1199",
-    "engineCodes": "HNZ (EB2DT)  HNV (EB2DTM)  HNP (EB2ADT)",
+    "engineCodes": "HNZ (EB2DT), HNV (EB2DTM), HNP (EB2ADT)",
     "KBA_Numbers": "3003ATV"
   },
   {
@@ -194,7 +194,7 @@
     "kw": "96",
     "hp": "131",
     "cc": "1199",
-    "engineCodes": "HNY (EB2DTS)  HNS (EB2ADTS)",
+    "engineCodes": "HNY (EB2DTS), HNS (EB2ADTS)",
     "KBA_Numbers": "3003ATM"
   },
   {
@@ -249,7 +249,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "1560",
-    "engineCodes": "9HC (DV6C)  BHZ (DV6FC)  BHX (DV6FC)",
+    "engineCodes": "9HC (DV6C), BHZ (DV6FC), BHX (DV6FC)",
     "KBA_Numbers": "3003ATR"
   },
   {
@@ -315,8 +315,8 @@
     "kw": "110",
     "hp": "150",
     "cc": "1997",
-    "engineCodes": "AHX (DW10FCD)  AHR (DW10FD)",
-    "KBA_Numbers": "3003ATT  3003AVZ"
+    "engineCodes": "AHX (DW10FCD), AHR (DW10FD)",
+    "KBA_Numbers": "3003ATT, 3003AVZ"
   },
   {
     "brand": "PEUGEOT",

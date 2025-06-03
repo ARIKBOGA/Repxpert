@@ -7,7 +7,7 @@
     "kw": "107",
     "hp": "145",
     "cc": "2933",
-    "engineCodes": "BRD  BRE  BRF",
+    "engineCodes": "BRD, BRE, BRF",
     "KBA_Numbers": "0928651"
   },
   {
@@ -41,7 +41,7 @@
     "hp": "145",
     "cc": "2933",
     "engineCodes": "BRE",
-    "KBA_Numbers": "0928757  0928733"
+    "KBA_Numbers": "0928757, 0928733"
   },
   {
     "brand": "FORD",
@@ -51,7 +51,7 @@
     "kw": "107",
     "hp": "145",
     "cc": "2933",
-    "engineCodes": "BRD  BRF  BRE",
+    "engineCodes": "BRD, BRF, BRE",
     "KBA_Numbers": "0928758"
   },
   {
@@ -84,7 +84,7 @@
     "kw": "107",
     "hp": "145",
     "cc": "2933",
-    "engineCodes": "BRD  BRF  BRE",
+    "engineCodes": "BRD, BRF, BRE",
     "KBA_Numbers": "0928818"
   },
   {
@@ -106,7 +106,7 @@
     "kw": "55",
     "hp": "75",
     "cc": "1593",
-    "engineCodes": "LSD  LCT  LCS",
+    "engineCodes": "LSD, LCT, LCS",
     "KBA_Numbers": "0928560"
   },
   {
@@ -128,7 +128,7 @@
     "kw": "55",
     "hp": "75",
     "cc": "1593",
-    "engineCodes": "LSD  LCT  LCS",
+    "engineCodes": "LSD, LCT, LCS",
     "KBA_Numbers": "0928565"
   }
 ]

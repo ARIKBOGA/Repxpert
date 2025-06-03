@@ -7,7 +7,7 @@
     "kw": "118",
     "hp": "160",
     "cc": "1596",
-    "engineCodes": "JTBB  JTBA",
+    "engineCodes": "JTBB, JTBA",
     "KBA_Numbers": "8566AWY"
   },
   {
@@ -18,7 +18,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "1560",
-    "engineCodes": "T1BC  T1BB  T1BA",
+    "engineCodes": "T1BC, T1BB, T1BA",
     "KBA_Numbers": "8566AXJ"
   },
   {
@@ -73,7 +73,7 @@
     "kw": "92",
     "hp": "125",
     "cc": "1753",
-    "engineCodes": "KHBA  QYBA",
+    "engineCodes": "KHBA, QYBA",
     "KBA_Numbers": "8566ALL"
   },
   {
@@ -84,7 +84,7 @@
     "kw": "107",
     "hp": "145",
     "cc": "1999",
-    "engineCodes": "TBBA  AOBA  AOBC  TBBB",
+    "engineCodes": "TBBA, AOBA, AOBC, TBBB",
     "KBA_Numbers": "8566ALI"
   },
   {
@@ -106,7 +106,7 @@
     "kw": "107",
     "hp": "145",
     "cc": "1999",
-    "engineCodes": "TBBA  TBBB",
+    "engineCodes": "TBBA, TBBB",
     "KBA_Numbers": "8566AQZ"
   },
   {
@@ -117,7 +117,7 @@
     "kw": "107",
     "hp": "145",
     "cc": "1999",
-    "engineCodes": "TBBA  TBBB",
+    "engineCodes": "TBBA, TBBB",
     "KBA_Numbers": "8566AQS"
   },
   {
@@ -150,7 +150,7 @@
     "kw": "100",
     "hp": "136",
     "cc": "1997",
-    "engineCodes": "AZBC  UKBB  UKBA",
+    "engineCodes": "AZBC, UKBB, UKBA",
     "KBA_Numbers": "8566APX"
   },
   {
@@ -161,7 +161,7 @@
     "kw": "103",
     "hp": "140",
     "cc": "1997",
-    "engineCodes": "UFBB  QXBB  QXBA  UFBA",
+    "engineCodes": "UFBB, QXBB, QXBA, UFBA",
     "KBA_Numbers": "8566ALH"
   },
   {
@@ -172,7 +172,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "1997",
-    "engineCodes": "KLBA  LPBA  TYBA",
+    "engineCodes": "KLBA, LPBA, TYBA",
     "KBA_Numbers": "8566AMN"
   },
   {
@@ -183,7 +183,7 @@
     "kw": "120",
     "hp": "163",
     "cc": "1997",
-    "engineCodes": "TXBB  TXBA",
+    "engineCodes": "TXBB, TXBA",
     "KBA_Numbers": "8566ATC"
   },
   {
@@ -238,7 +238,7 @@
     "kw": "118",
     "hp": "160",
     "cc": "1596",
-    "engineCodes": "JTBB  JTBA",
+    "engineCodes": "JTBB, JTBA",
     "KBA_Numbers": "8566AWX"
   },
   {
@@ -249,7 +249,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "1560",
-    "engineCodes": "T1BC  T1BB  T1BA",
+    "engineCodes": "T1BC, T1BB, T1BA",
     "KBA_Numbers": "8566AXI"
   },
   {
@@ -304,7 +304,7 @@
     "kw": "92",
     "hp": "125",
     "cc": "1753",
-    "engineCodes": "KHBA  QYBA",
+    "engineCodes": "KHBA, QYBA",
     "KBA_Numbers": "8566ALU"
   },
   {
@@ -315,7 +315,7 @@
     "kw": "107",
     "hp": "145",
     "cc": "1999",
-    "engineCodes": "TBBA  AOBA  AOBC  TBBB",
+    "engineCodes": "TBBA, AOBA, AOBC, TBBB",
     "KBA_Numbers": "8566AMA"
   },
   {
@@ -337,7 +337,7 @@
     "kw": "107",
     "hp": "145",
     "cc": "1999",
-    "engineCodes": "TBBB  TBBA",
+    "engineCodes": "TBBB, TBBA",
     "KBA_Numbers": "8566ARA"
   },
   {
@@ -348,7 +348,7 @@
     "kw": "107",
     "hp": "145",
     "cc": "1999",
-    "engineCodes": "TBBA  TBBB",
+    "engineCodes": "TBBA, TBBB",
     "KBA_Numbers": "8566AQR"
   },
   {
@@ -381,7 +381,7 @@
     "kw": "103",
     "hp": "140",
     "cc": "1997",
-    "engineCodes": "UFBB  QXBB  QXBA  UFBA",
+    "engineCodes": "UFBB, QXBB, QXBA, UFBA",
     "KBA_Numbers": "8566ALY"
   },
   {
@@ -392,7 +392,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "1997",
-    "engineCodes": "KLBA  LPBA  TYBA",
+    "engineCodes": "KLBA, LPBA, TYBA",
     "KBA_Numbers": "8566AMM"
   },
   {
@@ -403,7 +403,7 @@
     "kw": "100",
     "hp": "136",
     "cc": "1997",
-    "engineCodes": "UKBB  UKBA  AZBC",
+    "engineCodes": "UKBB, UKBA, AZBC",
     "KBA_Numbers": "8566APY"
   },
   {
@@ -414,7 +414,7 @@
     "kw": "120",
     "hp": "163",
     "cc": "1997",
-    "engineCodes": "TXBA  TXBB",
+    "engineCodes": "TXBA, TXBB",
     "KBA_Numbers": "8566ATB"
   },
   {
@@ -469,7 +469,7 @@
     "kw": "118",
     "hp": "160",
     "cc": "1596",
-    "engineCodes": "JTBB  JTBA",
+    "engineCodes": "JTBB, JTBA",
     "KBA_Numbers": "8566AWZ"
   },
   {
@@ -480,7 +480,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "1560",
-    "engineCodes": "T1BC  T1BA  T1BB",
+    "engineCodes": "T1BC, T1BA, T1BB",
     "KBA_Numbers": "8566AXK"
   },
   {
@@ -535,7 +535,7 @@
     "kw": "92",
     "hp": "125",
     "cc": "1753",
-    "engineCodes": "QYBA  KHBA",
+    "engineCodes": "QYBA, KHBA",
     "KBA_Numbers": "8566ALV"
   },
   {
@@ -546,7 +546,7 @@
     "kw": "107",
     "hp": "145",
     "cc": "1999",
-    "engineCodes": "TBBA  AOBA  AOBC  TBBB",
+    "engineCodes": "TBBA, AOBA, AOBC, TBBB",
     "KBA_Numbers": "8566AMB"
   },
   {
@@ -568,7 +568,7 @@
     "kw": "107",
     "hp": "145",
     "cc": "1999",
-    "engineCodes": "TBBA  TBBB",
+    "engineCodes": "TBBA, TBBB",
     "KBA_Numbers": "8566ARB"
   },
   {
@@ -579,7 +579,7 @@
     "kw": "107",
     "hp": "145",
     "cc": "1999",
-    "engineCodes": "TBBA  TBBB",
+    "engineCodes": "TBBA, TBBB",
     "KBA_Numbers": "8566AQT"
   },
   {
@@ -612,7 +612,7 @@
     "kw": "100",
     "hp": "136",
     "cc": "1997",
-    "engineCodes": "UKBB  UKBA  AZBC",
+    "engineCodes": "UKBB, UKBA, AZBC",
     "KBA_Numbers": "8566APZ"
   },
   {
@@ -623,7 +623,7 @@
     "kw": "103",
     "hp": "140",
     "cc": "1997",
-    "engineCodes": "UFBB  QXBB  QXBA  UFBA",
+    "engineCodes": "UFBB, QXBB, QXBA, UFBA",
     "KBA_Numbers": "8566ALZ"
   },
   {
@@ -634,7 +634,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "1997",
-    "engineCodes": "KLBA  TYBA  LPBA",
+    "engineCodes": "KLBA, TYBA, LPBA",
     "KBA_Numbers": "8566AMO"
   },
   {
@@ -645,7 +645,7 @@
     "kw": "120",
     "hp": "163",
     "cc": "1997",
-    "engineCodes": "TXBA  TXBB",
+    "engineCodes": "TXBA, TXBB",
     "KBA_Numbers": "8566ATD"
   },
   {
@@ -711,7 +711,7 @@
     "kw": "103",
     "hp": "140",
     "cc": "1997",
-    "engineCodes": "QXBB  UFBA  UFBB",
+    "engineCodes": "QXBB, UFBA, UFBB",
     "KBA_Numbers": ""
   }
 ]

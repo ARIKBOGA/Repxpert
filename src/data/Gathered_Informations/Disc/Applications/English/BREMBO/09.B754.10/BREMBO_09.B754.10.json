@@ -14,7 +14,7 @@
     "brand": "MINI",
     "model": "MINI (R56)",
     "engineType": "Cooper S John Cooper Works",
-    "madeYear": "01.2012 - 11.2013",
+    "madeYear": "10.2011 - 11.2013",
     "kw": "147",
     "hp": "200",
     "cc": "1598",
@@ -29,8 +29,8 @@
     "kw": "155",
     "hp": "211",
     "cc": "1598",
-    "engineCodes": "N18 B16 C  N14 B16 C",
-    "KBA_Numbers": "0005AMY  0005AUC"
+    "engineCodes": "N18 B16 C, N14 B16 C",
+    "KBA_Numbers": "0005AMY, 0005AUC"
   },
   {
     "brand": "MINI",
@@ -40,7 +40,7 @@
     "kw": "160",
     "hp": "218",
     "cc": "1598",
-    "engineCodes": "N14 B16 C  N18 B16 C",
+    "engineCodes": "N14 B16 C, N18 B16 C",
     "KBA_Numbers": "0005BMV"
   },
   {
@@ -73,8 +73,8 @@
     "kw": "155",
     "hp": "211",
     "cc": "1598",
-    "engineCodes": "N18 B16 C  N14 B16 C",
-    "KBA_Numbers": "0005AMZ  0005ATO"
+    "engineCodes": "N18 B16 C, N14 B16 C",
+    "KBA_Numbers": "0005AMZ, 0005ATO"
   },
   {
     "brand": "MINI",
@@ -95,8 +95,8 @@
     "kw": "155",
     "hp": "211",
     "cc": "1598",
-    "engineCodes": "N18 B16 C  N14 B16 C",
-    "KBA_Numbers": "0005ATW  0005AOK"
+    "engineCodes": "N18 B16 C, N14 B16 C",
+    "KBA_Numbers": "0005ATW, 0005AOK"
   },
   {
     "brand": "MINI",
@@ -117,7 +117,7 @@
     "kw": "155",
     "hp": "211",
     "cc": "1598",
-    "engineCodes": "N18 B16 C  N14 B16 C",
+    "engineCodes": "N18 B16 C, N14 B16 C",
     "KBA_Numbers": "0005BEE"
   },
   {
@@ -128,7 +128,7 @@
     "kw": "155",
     "hp": "211",
     "cc": "1598",
-    "engineCodes": "N18 B16 C  N14 B16 C",
+    "engineCodes": "N18 B16 C, N14 B16 C",
     "KBA_Numbers": "0005ATW"
   }
 ]

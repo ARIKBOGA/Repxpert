@@ -30,7 +30,7 @@
     "hp": "136",
     "cc": "1798",
     "engineCodes": "2ZR-FXE",
-    "KBA_Numbers": "5013AHX  5013ALP"
+    "KBA_Numbers": "5013AHX, 5013ALP"
   },
   {
     "brand": "TOYOTA",
@@ -117,8 +117,8 @@
     "kw": "113",
     "hp": "154",
     "cc": "4JM",
-    "engineCodes": "5013AJZ",
-    "KBA_Numbers": ""
+    "engineCodes": "4JM",
+    "KBA_Numbers": "5013AJZ"
   },
   {
     "brand": "TOYOTA",
@@ -129,7 +129,7 @@
     "hp": "136",
     "cc": "1798",
     "engineCodes": "2ZR-FXE",
-    "KBA_Numbers": "5013AHU  5013AIN  5013ANO"
+    "KBA_Numbers": "5013AHU, 5013AIN, 5013ANO"
   },
   {
     "brand": "TOYOTA",
@@ -151,7 +151,7 @@
     "hp": "152",
     "cc": "1998",
     "engineCodes": "1AZ-FE",
-    "KBA_Numbers": "5048AAI  5013ACH"
+    "KBA_Numbers": "5048AAI, 5013ACH"
   },
   {
     "brand": "TOYOTA",
@@ -172,7 +172,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "2231",
-    "engineCodes": "2AD-FHV  2AD-FTV",
+    "engineCodes": "2AD-FHV, 2AD-FTV",
     "KBA_Numbers": "5013AGD"
   },
   {
@@ -195,7 +195,7 @@
     "hp": "136",
     "cc": "2231",
     "engineCodes": "2AD-FTV",
-    "KBA_Numbers": "5048AAH  5013ACG"
+    "KBA_Numbers": "5048AAH, 5013ACG"
   },
   {
     "brand": "TOYOTA",
@@ -206,7 +206,7 @@
     "hp": "177",
     "cc": "2231",
     "engineCodes": "2AD-FHV",
-    "KBA_Numbers": "5048AAG  5013ACF"
+    "KBA_Numbers": "5048AAG, 5013ACF"
   },
   {
     "brand": "TOYOTA",
@@ -216,7 +216,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "2231",
-    "engineCodes": "2AD-FHV  2AD-FTV",
+    "engineCodes": "2AD-FHV, 2AD-FTV",
     "KBA_Numbers": "5013AEY"
   },
   {
@@ -283,7 +283,7 @@
     "hp": "151",
     "cc": "1987",
     "engineCodes": "3ZR-FAE",
-    "KBA_Numbers": "5013AJR  5013AMI"
+    "KBA_Numbers": "5013AJR, 5013AMI"
   },
   {
     "brand": "TOYOTA",
@@ -337,7 +337,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "2231",
-    "engineCodes": "2AD-FHV  2AD-FTV",
+    "engineCodes": "2AD-FHV, 2AD-FTV",
     "KBA_Numbers": "5013AIH"
   },
   {
@@ -371,7 +371,7 @@
     "hp": "197",
     "cc": "2494",
     "engineCodes": "2AR-FXE",
-    "KBA_Numbers": "5013AME  5013AKH"
+    "KBA_Numbers": "5013AME, 5013AKH"
   },
   {
     "brand": "TOYOTA",
@@ -382,7 +382,7 @@
     "hp": "197",
     "cc": "2494",
     "engineCodes": "2AR-FXE",
-    "KBA_Numbers": "5013AMF  5013AKI"
+    "KBA_Numbers": "5013AMF, 5013AKI"
   },
   {
     "brand": "TOYOTA",

@@ -7,7 +7,7 @@
     "kw": "140",
     "hp": "190",
     "cc": "1968",
-    "engineCodes": "DFVA  DETA  DESA",
+    "engineCodes": "DFVA, DETA, DESA",
     "KBA_Numbers": "0588BHA"
   },
   {
@@ -51,7 +51,7 @@
     "kw": "185",
     "hp": "252",
     "cc": "1984",
-    "engineCodes": "CYRB  CYMC  DLHB",
+    "engineCodes": "CYRB, CYMC, DLHB",
     "KBA_Numbers": "0588BHD"
   },
   {
@@ -63,7 +63,7 @@
     "hp": "249",
     "cc": "1984",
     "engineCodes": "CYRC",
-    "KBA_Numbers": "0588BIN  0588BIM"
+    "KBA_Numbers": "0588BIN, 0588BIM"
   },
   {
     "brand": "AUDI",
@@ -161,7 +161,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1968",
-    "engineCodes": "DEUA  CZHA",
+    "engineCodes": "DEUA, CZHA",
     "KBA_Numbers": "0588BFL"
   },
   {
@@ -172,7 +172,7 @@
     "kw": "140",
     "hp": "190",
     "cc": "1968",
-    "engineCodes": "DFVA  DETA  DESA",
+    "engineCodes": "DFVA, DETA, DESA",
     "KBA_Numbers": "0588BFM"
   },
   {
@@ -194,7 +194,7 @@
     "kw": "140",
     "hp": "190",
     "cc": "1968",
-    "engineCodes": "DFVA  DESA  DETA",
+    "engineCodes": "DFVA, DESA, DETA",
     "KBA_Numbers": "0588BFN"
   },
   {
@@ -227,7 +227,7 @@
     "kw": "140",
     "hp": "190",
     "cc": "1984",
-    "engineCodes": "CVKB  DBPA",
+    "engineCodes": "CVKB, DBPA",
     "KBA_Numbers": "0588BFI"
   },
   {
@@ -238,7 +238,7 @@
     "kw": "185",
     "hp": "252",
     "cc": "1984",
-    "engineCodes": "CYMC  CYRB",
+    "engineCodes": "CYMC, CYRB",
     "KBA_Numbers": "0588BFJ"
   },
   {
@@ -260,7 +260,7 @@
     "kw": "185",
     "hp": "252",
     "cc": "1984",
-    "engineCodes": "CYRB  CYMC",
+    "engineCodes": "CYRB, CYMC",
     "KBA_Numbers": "0588BFK"
   },
   {
@@ -337,7 +337,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1984",
-    "engineCodes": "DLVB  DMSB  CVKC",
+    "engineCodes": "DLVB, DMSB, CVKC",
     "KBA_Numbers": "0588BNR"
   },
   {
@@ -348,7 +348,7 @@
     "kw": "140",
     "hp": "190",
     "cc": "1968",
-    "engineCodes": "DETA  DESA",
+    "engineCodes": "DETA, DESA",
     "KBA_Numbers": "0588BFM"
   },
   {
@@ -381,7 +381,7 @@
     "kw": "140",
     "hp": "190",
     "cc": "1984",
-    "engineCodes": "DEMA  DKYA  DLVA",
+    "engineCodes": "DEMA, DKYA, DLVA",
     "KBA_Numbers": "0588BMQ"
   },
   {
@@ -442,7 +442,7 @@
   {
     "brand": "AUDI",
     "model": "A4 B9 (8W2, 8WC) | A4 / S4",
-    "engineType": "S4 quattro",
+    "engineType": "S4 TFSi quattro",
     "madeYear": "from 09.2016",
     "kw": "260",
     "hp": "354",
@@ -459,7 +459,7 @@
     "hp": "150",
     "cc": "1395",
     "engineCodes": "CVNA",
-    "KBA_Numbers": "0588BIG  0588BFR"
+    "KBA_Numbers": "0588BIG, 0588BFR"
   },
   {
     "brand": "AUDI",
@@ -480,7 +480,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1968",
-    "engineCodes": "DEUA  CZHA",
+    "engineCodes": "DEUA, CZHA",
     "KBA_Numbers": "0588BFU"
   },
   {
@@ -491,7 +491,7 @@
     "kw": "140",
     "hp": "190",
     "cc": "1968",
-    "engineCodes": "DFVA  DETA  DESA",
+    "engineCodes": "DFVA, DETA, DESA",
     "KBA_Numbers": "0588BFV"
   },
   {
@@ -503,7 +503,7 @@
     "hp": "122",
     "cc": "1968",
     "engineCodes": "DEUC",
-    "KBA_Numbers": "0588BIL  0588BHO"
+    "KBA_Numbers": "0588BIL, 0588BHO"
   },
   {
     "brand": "AUDI",
@@ -513,7 +513,7 @@
     "kw": "140",
     "hp": "190",
     "cc": "1968",
-    "engineCodes": "DFVA  DETA  DESA",
+    "engineCodes": "DFVA, DETA, DESA",
     "KBA_Numbers": "0588BFW"
   },
   {
@@ -546,8 +546,8 @@
     "kw": "140",
     "hp": "190",
     "cc": "1984",
-    "engineCodes": "CVKB  DKYA  DBPA",
-    "KBA_Numbers": "0588BFS  0588BGY"
+    "engineCodes": "CVKB, DKYA, DBPA",
+    "KBA_Numbers": "0588BFS, 0588BGY"
   },
   {
     "brand": "AUDI",
@@ -558,7 +558,7 @@
     "hp": "249",
     "cc": "1984",
     "engineCodes": "CYRC",
-    "KBA_Numbers": "0588BKB  0588BLE"
+    "KBA_Numbers": "0588BKB, 0588BLE"
   },
   {
     "brand": "AUDI",
@@ -568,8 +568,8 @@
     "kw": "185",
     "hp": "252",
     "cc": "1984",
-    "engineCodes": "CYRB  CYMC",
-    "KBA_Numbers": "0588BKC  0588BHP"
+    "engineCodes": "CYRB, CYMC",
+    "KBA_Numbers": "0588BKC, 0588BHP"
   },
   {
     "brand": "AUDI",
@@ -580,7 +580,7 @@
     "hp": "170",
     "cc": "1984",
     "engineCodes": "CVLA",
-    "KBA_Numbers": "0588BQP  0588BIU"
+    "KBA_Numbers": "0588BQP, 0588BIU"
   },
   {
     "brand": "AUDI",
@@ -590,8 +590,8 @@
     "kw": "185",
     "hp": "252",
     "cc": "1984",
-    "engineCodes": "CYRB  CYMC",
-    "KBA_Numbers": "0588BFT  0588BGZ"
+    "engineCodes": "CYRB, CYMC",
+    "KBA_Numbers": "0588BFT, 0588BGZ"
   },
   {
     "brand": "AUDI",
@@ -613,7 +613,7 @@
     "hp": "218",
     "cc": "2967",
     "engineCodes": "CSWB",
-    "KBA_Numbers": "0588BFX  0588BHK"
+    "KBA_Numbers": "0588BFX, 0588BHK"
   },
   {
     "brand": "AUDI",
@@ -624,7 +624,7 @@
     "hp": "272",
     "cc": "2967",
     "engineCodes": "CRTC",
-    "KBA_Numbers": "0588BFZ  0588BGX"
+    "KBA_Numbers": "0588BFZ, 0588BGX"
   },
   {
     "brand": "AUDI",
@@ -646,7 +646,7 @@
     "hp": "122",
     "cc": "1968",
     "engineCodes": "DEUC",
-    "KBA_Numbers": "0588BIL  0588BHO"
+    "KBA_Numbers": "0588BIL, 0588BHO"
   },
   {
     "brand": "AUDI",
@@ -667,7 +667,7 @@
     "kw": "140",
     "hp": "190",
     "cc": "1968",
-    "engineCodes": "DETA  DESA",
+    "engineCodes": "DETA, DESA",
     "KBA_Numbers": "0588BFV"
   },
   {
@@ -722,8 +722,8 @@
     "kw": "125",
     "hp": "170",
     "cc": "1984",
-    "engineCodes": "CVLA  DRXA",
-    "KBA_Numbers": "0588BQP  0588BIU"
+    "engineCodes": "CVLA, DRXA",
+    "KBA_Numbers": "0588BQP, 0588BIU"
   },
   {
     "brand": "AUDI",
@@ -733,8 +733,8 @@
     "kw": "140",
     "hp": "190",
     "cc": "1984",
-    "engineCodes": "DLVA  DEMA  DKYA",
-    "KBA_Numbers": "0588BMN  0588BMS"
+    "engineCodes": "DLVA, DEMA, DKYA",
+    "KBA_Numbers": "0588BMN, 0588BMS"
   },
   {
     "brand": "AUDI",
@@ -810,7 +810,7 @@
     "kw": "140",
     "hp": "190",
     "cc": "1968",
-    "engineCodes": "DETA  DESA",
+    "engineCodes": "DETA, DESA",
     "KBA_Numbers": "0588BIX"
   },
   {
@@ -821,7 +821,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1968",
-    "engineCodes": "CZHA  DEUA",
+    "engineCodes": "CZHA, DEUA",
     "KBA_Numbers": "0588BLR"
   },
   {
@@ -832,7 +832,7 @@
     "kw": "140",
     "hp": "190",
     "cc": "1968",
-    "engineCodes": "DETA  DESA",
+    "engineCodes": "DETA, DESA",
     "KBA_Numbers": "0588BIY"
   },
   {
@@ -843,7 +843,7 @@
     "kw": "140",
     "hp": "190",
     "cc": "1984",
-    "engineCodes": "CVKB  DKYA",
+    "engineCodes": "CVKB, DKYA",
     "KBA_Numbers": "0588BIV"
   },
   {
@@ -876,7 +876,7 @@
     "kw": "185",
     "hp": "252",
     "cc": "1984",
-    "engineCodes": "CYRB  CYMC  DLHB",
+    "engineCodes": "CYRB, CYMC, DLHB",
     "KBA_Numbers": "0588BIW"
   },
   {
@@ -931,7 +931,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1968",
-    "engineCodes": "DEUA  CZHA",
+    "engineCodes": "DEUA, CZHA",
     "KBA_Numbers": "0588BLR"
   },
   {
@@ -942,7 +942,7 @@
     "kw": "140",
     "hp": "190",
     "cc": "1968",
-    "engineCodes": "DESA  DETA",
+    "engineCodes": "DESA, DETA",
     "KBA_Numbers": "0588BIX"
   },
   {
@@ -986,7 +986,7 @@
     "kw": "140",
     "hp": "190",
     "cc": "1984",
-    "engineCodes": "DLVA  DEMA  DHDA  DKYA",
+    "engineCodes": "DLVA, DEMA, DHDA, DKYA",
     "KBA_Numbers": "0588BMO"
   },
   {
@@ -1107,7 +1107,7 @@
     "kw": "140",
     "hp": "190",
     "cc": "1984",
-    "engineCodes": "CVKB  DKYA",
+    "engineCodes": "CVKB, DKYA",
     "KBA_Numbers": "0588BKJ"
   },
   {
@@ -1129,7 +1129,7 @@
     "kw": "185",
     "hp": "252",
     "cc": "1984",
-    "engineCodes": "CYRB  CYMC  DLHB",
+    "engineCodes": "CYRB, CYMC, DLHB",
     "KBA_Numbers": "0588BKQ"
   },
   {
@@ -1228,7 +1228,7 @@
     "kw": "140",
     "hp": "190",
     "cc": "1984",
-    "engineCodes": "DLVA  DEMA  DKYA",
+    "engineCodes": "DLVA, DEMA, DKYA",
     "KBA_Numbers": "0588BMP"
   },
   {
@@ -1316,7 +1316,7 @@
     "kw": "140",
     "hp": "190",
     "cc": "1968",
-    "engineCodes": "DETA  DESA",
+    "engineCodes": "DETA, DESA",
     "KBA_Numbers": "0588BJN"
   },
   {
@@ -1327,7 +1327,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1968",
-    "engineCodes": "DEUA  CZHA",
+    "engineCodes": "DEUA, CZHA",
     "KBA_Numbers": "0588BLS"
   },
   {
@@ -1349,7 +1349,7 @@
     "kw": "140",
     "hp": "190",
     "cc": "1968",
-    "engineCodes": "DETA  DESA",
+    "engineCodes": "DETA, DESA",
     "KBA_Numbers": "0588BJO"
   },
   {
@@ -1360,8 +1360,8 @@
     "kw": "110",
     "hp": "150",
     "cc": "1968",
-    "engineCodes": "DEUA  CZHA",
-    "KBA_Numbers": "0588BLU  0588AZQ"
+    "engineCodes": "DEUA, CZHA",
+    "KBA_Numbers": "0588BLU, 0588AZQ"
   },
   {
     "brand": "AUDI",
@@ -1382,7 +1382,7 @@
     "kw": "140",
     "hp": "190",
     "cc": "1984",
-    "engineCodes": "CVKB  DKYA",
+    "engineCodes": "CVKB, DKYA",
     "KBA_Numbers": "0588BJJ"
   },
   {
@@ -1394,7 +1394,7 @@
     "hp": "170",
     "cc": "1984",
     "engineCodes": "CVLA",
-    "KBA_Numbers": "0588BQQ  0588BJK"
+    "KBA_Numbers": "0588BQQ, 0588BJK"
   },
   {
     "brand": "AUDI",
@@ -1415,7 +1415,7 @@
     "kw": "185",
     "hp": "252",
     "cc": "1984",
-    "engineCodes": "CYMC  CYRB  DLHB",
+    "engineCodes": "CYMC, CYRB, DLHB",
     "KBA_Numbers": "0588BJM"
   },
   {
@@ -1449,7 +1449,7 @@
     "hp": "286",
     "cc": "2967",
     "engineCodes": "DCPC",
-    "KBA_Numbers": "0588BJR  0588BMT"
+    "KBA_Numbers": "0588BJR, 0588BMT"
   },
   {
     "brand": "AUDI",
@@ -1481,7 +1481,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1984",
-    "engineCodes": "DLVB  DMSB",
+    "engineCodes": "DLVB, DMSB",
     "KBA_Numbers": "0588BPP"
   },
   {
@@ -1492,7 +1492,7 @@
     "kw": "140",
     "hp": "190",
     "cc": "1968",
-    "engineCodes": "DETA  DESA",
+    "engineCodes": "DETA, DESA",
     "KBA_Numbers": "0588BJN"
   },
   {
@@ -1547,8 +1547,8 @@
     "kw": "140",
     "hp": "190",
     "cc": "1984",
-    "engineCodes": "DEMA  DLVA  DHDA  DKYA",
-    "KBA_Numbers": "0588BMR  0588BMS"
+    "engineCodes": "DEMA, DLVA, DHDA, DKYA",
+    "KBA_Numbers": "0588BMR, 0588BMS"
   },
   {
     "brand": "AUDI",
@@ -1614,7 +1614,7 @@
     "hp": "286",
     "cc": "2967",
     "engineCodes": "DCPC",
-    "KBA_Numbers": "0588BJR  0588BMT"
+    "KBA_Numbers": "0588BJR, 0588BMT"
   },
   {
     "brand": "AUDI",
@@ -1668,7 +1668,7 @@
     "kw": "210",
     "hp": "286",
     "cc": "2967",
-    "engineCodes": "DDVB  DMGA",
+    "engineCodes": "DDVB, DMGA",
     "KBA_Numbers": "0588BTE"
   },
   {
@@ -1691,7 +1691,7 @@
     "hp": "136",
     "cc": "1968",
     "engineCodes": "DEZF",
-    "KBA_Numbers": "0588BSP  0588BTM"
+    "KBA_Numbers": "0588BSP, 0588BTM"
   },
   {
     "brand": "AUDI",
@@ -1701,8 +1701,8 @@
     "kw": "120",
     "hp": "163",
     "cc": "1968",
-    "engineCodes": "DEZD  DTPB",
-    "KBA_Numbers": "0588BTL  0588BQF"
+    "engineCodes": "DEZD, DTPB",
+    "KBA_Numbers": "0588BTL, 0588BQF"
   },
   {
     "brand": "AUDI",
@@ -1723,8 +1723,8 @@
     "kw": "150",
     "hp": "204",
     "cc": "1968",
-    "engineCodes": "DFBA  DTPA",
-    "KBA_Numbers": "0588BMY  0588BTN  0588BVZ"
+    "engineCodes": "DFBA, DTPA",
+    "KBA_Numbers": "0588BMY, 0588BTN, 0588BVZ"
   },
   {
     "brand": "AUDI",
@@ -1734,8 +1734,8 @@
     "kw": "150",
     "hp": "204",
     "cc": "1968",
-    "engineCodes": "DTPA  DFBA",
-    "KBA_Numbers": "0588BTO  0588BND"
+    "engineCodes": "DTPA, DFBA",
+    "KBA_Numbers": "0588BTO, 0588BND"
   },
   {
     "brand": "AUDI",
@@ -1768,7 +1768,7 @@
     "hp": "231",
     "cc": "2967",
     "engineCodes": "DDVE",
-    "KBA_Numbers": "0588BMZ  0588BTJ"
+    "KBA_Numbers": "0588BMZ, 0588BTJ"
   },
   {
     "brand": "AUDI",
@@ -1789,8 +1789,8 @@
     "kw": "180",
     "hp": "245",
     "cc": "1984",
-    "engineCodes": "DKNA  DLHA",
-    "KBA_Numbers": "0588BTP  0588BOP"
+    "engineCodes": "DKNA, DLHA",
+    "KBA_Numbers": "0588BTP, 0588BOP"
   },
   {
     "brand": "AUDI",
@@ -1800,7 +1800,7 @@
     "kw": "195",
     "hp": "265",
     "cc": "1984",
-    "engineCodes": "DMTA  DPAA",
+    "engineCodes": "DMTA, DPAA",
     "KBA_Numbers": "0588BWA"
   },
   {
@@ -1811,8 +1811,8 @@
     "kw": "180",
     "hp": "245",
     "cc": "1984",
-    "engineCodes": "DLHA  DKNA",
-    "KBA_Numbers": "0588BTQ  0588BOQ"
+    "engineCodes": "DLHA, DKNA",
+    "KBA_Numbers": "0588BTQ, 0588BOQ"
   },
   {
     "brand": "AUDI",
@@ -1834,7 +1834,7 @@
     "hp": "136",
     "cc": "1968",
     "engineCodes": "DEZF",
-    "KBA_Numbers": "0588BSO  0588BSY"
+    "KBA_Numbers": "0588BSO, 0588BSY"
   },
   {
     "brand": "AUDI",
@@ -1844,8 +1844,8 @@
     "kw": "120",
     "hp": "163",
     "cc": "1968",
-    "engineCodes": "DEZD  DTPB",
-    "KBA_Numbers": "0588BSX  0588BQD"
+    "engineCodes": "DEZD, DTPB",
+    "KBA_Numbers": "0588BSX, 0588BQD"
   },
   {
     "brand": "AUDI",
@@ -1855,8 +1855,8 @@
     "kw": "150",
     "hp": "204",
     "cc": "1968",
-    "engineCodes": "DFBA  DTPA",
-    "KBA_Numbers": "0588BSZ  0588BNE"
+    "engineCodes": "DFBA, DTPA",
+    "KBA_Numbers": "0588BSZ, 0588BNE"
   },
   {
     "brand": "AUDI",
@@ -1866,8 +1866,8 @@
     "kw": "150",
     "hp": "204",
     "cc": "1968",
-    "engineCodes": "DFBA  DTPA",
-    "KBA_Numbers": "0588BTA  0588BNF"
+    "engineCodes": "DFBA, DTPA",
+    "KBA_Numbers": "0588BTA, 0588BNF"
   },
   {
     "brand": "AUDI",
@@ -1889,7 +1889,7 @@
     "hp": "231",
     "cc": "2967",
     "engineCodes": "DDVE",
-    "KBA_Numbers": "0588BSV  0588BNG"
+    "KBA_Numbers": "0588BSV, 0588BNG"
   },
   {
     "brand": "AUDI",
@@ -1921,8 +1921,8 @@
     "kw": "180",
     "hp": "245",
     "cc": "1984",
-    "engineCodes": "DKNA  DLHA",
-    "KBA_Numbers": "0588BTB  0588BOR"
+    "engineCodes": "DKNA, DLHA",
+    "KBA_Numbers": "0588BTB, 0588BOR"
   },
   {
     "brand": "AUDI",
@@ -1943,8 +1943,8 @@
     "kw": "180",
     "hp": "245",
     "cc": "1984",
-    "engineCodes": "DLHA  DKNA",
-    "KBA_Numbers": "0588BTC  0588BOS"
+    "engineCodes": "DLHA, DKNA",
+    "KBA_Numbers": "0588BTC, 0588BOS"
   },
   {
     "brand": "AUDI",
@@ -1965,8 +1965,8 @@
     "kw": "210",
     "hp": "286",
     "cc": "2967",
-    "engineCodes": "DDVB  DMGA",
-    "KBA_Numbers": "0588BSU  0588BNH"
+    "engineCodes": "DDVB, DMGA",
+    "KBA_Numbers": "0588BSU, 0588BNH"
   },
   {
     "brand": "AUDI",
@@ -1988,7 +1988,7 @@
     "hp": "340",
     "cc": "2995",
     "engineCodes": "DLZA",
-    "KBA_Numbers": "0588BNI  0588BTD"
+    "KBA_Numbers": "0588BNI, 0588BTD"
   },
   {
     "brand": "AUDI",
@@ -1998,8 +1998,8 @@
     "kw": "150",
     "hp": "204",
     "cc": "1968",
-    "engineCodes": "DFBA  DTPA",
-    "KBA_Numbers": "0588BTV  0588BOT"
+    "engineCodes": "DFBA, DTPA",
+    "KBA_Numbers": "0588BTV, 0588BOT"
   },
   {
     "brand": "AUDI",
@@ -2009,8 +2009,8 @@
     "kw": "150",
     "hp": "204",
     "cc": "1968",
-    "engineCodes": "DFBA  DTPA",
-    "KBA_Numbers": "0588BTW  0588BOU"
+    "engineCodes": "DFBA, DTPA",
+    "KBA_Numbers": "0588BTW, 0588BOU"
   },
   {
     "brand": "AUDI",
@@ -2054,7 +2054,7 @@
     "hp": "231",
     "cc": "2967",
     "engineCodes": "DDVE",
-    "KBA_Numbers": "0588BMX  0588BTT"
+    "KBA_Numbers": "0588BMX, 0588BTT"
   },
   {
     "brand": "AUDI",
@@ -2086,8 +2086,8 @@
     "kw": "210",
     "hp": "286",
     "cc": "2967",
-    "engineCodes": "DDVB  DMGA",
-    "KBA_Numbers": "0588BMW  0588BTS"
+    "engineCodes": "DDVB, DMGA",
+    "KBA_Numbers": "0588BMW, 0588BTS"
   },
   {
     "brand": "AUDI",
@@ -2120,7 +2120,7 @@
     "hp": "150",
     "cc": "1968",
     "engineCodes": "DEUA",
-    "KBA_Numbers": "0588BJZ  0588BUH"
+    "KBA_Numbers": "0588BJZ, 0588BUH"
   },
   {
     "brand": "AUDI",
@@ -2131,7 +2131,7 @@
     "hp": "163",
     "cc": "1968",
     "engineCodes": "DETB",
-    "KBA_Numbers": "0588BKO  0588BKP"
+    "KBA_Numbers": "0588BKO, 0588BKP"
   },
   {
     "brand": "AUDI",
@@ -2141,8 +2141,8 @@
     "kw": "140",
     "hp": "190",
     "cc": "1968",
-    "engineCodes": "DETA  DESA",
-    "KBA_Numbers": "0588BKA  0588BKG"
+    "engineCodes": "DETA, DESA",
+    "KBA_Numbers": "0588BKA, 0588BKG"
   },
   {
     "brand": "AUDI",
@@ -2152,8 +2152,8 @@
     "kw": "185",
     "hp": "252",
     "cc": "1984",
-    "engineCodes": "DAYB  DAXB  DJYA",
-    "KBA_Numbers": "7967ABR  7967ABQ  0588BMM  0588BKH  0588BKI"
+    "engineCodes": "DAYB, DAXB, DJYA",
+    "KBA_Numbers": "7967ABR, 7967ABQ, 0588BMM, 0588BKH, 0588BKI"
   },
   {
     "brand": "AUDI",
@@ -2175,7 +2175,7 @@
     "hp": "163",
     "cc": "1968",
     "engineCodes": "DETB",
-    "KBA_Numbers": "0588BRX  0588BRY"
+    "KBA_Numbers": "0588BRX, 0588BRY"
   },
   {
     "brand": "AUDI",
@@ -2185,8 +2185,8 @@
     "kw": "140",
     "hp": "190",
     "cc": "1968",
-    "engineCodes": "DESA  DETA",
-    "KBA_Numbers": "0588BRW  0588BRV"
+    "engineCodes": "DESA, DETA",
+    "KBA_Numbers": "0588BRW, 0588BRV"
   },
   {
     "brand": "AUDI",
@@ -2197,7 +2197,7 @@
     "hp": "354",
     "cc": "2995",
     "engineCodes": "CWGD",
-    "KBA_Numbers": "0588BKX  0588BKY"
+    "KBA_Numbers": "0588BKX, 0588BKY"
   },
   {
     "brand": "AUDI",

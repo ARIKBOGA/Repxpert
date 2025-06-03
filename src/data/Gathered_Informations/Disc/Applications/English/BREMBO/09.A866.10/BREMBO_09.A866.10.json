@@ -7,7 +7,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1997",
-    "engineCodes": "R20A1  R20A2",
+    "engineCodes": "R20A1, R20A2",
     "KBA_Numbers": ""
   },
   {
@@ -18,7 +18,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1997",
-    "engineCodes": "R20A2  R20A1",
+    "engineCodes": "R20A2, R20A1",
     "KBA_Numbers": "2131AAG"
   },
   {
@@ -62,7 +62,7 @@
     "kw": "125",
     "hp": "170",
     "cc": "2354",
-    "engineCodes": "K24A1  K24Z1",
+    "engineCodes": "K24A1, K24Z1",
     "KBA_Numbers": ""
   },
   {
@@ -73,7 +73,7 @@
     "kw": "124",
     "hp": "168",
     "cc": "2354",
-    "engineCodes": "K24Z1  K24A",
+    "engineCodes": "K24Z1, K24A",
     "KBA_Numbers": ""
   },
   {
@@ -95,7 +95,7 @@
     "kw": "125",
     "hp": "170",
     "cc": "2354",
-    "engineCodes": "K24Z1  K24A1",
+    "engineCodes": "K24Z1, K24A1",
     "KBA_Numbers": ""
   },
   {
@@ -106,7 +106,7 @@
     "kw": "122",
     "hp": "166",
     "cc": "2354",
-    "engineCodes": "K24Z1  K24Z4",
+    "engineCodes": "K24Z1, K24Z4",
     "KBA_Numbers": "2131AAL"
   },
   {
@@ -117,7 +117,7 @@
     "kw": "88",
     "hp": "120",
     "cc": "1597",
-    "engineCodes": "N16A1  N16A2",
+    "engineCodes": "N16A1, N16A2",
     "KBA_Numbers": "2131AAV"
   },
   {
@@ -150,7 +150,7 @@
     "kw": "114",
     "hp": "155",
     "cc": "1997",
-    "engineCodes": "R20A6  R20A9",
+    "engineCodes": "R20A6, R20A9",
     "KBA_Numbers": "2131AAS"
   },
   {
@@ -161,7 +161,7 @@
     "kw": "114",
     "hp": "155",
     "cc": "1997",
-    "engineCodes": "R20A6  R20A9  R20A5",
+    "engineCodes": "R20A6, R20A9, R20A5",
     "KBA_Numbers": "2131AAT"
   },
   {

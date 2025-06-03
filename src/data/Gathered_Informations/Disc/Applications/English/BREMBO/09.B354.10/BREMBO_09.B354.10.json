@@ -41,7 +41,7 @@
     "hp": "130",
     "cc": "1598",
     "engineCodes": "R9M",
-    "KBA_Numbers": "1329AFX  1329AFZ"
+    "KBA_Numbers": "1329AFX, 1329AFZ"
   },
   {
     "brand": "NISSAN",
@@ -52,7 +52,7 @@
     "hp": "130",
     "cc": "1598",
     "engineCodes": "R9M",
-    "KBA_Numbers": "1329AFY  1329AGA"
+    "KBA_Numbers": "1329AFY, 1329AGA"
   },
   {
     "brand": "NISSAN",
@@ -63,7 +63,7 @@
     "hp": "141",
     "cc": "1997",
     "engineCodes": "MR20DE",
-    "KBA_Numbers": "3144ADU  1329ABG"
+    "KBA_Numbers": "3144ADU, 1329ABG"
   },
   {
     "brand": "NISSAN",
@@ -73,8 +73,8 @@
     "kw": "110",
     "hp": "150",
     "cc": "1995",
-    "engineCodes": "M9R  M1D",
-    "KBA_Numbers": "1329AER  1329ABF  3144AEU"
+    "engineCodes": "M9R, M1D",
+    "KBA_Numbers": "1329AER, 1329ABF, 3144AEU"
   },
   {
     "brand": "NISSAN",
@@ -84,8 +84,8 @@
     "kw": "110",
     "hp": "150",
     "cc": "1995",
-    "engineCodes": "M9R  M1D",
-    "KBA_Numbers": "1329ABH  1329AES  3144AEV"
+    "engineCodes": "M9R, M1D",
+    "KBA_Numbers": "1329ABH, 1329AES, 3144AEV"
   },
   {
     "brand": "RENAULT",
@@ -95,7 +95,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1995",
-    "engineCodes": "M9R 866  M9R 862  M9R 865  M9R 856  M9R 855",
+    "engineCodes": "M9R 866, M9R 862, M9R 865, M9R 856, M9R 855",
     "KBA_Numbers": "3333ARP"
   },
   {
@@ -128,7 +128,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1995",
-    "engineCodes": "M9R 834  M9R 838  M9R 836  M9R 833  M9R 850  M9R 835  M9R 862  M9R 832  M9R 866  M9R 865  M9R 855  M9R 856",
+    "engineCodes": "M9R 834, M9R 838, M9R 836, M9R 833, M9R 850, M9R 835, M9R 862, M9R 832, M9R 866, M9R 865, M9R 855, M9R 856",
     "KBA_Numbers": "3333ARQ"
   },
   {
@@ -139,7 +139,7 @@
     "kw": "126",
     "hp": "171",
     "cc": "2488",
-    "engineCodes": "2TR 702  2TR 703  2TR 700",
+    "engineCodes": "2TR 702, 2TR 703, 2TR 700",
     "KBA_Numbers": "3333ARR"
   },
   {
@@ -150,7 +150,7 @@
     "kw": "126",
     "hp": "171",
     "cc": "2488",
-    "engineCodes": "2TR 702  2TR 703  2TR 700",
+    "engineCodes": "2TR 702, 2TR 703, 2TR 700",
     "KBA_Numbers": "3333ARS"
   }
 ]

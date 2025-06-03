@@ -7,8 +7,8 @@
     "kw": "77",
     "hp": "105",
     "cc": "1598",
-    "engineCodes": "Z627  Z601",
-    "KBA_Numbers": "7118278  7118ABB"
+    "engineCodes": "Z627, Z601",
+    "KBA_Numbers": "7118278, 7118ABB"
   },
   {
     "brand": "MAZDA",
@@ -18,7 +18,7 @@
     "kw": "74",
     "hp": "100",
     "cc": "1496",
-    "engineCodes": "P5Y4  P5Y5  P5Z3  P5Y1",
+    "engineCodes": "P5Y4, P5Y5, P5Z3, P5Y1",
     "KBA_Numbers": "7118AGJ"
   },
   {
@@ -29,7 +29,7 @@
     "kw": "88",
     "hp": "120",
     "cc": "1496",
-    "engineCodes": "P5Y5  P5Y4  P5Z3  P5Y1",
+    "engineCodes": "P5Y5, P5Y4, P5Z3, P5Y1",
     "KBA_Numbers": ""
   },
   {
@@ -40,7 +40,7 @@
     "kw": "77",
     "hp": "105",
     "cc": "1499",
-    "engineCodes": "S5Y7  S5Y8",
+    "engineCodes": "S5Y7, S5Y8",
     "KBA_Numbers": "7118AHB"
   },
   {
@@ -51,7 +51,7 @@
     "kw": "77",
     "hp": "105",
     "cc": "1598",
-    "engineCodes": "Z6Y1  Z6Y3",
+    "engineCodes": "Z6Y1, Z6Y3",
     "KBA_Numbers": ""
   },
   {
@@ -62,7 +62,7 @@
     "kw": "121",
     "hp": "165",
     "cc": "1998",
-    "engineCodes": "PEX2  PEY5  PEY7  PEXL",
+    "engineCodes": "PEX2, PEY5, PEY7, PEXL",
     "KBA_Numbers": "7118AGL"
   },
   {
@@ -73,7 +73,7 @@
     "kw": "88",
     "hp": "120",
     "cc": "1998",
-    "engineCodes": "PEY5  PEXL  PEY7",
+    "engineCodes": "PEY5, PEXL, PEY7",
     "KBA_Numbers": "7118AGK"
   },
   {
@@ -84,7 +84,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "2191",
-    "engineCodes": "SHY6  SHY4",
+    "engineCodes": "SHY6, SHY4",
     "KBA_Numbers": "7118AGM"
   },
   {
@@ -106,8 +106,8 @@
     "kw": "85",
     "hp": "116",
     "cc": "1759",
-    "engineCodes": "S8Y2  S8Y1",
-    "KBA_Numbers": "5003AAI  7118AIB"
+    "engineCodes": "S8Y2, S8Y1",
+    "KBA_Numbers": "5003AAI, 7118AIB"
   },
   {
     "brand": "MAZDA",
@@ -117,7 +117,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1998",
-    "engineCodes": "PEXN  PEXP",
+    "engineCodes": "PEXN, PEXP",
     "KBA_Numbers": ""
   },
   {
@@ -129,7 +129,7 @@
     "hp": "122",
     "cc": "1998",
     "engineCodes": "PEXN",
-    "KBA_Numbers": "5003AAF  7118AHY"
+    "KBA_Numbers": "5003AAF, 7118AHY"
   },
   {
     "brand": "MAZDA",
@@ -162,7 +162,7 @@
     "hp": "179",
     "cc": "1998",
     "engineCodes": "HFY1",
-    "KBA_Numbers": "5003AAG  7118AHZ"
+    "KBA_Numbers": "5003AAG, 7118AHZ"
   },
   {
     "brand": "MAZDA",
@@ -184,7 +184,7 @@
     "hp": "179",
     "cc": "1998",
     "engineCodes": "HFY1",
-    "KBA_Numbers": "5003AAH  7118AIA"
+    "KBA_Numbers": "5003AAH, 7118AIA"
   },
   {
     "brand": "MAZDA",
@@ -194,7 +194,7 @@
     "kw": "88",
     "hp": "120",
     "cc": "1496",
-    "engineCodes": "P5Z3  P5Y4  P5Y5  P5Y1",
+    "engineCodes": "P5Z3, P5Y4, P5Y5, P5Y1",
     "KBA_Numbers": ""
   },
   {
@@ -205,7 +205,7 @@
     "kw": "74",
     "hp": "100",
     "cc": "1496",
-    "engineCodes": "P5Y4  P5Y5  P5Z3  P5Y1",
+    "engineCodes": "P5Y4, P5Y5, P5Z3, P5Y1",
     "KBA_Numbers": ""
   },
   {
@@ -216,7 +216,7 @@
     "kw": "77",
     "hp": "105",
     "cc": "1499",
-    "engineCodes": "S5Y8  S5Y7",
+    "engineCodes": "S5Y8, S5Y7",
     "KBA_Numbers": "7118AHA"
   },
   {
@@ -227,7 +227,7 @@
     "kw": "77",
     "hp": "105",
     "cc": "1598",
-    "engineCodes": "Z6Y1  Z6Y3",
+    "engineCodes": "Z6Y1, Z6Y3",
     "KBA_Numbers": ""
   },
   {
@@ -238,7 +238,7 @@
     "kw": "88",
     "hp": "120",
     "cc": "1998",
-    "engineCodes": "PEY5  PEXL  PEY7",
+    "engineCodes": "PEY5, PEXL, PEY7",
     "KBA_Numbers": "7118AGG"
   },
   {
@@ -249,7 +249,7 @@
     "kw": "121",
     "hp": "165",
     "cc": "1998",
-    "engineCodes": "PEX2  PEY7  PEY5",
+    "engineCodes": "PEX2, PEY7, PEY5",
     "KBA_Numbers": ""
   },
   {
@@ -260,7 +260,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "2191",
-    "engineCodes": "SHY4  SHY6",
+    "engineCodes": "SHY4, SHY6",
     "KBA_Numbers": "7118AGH"
   },
   {
@@ -282,8 +282,8 @@
     "kw": "85",
     "hp": "116",
     "cc": "1759",
-    "engineCodes": "S8Y2  S8Y1",
-    "KBA_Numbers": "5003AAE  7118AHX"
+    "engineCodes": "S8Y2, S8Y1",
+    "KBA_Numbers": "5003AAE, 7118AHX"
   },
   {
     "brand": "MAZDA",
@@ -294,7 +294,7 @@
     "hp": "122",
     "cc": "1998",
     "engineCodes": "PEXN",
-    "KBA_Numbers": "5003AAC  7118AHV"
+    "KBA_Numbers": "5003AAC, 7118AHV"
   },
   {
     "brand": "MAZDA",
@@ -327,7 +327,7 @@
     "hp": "179",
     "cc": "1998",
     "engineCodes": "HFY1",
-    "KBA_Numbers": "5003AAD  7118AHW"
+    "KBA_Numbers": "5003AAD, 7118AHW"
   },
   {
     "brand": "MAZDA",
@@ -359,7 +359,7 @@
     "kw": "89",
     "hp": "121",
     "cc": "1998",
-    "engineCodes": "PEXT  PEXB",
+    "engineCodes": "PEXT, PEXB",
     "KBA_Numbers": "7118AHM"
   },
   {

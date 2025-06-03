@@ -8,7 +8,7 @@
     "hp": "116",
     "cc": "1998",
     "engineCodes": "X 20 SE",
-    "KBA_Numbers": "0039905  0035330"
+    "KBA_Numbers": "0039905, 0035330"
   },
   {
     "brand": "OPEL",
@@ -30,7 +30,7 @@
     "hp": "136",
     "cc": "1998",
     "engineCodes": "X 20 XEV",
-    "KBA_Numbers": "0039906  0035331"
+    "KBA_Numbers": "0039906, 0035331"
   },
   {
     "brand": "OPEL",
@@ -41,7 +41,7 @@
     "hp": "116",
     "cc": "1998",
     "engineCodes": "X 20 SE",
-    "KBA_Numbers": "0035335  0039910"
+    "KBA_Numbers": "0035335, 0039910"
   },
   {
     "brand": "OPEL",
@@ -52,7 +52,7 @@
     "hp": "136",
     "cc": "1998",
     "engineCodes": "X 20 XEV",
-    "KBA_Numbers": "0035336  0039911"
+    "KBA_Numbers": "0035336, 0039911"
   },
   {
     "brand": "VAUXHALL",
@@ -84,7 +84,7 @@
     "kw": "85",
     "hp": "116",
     "cc": "1998",
-    "engineCodes": "X 20 SE  20 SE",
+    "engineCodes": "X 20 SE, 20 SE",
     "KBA_Numbers": ""
   },
   {
@@ -95,7 +95,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "1998",
-    "engineCodes": "20 SE  X 20 SE",
+    "engineCodes": "20 SE, X 20 SE",
     "KBA_Numbers": ""
   },
   {

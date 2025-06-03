@@ -194,7 +194,7 @@
     "kw": "55",
     "hp": "75",
     "cc": "1392",
-    "engineCodes": "GA14DE  GA14DS",
+    "engineCodes": "GA14DE, GA14DS",
     "KBA_Numbers": "7105472"
   },
   {
@@ -216,7 +216,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1597",
-    "engineCodes": "GA16DS  GA16DE",
+    "engineCodes": "GA16DS, GA16DE",
     "KBA_Numbers": "7105475"
   },
   {
@@ -304,7 +304,7 @@
     "kw": "55",
     "hp": "75",
     "cc": "1392",
-    "engineCodes": "GA14DS  GA14DE",
+    "engineCodes": "GA14DS, GA14DE",
     "KBA_Numbers": "7105473"
   },
   {
@@ -326,7 +326,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1597",
-    "engineCodes": "GA16DS  GA16DE",
+    "engineCodes": "GA16DS, GA16DE",
     "KBA_Numbers": "7105477"
   },
   {
@@ -370,7 +370,7 @@
     "kw": "55",
     "hp": "75",
     "cc": "1392",
-    "engineCodes": "GA14DS  GA14DE",
+    "engineCodes": "GA14DS, GA14DE",
     "KBA_Numbers": "7105474"
   },
   {
@@ -392,7 +392,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1597",
-    "engineCodes": "GA16DS  GA16DE",
+    "engineCodes": "GA16DS, GA16DE",
     "KBA_Numbers": "7105478"
   },
   {
@@ -436,8 +436,8 @@
     "kw": "66",
     "hp": "90",
     "cc": "1597",
-    "engineCodes": "GA16DS  GA16DE",
-    "KBA_Numbers": "7105485  9648317"
+    "engineCodes": "GA16DS, GA16DE",
+    "KBA_Numbers": "7105485, 9648317"
   },
   {
     "brand": "NISSAN",
@@ -459,6 +459,6 @@
     "hp": "75",
     "cc": "1974",
     "engineCodes": "CD20",
-    "KBA_Numbers": "7105487  9648316"
+    "KBA_Numbers": "7105487, 9648316"
   }
 ]

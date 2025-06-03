@@ -19,7 +19,7 @@
     "hp": "118",
     "cc": "2389",
     "engineCodes": "KA24",
-    "KBA_Numbers": "0928295  0928963"
+    "KBA_Numbers": "0928295, 0928963"
   },
   {
     "brand": "FORD",
@@ -52,7 +52,7 @@
     "hp": "125",
     "cc": "2664",
     "engineCodes": "TD27E",
-    "KBA_Numbers": "0928964  0928962"
+    "KBA_Numbers": "0928964, 0928962"
   },
   {
     "brand": "FORD",
@@ -162,7 +162,7 @@
     "hp": "75",
     "cc": "2494",
     "engineCodes": "SD25",
-    "KBA_Numbers": "7105512  7105515"
+    "KBA_Numbers": "7105512, 7105515"
   },
   {
     "brand": "NISSAN",
@@ -338,7 +338,7 @@
     "hp": "125",
     "cc": "2664",
     "engineCodes": "TD27TI",
-    "KBA_Numbers": "9648321  3144001"
+    "KBA_Numbers": "9648321, 3144001"
   },
   {
     "brand": "NISSAN",
@@ -349,7 +349,7 @@
     "hp": "154",
     "cc": "2953",
     "engineCodes": "ZD30",
-    "KBA_Numbers": "9648386  3144002"
+    "KBA_Numbers": "9648386, 3144002"
   },
   {
     "brand": "NISSAN",
@@ -392,7 +392,7 @@
     "kw": "113",
     "hp": "154",
     "cc": "2953",
-    "engineCodes": "ZD30Ti  ZD30",
+    "engineCodes": "ZD30Ti, ZD30",
     "KBA_Numbers": ""
   }
 ]

@@ -84,7 +84,7 @@
     "kw": "103",
     "hp": "140",
     "cc": "1968",
-    "engineCodes": "ECE  BWD",
+    "engineCodes": "ECE, BWD",
     "KBA_Numbers": "1004ACL"
   },
   {
@@ -95,7 +95,7 @@
     "kw": "129",
     "hp": "175",
     "cc": "2360",
-    "engineCodes": "ED3  EDG",
+    "engineCodes": "ED3, EDG",
     "KBA_Numbers": ""
   },
   {
@@ -106,7 +106,7 @@
     "kw": "125",
     "hp": "170",
     "cc": "2360",
-    "engineCodes": "EDG  ED3",
+    "engineCodes": "EDG, ED3",
     "KBA_Numbers": "1004ACM"
   },
   {
@@ -249,7 +249,7 @@
     "kw": "103",
     "hp": "140",
     "cc": "1956",
-    "engineCodes": "939 B5.000  940 A5.000",
+    "engineCodes": "939 B5.000, 940 A5.000",
     "KBA_Numbers": "1004ACL"
   },
   {
@@ -271,7 +271,7 @@
     "kw": "125",
     "hp": "170",
     "cc": "1956",
-    "engineCodes": "940 A5.000  939 B5.000",
+    "engineCodes": "940 A5.000, 939 B5.000",
     "KBA_Numbers": "1004ADL"
   },
   {
@@ -293,7 +293,7 @@
     "kw": "125",
     "hp": "170",
     "cc": "1956",
-    "engineCodes": "940 A5.000  939 B5.000",
+    "engineCodes": "940 A5.000, 939 B5.000",
     "KBA_Numbers": "1004ADT"
   },
   {
@@ -304,7 +304,7 @@
     "kw": "125",
     "hp": "170",
     "cc": "2360",
-    "engineCodes": "EDG  ED3",
+    "engineCodes": "EDG, ED3",
     "KBA_Numbers": "1004ACM"
   },
   {

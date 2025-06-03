@@ -29,7 +29,7 @@
     "kw": "129",
     "hp": "175",
     "cc": "1998",
-    "engineCodes": "Z 20 NET  B207L  LK9(122CUL4)",
+    "engineCodes": "Z 20 NET, B207L, LK9(122CUL4)",
     "KBA_Numbers": "9116AAM"
   },
   {
@@ -40,7 +40,7 @@
     "kw": "154",
     "hp": "210",
     "cc": "1998",
-    "engineCodes": "LK9(122CUL4)  B207R",
+    "engineCodes": "LK9(122CUL4), B207R",
     "KBA_Numbers": "9116AAN"
   },
   {
@@ -51,7 +51,7 @@
     "kw": "154",
     "hp": "210",
     "cc": "1998",
-    "engineCodes": "B207R  LK9(122CUL4)",
+    "engineCodes": "B207R, LK9(122CUL4)",
     "KBA_Numbers": "9116ACK"
   },
   {
@@ -140,7 +140,7 @@
     "hp": "122",
     "cc": "1796",
     "engineCodes": "Z 18 XE",
-    "KBA_Numbers": "0035ABB  0035485  0035050  0035523"
+    "KBA_Numbers": "0035ABB, 0035485, 0035050, 0035523"
   },
   {
     "brand": "OPEL",
@@ -162,7 +162,7 @@
     "hp": "120",
     "cc": "1910",
     "engineCodes": "Z 19 DT",
-    "KBA_Numbers": "0035ABE  0035058  0035531"
+    "KBA_Numbers": "0035ABE, 0035058, 0035531"
   },
   {
     "brand": "OPEL",
@@ -173,7 +173,7 @@
     "hp": "150",
     "cc": "1910",
     "engineCodes": "Z 19 DTH",
-    "KBA_Numbers": "0035ABG  0035059  0035532"
+    "KBA_Numbers": "0035ABG, 0035059, 0035532"
   },
   {
     "brand": "OPEL",
@@ -184,7 +184,7 @@
     "hp": "100",
     "cc": "1910",
     "engineCodes": "Z 19 DTL",
-    "KBA_Numbers": "0035110  0035ABF"
+    "KBA_Numbers": "0035110, 0035ABF"
   },
   {
     "brand": "OPEL",
@@ -195,7 +195,7 @@
     "hp": "100",
     "cc": "1995",
     "engineCodes": "Y 20 DTH",
-    "KBA_Numbers": "0035489  0035055  0035526"
+    "KBA_Numbers": "0035489, 0035055, 0035526"
   },
   {
     "brand": "OPEL",
@@ -206,7 +206,7 @@
     "hp": "155",
     "cc": "2198",
     "engineCodes": "Z 22 YH",
-    "KBA_Numbers": "0035ABC  0035487  0035053  0035524"
+    "KBA_Numbers": "0035ABC, 0035487, 0035053, 0035524"
   },
   {
     "brand": "OPEL",
@@ -217,7 +217,7 @@
     "hp": "125",
     "cc": "2172",
     "engineCodes": "Y 22 DTR",
-    "KBA_Numbers": "0035490  0035056  0035527"
+    "KBA_Numbers": "0035490, 0035056, 0035527"
   },
   {
     "brand": "OPEL",
@@ -239,7 +239,7 @@
     "hp": "100",
     "cc": "1598",
     "engineCodes": "Z 16 XE",
-    "KBA_Numbers": "0035ABK  0035070  0035444"
+    "KBA_Numbers": "0035ABK, 0035070, 0035444"
   },
   {
     "brand": "OPEL",
@@ -250,7 +250,7 @@
     "hp": "110",
     "cc": "1796",
     "engineCodes": "Z 18 XEL",
-    "KBA_Numbers": "0035ABM  0035076  0035446  0035ABZ"
+    "KBA_Numbers": "0035ABM, 0035076, 0035446, 0035ABZ"
   },
   {
     "brand": "OPEL",
@@ -272,7 +272,7 @@
     "hp": "122",
     "cc": "1796",
     "engineCodes": "Z 18 XE",
-    "KBA_Numbers": "0035ABL  0035074  0035445"
+    "KBA_Numbers": "0035ABL, 0035074, 0035445"
   },
   {
     "brand": "OPEL",
@@ -283,7 +283,7 @@
     "hp": "120",
     "cc": "1910",
     "engineCodes": "Z 19 DT",
-    "KBA_Numbers": "0035ABR  0035090  0035023"
+    "KBA_Numbers": "0035ABR, 0035090, 0035023"
   },
   {
     "brand": "OPEL",
@@ -294,7 +294,7 @@
     "hp": "150",
     "cc": "1910",
     "engineCodes": "Z 19 DTH",
-    "KBA_Numbers": "0035ABT  0035092  0035025"
+    "KBA_Numbers": "0035ABT, 0035092, 0035025"
   },
   {
     "brand": "OPEL",
@@ -305,7 +305,7 @@
     "hp": "100",
     "cc": "1910",
     "engineCodes": "Z 19 DTL",
-    "KBA_Numbers": "0035108  0035ABS"
+    "KBA_Numbers": "0035108, 0035ABS"
   },
   {
     "brand": "OPEL",
@@ -316,7 +316,7 @@
     "hp": "101",
     "cc": "1995",
     "engineCodes": "Y 20 DTH",
-    "KBA_Numbers": "0035072  0035073  0035453"
+    "KBA_Numbers": "0035072, 0035073, 0035453"
   },
   {
     "brand": "OPEL",
@@ -327,7 +327,7 @@
     "hp": "147",
     "cc": "2198",
     "engineCodes": "Z 22 SE",
-    "KBA_Numbers": "0035ABN  0035082  0035449"
+    "KBA_Numbers": "0035ABN, 0035082, 0035449"
   },
   {
     "brand": "OPEL",
@@ -338,7 +338,7 @@
     "hp": "155",
     "cc": "2198",
     "engineCodes": "Z 22 YH",
-    "KBA_Numbers": "0035ABO  0035094  0035027"
+    "KBA_Numbers": "0035ABO, 0035094, 0035027"
   },
   {
     "brand": "OPEL",
@@ -360,7 +360,7 @@
     "hp": "125",
     "cc": "2172",
     "engineCodes": "Y 22 DTR",
-    "KBA_Numbers": "0035078  0035447"
+    "KBA_Numbers": "0035078, 0035447"
   },
   {
     "brand": "OPEL",
@@ -371,7 +371,7 @@
     "hp": "105",
     "cc": "1598",
     "engineCodes": "Z 16 XEP",
-    "KBA_Numbers": "0035AFJ  0035AAX"
+    "KBA_Numbers": "0035AFJ, 0035AAX"
   },
   {
     "brand": "OPEL",
@@ -382,7 +382,7 @@
     "hp": "122",
     "cc": "1796",
     "engineCodes": "Z 18 XE",
-    "KBA_Numbers": "0035060  0035013  0035ACK"
+    "KBA_Numbers": "0035060, 0035013, 0035ACK"
   },
   {
     "brand": "OPEL",
@@ -404,7 +404,7 @@
     "hp": "120",
     "cc": "1910",
     "engineCodes": "Z 19 DT",
-    "KBA_Numbers": "0035068  0035021  0035ACN"
+    "KBA_Numbers": "0035068, 0035021, 0035ACN"
   },
   {
     "brand": "OPEL",
@@ -415,7 +415,7 @@
     "hp": "150",
     "cc": "1910",
     "engineCodes": "Z 19 DTH",
-    "KBA_Numbers": "0035069  0035022  0035ACP"
+    "KBA_Numbers": "0035069, 0035022, 0035ACP"
   },
   {
     "brand": "OPEL",
@@ -426,7 +426,7 @@
     "hp": "100",
     "cc": "1910",
     "engineCodes": "Z 19 DTL",
-    "KBA_Numbers": "0035111  0035ACO"
+    "KBA_Numbers": "0035111, 0035ACO"
   },
   {
     "brand": "OPEL",
@@ -437,7 +437,7 @@
     "hp": "100",
     "cc": "1995",
     "engineCodes": "Y 20 DTH",
-    "KBA_Numbers": "0035065  0035020"
+    "KBA_Numbers": "0035065, 0035020"
   },
   {
     "brand": "OPEL",
@@ -448,7 +448,7 @@
     "hp": "155",
     "cc": "2198",
     "engineCodes": "Z 22 YH",
-    "KBA_Numbers": "0035063  0035016  0035ACM"
+    "KBA_Numbers": "0035063, 0035016, 0035ACM"
   },
   {
     "brand": "OPEL",
@@ -459,7 +459,7 @@
     "hp": "125",
     "cc": "2172",
     "engineCodes": "Y 22 DTR",
-    "KBA_Numbers": "0035066  0035018"
+    "KBA_Numbers": "0035066, 0035018"
   },
   {
     "brand": "OPEL",
@@ -470,7 +470,7 @@
     "hp": "100",
     "cc": "1598",
     "engineCodes": "Z 16 XE",
-    "KBA_Numbers": "0035071  0035454  0035ABX"
+    "KBA_Numbers": "0035071, 0035454, 0035ABX"
   },
   {
     "brand": "OPEL",
@@ -503,7 +503,7 @@
     "hp": "110",
     "cc": "1796",
     "engineCodes": "Z 18 XEL",
-    "KBA_Numbers": "0035077  0035456"
+    "KBA_Numbers": "0035077, 0035456"
   },
   {
     "brand": "OPEL",
@@ -514,7 +514,7 @@
     "hp": "122",
     "cc": "1796",
     "engineCodes": "Z 18 XE",
-    "KBA_Numbers": "0035075  0035455  0035ABY"
+    "KBA_Numbers": "0035075, 0035455, 0035ABY"
   },
   {
     "brand": "OPEL",
@@ -525,7 +525,7 @@
     "hp": "120",
     "cc": "1910",
     "engineCodes": "Z 19 DT",
-    "KBA_Numbers": "0035091  0035024  0035ACE"
+    "KBA_Numbers": "0035091, 0035024, 0035ACE"
   },
   {
     "brand": "OPEL",
@@ -536,7 +536,7 @@
     "hp": "150",
     "cc": "1910",
     "engineCodes": "Z 19 DTH",
-    "KBA_Numbers": "0035093  0035026  0035ACG"
+    "KBA_Numbers": "0035093, 0035026, 0035ACG"
   },
   {
     "brand": "OPEL",
@@ -547,7 +547,7 @@
     "hp": "100",
     "cc": "1910",
     "engineCodes": "Z 19 DTL",
-    "KBA_Numbers": "0035109  0035ACF"
+    "KBA_Numbers": "0035109, 0035ACF"
   },
   {
     "brand": "OPEL",
@@ -569,7 +569,7 @@
     "hp": "147",
     "cc": "2198",
     "engineCodes": "Z 22 SE",
-    "KBA_Numbers": "0035083  0035459  0035ACA"
+    "KBA_Numbers": "0035083, 0035459, 0035ACA"
   },
   {
     "brand": "OPEL",
@@ -580,7 +580,7 @@
     "hp": "155",
     "cc": "2198",
     "engineCodes": "Z 22 YH",
-    "KBA_Numbers": "0035028  0035095  0035ACB"
+    "KBA_Numbers": "0035028, 0035095, 0035ACB"
   },
   {
     "brand": "OPEL",
@@ -591,7 +591,7 @@
     "hp": "117",
     "cc": "2172",
     "engineCodes": "Y 22 DTR",
-    "KBA_Numbers": "0035081  0035458"
+    "KBA_Numbers": "0035081, 0035458"
   },
   {
     "brand": "OPEL",
@@ -602,7 +602,7 @@
     "hp": "125",
     "cc": "2172",
     "engineCodes": "Y 22 DTR",
-    "KBA_Numbers": "0035079  0035457"
+    "KBA_Numbers": "0035079, 0035457"
   },
   {
     "brand": "SAAB",
@@ -613,7 +613,7 @@
     "hp": "150",
     "cc": "1998",
     "engineCodes": "B207E",
-    "KBA_Numbers": "9116425  9116AAW"
+    "KBA_Numbers": "9116425, 9116AAW"
   },
   {
     "brand": "SAAB",
@@ -635,7 +635,7 @@
     "hp": "122",
     "cc": "1796",
     "engineCodes": "Z 18 XE",
-    "KBA_Numbers": "9116437  9116ABB"
+    "KBA_Numbers": "9116437, 9116ABB"
   },
   {
     "brand": "SAAB",
@@ -646,7 +646,7 @@
     "hp": "120",
     "cc": "1910",
     "engineCodes": "Z 19 DT",
-    "KBA_Numbers": "9116439  9116ABC"
+    "KBA_Numbers": "9116439, 9116ABC"
   },
   {
     "brand": "SAAB",
@@ -657,7 +657,7 @@
     "hp": "150",
     "cc": "1910",
     "engineCodes": "Z 19 DTH",
-    "KBA_Numbers": "9116438  9116ABD"
+    "KBA_Numbers": "9116438, 9116ABD"
   },
   {
     "brand": "SAAB",
@@ -689,7 +689,7 @@
     "kw": "132",
     "hp": "180",
     "cc": "1910",
-    "engineCodes": "Z 19 DTR  A 19 DTR",
+    "engineCodes": "Z 19 DTR, A 19 DTR",
     "KBA_Numbers": "9116ABT"
   },
   {
@@ -701,7 +701,7 @@
     "hp": "175",
     "cc": "1998",
     "engineCodes": "B207L",
-    "KBA_Numbers": "9116426  9116AAX"
+    "KBA_Numbers": "9116426, 9116AAX"
   },
   {
     "brand": "SAAB",
@@ -712,7 +712,7 @@
     "hp": "210",
     "cc": "1998",
     "engineCodes": "B207R",
-    "KBA_Numbers": "9116428  9116AAY"
+    "KBA_Numbers": "9116428, 9116AAY"
   },
   {
     "brand": "SAAB",
@@ -943,7 +943,7 @@
     "hp": "250",
     "cc": "2792",
     "engineCodes": "LP9",
-    "KBA_Numbers": "9116450  9116ABA"
+    "KBA_Numbers": "9116450, 9116ABA"
   },
   {
     "brand": "SAAB",
@@ -976,7 +976,7 @@
     "hp": "150",
     "cc": "1998",
     "engineCodes": "B207E",
-    "KBA_Numbers": "9116432  9116AAQ  9116ABM"
+    "KBA_Numbers": "9116432, 9116AAQ, 9116ABM"
   },
   {
     "brand": "SAAB",
@@ -1009,7 +1009,7 @@
     "hp": "150",
     "cc": "1910",
     "engineCodes": "Z 19 DTH",
-    "KBA_Numbers": "9116ABP  9116AAV"
+    "KBA_Numbers": "9116ABP, 9116AAV"
   },
   {
     "brand": "SAAB",
@@ -1041,7 +1041,7 @@
     "kw": "132",
     "hp": "180",
     "cc": "1910",
-    "engineCodes": "Z 19 DTR  A 19 DTR",
+    "engineCodes": "Z 19 DTR, A 19 DTR",
     "KBA_Numbers": "9116ABV"
   },
   {
@@ -1064,7 +1064,7 @@
     "hp": "175",
     "cc": "1998",
     "engineCodes": "B207L",
-    "KBA_Numbers": "9116ABN  9116433  9116AAR"
+    "KBA_Numbers": "9116ABN, 9116433, 9116AAR"
   },
   {
     "brand": "SAAB",
@@ -1075,7 +1075,7 @@
     "hp": "210",
     "cc": "1998",
     "engineCodes": "B207R",
-    "KBA_Numbers": "9116ABO  9116434  9116AAS"
+    "KBA_Numbers": "9116ABO, 9116434, 9116AAS"
   },
   {
     "brand": "SAAB",
@@ -1174,7 +1174,7 @@
     "hp": "230",
     "cc": "2792",
     "engineCodes": "LP9",
-    "KBA_Numbers": "9116446  9116AAT"
+    "KBA_Numbers": "9116446, 9116AAT"
   },
   {
     "brand": "SAAB",
@@ -1185,7 +1185,7 @@
     "hp": "250",
     "cc": "2792",
     "engineCodes": "LP9",
-    "KBA_Numbers": "9116447  9116AAU"
+    "KBA_Numbers": "9116447, 9116AAU"
   },
   {
     "brand": "SAAB",
@@ -1207,7 +1207,7 @@
     "hp": "122",
     "cc": "1796",
     "engineCodes": "Z 18 XE",
-    "KBA_Numbers": "9116441  9116ABJ"
+    "KBA_Numbers": "9116441, 9116ABJ"
   },
   {
     "brand": "SAAB",
@@ -1218,7 +1218,7 @@
     "hp": "150",
     "cc": "1998",
     "engineCodes": "B207E",
-    "KBA_Numbers": "9116444  9116ABE"
+    "KBA_Numbers": "9116444, 9116ABE"
   },
   {
     "brand": "SAAB",
@@ -1240,7 +1240,7 @@
     "hp": "120",
     "cc": "1910",
     "engineCodes": "Z 19 DT",
-    "KBA_Numbers": "9116442  9116ABK"
+    "KBA_Numbers": "9116442, 9116ABK"
   },
   {
     "brand": "SAAB",
@@ -1251,7 +1251,7 @@
     "hp": "150",
     "cc": "1910",
     "engineCodes": "Z 19 DTH",
-    "KBA_Numbers": "9116443  9116ABL"
+    "KBA_Numbers": "9116443, 9116ABL"
   },
   {
     "brand": "SAAB",
@@ -1295,7 +1295,7 @@
     "hp": "150",
     "cc": "1998",
     "engineCodes": "B207E",
-    "KBA_Numbers": "9116444  9116ABE"
+    "KBA_Numbers": "9116444, 9116ABE"
   },
   {
     "brand": "SAAB",
@@ -1306,7 +1306,7 @@
     "hp": "175",
     "cc": "1998",
     "engineCodes": "B207L",
-    "KBA_Numbers": "9116445  9116ABF"
+    "KBA_Numbers": "9116445, 9116ABF"
   },
   {
     "brand": "SAAB",
@@ -1317,7 +1317,7 @@
     "hp": "209",
     "cc": "1998",
     "engineCodes": "B207R",
-    "KBA_Numbers": "9116440  9116ABG"
+    "KBA_Numbers": "9116440, 9116ABG"
   },
   {
     "brand": "SAAB",
@@ -1526,7 +1526,7 @@
     "hp": "250",
     "cc": "2792",
     "engineCodes": "LP9",
-    "KBA_Numbers": "9116451  9116ABI"
+    "KBA_Numbers": "9116451, 9116ABI"
   },
   {
     "brand": "SAAB",
@@ -1558,7 +1558,7 @@
     "kw": "132",
     "hp": "180",
     "cc": "1910",
-    "engineCodes": "Z 19 DTR  A 19 DTR",
+    "engineCodes": "Z 19 DTR, A 19 DTR",
     "KBA_Numbers": "9116ABU"
   },
   {

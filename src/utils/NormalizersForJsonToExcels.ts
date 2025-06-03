@@ -97,4 +97,20 @@ function normalizeModel(model: string): string {
     return normalizedModelValue;
 }
 
-export { getTargetBrandName, normalizeModel, normalizeString, brandAliases, REPLACE_MAP, rawBrandAliases, normalizedModelCache };
+// ** findYvNoOptimized fonksiyonu güncellendi **
+function findYvNoOptimized(crossNumber: string | undefined, lookupDataMap: Map<string, string>): string[] {
+    if (!crossNumber || crossNumber.trim() === "") {
+        console.warn(`⚠️ findYvNoOptimized'a geçersiz (boş veya undefined) crossNumber geldi.`);
+        return [];
+    }
+    const trimmedCrossNumber = crossNumber.trim(); // Hem trimle hem de normalize et
+    
+    const yvNo = lookupDataMap.get(trimmedCrossNumber);
+    if (!yvNo) {
+        console.warn(`⚠️ lookupDataMap'te '${trimmedCrossNumber}' için YV No bulunamadı.`);
+    }
+    
+    return yvNo ? [yvNo] : [];
+}
+
+export { getTargetBrandName, normalizeModel, normalizeString, brandAliases, REPLACE_MAP, rawBrandAliases, normalizedModelCache, findYvNoOptimized };

@@ -7,7 +7,7 @@
     "kw": "147",
     "hp": "200",
     "cc": "1618",
-    "engineCodes": "M5M 401  M5M 400  M5M 450",
+    "engineCodes": "M5M 401, M5M 400, M5M 450",
     "KBA_Numbers": "3333BBB"
   },
   {
@@ -62,7 +62,7 @@
     "kw": "118",
     "hp": "160",
     "cc": "1997",
-    "engineCodes": "M9R 650  M9R 712",
+    "engineCodes": "M9R 650, M9R 712",
     "KBA_Numbers": "3333BKR"
   },
   {
@@ -85,7 +85,7 @@
     "hp": "160",
     "cc": "1995",
     "engineCodes": "M9R 610",
-    "KBA_Numbers": "3333AUM  3333AUN"
+    "KBA_Numbers": "3333AUM, 3333AUN"
   },
   {
     "brand": "RENAULT",
@@ -96,7 +96,7 @@
     "hp": "150",
     "cc": "1995",
     "engineCodes": "M9R 615",
-    "KBA_Numbers": "3333AUP  3333AUO"
+    "KBA_Numbers": "3333AUP, 3333AUO"
   },
   {
     "brand": "RENAULT",
@@ -128,7 +128,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "1332",
-    "engineCodes": "H5H 470  H5H 450",
+    "engineCodes": "H5H 470, H5H 450",
     "KBA_Numbers": "3333BIT"
   },
   {
@@ -139,7 +139,7 @@
     "kw": "103",
     "hp": "140",
     "cc": "1332",
-    "engineCodes": "H5H 470  H5H 450  H5H 490",
+    "engineCodes": "H5H 470, H5H 450, H5H 490",
     "KBA_Numbers": "3333BIR"
   },
   {
@@ -183,7 +183,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1461",
-    "engineCodes": "K9K 647  K9K 646  K9K 649",
+    "engineCodes": "K9K 647, K9K 646, K9K 649",
     "KBA_Numbers": "3333BFY"
   },
   {
@@ -194,7 +194,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1461",
-    "engineCodes": "K9K 502  K9K 500  K9K 648",
+    "engineCodes": "K9K 502, K9K 500, K9K 648",
     "KBA_Numbers": "3333BGB"
   },
   {
@@ -227,7 +227,7 @@
     "kw": "88",
     "hp": "120",
     "cc": "1749",
-    "engineCodes": "R9N 401  R9N 400",
+    "engineCodes": "R9N 401, R9N 400",
     "KBA_Numbers": "3333BKI"
   },
   {
@@ -249,7 +249,7 @@
     "kw": "125",
     "hp": "170",
     "cc": "1998",
-    "engineCodes": "F4R 811  F4Rt 811",
+    "engineCodes": "F4R 811, F4Rt 811",
     "KBA_Numbers": "3333ASA"
   },
   {
@@ -260,7 +260,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1995",
-    "engineCodes": "M9R 748  M9R 845  M9R 754  M9R 854  M9R 858  M9R 744  M9R 808  M9R 802  M9R 814  M9R 805",
+    "engineCodes": "M9R 748, M9R 845, M9R 754, M9R 854, M9R 858, M9R 744, M9R 808, M9R 802, M9R 814, M9R 805",
     "KBA_Numbers": "3333ASB"
   },
   {
@@ -271,7 +271,7 @@
     "kw": "127",
     "hp": "173",
     "cc": "1995",
-    "engineCodes": "M9R 857  M9R 809  M9R 815  M9R 800  M9R 854  M9R 806  M9R 849",
+    "engineCodes": "M9R 857, M9R 809, M9R 815, M9R 800, M9R 854, M9R 806, M9R 849",
     "KBA_Numbers": "3333ASC"
   },
   {
@@ -282,7 +282,7 @@
     "kw": "131",
     "hp": "178",
     "cc": "1995",
-    "engineCodes": "M9R 828  M9R 816  M9R 820",
+    "engineCodes": "M9R 828, M9R 816, M9R 820",
     "KBA_Numbers": "3333ARZ"
   },
   {
@@ -315,7 +315,7 @@
     "kw": "173",
     "hp": "235",
     "cc": "2998",
-    "engineCodes": "V9X 791  V9X 891",
+    "engineCodes": "V9X 791, V9X 891",
     "KBA_Numbers": "3333ARW"
   },
   {
@@ -348,7 +348,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1995",
-    "engineCodes": "M9R 808  M9R 845  M9R 858  M9R 744  M9R 746  M9R 748  M9R 754  M9R 854  M9R 742  M9R 802  M9R 814  M9R 805",
+    "engineCodes": "M9R 808, M9R 845, M9R 858, M9R 744, M9R 746, M9R 748, M9R 754, M9R 854, M9R 742, M9R 802, M9R 814, M9R 805",
     "KBA_Numbers": "3333APT"
   },
   {
@@ -359,7 +359,7 @@
     "kw": "96",
     "hp": "131",
     "cc": "1995",
-    "engineCodes": "M9R 854  M9R 858  M9R 814  M9R 802  M9R 744  M9R 742",
+    "engineCodes": "M9R 854, M9R 858, M9R 814, M9R 802, M9R 744, M9R 742",
     "KBA_Numbers": "3333APS"
   },
   {
@@ -370,7 +370,7 @@
     "kw": "127",
     "hp": "173",
     "cc": "1995",
-    "engineCodes": "M9R 854  M9R 858  M9R 857  M9R 809  M9R 806  M9R 800  M9R 815  M9R 849",
+    "engineCodes": "M9R 854, M9R 858, M9R 857, M9R 809, M9R 806, M9R 800, M9R 815, M9R 849",
     "KBA_Numbers": "3333AQV"
   },
   {
@@ -381,7 +381,7 @@
     "kw": "131",
     "hp": "178",
     "cc": "1995",
-    "engineCodes": "M9R 828  M9R 820  M9R 816",
+    "engineCodes": "M9R 828, M9R 820, M9R 816",
     "KBA_Numbers": "3333ARI"
   },
   {
@@ -403,7 +403,7 @@
     "kw": "173",
     "hp": "235",
     "cc": "2998",
-    "engineCodes": "V9X 891  V9X 791",
+    "engineCodes": "V9X 891, V9X 791",
     "KBA_Numbers": "3333ARU"
   },
   {
@@ -436,7 +436,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1995",
-    "engineCodes": "M9R 845  M9R 858  M9R 742  M9R 808  M9R 854  M9R 744  M9R 802  M9R 814  M9R 805",
+    "engineCodes": "M9R 845, M9R 858, M9R 742, M9R 808, M9R 854, M9R 744, M9R 802, M9R 814, M9R 805",
     "KBA_Numbers": "3333APY"
   },
   {
@@ -447,7 +447,7 @@
     "kw": "96",
     "hp": "131",
     "cc": "1995",
-    "engineCodes": "M9R 858  M9R 854  M9R 814  M9R 802  M9R 744  M9R 742",
+    "engineCodes": "M9R 858, M9R 854, M9R 814, M9R 802, M9R 744, M9R 742",
     "KBA_Numbers": "3333APX"
   },
   {
@@ -458,7 +458,7 @@
     "kw": "127",
     "hp": "173",
     "cc": "1995",
-    "engineCodes": "M9R 857  M9R 858  M9R 849  M9R 854  M9R 806  M9R 800  M9R 809  M9R 815",
+    "engineCodes": "M9R 857, M9R 858, M9R 849, M9R 854, M9R 806, M9R 800, M9R 809, M9R 815",
     "KBA_Numbers": "3333AQX"
   },
   {
@@ -469,7 +469,7 @@
     "kw": "131",
     "hp": "178",
     "cc": "1995",
-    "engineCodes": "M9R 828  M9R 816  M9R 820",
+    "engineCodes": "M9R 828, M9R 816, M9R 820",
     "KBA_Numbers": "3333ARN"
   },
   {
@@ -491,7 +491,7 @@
     "kw": "173",
     "hp": "235",
     "cc": "2998",
-    "engineCodes": "V9X 891  V9X 791",
+    "engineCodes": "V9X 891, V9X 791",
     "KBA_Numbers": "3333ASD"
   },
   {
@@ -634,7 +634,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "1332",
-    "engineCodes": "H5H 470  H5H 450",
+    "engineCodes": "H5H 470, H5H 450",
     "KBA_Numbers": "3333BIT"
   },
   {
@@ -645,7 +645,7 @@
     "kw": "103",
     "hp": "140",
     "cc": "1332",
-    "engineCodes": "H5H 470  H5H 450",
+    "engineCodes": "H5H 470, H5H 450",
     "KBA_Numbers": "3333BIR"
   },
   {
@@ -678,7 +678,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1461",
-    "engineCodes": "K9K 647  K9K 646",
+    "engineCodes": "K9K 647, K9K 646",
     "KBA_Numbers": "3333BFY"
   },
   {
@@ -689,7 +689,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1461",
-    "engineCodes": "K9K 502  K9K 500",
+    "engineCodes": "K9K 502, K9K 500",
     "KBA_Numbers": "3333BGB"
   },
   {
@@ -700,7 +700,7 @@
     "kw": "70",
     "hp": "95",
     "cc": "1461",
-    "engineCodes": "K9K 646  K9K 846  K9K 648",
+    "engineCodes": "K9K 646, K9K 846, K9K 648",
     "KBA_Numbers": "3333BGQ"
   },
   {
@@ -733,7 +733,7 @@
     "kw": "88",
     "hp": "120",
     "cc": "1749",
-    "engineCodes": "R9N 401  R9N 400",
+    "engineCodes": "R9N 401, R9N 400",
     "KBA_Numbers": "3333BKI"
   },
   {
@@ -744,7 +744,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1749",
-    "engineCodes": "R9N 400  R9N 401",
+    "engineCodes": "R9N 400, R9N 401",
     "KBA_Numbers": "3333BKH"
   },
   {
@@ -766,7 +766,7 @@
     "kw": "116",
     "hp": "158",
     "cc": "1332",
-    "engineCodes": "H5H 470  H5H 490",
+    "engineCodes": "H5H 470, H5H 490",
     "KBA_Numbers": "3333BOI"
   },
   {
@@ -777,7 +777,7 @@
     "kw": "118",
     "hp": "160",
     "cc": "1598",
-    "engineCodes": "R9M 452  R9M 453",
+    "engineCodes": "R9M 452, R9M 453",
     "KBA_Numbers": "3333BER"
   },
   {
@@ -854,7 +854,7 @@
     "kw": "116",
     "hp": "158",
     "cc": "1332",
-    "engineCodes": "H5H 470  H5H 490",
+    "engineCodes": "H5H 470, H5H 490",
     "KBA_Numbers": "3333BOF"
   },
   {
@@ -865,7 +865,7 @@
     "kw": "118",
     "hp": "160",
     "cc": "1598",
-    "engineCodes": "R9M 453  R9M 452",
+    "engineCodes": "R9M 453, R9M 452",
     "KBA_Numbers": "3333BFE"
   },
   {

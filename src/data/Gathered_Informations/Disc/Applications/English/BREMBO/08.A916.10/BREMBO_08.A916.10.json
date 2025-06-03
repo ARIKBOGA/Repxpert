@@ -107,7 +107,7 @@
     "hp": "61",
     "cc": "999",
     "engineCodes": "G4HE",
-    "KBA_Numbers": "8253365  8253AAR  8253AAS"
+    "KBA_Numbers": "8253365, 8253AAR, 8253AAS"
   },
   {
     "brand": "KIA",
@@ -118,7 +118,7 @@
     "hp": "63",
     "cc": "999",
     "engineCodes": "G4HE",
-    "KBA_Numbers": "8253ABV  8253ABW"
+    "KBA_Numbers": "8253ABV, 8253ABW"
   },
   {
     "brand": "KIA",
@@ -129,7 +129,7 @@
     "hp": "65",
     "cc": "1086",
     "engineCodes": "G4HG",
-    "KBA_Numbers": "8253354  8253AAP  8253AAQ"
+    "KBA_Numbers": "8253354, 8253AAP, 8253AAQ"
   },
   {
     "brand": "KIA",
@@ -140,7 +140,7 @@
     "hp": "75",
     "cc": "1120",
     "engineCodes": "D3FA",
-    "KBA_Numbers": "8253385  8253AAT  8253AAU"
+    "KBA_Numbers": "8253385, 8253AAT, 8253AAU"
   },
   {
     "brand": "KIA",
@@ -151,7 +151,7 @@
     "hp": "67",
     "cc": "998",
     "engineCodes": "G3LA",
-    "KBA_Numbers": "8253AHB  8253AFO"
+    "KBA_Numbers": "8253AHB, 8253AFO"
   },
   {
     "brand": "KIA",
@@ -216,8 +216,8 @@
     "kw": "49",
     "hp": "67",
     "cc": "998",
-    "engineCodes": "G3LA  G3LD",
-    "KBA_Numbers": "8253AHB  2233AAM"
+    "engineCodes": "G3LA, G3LD",
+    "KBA_Numbers": "8253AHB, 2233AAM"
   },
   {
     "brand": "KIA",
@@ -238,7 +238,7 @@
     "kw": "48",
     "hp": "65",
     "cc": "998",
-    "engineCodes": "G3LA  G3LD",
+    "engineCodes": "G3LA, G3LD",
     "KBA_Numbers": ""
   },
   {
@@ -249,8 +249,8 @@
     "kw": "74",
     "hp": "100",
     "cc": "998",
-    "engineCodes": "G3LC  G3LE",
-    "KBA_Numbers": "8253AGM  2233AAO"
+    "engineCodes": "G3LC, G3LE",
+    "KBA_Numbers": "8253AGM, 2233AAO"
   },
   {
     "brand": "KIA",
@@ -272,6 +272,6 @@
     "hp": "84",
     "cc": "1197",
     "engineCodes": "G4LF",
-    "KBA_Numbers": "8253AJB  2233AAN"
+    "KBA_Numbers": "8253AJB, 2233AAN"
   }
 ]

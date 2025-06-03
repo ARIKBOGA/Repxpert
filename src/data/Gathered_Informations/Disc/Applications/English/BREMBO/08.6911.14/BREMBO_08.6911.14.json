@@ -7,7 +7,7 @@
     "kw": "74",
     "hp": "100",
     "cc": "1595",
-    "engineCodes": "AHL  ANA  ARM  ADP",
+    "engineCodes": "AHL, ANA, ARM, ADP",
     "KBA_Numbers": "0588591"
   },
   {
@@ -29,7 +29,7 @@
     "kw": "92",
     "hp": "125",
     "cc": "1781",
-    "engineCodes": "AVV  ARG  APT  ADR",
+    "engineCodes": "AVV, ARG, APT, ADR",
     "KBA_Numbers": "0588592"
   },
   {
@@ -51,7 +51,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1781",
-    "engineCodes": "AWT  APU  ANB  ARK  AEB",
+    "engineCodes": "AWT, APU, ANB, ARK, AEB",
     "KBA_Numbers": "0588593"
   },
   {
@@ -73,7 +73,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1896",
-    "engineCodes": "AHH  AHU  1Z",
+    "engineCodes": "AHH, AHU, 1Z",
     "KBA_Numbers": "0588599"
   },
   {
@@ -84,7 +84,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1896",
-    "engineCodes": "AVG  AFN",
+    "engineCodes": "AVG, AFN",
     "KBA_Numbers": "0588607"
   },
   {
@@ -117,7 +117,7 @@
     "kw": "121",
     "hp": "165",
     "cc": "2393",
-    "engineCodes": "AGA  ALF  ARJ  APS  AML",
+    "engineCodes": "AGA, ALF, ARJ, APS, AML",
     "KBA_Numbers": "0588661"
   },
   {
@@ -128,7 +128,7 @@
     "kw": "120",
     "hp": "163",
     "cc": "2393",
-    "engineCodes": "AMM  AJG  APZ",
+    "engineCodes": "AMM, AJG, APZ",
     "KBA_Numbers": "0588665"
   },
   {
@@ -139,7 +139,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "2496",
-    "engineCodes": "AKN  AFB",
+    "engineCodes": "AKN, AFB",
     "KBA_Numbers": "0588696"
   },
   {
@@ -161,7 +161,7 @@
     "kw": "128",
     "hp": "174",
     "cc": "2771",
-    "engineCodes": "AAH  AFC",
+    "engineCodes": "AAH, AFC",
     "KBA_Numbers": "0588597"
   },
   {
@@ -172,7 +172,7 @@
     "kw": "142",
     "hp": "193",
     "cc": "2771",
-    "engineCodes": "AHA  ATQ  ALG  AQD  AMX  APR  ACK",
+    "engineCodes": "AHA, ATQ, ALG, AQD, AMX, APR, ACK",
     "KBA_Numbers": "0588633"
   },
   {
@@ -194,7 +194,7 @@
     "kw": "74",
     "hp": "100",
     "cc": "1595",
-    "engineCodes": "AHL  ARM  ANA  ADP",
+    "engineCodes": "AHL, ARM, ANA, ADP",
     "KBA_Numbers": "0588618"
   },
   {
@@ -227,7 +227,7 @@
     "kw": "92",
     "hp": "125",
     "cc": "1781",
-    "engineCodes": "AVV  APT  ARG  ADR",
+    "engineCodes": "AVV, APT, ARG, ADR",
     "KBA_Numbers": "0588619"
   },
   {
@@ -238,7 +238,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1781",
-    "engineCodes": "APU  AWT  ANB  ARK  AEB",
+    "engineCodes": "APU, AWT, ANB, ARK, AEB",
     "KBA_Numbers": "0588621"
   },
   {
@@ -271,7 +271,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1896",
-    "engineCodes": "AHH  AHU  1Z",
+    "engineCodes": "AHH, AHU, 1Z",
     "KBA_Numbers": "0588627"
   },
   {
@@ -282,7 +282,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1896",
-    "engineCodes": "AVG  AFN",
+    "engineCodes": "AVG, AFN",
     "KBA_Numbers": "0588628"
   },
   {
@@ -293,7 +293,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "1896",
-    "engineCodes": "AJM  ATJ",
+    "engineCodes": "AJM, ATJ",
     "KBA_Numbers": "0588714"
   },
   {
@@ -304,7 +304,7 @@
     "kw": "121",
     "hp": "165",
     "cc": "2393",
-    "engineCodes": "AGA  ALF  ARJ  APS  AML",
+    "engineCodes": "AGA, ALF, ARJ, APS, AML",
     "KBA_Numbers": "0588662"
   },
   {
@@ -315,7 +315,7 @@
     "kw": "120",
     "hp": "163",
     "cc": "2393",
-    "engineCodes": "AMM  APZ  AJG",
+    "engineCodes": "AMM, APZ, AJG",
     "KBA_Numbers": "0588666"
   },
   {
@@ -326,7 +326,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "2496",
-    "engineCodes": "AFB  AKN",
+    "engineCodes": "AFB, AKN",
     "KBA_Numbers": "0588698"
   },
   {
@@ -348,7 +348,7 @@
     "kw": "142",
     "hp": "193",
     "cc": "2771",
-    "engineCodes": "AHA  ALG  AQD  APR  ACK",
+    "engineCodes": "AHA, ALG, AQD, APR, ACK",
     "KBA_Numbers": "0588634"
   },
   {

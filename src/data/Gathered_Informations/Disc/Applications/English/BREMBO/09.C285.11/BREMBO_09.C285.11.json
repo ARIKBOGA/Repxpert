@@ -18,7 +18,7 @@
     "kw": "54",
     "hp": "73",
     "cc": "998",
-    "engineCodes": "B4D 401  B4D 400",
+    "engineCodes": "B4D 401, B4D 400",
     "KBA_Numbers": "8212AEK"
   },
   {
@@ -40,8 +40,8 @@
     "kw": "54",
     "hp": "73",
     "cc": "1149",
-    "engineCodes": "8212ADS",
-    "KBA_Numbers": ""
+    "engineCodes": "",
+    "KBA_Numbers": "8212ADS"
   },
   {
     "brand": "DACIA",
@@ -73,7 +73,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1461",
-    "engineCodes": "K9K 612  K9K 626",
+    "engineCodes": "K9K 612, K9K 626",
     "KBA_Numbers": "8212ADA"
   },
   {
@@ -84,7 +84,7 @@
     "kw": "63",
     "hp": "84",
     "cc": "1461",
-    "engineCodes": "K9K 838  K9K 830",
+    "engineCodes": "K9K 838, K9K 830",
     "KBA_Numbers": ""
   },
   {
@@ -95,7 +95,7 @@
     "kw": "55",
     "hp": "75",
     "cc": "1461",
-    "engineCodes": "K9K 872  K9K 612  K9K 626",
+    "engineCodes": "K9K 872, K9K 612, K9K 626",
     "KBA_Numbers": "8212ABQ"
   },
   {
@@ -117,7 +117,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "898",
-    "engineCodes": "H4B 408  H4B 400  H4B 412",
+    "engineCodes": "H4B 408, H4B 400, H4B 412",
     "KBA_Numbers": "8212ACY"
   },
   {
@@ -129,7 +129,7 @@
     "hp": "91",
     "cc": "999",
     "engineCodes": "H4D 470",
-    "KBA_Numbers": "8212AFO  8212AFN"
+    "KBA_Numbers": "8212AFO, 8212AFN"
   },
   {
     "brand": "DACIA",
@@ -139,8 +139,8 @@
     "kw": "54",
     "hp": "73",
     "cc": "998",
-    "engineCodes": "B4D 401  B4D 400",
-    "KBA_Numbers": "8212AEJ  8212AEL"
+    "engineCodes": "B4D 401, B4D 400",
+    "KBA_Numbers": "8212AEJ, 8212AEL"
   },
   {
     "brand": "DACIA",
@@ -162,7 +162,7 @@
     "hp": "73",
     "cc": "1149",
     "engineCodes": "D4F 732",
-    "KBA_Numbers": "8212ADR  8212ADU"
+    "KBA_Numbers": "8212ADR, 8212ADU"
   },
   {
     "brand": "DACIA",
@@ -194,7 +194,7 @@
     "kw": "55",
     "hp": "75",
     "cc": "1461",
-    "engineCodes": "K9K 626  K9K 612",
+    "engineCodes": "K9K 626, K9K 612",
     "KBA_Numbers": "8212ABO"
   },
   {
@@ -205,7 +205,7 @@
     "kw": "63",
     "hp": "84",
     "cc": "1461",
-    "engineCodes": "K9K 838  K9K 830",
+    "engineCodes": "K9K 838, K9K 830",
     "KBA_Numbers": ""
   },
   {
@@ -216,7 +216,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1461",
-    "engineCodes": "K9K 626  K9K 612",
+    "engineCodes": "K9K 626, K9K 612",
     "KBA_Numbers": "8212ACF"
   },
   {
@@ -238,7 +238,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "898",
-    "engineCodes": "H4B 408  H4B 400  H4B 412",
+    "engineCodes": "H4B 408, H4B 400, H4B 412",
     "KBA_Numbers": "8212ADD"
   },
   {
@@ -249,7 +249,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "898",
-    "engineCodes": "H4B 410  H4B 405",
+    "engineCodes": "H4B 410, H4B 405",
     "KBA_Numbers": "8212ADZ"
   },
   {
@@ -261,7 +261,7 @@
     "hp": "75",
     "cc": "1149",
     "engineCodes": "D4F 732",
-    "KBA_Numbers": "8212AAU  8212ABV"
+    "KBA_Numbers": "8212AAU, 8212ABV"
   },
   {
     "brand": "DACIA",
@@ -283,7 +283,7 @@
     "hp": "68",
     "cc": "1461",
     "engineCodes": "K9K 792",
-    "KBA_Numbers": "8212AAM  8212ABC  8212ABT"
+    "KBA_Numbers": "8212AAM, 8212ABC, 8212ABT"
   },
   {
     "brand": "DACIA",
@@ -293,8 +293,8 @@
     "kw": "64",
     "hp": "87",
     "cc": "1598",
-    "engineCodes": "K7M 710  K7M 718",
-    "KBA_Numbers": "8212AAL  8212ABA  8212ABS"
+    "engineCodes": "K7M 710, K7M 718",
+    "KBA_Numbers": "8212AAL, 8212ABA, 8212ABS"
   },
   {
     "brand": "DACIA",
@@ -304,7 +304,7 @@
     "kw": "77",
     "hp": "105",
     "cc": "1598",
-    "engineCodes": "K4M 694  K4M 690",
+    "engineCodes": "K4M 694, K4M 690",
     "KBA_Numbers": "8212ACT"
   },
   {
@@ -315,8 +315,8 @@
     "kw": "62",
     "hp": "84",
     "cc": "1598",
-    "engineCodes": "K7M 800  K7M 818",
-    "KBA_Numbers": "8212ACI  8212ACE"
+    "engineCodes": "K7M 800, K7M 818",
+    "KBA_Numbers": "8212ACI, 8212ACE"
   },
   {
     "brand": "DACIA",
@@ -326,8 +326,8 @@
     "kw": "54",
     "hp": "73",
     "cc": "999",
-    "engineCodes": "B4D 400  B4D 401  B4D 490",
-    "KBA_Numbers": "8212AEI  8212AEL"
+    "engineCodes": "B4D 400, B4D 401, B4D 490",
+    "KBA_Numbers": "8212AEI, 8212AEL"
   },
   {
     "brand": "DACIA",
@@ -348,7 +348,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1461",
-    "engineCodes": "K9K 626  K9K 612",
+    "engineCodes": "K9K 626, K9K 612",
     "KBA_Numbers": "8212ADB"
   },
   {
@@ -370,7 +370,7 @@
     "kw": "55",
     "hp": "75",
     "cc": "1461",
-    "engineCodes": "K9K 872  K9K 626  K9K 612  K9K 838",
+    "engineCodes": "K9K 872, K9K 626, K9K 612, K9K 838",
     "KBA_Numbers": "8212ABN"
   },
   {
@@ -381,7 +381,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "898",
-    "engineCodes": "H4B 400  H4B 408  H4B 412  H4B 411  H4B 410",
+    "engineCodes": "H4B 400, H4B 408, H4B 412, H4B 411, H4B 410",
     "KBA_Numbers": "8212ACZ"
   },
   {
@@ -469,7 +469,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "898",
-    "engineCodes": "H4B 408  H4B 400  H4B 412",
+    "engineCodes": "H4B 408, H4B 400, H4B 412",
     "KBA_Numbers": "3333BAD"
   },
   {
@@ -480,7 +480,7 @@
     "kw": "54",
     "hp": "73",
     "cc": "1149",
-    "engineCodes": "D4F 740  D4F 728",
+    "engineCodes": "D4F 740, D4F 728",
     "KBA_Numbers": "3333BAJ"
   },
   {
@@ -502,7 +502,7 @@
     "kw": "87",
     "hp": "118",
     "cc": "1197",
-    "engineCodes": "H5F 412  H5F 408",
+    "engineCodes": "H5F 412, H5F 408",
     "KBA_Numbers": "3333BEF"
   },
   {
@@ -546,7 +546,7 @@
     "kw": "55",
     "hp": "75",
     "cc": "1461",
-    "engineCodes": "K9K 628  K9K 612",
+    "engineCodes": "K9K 628, K9K 612",
     "KBA_Numbers": "3333AXS"
   },
   {
@@ -557,7 +557,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1461",
-    "engineCodes": "K9K 608  K9K 628  K9K 638  K9K 639  K9K 612",
+    "engineCodes": "K9K 608, K9K 628, K9K 638, K9K 639, K9K 612",
     "KBA_Numbers": "3333AZY"
   },
   {
@@ -579,7 +579,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "898",
-    "engineCodes": "H4B 408  H4B 400",
+    "engineCodes": "H4B 408, H4B 400",
     "KBA_Numbers": "3333BAT"
   },
   {
@@ -623,7 +623,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1461",
-    "engineCodes": "K9K 608  K9K 628  K9K 629",
+    "engineCodes": "K9K 608, K9K 628, K9K 629",
     "KBA_Numbers": "3333BJN"
   },
   {
@@ -634,7 +634,7 @@
     "kw": "74",
     "hp": "101",
     "cc": "999",
-    "engineCodes": "H4D 452  H4D 450  H4D 460  H4D 480",
+    "engineCodes": "H4D 452, H4D 450, H4D 460, H4D 480",
     "KBA_Numbers": "3333BLQ"
   },
   {
@@ -645,7 +645,7 @@
     "kw": "85",
     "hp": "116",
     "cc": "1461",
-    "engineCodes": "K9K 872  K9K 862  K9K 854",
+    "engineCodes": "K9K 872, K9K 862, K9K 854",
     "KBA_Numbers": "3333BLN"
   },
   {
@@ -656,7 +656,7 @@
     "kw": "63",
     "hp": "86",
     "cc": "1461",
-    "engineCodes": "K9K 872  K9K 854",
+    "engineCodes": "K9K 872, K9K 854",
     "KBA_Numbers": "3333BLO"
   },
   {
@@ -777,7 +777,7 @@
     "kw": "48",
     "hp": "65",
     "cc": "999",
-    "engineCodes": "B4D 403  B4D413",
+    "engineCodes": "B4D 403, B4D413",
     "KBA_Numbers": "3333BLV"
   },
   {
@@ -810,7 +810,7 @@
     "kw": "54",
     "hp": "73",
     "cc": "999",
-    "engineCodes": "B4D 403  B4D413",
+    "engineCodes": "B4D 403, B4D413",
     "KBA_Numbers": "3333BLU"
   },
   {
@@ -821,7 +821,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "898",
-    "engineCodes": "H4B 409  M 281.910",
+    "engineCodes": "H4B 409, M 281.910",
     "KBA_Numbers": "1313EJJ"
   },
   {
@@ -865,7 +865,7 @@
     "kw": "60",
     "hp": "82",
     "cc": "5AL",
-    "engineCodes": "",
+    "engineCodes": "5AL",
     "KBA_Numbers": ""
   },
   {
@@ -876,8 +876,8 @@
     "kw": "41",
     "hp": "56",
     "cc": "5AL",
-    "engineCodes": "2222ADK  1313HSE  1313GON",
-    "KBA_Numbers": ""
+    "engineCodes": "5AL",
+    "KBA_Numbers": "2222ADK, 1313HSE, 1313GON"
   },
   {
     "brand": "SMART",
@@ -920,8 +920,8 @@
     "kw": "60",
     "hp": "82",
     "cc": "5AL",
-    "engineCodes": "2222ADM  1313HSG  1313GOP",
-    "KBA_Numbers": ""
+    "engineCodes": "5AL",
+    "KBA_Numbers": "2222ADM, 1313HSG, 1313GOP"
   },
   {
     "brand": "SMART",
@@ -931,8 +931,8 @@
     "kw": "41",
     "hp": "56",
     "cc": "5AL",
-    "engineCodes": "2222ADM  1313HSG  1313GOP",
-    "KBA_Numbers": ""
+    "engineCodes": "5AL",
+    "KBA_Numbers": "2222ADM, 1313HSG, 1313GOP"
   },
   {
     "brand": "SMART",
@@ -986,7 +986,7 @@
     "kw": "60",
     "hp": "82",
     "cc": "5AL",
-    "engineCodes": "",
+    "engineCodes": "5AL",
     "KBA_Numbers": ""
   },
   {
@@ -997,7 +997,7 @@
     "kw": "41",
     "hp": "56",
     "cc": "5AL",
-    "engineCodes": "2222ADL  1313HHE  1313HSF",
-    "KBA_Numbers": ""
+    "engineCodes": "5AL",
+    "KBA_Numbers": "2222ADL, 1313HHE, 1313HSF"
   }
 ]

@@ -1,18 +1,18 @@
 [
   {
     "brand": "OPEL",
-    "model": "AGILA (A) (H00)",
+    "model": "AGILA A (H00)",
     "engineType": "1.0 (F68)",
     "madeYear": "08.2003 - 12.2007",
     "kw": "44",
     "hp": "60",
     "cc": "998",
     "engineCodes": "Z 10 XEP",
-    "KBA_Numbers": "0035517  0035AHR"
+    "KBA_Numbers": "0035517, 0035AHR"
   },
   {
     "brand": "OPEL",
-    "model": "AGILA (A) (H00)",
+    "model": "AGILA A (H00)",
     "engineType": "1.0 12V (F68)",
     "madeYear": "09.2000 - 12.2007",
     "kw": "43",
@@ -23,7 +23,7 @@
   },
   {
     "brand": "OPEL",
-    "model": "AGILA (A) (H00)",
+    "model": "AGILA A (H00)",
     "engineType": "1.2 16V (F68)",
     "madeYear": "09.2000 - 12.2007",
     "kw": "55",
@@ -34,25 +34,25 @@
   },
   {
     "brand": "OPEL",
-    "model": "AGILA (A) (H00)",
+    "model": "AGILA A (H00)",
     "engineType": "1.2 16V Twinport (F68)",
     "madeYear": "07.2004 - 12.2007",
     "kw": "59",
     "hp": "80",
     "cc": "1229",
     "engineCodes": "Z 12 XEP",
-    "KBA_Numbers": "0035533  0035AHT"
+    "KBA_Numbers": "0035533, 0035AHT"
   },
   {
     "brand": "OPEL",
-    "model": "AGILA (A) (H00)",
+    "model": "AGILA A (H00)",
     "engineType": "1.3 CDTI (F68)",
     "madeYear": "08.2003 - 12.2007",
     "kw": "51",
     "hp": "70",
     "cc": "1248",
     "engineCodes": "Z 13 DT",
-    "KBA_Numbers": "0035518  0035AHS"
+    "KBA_Numbers": "0035518, 0035AHS"
   },
   {
     "brand": "SUBARU",
@@ -63,7 +63,7 @@
     "hp": "94",
     "cc": "1328",
     "engineCodes": "M13A",
-    "KBA_Numbers": "8306AAS  8306319"
+    "KBA_Numbers": "8306AAS, 8306319"
   },
   {
     "brand": "SUBARU",
@@ -74,7 +74,7 @@
     "hp": "99",
     "cc": "1490",
     "engineCodes": "M15A",
-    "KBA_Numbers": "8306329  8306AAT"
+    "KBA_Numbers": "8306329, 8306AAT"
   },
   {
     "brand": "SUZUKI",
@@ -85,7 +85,7 @@
     "hp": "94",
     "cc": "1328",
     "engineCodes": "M13A",
-    "KBA_Numbers": "8306320  8306AAN"
+    "KBA_Numbers": "8306320, 8306AAN"
   },
   {
     "brand": "SUZUKI",
@@ -96,7 +96,7 @@
     "hp": "94",
     "cc": "1328",
     "engineCodes": "M13A",
-    "KBA_Numbers": "8306321  8306AAO"
+    "KBA_Numbers": "8306321, 8306AAO"
   },
   {
     "brand": "SUZUKI",
@@ -107,7 +107,7 @@
     "hp": "70",
     "cc": "1248",
     "engineCodes": "Z13DT",
-    "KBA_Numbers": "8306324  8306AAR"
+    "KBA_Numbers": "8306324, 8306AAR"
   },
   {
     "brand": "SUZUKI",
@@ -118,7 +118,7 @@
     "hp": "99",
     "cc": "1490",
     "engineCodes": "M15A",
-    "KBA_Numbers": "8306322  8306AAP"
+    "KBA_Numbers": "8306322, 8306AAP"
   },
   {
     "brand": "SUZUKI",
@@ -129,33 +129,33 @@
     "hp": "99",
     "cc": "1490",
     "engineCodes": "M15A",
-    "KBA_Numbers": "8306323  8306AAQ"
+    "KBA_Numbers": "8306323, 8306AAQ"
   },
   {
     "brand": "SUZUKI",
-    "model": "WAGON R Hatchback (MH21, MH22) | KARIMUN ESTILO",
+    "model": "WAGON R (MH21, MH22) | KARIMUN ESTILO",
     "engineType": "1.0",
     "madeYear": "06.2004 - 08.2005",
     "kw": "44",
     "hp": "60",
     "cc": "998",
     "engineCodes": "Z 10 XEP",
-    "KBA_Numbers": "8306333  8306AAV"
+    "KBA_Numbers": "8306333, 8306AAV"
   },
   {
     "brand": "SUZUKI",
-    "model": "WAGON R Hatchback (MH21, MH22) | KARIMUN ESTILO",
+    "model": "WAGON R (MH21, MH22) | KARIMUN ESTILO",
     "engineType": "1.2",
     "madeYear": "06.2004 - 08.2005",
     "kw": "59",
     "hp": "80",
     "cc": "1229",
     "engineCodes": "Z 12 XEP",
-    "KBA_Numbers": "8306335  8306AAX"
+    "KBA_Numbers": "8306335, 8306AAX"
   },
   {
     "brand": "SUZUKI",
-    "model": "WAGON R Hatchback (MH21, MH22) | KARIMUN ESTILO",
+    "model": "WAGON R (MH21, MH22) | KARIMUN ESTILO",
     "engineType": "1.3 (RB413)",
     "madeYear": "09.2003 - 12.2010",
     "kw": "65",
@@ -228,7 +228,7 @@
     "hp": "70",
     "cc": "1248",
     "engineCodes": "Z13DT",
-    "KBA_Numbers": "8306327  8306334  8306AAW"
+    "KBA_Numbers": "8306327, 8306334, 8306AAW"
   },
   {
     "brand": "VAUXHALL",

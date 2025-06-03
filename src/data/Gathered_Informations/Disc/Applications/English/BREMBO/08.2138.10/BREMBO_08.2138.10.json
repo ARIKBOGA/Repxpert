@@ -194,7 +194,7 @@
     "kw": "44",
     "hp": "60",
     "cc": "1289",
-    "engineCodes": "810.05  810.06",
+    "engineCodes": "810.05, 810.06",
     "KBA_Numbers": "3004350"
   },
   {
@@ -205,7 +205,7 @@
     "kw": "83",
     "hp": "113",
     "cc": "1565",
-    "engineCodes": "807.20  821.20",
+    "engineCodes": "807.20, 821.20",
     "KBA_Numbers": ""
   },
   {
@@ -238,7 +238,7 @@
     "kw": "44",
     "hp": "60",
     "cc": "1289",
-    "engineCodes": "810.05  810.06",
+    "engineCodes": "810.05, 810.06",
     "KBA_Numbers": "3004353"
   },
   {
@@ -304,7 +304,7 @@
     "kw": "47",
     "hp": "64",
     "cc": "1397",
-    "engineCodes": "847 720  847 722",
+    "engineCodes": "847 720, 847 722",
     "KBA_Numbers": "3004373"
   },
   {
@@ -315,7 +315,7 @@
     "kw": "58",
     "hp": "79",
     "cc": "1647",
-    "engineCodes": "841 725  841 726",
+    "engineCodes": "841 725, 841 726",
     "KBA_Numbers": "3004374"
   },
   {
@@ -326,7 +326,7 @@
     "kw": "47",
     "hp": "64",
     "cc": "1397",
-    "engineCodes": "847 720  847 722",
+    "engineCodes": "847 720, 847 722",
     "KBA_Numbers": "3004377"
   },
   {
@@ -337,7 +337,7 @@
     "kw": "58",
     "hp": "79",
     "cc": "1647",
-    "engineCodes": "841 725  841 726",
+    "engineCodes": "841 725, 841 726",
     "KBA_Numbers": "3004378"
   },
   {
@@ -349,7 +349,7 @@
     "hp": "34",
     "cc": "845",
     "engineCodes": "800 01",
-    "KBA_Numbers": "3004304  3004318  3004405"
+    "KBA_Numbers": "3004304, 3004318, 3004405"
   },
   {
     "brand": "RENAULT",
@@ -359,7 +359,7 @@
     "kw": "21",
     "hp": "29",
     "cc": "845",
-    "engineCodes": "B1B 707  800 705",
+    "engineCodes": "B1B 707, 800 705",
     "KBA_Numbers": "3004421"
   },
   {
@@ -414,8 +414,8 @@
     "kw": "25",
     "hp": "34",
     "cc": "1108",
-    "engineCodes": "688 712  C1E 714  C1E 719",
-    "KBA_Numbers": "3004372  3004406"
+    "engineCodes": "688 712, C1E 714, C1E 719",
+    "KBA_Numbers": "3004372, 3004406"
   },
   {
     "brand": "RENAULT",
@@ -426,7 +426,7 @@
     "hp": "34",
     "cc": "845",
     "engineCodes": "800 01",
-    "KBA_Numbers": "3004003  3004504  3004407"
+    "KBA_Numbers": "3004003, 3004504, 3004407"
   },
   {
     "brand": "RENAULT",
@@ -436,8 +436,8 @@
     "kw": "21",
     "hp": "29",
     "cc": "845",
-    "engineCodes": "B1B 707  800 705",
-    "KBA_Numbers": "3004506  3004422"
+    "engineCodes": "B1B 707, 800 705",
+    "KBA_Numbers": "3004506, 3004422"
   },
   {
     "brand": "RENAULT",
@@ -447,8 +447,8 @@
     "kw": "25",
     "hp": "34",
     "cc": "1108",
-    "engineCodes": "C1E 719  688 712  C1E 718  C1E 714  688 711",
-    "KBA_Numbers": "3004361  3004005  3004507  3004423"
+    "engineCodes": "C1E 719, 688 712, C1E 718, C1E 714, 688 711",
+    "KBA_Numbers": "3004361, 3004005, 3004507, 3004423"
   },
   {
     "brand": "RENAULT",
@@ -458,8 +458,8 @@
     "kw": "26",
     "hp": "35",
     "cc": "1108",
-    "engineCodes": "C1E 719  C1E 718",
-    "KBA_Numbers": "3004505  3004408"
+    "engineCodes": "C1E 719, C1E 718",
+    "KBA_Numbers": "3004505, 3004408"
   },
   {
     "brand": "RENAULT",
@@ -492,7 +492,7 @@
     "hp": "44",
     "cc": "956",
     "engineCodes": "689 710",
-    "KBA_Numbers": "3004303  3004428"
+    "KBA_Numbers": "3004303, 3004428"
   },
   {
     "brand": "RENAULT",
@@ -502,7 +502,7 @@
     "kw": "33",
     "hp": "45",
     "cc": "1108",
-    "engineCodes": "C1E 726  688 713",
+    "engineCodes": "C1E 726, 688 713",
     "KBA_Numbers": "3004309"
   },
   {
@@ -579,7 +579,7 @@
     "kw": "46",
     "hp": "63",
     "cc": "1397",
-    "engineCodes": "847 725  C2J 713",
+    "engineCodes": "847 725, C2J 713",
     "KBA_Numbers": "3004400"
   },
   {
@@ -601,7 +601,7 @@
     "kw": "79",
     "hp": "108",
     "cc": "1397",
-    "engineCodes": "C6J 750  840 726",
+    "engineCodes": "C6J 750, 840 726",
     "KBA_Numbers": "3004314"
   },
   {
@@ -634,7 +634,7 @@
     "kw": "33",
     "hp": "45",
     "cc": "1108",
-    "engineCodes": "C1E 754  C1E 752  C1E 750  688 713  C1E 726",
+    "engineCodes": "C1E 754, C1E 752, C1E 750, 688 713, C1E 726",
     "KBA_Numbers": ""
   },
   {
@@ -646,6 +646,6 @@
     "hp": "48",
     "cc": "1108",
     "engineCodes": "688.10",
-    "KBA_Numbers": "3004301  3004349"
+    "KBA_Numbers": "3004301, 3004349"
   }
 ]

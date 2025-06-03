@@ -18,8 +18,8 @@
     "kw": "120",
     "hp": "163",
     "cc": "2698",
-    "engineCodes": "CAND  BSG",
-    "KBA_Numbers": "0588AOY  0588ABQ"
+    "engineCodes": "CAND, BSG",
+    "KBA_Numbers": "0588AOY, 0588ABQ"
   },
   {
     "brand": "AUDI",
@@ -30,7 +30,7 @@
     "hp": "190",
     "cc": "2698",
     "engineCodes": "CANC",
-    "KBA_Numbers": "0588AOX  0588AJN"
+    "KBA_Numbers": "0588AOX, 0588AJN"
   },
   {
     "brand": "AUDI",
@@ -40,8 +40,8 @@
     "kw": "155",
     "hp": "211",
     "cc": "2967",
-    "engineCodes": "CDYB  BNG",
-    "KBA_Numbers": "0588APE  0588ABL"
+    "engineCodes": "CDYB, BNG",
+    "KBA_Numbers": "0588APE, 0588ABL"
   },
   {
     "brand": "AUDI",
@@ -62,8 +62,8 @@
     "kw": "176",
     "hp": "240",
     "cc": "2967",
-    "engineCodes": "CDYC  CDYA",
-    "KBA_Numbers": "0588APD  0588AJJ"
+    "engineCodes": "CDYC, CDYA",
+    "KBA_Numbers": "0588APD, 0588AJJ"
   },
   {
     "brand": "AUDI",
@@ -74,7 +74,7 @@
     "hp": "290",
     "cc": "2995",
     "engineCodes": "CAJA",
-    "KBA_Numbers": "0588AOU  0588AJR"
+    "KBA_Numbers": "0588AOU, 0588AJR"
   },
   {
     "brand": "AUDI",
@@ -96,6 +96,6 @@
     "hp": "350",
     "cc": "4163",
     "engineCodes": "BVJ",
-    "KBA_Numbers": "0588AOP  0588AAZ"
+    "KBA_Numbers": "0588AOP, 0588AAZ"
   }
 ]

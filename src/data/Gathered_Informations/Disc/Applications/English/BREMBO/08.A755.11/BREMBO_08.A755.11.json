@@ -7,8 +7,8 @@
     "kw": "115",
     "hp": "156",
     "cc": "2179",
-    "engineCodes": "4HK (DW12ME5)  4HN (DW12MTED4)",
-    "KBA_Numbers": "3001AFK  3001AFL  3001AMV"
+    "engineCodes": "4HK (DW12ME5), 4HN (DW12MTED4)",
+    "KBA_Numbers": "3001AFK, 3001AFL, 3001AMV"
   },
   {
     "brand": "CITROËN",
@@ -19,7 +19,7 @@
     "hp": "170",
     "cc": "2360",
     "engineCodes": "SFZ (4B12 MMC)",
-    "KBA_Numbers": "3001AGC  3001AGB  3001AMX  3001AMY"
+    "KBA_Numbers": "3001AGC, 3001AGB, 3001AMX, 3001AMY"
   },
   {
     "brand": "CITROËN",
@@ -30,7 +30,7 @@
     "hp": "156",
     "cc": "2179",
     "engineCodes": "4HN (DW12MTED4)",
-    "KBA_Numbers": "3001AFL  3001AMW"
+    "KBA_Numbers": "3001AFL, 3001AMW"
   },
   {
     "brand": "CITROËN",
@@ -41,7 +41,7 @@
     "hp": "170",
     "cc": "2360",
     "engineCodes": "4B12",
-    "KBA_Numbers": "3001AGB  3001AMX  3001AMY"
+    "KBA_Numbers": "3001AGB, 3001AMX, 3001AMY"
   },
   {
     "brand": "CITROËN",
@@ -107,7 +107,7 @@
     "hp": "241",
     "cc": "1998",
     "engineCodes": "4B11-T/C",
-    "KBA_Numbers": "7107ACA  7107ACV"
+    "KBA_Numbers": "7107ACA, 7107ACV"
   },
   {
     "brand": "MITSUBISHI",
@@ -129,7 +129,7 @@
     "hp": "140",
     "cc": "1968",
     "engineCodes": "BSY",
-    "KBA_Numbers": "7107ACC  7107ACD  7107AAR  7107AAS"
+    "KBA_Numbers": "7107ACC, 7107ACD, 7107AAR, 7107AAS"
   },
   {
     "brand": "MITSUBISHI",
@@ -140,7 +140,7 @@
     "hp": "177",
     "cc": "2268",
     "engineCodes": "4N14",
-    "KBA_Numbers": "7107ADX  7107ADY  7107AEE  7107AEF"
+    "KBA_Numbers": "7107ADX, 7107ADY, 7107AEE, 7107AEF"
   },
   {
     "brand": "MITSUBISHI",
@@ -151,7 +151,7 @@
     "hp": "177",
     "cc": "2268",
     "engineCodes": "4N14",
-    "KBA_Numbers": "7107ADZ  7107AEA  7107AEG  7107AEH"
+    "KBA_Numbers": "7107ADZ, 7107AEA, 7107AEG, 7107AEH"
   },
   {
     "brand": "MITSUBISHI",
@@ -161,8 +161,8 @@
     "kw": "115",
     "hp": "156",
     "cc": "2179",
-    "engineCodes": "4HK  4HN",
-    "KBA_Numbers": "7107ABS  7107ABR  7107ACI  7107ACH"
+    "engineCodes": "4HK, 4HN",
+    "KBA_Numbers": "7107ABS, 7107ABR, 7107ACI, 7107ACH"
   },
   {
     "brand": "MITSUBISHI",
@@ -173,7 +173,7 @@
     "hp": "140",
     "cc": "2268",
     "engineCodes": "4N14",
-    "KBA_Numbers": "7107AEB  7107AEC  7107AEJ  7107AEI"
+    "KBA_Numbers": "7107AEB, 7107AEC, 7107AEJ, 7107AEI"
   },
   {
     "brand": "MITSUBISHI",
@@ -184,7 +184,7 @@
     "hp": "170",
     "cc": "2360",
     "engineCodes": "4B12",
-    "KBA_Numbers": "7107ABV  7107ACE"
+    "KBA_Numbers": "7107ABV, 7107ACE"
   },
   {
     "brand": "MITSUBISHI",
@@ -195,7 +195,7 @@
     "hp": "170",
     "cc": "2360",
     "engineCodes": "4B12",
-    "KBA_Numbers": "7107ABT  7107ABU  7107ACF  7107ACG"
+    "KBA_Numbers": "7107ABT, 7107ABU, 7107ACF, 7107ACG"
   },
   {
     "brand": "MITSUBISHI",
@@ -238,8 +238,8 @@
     "kw": "115",
     "hp": "156",
     "cc": "2179",
-    "engineCodes": "4HK (DW12ME5)  4HN (DW12MTED4)",
-    "KBA_Numbers": "3003AFY  3003AFZ  3003AMW  3003AMX"
+    "engineCodes": "4HK (DW12ME5), 4HN (DW12MTED4)",
+    "KBA_Numbers": "3003AFY, 3003AFZ, 3003AMW, 3003AMX"
   },
   {
     "brand": "PEUGEOT",
@@ -249,7 +249,7 @@
     "kw": "125",
     "hp": "170",
     "cc": "2360",
-    "engineCodes": "SFZ (4B12-MMC)  SFY (4B12-MMC)",
-    "KBA_Numbers": "3003AHB  3003AHA  3003AMY  3003AMZ"
+    "engineCodes": "SFZ (4B12-MMC), SFY (4B12-MMC)",
+    "KBA_Numbers": "3003AHB, 3003AHA, 3003AMY, 3003AMZ"
   }
 ]

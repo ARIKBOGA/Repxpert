@@ -7,7 +7,7 @@
     "kw": "55",
     "hp": "75",
     "cc": "1396",
-    "engineCodes": "D14A7  D14Z3",
+    "engineCodes": "D14A7, D14Z3",
     "KBA_Numbers": "2131320"
   },
   {
@@ -18,7 +18,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1396",
-    "engineCodes": "D14A8  D14Z4",
+    "engineCodes": "D14A8, D14Z4",
     "KBA_Numbers": "2131321"
   },
   {
@@ -40,7 +40,7 @@
     "kw": "85",
     "hp": "116",
     "cc": "1590",
-    "engineCodes": "D16B2  D16W3",
+    "engineCodes": "D16B2, D16W3",
     "KBA_Numbers": "2131318"
   },
   {
@@ -73,7 +73,7 @@
     "kw": "85",
     "hp": "116",
     "cc": "1590",
-    "engineCodes": "D16B2  D16W3",
+    "engineCodes": "D16B2, D16W3",
     "KBA_Numbers": "2131315"
   },
   {
@@ -117,7 +117,7 @@
     "kw": "92",
     "hp": "125",
     "cc": "1668",
-    "engineCodes": "D17A9  D17A5",
+    "engineCodes": "D17A9, D17A5",
     "KBA_Numbers": "1153316"
   },
   {
@@ -139,8 +139,8 @@
     "kw": "66",
     "hp": "90",
     "cc": "1396",
-    "engineCodes": "D14Z6  D14Z5",
-    "KBA_Numbers": "7100527  2131344  2131347"
+    "engineCodes": "D14Z6, D14Z5",
+    "KBA_Numbers": "7100527, 2131344, 2131347"
   },
   {
     "brand": "HONDA",
@@ -150,8 +150,8 @@
     "kw": "81",
     "hp": "110",
     "cc": "1590",
-    "engineCodes": "D16W7  D16V1",
-    "KBA_Numbers": "7100528  2131345  2131348"
+    "engineCodes": "D16W7, D16V1",
+    "KBA_Numbers": "7100528, 2131345, 2131348"
   },
   {
     "brand": "HONDA",
@@ -162,7 +162,7 @@
     "hp": "100",
     "cc": "1686",
     "engineCodes": "4EE-2",
-    "KBA_Numbers": "2131352  2131351"
+    "KBA_Numbers": "2131352, 2131351"
   },
   {
     "brand": "HONDA",
@@ -228,7 +228,7 @@
     "hp": "160",
     "cc": "1796",
     "engineCodes": "18 K4K",
-    "KBA_Numbers": "2142388  2142323"
+    "KBA_Numbers": "2142388, 2142323"
   },
   {
     "brand": "MG",
@@ -250,6 +250,6 @@
     "hp": "177",
     "cc": "2497",
     "engineCodes": "25 K4F",
-    "KBA_Numbers": "2142377  2142378  2142328"
+    "KBA_Numbers": "2142377, 2142378, 2142328"
   }
 ]

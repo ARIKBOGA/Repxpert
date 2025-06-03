@@ -40,8 +40,8 @@
     "kw": "31",
     "hp": "42",
     "cc": "903",
-    "engineCodes": "A112B2.000  A112A 5.000",
-    "KBA_Numbers": "4005313  4005312"
+    "engineCodes": "A112B2.000, A112A 5.000",
+    "KBA_Numbers": "4005313, 4005312"
   },
   {
     "brand": "AUTOBIANCHI",
@@ -63,7 +63,7 @@
     "hp": "70",
     "cc": "1050",
     "engineCodes": "A112A2.000",
-    "KBA_Numbers": "4005310  4005315"
+    "KBA_Numbers": "4005310, 4005315"
   },
   {
     "brand": "AUTOBIANCHI",
@@ -206,7 +206,7 @@
     "hp": "60",
     "cc": "1197",
     "engineCodes": "124 A.000",
-    "KBA_Numbers": "4001401  4001341"
+    "KBA_Numbers": "4001401, 4001341"
   },
   {
     "brand": "FIAT",
@@ -217,7 +217,7 @@
     "hp": "70",
     "cc": "1438",
     "engineCodes": "124 B2.000",
-    "KBA_Numbers": "4001407  4001352"
+    "KBA_Numbers": "4001407, 4001352"
   },
   {
     "brand": "FIAT",
@@ -249,7 +249,7 @@
     "kw": "70",
     "hp": "95",
     "cc": "1592",
-    "engineCodes": "132 AC.000  124 A9.000",
+    "engineCodes": "132 AC.000, 124 A9.000",
     "KBA_Numbers": "4001387"
   },
   {
@@ -261,7 +261,7 @@
     "hp": "90",
     "cc": "1438",
     "engineCodes": "124 AC.000",
-    "KBA_Numbers": "4001344  4001358"
+    "KBA_Numbers": "4001344, 4001358"
   },
   {
     "brand": "FIAT",
@@ -271,7 +271,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1608",
-    "engineCodes": "125 B.000  125 BC.000",
+    "engineCodes": "125 B.000, 125 BC.000",
     "KBA_Numbers": "4001361"
   },
   {
@@ -282,7 +282,7 @@
     "kw": "74",
     "hp": "100",
     "cc": "1608",
-    "engineCodes": "125 B.000  125 BC.000",
+    "engineCodes": "125 B.000, 125 BC.000",
     "KBA_Numbers": "4001370"
   },
   {
@@ -371,7 +371,7 @@
     "hp": "90",
     "cc": "1438",
     "engineCodes": "124 AC.000",
-    "KBA_Numbers": "4001343  4001359"
+    "KBA_Numbers": "4001343, 4001359"
   },
   {
     "brand": "FIAT",
@@ -381,7 +381,7 @@
     "kw": "82",
     "hp": "112",
     "cc": "1608",
-    "engineCodes": "125 B.000  125 BC.000",
+    "engineCodes": "125 B.000, 125 BC.000",
     "KBA_Numbers": ""
   },
   {
@@ -392,7 +392,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1608",
-    "engineCodes": "125 B.000  125 BC.000",
+    "engineCodes": "125 B.000, 125 BC.000",
     "KBA_Numbers": "4001364"
   },
   {
@@ -403,7 +403,7 @@
     "kw": "74",
     "hp": "100",
     "cc": "1608",
-    "engineCodes": "125 B.000  125 BC.000",
+    "engineCodes": "125 B.000, 125 BC.000",
     "KBA_Numbers": "4001369"
   },
   {
@@ -414,7 +414,7 @@
     "kw": "76",
     "hp": "104",
     "cc": "1608",
-    "engineCodes": "125 B.000  125 BC.000",
+    "engineCodes": "125 B.000, 125 BC.000",
     "KBA_Numbers": "4001378"
   },
   {
@@ -459,7 +459,7 @@
     "hp": "90",
     "cc": "1608",
     "engineCodes": "125 A.000",
-    "KBA_Numbers": "4001402  4001345"
+    "KBA_Numbers": "4001402, 4001345"
   },
   {
     "brand": "FIAT",
@@ -470,7 +470,7 @@
     "hp": "100",
     "cc": "1608",
     "engineCodes": "125 B.000",
-    "KBA_Numbers": "4001408  4001353"
+    "KBA_Numbers": "4001408, 4001353"
   },
   {
     "brand": "FIAT",
@@ -481,7 +481,7 @@
     "hp": "40",
     "cc": "903",
     "engineCodes": "100 GL.048",
-    "KBA_Numbers": "4001721  4001396"
+    "KBA_Numbers": "4001721, 4001396"
   },
   {
     "brand": "FIAT",
@@ -492,7 +492,7 @@
     "hp": "45",
     "cc": "903",
     "engineCodes": "100 GL.000",
-    "KBA_Numbers": "4001720  7593302  4001367"
+    "KBA_Numbers": "4001720, 7593302, 4001367"
   },
   {
     "brand": "FIAT",
@@ -503,7 +503,7 @@
     "hp": "50",
     "cc": "1049",
     "engineCodes": "127 A.000",
-    "KBA_Numbers": "4001719  4001764"
+    "KBA_Numbers": "4001719, 4001764"
   },
   {
     "brand": "FIAT",
@@ -580,7 +580,7 @@
     "hp": "55",
     "cc": "1116",
     "engineCodes": "128 A.000",
-    "KBA_Numbers": "4001898  4001409  4001355"
+    "KBA_Numbers": "4001898, 4001409, 4001355"
   },
   {
     "brand": "FIAT",
@@ -634,7 +634,7 @@
     "kw": "55",
     "hp": "75",
     "cc": "1290",
-    "engineCodes": "128 AC.000  128 A1.000",
+    "engineCodes": "128 AC.000, 128 A1.000",
     "KBA_Numbers": "4001373"
   },
   {
@@ -711,7 +711,7 @@
     "kw": "51",
     "hp": "70",
     "cc": "1367",
-    "engineCodes": "131 C1.000  131 C.000",
+    "engineCodes": "131 C1.000, 131 C.000",
     "KBA_Numbers": "4001749"
   },
   {
@@ -734,7 +734,7 @@
     "hp": "85",
     "cc": "1585",
     "engineCodes": "131 C2.000",
-    "KBA_Numbers": "4001894  4001750"
+    "KBA_Numbers": "4001894, 4001750"
   },
   {
     "brand": "FIAT",
@@ -745,7 +745,7 @@
     "hp": "75",
     "cc": "1585",
     "engineCodes": "131 A1.000",
-    "KBA_Numbers": "4001724  4001895  4001397"
+    "KBA_Numbers": "4001724, 4001895, 4001397"
   },
   {
     "brand": "FIAT",
@@ -756,7 +756,7 @@
     "hp": "97",
     "cc": "1585",
     "engineCodes": "131 C3.000",
-    "KBA_Numbers": "4001725  4001751"
+    "KBA_Numbers": "4001725, 4001751"
   },
   {
     "brand": "FIAT",
@@ -832,7 +832,7 @@
     "kw": "51",
     "hp": "70",
     "cc": "1367",
-    "engineCodes": "131 C1.000  131 C.000",
+    "engineCodes": "131 C1.000, 131 C.000",
     "KBA_Numbers": ""
   },
   {
@@ -1075,7 +1075,7 @@
     "hp": "48",
     "cc": "843",
     "engineCodes": "100 GB.000",
-    "KBA_Numbers": "4001338  4001346"
+    "KBA_Numbers": "4001338, 4001346"
   },
   {
     "brand": "FIAT",
@@ -1141,7 +1141,7 @@
     "hp": "50",
     "cc": "1049",
     "engineCodes": "127 A.000",
-    "KBA_Numbers": "4001023  4001744"
+    "KBA_Numbers": "4001023, 4001744"
   },
   {
     "brand": "FIAT",
@@ -1152,7 +1152,7 @@
     "hp": "45",
     "cc": "903",
     "engineCodes": "100 GL.000",
-    "KBA_Numbers": "4001022  4001743"
+    "KBA_Numbers": "4001022, 4001743"
   },
   {
     "brand": "FIAT",
@@ -1163,7 +1163,7 @@
     "hp": "50",
     "cc": "1049",
     "engineCodes": "127 A.000",
-    "KBA_Numbers": "4001500  4001768"
+    "KBA_Numbers": "4001500, 4001768"
   },
   {
     "brand": "FIAT",
@@ -1196,7 +1196,7 @@
     "hp": "45",
     "cc": "1301",
     "engineCodes": "127 A5.000",
-    "KBA_Numbers": "4001501  4001503  4001513  4001515  4001769"
+    "KBA_Numbers": "4001501, 4001503, 4001513, 4001515, 4001769"
   },
   {
     "brand": "FIAT",
@@ -1207,7 +1207,7 @@
     "hp": "54",
     "cc": "1116",
     "engineCodes": "146 A9.000",
-    "KBA_Numbers": "4001519  4001862"
+    "KBA_Numbers": "4001519, 4001862"
   },
   {
     "brand": "FIAT",
@@ -1218,7 +1218,7 @@
     "hp": "57",
     "cc": "1697",
     "engineCodes": "146 B2.000",
-    "KBA_Numbers": "4001920  4001560  4001561"
+    "KBA_Numbers": "4001920, 4001560, 4001561"
   },
   {
     "brand": "FIAT",
@@ -1228,8 +1228,8 @@
     "kw": "44",
     "hp": "60",
     "cc": "1698",
-    "engineCodes": "149 B3.000  146 B2.000",
-    "KBA_Numbers": "4001525  4001526  4001865"
+    "engineCodes": "149 B3.000, 146 B2.000",
+    "KBA_Numbers": "4001525, 4001526, 4001865"
   },
   {
     "brand": "FIAT",
@@ -1251,7 +1251,7 @@
     "hp": "75",
     "cc": "1498",
     "engineCodes": "149 C1.000",
-    "KBA_Numbers": "4001523  4001524  4001864"
+    "KBA_Numbers": "4001523, 4001524, 4001864"
   },
   {
     "brand": "FIAT",
@@ -1283,7 +1283,7 @@
     "kw": "37",
     "hp": "50",
     "cc": "1049",
-    "engineCodes": "127A.046  127 A.000",
+    "engineCodes": "127A.046, 127 A.000",
     "KBA_Numbers": "4001502"
   },
   {
@@ -1306,7 +1306,7 @@
     "hp": "45",
     "cc": "1302",
     "engineCodes": "127 A5.000",
-    "KBA_Numbers": "4001503  4001515"
+    "KBA_Numbers": "4001503, 4001515"
   },
   {
     "brand": "FIAT",
@@ -1338,7 +1338,7 @@
     "kw": "32",
     "hp": "44",
     "cc": "999",
-    "engineCodes": "156 A2.100  156 A3.100",
+    "engineCodes": "156 A2.100, 156 A3.100",
     "KBA_Numbers": "4001829"
   },
   {
@@ -1360,7 +1360,7 @@
     "kw": "33",
     "hp": "45",
     "cc": "999",
-    "engineCodes": "156 A2.246  141 C2.000",
+    "engineCodes": "156 A2.246, 141 C2.000",
     "KBA_Numbers": "4001854"
   },
   {
@@ -1371,8 +1371,8 @@
     "kw": "33",
     "hp": "45",
     "cc": "999",
-    "engineCodes": "156 A2.246  141 C2.000",
-    "KBA_Numbers": "4001911  4136390  4001827"
+    "engineCodes": "156 A2.246, 141 C2.000",
+    "KBA_Numbers": "4001911, 4136390, 4001827"
   },
   {
     "brand": "FIAT",
@@ -1393,8 +1393,8 @@
     "kw": "40",
     "hp": "54",
     "cc": "1108",
-    "engineCodes": "187 A1.000  176 B2.000",
-    "KBA_Numbers": "4136388  4001067"
+    "engineCodes": "187 A1.000, 176 B2.000",
+    "KBA_Numbers": "4136388, 4001067"
   },
   {
     "brand": "FIAT",
@@ -1404,8 +1404,8 @@
     "kw": "40",
     "hp": "54",
     "cc": "1108",
-    "engineCodes": "176 B2.000  187 A1.000",
-    "KBA_Numbers": "4136477  4001068"
+    "engineCodes": "176 B2.000, 187 A1.000",
+    "KBA_Numbers": "4136477, 4001068"
   },
   {
     "brand": "FIAT",
@@ -1448,7 +1448,7 @@
     "kw": "25",
     "hp": "34",
     "cc": "770",
-    "engineCodes": "156 A4.000  156 A4.048",
+    "engineCodes": "156 A4.000, 156 A4.048",
     "KBA_Numbers": "4001826"
   },
   {
@@ -1460,7 +1460,7 @@
     "hp": "34",
     "cc": "843",
     "engineCodes": "100 GL6.000",
-    "KBA_Numbers": "4001900  4001755"
+    "KBA_Numbers": "4001900, 4001755"
   },
   {
     "brand": "FIAT",
@@ -1470,8 +1470,8 @@
     "kw": "33",
     "hp": "45",
     "cc": "903",
-    "engineCodes": "146 A.000  100 GL3.000",
-    "KBA_Numbers": "4001901  4001746"
+    "engineCodes": "146 A.000, 100 GL3.000",
+    "KBA_Numbers": "4001901, 4001746"
   },
   {
     "brand": "FIAT",
@@ -1482,7 +1482,7 @@
     "hp": "40",
     "cc": "899",
     "engineCodes": "1170 A1.046",
-    "KBA_Numbers": "4001499  4136389"
+    "KBA_Numbers": "4001499, 4136389"
   },
   {
     "brand": "FIAT",
@@ -1514,7 +1514,7 @@
     "kw": "32",
     "hp": "44",
     "cc": "999",
-    "engineCodes": "156 A2.100  156 A3.100",
+    "engineCodes": "156 A2.100, 156 A3.100",
     "KBA_Numbers": "4001518"
   },
   {
@@ -1525,7 +1525,7 @@
     "kw": "33",
     "hp": "45",
     "cc": "999",
-    "engineCodes": "156 A2.246  141 C2.000",
+    "engineCodes": "156 A2.246, 141 C2.000",
     "KBA_Numbers": "4001584"
   },
   {
@@ -1569,7 +1569,7 @@
     "kw": "48",
     "hp": "65",
     "cc": "1301",
-    "engineCodes": "149 A7.000  149 A3.000",
+    "engineCodes": "149 A7.000, 149 A3.000",
     "KBA_Numbers": "4001782"
   },
   {
@@ -1591,8 +1591,8 @@
     "kw": "55",
     "hp": "75",
     "cc": "1498",
-    "engineCodes": "138 C3.048  138 B3.048  149 C1.000  138 C2.048",
-    "KBA_Numbers": "4001907  4001783"
+    "engineCodes": "138 C3.048, 138 B3.048, 149 C1.000, 138 C2.048",
+    "KBA_Numbers": "4001907, 4001783"
   },
   {
     "brand": "FIAT",
@@ -1603,7 +1603,7 @@
     "hp": "79",
     "cc": "1498",
     "engineCodes": "149 A5.000",
-    "KBA_Numbers": "4001922  4001814"
+    "KBA_Numbers": "4001922, 4001814"
   },
   {
     "brand": "FIAT",
@@ -1657,7 +1657,7 @@
     "kw": "55",
     "hp": "75",
     "cc": "1498",
-    "engineCodes": "149 C1.000  138 C3.048  138 B3.048  138 C2.048",
+    "engineCodes": "149 C1.000, 138 C3.048, 138 B3.048, 138 C2.048",
     "KBA_Numbers": "4001792"
   },
   {
@@ -1701,7 +1701,7 @@
     "kw": "44",
     "hp": "60",
     "cc": "1116",
-    "engineCodes": "146 A4.000  138 B.000",
+    "engineCodes": "146 A4.000, 138 B.000",
     "KBA_Numbers": "4001899"
   },
   {
@@ -1712,7 +1712,7 @@
     "kw": "40",
     "hp": "55",
     "cc": "1116",
-    "engineCodes": "138 C1.000  138 B1.000  138 B.000",
+    "engineCodes": "138 C1.000, 138 B1.000, 138 B.000",
     "KBA_Numbers": "4001771"
   },
   {
@@ -1745,7 +1745,7 @@
     "kw": "48",
     "hp": "65",
     "cc": "1301",
-    "engineCodes": "149 A7.000  149 A3.000  138 A1.000",
+    "engineCodes": "149 A7.000, 149 A3.000, 138 A1.000",
     "KBA_Numbers": "4001732"
   },
   {
@@ -1822,7 +1822,7 @@
     "kw": "44",
     "hp": "60",
     "cc": "1698",
-    "engineCodes": "149 B3.000  138 C.000",
+    "engineCodes": "149 B3.000, 138 C.000",
     "KBA_Numbers": "4001803"
   },
   {
@@ -1888,7 +1888,7 @@
     "kw": "43",
     "hp": "58",
     "cc": "1108",
-    "engineCodes": "160 A3.000  146 A4.048",
+    "engineCodes": "160 A3.000, 146 A4.048",
     "KBA_Numbers": ""
   },
   {
@@ -1899,7 +1899,7 @@
     "kw": "33",
     "hp": "45",
     "cc": "1302",
-    "engineCodes": "127 A5.000  146 B1.000",
+    "engineCodes": "127 A5.000, 146 B1.000",
     "KBA_Numbers": "4001780"
   },
   {
@@ -1933,7 +1933,7 @@
     "hp": "101",
     "cc": "1301",
     "engineCodes": "146 A2.246",
-    "KBA_Numbers": "4001851  4001875"
+    "KBA_Numbers": "4001851, 4001875"
   },
   {
     "brand": "FIAT",
@@ -1987,8 +1987,8 @@
     "kw": "33",
     "hp": "45",
     "cc": "903",
-    "engineCodes": "146 A1.000  146 A.000",
-    "KBA_Numbers": "4001908  4001774"
+    "engineCodes": "146 A1.000, 146 A.000",
+    "KBA_Numbers": "4001908, 4001774"
   },
   {
     "brand": "FIAT",
@@ -2009,7 +2009,7 @@
     "kw": "32",
     "hp": "44",
     "cc": "999",
-    "engineCodes": "156 A2.100  156 A2.048",
+    "engineCodes": "156 A2.100, 156 A2.048",
     "KBA_Numbers": "4001806"
   },
   {
@@ -2020,7 +2020,7 @@
     "kw": "33",
     "hp": "45",
     "cc": "999",
-    "engineCodes": "156 A2.246  156 A2.000",
+    "engineCodes": "156 A2.246, 156 A2.000",
     "KBA_Numbers": "4001805"
   },
   {
@@ -2065,7 +2065,7 @@
     "hp": "54",
     "cc": "1116",
     "engineCodes": "138 B.000",
-    "KBA_Numbers": "4001906  4001775"
+    "KBA_Numbers": "4001906, 4001775"
   },
   {
     "brand": "FIAT",
@@ -2076,7 +2076,7 @@
     "hp": "58",
     "cc": "1116",
     "engineCodes": "146 A4.048",
-    "KBA_Numbers": "4001910  4001807"
+    "KBA_Numbers": "4001910, 4001807"
   },
   {
     "brand": "FIAT",
@@ -2130,7 +2130,7 @@
     "kw": "52",
     "hp": "71",
     "cc": "1372",
-    "engineCodes": "160 A1.046  160 A1.048",
+    "engineCodes": "160 A1.046, 160 A1.048",
     "KBA_Numbers": "4001876"
   },
   {
@@ -2141,7 +2141,7 @@
     "kw": "55",
     "hp": "75",
     "cc": "1498",
-    "engineCodes": "149 C1.000  138 C2.048",
+    "engineCodes": "149 C1.000, 138 C2.048",
     "KBA_Numbers": "4001809"
   },
   {
@@ -2152,7 +2152,7 @@
     "kw": "33",
     "hp": "45",
     "cc": "903",
-    "engineCodes": "146 A1.000  146 A.000",
+    "engineCodes": "146 A1.000, 146 A.000",
     "KBA_Numbers": ""
   },
   {
@@ -2196,8 +2196,8 @@
     "kw": "63",
     "hp": "85",
     "cc": "1498",
-    "engineCodes": "138 AS.000  138 A4.000",
-    "KBA_Numbers": "4106301  4001736"
+    "engineCodes": "138 AS.000, 138 A4.000",
+    "KBA_Numbers": "4106301, 4001736"
   },
   {
     "brand": "FSO",
@@ -2219,7 +2219,7 @@
     "hp": "75",
     "cc": "1481",
     "engineCodes": "115 C 076",
-    "KBA_Numbers": "9202310  9202311"
+    "KBA_Numbers": "9202310, 9202311"
   },
   {
     "brand": "FSO",
@@ -2472,7 +2472,7 @@
     "hp": "69",
     "cc": "1050",
     "engineCodes": "A112 A2.000",
-    "KBA_Numbers": "4001448  4001451"
+    "KBA_Numbers": "4001448, 4001451"
   },
   {
     "brand": "LANCIA",
@@ -2493,8 +2493,8 @@
     "kw": "55",
     "hp": "75",
     "cc": "1301",
-    "engineCodes": "831 A2.000  831 B.000",
-    "KBA_Numbers": "4022309  4001423  4001439  4114323"
+    "engineCodes": "831 A2.000, 831 B.000",
+    "KBA_Numbers": "4022309, 4001423, 4001439, 4114323"
   },
   {
     "brand": "LANCIA",
@@ -2504,8 +2504,8 @@
     "kw": "63",
     "hp": "86",
     "cc": "1498",
-    "engineCodes": "831 B1.000  831 A1.000",
-    "KBA_Numbers": "4022310  4001424  4001440"
+    "engineCodes": "831 B1.000, 831 A1.000",
+    "KBA_Numbers": "4022310, 4001424, 4001440"
   },
   {
     "brand": "LANCIA",
@@ -2516,7 +2516,7 @@
     "hp": "105",
     "cc": "1585",
     "engineCodes": "831 A4.000",
-    "KBA_Numbers": "4001432  4001441"
+    "KBA_Numbers": "4001432, 4001441"
   },
   {
     "brand": "LANCIA",
@@ -2527,7 +2527,7 @@
     "hp": "109",
     "cc": "1585",
     "engineCodes": "831 B7.000",
-    "KBA_Numbers": "4001471  4114324"
+    "KBA_Numbers": "4001471, 4114324"
   },
   {
     "brand": "LANCIA",
@@ -2538,7 +2538,7 @@
     "hp": "131",
     "cc": "1585",
     "engineCodes": "831 A7.000",
-    "KBA_Numbers": "4001438  4001442"
+    "KBA_Numbers": "4001438, 4001442"
   },
   {
     "brand": "LANCIA",
@@ -2549,7 +2549,7 @@
     "hp": "140",
     "cc": "1585",
     "engineCodes": "831 B3.000",
-    "KBA_Numbers": "4001472  4114325"
+    "KBA_Numbers": "4001472, 4114325"
   },
   {
     "brand": "LANCIA",
@@ -2560,7 +2560,7 @@
     "hp": "132",
     "cc": "1585",
     "engineCodes": "831 B7.046",
-    "KBA_Numbers": "4001487  4114330"
+    "KBA_Numbers": "4001487, 4114330"
   },
   {
     "brand": "LANCIA",
@@ -2582,7 +2582,7 @@
     "hp": "166",
     "cc": "1995",
     "engineCodes": "831 B5.000",
-    "KBA_Numbers": "4001477  4114328"
+    "KBA_Numbers": "4001477, 4114328"
   },
   {
     "brand": "LANCIA",
@@ -2604,7 +2604,7 @@
     "hp": "177",
     "cc": "1995",
     "engineCodes": "831 C5.046",
-    "KBA_Numbers": "4114384  4001959"
+    "KBA_Numbers": "4114384, 4001959"
   },
   {
     "brand": "LANCIA",
@@ -2615,7 +2615,7 @@
     "hp": "86",
     "cc": "1498",
     "engineCodes": "831 A1.000",
-    "KBA_Numbers": "4001434  4001444"
+    "KBA_Numbers": "4001434, 4001444"
   },
   {
     "brand": "LANCIA",
@@ -2626,7 +2626,7 @@
     "hp": "105",
     "cc": "1585",
     "engineCodes": "831 A4.000",
-    "KBA_Numbers": "4001905  4001435  4001445"
+    "KBA_Numbers": "4001905, 4001435, 4001445"
   },
   {
     "brand": "LANCIA",
@@ -2637,7 +2637,7 @@
     "hp": "109",
     "cc": "1585",
     "engineCodes": "831 B7.000",
-    "KBA_Numbers": "4001469  4114335"
+    "KBA_Numbers": "4001469, 4114335"
   },
   {
     "brand": "LANCIA",
@@ -2658,8 +2658,8 @@
     "kw": "33",
     "hp": "45",
     "cc": "999",
-    "engineCodes": "156 A2.000  156 A2.246",
-    "KBA_Numbers": "4001461  4114343"
+    "engineCodes": "156 A2.000, 156 A2.246",
+    "KBA_Numbers": "4001461, 4114343"
   },
   {
     "brand": "LANCIA",
@@ -2670,7 +2670,7 @@
     "hp": "44",
     "cc": "999",
     "engineCodes": "156 A2.100",
-    "KBA_Numbers": "4001460  4114342"
+    "KBA_Numbers": "4001460, 4114342"
   },
   {
     "brand": "LANCIA",
@@ -2681,7 +2681,7 @@
     "hp": "45",
     "cc": "999",
     "engineCodes": "156 A2.246",
-    "KBA_Numbers": "4001461  4114343"
+    "KBA_Numbers": "4001461, 4114343"
   },
   {
     "brand": "LANCIA",
@@ -2692,7 +2692,7 @@
     "hp": "84",
     "cc": "1049",
     "engineCodes": "156 A1.000",
-    "KBA_Numbers": "4001463  4114345"
+    "KBA_Numbers": "4001463, 4114345"
   },
   {
     "brand": "LANCIA",
@@ -2714,7 +2714,7 @@
     "hp": "50",
     "cc": "1108",
     "engineCodes": "156 C.046",
-    "KBA_Numbers": "4001926  4114391"
+    "KBA_Numbers": "4001926, 4114391"
   },
   {
     "brand": "PININFARINA",
@@ -2845,7 +2845,7 @@
     "kw": "29",
     "hp": "40",
     "cc": "903",
-    "engineCodes": "09 NCA  100 GL 7000",
+    "engineCodes": "09 NCA, 100 GL 7000",
     "KBA_Numbers": "7593310"
   },
   {
@@ -2868,7 +2868,7 @@
     "hp": "44",
     "cc": "903",
     "engineCodes": "146 A 000",
-    "KBA_Numbers": "7593316  7593331"
+    "KBA_Numbers": "7593316, 7593331"
   },
   {
     "brand": "SEAT",
@@ -2878,7 +2878,7 @@
     "kw": "29",
     "hp": "40",
     "cc": "903",
-    "engineCodes": "146 A 000  09 NCA",
+    "engineCodes": "146 A 000, 09 NCA",
     "KBA_Numbers": "7593339"
   },
   {
@@ -2967,7 +2967,7 @@
     "hp": "54",
     "cc": "1714",
     "engineCodes": "022 A.5000",
-    "KBA_Numbers": "7593319  7593332"
+    "KBA_Numbers": "7593319, 7593332"
   },
   {
     "brand": "SEAT",
@@ -3033,7 +3033,7 @@
     "hp": "54",
     "cc": "1714",
     "engineCodes": "022 A.5000",
-    "KBA_Numbers": "7593322  7593324  7593335"
+    "KBA_Numbers": "7593322, 7593324, 7593335"
   },
   {
     "brand": "SEAT",
@@ -3065,8 +3065,8 @@
     "kw": "29",
     "hp": "40",
     "cc": "903",
-    "engineCodes": "09 NCA  100 GL 7000",
-    "KBA_Numbers": "7593328  7593336"
+    "engineCodes": "09 NCA, 100 GL 7000",
+    "KBA_Numbers": "7593328, 7593336"
   },
   {
     "brand": "SEAT",
@@ -3087,7 +3087,7 @@
     "kw": "29",
     "hp": "40",
     "cc": "903",
-    "engineCodes": "09 NCB  100 GL 7000",
+    "engineCodes": "09 NCB, 100 GL 7000",
     "KBA_Numbers": "7593336"
   },
   {
@@ -3121,7 +3121,7 @@
     "hp": "40",
     "cc": "903",
     "engineCodes": "09 NCA",
-    "KBA_Numbers": "7593501  7593504"
+    "KBA_Numbers": "7593501, 7593504"
   },
   {
     "brand": "SEAT",
@@ -3186,7 +3186,7 @@
     "kw": "68",
     "hp": "92",
     "cc": "1592",
-    "engineCodes": "022 A 000  138 AR6.000",
+    "engineCodes": "022 A 000, 138 AR6.000",
     "KBA_Numbers": "7593308"
   },
   {
@@ -3220,7 +3220,7 @@
     "hp": "40",
     "cc": "903",
     "engineCodes": "09 NCA",
-    "KBA_Numbers": "7593326  7593337"
+    "KBA_Numbers": "7593326, 7593337"
   },
   {
     "brand": "SEAT",
@@ -3264,7 +3264,7 @@
     "hp": "40",
     "cc": "903",
     "engineCodes": "09 NCA",
-    "KBA_Numbers": "7593502  7593503"
+    "KBA_Numbers": "7593502, 7593503"
   },
   {
     "brand": "SEAT",
@@ -3351,7 +3351,7 @@
     "kw": "41",
     "hp": "56",
     "cc": "1116",
-    "engineCodes": "11A  128A4",
+    "engineCodes": "11A, 128A4",
     "KBA_Numbers": ""
   },
   {
@@ -3374,7 +3374,7 @@
     "hp": "55",
     "cc": "1116",
     "engineCodes": "128 A.000",
-    "KBA_Numbers": "8102301  8102304"
+    "KBA_Numbers": "8102301, 8102304"
   },
   {
     "brand": "ZASTAVA",
@@ -3450,7 +3450,7 @@
     "kw": "44",
     "hp": "60",
     "cc": "1116",
-    "engineCodes": "11 E 1.064  100 GL. 0.64",
+    "engineCodes": "11 E 1.064, 100 GL. 0.64",
     "KBA_Numbers": "8102308"
   },
   {

@@ -7,8 +7,8 @@
     "kw": "77",
     "hp": "105",
     "cc": "1598",
-    "engineCodes": "Z627  Z601",
-    "KBA_Numbers": "7118278  7118ABB"
+    "engineCodes": "Z627, Z601",
+    "KBA_Numbers": "7118278, 7118ABB"
   },
   {
     "brand": "MAZDA",
@@ -18,7 +18,7 @@
     "kw": "74",
     "hp": "100",
     "cc": "1496",
-    "engineCodes": "P5Y4  P5Y5  P5Z3  P5Y1",
+    "engineCodes": "P5Y4, P5Y5, P5Z3, P5Y1",
     "KBA_Numbers": "7118AGJ"
   },
   {
@@ -29,7 +29,7 @@
     "kw": "88",
     "hp": "120",
     "cc": "1496",
-    "engineCodes": "P5Y5  P5Y4  P5Z3  P5Y1",
+    "engineCodes": "P5Y5, P5Y4, P5Z3, P5Y1",
     "KBA_Numbers": ""
   },
   {
@@ -40,7 +40,7 @@
     "kw": "77",
     "hp": "105",
     "cc": "1598",
-    "engineCodes": "Z6Y1  Z6Y3",
+    "engineCodes": "Z6Y1, Z6Y3",
     "KBA_Numbers": ""
   },
   {
@@ -51,7 +51,7 @@
     "kw": "88",
     "hp": "120",
     "cc": "1496",
-    "engineCodes": "P5Z3  P5Y4  P5Y5  P5Y1",
+    "engineCodes": "P5Z3, P5Y4, P5Y5, P5Y1",
     "KBA_Numbers": ""
   },
   {
@@ -62,7 +62,7 @@
     "kw": "74",
     "hp": "100",
     "cc": "1496",
-    "engineCodes": "P5Y4  P5Y5  P5Z3  P5Y1",
+    "engineCodes": "P5Y4, P5Y5, P5Z3, P5Y1",
     "KBA_Numbers": ""
   },
   {
@@ -73,7 +73,7 @@
     "kw": "77",
     "hp": "105",
     "cc": "1598",
-    "engineCodes": "Z6Y1  Z6Y3",
+    "engineCodes": "Z6Y1, Z6Y3",
     "KBA_Numbers": ""
   },
   {
@@ -84,7 +84,7 @@
     "kw": "77",
     "hp": "105",
     "cc": "1499",
-    "engineCodes": "S5Y2  S5Y5  S5Y7  S5Y9",
+    "engineCodes": "S5Y2, S5Y5, S5Y7, S5Y9",
     "KBA_Numbers": "7118AGX"
   }
 ]

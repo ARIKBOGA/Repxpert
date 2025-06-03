@@ -29,7 +29,7 @@
     "kw": "160",
     "hp": "218",
     "cc": "2487",
-    "engineCodes": "A25A-FXS  A25B-FXS",
+    "engineCodes": "A25A-FXS, A25B-FXS",
     "KBA_Numbers": "5013AMG"
   },
   {
@@ -63,7 +63,7 @@
     "hp": "171",
     "cc": "1987",
     "engineCodes": "M20A-FKS",
-    "KBA_Numbers": "5013AMZ  5013ANC"
+    "KBA_Numbers": "5013AMZ, 5013ANC"
   },
   {
     "brand": "LEXUS",
@@ -85,7 +85,7 @@
     "hp": "184",
     "cc": "1987",
     "engineCodes": "M20A-FXS",
-    "KBA_Numbers": "5013ANW  5013ANA"
+    "KBA_Numbers": "5013ANW, 5013ANA"
   },
   {
     "brand": "LEXUS",
@@ -107,7 +107,7 @@
     "hp": "184",
     "cc": "1987",
     "engineCodes": "M20A-FXS",
-    "KBA_Numbers": "5013ANX  5013ANB"
+    "KBA_Numbers": "5013ANX, 5013ANB"
   },
   {
     "brand": "LEXUS",
@@ -117,8 +117,8 @@
     "kw": "150",
     "hp": "204",
     "cc": "4KM",
-    "engineCodes": "5013APE  5013AQB",
-    "KBA_Numbers": ""
+    "engineCodes": "4KM",
+    "KBA_Numbers": "5013APE, 5013AQB"
   },
   {
     "brand": "TOYOTA",
@@ -173,7 +173,7 @@
     "hp": "196",
     "cc": "1987",
     "engineCodes": "M20A-FXS",
-    "KBA_Numbers": "7104AAV  7104AAX  7104AAY"
+    "KBA_Numbers": "7104AAV, 7104AAX, 7104AAY"
   },
   {
     "brand": "TOYOTA",
@@ -206,7 +206,7 @@
     "hp": "175",
     "cc": "1987",
     "engineCodes": "M20A-FKS",
-    "KBA_Numbers": "5013ANE  5013AMQ"
+    "KBA_Numbers": "5013ANE, 5013AMQ"
   },
   {
     "brand": "TOYOTA",
@@ -217,7 +217,7 @@
     "hp": "175",
     "cc": "1987",
     "engineCodes": "M20A-FKS",
-    "KBA_Numbers": "5013ANF  5013AMR"
+    "KBA_Numbers": "5013ANF, 5013AMR"
   },
   {
     "brand": "TOYOTA",
@@ -272,7 +272,7 @@
     "hp": "218",
     "cc": "2487",
     "engineCodes": "A25A-FXS",
-    "KBA_Numbers": "5013AND  5013AMP"
+    "KBA_Numbers": "5013AND, 5013AMP"
   },
   {
     "brand": "TOYOTA",
@@ -283,7 +283,7 @@
     "hp": "222",
     "cc": "2487",
     "engineCodes": "A25A-FXS",
-    "KBA_Numbers": "5013ANN  5013AOC"
+    "KBA_Numbers": "5013ANN, 5013AOC"
   },
   {
     "brand": "TOYOTA",

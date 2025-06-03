@@ -7,8 +7,8 @@
     "kw": "44",
     "hp": "60",
     "cc": "1124",
-    "engineCodes": "HFX (TU1JP)  HDZ (TU1M)",
-    "KBA_Numbers": "3001803  3001AAC  3001542"
+    "engineCodes": "HFX (TU1JP), HDZ (TU1M)",
+    "KBA_Numbers": "3001803, 3001AAC, 3001542"
   },
   {
     "brand": "CITROËN",
@@ -29,7 +29,7 @@
     "kw": "57",
     "hp": "77",
     "cc": "1360",
-    "engineCodes": "KFX (TU3JP)  KFW (TU3JP)",
+    "engineCodes": "KFX (TU3JP), KFW (TU3JP)",
     "KBA_Numbers": ""
   },
   {
@@ -40,8 +40,8 @@
     "kw": "55",
     "hp": "75",
     "cc": "1360",
-    "engineCodes": "KFX (TU3JP)  KFW (TU3JP)  KFW (TU3A)",
-    "KBA_Numbers": "3001804  3001AAD  3001543  3001ABY"
+    "engineCodes": "KFX (TU3JP), KFW (TU3JP), KFW (TU3A)",
+    "KBA_Numbers": "3001804, 3001AAD, 3001543, 3001ABY"
   },
   {
     "brand": "CITROËN",
@@ -52,7 +52,7 @@
     "hp": "75",
     "cc": "1360",
     "engineCodes": "KFW (TU3JP)",
-    "KBA_Numbers": "3001816  3001AAY  3001ABZ"
+    "KBA_Numbers": "3001816, 3001AAY, 3001ABZ"
   },
   {
     "brand": "CITROËN",
@@ -106,8 +106,8 @@
     "kw": "51",
     "hp": "69",
     "cc": "1868",
-    "engineCodes": "WJY (DW8B)  WJZ (DW8)",
-    "KBA_Numbers": "3001805  3001AAG  3001ACD  3001560"
+    "engineCodes": "WJY (DW8B), WJZ (DW8)",
+    "KBA_Numbers": "3001805, 3001AAG, 3001ACD, 3001560"
   },
   {
     "brand": "CITROËN",
@@ -118,7 +118,7 @@
     "hp": "90",
     "cc": "1997",
     "engineCodes": "RHY (DW10TD)",
-    "KBA_Numbers": "3001806  3001AAF  3001564"
+    "KBA_Numbers": "3001806, 3001AAF, 3001564"
   },
   {
     "brand": "CITROËN",
@@ -128,7 +128,7 @@
     "kw": "28",
     "hp": "38",
     "cc": "SA18",
-    "engineCodes": "",
+    "engineCodes": "SA18",
     "KBA_Numbers": ""
   },
   {
@@ -139,8 +139,8 @@
     "kw": "44",
     "hp": "60",
     "cc": "1124",
-    "engineCodes": "HDZ (TU1M)  HFX (TU1JP)",
-    "KBA_Numbers": "3001749  3001602"
+    "engineCodes": "HDZ (TU1M), HFX (TU1JP)",
+    "KBA_Numbers": "3001749, 3001602"
   },
   {
     "brand": "CITROËN",
@@ -161,8 +161,8 @@
     "kw": "55",
     "hp": "75",
     "cc": "1360",
-    "engineCodes": "KFX (TU3JP)  KFW (TU3JP)  KFW (TU3A)",
-    "KBA_Numbers": "3001799  3001750  3001600"
+    "engineCodes": "KFX (TU3JP), KFW (TU3JP), KFW (TU3A)",
+    "KBA_Numbers": "3001799, 3001750, 3001600"
   },
   {
     "brand": "CITROËN",
@@ -184,7 +184,7 @@
     "hp": "109",
     "cc": "1587",
     "engineCodes": "NFU (TU5JP4)",
-    "KBA_Numbers": "3001800  3001755  3001AJI"
+    "KBA_Numbers": "3001800, 3001755, 3001AJI"
   },
   {
     "brand": "CITROËN",
@@ -227,7 +227,7 @@
     "kw": "50",
     "hp": "68",
     "cc": "1905",
-    "engineCodes": "DJY (XUD9A)  D9B (XUD9A/L)",
+    "engineCodes": "DJY (XUD9A), D9B (XUD9A/L)",
     "KBA_Numbers": "3001601"
   },
   {
@@ -238,8 +238,8 @@
     "kw": "51",
     "hp": "70",
     "cc": "1868",
-    "engineCodes": "WJZ (DW8)  WJY (DW8B)",
-    "KBA_Numbers": "3001801  3001754  3001711  3001ACE"
+    "engineCodes": "WJZ (DW8), WJY (DW8B)",
+    "KBA_Numbers": "3001801, 3001754, 3001711, 3001ACE"
   },
   {
     "brand": "CITROËN",
@@ -250,7 +250,7 @@
     "hp": "90",
     "cc": "1997",
     "engineCodes": "RHY (DW10TD)",
-    "KBA_Numbers": "3001802  3001728  3001ACF  3001ACG"
+    "KBA_Numbers": "3001802, 3001728, 3001ACF, 3001ACG"
   },
   {
     "brand": "CITROËN",
@@ -260,7 +260,7 @@
     "kw": "28",
     "hp": "38",
     "cc": "SA18",
-    "engineCodes": "",
+    "engineCodes": "SA18",
     "KBA_Numbers": ""
   },
   {
@@ -271,7 +271,7 @@
     "kw": "16",
     "hp": "22",
     "cc": "SA18",
-    "engineCodes": "",
+    "engineCodes": "SA18",
     "KBA_Numbers": ""
   },
   {
@@ -304,7 +304,7 @@
     "kw": "60",
     "hp": "82",
     "cc": "1199",
-    "engineCodes": "HMZ (EB2)  HMZ (EB2F)",
+    "engineCodes": "HMZ (EB2), HMZ (EB2F)",
     "KBA_Numbers": "3001AVE"
   },
   {
@@ -315,7 +315,7 @@
     "kw": "75",
     "hp": "102",
     "cc": "1499",
-    "engineCodes": "YHY (DV5RD)  YHT (DV5RCF)",
+    "engineCodes": "YHY (DV5RD), YHT (DV5RCF)",
     "KBA_Numbers": "3001AZL"
   },
   {
@@ -326,7 +326,7 @@
     "kw": "68",
     "hp": "92",
     "cc": "1560",
-    "engineCodes": "9HJ (DV6DTEDM)  9HP (DV6DTED)",
+    "engineCodes": "9HJ (DV6DTEDM), 9HP (DV6DTED)",
     "KBA_Numbers": "3001ARO"
   },
   {
@@ -348,8 +348,8 @@
     "kw": "44",
     "hp": "60",
     "cc": "1124",
-    "engineCodes": "HFX (TU1A)  HFX (TU1JP)",
-    "KBA_Numbers": "3001821  3001ABS"
+    "engineCodes": "HFX (TU1A), HFX (TU1JP)",
+    "KBA_Numbers": "3001821, 3001ABS"
   },
   {
     "brand": "CITROËN",
@@ -359,8 +359,8 @@
     "kw": "54",
     "hp": "73",
     "cc": "1360",
-    "engineCodes": "KFV (TU3A)  KFV (TU3JP)",
-    "KBA_Numbers": "3001818  3001ABV"
+    "engineCodes": "KFV (TU3A), KFV (TU3JP)",
+    "KBA_Numbers": "3001818, 3001ABV"
   },
   {
     "brand": "CITROËN",
@@ -392,8 +392,8 @@
     "kw": "50",
     "hp": "68",
     "cc": "1398",
-    "engineCodes": "8HZ (DV4TD)  8HX (DV4TD)",
-    "KBA_Numbers": "3001820  3001ABC  3001868"
+    "engineCodes": "8HZ (DV4TD), 8HX (DV4TD)",
+    "KBA_Numbers": "3001820, 3001ABC, 3001868"
   },
   {
     "brand": "CITROËN",
@@ -414,7 +414,7 @@
     "kw": "44",
     "hp": "60",
     "cc": "1124",
-    "engineCodes": "HFX (TU1JP)  HFX (TU1A)",
+    "engineCodes": "HFX (TU1JP), HFX (TU1A)",
     "KBA_Numbers": ""
   },
   {
@@ -447,8 +447,8 @@
     "kw": "44",
     "hp": "60",
     "cc": "1124",
-    "engineCodes": "HFX (TU1JP)  HFX (TU1A)",
-    "KBA_Numbers": "3001788  3001ABW"
+    "engineCodes": "HFX (TU1JP), HFX (TU1A)",
+    "KBA_Numbers": "3001788, 3001ABW"
   },
   {
     "brand": "CITROËN",
@@ -469,8 +469,8 @@
     "kw": "50",
     "hp": "68",
     "cc": "1398",
-    "engineCodes": "8HZ (DV4TD)  8HX (DV4TD)",
-    "KBA_Numbers": "3001790  3001869  3001ABX"
+    "engineCodes": "8HZ (DV4TD), 8HX (DV4TD)",
+    "KBA_Numbers": "3001790, 3001869, 3001ABX"
   },
   {
     "brand": "CITROËN",
@@ -502,8 +502,8 @@
     "kw": "54",
     "hp": "73",
     "cc": "1360",
-    "engineCodes": "KFV (TU3A)  KFV (TU3JP)",
-    "KBA_Numbers": "3001AAA  3001ABT  3001787"
+    "engineCodes": "KFV (TU3A), KFV (TU3JP)",
+    "KBA_Numbers": "3001AAA, 3001ABT, 3001787"
   },
   {
     "brand": "CITROËN",
@@ -514,7 +514,7 @@
     "hp": "73",
     "cc": "1360",
     "engineCodes": "KFV (TU3JP)",
-    "KBA_Numbers": "3001AAB  3001ABU  3001787"
+    "KBA_Numbers": "3001AAB, 3001ABU, 3001787"
   },
   {
     "brand": "CITROËN",
@@ -524,8 +524,8 @@
     "kw": "44",
     "hp": "60",
     "cc": "1124",
-    "engineCodes": "HFV (TU1A)  HFX (TU1A)",
-    "KBA_Numbers": "3001AKY  3001AIQ"
+    "engineCodes": "HFV (TU1A), HFX (TU1A)",
+    "KBA_Numbers": "3001AKY, 3001AIQ"
   },
   {
     "brand": "CITROËN",
@@ -535,8 +535,8 @@
     "kw": "54",
     "hp": "73",
     "cc": "1360",
-    "engineCodes": "KFT (TU3AE5)  KFT (TU3A)  K6E (TU3A)",
-    "KBA_Numbers": "3001AKZ  3001AIR"
+    "engineCodes": "KFT (TU3AE5), KFT (TU3A), K6E (TU3A)",
+    "KBA_Numbers": "3001AKZ, 3001AIR"
   },
   {
     "brand": "CITROËN",
@@ -546,8 +546,8 @@
     "kw": "50",
     "hp": "68",
     "cc": "1398",
-    "engineCodes": "8HZ (DV4TD)  8HR (DV4C)  8HP (DV4C)",
-    "KBA_Numbers": "3001ALD  3001AIV"
+    "engineCodes": "8HZ (DV4TD), 8HR (DV4C), 8HP (DV4C)",
+    "KBA_Numbers": "3001ALD, 3001AIV"
   },
   {
     "brand": "CITROËN",
@@ -557,7 +557,7 @@
     "kw": "96",
     "hp": "131",
     "cc": "1199",
-    "engineCodes": "HNS (EB2ADTS)  HNY (EB2DTS)",
+    "engineCodes": "HNS (EB2ADTS), HNY (EB2DTS)",
     "KBA_Numbers": "3001AYY"
   },
   {
@@ -568,7 +568,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1199",
-    "engineCodes": "HNZ (EB2DT)  HNP (EB2ADT)  HNV (EB2DTM)",
+    "engineCodes": "HNZ (EB2DT), HNP (EB2ADT), HNV (EB2DTM)",
     "KBA_Numbers": "3001AUI"
   },
   {
@@ -579,7 +579,7 @@
     "kw": "55",
     "hp": "75",
     "cc": "1199",
-    "engineCodes": "HMU (EB2FD)  HMU (EB2D)",
+    "engineCodes": "HMU (EB2FD), HMU (EB2D)",
     "KBA_Numbers": "3001AUF"
   },
   {
@@ -612,7 +612,7 @@
     "kw": "68",
     "hp": "92",
     "cc": "1560",
-    "engineCodes": "9HJ (DV6DTEDM)  9HP (DV6D)  9HP (DV6DTED)",
+    "engineCodes": "9HJ (DV6DTEDM), 9HP (DV6D), 9HP (DV6DTED)",
     "KBA_Numbers": "3001ATZ"
   },
   {
@@ -634,7 +634,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1199",
-    "engineCodes": "HNZ (EB2DT)  HNP (EB2ADT)",
+    "engineCodes": "HNZ (EB2DT), HNP (EB2ADT)",
     "KBA_Numbers": ""
   },
   {
@@ -712,7 +712,7 @@
     "hp": "60",
     "cc": "1124",
     "engineCodes": "HDZ (TU1M)",
-    "KBA_Numbers": "3003101  3003046  3003AAJ"
+    "KBA_Numbers": "3003101, 3003046, 3003AAJ"
   },
   {
     "brand": "PEUGEOT",
@@ -722,8 +722,8 @@
     "kw": "55",
     "hp": "75",
     "cc": "1360",
-    "engineCodes": "TU32  KFX (TU3JP)",
-    "KBA_Numbers": "3003102  3003047  3003AAK"
+    "engineCodes": "TU32, KFX (TU3JP)",
+    "KBA_Numbers": "3003102, 3003047, 3003AAK"
   },
   {
     "brand": "PEUGEOT",
@@ -745,7 +745,7 @@
     "hp": "75",
     "cc": "1360",
     "engineCodes": "KFW (TU3JP)",
-    "KBA_Numbers": "3003109  3003ABS"
+    "KBA_Numbers": "3003109, 3003ABS"
   },
   {
     "brand": "PEUGEOT",
@@ -799,8 +799,8 @@
     "kw": "51",
     "hp": "69",
     "cc": "1868",
-    "engineCodes": "WJY (DW8B)  WJZ (DW8)",
-    "KBA_Numbers": "3003103  3003064  3003AAN"
+    "engineCodes": "WJY (DW8B), WJZ (DW8)",
+    "KBA_Numbers": "3003103, 3003064, 3003AAN"
   },
   {
     "brand": "PEUGEOT",
@@ -822,7 +822,7 @@
     "hp": "90",
     "cc": "1997",
     "engineCodes": "RHY (DW10TD)",
-    "KBA_Numbers": "3003069  3003104  3003AAM"
+    "KBA_Numbers": "3003069, 3003104, 3003AAM"
   },
   {
     "brand": "PEUGEOT",
@@ -843,8 +843,8 @@
     "kw": "44",
     "hp": "60",
     "cc": "1124",
-    "engineCodes": "HFX (TU1JP)  HDZ (TU1M)",
-    "KBA_Numbers": "3003534  3003793"
+    "engineCodes": "HFX (TU1JP), HDZ (TU1M)",
+    "KBA_Numbers": "3003534, 3003793"
   },
   {
     "brand": "PEUGEOT",
@@ -854,8 +854,8 @@
     "kw": "55",
     "hp": "75",
     "cc": "1360",
-    "engineCodes": "KFW (TU3A)  KFW (TU3JP)  KFX (TU3JP)",
-    "KBA_Numbers": "3003ACM  3003ACN  3003535  3003582  3003794"
+    "engineCodes": "KFW (TU3A), KFW (TU3JP), KFX (TU3JP)",
+    "KBA_Numbers": "3003ACM, 3003ACN, 3003535, 3003582, 3003794"
   },
   {
     "brand": "PEUGEOT",
@@ -877,7 +877,7 @@
     "hp": "109",
     "cc": "1587",
     "engineCodes": "NFU (TU5JP4)",
-    "KBA_Numbers": "3003ACL  3003541  3003583  3003ALG"
+    "KBA_Numbers": "3003ACL, 3003541, 3003583, 3003ALG"
   },
   {
     "brand": "PEUGEOT",
@@ -931,8 +931,8 @@
     "kw": "51",
     "hp": "69",
     "cc": "1868",
-    "engineCodes": "WJZ (DW8)  WJY (DW8B)",
-    "KBA_Numbers": "3003539  3003584  3003872"
+    "engineCodes": "WJZ (DW8), WJY (DW8B)",
+    "KBA_Numbers": "3003539, 3003584, 3003872"
   },
   {
     "brand": "PEUGEOT",
@@ -943,7 +943,7 @@
     "hp": "90",
     "cc": "1997",
     "engineCodes": "RHY (DW10TD)",
-    "KBA_Numbers": "3003896  3003585"
+    "KBA_Numbers": "3003896, 3003585"
   },
   {
     "brand": "PEUGEOT",
@@ -986,7 +986,7 @@
     "kw": "51",
     "hp": "69",
     "cc": "1868",
-    "engineCodes": "WJY (DW8B)  WJZ (DW8)",
+    "engineCodes": "WJY (DW8B), WJZ (DW8)",
     "KBA_Numbers": ""
   },
   {

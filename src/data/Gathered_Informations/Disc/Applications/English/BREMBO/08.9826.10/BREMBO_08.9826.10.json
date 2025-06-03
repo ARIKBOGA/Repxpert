@@ -7,7 +7,7 @@
     "kw": "77",
     "hp": "105",
     "cc": "1598",
-    "engineCodes": "Z 16 XE1  Z 16 XEP",
+    "engineCodes": "Z 16 XE1, Z 16 XEP",
     "KBA_Numbers": "0035AAM"
   },
   {
@@ -40,7 +40,7 @@
     "kw": "103",
     "hp": "140",
     "cc": "1796",
-    "engineCodes": "A 18 XER  Z 18 XER",
+    "engineCodes": "A 18 XER, Z 18 XER",
     "KBA_Numbers": "0035AAN"
   },
   {
@@ -52,7 +52,7 @@
     "hp": "69",
     "cc": "1248",
     "engineCodes": "Z 13 DT",
-    "KBA_Numbers": "0035AEX  0035097  0035536"
+    "KBA_Numbers": "0035AEX, 0035097, 0035536"
   },
   {
     "brand": "OPEL",
@@ -63,7 +63,7 @@
     "hp": "75",
     "cc": "1248",
     "engineCodes": "Z 13 DTJ",
-    "KBA_Numbers": "0035AQW  0035AEZ  0035AMU  0035BBQ  0035BBR"
+    "KBA_Numbers": "0035AQW, 0035AEZ, 0035AMU, 0035BBQ, 0035BBR"
   },
   {
     "brand": "OPEL",
@@ -74,7 +74,7 @@
     "hp": "90",
     "cc": "1364",
     "engineCodes": "Z 14 XEP",
-    "KBA_Numbers": "0035AEW  0035096  0035AMS"
+    "KBA_Numbers": "0035AEW, 0035096, 0035AMS"
   },
   {
     "brand": "OPEL",
@@ -85,7 +85,7 @@
     "hp": "87",
     "cc": "1598",
     "engineCodes": "Z 16 SE",
-    "KBA_Numbers": "0035437  0035003"
+    "KBA_Numbers": "0035437, 0035003"
   },
   {
     "brand": "OPEL",
@@ -107,7 +107,7 @@
     "hp": "94",
     "cc": "1598",
     "engineCodes": "Z 16 YNG",
-    "KBA_Numbers": "0035AFY  0035AMV"
+    "KBA_Numbers": "0035AFY, 0035AMV"
   },
   {
     "brand": "OPEL",
@@ -118,7 +118,7 @@
     "hp": "101",
     "cc": "1686",
     "engineCodes": "Z 17 DTH",
-    "KBA_Numbers": "0035AEY  0035098  0035AMT"
+    "KBA_Numbers": "0035AEY, 0035098, 0035AMT"
   },
   {
     "brand": "OPEL",
@@ -140,7 +140,7 @@
     "hp": "75",
     "cc": "1686",
     "engineCodes": "Y 17 DT",
-    "KBA_Numbers": "0035438  0035004"
+    "KBA_Numbers": "0035438, 0035004"
   },
   {
     "brand": "OPEL",
@@ -150,7 +150,7 @@
     "kw": "51",
     "hp": "69",
     "cc": "1248",
-    "engineCodes": "Y 13 DT  Z 13 DT",
+    "engineCodes": "Y 13 DT, Z 13 DT",
     "KBA_Numbers": "0035536"
   },
   {
@@ -162,7 +162,7 @@
     "hp": "75",
     "cc": "1248",
     "engineCodes": "Z 13 DTJ",
-    "KBA_Numbers": "0035AAP  0035AAQ"
+    "KBA_Numbers": "0035AAP, 0035AAQ"
   },
   {
     "brand": "OPEL",
@@ -173,7 +173,7 @@
     "hp": "90",
     "cc": "1364",
     "engineCodes": "Z 14 XEP",
-    "KBA_Numbers": "0035AEU  0035AET  0035535"
+    "KBA_Numbers": "0035AEU, 0035AET, 0035535"
   },
   {
     "brand": "OPEL",
@@ -217,7 +217,7 @@
     "hp": "101",
     "cc": "1686",
     "engineCodes": "Z 17 DTH",
-    "KBA_Numbers": "0035AJQ  0035AEV  0035537"
+    "KBA_Numbers": "0035AJQ, 0035AEV, 0035537"
   },
   {
     "brand": "OPEL",
@@ -293,8 +293,8 @@
     "kw": "51",
     "hp": "69",
     "cc": "1248",
-    "engineCodes": "Y 13 DT  Z 13 DT",
-    "KBA_Numbers": "0035AAT  0035543"
+    "engineCodes": "Y 13 DT, Z 13 DT",
+    "KBA_Numbers": "0035AAT, 0035543"
   },
   {
     "brand": "OPEL",
@@ -316,7 +316,7 @@
     "hp": "100",
     "cc": "1598",
     "engineCodes": "Z 16 XE",
-    "KBA_Numbers": "0035AAV  0035482"
+    "KBA_Numbers": "0035AAV, 0035482"
   },
   {
     "brand": "OPEL",
@@ -327,7 +327,7 @@
     "hp": "75",
     "cc": "1686",
     "engineCodes": "Y 17 DT",
-    "KBA_Numbers": "0035AAR  0035484"
+    "KBA_Numbers": "0035AAR, 0035484"
   },
   {
     "brand": "OPEL",
@@ -338,7 +338,7 @@
     "hp": "125",
     "cc": "1796",
     "engineCodes": "Z 18 XE",
-    "KBA_Numbers": "0035AAW  0035483"
+    "KBA_Numbers": "0035AAW, 0035483"
   },
   {
     "brand": "VAUXHALL",
@@ -359,7 +359,7 @@
     "kw": "85",
     "hp": "116",
     "cc": "1598",
-    "engineCodes": "A 16 XER  Z 16 XER",
+    "engineCodes": "A 16 XER, Z 16 XER",
     "KBA_Numbers": ""
   },
   {
@@ -370,7 +370,7 @@
     "kw": "103",
     "hp": "140",
     "cc": "1796",
-    "engineCodes": "Z 18 XER  A 18 XER",
+    "engineCodes": "Z 18 XER, A 18 XER",
     "KBA_Numbers": ""
   },
   {
@@ -381,7 +381,7 @@
     "kw": "51",
     "hp": "69",
     "cc": "1248",
-    "engineCodes": "Z 13 DT  Y 13 DT",
+    "engineCodes": "Z 13 DT, Y 13 DT",
     "KBA_Numbers": ""
   },
   {
@@ -458,7 +458,7 @@
     "kw": "69",
     "hp": "94",
     "cc": "1598",
-    "engineCodes": "Z 16 YNG  Y 16 YNG",
+    "engineCodes": "Z 16 YNG, Y 16 YNG",
     "KBA_Numbers": ""
   },
   {
@@ -645,7 +645,7 @@
     "kw": "51",
     "hp": "69",
     "cc": "1248",
-    "engineCodes": "Y 13 DT  Z 13 DT",
+    "engineCodes": "Y 13 DT, Z 13 DT",
     "KBA_Numbers": ""
   },
   {

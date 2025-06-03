@@ -1,0 +1,57 @@
+[
+  {
+    "brand": "PEUGEOT",
+    "model": "205 I (741A/C)",
+    "engineType": "1.6 GTI",
+    "madeYear": "02.1983 - 07.1987",
+    "kw": "85",
+    "hp": "116",
+    "cc": "1580",
+    "engineCodes": "B6D (XU5JA)",
+    "KBA_Numbers": ""
+  },
+  {
+    "brand": "PEUGEOT",
+    "model": "205 I (741A/C)",
+    "engineType": "1.6 GTI",
+    "madeYear": "12.1984 - 10.1987",
+    "kw": "76",
+    "hp": "103",
+    "cc": "1580",
+    "engineCodes": "180A (XU5J), 180Z (XU5J)",
+    "KBA_Numbers": "3003473"
+  },
+  {
+    "brand": "RENAULT",
+    "model": "TWINGO I (C06_)",
+    "engineType": "1.2 (C063, C064)",
+    "madeYear": "03.1993 - 10.1996",
+    "kw": "40",
+    "hp": "55",
+    "cc": "1239",
+    "engineCodes": "C3G 702, C3G 700",
+    "KBA_Numbers": "3004712"
+  },
+  {
+    "brand": "RENAULT",
+    "model": "TWINGO I (C06_)",
+    "engineType": "1.2 (C066, C068)",
+    "madeYear": "05.1996 - 06.2007",
+    "kw": "43",
+    "hp": "58",
+    "cc": "1149",
+    "engineCodes": "D7F 703, D7F 701, D7F 702, D7F 700, D7F 704",
+    "KBA_Numbers": "3333ADN, 3004779"
+  },
+  {
+    "brand": "RENAULT",
+    "model": "TWINGO I (C06_)",
+    "engineType": "1.2 (C067)",
+    "madeYear": "05.1996 - 03.2007",
+    "kw": "40",
+    "hp": "54",
+    "cc": "1149",
+    "engineCodes": "D7F 701, D7F 700",
+    "KBA_Numbers": "3004780"
+  }
+]

@@ -29,7 +29,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1493",
-    "engineCodes": "D15Z2  D15B2  D15Z1",
+    "engineCodes": "D15Z2, D15B2, D15Z1",
     "KBA_Numbers": "7100482"
   },
   {
@@ -40,7 +40,7 @@
     "kw": "69",
     "hp": "94",
     "cc": "1493",
-    "engineCodes": "D15B2  D15Z1",
+    "engineCodes": "D15B2, D15Z1",
     "KBA_Numbers": ""
   },
   {
@@ -95,7 +95,7 @@
     "kw": "69",
     "hp": "94",
     "cc": "1493",
-    "engineCodes": "D15B2  D15Z1",
+    "engineCodes": "D15B2, D15Z1",
     "KBA_Numbers": "7100481"
   },
   {
@@ -106,7 +106,7 @@
     "kw": "92",
     "hp": "125",
     "cc": "1590",
-    "engineCodes": "D16Z6  D16Z7",
+    "engineCodes": "D16Z6, D16Z7",
     "KBA_Numbers": "7100479"
   },
   {
@@ -150,8 +150,8 @@
     "kw": "66",
     "hp": "90",
     "cc": "1396",
-    "engineCodes": "D14A6  D14Z4  D14A8  D14A2",
-    "KBA_Numbers": "2131306  2131313"
+    "engineCodes": "D14A6, D14Z4, D14A8, D14A2",
+    "KBA_Numbers": "2131306, 2131313"
   },
   {
     "brand": "HONDA",
@@ -161,8 +161,8 @@
     "kw": "55",
     "hp": "75",
     "cc": "1396",
-    "engineCodes": "D14Z3  D14A7  D14A5",
-    "KBA_Numbers": "2131307  2131312"
+    "engineCodes": "D14Z3, D14A7, D14A5",
+    "KBA_Numbers": "2131307, 2131312"
   },
   {
     "brand": "HONDA",
@@ -183,7 +183,7 @@
     "kw": "55",
     "hp": "75",
     "cc": "1396",
-    "engineCodes": "D14Z1  D14A3",
+    "engineCodes": "D14Z1, D14A3",
     "KBA_Numbers": "7100497"
   },
   {
@@ -194,7 +194,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1396",
-    "engineCodes": "D14Z2  D14A4  D14Z4",
+    "engineCodes": "D14Z2, D14A4, D14Z4",
     "KBA_Numbers": "7100498"
   },
   {
@@ -249,7 +249,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1396",
-    "engineCodes": "D14Z4  D14Z2  D14A4",
+    "engineCodes": "D14Z4, D14Z2, D14A4",
     "KBA_Numbers": "7100499"
   },
   {
@@ -282,7 +282,7 @@
     "kw": "88",
     "hp": "120",
     "cc": "1590",
-    "engineCodes": "D16Z2  D16A",
+    "engineCodes": "D16Z2, D16A",
     "KBA_Numbers": ""
   },
   {

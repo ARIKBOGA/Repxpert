@@ -7,8 +7,8 @@
     "kw": "85",
     "hp": "116",
     "cc": "1968",
-    "engineCodes": "DTRD  DSUD  DTRB  DXRC",
-    "KBA_Numbers": "0588BZN  0588BUM"
+    "engineCodes": "DTRD, DSUD, DTRB, DXRC",
+    "KBA_Numbers": "0588BZN, 0588BUM"
   },
   {
     "brand": "AUDI",
@@ -19,7 +19,7 @@
     "hp": "110",
     "cc": "999",
     "engineCodes": "DLAA",
-    "KBA_Numbers": "0588BXO  0588BUI"
+    "KBA_Numbers": "0588BXO, 0588BUI"
   },
   {
     "brand": "AUDI",
@@ -30,7 +30,7 @@
     "hp": "110",
     "cc": "999",
     "engineCodes": "DLAA",
-    "KBA_Numbers": "0588BXN  0588BUJ"
+    "KBA_Numbers": "0588BXN, 0588BUJ"
   },
   {
     "brand": "AUDI",
@@ -40,8 +40,8 @@
     "kw": "85",
     "hp": "116",
     "cc": "1968",
-    "engineCodes": "DTRD  DSUD  DTRB  DXRC",
-    "KBA_Numbers": "0588BZP  0588BUF"
+    "engineCodes": "DTRD, DSUD, DTRB, DXRC",
+    "KBA_Numbers": "0588BZP, 0588BUF"
   },
   {
     "brand": "AUDI",
@@ -52,7 +52,7 @@
     "hp": "110",
     "cc": "999",
     "engineCodes": "DLAA",
-    "KBA_Numbers": "0588BXS  1860ABD  0588BUB"
+    "KBA_Numbers": "0588BXS, 1860ABD, 0588BUB"
   },
   {
     "brand": "AUDI",
@@ -63,7 +63,7 @@
     "hp": "110",
     "cc": "999",
     "engineCodes": "DLAA",
-    "KBA_Numbers": "0588BXR  0588BUC"
+    "KBA_Numbers": "0588BXR, 0588BUC"
   },
   {
     "brand": "VW",
@@ -74,7 +74,7 @@
     "hp": "110",
     "cc": "999",
     "engineCodes": "DLAA",
-    "KBA_Numbers": "0603CKL  0603CNS"
+    "KBA_Numbers": "0603CKL, 0603CNS"
   },
   {
     "brand": "VW",
@@ -96,7 +96,7 @@
     "hp": "131",
     "cc": "1495",
     "engineCodes": "DPBA",
-    "KBA_Numbers": "0603CKM  0603CNV"
+    "KBA_Numbers": "0603CKM, 0603CNV"
   },
   {
     "brand": "VW",
@@ -106,8 +106,8 @@
     "kw": "85",
     "hp": "116",
     "cc": "1968",
-    "engineCodes": "DSUD  DTRB  DTRD  DXRC",
-    "KBA_Numbers": "0603CKP  0603CNY"
+    "engineCodes": "DSUD, DTRB, DTRD, DXRC",
+    "KBA_Numbers": "0603CKP, 0603CNY"
   },
   {
     "brand": "VW",
@@ -150,7 +150,7 @@
     "kw": "85",
     "hp": "116",
     "cc": "1968",
-    "engineCodes": "DSUD  DTRD  DTRB  DXRC",
+    "engineCodes": "DSUD, DTRD, DTRB, DXRC",
     "KBA_Numbers": "0603CNM"
   }
 ]

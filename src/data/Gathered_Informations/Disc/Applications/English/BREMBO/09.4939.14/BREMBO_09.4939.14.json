@@ -8,7 +8,7 @@
     "hp": "135",
     "cc": "1368",
     "engineCodes": "312 A1.000",
-    "KBA_Numbers": "4136ALM  1727AJS"
+    "KBA_Numbers": "4136ALM, 1727AJS"
   },
   {
     "brand": "ABARTH",
@@ -29,8 +29,8 @@
     "kw": "103",
     "hp": "140",
     "cc": "1368",
-    "engineCodes": "312 A1.000  312 A3.000",
-    "KBA_Numbers": "1727ABA  4136APY"
+    "engineCodes": "312 A1.000, 312 A3.000",
+    "KBA_Numbers": "1727ABA, 4136APY"
   },
   {
     "brand": "ALFA ROMEO",
@@ -62,8 +62,8 @@
     "kw": "110",
     "hp": "150",
     "cc": "1970",
-    "engineCodes": "AR 67299  AR 67204",
-    "KBA_Numbers": "4001074  4001178"
+    "engineCodes": "AR 67299, AR 67204",
+    "KBA_Numbers": "4001074, 4001178"
   },
   {
     "brand": "ALFA ROMEO",
@@ -73,8 +73,8 @@
     "kw": "92",
     "hp": "125",
     "cc": "2499",
-    "engineCodes": "VM 31 B  VM 07 B",
-    "KBA_Numbers": "4001649  4001177"
+    "engineCodes": "VM 31 B, VM 07 B",
+    "KBA_Numbers": "4001649, 4001177"
   },
   {
     "brand": "ALFA ROMEO",
@@ -85,7 +85,7 @@
     "hp": "165",
     "cc": "2492",
     "engineCodes": "AR 67301",
-    "KBA_Numbers": "4001493  4001966"
+    "KBA_Numbers": "4001493, 4001966"
   },
   {
     "brand": "ALFA ROMEO",
@@ -95,7 +95,7 @@
     "kw": "120",
     "hp": "163",
     "cc": "2492",
-    "engineCodes": "AR 67303  AR 67302",
+    "engineCodes": "AR 67303, AR 67302",
     "KBA_Numbers": "4001646"
   },
   {
@@ -107,7 +107,7 @@
     "hp": "68",
     "cc": "1398",
     "engineCodes": "8HS (DV4TED)",
-    "KBA_Numbers": "3001AGE  3001AMT"
+    "KBA_Numbers": "3001AGE, 3001AMT"
   },
   {
     "brand": "CITROËN",
@@ -194,7 +194,7 @@
     "kw": "77",
     "hp": "105",
     "cc": "1598",
-    "engineCodes": "844 A3.000  198 A3.000",
+    "engineCodes": "844 A3.000, 198 A3.000",
     "KBA_Numbers": "4136AJN"
   },
   {
@@ -238,7 +238,7 @@
     "kw": "85",
     "hp": "116",
     "cc": "1910",
-    "engineCodes": "192 B4.000  192 A1.000",
+    "engineCodes": "192 B4.000, 192 A1.000",
     "KBA_Numbers": "4136AHM"
   },
   {
@@ -261,7 +261,7 @@
     "hp": "190",
     "cc": "1995",
     "engineCodes": "175 A1.000",
-    "KBA_Numbers": "4001676  4001667"
+    "KBA_Numbers": "4001676, 4001667"
   },
   {
     "brand": "FIAT",
@@ -271,7 +271,7 @@
     "kw": "85",
     "hp": "116",
     "cc": "1995",
-    "engineCodes": "834 B.146  154 C3.046",
+    "engineCodes": "834 B.146, 154 C3.046",
     "KBA_Numbers": "4001837"
   },
   {
@@ -282,7 +282,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1995",
-    "engineCodes": "834 C.146  154 C4.046",
+    "engineCodes": "834 C.146, 154 C4.046",
     "KBA_Numbers": "4001849"
   },
   {
@@ -305,7 +305,7 @@
     "hp": "75",
     "cc": "1248",
     "engineCodes": "199 A2.000",
-    "KBA_Numbers": "4136AAC  4136AAQ"
+    "KBA_Numbers": "4136AAC, 4136AAQ"
   },
   {
     "brand": "FIAT",
@@ -315,8 +315,8 @@
     "kw": "51",
     "hp": "70",
     "cc": "1248",
-    "engineCodes": "188 A8.000  188 A9.000",
-    "KBA_Numbers": "4136604  4136067"
+    "engineCodes": "188 A8.000, 188 A9.000",
+    "KBA_Numbers": "4136604, 4136067"
   },
   {
     "brand": "FIAT",
@@ -360,7 +360,7 @@
     "hp": "103",
     "cc": "1596",
     "engineCodes": "182 B6.000",
-    "KBA_Numbers": "4136ABI  4136AAA"
+    "KBA_Numbers": "4136ABI, 4136AAA"
   },
   {
     "brand": "FIAT",
@@ -370,7 +370,7 @@
     "kw": "77",
     "hp": "105",
     "cc": "1910",
-    "engineCodes": "223 B1.000  223 A7.000",
+    "engineCodes": "223 B1.000, 223 A7.000",
     "KBA_Numbers": "4136061"
   },
   {
@@ -381,8 +381,8 @@
     "kw": "74",
     "hp": "100",
     "cc": "1910",
-    "engineCodes": "182 B9.000  223 B2.000",
-    "KBA_Numbers": "4136AAB  4136022"
+    "engineCodes": "182 B9.000, 223 B2.000",
+    "KBA_Numbers": "4136AAB, 4136022"
   },
   {
     "brand": "FIAT",
@@ -469,8 +469,8 @@
     "kw": "77",
     "hp": "105",
     "cc": "1910",
-    "engineCodes": "223 B1.000  223 A7.000",
-    "KBA_Numbers": "4136593  4136AAO"
+    "engineCodes": "223 B1.000, 223 A7.000",
+    "KBA_Numbers": "4136593, 4136AAO"
   },
   {
     "brand": "FIAT",
@@ -480,7 +480,7 @@
     "kw": "74",
     "hp": "100",
     "cc": "1910",
-    "engineCodes": "223 B2.000  182 B9.000",
+    "engineCodes": "223 B2.000, 182 B9.000",
     "KBA_Numbers": "4136499"
   },
   {
@@ -491,8 +491,8 @@
     "kw": "70",
     "hp": "95",
     "cc": "1248",
-    "engineCodes": "330 A1.000  199 B1.000  463 45 266",
-    "KBA_Numbers": "4136AQU  1727AIU"
+    "engineCodes": "330 A1.000, 199 B1.000, 463 45 266",
+    "KBA_Numbers": "4136AQU, 1727AIU"
   },
   {
     "brand": "FIAT",
@@ -502,8 +502,8 @@
     "kw": "59",
     "hp": "80",
     "cc": "1248",
-    "engineCodes": "225 A2.000  552 83 775  463 45 266",
-    "KBA_Numbers": "4136BCR  1727AIV"
+    "engineCodes": "225 A2.000, 552 83 775, 463 45 266",
+    "KBA_Numbers": "4136BCR, 1727AIV"
   },
   {
     "brand": "FIAT",
@@ -513,7 +513,7 @@
     "kw": "70",
     "hp": "95",
     "cc": "1248",
-    "engineCodes": "199 B1.000  463 45 266  330 A1.000",
+    "engineCodes": "199 B1.000, 463 45 266, 330 A1.000",
     "KBA_Numbers": "1727AGS"
   },
   {
@@ -558,7 +558,7 @@
     "hp": "101",
     "cc": "1910",
     "engineCodes": "188 B2.000",
-    "KBA_Numbers": "4136059  4136AGP"
+    "KBA_Numbers": "4136059, 4136AGP"
   },
   {
     "brand": "FIAT",
@@ -623,7 +623,7 @@
     "kw": "96",
     "hp": "130",
     "cc": "2387",
-    "engineCodes": "185 A6.000  839 A5.000",
+    "engineCodes": "185 A6.000, 839 A5.000",
     "KBA_Numbers": "4136385"
   },
   {
@@ -678,7 +678,7 @@
     "kw": "96",
     "hp": "130",
     "cc": "2387",
-    "engineCodes": "185 A6.000  839 A5.000",
+    "engineCodes": "185 A6.000, 839 A5.000",
     "KBA_Numbers": "4136386"
   },
   {
@@ -700,8 +700,8 @@
     "kw": "70",
     "hp": "95",
     "cc": "1248",
-    "engineCodes": "199 B1.000  330 A1.000  552 83 775",
-    "KBA_Numbers": "4136AQW  1727AGS"
+    "engineCodes": "199 B1.000, 330 A1.000, 552 83 775",
+    "KBA_Numbers": "4136AQW, 1727AGS"
   },
   {
     "brand": "FIAT",
@@ -712,7 +712,7 @@
     "hp": "133",
     "cc": "1747",
     "engineCodes": "192 A4.000",
-    "KBA_Numbers": "4136492  4136493"
+    "KBA_Numbers": "4136492, 4136493"
   },
   {
     "brand": "FIAT",
@@ -723,7 +723,7 @@
     "hp": "100",
     "cc": "1910",
     "engineCodes": "192 A9.000",
-    "KBA_Numbers": "4136627  4136628"
+    "KBA_Numbers": "4136627, 4136628"
   },
   {
     "brand": "FIAT",
@@ -734,7 +734,7 @@
     "hp": "120",
     "cc": "1910",
     "engineCodes": "192 A8.000",
-    "KBA_Numbers": "4136ABT  4136673  4136674"
+    "KBA_Numbers": "4136ABT, 4136673, 4136674"
   },
   {
     "brand": "FIAT",
@@ -744,8 +744,8 @@
     "kw": "85",
     "hp": "115",
     "cc": "1910",
-    "engineCodes": "937 A7.000  192 A1.000  192 B4.000",
-    "KBA_Numbers": "4136491  4136490"
+    "engineCodes": "937 A7.000, 192 A1.000, 192 B4.000",
+    "KBA_Numbers": "4136491, 4136490"
   },
   {
     "brand": "FIAT",
@@ -756,7 +756,7 @@
     "hp": "80",
     "cc": "1910",
     "engineCodes": "192 A3.000",
-    "KBA_Numbers": "4136486  4136487"
+    "KBA_Numbers": "4136486, 4136487"
   },
   {
     "brand": "FIAT",
@@ -855,7 +855,7 @@
     "hp": "120",
     "cc": "1910",
     "engineCodes": "192 A8.000",
-    "KBA_Numbers": "4136ABU  4136675"
+    "KBA_Numbers": "4136ABU, 4136675"
   },
   {
     "brand": "FIAT",
@@ -876,7 +876,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "1910",
-    "engineCodes": "937 A7.000  192 A1.000  192 B4.000",
+    "engineCodes": "937 A7.000, 192 A1.000, 192 B4.000",
     "KBA_Numbers": "4136553"
   },
   {
@@ -899,7 +899,7 @@
     "hp": "193",
     "cc": "1995",
     "engineCodes": "175 A4.000",
-    "KBA_Numbers": "4136305  4001136"
+    "KBA_Numbers": "4136305, 4001136"
   },
   {
     "brand": "LANCIA",
@@ -976,7 +976,7 @@
     "hp": "166",
     "cc": "1995",
     "engineCodes": "834 C.000",
-    "KBA_Numbers": "4001459  4114351"
+    "KBA_Numbers": "4001459, 4114351"
   },
   {
     "brand": "LANCIA",
@@ -998,7 +998,7 @@
     "hp": "68",
     "cc": "1398",
     "engineCodes": "8HS (DV4TED)",
-    "KBA_Numbers": "3003AHG  3003ANP"
+    "KBA_Numbers": "3003AHG, 3003ANP"
   },
   {
     "brand": "PEUGEOT",
@@ -1009,6 +1009,6 @@
     "hp": "68",
     "cc": "1398",
     "engineCodes": "8HS (DV4TED)",
-    "KBA_Numbers": "3003AHQ  3003ANL"
+    "KBA_Numbers": "3003AHQ, 3003ANL"
   }
 ]

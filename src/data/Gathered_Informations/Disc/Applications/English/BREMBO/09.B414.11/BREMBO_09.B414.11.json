@@ -7,8 +7,8 @@
     "kw": "100",
     "hp": "136",
     "cc": "1995",
-    "engineCodes": "N47 D20 C  N47 D20 A",
-    "KBA_Numbers": "0005ANC  0005AQV"
+    "engineCodes": "N47 D20 C, N47 D20 A",
+    "KBA_Numbers": "0005ANC, 0005AQV"
   },
   {
     "brand": "BMW",
@@ -18,8 +18,8 @@
     "kw": "105",
     "hp": "143",
     "cc": "1995",
-    "engineCodes": "N47 D20 C  N47 D20 A",
-    "KBA_Numbers": "0005ANB  0005AQW"
+    "engineCodes": "N47 D20 C, N47 D20 A",
+    "KBA_Numbers": "0005ANB, 0005AQW"
   },
   {
     "brand": "BMW",
@@ -30,7 +30,7 @@
     "hp": "143",
     "cc": "1995",
     "engineCodes": "N43 B20 A",
-    "KBA_Numbers": "0005AQN  0005AMP"
+    "KBA_Numbers": "0005AQN, 0005AMP"
   },
   {
     "brand": "BMW",
@@ -41,7 +41,7 @@
     "hp": "136",
     "cc": "1995",
     "engineCodes": "N46 B20 B",
-    "KBA_Numbers": "0005ANA  0005AQM"
+    "KBA_Numbers": "0005ANA, 0005AQM"
   },
   {
     "brand": "BMW",
@@ -51,8 +51,8 @@
     "kw": "120",
     "hp": "163",
     "cc": "1995",
-    "engineCodes": "N47 D20 C  N47 D20 A",
-    "KBA_Numbers": "0005AMM  0005AQZ"
+    "engineCodes": "N47 D20 C, N47 D20 A",
+    "KBA_Numbers": "0005AMM, 0005AQZ"
   },
   {
     "brand": "BMW",
@@ -62,8 +62,8 @@
     "kw": "130",
     "hp": "177",
     "cc": "1995",
-    "engineCodes": "N47 D20 C  N47 D20 A",
-    "KBA_Numbers": "0005AQY  0005AMN"
+    "engineCodes": "N47 D20 C, N47 D20 A",
+    "KBA_Numbers": "0005AQY, 0005AMN"
   },
   {
     "brand": "BMW",
@@ -85,7 +85,7 @@
     "hp": "170",
     "cc": "1995",
     "engineCodes": "N43 B20 A",
-    "KBA_Numbers": "0005AQO  0005AMQ"
+    "KBA_Numbers": "0005AQO, 0005AMQ"
   },
   {
     "brand": "BMW",
@@ -95,8 +95,8 @@
     "kw": "115",
     "hp": "156",
     "cc": "1995",
-    "engineCodes": "N46 B20 E  N46 B20 C  N46 B20 B",
-    "KBA_Numbers": "0005AQQ  0005AMU"
+    "engineCodes": "N46 B20 E, N46 B20 C, N46 B20 B",
+    "KBA_Numbers": "0005AQQ, 0005AMU"
   },
   {
     "brand": "BMW",
@@ -107,7 +107,7 @@
     "hp": "163",
     "cc": "1995",
     "engineCodes": "N43 B20 A",
-    "KBA_Numbers": "0005AQP  0005AMT"
+    "KBA_Numbers": "0005AQP, 0005AMT"
   },
   {
     "brand": "BMW",
@@ -117,8 +117,8 @@
     "kw": "160",
     "hp": "218",
     "cc": "2996",
-    "engineCodes": "N52 B30 A  N52 B30 B  N52 B30 BF",
-    "KBA_Numbers": "0005AQR  0005AMR"
+    "engineCodes": "N52 B30 A, N52 B30 B, N52 B30 BF",
+    "KBA_Numbers": "0005AQR, 0005AMR"
   },
   {
     "brand": "BMW",
@@ -128,7 +128,7 @@
     "kw": "172",
     "hp": "234",
     "cc": "2996",
-    "engineCodes": "N52 B30 A  N51 B30 A",
+    "engineCodes": "N52 B30 A, N51 B30 A",
     "KBA_Numbers": ""
   },
   {
@@ -161,8 +161,8 @@
     "kw": "120",
     "hp": "163",
     "cc": "1995",
-    "engineCodes": "N47 D20 C  N47 D20 A",
-    "KBA_Numbers": "0005ASV  0005AKD"
+    "engineCodes": "N47 D20 C, N47 D20 A",
+    "KBA_Numbers": "0005ASV, 0005AKD"
   },
   {
     "brand": "BMW",
@@ -172,8 +172,8 @@
     "kw": "130",
     "hp": "177",
     "cc": "1995",
-    "engineCodes": "N47 D20 C  N47 D20 A",
-    "KBA_Numbers": "0005AQX  0005AKC"
+    "engineCodes": "N47 D20 C, N47 D20 A",
+    "KBA_Numbers": "0005AQX, 0005AKC"
   },
   {
     "brand": "BMW",
@@ -183,7 +183,7 @@
     "kw": "145",
     "hp": "197",
     "cc": "1995",
-    "engineCodes": "N47 D20 C  N47 D20 A",
+    "engineCodes": "N47 D20 C, N47 D20 A",
     "KBA_Numbers": "0005AZG"
   },
   {
@@ -205,7 +205,7 @@
     "kw": "115",
     "hp": "156",
     "cc": "1995",
-    "engineCodes": "N46 B20 BD  N46 B20 C  N46 B20 E  N46 B20 B",
+    "engineCodes": "N46 B20 BD, N46 B20 C, N46 B20 E, N46 B20 B",
     "KBA_Numbers": "0005AQG"
   },
   {
@@ -216,8 +216,8 @@
     "kw": "160",
     "hp": "218",
     "cc": "2996",
-    "engineCodes": "N52 B30 A  N52 B30 B  N52 B30 BF",
-    "KBA_Numbers": "0005AQS  0005AMS"
+    "engineCodes": "N52 B30 A, N52 B30 B, N52 B30 BF",
+    "KBA_Numbers": "0005AQS, 0005AMS"
   },
   {
     "brand": "BMW",
@@ -227,7 +227,7 @@
     "kw": "172",
     "hp": "234",
     "cc": "2996",
-    "engineCodes": "N52 B30 A  N51 B30 A",
+    "engineCodes": "N52 B30 A, N51 B30 A",
     "KBA_Numbers": ""
   },
   {
@@ -238,7 +238,7 @@
     "kw": "130",
     "hp": "177",
     "cc": "1995",
-    "engineCodes": "N47 D20 A  N47 D20 C",
+    "engineCodes": "N47 D20 A, N47 D20 C",
     "KBA_Numbers": "0005AJC"
   }
 ]

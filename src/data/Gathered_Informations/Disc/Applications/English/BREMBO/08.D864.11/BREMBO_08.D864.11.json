@@ -30,7 +30,7 @@
     "hp": "85",
     "cc": "998",
     "engineCodes": "SFDC",
-    "KBA_Numbers": "8566BOP  8566BON"
+    "KBA_Numbers": "8566BOP, 8566BON"
   },
   {
     "brand": "FORD",
@@ -40,7 +40,7 @@
     "kw": "92",
     "hp": "125",
     "cc": "999",
-    "engineCodes": "B7DA  R0DB  B7DC",
+    "engineCodes": "B7DA, R0DB, B7DC",
     "KBA_Numbers": "8566BUB"
   },
   {
@@ -62,7 +62,7 @@
     "kw": "92",
     "hp": "125",
     "cc": "999",
-    "engineCodes": "B7DA  R0DB",
+    "engineCodes": "B7DA, R0DB",
     "KBA_Numbers": ""
   },
   {
@@ -84,8 +84,8 @@
     "kw": "88",
     "hp": "120",
     "cc": "1499",
-    "engineCodes": "ZTDB  ZTDA",
-    "KBA_Numbers": "8566BPT  8566BPU"
+    "engineCodes": "ZTDB, ZTDA",
+    "KBA_Numbers": "8566BPT, 8566BPU"
   },
   {
     "brand": "FORD",
@@ -107,7 +107,7 @@
     "hp": "182",
     "cc": "1496",
     "engineCodes": "Y1DA",
-    "KBA_Numbers": "8566BQF  8566BQG"
+    "KBA_Numbers": "8566BQF, 8566BQG"
   },
   {
     "brand": "FORD",
@@ -172,7 +172,7 @@
     "kw": "88",
     "hp": "120",
     "cc": "1499",
-    "engineCodes": "ZTDB  ZTDA",
+    "engineCodes": "ZTDB, ZTDA",
     "KBA_Numbers": "8566BPT"
   },
   {
@@ -214,7 +214,7 @@
     "engineType": "1.0 EcoBoost",
     "madeYear": "from 09.2018",
     "kw": "74",
-    "hp": "100",
+    "hp": "101",
     "cc": "999",
     "engineCodes": "B3DA",
     "KBA_Numbers": "8566BPB"
@@ -238,7 +238,7 @@
     "kw": "92",
     "hp": "125",
     "cc": "999",
-    "engineCodes": "B7DA  R0DB  B7DC",
+    "engineCodes": "B7DA, R0DB, B7DC",
     "KBA_Numbers": "8566BUC"
   },
   {
@@ -271,7 +271,7 @@
     "kw": "88",
     "hp": "120",
     "cc": "1499",
-    "engineCodes": "ZTDA  ZTDB",
+    "engineCodes": "ZTDA, ZTDB",
     "KBA_Numbers": "8566BPV"
   },
   {

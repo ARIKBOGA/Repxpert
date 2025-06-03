@@ -8,7 +8,7 @@
     "hp": "45",
     "cc": "1493",
     "engineCodes": "K",
-    "KBA_Numbers": "0600331  0600373"
+    "KBA_Numbers": "0600331, 0600373"
   },
   {
     "brand": "VW",
@@ -29,7 +29,7 @@
     "kw": "40",
     "hp": "54",
     "cc": "1584",
-    "engineCodes": "U  T",
+    "engineCodes": "U, T",
     "KBA_Numbers": "0600349"
   },
   {
@@ -51,7 +51,7 @@
     "kw": "40",
     "hp": "54",
     "cc": "1584",
-    "engineCodes": "U  T",
+    "engineCodes": "U, T",
     "KBA_Numbers": "0600341"
   },
   {
@@ -73,7 +73,7 @@
     "kw": "40",
     "hp": "54",
     "cc": "1584",
-    "engineCodes": "U  T",
+    "engineCodes": "U, T",
     "KBA_Numbers": "0600348"
   },
   {
@@ -106,7 +106,7 @@
     "kw": "40",
     "hp": "54",
     "cc": "1584",
-    "engineCodes": "U  T",
+    "engineCodes": "U, T",
     "KBA_Numbers": "0600340"
   },
   {
@@ -150,7 +150,7 @@
     "kw": "37",
     "hp": "50",
     "cc": "1584",
-    "engineCodes": "AD  AS",
+    "engineCodes": "AD, AS",
     "KBA_Numbers": "0600398"
   },
   {
@@ -172,7 +172,7 @@
     "kw": "32",
     "hp": "44",
     "cc": "1285",
-    "engineCodes": "AB  AR",
+    "engineCodes": "AB, AR",
     "KBA_Numbers": "0600400"
   },
   {
@@ -183,7 +183,7 @@
     "kw": "35",
     "hp": "48",
     "cc": "1584",
-    "engineCodes": "AK  AE  AH",
+    "engineCodes": "AK, AE, AH",
     "KBA_Numbers": "0600417"
   },
   {
@@ -216,7 +216,7 @@
     "kw": "29",
     "hp": "40",
     "cc": "1285",
-    "engineCodes": "F  AC",
+    "engineCodes": "F, AC",
     "KBA_Numbers": "0600338"
   },
   {
@@ -228,7 +228,7 @@
     "hp": "24",
     "cc": "1131",
     "engineCodes": "M5",
-    "KBA_Numbers": "0600313  0600315  0600317  0600316  0600319"
+    "KBA_Numbers": "0600313, 0600315, 0600317, 0600316, 0600319"
   },
   {
     "brand": "VW",
@@ -239,7 +239,7 @@
     "hp": "30",
     "cc": "1192",
     "engineCodes": "M51",
-    "KBA_Numbers": "0600304  0600318"
+    "KBA_Numbers": "0600304, 0600318"
   },
   {
     "brand": "VW",
@@ -293,7 +293,7 @@
     "kw": "29",
     "hp": "40",
     "cc": "1285",
-    "engineCodes": "F  AC",
+    "engineCodes": "F, AC",
     "KBA_Numbers": "0600305"
   },
   {
@@ -304,7 +304,7 @@
     "kw": "32",
     "hp": "44",
     "cc": "1285",
-    "engineCodes": "AB  AR",
+    "engineCodes": "AB, AR",
     "KBA_Numbers": "0600393"
   },
   {
@@ -348,8 +348,8 @@
     "kw": "35",
     "hp": "48",
     "cc": "1584",
-    "engineCodes": "AK  AE  AH",
-    "KBA_Numbers": "0600374  0600415"
+    "engineCodes": "AK, AE, AH",
+    "KBA_Numbers": "0600374, 0600415"
   },
   {
     "brand": "VW",
@@ -381,7 +381,7 @@
     "kw": "32",
     "hp": "44",
     "cc": "1285",
-    "engineCodes": "AR  AB",
+    "engineCodes": "AR, AB",
     "KBA_Numbers": "0600426"
   },
   {
@@ -403,7 +403,7 @@
     "kw": "37",
     "hp": "50",
     "cc": "1584",
-    "engineCodes": "AS  AJ  AD",
+    "engineCodes": "AS, AJ, AD",
     "KBA_Numbers": "0600424"
   },
   {
@@ -425,7 +425,7 @@
     "kw": "37",
     "hp": "50",
     "cc": "1584",
-    "engineCodes": "AD  AS",
+    "engineCodes": "AD, AS",
     "KBA_Numbers": "0600392"
   },
   {
@@ -502,7 +502,7 @@
     "kw": "32",
     "hp": "44",
     "cc": "1285",
-    "engineCodes": "AB  AR",
+    "engineCodes": "AB, AR",
     "KBA_Numbers": "0600404"
   },
   {
@@ -514,7 +514,7 @@
     "hp": "54",
     "cc": "1493",
     "engineCodes": "R",
-    "KBA_Numbers": "0600333  0600339"
+    "KBA_Numbers": "0600333, 0600339"
   },
   {
     "brand": "VW",
@@ -535,7 +535,7 @@
     "kw": "37",
     "hp": "50",
     "cc": "1584",
-    "engineCodes": "AD  AS",
+    "engineCodes": "AD, AS",
     "KBA_Numbers": "0600402"
   },
   {
@@ -546,7 +546,7 @@
     "kw": "35",
     "hp": "48",
     "cc": "1584",
-    "engineCodes": "AL  AD",
-    "KBA_Numbers": "0600379  0600416"
+    "engineCodes": "AL, AD",
+    "KBA_Numbers": "0600379, 0600416"
   }
 ]

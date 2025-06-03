@@ -7,7 +7,7 @@
     "kw": "92",
     "hp": "125",
     "cc": "1597",
-    "engineCodes": "R16B2  R16B1",
+    "engineCodes": "R16B2, R16B1",
     "KBA_Numbers": ""
   },
   {
@@ -29,7 +29,7 @@
     "kw": "104",
     "hp": "141",
     "cc": "1799",
-    "engineCodes": "R18Z1  R18Z4",
+    "engineCodes": "R18Z1, R18Z4, R18A1",
     "KBA_Numbers": "1178AAA"
   },
   {
@@ -52,7 +52,7 @@
     "hp": "100",
     "cc": "1339",
     "engineCodes": "L13Z1",
-    "KBA_Numbers": "2131AAJ  2131AAK"
+    "KBA_Numbers": "2131AAJ, 2131AAK"
   },
   {
     "brand": "HONDA",
@@ -63,7 +63,7 @@
     "hp": "140",
     "cc": "1799",
     "engineCodes": "R18A2",
-    "KBA_Numbers": "2131AAB  2131AAE"
+    "KBA_Numbers": "2131AAB, 2131AAE"
   },
   {
     "brand": "HONDA",
@@ -85,7 +85,7 @@
     "hp": "140",
     "cc": "2204",
     "engineCodes": "N22A2",
-    "KBA_Numbers": "2131AAC  2131AAF"
+    "KBA_Numbers": "2131AAC, 2131AAF"
   },
   {
     "brand": "HONDA",
@@ -150,7 +150,7 @@
     "kw": "103",
     "hp": "140",
     "cc": "1799",
-    "engineCodes": "R18A2  R18A1",
+    "engineCodes": "R18A2, R18A1",
     "KBA_Numbers": "7100AAA"
   }
 ]

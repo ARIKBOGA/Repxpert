@@ -8,7 +8,7 @@
     "hp": "102",
     "cc": "1749",
     "engineCodes": "OM 622.851",
-    "KBA_Numbers": "2222ACH  1313IIQ"
+    "KBA_Numbers": "2222ACH, 1313IIQ"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -19,7 +19,7 @@
     "hp": "136",
     "cc": "1749",
     "engineCodes": "OM 622.851",
-    "KBA_Numbers": "2222ACK  1313IIT"
+    "KBA_Numbers": "2222ACK, 1313IIT"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -41,7 +41,7 @@
     "hp": "102",
     "cc": "1749",
     "engineCodes": "OM 622.851",
-    "KBA_Numbers": "2222ACG  1313IIM  1313IIP"
+    "KBA_Numbers": "2222ACG, 1313IIM, 1313IIP"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -74,7 +74,7 @@
     "hp": "136",
     "cc": "1749",
     "engineCodes": "OM 622.851",
-    "KBA_Numbers": "2222ACJ  1313IIS  1313IIN"
+    "KBA_Numbers": "2222ACJ, 1313IIS, 1313IIN"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -85,7 +85,7 @@
     "hp": "88",
     "cc": "1598",
     "engineCodes": "OM 622.951",
-    "KBA_Numbers": "1313EDD  1313EDJ"
+    "KBA_Numbers": "1313EDD, 1313EDJ"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -96,7 +96,7 @@
     "hp": "102",
     "cc": "1749",
     "engineCodes": "OM 622.851",
-    "KBA_Numbers": "2222ACF  2222ACL  1313IIO  1313IKU"
+    "KBA_Numbers": "2222ACF, 2222ACL, 1313IIO, 1313IKU"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -107,7 +107,7 @@
     "hp": "114",
     "cc": "1598",
     "engineCodes": "OM 622.951",
-    "KBA_Numbers": "1313EDE  1313EDK"
+    "KBA_Numbers": "1313EDE, 1313EDK"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -118,7 +118,7 @@
     "hp": "136",
     "cc": "1749",
     "engineCodes": "OM 622.851",
-    "KBA_Numbers": "2222ACI  2222ACM  1313IIR  1313IKV"
+    "KBA_Numbers": "2222ACI, 2222ACM, 1313IIR, 1313IKV"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -129,7 +129,7 @@
     "hp": "136",
     "cc": "2143",
     "engineCodes": "OM 651.950",
-    "KBA_Numbers": "1313EDF  1313EDL  1313HSB"
+    "KBA_Numbers": "1313EDF, 1313EDL, 1313HSB"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -139,8 +139,8 @@
     "kw": "85",
     "hp": "116",
     "cc": "EM 780.701",
-    "engineCodes": "2222AAI  2222AAJ  2222AAK  1313IAT  1313IAU",
-    "KBA_Numbers": ""
+    "engineCodes": "EM 780.701",
+    "KBA_Numbers": "2222AAI, 2222AAJ, 2222AAK, 1313IAT, 1313IAU"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -162,7 +162,7 @@
     "hp": "102",
     "cc": "1749",
     "engineCodes": "OM 622.851",
-    "KBA_Numbers": "2222ARU  1313IIM"
+    "KBA_Numbers": "2222ARU, 1313IIM"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -184,7 +184,7 @@
     "hp": "136",
     "cc": "2143",
     "engineCodes": "OM 651.950",
-    "KBA_Numbers": "2222ARR  1313BQL"
+    "KBA_Numbers": "2222ARR, 1313BQL"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -195,7 +195,7 @@
     "hp": "136",
     "cc": "1749",
     "engineCodes": "OM 622.851",
-    "KBA_Numbers": "2222ARV  1313IIN"
+    "KBA_Numbers": "2222ARV, 1313IIN"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -205,7 +205,7 @@
     "kw": "85",
     "hp": "116",
     "cc": "EM 780.701",
-    "engineCodes": "1313IAV  1313IAW  2222ART",
-    "KBA_Numbers": ""
+    "engineCodes": "EM 780.701",
+    "KBA_Numbers": "1313IAV, 1313IAW, 2222ART"
   }
 ]

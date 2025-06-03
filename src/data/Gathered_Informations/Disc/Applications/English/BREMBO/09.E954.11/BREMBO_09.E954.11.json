@@ -18,7 +18,7 @@
     "kw": "92",
     "hp": "125",
     "cc": "999",
-    "engineCodes": "B7JB  B7JA  B7JE",
+    "engineCodes": "B7JB, B7JA, B7JE",
     "KBA_Numbers": "8566BSK"
   },
   {
@@ -29,7 +29,7 @@
     "kw": "92",
     "hp": "125",
     "cc": "999",
-    "engineCodes": "B7JB  B7JA",
+    "engineCodes": "B7JB, B7JA",
     "KBA_Numbers": "8566BSO"
   },
   {
@@ -51,8 +51,8 @@
     "kw": "118",
     "hp": "160",
     "cc": "999",
-    "engineCodes": "8566BYL",
-    "KBA_Numbers": ""
+    "engineCodes": "",
+    "KBA_Numbers": "8566BYL"
   },
   {
     "brand": "FORD",
@@ -73,7 +73,7 @@
     "kw": "88",
     "hp": "120",
     "cc": "1499",
-    "engineCodes": "8566BUA",
-    "KBA_Numbers": ""
+    "engineCodes": "",
+    "KBA_Numbers": "8566BUA"
   }
 ]

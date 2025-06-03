@@ -7,8 +7,8 @@
     "kw": "37",
     "hp": "50",
     "cc": "999",
-    "engineCodes": "AUC  ALL  ALD  ANV  AER",
-    "KBA_Numbers": "7593392  7593494"
+    "engineCodes": "AUC, ALL, ALD, ANV, AER",
+    "KBA_Numbers": "7593392, 7593494"
   },
   {
     "brand": "SEAT",
@@ -30,7 +30,7 @@
     "hp": "60",
     "cc": "1716",
     "engineCodes": "AKU",
-    "KBA_Numbers": "7593433  7593491"
+    "KBA_Numbers": "7593433, 7593491"
   },
   {
     "brand": "VW",
@@ -51,7 +51,7 @@
     "kw": "47",
     "hp": "64",
     "cc": "1896",
-    "engineCodes": "AGD  ASX",
+    "engineCodes": "AGD, ASX",
     "KBA_Numbers": "0603540"
   },
   {
@@ -85,7 +85,7 @@
     "hp": "64",
     "cc": "1896",
     "engineCodes": "AEF",
-    "KBA_Numbers": "0600964  0600258"
+    "KBA_Numbers": "0600964, 0600258"
   },
   {
     "brand": "VW",
@@ -106,7 +106,7 @@
     "kw": "55",
     "hp": "75",
     "cc": "1598",
-    "engineCodes": "AEA  AEE",
+    "engineCodes": "AEA, AEE",
     "KBA_Numbers": "0600953"
   },
   {

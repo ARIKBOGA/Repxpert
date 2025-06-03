@@ -25,7 +25,7 @@
     "brand": "CITROËN",
     "model": "JUMPY III Bus (V_) | DISPATCH",
     "engineType": "1.6 BlueHDi 115",
-    "madeYear": "04.2016 - 06.2022",
+    "madeYear": "06.2016 - 04.2019",
     "kw": "85",
     "hp": "115",
     "cc": "1560",
@@ -84,7 +84,7 @@
     "kw": "70",
     "hp": "95",
     "cc": "1560",
-    "engineCodes": "BHV (DV6FDU)  BHS (DV6FDU)",
+    "engineCodes": "BHV (DV6FDU), BHS (DV6FDU)",
     "KBA_Numbers": ""
   },
   {
@@ -161,7 +161,7 @@
     "kw": "70",
     "hp": "95",
     "cc": "1560",
-    "engineCodes": "BHV (DV6FDU)  BHS (DV6FDU)",
+    "engineCodes": "BHV (DV6FDU), BHS (DV6FDU)",
     "KBA_Numbers": "3001ATA"
   },
   {
@@ -183,7 +183,7 @@
     "kw": "106",
     "hp": "144",
     "cc": "1997",
-    "engineCodes": "EHS (DW10FDDU370)  EHT (DW10FDDU340)",
+    "engineCodes": "EHS (DW10FDDU370), EHT (DW10FDDU340)",
     "KBA_Numbers": "3001BCO"
   },
   {
@@ -205,7 +205,7 @@
     "kw": "130",
     "hp": "177",
     "cc": "1997",
-    "engineCodes": "AHH (DW10FC)  EHZ (DW10FDCU)",
+    "engineCodes": "AHH (DW10FC), EHZ (DW10FDCU)",
     "KBA_Numbers": "3001AXT"
   },
   {
@@ -216,8 +216,8 @@
     "kw": "100",
     "hp": "136",
     "cc": "ZKX (ZK01)",
-    "engineCodes": "3001BBX",
-    "KBA_Numbers": ""
+    "engineCodes": "ZKX (ZK01)",
+    "KBA_Numbers": "3001BBX"
   },
   {
     "brand": "CITROËN",
@@ -260,7 +260,7 @@
     "kw": "70",
     "hp": "95",
     "cc": "1560",
-    "engineCodes": "BHS (DV6FDU)  BHV (DV6FDU)",
+    "engineCodes": "BHS (DV6FDU), BHV (DV6FDU)",
     "KBA_Numbers": "3001AWG"
   },
   {
@@ -293,7 +293,7 @@
     "kw": "106",
     "hp": "144",
     "cc": "1997",
-    "engineCodes": "EHS (DW10FDDU370)  EHT (DW10FDDU340)",
+    "engineCodes": "EHS (DW10FDDU370), EHT (DW10FDDU340)",
     "KBA_Numbers": "3001BBV"
   },
   {
@@ -305,7 +305,7 @@
     "hp": "150",
     "cc": "1997",
     "engineCodes": "AHX (DW10FD)",
-    "KBA_Numbers": "3001AWH  3001AWM"
+    "KBA_Numbers": "3001AWH, 3001AWM"
   },
   {
     "brand": "CITROËN",
@@ -326,7 +326,7 @@
     "kw": "130",
     "hp": "178",
     "cc": "1997",
-    "engineCodes": "AHH (DW10FC)  EHZ (DW10FDCU)",
+    "engineCodes": "AHH (DW10FC), EHZ (DW10FDCU)",
     "KBA_Numbers": "3001AWN"
   },
   {
@@ -337,8 +337,8 @@
     "kw": "100",
     "hp": "136",
     "cc": "ZKX (ZK01)",
-    "engineCodes": "3001BBW",
-    "KBA_Numbers": ""
+    "engineCodes": "ZKX (ZK01)",
+    "KBA_Numbers": "3001BBW"
   },
   {
     "brand": "FIAT",
@@ -403,7 +403,7 @@
     "kw": "106",
     "hp": "144",
     "cc": "1997",
-    "engineCodes": "DW10FDDU340  DW10FDDU370",
+    "engineCodes": "DW10FDDU340, DW10FDDU370",
     "KBA_Numbers": "3003BBV"
   },
   {
@@ -491,7 +491,7 @@
     "kw": "106",
     "hp": "144",
     "cc": "1997",
-    "engineCodes": "DW10FDDU370  DW10FDDU340",
+    "engineCodes": "DW10FDDU370, DW10FDDU340",
     "KBA_Numbers": "3003BCD"
   },
   {
@@ -503,7 +503,7 @@
     "hp": "102",
     "cc": "1499",
     "engineCodes": "D 15 DT (DV5RUCD)",
-    "KBA_Numbers": "3003BAE  3003BAW"
+    "KBA_Numbers": "3003BAE, 3003BAW"
   },
   {
     "brand": "OPEL",
@@ -514,7 +514,7 @@
     "hp": "120",
     "cc": "1499",
     "engineCodes": "D 15 DTH (DV5RUC)",
-    "KBA_Numbers": "3003BAF  3003BAX"
+    "KBA_Numbers": "3003BAF, 3003BAX"
   },
   {
     "brand": "OPEL",
@@ -525,7 +525,7 @@
     "hp": "150",
     "cc": "1997",
     "engineCodes": "D 20 DTH (DW10FD)",
-    "KBA_Numbers": "3003BAZ  3003BAH"
+    "KBA_Numbers": "3003BAZ, 3003BAH"
   },
   {
     "brand": "OPEL",
@@ -536,7 +536,7 @@
     "hp": "177",
     "cc": "1997",
     "engineCodes": "D 20 DTR (DW10FDCU)",
-    "KBA_Numbers": "3003BBA  3003BAI"
+    "KBA_Numbers": "3003BBA, 3003BAI"
   },
   {
     "brand": "OPEL",
@@ -547,7 +547,7 @@
     "hp": "122",
     "cc": "1997",
     "engineCodes": "D 20 DTL (DW10FE)",
-    "KBA_Numbers": "3003BAG  3003BAY"
+    "KBA_Numbers": "3003BAG, 3003BAY"
   },
   {
     "brand": "OPEL",
@@ -557,7 +557,7 @@
     "kw": "106",
     "hp": "144",
     "cc": "1997",
-    "engineCodes": "DW10FDDU340  DW10FDDU370",
+    "engineCodes": "DW10FDDU340, DW10FDDU370",
     "KBA_Numbers": "3003BBV"
   },
   {
@@ -568,8 +568,8 @@
     "kw": "100",
     "hp": "136",
     "cc": "ZKX (ZK01)",
-    "engineCodes": "3003BBU",
-    "KBA_Numbers": ""
+    "engineCodes": "ZKX (ZK01)",
+    "KBA_Numbers": "3003BBU"
   },
   {
     "brand": "PEUGEOT",
@@ -612,7 +612,7 @@
     "kw": "70",
     "hp": "95",
     "cc": "1560",
-    "engineCodes": "BHV (DV6FDU)  BHS (DV6FDU)",
+    "engineCodes": "BHV (DV6FDU), BHS (DV6FDU)",
     "KBA_Numbers": "3003AWQ"
   },
   {
@@ -635,7 +635,7 @@
     "hp": "150",
     "cc": "1997",
     "engineCodes": "AHX (DW10FD)",
-    "KBA_Numbers": "3003AWR  3003AXC"
+    "KBA_Numbers": "3003AWR, 3003AXC"
   },
   {
     "brand": "PEUGEOT",
@@ -643,9 +643,9 @@
     "engineType": "2.0 BlueHDi 180",
     "madeYear": "from 04.2016",
     "kw": "130",
-    "hp": "178",
+    "hp": "177",
     "cc": "1997",
-    "engineCodes": "AHH (DW10FC)  EHZ (DW10FDCU)",
+    "engineCodes": "AHH (DW10FC), EHZ (DW10FDCU)",
     "KBA_Numbers": "3003AXD"
   },
   {
@@ -689,7 +689,7 @@
     "kw": "100",
     "hp": "136",
     "cc": "ZKX (ZK01)",
-    "engineCodes": "",
+    "engineCodes": "ZKX (ZK01)",
     "KBA_Numbers": ""
   },
   {
@@ -745,7 +745,7 @@
     "hp": "122",
     "cc": "1997",
     "engineCodes": "AHK (DW10FE)",
-    "KBA_Numbers": "3003AWT  3003AWZ"
+    "KBA_Numbers": "3003AWT, 3003AWZ"
   },
   {
     "brand": "PEUGEOT",
@@ -755,7 +755,7 @@
     "kw": "106",
     "hp": "144",
     "cc": "1997",
-    "engineCodes": "EHS (DW10FDDU370)  EHT (DW10FDDU340)",
+    "engineCodes": "EHS (DW10FDDU370), EHT (DW10FDDU340)",
     "KBA_Numbers": "3003BCD"
   },
   {
@@ -767,7 +767,7 @@
     "hp": "150",
     "cc": "1997",
     "engineCodes": "AHX (DW10FD)",
-    "KBA_Numbers": "3003AXA  3003AWU"
+    "KBA_Numbers": "3003AXA, 3003AWU"
   },
   {
     "brand": "PEUGEOT",
@@ -786,9 +786,9 @@
     "engineType": "2.0 BlueHDi 180",
     "madeYear": "from 04.2016",
     "kw": "130",
-    "hp": "178",
+    "hp": "177",
     "cc": "1997",
-    "engineCodes": "AHH (DW10FC)  EHZ (DW10FDCU)",
+    "engineCodes": "AHH (DW10FC), EHZ (DW10FDCU)",
     "KBA_Numbers": "3003AXZ"
   },
   {
@@ -799,8 +799,8 @@
     "kw": "100",
     "hp": "136",
     "cc": "ZKX (ZK01)",
-    "engineCodes": "3003BBW",
-    "KBA_Numbers": ""
+    "engineCodes": "ZKX (ZK01)",
+    "KBA_Numbers": "3003BBW"
   },
   {
     "brand": "PEUGEOT",
@@ -843,7 +843,7 @@
     "kw": "70",
     "hp": "95",
     "cc": "1560",
-    "engineCodes": "BHV (DV6FDU)  BHS (DV6FDU)",
+    "engineCodes": "BHV (DV6FDU), BHS (DV6FDU)",
     "KBA_Numbers": "3003AWQ"
   },
   {
@@ -865,7 +865,7 @@
     "kw": "106",
     "hp": "144",
     "cc": "1997",
-    "engineCodes": "EHS (DW10FDDU370)  EHT (DW10FDDU340)",
+    "engineCodes": "EHS (DW10FDDU370), EHT (DW10FDDU340)",
     "KBA_Numbers": "3003BBX"
   },
   {
@@ -877,7 +877,7 @@
     "hp": "150",
     "cc": "1997",
     "engineCodes": "AHX (DW10FD)",
-    "KBA_Numbers": "3003AWR  3003AXC"
+    "KBA_Numbers": "3003AWR, 3003AXC"
   },
   {
     "brand": "PEUGEOT",
@@ -885,9 +885,9 @@
     "engineType": "2.0 BlueHDi 180",
     "madeYear": "from 04.2016",
     "kw": "130",
-    "hp": "178",
+    "hp": "177",
     "cc": "1997",
-    "engineCodes": "AHH (DW10FC)  EHZ (DW10FDCU)",
+    "engineCodes": "AHH (DW10FC), EHZ (DW10FDCU)",
     "KBA_Numbers": "3003AXD"
   },
   {
@@ -898,8 +898,8 @@
     "kw": "100",
     "hp": "136",
     "cc": "ZKX (ZK01)",
-    "engineCodes": "3003BBY",
-    "KBA_Numbers": ""
+    "engineCodes": "ZKX (ZK01)",
+    "KBA_Numbers": "3003BBY"
   },
   {
     "brand": "TOYOTA",
@@ -949,7 +949,7 @@
     "brand": "TOYOTA",
     "model": "PROACE Bus (MDZ_)",
     "engineType": "2.0 D4d (MDZ3)",
-    "madeYear": "from 07.2019",
+    "madeYear": "from 11.2019",
     "kw": "90",
     "hp": "122",
     "cc": "1997",
@@ -964,7 +964,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1997",
-    "engineCodes": "4WZ-FTV (DW10FD)  4WZ-FTV (DW10FDU)",
+    "engineCodes": "4WZ-FTV (DW10FD), 4WZ-FTV (DW10FDU)",
     "KBA_Numbers": "5013AKQ"
   },
   {
@@ -975,7 +975,7 @@
     "kw": "130",
     "hp": "177",
     "cc": "1997",
-    "engineCodes": "4WZ-FHV (DW10FC)  4WZ-FHV (DW10FDCU)",
+    "engineCodes": "4WZ-FHV (DW10FC), 4WZ-FHV (DW10FDCU)",
     "KBA_Numbers": "5013AKP"
   },
   {
@@ -997,7 +997,7 @@
     "kw": "90",
     "hp": "122",
     "cc": "1997",
-    "engineCodes": "4WZ-FTV (DW10FE)  4WZ-FTV (DW10FEU)",
+    "engineCodes": "4WZ-FTV (DW10FE), 4WZ-FTV (DW10FEU)",
     "KBA_Numbers": ""
   },
   {
@@ -1063,7 +1063,7 @@
     "kw": "90",
     "hp": "122",
     "cc": "1997",
-    "engineCodes": "4WZ-FTV (DW10FE)  4WZ-FTV (DW10FEU)",
+    "engineCodes": "4WZ-FTV (DW10FE), 4WZ-FTV (DW10FEU)",
     "KBA_Numbers": "5013AKT"
   },
   {
@@ -1074,7 +1074,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1997",
-    "engineCodes": "4WZ-FTV (DW10FDU)  4WZ-FTV (DW10FD)",
+    "engineCodes": "4WZ-FTV (DW10FDU), 4WZ-FTV (DW10FD)",
     "KBA_Numbers": "5013AKU"
   },
   {
@@ -1085,7 +1085,7 @@
     "kw": "130",
     "hp": "177",
     "cc": "1997",
-    "engineCodes": "4WZ-FHV (DW10FDCU)  4WZ-FHV (DW10FC)",
+    "engineCodes": "4WZ-FHV (DW10FDCU), 4WZ-FHV (DW10FC)",
     "KBA_Numbers": "5013AKX"
   },
   {
@@ -1107,7 +1107,7 @@
     "kw": "90",
     "hp": "122",
     "cc": "1997",
-    "engineCodes": "4WZ-FTV (DW10FE)  4WZ-FTV (DW10FEU)",
+    "engineCodes": "4WZ-FTV (DW10FE), 4WZ-FTV (DW10FEU)",
     "KBA_Numbers": ""
   },
   {
@@ -1118,8 +1118,8 @@
     "kw": "100",
     "hp": "136",
     "cc": "ZKX (ZK01)",
-    "engineCodes": "5013AOV",
-    "KBA_Numbers": ""
+    "engineCodes": "ZKX (ZK01)",
+    "KBA_Numbers": "5013AOV"
   },
   {
     "brand": "TOYOTA",
@@ -1130,7 +1130,7 @@
     "hp": "120",
     "cc": "1499",
     "engineCodes": "5WZ-HV (DV5RUC)",
-    "KBA_Numbers": "5013ANQ  5013ANT  5013AMB"
+    "KBA_Numbers": "5013ANQ, 5013ANT, 5013AMB"
   },
   {
     "brand": "TOYOTA",
@@ -1173,8 +1173,8 @@
     "kw": "110",
     "hp": "150",
     "cc": "1997",
-    "engineCodes": "4WZ-FTV (DW10FDU)  4WZ-FTV (DW10FD)",
-    "KBA_Numbers": "5013ANR  5013ANU  5013AKQ"
+    "engineCodes": "4WZ-FTV (DW10FDU), 4WZ-FTV (DW10FD)",
+    "KBA_Numbers": "5013ANR, 5013ANU, 5013AKQ"
   },
   {
     "brand": "TOYOTA",
@@ -1184,8 +1184,8 @@
     "kw": "130",
     "hp": "177",
     "cc": "1997",
-    "engineCodes": "4WZ-FHV (DW10FDCU)  4WZ-FHV (DW10FC)",
-    "KBA_Numbers": "5013ANS  5013ANV  5013AKP"
+    "engineCodes": "4WZ-FHV (DW10FDCU), 4WZ-FHV (DW10FC)",
+    "KBA_Numbers": "5013ANS, 5013ANV, 5013AKP"
   },
   {
     "brand": "TOYOTA",
@@ -1196,7 +1196,7 @@
     "hp": "144",
     "cc": "1997",
     "engineCodes": "4WZ-FTV (DW10FDDU)",
-    "KBA_Numbers": "5013AOW  5013APN"
+    "KBA_Numbers": "5013AOW, 5013APN"
   },
   {
     "brand": "VAUXHALL",
@@ -1215,7 +1215,7 @@
     "engineType": "2.0",
     "madeYear": "from 04.2023",
     "kw": "106",
-    "hp": "145",
+    "hp": "144",
     "cc": "1997",
     "engineCodes": "DW10FDDU340",
     "KBA_Numbers": ""
@@ -1228,7 +1228,7 @@
     "kw": "100",
     "hp": "136",
     "cc": "ZKX (ZK01)",
-    "engineCodes": "",
+    "engineCodes": "ZKX (ZK01)",
     "KBA_Numbers": ""
   },
   {
@@ -1305,7 +1305,7 @@
     "kw": "106",
     "hp": "144",
     "cc": "1997",
-    "engineCodes": "DW10FDDU370  DW10FDDU340",
+    "engineCodes": "DW10FDDU370, DW10FDDU340",
     "KBA_Numbers": ""
   },
   {
@@ -1327,7 +1327,7 @@
     "kw": "100",
     "hp": "136",
     "cc": "ZKX (ZK01)",
-    "engineCodes": "",
+    "engineCodes": "ZKX (ZK01)",
     "KBA_Numbers": ""
   },
   {
@@ -1382,7 +1382,7 @@
     "kw": "106",
     "hp": "144",
     "cc": "1997",
-    "engineCodes": "DW10FDDU370  DW10FDDU340",
+    "engineCodes": "DW10FDDU370, DW10FDDU340",
     "KBA_Numbers": ""
   },
   {
@@ -1393,7 +1393,7 @@
     "kw": "100",
     "hp": "136",
     "cc": "ZKX (ZK01)",
-    "engineCodes": "",
+    "engineCodes": "ZKX (ZK01)",
     "KBA_Numbers": ""
   }
 ]

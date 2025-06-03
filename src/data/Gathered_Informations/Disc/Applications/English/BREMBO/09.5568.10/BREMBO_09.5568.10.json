@@ -8,7 +8,7 @@
     "hp": "143",
     "cc": "1984",
     "engineCodes": "B 5204 FS",
-    "KBA_Numbers": "9101487  9101727"
+    "KBA_Numbers": "9101487, 9101727"
   },
   {
     "brand": "VOLVO",
@@ -18,7 +18,7 @@
     "kw": "155",
     "hp": "210",
     "cc": "1984",
-    "engineCodes": "B 5204 T  B 5204 FT",
+    "engineCodes": "B 5204 T, B 5204 FT",
     "KBA_Numbers": "9101729"
   },
   {
@@ -63,7 +63,7 @@
     "hp": "170",
     "cc": "2435",
     "engineCodes": "B 5254 S",
-    "KBA_Numbers": "9101488  9101732"
+    "KBA_Numbers": "9101488, 9101732"
   },
   {
     "brand": "VOLVO",
@@ -85,7 +85,7 @@
     "hp": "226",
     "cc": "2319",
     "engineCodes": "B 5234 FT",
-    "KBA_Numbers": "9101496  9101733"
+    "KBA_Numbers": "9101496, 9101733"
   },
   {
     "brand": "VOLVO",
@@ -106,7 +106,7 @@
     "kw": "155",
     "hp": "210",
     "cc": "1984",
-    "engineCodes": "B 5204 FT  B 5204 T",
+    "engineCodes": "B 5204 FT, B 5204 T",
     "KBA_Numbers": "9101738"
   },
   {
@@ -129,7 +129,7 @@
     "hp": "170",
     "cc": "2435",
     "engineCodes": "B 5254 S",
-    "KBA_Numbers": "9101740  9101494"
+    "KBA_Numbers": "9101740, 9101494"
   },
   {
     "brand": "VOLVO",
@@ -140,6 +140,6 @@
     "hp": "226",
     "cc": "2319",
     "engineCodes": "B 5234 FT",
-    "KBA_Numbers": "9101742  9101497"
+    "KBA_Numbers": "9101742, 9101497"
   }
 ]

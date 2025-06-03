@@ -7,7 +7,7 @@
     "kw": "74",
     "hp": "101",
     "cc": "998",
-    "engineCodes": "SFJF  SFJP  SFJJ  SFJN  SFJH  SFJK  SFJE  Y7JA",
+    "engineCodes": "SFJF, SFJP, SFJJ, SFJN, SFJH, SFJK, SFJE, Y7JA",
     "KBA_Numbers": "8566BOF"
   },
   {
@@ -18,7 +18,7 @@
     "kw": "92",
     "hp": "125",
     "cc": "998",
-    "engineCodes": "M1JL  M1JM  M1JP",
+    "engineCodes": "M1JL, M1JM, M1JP",
     "KBA_Numbers": "8566BOG"
   },
   {
@@ -29,7 +29,7 @@
     "kw": "103",
     "hp": "140",
     "cc": "998",
-    "engineCodes": "YYJE  YYJG",
+    "engineCodes": "YYJE, YYJG",
     "KBA_Numbers": "8566BOH"
   },
   {
@@ -40,7 +40,7 @@
     "kw": "63",
     "hp": "85",
     "cc": "998",
-    "engineCodes": "Q0JA  Q0JB  Q0JD  Q0JC",
+    "engineCodes": "Q0JA, Q0JB, Q0JD, Q0JC",
     "KBA_Numbers": "8566BPM"
   },
   {
@@ -51,7 +51,7 @@
     "kw": "70",
     "hp": "95",
     "cc": "999",
-    "engineCodes": "M0JA  M0JB",
+    "engineCodes": "M0JA, M0JB",
     "KBA_Numbers": "8566BTQ"
   },
   {
@@ -62,7 +62,7 @@
     "kw": "92",
     "hp": "125",
     "cc": "999",
-    "engineCodes": "B7JB  B7JC  B7JA",
+    "engineCodes": "B7JB, B7JC, B7JA",
     "KBA_Numbers": ""
   },
   {
@@ -73,7 +73,7 @@
     "kw": "74",
     "hp": "101",
     "cc": "998",
-    "engineCodes": "SFJF  SFJH  SFJE  SFJJ  SFJK  SFJN  SFJP  Y7JA",
+    "engineCodes": "SFJF, SFJH, SFJE, SFJJ, SFJK, SFJN, SFJP, Y7JA",
     "KBA_Numbers": ""
   },
   {
@@ -84,7 +84,7 @@
     "kw": "92",
     "hp": "125",
     "cc": "998",
-    "engineCodes": "M1JM  M1JL",
+    "engineCodes": "M1JM, M1JL",
     "KBA_Numbers": ""
   },
   {
@@ -106,8 +106,8 @@
     "kw": "92",
     "hp": "125",
     "cc": "999",
-    "engineCodes": "B7JC  B7JA  B7JB",
-    "KBA_Numbers": "8566BUF  8566BUH"
+    "engineCodes": "B7JC, B7JA, B7JB",
+    "KBA_Numbers": "8566BUF, 8566BUH"
   },
   {
     "brand": "FORD",
@@ -128,7 +128,7 @@
     "kw": "92",
     "hp": "125",
     "cc": "999",
-    "engineCodes": "B7JC  B7JB  B7JA",
+    "engineCodes": "B7JC, B7JB, B7JA",
     "KBA_Numbers": "8566BUF"
   },
   {
@@ -150,7 +150,7 @@
     "kw": "52",
     "hp": "71",
     "cc": "1084",
-    "engineCodes": "XPJA  XPJB  XPJD  XPJC",
+    "engineCodes": "XPJA, XPJB, XPJD, XPJC",
     "KBA_Numbers": "8566BOI"
   },
   {
@@ -161,7 +161,7 @@
     "kw": "63",
     "hp": "86",
     "cc": "1084",
-    "engineCodes": "XYJA  XYJC  XYJB  XYJF  XYJE  XYJD",
+    "engineCodes": "XYJA, XYJC, XYJB, XYJF, XYJE, XYJD",
     "KBA_Numbers": "8566BOJ"
   },
   {
@@ -172,8 +172,8 @@
     "kw": "55",
     "hp": "75",
     "cc": "1084",
-    "engineCodes": "FSJB  FSJA",
-    "KBA_Numbers": "8566BTP  8566BRP"
+    "engineCodes": "FSJB, FSJA",
+    "KBA_Numbers": "8566BTP, 8566BRP"
   },
   {
     "brand": "FORD",
@@ -181,9 +181,9 @@
     "engineType": "1.5 TDCi",
     "madeYear": "from 05.2017",
     "kw": "63",
-    "hp": "85",
+    "hp": "86",
     "cc": "1499",
-    "engineCodes": "XUJD  XUJK  XUJL  XUJE  XUJM  XUJN  XUJF  XUJC  XUJG",
+    "engineCodes": "XUJD, XUJK, XUJL, XUJE, XUJM, XUJN, XUJF, XUJC, XUJG",
     "KBA_Numbers": "8566BOK"
   },
   {
@@ -194,19 +194,8 @@
     "kw": "88",
     "hp": "120",
     "cc": "1499",
-    "engineCodes": "XWJC  XWJB  XWJA",
+    "engineCodes": "XWJC, XWJB, XWJA",
     "KBA_Numbers": "8566BOL"
-  },
-  {
-    "brand": "FORD",
-    "model": "FIESTA VII (HJ, HF)",
-    "engineType": "1.5 TDCi Active",
-    "madeYear": "from 05.2017",
-    "kw": "88",
-    "hp": "120",
-    "cc": "1499",
-    "engineCodes": "XWJA  XWJC  XWJB",
-    "KBA_Numbers": ""
   },
   {
     "brand": "FORD",
@@ -214,9 +203,20 @@
     "engineType": "1.5 TDCi Active",
     "madeYear": "from 04.2018",
     "kw": "63",
-    "hp": "85",
+    "hp": "86",
     "cc": "1499",
-    "engineCodes": "XUJF  XUJG  XUJC  XUJM  XUJD  XUJE  XUJL  XUJN  XUJK",
+    "engineCodes": "XUJF, XUJG, XUJC, XUJM, XUJD, XUJE, XUJL, XUJN, XUJK",
+    "KBA_Numbers": ""
+  },
+  {
+    "brand": "FORD",
+    "model": "FIESTA VII (HJ, HF)",
+    "engineType": "1.5 TDCi Active",
+    "madeYear": "from 04.2018",
+    "kw": "88",
+    "hp": "120",
+    "cc": "1499",
+    "engineCodes": "XWJA, XWJC, XWJB",
     "KBA_Numbers": ""
   },
   {
@@ -227,7 +227,7 @@
     "kw": "92",
     "hp": "125",
     "cc": "998",
-    "engineCodes": "M1JM  M1JL  M1JP",
+    "engineCodes": "M1JM, M1JL, M1JP",
     "KBA_Numbers": "8566BQU"
   },
   {
@@ -238,7 +238,7 @@
     "kw": "74",
     "hp": "101",
     "cc": "998",
-    "engineCodes": "SFJN  SFJP  SFJK  SFJJ  SFJH  SFJE  SFJF",
+    "engineCodes": "SFJN, SFJP, SFJK, SFJJ, SFJH, SFJE, SFJF",
     "KBA_Numbers": "8566BVJ"
   },
   {
@@ -271,7 +271,7 @@
     "kw": "52",
     "hp": "71",
     "cc": "1084",
-    "engineCodes": "XPJA  XPJD  XPJB  XPJC",
+    "engineCodes": "XPJA, XPJD, XPJB, XPJC",
     "KBA_Numbers": ""
   },
   {
@@ -293,7 +293,7 @@
     "kw": "63",
     "hp": "86",
     "cc": "1084",
-    "engineCodes": "XYJC  XYJB  XYJA  XYJF  XYJD  XYJE",
+    "engineCodes": "XYJC, XYJB, XYJA, XYJF, XYJD, XYJE",
     "KBA_Numbers": "8566BQX"
   },
   {
@@ -304,7 +304,7 @@
     "kw": "88",
     "hp": "120",
     "cc": "1499",
-    "engineCodes": "XWJA  XWJB  XWJC",
+    "engineCodes": "XWJA, XWJB, XWJC",
     "KBA_Numbers": "8566BQW"
   },
   {
@@ -315,7 +315,7 @@
     "kw": "63",
     "hp": "86",
     "cc": "1499",
-    "engineCodes": "XUJE  XUJD  XUJC  XUJG  XUJK  XUJF  XUJN  XUJL  XUJM",
+    "engineCodes": "XUJE, XUJD, XUJC, XUJG, XUJK, XUJF, XUJN, XUJL, XUJM",
     "KBA_Numbers": "8566BQV"
   }
 ]

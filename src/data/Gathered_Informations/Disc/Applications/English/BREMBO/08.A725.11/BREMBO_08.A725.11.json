@@ -7,7 +7,7 @@
     "kw": "74",
     "hp": "100",
     "cc": "998",
-    "engineCodes": "M2DA  M2DC  SFDB  SFDA  M2DB",
+    "engineCodes": "M2DA, M2DC, SFDB, SFDA, M2DB",
     "KBA_Numbers": "8566BEV"
   },
   {
@@ -18,7 +18,7 @@
     "kw": "92",
     "hp": "125",
     "cc": "998",
-    "engineCodes": "M1DD  M1DC  M1DA",
+    "engineCodes": "M1DD, M1DC, M1DA",
     "KBA_Numbers": "8566BES"
   },
   {
@@ -40,7 +40,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1498",
-    "engineCodes": "M8DB  M8DA",
+    "engineCodes": "M8DB, M8DA",
     "KBA_Numbers": "8566BJO"
   },
   {
@@ -51,7 +51,7 @@
     "kw": "134",
     "hp": "182",
     "cc": "1498",
-    "engineCodes": "M9DB  M9DA",
+    "engineCodes": "M9DB, M9DA",
     "KBA_Numbers": "8566BJR"
   },
   {
@@ -62,7 +62,7 @@
     "kw": "70",
     "hp": "95",
     "cc": "1499",
-    "engineCodes": "XXDA  XXDC  XXDD",
+    "engineCodes": "XXDA, XXDC, XXDD",
     "KBA_Numbers": "8566BJX"
   },
   {
@@ -73,7 +73,7 @@
     "kw": "88",
     "hp": "120",
     "cc": "1499",
-    "engineCodes": "XWDE  XWDD  XWDC  XWDB  XWDA",
+    "engineCodes": "XWDE, XWDD, XWDC, XWDB, XWDA",
     "KBA_Numbers": "8566BJU"
   },
   {
@@ -84,7 +84,7 @@
     "kw": "77",
     "hp": "105",
     "cc": "1499",
-    "engineCodes": "XXDB  AEDA",
+    "engineCodes": "XXDB, AEDA",
     "KBA_Numbers": "8566BKP"
   },
   {
@@ -95,7 +95,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1596",
-    "engineCodes": "YUDA  JQDA  JQDB",
+    "engineCodes": "YUDA, JQDA, JQDB",
     "KBA_Numbers": "8566AWD"
   },
   {
@@ -106,7 +106,7 @@
     "kw": "134",
     "hp": "182",
     "cc": "1596",
-    "engineCodes": "JTDB  JTDA",
+    "engineCodes": "JTDB, JTDA",
     "KBA_Numbers": "8566AWE"
   },
   {
@@ -117,7 +117,7 @@
     "kw": "88",
     "hp": "120",
     "cc": "1596",
-    "engineCodes": "MUDA  MUDD",
+    "engineCodes": "MUDA, MUDD",
     "KBA_Numbers": "8566AWC"
   },
   {
@@ -150,8 +150,8 @@
     "kw": "88",
     "hp": "120",
     "cc": "1596",
-    "engineCodes": "MUDA  MUDD",
-    "KBA_Numbers": "8566BEX  8566BFU"
+    "engineCodes": "MUDA, MUDD",
+    "KBA_Numbers": "8566BEX, 8566BFU"
   },
   {
     "brand": "FORD",
@@ -161,7 +161,7 @@
     "kw": "70",
     "hp": "95",
     "cc": "1560",
-    "engineCodes": "T3DB  T3DA",
+    "engineCodes": "T3DB, T3DA",
     "KBA_Numbers": "8566AWF"
   },
   {
@@ -172,7 +172,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "1560",
-    "engineCodes": "T1DB  T1DA",
+    "engineCodes": "T1DB, T1DA",
     "KBA_Numbers": "8566AWG"
   },
   {
@@ -183,7 +183,7 @@
     "kw": "77",
     "hp": "105",
     "cc": "1560",
-    "engineCodes": "NGDB  NGDA",
+    "engineCodes": "NGDB, NGDA",
     "KBA_Numbers": "8566BFE"
   },
   {
@@ -194,7 +194,7 @@
     "kw": "77",
     "hp": "105",
     "cc": "1596",
-    "engineCodes": "IQDB  IQDA  IQDC",
+    "engineCodes": "IQDB, IQDA, IQDC",
     "KBA_Numbers": "8566AWA"
   },
   {
@@ -205,7 +205,7 @@
     "kw": "92",
     "hp": "125",
     "cc": "1596",
-    "engineCodes": "PNDA  PNDD",
+    "engineCodes": "PNDA, PNDD",
     "KBA_Numbers": "8566AWB"
   },
   {
@@ -216,7 +216,7 @@
     "kw": "63",
     "hp": "85",
     "cc": "1596",
-    "engineCodes": "XTDA  XTDB",
+    "engineCodes": "XTDA, XTDB",
     "KBA_Numbers": "8566BCB"
   },
   {
@@ -227,7 +227,7 @@
     "kw": "88",
     "hp": "120",
     "cc": "1596",
-    "engineCodes": "MUDA  MUDD",
+    "engineCodes": "MUDA, MUDD",
     "KBA_Numbers": "8566BGO"
   },
   {
@@ -249,7 +249,7 @@
     "kw": "184",
     "hp": "250",
     "cc": "1999",
-    "engineCodes": "R9DD  R9DC  R9DB  R9DA",
+    "engineCodes": "R9DD, R9DC, R9DB, R9DA",
     "KBA_Numbers": "8566BFG"
   },
   {
@@ -304,7 +304,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1997",
-    "engineCodes": "T7DB  T7DA",
+    "engineCodes": "T7DB, T7DA",
     "KBA_Numbers": "8566BKB"
   },
   {
@@ -337,8 +337,8 @@
     "kw": "107",
     "hp": "145",
     "cc": "KDDA",
-    "engineCodes": "8566BFW",
-    "KBA_Numbers": ""
+    "engineCodes": "KDDA",
+    "KBA_Numbers": "8566BFW"
   },
   {
     "brand": "FORD",
@@ -348,7 +348,7 @@
     "kw": "70",
     "hp": "95",
     "cc": "1499",
-    "engineCodes": "XXDC  XXDA  XXDD",
+    "engineCodes": "XXDC, XXDA, XXDD",
     "KBA_Numbers": ""
   },
   {
@@ -359,7 +359,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1596",
-    "engineCodes": "YUDA  JQDB  JQDA",
+    "engineCodes": "YUDA, JQDB, JQDA",
     "KBA_Numbers": ""
   },
   {
@@ -370,7 +370,7 @@
     "kw": "134",
     "hp": "182",
     "cc": "1596",
-    "engineCodes": "JTDB  JTDA",
+    "engineCodes": "JTDB, JTDA",
     "KBA_Numbers": ""
   },
   {
@@ -381,7 +381,7 @@
     "kw": "70",
     "hp": "95",
     "cc": "1560",
-    "engineCodes": "T3DA  T3DB",
+    "engineCodes": "T3DA, T3DB",
     "KBA_Numbers": ""
   },
   {
@@ -392,7 +392,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "1560",
-    "engineCodes": "T1DB  T1DA",
+    "engineCodes": "T1DB, T1DA",
     "KBA_Numbers": ""
   },
   {
@@ -403,7 +403,7 @@
     "kw": "77",
     "hp": "105",
     "cc": "1596",
-    "engineCodes": "IQDB  IQDA",
+    "engineCodes": "IQDB, IQDA",
     "KBA_Numbers": ""
   },
   {
@@ -414,7 +414,7 @@
     "kw": "74",
     "hp": "100",
     "cc": "998",
-    "engineCodes": "M2DA  M2DB  SFDB  M2DC  SFDA",
+    "engineCodes": "M2DA, M2DB, SFDB, M2DC, SFDA",
     "KBA_Numbers": "8566BEU"
   },
   {
@@ -425,7 +425,7 @@
     "kw": "92",
     "hp": "125",
     "cc": "998",
-    "engineCodes": "M1DD  M1DC  M1DA",
+    "engineCodes": "M1DD, M1DC, M1DA",
     "KBA_Numbers": "8566BER"
   },
   {
@@ -447,7 +447,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1498",
-    "engineCodes": "M8DB  M8DA",
+    "engineCodes": "M8DB, M8DA",
     "KBA_Numbers": "8566BJN"
   },
   {
@@ -458,7 +458,7 @@
     "kw": "134",
     "hp": "182",
     "cc": "1498",
-    "engineCodes": "M9DB  M9DA",
+    "engineCodes": "M9DB, M9DA",
     "KBA_Numbers": "8566BJQ"
   },
   {
@@ -469,7 +469,7 @@
     "kw": "70",
     "hp": "95",
     "cc": "1499",
-    "engineCodes": "XXDC  XXDA  XXDD",
+    "engineCodes": "XXDC, XXDA, XXDD",
     "KBA_Numbers": "8566BJW"
   },
   {
@@ -480,7 +480,7 @@
     "kw": "88",
     "hp": "120",
     "cc": "1499",
-    "engineCodes": "XWDD  XWDC  XWDB  XWDA  XWDE",
+    "engineCodes": "XWDD, XWDC, XWDB, XWDA, XWDE",
     "KBA_Numbers": "8566BJT"
   },
   {
@@ -491,7 +491,7 @@
     "kw": "77",
     "hp": "105",
     "cc": "1499",
-    "engineCodes": "XXDB  AEDA",
+    "engineCodes": "XXDB, AEDA",
     "KBA_Numbers": ""
   },
   {
@@ -502,7 +502,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1596",
-    "engineCodes": "YUDA  JQDB  JQDA",
+    "engineCodes": "YUDA, JQDB, JQDA",
     "KBA_Numbers": "8566AVS"
   },
   {
@@ -513,7 +513,7 @@
     "kw": "134",
     "hp": "182",
     "cc": "1596",
-    "engineCodes": "JTDB  JTDA",
+    "engineCodes": "JTDB, JTDA",
     "KBA_Numbers": "8566AVT"
   },
   {
@@ -524,7 +524,7 @@
     "kw": "88",
     "hp": "120",
     "cc": "1596",
-    "engineCodes": "MUDA  MUDD",
+    "engineCodes": "MUDA, MUDD",
     "KBA_Numbers": "8566AVR"
   },
   {
@@ -546,7 +546,7 @@
     "kw": "70",
     "hp": "95",
     "cc": "1560",
-    "engineCodes": "T3DB  T3DA",
+    "engineCodes": "T3DB, T3DA",
     "KBA_Numbers": "8566AVU"
   },
   {
@@ -557,7 +557,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "1560",
-    "engineCodes": "T1DB  T1DA",
+    "engineCodes": "T1DB, T1DA",
     "KBA_Numbers": "8566AVV"
   },
   {
@@ -568,7 +568,7 @@
     "kw": "77",
     "hp": "105",
     "cc": "1560",
-    "engineCodes": "NGDB  NGDA",
+    "engineCodes": "NGDB, NGDA",
     "KBA_Numbers": "8566BFD"
   },
   {
@@ -579,7 +579,7 @@
     "kw": "77",
     "hp": "105",
     "cc": "1596",
-    "engineCodes": "IQDB  IQDA  IQDC",
+    "engineCodes": "IQDB, IQDA, IQDC",
     "KBA_Numbers": "8566AVP"
   },
   {
@@ -590,7 +590,7 @@
     "kw": "92",
     "hp": "125",
     "cc": "1596",
-    "engineCodes": "PNDD  PNDA",
+    "engineCodes": "PNDD, PNDA",
     "KBA_Numbers": "8566AVQ"
   },
   {
@@ -601,7 +601,7 @@
     "kw": "63",
     "hp": "85",
     "cc": "1596",
-    "engineCodes": "XTDA  XTDB",
+    "engineCodes": "XTDA, XTDB",
     "KBA_Numbers": "8566BCD"
   },
   {
@@ -667,7 +667,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1997",
-    "engineCodes": "T7DB  T7DA",
+    "engineCodes": "T7DB, T7DA",
     "KBA_Numbers": "8566BKA"
   },
   {
@@ -678,7 +678,7 @@
     "kw": "74",
     "hp": "100",
     "cc": "998",
-    "engineCodes": "M2DB  M2DC  SFDB  M2DA  SFDA",
+    "engineCodes": "M2DB, M2DC, SFDB, M2DA, SFDA",
     "KBA_Numbers": "8566BEW"
   },
   {
@@ -689,7 +689,7 @@
     "kw": "92",
     "hp": "125",
     "cc": "998",
-    "engineCodes": "M1DD  M1DC  M1DA",
+    "engineCodes": "M1DD, M1DC, M1DA",
     "KBA_Numbers": "8566BET"
   },
   {
@@ -711,7 +711,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1498",
-    "engineCodes": "M8DB  M8DA",
+    "engineCodes": "M8DB, M8DA",
     "KBA_Numbers": "8566BJP"
   },
   {
@@ -722,7 +722,7 @@
     "kw": "134",
     "hp": "182",
     "cc": "1498",
-    "engineCodes": "M9DB  M9DA",
+    "engineCodes": "M9DB, M9DA",
     "KBA_Numbers": "8566BJS"
   },
   {
@@ -733,7 +733,7 @@
     "kw": "70",
     "hp": "95",
     "cc": "1499",
-    "engineCodes": "XXDC  XXDA  XXDD",
+    "engineCodes": "XXDC, XXDA, XXDD",
     "KBA_Numbers": "8566BJY"
   },
   {
@@ -744,7 +744,7 @@
     "kw": "88",
     "hp": "120",
     "cc": "1499",
-    "engineCodes": "XWDD  XWDE  XWDC  XWDB  XWDA",
+    "engineCodes": "XWDD, XWDE, XWDC, XWDB, XWDA",
     "KBA_Numbers": "8566BJV"
   },
   {
@@ -755,7 +755,7 @@
     "kw": "77",
     "hp": "105",
     "cc": "1499",
-    "engineCodes": "XXDB  AEDA",
+    "engineCodes": "XXDB, AEDA",
     "KBA_Numbers": "8566BKQ"
   },
   {
@@ -766,7 +766,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1596",
-    "engineCodes": "YUDA  JQDB  JQDA",
+    "engineCodes": "YUDA, JQDB, JQDA",
     "KBA_Numbers": "8566AWO"
   },
   {
@@ -777,7 +777,7 @@
     "kw": "134",
     "hp": "182",
     "cc": "1596",
-    "engineCodes": "JTDB  JTDA",
+    "engineCodes": "JTDB, JTDA",
     "KBA_Numbers": "8566AWP"
   },
   {
@@ -788,7 +788,7 @@
     "kw": "88",
     "hp": "120",
     "cc": "1596",
-    "engineCodes": "MUDA  MUDD",
+    "engineCodes": "MUDA, MUDD",
     "KBA_Numbers": "8566AWN"
   },
   {
@@ -821,8 +821,8 @@
     "kw": "88",
     "hp": "120",
     "cc": "1596",
-    "engineCodes": "MUDA  MUDD",
-    "KBA_Numbers": "8566BEY  8566BFV"
+    "engineCodes": "MUDA, MUDD",
+    "KBA_Numbers": "8566BEY, 8566BFV"
   },
   {
     "brand": "FORD",
@@ -832,7 +832,7 @@
     "kw": "70",
     "hp": "95",
     "cc": "1560",
-    "engineCodes": "T3DB  T3DA",
+    "engineCodes": "T3DB, T3DA",
     "KBA_Numbers": "8566AWQ"
   },
   {
@@ -843,7 +843,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "1560",
-    "engineCodes": "T1DB  T1DA",
+    "engineCodes": "T1DB, T1DA",
     "KBA_Numbers": "8566AWR"
   },
   {
@@ -854,7 +854,7 @@
     "kw": "77",
     "hp": "105",
     "cc": "1560",
-    "engineCodes": "NGDB  NGDA",
+    "engineCodes": "NGDB, NGDA",
     "KBA_Numbers": "8566BFF"
   },
   {
@@ -865,7 +865,7 @@
     "kw": "77",
     "hp": "105",
     "cc": "1596",
-    "engineCodes": "IQDB  IQDC",
+    "engineCodes": "IQDB, IQDC",
     "KBA_Numbers": "8566AWL"
   },
   {
@@ -876,7 +876,7 @@
     "kw": "92",
     "hp": "125",
     "cc": "1596",
-    "engineCodes": "PNDA  PNDD",
+    "engineCodes": "PNDA, PNDD",
     "KBA_Numbers": "8566AWM"
   },
   {
@@ -887,7 +887,7 @@
     "kw": "63",
     "hp": "85",
     "cc": "1596",
-    "engineCodes": "XTDA  XTDB",
+    "engineCodes": "XTDA, XTDB",
     "KBA_Numbers": "8566BCC"
   },
   {
@@ -898,7 +898,7 @@
     "kw": "88",
     "hp": "120",
     "cc": "1596",
-    "engineCodes": "MUDA  MUDD",
+    "engineCodes": "MUDA, MUDD",
     "KBA_Numbers": "8566BGP"
   },
   {
@@ -920,7 +920,7 @@
     "kw": "184",
     "hp": "250",
     "cc": "1999",
-    "engineCodes": "R9DC  R9DD  R9DB  R9DA",
+    "engineCodes": "R9DC, R9DD, R9DB, R9DA",
     "KBA_Numbers": "8566BFH"
   },
   {
@@ -975,7 +975,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1997",
-    "engineCodes": "T7DB  T7DA",
+    "engineCodes": "T7DB, T7DA",
     "KBA_Numbers": "8566BKC"
   },
   {

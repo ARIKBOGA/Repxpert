@@ -2,8 +2,8 @@ import fs from "fs";
 import path from "path";
 import * as XLSX from "xlsx";
 
-const filePathToRead = path.resolve(__dirname, '../data/katalogInfo/excels/model_seri_no_tur.xlsx');
-const filePathToWrite = path.resolve(__dirname, '../data/katalogInfo/jsons/model_tur.json');
+const filePathToRead = path.resolve(__dirname, '../data/katalogInfo/excels/model_seri_no_new.xlsx');
+const filePathToWrite = path.resolve(__dirname, '../data/katalogInfo/jsons/model_new.json');
 
 const convertToArrayOfObjectsJSON = (filePath: string) => {
     // Çalışma kitabını dosyadan okuyun

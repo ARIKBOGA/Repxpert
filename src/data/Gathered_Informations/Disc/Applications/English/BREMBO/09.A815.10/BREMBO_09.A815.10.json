@@ -51,7 +51,7 @@
     "kw": "125",
     "hp": "170",
     "cc": "1781",
-    "engineCodes": "AMB  AWM",
+    "engineCodes": "AMB, AWM",
     "KBA_Numbers": ""
   },
   {
@@ -84,7 +84,7 @@
     "kw": "96",
     "hp": "130",
     "cc": "1896",
-    "engineCodes": "AVF  AWX",
+    "engineCodes": "AVF, AWX",
     "KBA_Numbers": "0588751"
   },
   {
@@ -249,8 +249,8 @@
     "kw": "253",
     "hp": "344",
     "cc": "4163",
-    "engineCodes": "BBK  BHF",
-    "KBA_Numbers": "7967299  7967AAD  0588859  0588AET"
+    "engineCodes": "BBK, BHF",
+    "KBA_Numbers": "7967299, 7967AAD, 0588859, 0588AET"
   },
   {
     "brand": "AUDI",
@@ -272,7 +272,7 @@
     "hp": "220",
     "cc": "1984",
     "engineCodes": "BUL",
-    "KBA_Numbers": "7967AAC  0588AFA"
+    "KBA_Numbers": "7967AAC, 0588AFA"
   },
   {
     "brand": "AUDI",
@@ -283,7 +283,7 @@
     "hp": "344",
     "cc": "4163",
     "engineCodes": "BBK",
-    "KBA_Numbers": "0588ACN  0588824"
+    "KBA_Numbers": "0588ACN, 0588824"
   },
   {
     "brand": "AUDI",
@@ -293,7 +293,7 @@
     "kw": "253",
     "hp": "344",
     "cc": "4163",
-    "engineCodes": "BBK  BHF",
+    "engineCodes": "BBK, BHF",
     "KBA_Numbers": "0588859"
   }
 ]

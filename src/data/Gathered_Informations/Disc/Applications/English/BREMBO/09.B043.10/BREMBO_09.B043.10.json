@@ -41,7 +41,7 @@
     "hp": "132",
     "cc": "1598",
     "engineCodes": "1ZR-FAE",
-    "KBA_Numbers": "5013ADU  5013AFK"
+    "KBA_Numbers": "5013ADU, 5013AFK"
   },
   {
     "brand": "TOYOTA",
@@ -52,7 +52,7 @@
     "hp": "147",
     "cc": "1798",
     "engineCodes": "2ZR-FAE",
-    "KBA_Numbers": "5013ADW  5013AFL"
+    "KBA_Numbers": "5013ADW, 5013AFL"
   },
   {
     "brand": "TOYOTA",
@@ -63,7 +63,7 @@
     "hp": "126",
     "cc": "1998",
     "engineCodes": "1AD-FTV",
-    "KBA_Numbers": "5013AEA  5013AFN"
+    "KBA_Numbers": "5013AEA, 5013AFN"
   },
   {
     "brand": "TOYOTA",
@@ -84,8 +84,8 @@
     "kw": "112",
     "hp": "152",
     "cc": "1987",
-    "engineCodes": "3ZR-FAE  3ZR-FE",
-    "KBA_Numbers": "5013ADY  5013AFM"
+    "engineCodes": "3ZR-FAE, 3ZR-FE",
+    "KBA_Numbers": "5013ADY, 5013AFM"
   },
   {
     "brand": "TOYOTA",
@@ -150,7 +150,7 @@
     "kw": "112",
     "hp": "152",
     "cc": "1987",
-    "engineCodes": "3ZR-FE  3ZR-FAE",
+    "engineCodes": "3ZR-FE, 3ZR-FAE",
     "KBA_Numbers": "5013ADX"
   },
   {
@@ -173,7 +173,7 @@
     "hp": "132",
     "cc": "1598",
     "engineCodes": "1ZR-FAE",
-    "KBA_Numbers": "5013AEN  5013AEM"
+    "KBA_Numbers": "5013AEN, 5013AEM"
   },
   {
     "brand": "TOYOTA",
@@ -184,7 +184,7 @@
     "hp": "112",
     "cc": "1598",
     "engineCodes": "1WW",
-    "KBA_Numbers": "5013AJC  5013AJD"
+    "KBA_Numbers": "5013AJC, 5013AJD"
   },
   {
     "brand": "TOYOTA",
@@ -195,7 +195,7 @@
     "hp": "147",
     "cc": "1798",
     "engineCodes": "2ZR-FAE",
-    "KBA_Numbers": "5013AEO  5013AEP"
+    "KBA_Numbers": "5013AEO, 5013AEP"
   },
   {
     "brand": "TOYOTA",
@@ -206,7 +206,7 @@
     "hp": "126",
     "cc": "1998",
     "engineCodes": "1AD-FTV",
-    "KBA_Numbers": "5013AEQ  5013AER"
+    "KBA_Numbers": "5013AEQ, 5013AER"
   },
   {
     "brand": "TOYOTA",
@@ -217,6 +217,6 @@
     "hp": "124",
     "cc": "1998",
     "engineCodes": "1AD-FTV",
-    "KBA_Numbers": "5013AIK  5013AIJ"
+    "KBA_Numbers": "5013AIK, 5013AIJ"
   }
 ]

@@ -7,8 +7,8 @@
     "kw": "57",
     "hp": "78",
     "cc": "1243",
-    "engineCodes": "L12A4  L12A1",
-    "KBA_Numbers": "7100534  7100AAU  7475001  7475AAA"
+    "engineCodes": "L12A4, L12A1",
+    "KBA_Numbers": "7100534, 7100AAU, 7475001, 7475AAA"
   },
   {
     "brand": "HONDA",
@@ -19,7 +19,7 @@
     "hp": "83",
     "cc": "1339",
     "engineCodes": "L13A1",
-    "KBA_Numbers": "7100533  7100AAV  7475002  7475AAB"
+    "KBA_Numbers": "7100533, 7100AAV, 7475002, 7475AAB"
   },
   {
     "brand": "HONDA",
@@ -40,7 +40,7 @@
     "kw": "61",
     "hp": "83",
     "cc": "1339",
-    "engineCodes": "L13A5  L13A6",
+    "engineCodes": "L13A5, L13A6",
     "KBA_Numbers": ""
   },
   {
@@ -51,7 +51,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1198",
-    "engineCodes": "L12B1  L12B2",
-    "KBA_Numbers": "2131AAM  7100ABK  7475AAC"
+    "engineCodes": "L12B1, L12B2",
+    "KBA_Numbers": "2131AAM, 7100ABK, 7475AAC"
   }
 ]

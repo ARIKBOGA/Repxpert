@@ -51,7 +51,7 @@
     "kw": "103",
     "hp": "140",
     "cc": "1499",
-    "engineCodes": "B38 A15 A  B38A15F",
+    "engineCodes": "B38 A15 A, B38A15F",
     "KBA_Numbers": "0005CWK"
   },
   {
@@ -63,7 +63,7 @@
     "hp": "136",
     "cc": "1499",
     "engineCodes": "B38 A15 A",
-    "KBA_Numbers": "0005CJN  0005BWN"
+    "KBA_Numbers": "0005CJN, 0005BWN"
   },
   {
     "brand": "BMW",
@@ -73,8 +73,8 @@
     "kw": "120",
     "hp": "163",
     "cc": "1995",
-    "engineCodes": "B47 C20 B  B47 C20 A",
-    "KBA_Numbers": "0005CJY  0005BXT"
+    "engineCodes": "B47 C20 B, B47 C20 A",
+    "KBA_Numbers": "0005CJY, 0005BXT"
   },
   {
     "brand": "BMW",
@@ -84,8 +84,8 @@
     "kw": "140",
     "hp": "190",
     "cc": "1995",
-    "engineCodes": "B47 C20 B  B47 C20 A",
-    "KBA_Numbers": "0005CJX  0005BXU"
+    "engineCodes": "B47 C20 B, B47 C20 A",
+    "KBA_Numbers": "0005CJX, 0005BXU"
   },
   {
     "brand": "BMW",
@@ -95,8 +95,8 @@
     "kw": "120",
     "hp": "163",
     "cc": "1995",
-    "engineCodes": "B47 C20 A  B47 C20 B",
-    "KBA_Numbers": "0005CKC  0005BXV"
+    "engineCodes": "B47 C20 A, B47 C20 B",
+    "KBA_Numbers": "0005CKC, 0005BXV"
   },
   {
     "brand": "BMW",
@@ -106,8 +106,8 @@
     "kw": "140",
     "hp": "190",
     "cc": "1995",
-    "engineCodes": "B47 C20 A  B47 C20 B",
-    "KBA_Numbers": "0005CKB  0005BXW"
+    "engineCodes": "B47 C20 A, B47 C20 B",
+    "KBA_Numbers": "0005CKB, 0005BXW"
   },
   {
     "brand": "BMW",
@@ -118,7 +118,7 @@
     "hp": "163",
     "cc": "1998",
     "engineCodes": "B48 A20 A",
-    "KBA_Numbers": "0005CJP  0005BXP"
+    "KBA_Numbers": "0005CJP, 0005BXP"
   },
   {
     "brand": "BMW",
@@ -128,8 +128,8 @@
     "kw": "141",
     "hp": "192",
     "cc": "1998",
-    "engineCodes": "B48 A20 A  B48 A20 F",
-    "KBA_Numbers": "0005CJO  0005BXQ"
+    "engineCodes": "B48 A20 A, B48 A20 F",
+    "KBA_Numbers": "0005CJO, 0005BXQ"
   },
   {
     "brand": "BMW",
@@ -139,7 +139,7 @@
     "kw": "131",
     "hp": "178",
     "cc": "1998",
-    "engineCodes": "B48 A20 F  B48 A20 A",
+    "engineCodes": "B48 A20 F, B48 A20 A",
     "KBA_Numbers": "0005DCY"
   },
   {
@@ -183,8 +183,8 @@
     "kw": "100",
     "hp": "136",
     "cc": "1499",
-    "engineCodes": "0005DHF",
-    "KBA_Numbers": ""
+    "engineCodes": "",
+    "KBA_Numbers": "0005DHF"
   },
   {
     "brand": "BMW",
@@ -260,7 +260,7 @@
     "kw": "103",
     "hp": "140",
     "cc": "1499",
-    "engineCodes": "B38 A15 A  B38A15F",
+    "engineCodes": "B38 A15 A, B38A15F",
     "KBA_Numbers": "0005CYG"
   },
   {
@@ -271,7 +271,7 @@
     "kw": "100",
     "hp": "136",
     "cc": "1499",
-    "engineCodes": "B38 A15 A  B38A15F",
+    "engineCodes": "B38 A15 A, B38A15F",
     "KBA_Numbers": "0005DBD"
   },
   {
@@ -282,8 +282,8 @@
     "kw": "100",
     "hp": "136",
     "cc": "1995",
-    "engineCodes": "B47 C20 A  B47 C20 B",
-    "KBA_Numbers": "0005CKJ  0005BZF"
+    "engineCodes": "B47 C20 A, B47 C20 B",
+    "KBA_Numbers": "0005CKJ, 0005BZF"
   },
   {
     "brand": "BMW",
@@ -293,8 +293,8 @@
     "kw": "110",
     "hp": "150",
     "cc": "1995",
-    "engineCodes": "B47 C20 B  B47 C20 A",
-    "KBA_Numbers": "0005CKI  0005BZG"
+    "engineCodes": "B47 C20 B, B47 C20 A",
+    "KBA_Numbers": "0005CKI, 0005BZG"
   },
   {
     "brand": "BMW",
@@ -304,8 +304,8 @@
     "kw": "100",
     "hp": "136",
     "cc": "1995",
-    "engineCodes": "B47 C20 B  B47 C20 A",
-    "KBA_Numbers": "0005CKN  0005CGD"
+    "engineCodes": "B47 C20 B, B47 C20 A",
+    "KBA_Numbers": "0005CKN, 0005CGD"
   },
   {
     "brand": "BMW",
@@ -315,8 +315,8 @@
     "kw": "110",
     "hp": "150",
     "cc": "1995",
-    "engineCodes": "B47 C20 B  B47 C20 A",
-    "KBA_Numbers": "0005CKM  0005CGC"
+    "engineCodes": "B47 C20 B, B47 C20 A",
+    "KBA_Numbers": "0005CKM, 0005CGC"
   },
   {
     "brand": "BMW",
@@ -327,7 +327,7 @@
     "hp": "136",
     "cc": "1499",
     "engineCodes": "B38 A15 A",
-    "KBA_Numbers": "0005CKE  0005BZC"
+    "KBA_Numbers": "0005CKE, 0005BZC"
   },
   {
     "brand": "BMW",
@@ -337,7 +337,7 @@
     "kw": "103",
     "hp": "140",
     "cc": "1499",
-    "engineCodes": "B38 A15 A  B38A15F",
+    "engineCodes": "B38 A15 A, B38A15F",
     "KBA_Numbers": "0005CPB"
   },
   {
@@ -360,7 +360,7 @@
     "hp": "136",
     "cc": "1995",
     "engineCodes": "B47 C20 A",
-    "KBA_Numbers": "0005CCF  0005CKW"
+    "KBA_Numbers": "0005CCF, 0005CKW"
   },
   {
     "brand": "BMW",
@@ -370,8 +370,8 @@
     "kw": "110",
     "hp": "150",
     "cc": "1995",
-    "engineCodes": "B47 C20 A  B47 C20 B",
-    "KBA_Numbers": "0005CKV  0005CCE"
+    "engineCodes": "B47 C20 A, B47 C20 B",
+    "KBA_Numbers": "0005CKV, 0005CCE"
   },
   {
     "brand": "BMW",
@@ -381,8 +381,8 @@
     "kw": "100",
     "hp": "136",
     "cc": "1499",
-    "engineCodes": "B38 A15 A  B38A15F",
-    "KBA_Numbers": "0005CKQ  0005CBZ"
+    "engineCodes": "B38 A15 A, B38A15F",
+    "KBA_Numbers": "0005CKQ, 0005CBZ"
   },
   {
     "brand": "BMW",
@@ -404,7 +404,7 @@
     "hp": "136",
     "cc": "1995",
     "engineCodes": "B47 C20 A",
-    "KBA_Numbers": "0005CCJ  0005CLA"
+    "KBA_Numbers": "0005CCJ, 0005CLA"
   },
   {
     "brand": "BMW",
@@ -414,8 +414,8 @@
     "kw": "110",
     "hp": "150",
     "cc": "1995",
-    "engineCodes": "B47 C20 B  B47 C20 A",
-    "KBA_Numbers": "0005CCI  0005CKZ"
+    "engineCodes": "B47 C20 B, B47 C20 A",
+    "KBA_Numbers": "0005CCI, 0005CKZ"
   },
   {
     "brand": "BMW",
@@ -425,8 +425,8 @@
     "kw": "150",
     "hp": "204",
     "cc": "HB0",
-    "engineCodes": "0005DKI",
-    "KBA_Numbers": ""
+    "engineCodes": "HB0",
+    "KBA_Numbers": "0005DKI"
   },
   {
     "brand": "BMW",
@@ -502,7 +502,7 @@
     "kw": "100",
     "hp": "136",
     "cc": "1995",
-    "engineCodes": "B47 C20 B  B47 C20 A",
+    "engineCodes": "B47 C20 B, B47 C20 A",
     "KBA_Numbers": "0005CRF"
   },
   {
@@ -513,7 +513,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1995",
-    "engineCodes": "B47 C20 A  B47 C20 B",
+    "engineCodes": "B47 C20 A, B47 C20 B",
     "KBA_Numbers": "0005CRE"
   },
   {
@@ -524,7 +524,7 @@
     "kw": "100",
     "hp": "136",
     "cc": "1499",
-    "engineCodes": "B38 A15 A  B32 S15 A  B38A15F",
+    "engineCodes": "B38 A15 A, B32 S15 A, B38A15F",
     "KBA_Numbers": "0005CQZ"
   },
   {
@@ -546,7 +546,7 @@
     "kw": "120",
     "hp": "163",
     "cc": "1995",
-    "engineCodes": "B47 C20 B  B47 C20 A",
+    "engineCodes": "B47 C20 B, B47 C20 A",
     "KBA_Numbers": "0005CRH"
   },
   {
@@ -557,7 +557,7 @@
     "kw": "140",
     "hp": "190",
     "cc": "1995",
-    "engineCodes": "B47 C20 B  B47 C20 A",
+    "engineCodes": "B47 C20 B, B47 C20 A",
     "KBA_Numbers": "0005CRG"
   },
   {
@@ -568,7 +568,7 @@
     "kw": "100",
     "hp": "136",
     "cc": "1995",
-    "engineCodes": "B47 C20 B  B47 C20 A",
+    "engineCodes": "B47 C20 B, B47 C20 A",
     "KBA_Numbers": "0005CRJ"
   },
   {
@@ -590,8 +590,8 @@
     "kw": "150",
     "hp": "204",
     "cc": "HB0",
-    "engineCodes": "0005DKX",
-    "KBA_Numbers": ""
+    "engineCodes": "HB0",
+    "KBA_Numbers": "0005DKX"
   },
   {
     "brand": "BMW",
@@ -634,7 +634,7 @@
     "kw": "131",
     "hp": "178",
     "cc": "1998",
-    "engineCodes": "B48 A20 A  B48 A20 F",
+    "engineCodes": "B48 A20 A, B48 A20 F",
     "KBA_Numbers": "0005DFJ"
   },
   {
@@ -645,7 +645,7 @@
     "kw": "131",
     "hp": "178",
     "cc": "1998",
-    "engineCodes": "B48 A20 A  B48 A20 F",
+    "engineCodes": "B48 A20 A, B48 A20 F",
     "KBA_Numbers": "0005DFI"
   },
   {
@@ -678,8 +678,8 @@
     "kw": "100",
     "hp": "136",
     "cc": "1995",
-    "engineCodes": "B47 C20 B  B47 C20 A",
-    "KBA_Numbers": "0005CLK  0005CGB"
+    "engineCodes": "B47 C20 B, B47 C20 A",
+    "KBA_Numbers": "0005CLK, 0005CGB"
   },
   {
     "brand": "MINI",
@@ -689,8 +689,8 @@
     "kw": "110",
     "hp": "150",
     "cc": "1995",
-    "engineCodes": "B47 C20 B  B47 C20 A",
-    "KBA_Numbers": "0005CEV  0005CLJ"
+    "engineCodes": "B47 C20 B, B47 C20 A",
+    "KBA_Numbers": "0005CEV, 0005CLJ"
   },
   {
     "brand": "MINI",
@@ -700,8 +700,8 @@
     "kw": "120",
     "hp": "163",
     "cc": "1998",
-    "engineCodes": "B48 A20 F  B48 A20 A",
-    "KBA_Numbers": "0005CLH  0005CEQ"
+    "engineCodes": "B48 A20 F, B48 A20 A",
+    "KBA_Numbers": "0005CLH, 0005CEQ"
   },
   {
     "brand": "MINI",
@@ -711,8 +711,8 @@
     "kw": "141",
     "hp": "192",
     "cc": "1998",
-    "engineCodes": "B48 A20 F  B48 A20 A  B46 A20 A",
-    "KBA_Numbers": "0005CER  0005CLG"
+    "engineCodes": "B48 A20 F, B48 A20 A, B46 A20 A",
+    "KBA_Numbers": "0005CER, 0005CLG"
   },
   {
     "brand": "MINI",
@@ -722,7 +722,7 @@
     "kw": "131",
     "hp": "178",
     "cc": "1998",
-    "engineCodes": "B46 A20 A  B48 A20 F  B48 A20 A",
+    "engineCodes": "B46 A20 A, B48 A20 F, B48 A20 A",
     "KBA_Numbers": "0005DDB"
   },
   {
@@ -734,7 +734,7 @@
     "hp": "163",
     "cc": "1998",
     "engineCodes": "B48 A20 A",
-    "KBA_Numbers": "0005CLO  0005CES"
+    "KBA_Numbers": "0005CLO, 0005CES"
   },
   {
     "brand": "MINI",
@@ -745,7 +745,7 @@
     "hp": "192",
     "cc": "1998",
     "engineCodes": "B48 A20 A",
-    "KBA_Numbers": "0005CET  0005CLN"
+    "KBA_Numbers": "0005CET, 0005CLN"
   },
   {
     "brand": "MINI",
@@ -755,7 +755,7 @@
     "kw": "131",
     "hp": "178",
     "cc": "1998",
-    "engineCodes": "B48 A20 F  B46 A20 A",
+    "engineCodes": "B48 A20 F, B46 A20 A",
     "KBA_Numbers": "0005DDC"
   },
   {
@@ -766,7 +766,7 @@
     "kw": "155",
     "hp": "211",
     "cc": "1998",
-    "engineCodes": "B48 A20 F  B46 A20 A  B48 A20 A",
+    "engineCodes": "B48 A20 F, B46 A20 A, B48 A20 A",
     "KBA_Numbers": "0005CLS"
   },
   {
@@ -788,8 +788,8 @@
     "kw": "120",
     "hp": "163",
     "cc": "1995",
-    "engineCodes": "B47 C20 B  B47 C20 A",
-    "KBA_Numbers": "0005CLM  0005CBN  0005CEW"
+    "engineCodes": "B47 C20 B, B47 C20 A",
+    "KBA_Numbers": "0005CLM, 0005CBN, 0005CEW"
   },
   {
     "brand": "MINI",
@@ -799,8 +799,8 @@
     "kw": "140",
     "hp": "190",
     "cc": "1995",
-    "engineCodes": "B47 C20 B  B47 C20 A",
-    "KBA_Numbers": "0005CEX  0005CLL"
+    "engineCodes": "B47 C20 B, B47 C20 A",
+    "KBA_Numbers": "0005CEX, 0005CLL"
   },
   {
     "brand": "MINI",
@@ -810,8 +810,8 @@
     "kw": "120",
     "hp": "163",
     "cc": "1995",
-    "engineCodes": "B47 C20 A  B47 C20 B",
-    "KBA_Numbers": "0005CLR  0005CEY"
+    "engineCodes": "B47 C20 A, B47 C20 B",
+    "KBA_Numbers": "0005CLR, 0005CEY"
   },
   {
     "brand": "MINI",
@@ -821,8 +821,8 @@
     "kw": "140",
     "hp": "190",
     "cc": "1995",
-    "engineCodes": "B47 C20 B  B47 C20 A",
-    "KBA_Numbers": "0005CEZ  0005CLQ"
+    "engineCodes": "B47 C20 B, B47 C20 A",
+    "KBA_Numbers": "0005CEZ, 0005CLQ"
   },
   {
     "brand": "MINI",
@@ -832,7 +832,7 @@
     "kw": "100",
     "hp": "136",
     "cc": "1499",
-    "engineCodes": "B36 A15 A  B38 A15 A  B38 A15 F",
+    "engineCodes": "B36 A15 A, B38 A15 A, B38 A15 F",
     "KBA_Numbers": "0005CMY"
   },
   {
@@ -843,7 +843,7 @@
     "kw": "100",
     "hp": "136",
     "cc": "1499",
-    "engineCodes": "B38 A15 A  B38 A15 F",
+    "engineCodes": "B38 A15 A, B38 A15 F",
     "KBA_Numbers": "0005CNF"
   },
   {
@@ -854,7 +854,7 @@
     "kw": "100",
     "hp": "136",
     "cc": "1995",
-    "engineCodes": "B47 C20 B  B47 C20 A",
+    "engineCodes": "B47 C20 B, B47 C20 A",
     "KBA_Numbers": "0005CNC"
   },
   {
@@ -865,7 +865,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1995",
-    "engineCodes": "B47 C20 A  B47 C20 B",
+    "engineCodes": "B47 C20 A, B47 C20 B",
     "KBA_Numbers": "0005CNB"
   },
   {
@@ -876,7 +876,7 @@
     "kw": "100",
     "hp": "136",
     "cc": "1995",
-    "engineCodes": "B47 C20 A  B47 C20 B",
+    "engineCodes": "B47 C20 A, B47 C20 B",
     "KBA_Numbers": "0005CNK"
   },
   {
@@ -887,7 +887,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1995",
-    "engineCodes": "B47 C20 A  B47 C20 B",
+    "engineCodes": "B47 C20 A, B47 C20 B",
     "KBA_Numbers": "0005CNI"
   },
   {
@@ -898,7 +898,7 @@
     "kw": "165",
     "hp": "224",
     "cc": "1499",
-    "engineCodes": "B38 A15 A  IA1",
+    "engineCodes": "B38 A15 A, IA1",
     "KBA_Numbers": "0005CON"
   },
   {
@@ -931,8 +931,8 @@
     "kw": "150",
     "hp": "204",
     "cc": "HB0",
-    "engineCodes": "0005DKY",
-    "KBA_Numbers": ""
+    "engineCodes": "HB0",
+    "KBA_Numbers": "0005DKY"
   },
   {
     "brand": "MINI",

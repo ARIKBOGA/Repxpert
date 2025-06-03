@@ -40,7 +40,7 @@
     "kw": "59",
     "hp": "80",
     "cc": "1995",
-    "engineCodes": "J5R 726  J5R 722  J5R 716",
+    "engineCodes": "J5R 726, J5R 722, J5R 716",
     "KBA_Numbers": "3004482"
   },
   {
@@ -51,7 +51,7 @@
     "kw": "51",
     "hp": "69",
     "cc": "2445",
-    "engineCodes": "8140.61.240  S8U 722  S8U 720",
+    "engineCodes": "8140.61.240, S8U 722, S8U 720",
     "KBA_Numbers": "3004412"
   },
   {
@@ -73,8 +73,8 @@
     "kw": "55",
     "hp": "75",
     "cc": "2499",
-    "engineCodes": "S8U 758  8140.67.2550  S8U 752  S8U 750  8140.67.2580  8140.67.2500",
-    "KBA_Numbers": "3004523  3004526"
+    "engineCodes": "S8U 758, 8140.67.2550, S8U 752, S8U 750, 8140.67.2580, 8140.67.2500",
+    "KBA_Numbers": "3004523, 3004526"
   },
   {
     "brand": "RENAULT TRUCKS",
@@ -84,7 +84,7 @@
     "kw": "78",
     "hp": "106",
     "cc": "2800",
-    "engineCodes": "8140.43.B.3588  8140.43.C.2586  8140.43.B.3586",
+    "engineCodes": "8140.43.B.3588, 8140.43.C.2586, 8140.43.B.3586",
     "KBA_Numbers": ""
   },
   {
@@ -95,7 +95,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "2953",
-    "engineCodes": "DXi 3  ZD3 A 600",
+    "engineCodes": "DXi 3, ZD3 A 600",
     "KBA_Numbers": ""
   },
   {
@@ -106,7 +106,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "2953",
-    "engineCodes": "DXi 3  ZD3 A 600",
+    "engineCodes": "DXi 3, ZD3 A 600",
     "KBA_Numbers": ""
   },
   {
@@ -117,7 +117,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "2953",
-    "engineCodes": "DXi 3  ZD3 A 600",
+    "engineCodes": "DXi 3, ZD3 A 600",
     "KBA_Numbers": ""
   },
   {
@@ -128,7 +128,7 @@
     "kw": "92",
     "hp": "125",
     "cc": "2800",
-    "engineCodes": "8140.43.S.3585  8140.43.S.2585",
+    "engineCodes": "8140.43.S.3585, 8140.43.S.2585",
     "KBA_Numbers": ""
   },
   {
@@ -183,7 +183,7 @@
     "kw": "115",
     "hp": "156",
     "cc": "2953",
-    "engineCodes": "ZD3 A 604  DXi 3",
+    "engineCodes": "ZD3 A 604, DXi 3",
     "KBA_Numbers": ""
   },
   {
@@ -194,7 +194,7 @@
     "kw": "115",
     "hp": "156",
     "cc": "2953",
-    "engineCodes": "DXi 3  ZD3 A 604",
+    "engineCodes": "DXi 3, ZD3 A 604",
     "KBA_Numbers": ""
   },
   {
@@ -205,7 +205,7 @@
     "kw": "115",
     "hp": "156",
     "cc": "2953",
-    "engineCodes": "DXi 3  ZD3 A 604",
+    "engineCodes": "DXi 3, ZD3 A 604",
     "KBA_Numbers": ""
   },
   {
@@ -227,7 +227,7 @@
     "kw": "78",
     "hp": "106",
     "cc": "2800",
-    "engineCodes": "8140.43.B.3588  8140.43.B.3586  8140.43.C.2586",
+    "engineCodes": "8140.43.B.3588, 8140.43.B.3586, 8140.43.C.2586",
     "KBA_Numbers": ""
   },
   {
@@ -238,7 +238,7 @@
     "kw": "78",
     "hp": "106",
     "cc": "2800",
-    "engineCodes": "8140.43.B.3588  8140.43.B.3586  8140.43.C.2586",
+    "engineCodes": "8140.43.B.3588, 8140.43.B.3586, 8140.43.C.2586",
     "KBA_Numbers": ""
   },
   {
@@ -249,7 +249,7 @@
     "kw": "78",
     "hp": "106",
     "cc": "2800",
-    "engineCodes": "8140.43.B.3588  8140.43.B.3586  8140.43.C.2586",
+    "engineCodes": "8140.43.B.3588, 8140.43.B.3586, 8140.43.C.2586",
     "KBA_Numbers": ""
   },
   {
@@ -260,7 +260,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "2953",
-    "engineCodes": "DXi 3  ZD3 A 600",
+    "engineCodes": "DXi 3, ZD3 A 600",
     "KBA_Numbers": ""
   },
   {
@@ -271,7 +271,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "2953",
-    "engineCodes": "ZD3 A 600  DXi 3",
+    "engineCodes": "ZD3 A 600, DXi 3",
     "KBA_Numbers": ""
   },
   {
@@ -282,7 +282,7 @@
     "kw": "92",
     "hp": "125",
     "cc": "2800",
-    "engineCodes": "8140.43.S.3585  8140.43.S.2585",
+    "engineCodes": "8140.43.S.3585, 8140.43.S.2585",
     "KBA_Numbers": ""
   },
   {
@@ -293,7 +293,7 @@
     "kw": "92",
     "hp": "125",
     "cc": "2800",
-    "engineCodes": "8140.43.S.2585  8140.43.S.3585",
+    "engineCodes": "8140.43.S.2585, 8140.43.S.3585",
     "KBA_Numbers": ""
   },
   {
@@ -359,7 +359,7 @@
     "kw": "115",
     "hp": "156",
     "cc": "2953",
-    "engineCodes": "DXi 3  ZD3 A 604",
+    "engineCodes": "DXi 3, ZD3 A 604",
     "KBA_Numbers": ""
   },
   {
@@ -370,7 +370,7 @@
     "kw": "115",
     "hp": "156",
     "cc": "2953",
-    "engineCodes": "DXi 3  ZD3 A 604",
+    "engineCodes": "DXi 3, ZD3 A 604",
     "KBA_Numbers": ""
   },
   {

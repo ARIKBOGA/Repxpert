@@ -47,12 +47,12 @@
     "brand": "MERCEDES-BENZ",
     "model": "C-CLASS (W204)",
     "engineType": "C 180 Kompressor (204.046)",
-    "madeYear": "01.2007 - 01.2014",
+    "madeYear": "01.2007 - 01.2009",
     "kw": "115",
     "hp": "156",
     "cc": "1796",
     "engineCodes": "M 271.952",
-    "KBA_Numbers": "0999BEW  1313ABK"
+    "KBA_Numbers": "0999BEW, 1313ABK"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -73,8 +73,8 @@
     "kw": "100",
     "hp": "136",
     "cc": "2148",
-    "engineCodes": "OM 646.812  OM 646.811",
-    "KBA_Numbers": "0999BGZ  1313ABE"
+    "engineCodes": "OM 646.812, OM 646.811",
+    "KBA_Numbers": "0999BGZ, 1313ABE"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -129,7 +129,7 @@
     "hp": "156",
     "cc": "1796",
     "engineCodes": "M 271.820",
-    "KBA_Numbers": "1313AHC  1313AHK"
+    "KBA_Numbers": "1313AHC, 1313AHK"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -140,7 +140,7 @@
     "hp": "156",
     "cc": "1597",
     "engineCodes": "M 271.910",
-    "KBA_Numbers": "1313BFY  1313BFZ"
+    "KBA_Numbers": "1313BFY, 1313BFZ"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -151,7 +151,7 @@
     "hp": "156",
     "cc": "1796",
     "engineCodes": "M 271.952",
-    "KBA_Numbers": "1313AHC  1313AHK  0999BEX  0999BJB"
+    "KBA_Numbers": "1313AHC, 1313AHK, 0999BEX, 0999BJB"
   },
   {
     "brand": "MERCEDES-BENZ",
@@ -173,6 +173,6 @@
     "hp": "136",
     "cc": "2148",
     "engineCodes": "OM 646.811",
-    "KBA_Numbers": "1313AGW  0999BHG"
+    "KBA_Numbers": "1313AGW, 0999BHG"
   }
 ]
