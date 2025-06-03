@@ -5,31 +5,27 @@ import path from "path";
 import { addToRetryList, getTextContent } from "../utils/extractHelpers";
 import ConfigReader from "../utils/ConfigReader";
 import { selector } from "../utils/Selectors";
-import { getSubfolderNamesSync, readJsonFile, retryListFilePath, padPairs } from "../utils/FileHelpers";
+import { getSubfolderNamesSync, readJsonFile, retryListFilePath, padPairs, discPairs } from "../utils/FileHelpers";
 import { goToSearchResultsEnglish, ProductReference, readProductReferencesFromExcel } from "../utils/ScraperHelpers";
 
-const crossNumbersPath = path.resolve(__dirname, "../data/willBefixed/willBeScraped.json");
-
-// Read crossNumbers form a json file and remove duplicates
-const crossNumbers: string[] = Array.from(new Set(JSON.parse(fs.readFileSync(crossNumbersPath, "utf-8"))));
 
 //const manualArray: string[] = ["2932003"];
 const filterBrand = process.env.FILTER_BRAND_APPLICATION as string;
 const productType = process.env.PRODUCT_TYPE as string;
-const references : ProductReference[] = readProductReferencesFromExcel(productType);
+const references: ProductReference[] = readProductReferencesFromExcel(productType);
 
-const scrapedCroossNumbers = getSubfolderNamesSync(`src/data/Gathered_Informations/${productType}/Applications/English/${filterBrand}`);
-const missingCrossNumbers = crossNumbers.filter(crossNumber => !scrapedCroossNumbers.includes(crossNumber));
+//const scrapedCroossNumbers = getSubfolderNamesSync(`src/data/Gathered_Informations/${productType}/Applications/English/${filterBrand}`);
+//const missingCrossNumbers = crossNumbers.filter(crossNumber => !scrapedCroossNumbers.includes(crossNumber));
 const scrapedCrossSet = new Set<string>();
 
 let retryList = readJsonFile<string[]>(retryListFilePath, []);
 
 test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
-  
-  for (const ref of padPairs) {
 
-    const {yvNo, brandRefs} = ref;
-    
+  for (const ref of references) {
+
+    const { yvNo, brandRefs } = ref;
+
     let crossNumber = brandRefs && (brandRefs[filterBrand] as string);
 
     if (!crossNumber || crossNumber === "") {
@@ -37,22 +33,18 @@ test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
       continue; // Geçerli bir referans kodu yoksa next iteration a geç
     }
 
-    if(crossNumber.includes(",")){
+    if (crossNumber.includes(",")) {
       //console.warn(`⚠️ ${crossNumber} birden fazla referans içeriyor, bu durumda sadece ilk referansı kullanılıyor.`);
       const firstCross = crossNumber.split(",")[0].trim();
       //console.log(`İlk referans: ${firstCross}`);
       crossNumber = firstCross; // Sadece ilk referansı kullan
     }
 
-    if(scrapedCroossNumbers.includes(crossNumber)){
+    if (scrapedCrossSet.has(crossNumber)) {
       //console.warn(`⚠️ ${crossNumber} kodu zaten alınmış, atlanıyor...`);
       continue;
     }
 
-    if(scrapedCrossSet.has(crossNumber)){
-      //console.warn(`⚠️ ${crossNumber} kodu zaten alınmış, atlanıyor...`);
-      continue;
-    }
     scrapedCrossSet.add(crossNumber);
     test(`${filterBrand} - ${crossNumber} ürününün araç uyumluluklarını getir`, async ({ page }) => {
       try {
@@ -136,7 +128,7 @@ test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
             const rowCount = await rows.count();
 
             for (let k = 0; k < rowCount; k++) {
-              
+
               const rowSelector = selector.cells_part_1 + (k + 1) + selector.cells_part_2;
               const cells = page.locator(rowSelector);
               const cellTexts = await cells.allTextContents();
@@ -144,8 +136,8 @@ test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
                 .map((text) => text.trim())
                 .filter((text) => text !== "");
 
-              const engineCodes =  (await page.locator(`(${rowSelector})[6]//span`).allTextContents()).map(text => text.trim()).join(", ").trim();
-              const KBA_Numbers =  (await page.locator(`(${rowSelector})[7]//span`).allTextContents()).map(text => text.trim()).join(", ").trim();
+              const engineCodes = (await page.locator(`(${rowSelector})[6]//span`).allTextContents()).map(text => text.trim()).join(", ").trim();
+              const KBA_Numbers = (await page.locator(`(${rowSelector})[7]//span`).allTextContents()).map(text => text.trim()).join(", ").trim();
 
               applications.push({
                 brand,
