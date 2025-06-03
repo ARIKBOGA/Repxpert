@@ -88,12 +88,36 @@ export const discPairs: ProductReference[] = [
   //{ yvNo: "261090", brandRefs: { "TRW": "DB4141" } }, // 43206VM00B
   //{ yvNo: "261091", brandRefs: { "TEXTAR": "94026900" } }, // 432064M400
   //{ yvNo: "341092", brandRefs: { "TEXTAR": "94045200" } }, // 424310D030
-  { yvNo: "681569", brandRefs: { JNBK: "RN2502" } }, // T153502075EP - FREMAX - BD-4438
-  { yvNo: "731570", brandRefs: { JNBK: "RN2530V" } }, // 10174827 - TEXTAR - 92343203
-  { yvNo: "531572", brandRefs: { JNBK: "RN2289V" } }, // 582458R - FREMAX - BD-5452
-  { yvNo: "511577", brandRefs: { JNBK: "RN2452V" } }, // 43512BZ100
-
-
+  //{ yvNo: "681569", brandRefs: { JNBK: "RN2502" } }, // T153502075EP - FREMAX - BD-4438
+  //{ yvNo: "731570", brandRefs: { JNBK: "RN2530V" } }, // 10174827 - TEXTAR - 92343203
+  //{ yvNo: "531572", brandRefs: { JNBK: "RN2289V" } }, // 582458R - FREMAX - BD-5452
+  //{ yvNo: "511577", brandRefs: { JNBK: "RN2452V" } }, // 43512BZ100
+  //{ yvNo: "36168", brandRefs: { ICER: "78BD4063-2" } },
+  { yvNo: "33051", brandRefs: { TEXTAR: "92034400" } },
+  { yvNo: "13024", brandRefs: { TEXTAR: "92063503" } },
+  { yvNo: "60206", brandRefs: { TEXTAR: "93084900" } },
+  { yvNo: "36320", brandRefs: { TEXTAR: "92012103" } },
+  { yvNo: "28501", brandRefs: { TEXTAR: "92092803" } },
+  { yvNo: "67517", brandRefs: { TEXTAR: "92294203" } },
+  { yvNo: "53514", brandRefs: { TEXTAR: "92241400" } },
+  { yvNo: "13553", brandRefs: { TEXTAR: "92275803" } },
+  { yvNo: "13572", brandRefs: { TEXTAR: "92274103" } },
+  { yvNo: "16608", brandRefs: { TEXTAR: "92292203" } },
+  { yvNo: "26634C", brandRefs: { TEXTAR: "92199105" } },
+  { yvNo: "15676", brandRefs: { TEXTAR: "92257303" } },
+  { yvNo: "32736", brandRefs: { TEXTAR: "92204703" } },
+  { yvNo: "27769", brandRefs: { TEXTAR: "92305505" } },
+  { yvNo: "32802", brandRefs: { TEXTAR: "92305703" } },
+  { yvNo: "27811", brandRefs: { TEXTAR: "92256803" } },
+  { yvNo: "13816", brandRefs: { TEXTAR: "92268703" } },
+  { yvNo: "24916", brandRefs: { TEXTAR: "92279403" } },
+  { yvNo: "55932", brandRefs: { TEXTAR: "92287303" } },
+  { yvNo: "13986", brandRefs: { TEXTAR: "92315503" } },
+  { yvNo: "151536", brandRefs: { TEXTAR: "92298703" } },
+  { yvNo: "131553", brandRefs: { TEXTAR: "92352603" } },
+  { yvNo: "161562", brandRefs: { TEXTAR: "92351203" } },
+  { yvNo: "731570", brandRefs: { TEXTAR: "92343203" } },
+  { yvNo: "34575", brandRefs: { TEXTAR: "92274903 / 92230403" } }
 ];
 
 export const crankshaftPairs: ProductReference[] = [

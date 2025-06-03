@@ -22,7 +22,7 @@ let retryList = readJsonFile<string[]>(retryListFilePath, []);
 
 test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
 
-  for (const ref of references) {
+  for (const ref of discPairs) {
 
     const { yvNo, brandRefs } = ref;
 
