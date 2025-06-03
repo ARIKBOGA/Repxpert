@@ -5,8 +5,8 @@ import path from "path";
 import { addToRetryList, getTextContent } from "../utils/extractHelpers";
 import ConfigReader from "../utils/ConfigReader";
 import { selector } from "../utils/Selectors";
-import { readJsonFile, retryListFilePath } from "../utils/FileHelpers";
-import { goToSearchResultsEnglish } from "../utils/ScraperHelpers";
+import { getSubfolderNamesSync, readJsonFile, retryListFilePath, padPairs } from "../utils/FileHelpers";
+import { goToSearchResultsEnglish, ProductReference, readProductReferencesFromExcel } from "../utils/ScraperHelpers";
 
 const crossNumbersPath = path.resolve(__dirname, "../data/willBefixed/willBeScraped.json");
 
@@ -14,19 +14,52 @@ const crossNumbersPath = path.resolve(__dirname, "../data/willBefixed/willBeScra
 const crossNumbers: string[] = Array.from(new Set(JSON.parse(fs.readFileSync(crossNumbersPath, "utf-8"))));
 
 //const manualArray: string[] = ["2932003"];
+const filterBrand = process.env.FILTER_BRAND_APPLICATION as string;
+const productType = process.env.PRODUCT_TYPE as string;
+const references : ProductReference[] = readProductReferencesFromExcel(productType);
+
+const scrapedCroossNumbers = getSubfolderNamesSync(`src/data/Gathered_Informations/${productType}/Applications/English/${filterBrand}`);
+const missingCrossNumbers = crossNumbers.filter(crossNumber => !scrapedCroossNumbers.includes(crossNumber));
+const scrapedCrossSet = new Set<string>();
 
 let retryList = readJsonFile<string[]>(retryListFilePath, []);
 
 test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
-  const filterBrand : string = process.env.FILTER_BRAND_APPLICATION as string;
+  
+  for (const ref of padPairs) {
 
-  for (const cross of crossNumbers) {
-    test(`${filterBrand} - ${cross} ürününün araç uyumluluklarını getir`, async ({ page }) => {
+    const {yvNo, brandRefs} = ref;
+    
+    let crossNumber = brandRefs && (brandRefs[filterBrand] as string);
+
+    if (!crossNumber || crossNumber === "") {
+      console.log(`YV No: ${yvNo} için geçerli bir referans kodu bulunamadı.`);
+      continue; // Geçerli bir referans kodu yoksa next iteration a geç
+    }
+
+    if(crossNumber.includes(",")){
+      //console.warn(`⚠️ ${crossNumber} birden fazla referans içeriyor, bu durumda sadece ilk referansı kullanılıyor.`);
+      const firstCross = crossNumber.split(",")[0].trim();
+      //console.log(`İlk referans: ${firstCross}`);
+      crossNumber = firstCross; // Sadece ilk referansı kullan
+    }
+
+    if(scrapedCroossNumbers.includes(crossNumber)){
+      //console.warn(`⚠️ ${crossNumber} kodu zaten alınmış, atlanıyor...`);
+      continue;
+    }
+
+    if(scrapedCrossSet.has(crossNumber)){
+      //console.warn(`⚠️ ${crossNumber} kodu zaten alınmış, atlanıyor...`);
+      continue;
+    }
+    scrapedCrossSet.add(crossNumber);
+    test(`${filterBrand} - ${crossNumber} ürününün araç uyumluluklarını getir`, async ({ page }) => {
       try {
-        const productLinks = await goToSearchResultsEnglish(page, cross, filterBrand, retryList, addToRetryList);
+        const productLinks = await goToSearchResultsEnglish(page, crossNumber, filterBrand, retryList, addToRetryList);
         if (!productLinks) return;
 
-        console.log(`🔍 ${cross} için ürünü işliyor...`);
+        console.log(`🔍 ${crossNumber} için ürünü işliyor...`);
 
         await Promise.all([
           page.waitForLoadState("domcontentloaded"),
@@ -39,7 +72,7 @@ test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
 
         const productTitle = (await getTextContent(page.locator(".h1").nth(0))) || "Unknown Product";
         const productProducer = productTitle.split(" ")[0];
-        const productID = productTitle.split(" ")[1];
+        const productID = productTitle.substring(productTitle.indexOf(" ")).trim();
         const brands = page.locator(selector.aria_level_1_brand);
 
         const applications = new Array<Application>();
@@ -61,7 +94,7 @@ test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
               timeout: 5000,
             });
           } catch {
-            console.warn(`⚠️ ${brand} için araç listesi yüklenemedi. Kod: ${cross}`);
+            console.warn(`⚠️ ${brand} için araç listesi yüklenemedi. Kod: ${crossNumber}`);
             await brandEl.click();
             await page.waitForTimeout(1000); // tekrar kapat
             continue;
@@ -93,7 +126,7 @@ test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
             // Eğer araç açılmadıysa, hata logu yaz ve bir sonraki araç'a gec
             if (!page.locator(selector.aria_level_3_rows) || await page.locator(selector.aria_level_3_rows).count() === 0) {
 
-              console.warn(`⚠️⚠️⚠️ ${brand} - ${vehicle} için uyumluluk satırı bulunamadı. Kod: ${cross}`);
+              console.warn(`⚠️⚠️⚠️ ${brand} - ${vehicle} için uyumluluk satırı bulunamadı. Kod: ${crossNumber}`);
               await vehicleEl.click(); // tekrar kapat
               await page.waitForTimeout(1000);
               continue;
@@ -137,7 +170,7 @@ test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
         }
 
         const productProducerFolderPath = path.join(
-          "src/data/Gathered_Informations/Discs/Applications/English",
+          `src/data/Gathered_Informations/${productType}/Applications/English`,
           productProducer || "UnknownBrand"
         );
 
@@ -145,7 +178,7 @@ test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
           fs.mkdirSync(productProducerFolderPath, { recursive: true });
         }
 
-        const oeFolderPath = path.join(productProducerFolderPath, cross);
+        const oeFolderPath = path.join(productProducerFolderPath, crossNumber);
         if (!fs.existsSync(oeFolderPath)) {
           fs.mkdirSync(oeFolderPath, { recursive: true });
         }
@@ -154,11 +187,11 @@ test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
         const filePath = path.join(oeFolderPath, fileName);
 
         fs.writeFileSync(filePath, JSON.stringify(applications, null, 2), "utf-8");
-        console.log(`✅ ${cross} için ${fileName} üzerine yazılarak kaydedildi.`);
+        console.log(`✅ ${crossNumber} için ${fileName} üzerine yazılarak kaydedildi.`);
 
       } catch (err) {
-        console.error(`❌ ${cross} için hata:`, err);
-        addToRetryList(cross);
+        console.error(`❌ ${crossNumber} için hata:`, err);
+        addToRetryList(crossNumber);
       }
     });
   }

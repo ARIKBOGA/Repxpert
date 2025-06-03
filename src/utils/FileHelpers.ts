@@ -36,16 +36,7 @@ export function getSubfolderNamesSync(dirPath: string): string[] {
 }
 
 export const padPairs: ProductReference[] = [
-  { yvNo: "21827201", brandRefs: { TRW: "GDB1322" } },
-  { yvNo: "21934201", brandRefs: { TRW: "GDB1344" } },
-  { yvNo: "21471401", brandRefs: { TRW: "GDB1269" } },
-  { yvNo: "24727203", brandRefs: { TRW: "GDB1864" } },
-  { yvNo: "21158401", brandRefs: { TRW: "GDB351" } },
-  { yvNo: "21827201", brandRefs: { TEXTAR: "2182702" } },
-  { yvNo: "21934201", brandRefs: { TEXTAR: "2193402" } },
-  { yvNo: "21471401", brandRefs: { TEXTAR: "2147102" } },
-  { yvNo: "24727203", brandRefs: { TEXTAR: "2472701" } },
-  { yvNo: "21158401", brandRefs: { TEXTAR: "2115801" } }
+  { yvNo: "23793201", brandRefs: { "BREMBO": "P 06 036" } }, // 40206EB70B
 ];
 
 //YV NO		AÇIKLAMA	TRW	Textar	balata:wva no
