@@ -1,0 +1,68 @@
+[
+  {
+    "brand": "MITSUBISHI",
+    "model": "L 300 III Bus (P0_W, P1_W, P2_W, P3_W) | DELICA | STARWAGON",
+    "engineType": "2.5 D (P05W, P15W, P25W)",
+    "madeYear": "11.1986 - 05.2004",
+    "kw": "51",
+    "hp": "69",
+    "cc": "2477",
+    "engineCodes": "4D56 (8V)",
+    "KBA_Numbers": "7107407, 7107419"
+  },
+  {
+    "brand": "MITSUBISHI",
+    "model": "L 300 III Van (P0_V, P1_V, P2_V) | DELICA | EXPRESS",
+    "engineType": "2.5 D (P05V, P05W, P15V)",
+    "madeYear": "11.1986 - 02.2006",
+    "kw": "51",
+    "hp": "69",
+    "cc": "2477",
+    "engineCodes": "4D56 (8V)",
+    "KBA_Numbers": "7107512"
+  },
+  {
+    "brand": "MITSUBISHI",
+    "model": "L200 (K3_T, K2_T, K1_T, K0_T) | MIGHTY MAX | CYCLONE | TRITON | COLT | L200 / STORM",
+    "engineType": "1.6 (K11T)",
+    "madeYear": "04.1987 - 10.1996",
+    "kw": "60",
+    "hp": "82",
+    "cc": "1597",
+    "engineCodes": "4G32",
+    "KBA_Numbers": ""
+  },
+  {
+    "brand": "MITSUBISHI",
+    "model": "L200 (K3_T, K2_T, K1_T, K0_T) | MIGHTY MAX | CYCLONE | TRITON | COLT | L200 / STORM",
+    "engineType": "2.0",
+    "madeYear": "10.1986 - 04.1994",
+    "kw": "67",
+    "hp": "91",
+    "cc": "1997",
+    "engineCodes": "4G63 (SOHC 8V)",
+    "KBA_Numbers": ""
+  },
+  {
+    "brand": "MITSUBISHI",
+    "model": "L200 (K3_T, K2_T, K1_T, K0_T) | MIGHTY MAX | CYCLONE | TRITON | COLT | L200 / STORM",
+    "engineType": "2.5 D (K14T)",
+    "madeYear": "11.1986 - 10.1996",
+    "kw": "51",
+    "hp": "70",
+    "cc": "2476",
+    "engineCodes": "4D56 (8V)",
+    "KBA_Numbers": ""
+  },
+  {
+    "brand": "MITSUBISHI",
+    "model": "L200 (K3_T, K2_T, K1_T, K0_T) | MIGHTY MAX | CYCLONE | TRITON | COLT | L200 / STORM",
+    "engineType": "2.6 4WD (K33T)",
+    "madeYear": "11.1989 - 05.1995",
+    "kw": "76",
+    "hp": "103",
+    "cc": "2555",
+    "engineCodes": "G54B",
+    "KBA_Numbers": ""
+  }
+]

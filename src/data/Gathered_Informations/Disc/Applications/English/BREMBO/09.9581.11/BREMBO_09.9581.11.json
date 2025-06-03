@@ -1,0 +1,222 @@
+[
+  {
+    "brand": "BMW",
+    "model": "X3 (E83)",
+    "engineType": "2.0 d",
+    "madeYear": "09.2004 - 08.2007",
+    "kw": "110",
+    "hp": "150",
+    "cc": "1995",
+    "engineCodes": "M47 D20 (204D4)",
+    "KBA_Numbers": "0005808, 0005ACD"
+  },
+  {
+    "brand": "BMW",
+    "model": "X3 (E83)",
+    "engineType": "2.0 i",
+    "madeYear": "07.2005 - 08.2008",
+    "kw": "110",
+    "hp": "150",
+    "cc": "1995",
+    "engineCodes": "N46 B20 B",
+    "KBA_Numbers": "0005AGS, 0005851, 0005AKL"
+  },
+  {
+    "brand": "BMW",
+    "model": "X3 (E83)",
+    "engineType": "2.0 sd",
+    "madeYear": "09.2007 - 08.2008",
+    "kw": "130",
+    "hp": "177",
+    "cc": "1995",
+    "engineCodes": "N47 D20 A",
+    "KBA_Numbers": "0005AKJ"
+  },
+  {
+    "brand": "BMW",
+    "model": "X3 (E83)",
+    "engineType": "2.5 i",
+    "madeYear": "03.2004 - 07.2006",
+    "kw": "141",
+    "hp": "192",
+    "cc": "2494",
+    "engineCodes": "M54 B25 (256S5)",
+    "KBA_Numbers": "0005789"
+  },
+  {
+    "brand": "BMW",
+    "model": "X3 (E83)",
+    "engineType": "2.5 si",
+    "madeYear": "08.2006 - 08.2008",
+    "kw": "160",
+    "hp": "218",
+    "cc": "2497",
+    "engineCodes": "N52 B25 A, N52 B25 BF, N52 B25 AF",
+    "KBA_Numbers": "0005AKM, 0005AFA"
+  },
+  {
+    "brand": "BMW",
+    "model": "X3 (E83)",
+    "engineType": "2.5 si xDrive",
+    "madeYear": "08.2006 - 08.2008",
+    "kw": "155",
+    "hp": "211",
+    "cc": "2497",
+    "engineCodes": "N52 B25 BF, N52 B25 AF, N52 B25 A",
+    "KBA_Numbers": "0005AKN, 0005AFT"
+  },
+  {
+    "brand": "BMW",
+    "model": "X3 (E83)",
+    "engineType": "3.0 d",
+    "madeYear": "01.2004 - 08.2005",
+    "kw": "150",
+    "hp": "204",
+    "cc": "2993",
+    "engineCodes": "M57 D30 (306D2)",
+    "KBA_Numbers": "0005788"
+  },
+  {
+    "brand": "BMW",
+    "model": "X3 (E83)",
+    "engineType": "3.0 d",
+    "madeYear": "09.2005 - 08.2008",
+    "kw": "160",
+    "hp": "218",
+    "cc": "2993",
+    "engineCodes": "M57 D30 (306D3)",
+    "KBA_Numbers": "0005853, 0005AKO, 0005ACB"
+  },
+  {
+    "brand": "BMW",
+    "model": "X3 (E83)",
+    "engineType": "3.0 i xDrive",
+    "madeYear": "09.2003 - 07.2006",
+    "kw": "170",
+    "hp": "231",
+    "cc": "2979",
+    "engineCodes": "M54 B30 (306S3)",
+    "KBA_Numbers": "0005787"
+  },
+  {
+    "brand": "BMW",
+    "model": "X3 (E83)",
+    "engineType": "3.0 si",
+    "madeYear": "08.2006 - 08.2008",
+    "kw": "200",
+    "hp": "272",
+    "cc": "2996",
+    "engineCodes": "N52 B30 A, N52 B30 BF",
+    "KBA_Numbers": "0005AKR, 0005AFB"
+  },
+  {
+    "brand": "BMW",
+    "model": "X3 (E83)",
+    "engineType": "xDrive 18 d",
+    "madeYear": "09.2008 - 12.2011",
+    "kw": "105",
+    "hp": "143",
+    "cc": "1995",
+    "engineCodes": "N47 D20 C",
+    "KBA_Numbers": "0005APG"
+  },
+  {
+    "brand": "BMW",
+    "model": "X3 (E83)",
+    "engineType": "xDrive 18 d",
+    "madeYear": "04.2009 - 12.2011",
+    "kw": "100",
+    "hp": "136",
+    "cc": "1995",
+    "engineCodes": "N47 D20 C",
+    "KBA_Numbers": "0005APQ"
+  },
+  {
+    "brand": "BMW",
+    "model": "X3 (E83)",
+    "engineType": "xDrive 20 d",
+    "madeYear": "09.2008 - 08.2010",
+    "kw": "120",
+    "hp": "163",
+    "cc": "1995",
+    "engineCodes": "N47 D20 A, N47 D20 C",
+    "KBA_Numbers": "0005AKK"
+  },
+  {
+    "brand": "BMW",
+    "model": "X3 (E83)",
+    "engineType": "xDrive 20 d",
+    "madeYear": "09.2008 - 08.2010",
+    "kw": "130",
+    "hp": "177",
+    "cc": "1995",
+    "engineCodes": "N47 D20 A, N47 D20 C",
+    "KBA_Numbers": "0005AKJ"
+  },
+  {
+    "brand": "BMW",
+    "model": "X3 (E83)",
+    "engineType": "xDrive 20 i",
+    "madeYear": "09.2008 - 08.2011",
+    "kw": "110",
+    "hp": "150",
+    "cc": "1995",
+    "engineCodes": "N46 B20 B",
+    "KBA_Numbers": "0005AGS, 0005851, 0005AKL"
+  },
+  {
+    "brand": "BMW",
+    "model": "X3 (E83)",
+    "engineType": "xDrive 25 i",
+    "madeYear": "09.2008 - 08.2010",
+    "kw": "155",
+    "hp": "211",
+    "cc": "2497",
+    "engineCodes": "N52 B25 A, N52 B25 AF, N52 B25 BF",
+    "KBA_Numbers": ""
+  },
+  {
+    "brand": "BMW",
+    "model": "X3 (E83)",
+    "engineType": "xDrive 25 i",
+    "madeYear": "09.2008 - 08.2010",
+    "kw": "160",
+    "hp": "218",
+    "cc": "2497",
+    "engineCodes": "N52 B25 A, N52 B25 AF, N52 B25 BF",
+    "KBA_Numbers": "0005AKM, 0005AFA"
+  },
+  {
+    "brand": "BMW",
+    "model": "X3 (E83)",
+    "engineType": "xDrive 30 d",
+    "madeYear": "09.2008 - 08.2010",
+    "kw": "155",
+    "hp": "211",
+    "cc": "2993",
+    "engineCodes": "M57 D30 (306D3)",
+    "KBA_Numbers": "0005AKP, 0005ACC"
+  },
+  {
+    "brand": "BMW",
+    "model": "X3 (E83)",
+    "engineType": "xDrive 30 d",
+    "madeYear": "09.2008 - 08.2010",
+    "kw": "160",
+    "hp": "218",
+    "cc": "2993",
+    "engineCodes": "M57 D30 (306D3)",
+    "KBA_Numbers": "0005853, 0005AKO, 0005ACB"
+  },
+  {
+    "brand": "BMW",
+    "model": "X3 (E83)",
+    "engineType": "xDrive 30 i",
+    "madeYear": "09.2008 - 08.2010",
+    "kw": "200",
+    "hp": "272",
+    "cc": "2996",
+    "engineCodes": "N52 B30 A, N52 B30 BF",
+    "KBA_Numbers": "0005AKR, 0005AFB"
+  }
+]

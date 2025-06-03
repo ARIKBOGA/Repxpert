@@ -1,0 +1,233 @@
+[
+  {
+    "brand": "AUDI",
+    "model": "A4 B8 (8K2) | A4 / S4",
+    "engineType": "S4 quattro",
+    "madeYear": "11.2008 - 12.2015",
+    "kw": "245",
+    "hp": "333",
+    "cc": "2995",
+    "engineCodes": "CREC, CCBA, CTUB, CGXC, CAKA, CGWC",
+    "KBA_Numbers": "0588AJV"
+  },
+  {
+    "brand": "AUDI",
+    "model": "A4 B8 Avant (8K5) | A4 / S4",
+    "engineType": "S4 quattro",
+    "madeYear": "11.2008 - 12.2015",
+    "kw": "245",
+    "hp": "333",
+    "cc": "2995",
+    "engineCodes": "CREC, CCBA, CGXC, CTUB, CGWC, CAKA",
+    "KBA_Numbers": "0588APN, 0588AJW"
+  },
+  {
+    "brand": "AUDI",
+    "model": "A5 (8T3) | A5 / S5",
+    "engineType": "S5 quattro",
+    "madeYear": "06.2007 - 03.2012",
+    "kw": "260",
+    "hp": "354",
+    "cc": "4163",
+    "engineCodes": "CAUA",
+    "KBA_Numbers": "0588AGA"
+  },
+  {
+    "brand": "AUDI",
+    "model": "A5 Convertible (8F7) | A5 / S5",
+    "engineType": "S5 quattro",
+    "madeYear": "06.2009 - 01.2017",
+    "kw": "245",
+    "hp": "333",
+    "cc": "2995",
+    "engineCodes": "CTDA, CREC, CCBA, CGXC, CTUB, CGWC, CAKA",
+    "KBA_Numbers": "0588AKF"
+  },
+  {
+    "brand": "AUDI",
+    "model": "A5 Sportback (8TA) | A5 / S5",
+    "engineType": "S5 quattro",
+    "madeYear": "01.2010 - 01.2017",
+    "kw": "245",
+    "hp": "333",
+    "cc": "2995",
+    "engineCodes": "CTDA, CREC, CGWC, CAKA",
+    "KBA_Numbers": "0588APN, 0588ALN"
+  },
+  {
+    "brand": "AUDI",
+    "model": "Q5 (8RB)",
+    "engineType": "2.0 TDI",
+    "madeYear": "11.2010 - 05.2017",
+    "kw": "100",
+    "hp": "136",
+    "cc": "1968",
+    "engineCodes": "CSUB, CJCB",
+    "KBA_Numbers": "0588ARI, 0588ARH"
+  },
+  {
+    "brand": "AUDI",
+    "model": "Q5 (8RB)",
+    "engineType": "2.0 TDI",
+    "madeYear": "11.2010 - 05.2013",
+    "kw": "105",
+    "hp": "143",
+    "cc": "1968",
+    "engineCodes": "CJCA",
+    "KBA_Numbers": "0588AQI, 0588ARG"
+  },
+  {
+    "brand": "AUDI",
+    "model": "Q5 (8RB)",
+    "engineType": "2.0 TDI quattro",
+    "madeYear": "11.2008 - 05.2017",
+    "kw": "120",
+    "hp": "163",
+    "cc": "1968",
+    "engineCodes": "CGLA, CNHC, CGLD, CAHB",
+    "KBA_Numbers": "0588ALV, 0588AOI, 0588AIX"
+  },
+  {
+    "brand": "AUDI",
+    "model": "Q5 (8RB)",
+    "engineType": "2.0 TDI quattro",
+    "madeYear": "11.2008 - 09.2012",
+    "kw": "125",
+    "hp": "170",
+    "cc": "1968",
+    "engineCodes": "CMGA, CGLB, CAHA",
+    "KBA_Numbers": "0588ALU, 0588AOH, 0588AIW"
+  },
+  {
+    "brand": "AUDI",
+    "model": "Q5 (8RB)",
+    "engineType": "2.0 TDI quattro",
+    "madeYear": "08.2009 - 05.2017",
+    "kw": "100",
+    "hp": "136",
+    "cc": "1968",
+    "engineCodes": "CJCB, CSUB, CAGB",
+    "KBA_Numbers": "0588ALJ, 0588ALT, 0588AOG"
+  },
+  {
+    "brand": "AUDI",
+    "model": "Q5 (8RB)",
+    "engineType": "2.0 TDI quattro",
+    "madeYear": "08.2009 - 05.2013",
+    "kw": "105",
+    "hp": "143",
+    "cc": "1968",
+    "engineCodes": "CJCA, CAGA",
+    "KBA_Numbers": "0588ALH, 0588ALS, 0588AOF"
+  },
+  {
+    "brand": "AUDI",
+    "model": "Q5 (8RB)",
+    "engineType": "2.0 TDI quattro",
+    "madeYear": "06.2012 - 05.2017",
+    "kw": "130",
+    "hp": "177",
+    "cc": "1968",
+    "engineCodes": "CGLC, CMGB",
+    "KBA_Numbers": "0588AVU, 0588AWD"
+  },
+  {
+    "brand": "AUDI",
+    "model": "Q5 (8RB)",
+    "engineType": "2.0 TFSI Hybrid quattro",
+    "madeYear": "06.2011 - 06.2016",
+    "kw": "180",
+    "hp": "245",
+    "cc": "1984",
+    "engineCodes": "CHJA",
+    "KBA_Numbers": "0588ARR"
+  },
+  {
+    "brand": "AUDI",
+    "model": "Q5 (8RB)",
+    "engineType": "2.0 TFSI quattro",
+    "madeYear": "11.2008 - 09.2012",
+    "kw": "155",
+    "hp": "211",
+    "cc": "1984",
+    "engineCodes": "CAEB, CDNC",
+    "KBA_Numbers": "0588AMA, 0588AON, 0588AIV"
+  },
+  {
+    "brand": "AUDI",
+    "model": "Q5 (8RB)",
+    "engineType": "2.0 TFSI quattro",
+    "madeYear": "08.2009 - 05.2017",
+    "kw": "132",
+    "hp": "180",
+    "cc": "1984",
+    "engineCodes": "CDNB, CNCB",
+    "KBA_Numbers": "0588ALG, 0588ALZ, 0588AOM"
+  },
+  {
+    "brand": "AUDI",
+    "model": "Q5 (8RB)",
+    "engineType": "2.0 TFSI quattro",
+    "madeYear": "06.2012 - 05.2016",
+    "kw": "165",
+    "hp": "224",
+    "cc": "1984",
+    "engineCodes": "CNCD",
+    "KBA_Numbers": "0588AVS, 0588AWE"
+  },
+  {
+    "brand": "AUDI",
+    "model": "Q5 (8RB)",
+    "engineType": "3.0 TDI quattro",
+    "madeYear": "11.2008 - 05.2017",
+    "kw": "176",
+    "hp": "240",
+    "cc": "2967",
+    "engineCodes": "CPNB, CCWA",
+    "KBA_Numbers": "0588ALX, 0588AOK, 0588AIY"
+  },
+  {
+    "brand": "AUDI",
+    "model": "Q5 (8RB)",
+    "engineType": "3.0 TDI quattro",
+    "madeYear": "06.2012 - 05.2017",
+    "kw": "180",
+    "hp": "245",
+    "cc": "2967",
+    "engineCodes": "CDUD",
+    "KBA_Numbers": "0588AVV, 0588AWC"
+  },
+  {
+    "brand": "AUDI",
+    "model": "Q5 (8RB)",
+    "engineType": "3.0 TDI quattro",
+    "madeYear": "06.2012 - 05.2017",
+    "kw": "184",
+    "hp": "250",
+    "cc": "2967",
+    "engineCodes": "CTBC",
+    "KBA_Numbers": "0588AZV, 0588BAA"
+  },
+  {
+    "brand": "AUDI",
+    "model": "Q5 (8RB)",
+    "engineType": "3.0 TFSI quattro",
+    "madeYear": "06.2012 - 05.2017",
+    "kw": "200",
+    "hp": "272",
+    "cc": "2995",
+    "engineCodes": "CTVA, CTUC",
+    "KBA_Numbers": "0588AVT, 0588AWF"
+  },
+  {
+    "brand": "AUDI",
+    "model": "Q5 (8RB)",
+    "engineType": "3.2 FSI quattro",
+    "madeYear": "11.2008 - 12.2012",
+    "kw": "199",
+    "hp": "270",
+    "cc": "3197",
+    "engineCodes": "CALB",
+    "KBA_Numbers": "0588ALW, 0588AOJ, 0588AJX"
+  }
+]
