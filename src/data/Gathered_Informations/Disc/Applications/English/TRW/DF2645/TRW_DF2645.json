@@ -19,7 +19,7 @@
     "hp": "116",
     "cc": "1998",
     "engineCodes": "X 20 SE",
-    "KBA_Numbers": "0039905  0035330"
+    "KBA_Numbers": "0039905, 0035330"
   },
   {
     "brand": "OPEL",
@@ -41,7 +41,7 @@
     "hp": "136",
     "cc": "1998",
     "engineCodes": "X 20 XEV",
-    "KBA_Numbers": "0039906  0035331"
+    "KBA_Numbers": "0039906, 0035331"
   },
   {
     "brand": "OPEL",
@@ -62,7 +62,7 @@
     "kw": "106",
     "hp": "144",
     "cc": "2198",
-    "engineCodes": "Y 22 XE  Z 22 XE",
+    "engineCodes": "Y 22 XE, Z 22 XE",
     "KBA_Numbers": "0035382"
   },
   {
@@ -95,7 +95,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "2498",
-    "engineCodes": "Y 25 DT  Y 25 TD",
+    "engineCodes": "Y 25 DT, Y 25 TD",
     "KBA_Numbers": "0035434"
   },
   {
@@ -106,8 +106,8 @@
     "kw": "96",
     "hp": "130",
     "cc": "2498",
-    "engineCodes": "U 25 DT  U 25 TD  X 25 TD  X 25 DT  25 DT",
-    "KBA_Numbers": "0039908  0035334"
+    "engineCodes": "U 25 DT, U 25 TD, X 25 TD, X 25 DT, 25 DT",
+    "KBA_Numbers": "0039908, 0035334"
   },
   {
     "brand": "OPEL",
@@ -118,7 +118,7 @@
     "hp": "170",
     "cc": "2498",
     "engineCodes": "X 25 XE",
-    "KBA_Numbers": "0039907  0035332"
+    "KBA_Numbers": "0039907, 0035332"
   },
   {
     "brand": "OPEL",
@@ -140,7 +140,7 @@
     "hp": "211",
     "cc": "2962",
     "engineCodes": "X 30 XE",
-    "KBA_Numbers": "0039909  0035333"
+    "KBA_Numbers": "0039909, 0035333"
   },
   {
     "brand": "OPEL",
@@ -162,7 +162,7 @@
     "hp": "116",
     "cc": "1998",
     "engineCodes": "X 20 SE",
-    "KBA_Numbers": "0035335  0039910"
+    "KBA_Numbers": "0035335, 0039910"
   },
   {
     "brand": "OPEL",
@@ -173,7 +173,7 @@
     "hp": "136",
     "cc": "1998",
     "engineCodes": "X 20 XEV",
-    "KBA_Numbers": "0035336  0039911"
+    "KBA_Numbers": "0035336, 0039911"
   },
   {
     "brand": "OPEL",
@@ -194,7 +194,7 @@
     "kw": "106",
     "hp": "144",
     "cc": "2198",
-    "engineCodes": "Y 22 XE  Z 22 XE",
+    "engineCodes": "Y 22 XE, Z 22 XE",
     "KBA_Numbers": "0035383"
   },
   {
@@ -227,7 +227,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "2498",
-    "engineCodes": "Y 25 TD  Y 25 DT",
+    "engineCodes": "Y 25 TD, Y 25 DT",
     "KBA_Numbers": "0035433"
   },
   {
@@ -238,8 +238,8 @@
     "kw": "96",
     "hp": "131",
     "cc": "2498",
-    "engineCodes": "U 25 TD  U 25 DT  X 25 TD  X 25 DT  25 DT",
-    "KBA_Numbers": "0035339  0039913"
+    "engineCodes": "U 25 TD, U 25 DT, X 25 TD, X 25 DT, 25 DT",
+    "KBA_Numbers": "0035339, 0039913"
   },
   {
     "brand": "OPEL",
@@ -250,7 +250,7 @@
     "hp": "170",
     "cc": "2498",
     "engineCodes": "X 25 XE",
-    "KBA_Numbers": "0035337  0039912"
+    "KBA_Numbers": "0035337, 0039912"
   },
   {
     "brand": "OPEL",
@@ -272,7 +272,7 @@
     "hp": "211",
     "cc": "2962",
     "engineCodes": "X 30 XE",
-    "KBA_Numbers": "0035338  0039914"
+    "KBA_Numbers": "0035338, 0039914"
   },
   {
     "brand": "OPEL",
@@ -458,7 +458,7 @@
     "kw": "106",
     "hp": "144",
     "cc": "2198",
-    "engineCodes": "Z 22 XE  Y 22 XE",
+    "engineCodes": "Z 22 XE, Y 22 XE",
     "KBA_Numbers": ""
   },
   {
@@ -480,7 +480,7 @@
     "kw": "96",
     "hp": "131",
     "cc": "2498",
-    "engineCodes": "U 25 TD  U 25 DT  X 25 TD  X 25 DT",
+    "engineCodes": "U 25 TD, U 25 DT, X 25 TD, X 25 DT",
     "KBA_Numbers": ""
   },
   {
@@ -535,7 +535,7 @@
     "kw": "85",
     "hp": "116",
     "cc": "1998",
-    "engineCodes": "X 20 SE  20 SE",
+    "engineCodes": "X 20 SE, 20 SE",
     "KBA_Numbers": ""
   },
   {
@@ -546,7 +546,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "1998",
-    "engineCodes": "20 SE  X 20 SE",
+    "engineCodes": "20 SE, X 20 SE",
     "KBA_Numbers": ""
   },
   {
@@ -590,7 +590,7 @@
     "kw": "106",
     "hp": "144",
     "cc": "2198",
-    "engineCodes": "Z 22 XE  Y 22 XE",
+    "engineCodes": "Z 22 XE, Y 22 XE",
     "KBA_Numbers": ""
   },
   {
@@ -612,7 +612,7 @@
     "kw": "96",
     "hp": "131",
     "cc": "2498",
-    "engineCodes": "X 25 TD  U 25 DT  U 25 TD  X 25 DT",
+    "engineCodes": "X 25 TD, U 25 DT, U 25 TD, X 25 DT",
     "KBA_Numbers": ""
   },
   {

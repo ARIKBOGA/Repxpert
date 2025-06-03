@@ -7,7 +7,7 @@
     "kw": "96",
     "hp": "131",
     "cc": "1988",
-    "engineCodes": "EDBA  EDBD  EDBC  EDBB",
+    "engineCodes": "EDBA, EDBD, EDBC, EDBB",
     "KBA_Numbers": "8566341"
   },
   {
@@ -73,7 +73,7 @@
     "kw": "65",
     "hp": "88",
     "cc": "1753",
-    "engineCodes": "RFN  RFM",
+    "engineCodes": "RFN, RFM",
     "KBA_Numbers": "0928850"
   },
   {
@@ -84,7 +84,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1753",
-    "engineCodes": "RFN  RFM",
+    "engineCodes": "RFN, RFM",
     "KBA_Numbers": "0928945"
   },
   {
@@ -96,7 +96,7 @@
     "hp": "136",
     "cc": "1988",
     "engineCodes": "NGA",
-    "KBA_Numbers": "0928296  0928835"
+    "KBA_Numbers": "0928296, 0928835"
   },
   {
     "brand": "FORD",
@@ -172,7 +172,7 @@
     "kw": "65",
     "hp": "88",
     "cc": "1753",
-    "engineCodes": "RFN  RFM",
+    "engineCodes": "RFN, RFM",
     "KBA_Numbers": "0928851"
   },
   {
@@ -183,7 +183,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1753",
-    "engineCodes": "RFN  RFM",
+    "engineCodes": "RFN, RFM",
     "KBA_Numbers": "0928946"
   },
   {
@@ -195,7 +195,7 @@
     "hp": "136",
     "cc": "1988",
     "engineCodes": "NGA",
-    "KBA_Numbers": "0928297  0928836"
+    "KBA_Numbers": "0928297, 0928836"
   },
   {
     "brand": "FORD",
@@ -282,7 +282,7 @@
     "kw": "65",
     "hp": "88",
     "cc": "1753",
-    "engineCodes": "RFN  RFM",
+    "engineCodes": "RFN, RFM",
     "KBA_Numbers": "0928844"
   },
   {
@@ -293,7 +293,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1753",
-    "engineCodes": "RFN  RFM",
+    "engineCodes": "RFN, RFM",
     "KBA_Numbers": "0928947"
   },
   {
@@ -359,7 +359,7 @@
     "kw": "70",
     "hp": "95",
     "cc": "1597",
-    "engineCodes": "L1L  L1N  L1Q",
+    "engineCodes": "L1L, L1N, L1Q",
     "KBA_Numbers": "8566344"
   },
   {
@@ -370,7 +370,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "1796",
-    "engineCodes": "RKB  RKJ  RKF  RKH  RKK",
+    "engineCodes": "RKB, RKJ, RKF, RKH, RKK",
     "KBA_Numbers": "8566306"
   },
   {
@@ -392,7 +392,7 @@
     "kw": "96",
     "hp": "131",
     "cc": "1988",
-    "engineCodes": "NGD  NGB  NGC  NGA",
+    "engineCodes": "NGD, NGB, NGC, NGA",
     "KBA_Numbers": "8566308"
   },
   {
@@ -414,7 +414,7 @@
     "kw": "70",
     "hp": "95",
     "cc": "1597",
-    "engineCodes": "L1L  L1N  L1Q",
+    "engineCodes": "L1L, L1N, L1Q",
     "KBA_Numbers": "8566343"
   },
   {
@@ -425,7 +425,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "1796",
-    "engineCodes": "RKB  RKJ  RKF  RKK  RKH",
+    "engineCodes": "RKB, RKJ, RKF, RKK, RKH",
     "KBA_Numbers": "8566301"
   },
   {
@@ -447,7 +447,7 @@
     "kw": "96",
     "hp": "131",
     "cc": "1988",
-    "engineCodes": "NGB  NGC  NGD  NGA",
+    "engineCodes": "NGB, NGC, NGD, NGA",
     "KBA_Numbers": "8566303"
   },
   {
@@ -469,7 +469,7 @@
     "kw": "70",
     "hp": "95",
     "cc": "1597",
-    "engineCodes": "L1N  L1L  L1Q",
+    "engineCodes": "L1N, L1L, L1Q",
     "KBA_Numbers": "0928286"
   },
   {
@@ -480,7 +480,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "1796",
-    "engineCodes": "RKB  RKJ  RKF  RKK  RKH  RKA",
+    "engineCodes": "RKB, RKJ, RKF, RKK, RKH, RKA",
     "KBA_Numbers": "0928842"
   },
   {
@@ -502,7 +502,7 @@
     "kw": "96",
     "hp": "131",
     "cc": "1988",
-    "engineCodes": "NGB  NGD  NGC  NGA",
+    "engineCodes": "NGB, NGD, NGC, NGA",
     "KBA_Numbers": "0928967"
   },
   {
@@ -536,7 +536,7 @@
     "hp": "115",
     "cc": "1998",
     "engineCodes": "NSD",
-    "KBA_Numbers": "0928888  0928892"
+    "KBA_Numbers": "0928888, 0928892"
   },
   {
     "brand": "FORD",
@@ -547,7 +547,7 @@
     "hp": "136",
     "cc": "1998",
     "engineCodes": "N3A",
-    "KBA_Numbers": "0928889  0928894"
+    "KBA_Numbers": "0928889, 0928894"
   },
   {
     "brand": "FORD",
@@ -558,7 +558,7 @@
     "hp": "147",
     "cc": "2295",
     "engineCodes": "Y5A",
-    "KBA_Numbers": "0928957  0928959"
+    "KBA_Numbers": "0928957, 0928959"
   },
   {
     "brand": "FORD",
@@ -569,7 +569,7 @@
     "hp": "115",
     "cc": "2500",
     "engineCodes": "SCC",
-    "KBA_Numbers": "0928891  0928898"
+    "KBA_Numbers": "0928891, 0928898"
   },
   {
     "brand": "FORD",
@@ -579,8 +579,8 @@
     "kw": "92",
     "hp": "125",
     "cc": "2499",
-    "engineCodes": "VM  SCD",
-    "KBA_Numbers": "0928298  0928299"
+    "engineCodes": "VM, SCD",
+    "KBA_Numbers": "0928298, 0928299"
   },
   {
     "brand": "FORD",
@@ -591,7 +591,7 @@
     "hp": "150",
     "cc": "2933",
     "engineCodes": "BRG",
-    "KBA_Numbers": "0928911  0928915"
+    "KBA_Numbers": "0928911, 0928915"
   },
   {
     "brand": "FORD",
@@ -602,7 +602,7 @@
     "hp": "115",
     "cc": "1998",
     "engineCodes": "NSD",
-    "KBA_Numbers": "0928893  0928900"
+    "KBA_Numbers": "0928893, 0928900"
   },
   {
     "brand": "FORD",
@@ -613,7 +613,7 @@
     "hp": "136",
     "cc": "1998",
     "engineCodes": "N3A",
-    "KBA_Numbers": "0928895  0928901"
+    "KBA_Numbers": "0928895, 0928901"
   },
   {
     "brand": "FORD",
@@ -624,7 +624,7 @@
     "hp": "147",
     "cc": "2295",
     "engineCodes": "Y5A",
-    "KBA_Numbers": "0928958  0928960"
+    "KBA_Numbers": "0928958, 0928960"
   },
   {
     "brand": "FORD",
@@ -635,7 +635,7 @@
     "hp": "115",
     "cc": "2500",
     "engineCodes": "SCC",
-    "KBA_Numbers": "0928899  0928903"
+    "KBA_Numbers": "0928899, 0928903"
   },
   {
     "brand": "FORD",
@@ -645,8 +645,8 @@
     "kw": "92",
     "hp": "125",
     "cc": "2499",
-    "engineCodes": "VM  SCD",
-    "KBA_Numbers": "0928300  0928969"
+    "engineCodes": "VM, SCD",
+    "KBA_Numbers": "0928300, 0928969"
   },
   {
     "brand": "FORD",
@@ -657,6 +657,6 @@
     "hp": "150",
     "cc": "2933",
     "engineCodes": "BRG",
-    "KBA_Numbers": "0928912  0928916"
+    "KBA_Numbers": "0928912, 0928916"
   }
 ]

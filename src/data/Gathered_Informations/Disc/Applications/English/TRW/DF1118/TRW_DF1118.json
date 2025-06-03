@@ -63,7 +63,7 @@
     "hp": "69",
     "cc": "1796",
     "engineCodes": "169 (XM7T)",
-    "KBA_Numbers": "3001423  3001502"
+    "KBA_Numbers": "3001423, 3001502"
   },
   {
     "brand": "CITROËN",
@@ -74,7 +74,7 @@
     "hp": "69",
     "cc": "1905",
     "engineCodes": "D9B (XUD9A/U)",
-    "KBA_Numbers": "3001200  3001510"
+    "KBA_Numbers": "3001200, 3001510"
   },
   {
     "brand": "CITROËN",
@@ -95,7 +95,7 @@
     "kw": "58",
     "hp": "79",
     "cc": "1971",
-    "engineCodes": "170A (XN1T)  170B (XN1T)",
+    "engineCodes": "170A (XN1T), 170B (XN1T)",
     "KBA_Numbers": "3001424"
   },
   {
@@ -107,7 +107,7 @@
     "hp": "73",
     "cc": "2498",
     "engineCodes": "CRD93L (U25/661)",
-    "KBA_Numbers": "3001202  3001204  3001425  3001426  3001504  3001505  3001511  3001517  3001518"
+    "KBA_Numbers": "3001202, 3001204, 3001425, 3001426, 3001504, 3001505, 3001511, 3001517, 3001518"
   },
   {
     "brand": "CITROËN",
@@ -129,7 +129,7 @@
     "hp": "95",
     "cc": "2500",
     "engineCodes": "CRD93LS (U25/673)",
-    "KBA_Numbers": "3001203  3001205  3001513  3001519  3001520"
+    "KBA_Numbers": "3001203, 3001205, 3001513, 3001519, 3001520"
   },
   {
     "brand": "CITROËN",
@@ -205,7 +205,7 @@
     "kw": "57",
     "hp": "78",
     "cc": "1971",
-    "engineCodes": "170B (XN1T)  170A (XN1T)",
+    "engineCodes": "170B (XN1T), 170A (XN1T)",
     "KBA_Numbers": ""
   },
   {
@@ -238,7 +238,7 @@
     "kw": "58",
     "hp": "79",
     "cc": "1971",
-    "engineCodes": "170A (XN1T)  170B (XN1T)",
+    "engineCodes": "170A (XN1T), 170B (XN1T)",
     "KBA_Numbers": ""
   },
   {
@@ -326,7 +326,7 @@
     "kw": "55",
     "hp": "75",
     "cc": "2500",
-    "engineCodes": "CRD93L (U25-661)  8144.67",
+    "engineCodes": "CRD93L (U25-661), 8144.67",
     "KBA_Numbers": "4001823"
   },
   {
@@ -348,7 +348,7 @@
     "kw": "68",
     "hp": "92",
     "cc": "2445",
-    "engineCodes": "8144.21.220  8144.21",
+    "engineCodes": "8144.21.220, 8144.21",
     "KBA_Numbers": "4001830"
   },
   {
@@ -469,7 +469,7 @@
     "kw": "55",
     "hp": "75",
     "cc": "1971",
-    "engineCodes": "XN 1T  170 B",
+    "engineCodes": "XN 1T, 170 B",
     "KBA_Numbers": "4001508"
   },
   {
@@ -491,7 +491,7 @@
     "kw": "55",
     "hp": "75",
     "cc": "2500",
-    "engineCodes": "8144.67  CRD93L (U25-661)",
+    "engineCodes": "8144.67, CRD93L (U25-661)",
     "KBA_Numbers": "4001509"
   },
   {
@@ -514,7 +514,7 @@
     "hp": "92",
     "cc": "2445",
     "engineCodes": "8144.21",
-    "KBA_Numbers": "4001510  4001533"
+    "KBA_Numbers": "4001510, 4001533"
   },
   {
     "brand": "FIAT",
@@ -536,7 +536,7 @@
     "hp": "84",
     "cc": "1971",
     "engineCodes": "170 D",
-    "KBA_Numbers": "4001549  4001556"
+    "KBA_Numbers": "4001549, 4001556"
   },
   {
     "brand": "FIAT",
@@ -558,7 +558,7 @@
     "hp": "75",
     "cc": "2500",
     "engineCodes": "8144.67",
-    "KBA_Numbers": "4001546  4001553"
+    "KBA_Numbers": "4001546, 4001553"
   },
   {
     "brand": "FIAT",
@@ -591,7 +591,7 @@
     "hp": "67",
     "cc": "1796",
     "engineCodes": "169 B",
-    "KBA_Numbers": "4001504  4001507"
+    "KBA_Numbers": "4001504, 4001507"
   },
   {
     "brand": "FIAT",
@@ -678,7 +678,7 @@
     "kw": "55",
     "hp": "75",
     "cc": "2500",
-    "engineCodes": "CRD93L (U25-661)  8144.67",
+    "engineCodes": "CRD93L (U25-661), 8144.67",
     "KBA_Numbers": "4001531"
   },
   {
@@ -700,7 +700,7 @@
     "kw": "55",
     "hp": "75",
     "cc": "2445",
-    "engineCodes": "8144.61  8140.61",
+    "engineCodes": "8144.61, 8140.61",
     "KBA_Numbers": ""
   },
   {
@@ -877,7 +877,7 @@
     "hp": "73",
     "cc": "2498",
     "engineCodes": "CRD93 (PSA)",
-    "KBA_Numbers": "3003459  3003474"
+    "KBA_Numbers": "3003459, 3003474"
   },
   {
     "brand": "PEUGEOT",
@@ -976,7 +976,7 @@
     "hp": "73",
     "cc": "2500",
     "engineCodes": "CRD93 (PSA)",
-    "KBA_Numbers": "3003008  3003009"
+    "KBA_Numbers": "3003008, 3003009"
   },
   {
     "brand": "PEUGEOT",
@@ -998,7 +998,7 @@
     "hp": "84",
     "cc": "1971",
     "engineCodes": "170D (XN1TACP)",
-    "KBA_Numbers": "3003017  3003023"
+    "KBA_Numbers": "3003017, 3003023"
   },
   {
     "brand": "PEUGEOT",
@@ -1009,7 +1009,7 @@
     "hp": "73",
     "cc": "2500",
     "engineCodes": "CRD93 (PSA)",
-    "KBA_Numbers": "3003013  3003019"
+    "KBA_Numbers": "3003013, 3003019"
   },
   {
     "brand": "PEUGEOT",
@@ -1053,7 +1053,7 @@
     "hp": "69",
     "cc": "1796",
     "engineCodes": "169B (XM7T)",
-    "KBA_Numbers": "3003006  3003010"
+    "KBA_Numbers": "3003006, 3003010"
   },
   {
     "brand": "PEUGEOT",
@@ -1063,7 +1063,7 @@
     "kw": "51",
     "hp": "69",
     "cc": "1905",
-    "engineCodes": "XUD9  D9B (XUD9A)",
+    "engineCodes": "XUD9, D9B (XUD9A)",
     "KBA_Numbers": ""
   },
   {

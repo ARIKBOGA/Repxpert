@@ -8,7 +8,7 @@
     "hp": "69",
     "cc": "1229",
     "engineCodes": "LWD",
-    "KBA_Numbers": "8265AAY  8265AAZ  8260ACY  8260ACZ"
+    "KBA_Numbers": "8265AAY, 8265AAZ, 8260ACY, 8260ACZ"
   },
   {
     "brand": "CHEVROLET",
@@ -19,7 +19,7 @@
     "hp": "86",
     "cc": "1229",
     "engineCodes": "LDC",
-    "KBA_Numbers": "8265AAW  8265AAX  8260ACW  8260ACX"
+    "KBA_Numbers": "8265AAW, 8265AAX, 8260ACW, 8260ACX"
   },
   {
     "brand": "CHEVROLET",
@@ -30,7 +30,7 @@
     "hp": "86",
     "cc": "1229",
     "engineCodes": "LDC",
-    "KBA_Numbers": "8265ADD  8265ADE"
+    "KBA_Numbers": "8265ADD, 8265ADE"
   },
   {
     "brand": "CHEVROLET",
@@ -41,7 +41,7 @@
     "hp": "75",
     "cc": "1248",
     "engineCodes": "LDV",
-    "KBA_Numbers": "8265ACA  8265ACB"
+    "KBA_Numbers": "8265ACA, 8265ACB"
   },
   {
     "brand": "CHEVROLET",
@@ -52,7 +52,7 @@
     "hp": "95",
     "cc": "1248",
     "engineCodes": "LSF",
-    "KBA_Numbers": "8265ACC  8265ACD"
+    "KBA_Numbers": "8265ACC, 8265ACD"
   },
   {
     "brand": "CHEVROLET",
@@ -63,7 +63,7 @@
     "hp": "101",
     "cc": "1398",
     "engineCodes": "LDD",
-    "KBA_Numbers": "8265ABB  8265ABA  8260ADA  8260ADB"
+    "KBA_Numbers": "8265ABB, 8265ABA, 8260ADA, 8260ADB"
   },
   {
     "brand": "CHEVROLET",
@@ -73,8 +73,8 @@
     "kw": "85",
     "hp": "116",
     "cc": "1598",
-    "engineCodes": "LDE  F16D4",
-    "KBA_Numbers": "8265ABC  8265ABD  8260ADC  8260ADD"
+    "engineCodes": "LDE, F16D4",
+    "KBA_Numbers": "8265ABC, 8265ABD, 8260ADC, 8260ADD"
   },
   {
     "brand": "CHEVROLET",
@@ -150,7 +150,7 @@
     "kw": "85",
     "hp": "116",
     "cc": "1598",
-    "engineCodes": "LDE  F16D4",
+    "engineCodes": "LDE, F16D4",
     "KBA_Numbers": "8265ABW"
   }
 ]
