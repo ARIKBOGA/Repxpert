@@ -22,7 +22,7 @@ let retryList = readJsonFile<string[]>(retryListFilePath, []);
 
 test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
 
-  for (const ref of discPairs) {
+  for (const ref of references) {
 
     const { yvNo, brandRefs } = ref;
 
@@ -63,8 +63,8 @@ test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
         await page.waitForTimeout(500); // Kısa bekleme
 
         const productTitle = (await getTextContent(page.locator(".h1").nth(0))) || "Unknown Product";
-        const productProducer = productTitle.split(" ")[0];
-        const productID = productTitle.substring(productTitle.indexOf(" ")).trim();
+        const productProducer = productTitle.substring(0, productTitle.lastIndexOf(" ")).trim();
+        const productID = productTitle.substring(productTitle.lastIndexOf(" ")).trim();
         const brands = page.locator(selector.aria_level_1_brand);
 
         const applications = new Array<Application>();

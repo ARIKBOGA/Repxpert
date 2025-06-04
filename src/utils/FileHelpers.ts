@@ -67,44 +67,105 @@ export const padPairs: ProductReference[] = [
 //544	21158401	#YOK	STANDART VERSİYON I	GDB351	2115801	21158
 
 export const discPairs: ProductReference[] = [
-  //{ yvNo: "261579", brandRefs: { "BREMBO": "09.B630.10" } }, // 40206EB70B
-  //{ yvNo: "511578", brandRefs: { "BREMBO": "09.B524.10" } }, // 43512B1030
-  //{ yvNo: "511576", brandRefs: { "BREMBO": "08.9138.10" } }, // 4351297204
-  //{ yvNo: "341575", brandRefs: { "BREMBO": "08.A273.10" } }, // 4243112250
-  //{ yvNo: "261574", brandRefs: { "BREMBO": "09.7263.30" } }, // 432079X100
-  //{ yvNo: "531572", brandRefs: { "FREMAX": "BD-5452" } }, // 13514522       **************************
-  //{ yvNo: "531571", brandRefs: { "BOSCH": "0 986 479 W30" } }, // 22950036
-  //{ yvNo: "581573", brandRefs: { "BREMBO": "09.A402.10" } }, // 780255
-  //{ yvNo: "731570", brandRefs: { "TEXTAR": "92343203" } }, // 10174827      **************************
-  //{ yvNo: "681569", brandRefs: { "FREMAX": "BD-4438" } }, // T153502075EP   **************************
-  //{ yvNo: "34759CS", brandRefs: { "BREMBO": "09.E229.1X" } }, // 4351202390
-  //{ yvNo: "15672CS", brandRefs: { "BREMBO": "09.D218.11" } }, // 45251T1GG01
-  //{ yvNo: "52657CS", brandRefs: { "BREMBO": "09.9793.1X" } }, // 34216783754
-  //{ yvNo: "301520", brandRefs: { "BREMBO": "08.A135.17" } }, // 432004943R
-  //{ yvNo: "30438CS", brandRefs: { "BREMBO": "09.A727.1X" } }, // 402060010R
-  //{ yvNo: "15443CS", brandRefs: { "BREMBO": "09.A866.1X" } }, // 45251SWWG01
-  //{ yvNo: "18486CS", brandRefs: { "BREMBO": "09.A807.11" } }, // 517120Z000
-  //{ yvNo: "511089", brandRefs: { "TEXTAR": "94036400" } }, // 42431B1020
-  //{ yvNo: "261090", brandRefs: { "TRW": "DB4141" } }, // 43206VM00B
-  //{ yvNo: "261091", brandRefs: { "TEXTAR": "94026900" } }, // 432064M400
-  //{ yvNo: "341092", brandRefs: { "TEXTAR": "94045200" } }, // 424310D030
-  //{ yvNo: "681569", brandRefs: { JNBK: "RN2502" } }, // T153502075EP - FREMAX - BD-4438
-  //{ yvNo: "731570", brandRefs: { JNBK: "RN2530V" } }, // 10174827 - TEXTAR - 92343203
-  //{ yvNo: "531572", brandRefs: { JNBK: "RN2289V" } }, // 582458R - FREMAX - BD-5452
-  //{ yvNo: "511577", brandRefs: { JNBK: "RN2452V" } }, // 43512BZ100
-  //{ yvNo: "36168", brandRefs: { ICER: "78BD4063-2" } },
   
-  { yvNo: "28052", brandRefs: { TRW: "DF1215" } },//-------
-  { yvNo: "25240", brandRefs: { TRW: "DF7366" } },//-------
-  { yvNo: "25236", brandRefs: { TRW: "DF7420" } },//-------
-
-  { yvNo: "18150", brandRefs: { TRW: "DF7683" } },//-------
-
-  { yvNo: "63417", brandRefs: { TRW: "DF4241" } },//-------
-  { yvNo: "63418", brandRefs: { TRW: "DF4242" } },//-------
-  { yvNo: "30478", brandRefs: { TRW: "DF6043BS" } },//-------
- 
-  //{ yvNo: "34575", brandRefs: { TEXTAR: "92274903 / 92230403" } }
+  { yvNo: "13003", brandRefs: { KRAFTVOLL: "07040962" } },
+  { yvNo: "18068", brandRefs: { KRAFTVOLL: "07040294" } },
+  { yvNo: "43134", brandRefs: { KRAFTVOLL: "07040208" } },
+  { yvNo: "43188", brandRefs: { KRAFTVOLL: "07040327" } },
+  { yvNo: "25240", brandRefs: { KRAFTVOLL: "07040323" } },
+  { yvNo: "59239", brandRefs: { KRAFTVOLL: "07040105" } },
+  { yvNo: "33247", brandRefs: { KRAFTVOLL: "07040012" } },
+  { yvNo: "43255", brandRefs: { KRAFTVOLL: "07040251" } },
+  { yvNo: "49113", brandRefs: { KRAFTVOLL: "07040244" } },
+  { yvNo: "43302", brandRefs: { KRAFTVOLL: "07040280" } },
+  { yvNo: "49306", brandRefs: { KRAFTVOLL: "07040189" } },
+  { yvNo: "53338", brandRefs: { KRAFTVOLL: "07040319" } },
+  { yvNo: "28341", brandRefs: { KRAFTVOLL: "07040003" } },
+  { yvNo: "25236", brandRefs: { KRAFTVOLL: "07040124" } },
+  { yvNo: "59354", brandRefs: { KRAFTVOLL: "07040268" } },
+  { yvNo: "25368", brandRefs: { KRAFTVOLL: "07040326" } },
+  { yvNo: "40369", brandRefs: { KRAFTVOLL: "07040330" } },
+  { yvNo: "18150", brandRefs: { KRAFTVOLL: "07040264" } },
+  { yvNo: "43398", brandRefs: { KRAFTVOLL: "07040289" } },
+  { yvNo: "43399", brandRefs: { KRAFTVOLL: "07040309" } },
+  { yvNo: "63417", brandRefs: { KRAFTVOLL: "07040607" } },
+  { yvNo: "63418", brandRefs: { KRAFTVOLL: "07040608" } },
+  { yvNo: "18436", brandRefs: { KRAFTVOLL: "07040352" } },
+  { yvNo: "43464", brandRefs: { KRAFTVOLL: "07040283" } },
+  { yvNo: "43465", brandRefs: { KRAFTVOLL: "07040334" } },
+  { yvNo: "25439", brandRefs: { KRAFTVOLL: "07040589" } },
+  { yvNo: "32472", brandRefs: { KRAFTVOLL: "07040246" } },
+  { yvNo: "18489", brandRefs: { KRAFTVOLL: "07040167" } },
+  { yvNo: "40527", brandRefs: { KRAFTVOLL: "07040140" } },
+  { yvNo: "69556", brandRefs: { KRAFTVOLL: "07040083" } },
+  { yvNo: "18566", brandRefs: { KRAFTVOLL: "07040092" } },
+  { yvNo: "34575", brandRefs: { KRAFTVOLL: "07040142" } },
+  { yvNo: "13577", brandRefs: { KRAFTVOLL: "07040260" } },
+  { yvNo: "69592", brandRefs: { KRAFTVOLL: "07040400" } },
+  { yvNo: "15672", brandRefs: { KRAFTVOLL: "07040428" } },
+  { yvNo: "13680", brandRefs: { KRAFTVOLL: "07040599" } },
+  { yvNo: "40748", brandRefs: { KRAFTVOLL: "07040621" } },
+  { yvNo: "25730", brandRefs: { KRAFTVOLL: "07040489" } },
+  { yvNo: "15785", brandRefs: { KRAFTVOLL: "07040808" } },
+  { yvNo: "16795", brandRefs: { KRAFTVOLL: "07040614" } },
+  { yvNo: "25902", brandRefs: { KRAFTVOLL: "07040688" } },
+  { yvNo: "40903", brandRefs: { KRAFTVOLL: "07040622" } },
+  { yvNo: "40904", brandRefs: { KRAFTVOLL: "07040623" } },
+  { yvNo: "25905", brandRefs: { KRAFTVOLL: "07040689" } },
+  { yvNo: "25909", brandRefs: { KRAFTVOLL: "07041088" } },
+  { yvNo: "25910", brandRefs: { KRAFTVOLL: "07050074" } },
+  { yvNo: "15676CS", brandRefs: { KRAFTVOLL: "07040986" } },
+  { yvNo: "15677CS", brandRefs: { KRAFTVOLL: "07040987" } },
+  { yvNo: "15785CS", brandRefs: { KRAFTVOLL: "07040989" } },
+  { yvNo: "24814CS", brandRefs: { KRAFTVOLL: "07041021" } },
+  { yvNo: "24831CS", brandRefs: { KRAFTVOLL: "07041023" } },
+  { yvNo: "27590CS", brandRefs: { KRAFTVOLL: "07041026" } },
+  { yvNo: "27756CS", brandRefs: { KRAFTVOLL: "07041027" } },
+  { yvNo: "28405CS", brandRefs: { KRAFTVOLL: "07041029" } },
+  { yvNo: "28679CS", brandRefs: { KRAFTVOLL: "07041030" } },
+  { yvNo: "28770CS", brandRefs: { KRAFTVOLL: "07041031" } },
+  { yvNo: "30513CS", brandRefs: { KRAFTVOLL: "07041033" } },
+  { yvNo: "33375CS", brandRefs: { KRAFTVOLL: "07041035" } },
+  { yvNo: "36178CS", brandRefs: { KRAFTVOLL: "07041037" } },
+  { yvNo: "36313CS", brandRefs: { KRAFTVOLL: "07041039" } },
+  { yvNo: "36461CS", brandRefs: { KRAFTVOLL: "07041040" } },
+  { yvNo: "36567CS", brandRefs: { KRAFTVOLL: "07041041" } },
+  { yvNo: "36753CS", brandRefs: { KRAFTVOLL: "07041043" } },
+  { yvNo: "36758CS", brandRefs: { KRAFTVOLL: "07041044" } },
+  { yvNo: "36920CS", brandRefs: { KRAFTVOLL: "07041045" } },
+  { yvNo: "36925CS", brandRefs: { KRAFTVOLL: "07041046" } },
+  { yvNo: "41423CS", brandRefs: { KRAFTVOLL: "07041049" } },
+  { yvNo: "52536CS", brandRefs: { KRAFTVOLL: "07041057" } },
+  { yvNo: "52541CS", brandRefs: { KRAFTVOLL: "07041058" } },
+  { yvNo: "52887CS", brandRefs: { KRAFTVOLL: "07041077" } },
+  { yvNo: "15112CS", brandRefs: { KRAFTVOLL: "07040982" } },
+  { yvNo: "15245CS", brandRefs: { KRAFTVOLL: "07040983" } },
+  { yvNo: "15328CS", brandRefs: { KRAFTVOLL: "07040984" } },
+  { yvNo: "15498CS", brandRefs: { KRAFTVOLL: "07040985" } },
+  { yvNo: "24182CS", brandRefs: { KRAFTVOLL: "07041018" } },
+  { yvNo: "30220CS", brandRefs: { KRAFTVOLL: "07041032" } },
+  { yvNo: "36193CS", brandRefs: { KRAFTVOLL: "07041038" } },
+  { yvNo: "36750CS", brandRefs: { KRAFTVOLL: "07041042" } },
+  { yvNo: "36926CS", brandRefs: { KRAFTVOLL: "07041047" } },
+  { yvNo: "24654CS", brandRefs: { KRAFTVOLL: "07041019" } },
+  { yvNo: "36116CS", brandRefs: { KRAFTVOLL: "07041036" } },
+  { yvNo: "161062", brandRefs: { KRAFTVOLL: "07040990" } },
+  { yvNo: "161063", brandRefs: { KRAFTVOLL: "07040991" } },
+  { yvNo: "53477CS", brandRefs: { KRAFTVOLL: "07041078" } },
+  { yvNo: "201076", brandRefs: { KRAFTVOLL: "07041007" } },
+  { yvNo: "201077", brandRefs: { KRAFTVOLL: "07041008" } },
+  { yvNo: "28122CS", brandRefs: { KRAFTVOLL: "07041028" } },
+  { yvNo: "13986C", brandRefs: { KRAFTVOLL: "07040981" } },
+  { yvNo: "13680CS", brandRefs: { KRAFTVOLL: "07040979" } },
+  { yvNo: "13681CS", brandRefs: { KRAFTVOLL: "07040980" } },
+  { yvNo: "36938CS", brandRefs: { KRAFTVOLL: "07041048" } },
+  { yvNo: "401539", brandRefs: { KRAFTVOLL: "07041086" } },
+  { yvNo: "681546", brandRefs: { KRAFTVOLL: "07040959" } },
+  { yvNo: "681547", brandRefs: { KRAFTVOLL: "07040960" } },
+  { yvNo: "761548", brandRefs: { KRAFTVOLL: "07041016" } },
+  { yvNo: "761549", brandRefs: { KRAFTVOLL: "07041017" } },
+  { yvNo: "131553", brandRefs: { KRAFTVOLL: "07041082" } },
+  { yvNo: "131554", brandRefs: { KRAFTVOLL: "07041083" } },
 ];
 
 export const crankshaftPairs: ProductReference[] = [
