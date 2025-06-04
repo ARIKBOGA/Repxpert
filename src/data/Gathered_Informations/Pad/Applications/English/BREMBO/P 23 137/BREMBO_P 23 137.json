@@ -8,7 +8,7 @@
     "hp": "135",
     "cc": "1368",
     "engineCodes": "312 A1.000",
-    "KBA_Numbers": "4136ALM  1727AJS"
+    "KBA_Numbers": "4136ALM, 1727AJS"
   },
   {
     "brand": "ABARTH",
@@ -19,7 +19,7 @@
     "hp": "140",
     "cc": "1368",
     "engineCodes": "312 A3.000",
-    "KBA_Numbers": "4136APY  1727ABA"
+    "KBA_Numbers": "4136APY, 1727ABA"
   },
   {
     "brand": "ABARTH",
@@ -30,7 +30,7 @@
     "hp": "145",
     "cc": "1368",
     "engineCodes": "312 B4.000",
-    "KBA_Numbers": "1727AJU  2424AAZ"
+    "KBA_Numbers": "1727AJU, 2424AAZ"
   },
   {
     "brand": "ABARTH",
@@ -41,7 +41,7 @@
     "hp": "165",
     "cc": "1368",
     "engineCodes": "312 B3.000",
-    "KBA_Numbers": "1727AJV  2424ABA"
+    "KBA_Numbers": "1727AJV, 2424ABA"
   },
   {
     "brand": "ABARTH",
@@ -52,7 +52,7 @@
     "hp": "163",
     "cc": "1368",
     "engineCodes": "312 B6.000",
-    "KBA_Numbers": "1727AKQ  2424ABB"
+    "KBA_Numbers": "1727AKQ, 2424ABB"
   },
   {
     "brand": "ABARTH",
@@ -73,8 +73,8 @@
     "kw": "118",
     "hp": "160",
     "cc": "1368",
-    "engineCodes": "312 A3.000  312 A1.000  312 B4.000",
-    "KBA_Numbers": "1727AFR  4136AMP"
+    "engineCodes": "312 A3.000, 312 A1.000, 312 B4.000",
+    "KBA_Numbers": "1727AFR, 4136AMP"
   },
   {
     "brand": "ABARTH",
@@ -84,8 +84,8 @@
     "kw": "103",
     "hp": "140",
     "cc": "1368",
-    "engineCodes": "312 A1.000  312 A3.000",
-    "KBA_Numbers": "1727ABA  4136APY"
+    "engineCodes": "312 A1.000, 312 A3.000",
+    "KBA_Numbers": "1727ABA, 4136APY"
   },
   {
     "brand": "ABARTH",
@@ -117,8 +117,8 @@
     "kw": "66",
     "hp": "90",
     "cc": "1248",
-    "engineCodes": "263 A2.000  199 A3.000",
-    "KBA_Numbers": "1727AIG  4136AOF"
+    "engineCodes": "263 A2.000, 199 A3.000",
+    "KBA_Numbers": "1727AIG, 4136AOF"
   },
   {
     "brand": "FIAT",
@@ -128,7 +128,7 @@
     "kw": "70",
     "hp": "95",
     "cc": "1248",
-    "engineCodes": "330 A1.000  552 83 775",
+    "engineCodes": "330 A1.000, 552 83 775",
     "KBA_Numbers": "1727AIQ"
   },
   {
@@ -140,7 +140,7 @@
     "hp": "95",
     "cc": "1368",
     "engineCodes": "843 A1.000",
-    "KBA_Numbers": "1727AIF  4136AOE  1727ALL"
+    "KBA_Numbers": "1727AIF, 4136AOE, 1727ALL"
   },
   {
     "brand": "FIAT",
@@ -151,7 +151,7 @@
     "hp": "120",
     "cc": "1368",
     "engineCodes": "198 A4.000",
-    "KBA_Numbers": "1727AIL  1727ALN  4136AXP"
+    "KBA_Numbers": "1727AIL, 1727ALN, 4136AXP"
   },
   {
     "brand": "FIAT",
@@ -162,7 +162,7 @@
     "hp": "120",
     "cc": "1368",
     "engineCodes": "198 A4.000",
-    "KBA_Numbers": "4136AQB  1727ALM"
+    "KBA_Numbers": "4136AQB, 1727ALM"
   },
   {
     "brand": "FIAT",
@@ -172,8 +172,8 @@
     "kw": "77",
     "hp": "105",
     "cc": "1598",
-    "engineCodes": "263 A8.000  198 A3.000  552 80 444",
-    "KBA_Numbers": "4136APE  4136AOG"
+    "engineCodes": "263 A8.000, 198 A3.000, 552 80 444",
+    "KBA_Numbers": "4136APE, 4136AOG"
   },
   {
     "brand": "FIAT",
@@ -183,7 +183,7 @@
     "kw": "74",
     "hp": "100",
     "cc": "1598",
-    "engineCodes": "263 A3.000  263 A9.000  552 80 444",
+    "engineCodes": "263 A3.000, 263 A9.000, 552 80 444",
     "KBA_Numbers": "1727AII"
   },
   {
@@ -194,7 +194,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1598",
-    "engineCodes": "263 A4.000  263 A5.000",
+    "engineCodes": "263 A4.000, 263 A5.000",
     "KBA_Numbers": "4136ARD"
   },
   {
@@ -205,8 +205,8 @@
     "kw": "88",
     "hp": "120",
     "cc": "1598",
-    "engineCodes": "940 C1.000  552 80 444",
-    "KBA_Numbers": "4136BCW  1727ALO"
+    "engineCodes": "940 C1.000, 552 80 444",
+    "KBA_Numbers": "4136BCW, 1727ALO"
   },
   {
     "brand": "FIAT",
@@ -216,8 +216,8 @@
     "kw": "70",
     "hp": "95",
     "cc": "1598",
-    "engineCodes": "263 A7.000  552 80 444",
-    "KBA_Numbers": "4136BCX  1727ALP"
+    "engineCodes": "263 A7.000, 552 80 444",
+    "KBA_Numbers": "4136BCX, 1727ALP"
   },
   {
     "brand": "FIAT",
@@ -228,7 +228,7 @@
     "hp": "135",
     "cc": "1956",
     "engineCodes": "263 A1.000",
-    "KBA_Numbers": "4136APB  1727AIJ"
+    "KBA_Numbers": "4136APB, 1727AIJ"
   },
   {
     "brand": "FIAT",
@@ -238,8 +238,8 @@
     "kw": "66",
     "hp": "90",
     "cc": "1248",
-    "engineCodes": "263 A2.000  199 A3.000",
-    "KBA_Numbers": "1727AIG  1727AHW  4136APD  4136ARM"
+    "engineCodes": "263 A2.000, 199 A3.000",
+    "KBA_Numbers": "1727AIG, 1727AHW, 4136APD, 4136ARM"
   },
   {
     "brand": "FIAT",
@@ -250,7 +250,7 @@
     "hp": "75",
     "cc": "1248",
     "engineCodes": "263 A6.000",
-    "KBA_Numbers": "4136BBF  1727AIN"
+    "KBA_Numbers": "4136BBF, 1727AIN"
   },
   {
     "brand": "FIAT",
@@ -260,7 +260,7 @@
     "kw": "70",
     "hp": "95",
     "cc": "1248",
-    "engineCodes": "330 A1.000  552 83 775",
+    "engineCodes": "330 A1.000, 552 83 775",
     "KBA_Numbers": "1727AIQ"
   },
   {
@@ -271,7 +271,7 @@
     "kw": "59",
     "hp": "80",
     "cc": "1248",
-    "engineCodes": "225 A2.000  552 83 775",
+    "engineCodes": "225 A2.000, 552 83 775",
     "KBA_Numbers": "1727AIP"
   },
   {
@@ -283,7 +283,7 @@
     "hp": "95",
     "cc": "1368",
     "engineCodes": "843 A1.000",
-    "KBA_Numbers": "1727AIF  4136AQN  4136APC  1727ALL"
+    "KBA_Numbers": "1727AIF, 4136AQN, 4136APC, 1727ALL"
   },
   {
     "brand": "FIAT",
@@ -294,7 +294,7 @@
     "hp": "120",
     "cc": "1368",
     "engineCodes": "198 A4.000",
-    "KBA_Numbers": "1727AIL  1727ALN  4136AXQ"
+    "KBA_Numbers": "1727AIL, 1727ALN, 4136AXQ"
   },
   {
     "brand": "FIAT",
@@ -305,7 +305,7 @@
     "hp": "120",
     "cc": "1368",
     "engineCodes": "198 A4.000",
-    "KBA_Numbers": "4136AQB  4136AQR  1727AIK  1727ALM"
+    "KBA_Numbers": "4136AQB, 4136AQR, 1727AIK, 1727ALM"
   },
   {
     "brand": "FIAT",
@@ -315,8 +315,8 @@
     "kw": "66",
     "hp": "90",
     "cc": "1598",
-    "engineCodes": "263 A5.000  263 A4.000  463 46 020",
-    "KBA_Numbers": "4136AUQ  1727AIA  1727AIM  4136ARE"
+    "engineCodes": "263 A5.000, 263 A4.000, 463 46 020",
+    "KBA_Numbers": "4136AUQ, 1727AIA, 1727AIM, 4136ARE"
   },
   {
     "brand": "FIAT",
@@ -326,8 +326,8 @@
     "kw": "77",
     "hp": "105",
     "cc": "1598",
-    "engineCodes": "263 A8.000  198 A3.000  552 80 444  463 46 020",
-    "KBA_Numbers": "1727AIH  4136AUN  4136AQO  1727AHX"
+    "engineCodes": "263 A8.000, 198 A3.000, 552 80 444, 463 46 020",
+    "KBA_Numbers": "1727AIH, 4136AUN, 4136AQO, 1727AHX"
   },
   {
     "brand": "FIAT",
@@ -337,8 +337,8 @@
     "kw": "88",
     "hp": "120",
     "cc": "1598",
-    "engineCodes": "940 C1.000  552 80 444  463 46 020",
-    "KBA_Numbers": "4136BEF  1727AIO"
+    "engineCodes": "940 C1.000, 552 80 444, 463 46 020",
+    "KBA_Numbers": "4136BEF, 1727AIO"
   },
   {
     "brand": "FIAT",
@@ -348,8 +348,8 @@
     "kw": "74",
     "hp": "100",
     "cc": "1598",
-    "engineCodes": "263 A9.000  263 A3.000  552 80 444  463 46 020",
-    "KBA_Numbers": "1727AII  4136AUO  4136AQP  4136APF"
+    "engineCodes": "263 A9.000, 263 A3.000, 552 80 444, 463 46 020",
+    "KBA_Numbers": "1727AII, 4136AUO, 4136AQP, 4136APF"
   },
   {
     "brand": "FIAT",
@@ -360,7 +360,7 @@
     "hp": "135",
     "cc": "1956",
     "engineCodes": "263 A1.000",
-    "KBA_Numbers": "4136AUP  4136AQQ  1727AHZ  4136APG  1727AIJ"
+    "KBA_Numbers": "4136AUP, 4136AQQ, 1727AHZ, 4136APG, 1727AIJ"
   },
   {
     "brand": "FIAT",
@@ -370,8 +370,8 @@
     "kw": "66",
     "hp": "90",
     "cc": "1248",
-    "engineCodes": "263 A2.000  199 A3.000",
-    "KBA_Numbers": "4136AUM  1727AHW"
+    "engineCodes": "263 A2.000, 199 A3.000",
+    "KBA_Numbers": "4136AUM, 1727AHW"
   },
   {
     "brand": "FIAT",
@@ -382,7 +382,7 @@
     "hp": "75",
     "cc": "1248",
     "engineCodes": "263 A6.000",
-    "KBA_Numbers": "1727AIB  4136BBE"
+    "KBA_Numbers": "1727AIB, 4136BBE"
   },
   {
     "brand": "FIAT",
@@ -392,7 +392,7 @@
     "kw": "59",
     "hp": "80",
     "cc": "1248",
-    "engineCodes": "225 A2.000  552 83 775",
+    "engineCodes": "225 A2.000, 552 83 775",
     "KBA_Numbers": "1727AID"
   },
   {
@@ -403,7 +403,7 @@
     "kw": "70",
     "hp": "95",
     "cc": "1248",
-    "engineCodes": "330 A1.000  552 83 775",
+    "engineCodes": "330 A1.000, 552 83 775",
     "KBA_Numbers": "1727AIE"
   },
   {
@@ -447,8 +447,8 @@
     "kw": "66",
     "hp": "90",
     "cc": "1598",
-    "engineCodes": "263 A5.000  263 A4.000",
-    "KBA_Numbers": "4136AUQ  1727AIA"
+    "engineCodes": "263 A5.000, 263 A4.000",
+    "KBA_Numbers": "4136AUQ, 1727AIA"
   },
   {
     "brand": "FIAT",
@@ -458,8 +458,8 @@
     "kw": "74",
     "hp": "101",
     "cc": "1598",
-    "engineCodes": "263 A9.000  263 A3.000  552 80 444",
-    "KBA_Numbers": "1727AHY  4136APF"
+    "engineCodes": "263 A9.000, 263 A3.000, 552 80 444",
+    "KBA_Numbers": "1727AHY, 4136APF"
   },
   {
     "brand": "FIAT",
@@ -469,8 +469,8 @@
     "kw": "88",
     "hp": "120",
     "cc": "1598",
-    "engineCodes": "940 C1.000  552 80 444",
-    "KBA_Numbers": "4136BEE  1727AIC"
+    "engineCodes": "940 C1.000, 552 80 444",
+    "KBA_Numbers": "4136BEE, 1727AIC"
   },
   {
     "brand": "FIAT",
@@ -480,8 +480,8 @@
     "kw": "77",
     "hp": "105",
     "cc": "1598",
-    "engineCodes": "263 A8.000  198 A3.000  552 80 444",
-    "KBA_Numbers": "4136AQO  1727AHX"
+    "engineCodes": "263 A8.000, 198 A3.000, 552 80 444",
+    "KBA_Numbers": "4136AQO, 1727AHX"
   },
   {
     "brand": "FIAT",
@@ -492,7 +492,7 @@
     "hp": "135",
     "cc": "1956",
     "engineCodes": "263 A1.000",
-    "KBA_Numbers": "4136AQQ  1727AHZ"
+    "KBA_Numbers": "4136AQQ, 1727AHZ"
   },
   {
     "brand": "FIAT",
@@ -502,8 +502,8 @@
     "kw": "70",
     "hp": "95",
     "cc": "1248",
-    "engineCodes": "330 A1.000  199 B1.000  463 45 266",
-    "KBA_Numbers": "4136AQU  1727AIU"
+    "engineCodes": "330 A1.000, 199 B1.000, 463 45 266",
+    "KBA_Numbers": "4136AQU, 1727AIU"
   },
   {
     "brand": "FIAT",
@@ -513,7 +513,7 @@
     "kw": "70",
     "hp": "95",
     "cc": "1248",
-    "engineCodes": "199 B1.000  463 45 266  330 A1.000",
+    "engineCodes": "199 B1.000, 463 45 266, 330 A1.000",
     "KBA_Numbers": "1727AGS"
   },
   {
@@ -524,7 +524,7 @@
     "kw": "59",
     "hp": "80",
     "cc": "1248",
-    "engineCodes": "463 45 266  225 A2.000",
+    "engineCodes": "463 45 266, 225 A2.000",
     "KBA_Numbers": "1727AGR"
   },
   {
@@ -535,7 +535,7 @@
     "kw": "62",
     "hp": "84",
     "cc": "1248",
-    "engineCodes": "199 B4.000  223 A9.000",
+    "engineCodes": "199 B4.000, 223 A9.000",
     "KBA_Numbers": "4136AMD"
   },
   {
@@ -547,7 +547,7 @@
     "hp": "90",
     "cc": "1248",
     "engineCodes": "199 A3.000",
-    "KBA_Numbers": "4136ADC  4136670"
+    "KBA_Numbers": "4136ADC, 4136670"
   },
   {
     "brand": "FIAT",
@@ -580,7 +580,7 @@
     "hp": "120",
     "cc": "1910",
     "engineCodes": "939 A1.000",
-    "KBA_Numbers": "4136ADD  4136671"
+    "KBA_Numbers": "4136ADD, 4136671"
   },
   {
     "brand": "FIAT",
@@ -591,7 +591,7 @@
     "hp": "130",
     "cc": "1910",
     "engineCodes": "199 A5.000",
-    "KBA_Numbers": "4136ADE  4136672"
+    "KBA_Numbers": "4136ADE, 4136672"
   },
   {
     "brand": "FIAT",
@@ -613,7 +613,7 @@
     "hp": "84",
     "cc": "1248",
     "engineCodes": "199 B4.000",
-    "KBA_Numbers": "4136AMD  1727ABS"
+    "KBA_Numbers": "4136AMD, 1727ABS"
   },
   {
     "brand": "FIAT",
@@ -623,8 +623,8 @@
     "kw": "70",
     "hp": "95",
     "cc": "1248",
-    "engineCodes": "330 A1.000  199 B1.000",
-    "KBA_Numbers": "1727AHP  4136ANQ"
+    "engineCodes": "330 A1.000, 199 B1.000",
+    "KBA_Numbers": "1727AHP, 4136ANQ"
   },
   {
     "brand": "FIAT",
@@ -646,7 +646,7 @@
     "hp": "78",
     "cc": "1368",
     "engineCodes": "350 A1.000",
-    "KBA_Numbers": "1727ABI  4136ADA"
+    "KBA_Numbers": "1727ABI, 4136ADA"
   },
   {
     "brand": "FIAT",
@@ -689,7 +689,7 @@
     "kw": "62",
     "hp": "84",
     "cc": "1248",
-    "engineCodes": "199 B4.000  223 A9.000",
+    "engineCodes": "199 B4.000, 223 A9.000",
     "KBA_Numbers": "4136AMD"
   },
   {
@@ -712,7 +712,7 @@
     "hp": "90",
     "cc": "1248",
     "engineCodes": "199 A3.000",
-    "KBA_Numbers": "4136ADC  4136670"
+    "KBA_Numbers": "4136ADC, 4136670"
   },
   {
     "brand": "FIAT",
@@ -788,8 +788,8 @@
     "kw": "70",
     "hp": "95",
     "cc": "1248",
-    "engineCodes": "199 B1.000  330 A1.000  552 83 775",
-    "KBA_Numbers": "4136AQW  1727AGS"
+    "engineCodes": "199 B1.000, 330 A1.000, 552 83 775",
+    "KBA_Numbers": "4136AQW, 1727AGS"
   },
   {
     "brand": "OPEL",
@@ -811,7 +811,7 @@
     "hp": "90",
     "cc": "1248",
     "engineCodes": "A 13 FD",
-    "KBA_Numbers": "0035AZN  0035AZT  0035ARW  0035AVQ"
+    "KBA_Numbers": "0035AZN, 0035AZT, 0035ARW, 0035AVQ"
   },
   {
     "brand": "OPEL",
@@ -833,7 +833,7 @@
     "hp": "95",
     "cc": "1368",
     "engineCodes": "A 14 FP",
-    "KBA_Numbers": "0035AZS  0035ARV"
+    "KBA_Numbers": "0035AZS, 0035ARV"
   },
   {
     "brand": "OPEL",
@@ -844,7 +844,7 @@
     "hp": "120",
     "cc": "1368",
     "engineCodes": "A 14 FC",
-    "KBA_Numbers": "0035AZY  0035AVV"
+    "KBA_Numbers": "0035AZY, 0035AVV"
   },
   {
     "brand": "OPEL",
@@ -855,7 +855,7 @@
     "hp": "120",
     "cc": "1368",
     "engineCodes": "A 14 FC",
-    "KBA_Numbers": "0035AZX  0035ASA"
+    "KBA_Numbers": "0035AZX, 0035ASA"
   },
   {
     "brand": "OPEL",
@@ -866,7 +866,7 @@
     "hp": "90",
     "cc": "1598",
     "engineCodes": "A 16 FDL",
-    "KBA_Numbers": "0035AZR  0035AZZ  0035ASB  0035AVU"
+    "KBA_Numbers": "0035AZR, 0035AZZ, 0035ASB, 0035AVU"
   },
   {
     "brand": "OPEL",
@@ -877,7 +877,7 @@
     "hp": "101",
     "cc": "1598",
     "engineCodes": "A 16 FDH",
-    "KBA_Numbers": "0035AZP  0035AZV  0035ARY  0035AVS"
+    "KBA_Numbers": "0035AZP, 0035AZV, 0035ARY, 0035AVS"
   },
   {
     "brand": "OPEL",
@@ -888,7 +888,7 @@
     "hp": "105",
     "cc": "1598",
     "engineCodes": "A 16 FDH",
-    "KBA_Numbers": "0035AZO  0035AZU  0035ARX  0035AVR"
+    "KBA_Numbers": "0035AZO, 0035AZU, 0035ARX, 0035AVR"
   },
   {
     "brand": "OPEL",
@@ -910,7 +910,7 @@
     "hp": "135",
     "cc": "1956",
     "engineCodes": "A 20 FD",
-    "KBA_Numbers": "0035AZQ  0035AZW  0035ARZ"
+    "KBA_Numbers": "0035AZQ, 0035AZW, 0035ARZ"
   },
   {
     "brand": "OPEL",

@@ -38,9 +38,9 @@
     "engineType": "1.3 TCe 100 (K9N8)",
     "madeYear": "from 08.2018",
     "kw": "75",
-    "hp": "100",
+    "hp": "102",
     "cc": "1332",
-    "engineCodes": "H5H 470  H5H 490",
+    "engineCodes": "H5H 470, H5H 490",
     "KBA_Numbers": "3333BKD"
   },
   {
@@ -51,7 +51,7 @@
     "kw": "85",
     "hp": "116",
     "cc": "1332",
-    "engineCodes": "H5H 450  H5H 470  H5H 490",
+    "engineCodes": "H5H 450, H5H 470, H5H 490",
     "KBA_Numbers": "3333BJK"
   },
   {
@@ -62,7 +62,7 @@
     "kw": "103",
     "hp": "140",
     "cc": "1332",
-    "engineCodes": "H5H 470  H5H 450  H5H 490",
+    "engineCodes": "H5H 470, H5H 450, H5H 490",
     "KBA_Numbers": "3333BJI"
   },
   {
@@ -73,7 +73,7 @@
     "kw": "85",
     "hp": "116",
     "cc": "1461",
-    "engineCodes": "K9K 873  K9K 872  K9K 877  K9K 876",
+    "engineCodes": "K9K 873, K9K 872, K9K 877, K9K 876",
     "KBA_Numbers": "3333BKO"
   },
   {
@@ -95,7 +95,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1461",
-    "engineCodes": "K9K 657  K9K 656",
+    "engineCodes": "K9K 657, K9K 656",
     "KBA_Numbers": "3333BFV"
   },
   {
@@ -161,7 +161,7 @@
     "kw": "85",
     "hp": "116",
     "cc": "1332",
-    "engineCodes": "H5H 470  H5H 450",
+    "engineCodes": "H5H 470, H5H 450",
     "KBA_Numbers": "3333BJH"
   },
   {
@@ -172,7 +172,7 @@
     "kw": "103",
     "hp": "140",
     "cc": "1332",
-    "engineCodes": "H5H 470  H5H 450",
+    "engineCodes": "H5H 470, H5H 450",
     "KBA_Numbers": "3333BJF"
   },
   {
@@ -183,7 +183,7 @@
     "kw": "85",
     "hp": "116",
     "cc": "1461",
-    "engineCodes": "K9K 873  K9K 872  K9K 854  K9K 877  K9K 876",
+    "engineCodes": "K9K 873, K9K 872, K9K 854, K9K 877, K9K 876",
     "KBA_Numbers": "3333BKM"
   },
   {
@@ -194,7 +194,7 @@
     "kw": "70",
     "hp": "95",
     "cc": "1461",
-    "engineCodes": "K9K 872  K9K 854  K9K 876  K9K 877",
+    "engineCodes": "K9K 872, K9K 854, K9K 876, K9K 877",
     "KBA_Numbers": "3333BKL"
   },
   {
@@ -205,7 +205,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1461",
-    "engineCodes": "K9K 648  K9K 657  K9K 656  K9K 646",
+    "engineCodes": "K9K 648, K9K 657, K9K 656, K9K 646",
     "KBA_Numbers": "3333BEX"
   },
   {
@@ -227,7 +227,7 @@
     "kw": "85",
     "hp": "116",
     "cc": "1332",
-    "engineCodes": "H5H 470  H5H 450",
+    "engineCodes": "H5H 470, H5H 450",
     "KBA_Numbers": "3333BMO"
   },
   {
@@ -238,7 +238,7 @@
     "kw": "103",
     "hp": "140",
     "cc": "1332",
-    "engineCodes": "H5H 450  H5H 470  H5H 490",
+    "engineCodes": "H5H 450, H5H 470, H5H 490",
     "KBA_Numbers": "3333BMM"
   },
   {
@@ -249,7 +249,7 @@
     "kw": "85",
     "hp": "115",
     "cc": "1461",
-    "engineCodes": "K9K 873  K9K 872",
+    "engineCodes": "K9K 873, K9K 872",
     "KBA_Numbers": "3333BMQ"
   },
   {
@@ -271,7 +271,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1461",
-    "engineCodes": "K9K 675  K9K 657  K9K 656  K9K 677  K9K 674  K9K 676",
+    "engineCodes": "K9K 675, K9K 657, K9K 656, K9K 677, K9K 674, K9K 676",
     "KBA_Numbers": ""
   }
 ]

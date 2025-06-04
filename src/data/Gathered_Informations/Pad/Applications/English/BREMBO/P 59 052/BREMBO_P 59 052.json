@@ -8,7 +8,7 @@
     "hp": "86",
     "cc": "875",
     "engineCodes": "312 A2.000",
-    "KBA_Numbers": "1727ABQ  4136BAJ"
+    "KBA_Numbers": "1727ABQ, 4136BAJ"
   },
   {
     "brand": "FIAT",
@@ -29,8 +29,8 @@
     "kw": "70",
     "hp": "95",
     "cc": "1248",
-    "engineCodes": "330 A1.000  552 83 775  463 45 266",
-    "KBA_Numbers": "1727ABN  4136BBY"
+    "engineCodes": "330 A1.000, 552 83 775, 463 45 266",
+    "KBA_Numbers": "1727ABN, 4136BBY"
   },
   {
     "brand": "FIAT",
@@ -41,7 +41,7 @@
     "hp": "95",
     "cc": "1368",
     "engineCodes": "843 A1.000",
-    "KBA_Numbers": "1727ABE  4136AYI"
+    "KBA_Numbers": "1727ABE, 4136AYI"
   },
   {
     "brand": "OPEL",
@@ -51,7 +51,7 @@
     "kw": "55",
     "hp": "75",
     "cc": "1248",
-    "engineCodes": "Z 13 DTJ  A 13 DTC",
+    "engineCodes": "Z 13 DTJ, A 13 DTC",
     "KBA_Numbers": "0035AFS"
   },
   {
@@ -73,7 +73,7 @@
     "kw": "70",
     "hp": "95",
     "cc": "1248",
-    "engineCodes": "A 13 DTE  Z 13 DTE  A 13 DTR",
+    "engineCodes": "A 13 DTE, Z 13 DTE, A 13 DTR",
     "KBA_Numbers": "0035AKE"
   },
   {
@@ -84,8 +84,8 @@
     "kw": "55",
     "hp": "75",
     "cc": "1248",
-    "engineCodes": "Z 13 DTJ  A 13 DTC",
-    "KBA_Numbers": "0035ARN  0035ANU"
+    "engineCodes": "Z 13 DTJ, A 13 DTC",
+    "KBA_Numbers": "0035ARN, 0035ANU"
   },
   {
     "brand": "OPEL",
@@ -106,7 +106,7 @@
     "kw": "70",
     "hp": "95",
     "cc": "1248",
-    "engineCodes": "A 13 DTE  A 13 DTR  Z 13 DTE",
+    "engineCodes": "A 13 DTE, A 13 DTR, Z 13 DTE",
     "KBA_Numbers": "0035ANZ"
   },
   {
@@ -117,7 +117,7 @@
     "kw": "55",
     "hp": "75",
     "cc": "1248",
-    "engineCodes": "A 13 DTC  Z 13 DTJ",
+    "engineCodes": "A 13 DTC, Z 13 DTJ",
     "KBA_Numbers": ""
   },
   {
@@ -139,7 +139,7 @@
     "kw": "70",
     "hp": "95",
     "cc": "1248",
-    "engineCodes": "A 13 DTR  A 13 DTE  Z 13 DTE",
+    "engineCodes": "A 13 DTR, A 13 DTE, Z 13 DTE",
     "KBA_Numbers": ""
   },
   {
@@ -150,7 +150,7 @@
     "kw": "55",
     "hp": "75",
     "cc": "1248",
-    "engineCodes": "A 13 DTC  Z 13 DTJ",
+    "engineCodes": "A 13 DTC, Z 13 DTJ",
     "KBA_Numbers": ""
   },
   {
@@ -172,7 +172,7 @@
     "kw": "70",
     "hp": "95",
     "cc": "1248",
-    "engineCodes": "A 13 DTR  A 13 DTE  Z 13 DTE",
+    "engineCodes": "A 13 DTR, A 13 DTE, Z 13 DTE",
     "KBA_Numbers": ""
   }
 ]

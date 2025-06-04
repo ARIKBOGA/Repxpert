@@ -36,6 +36,9 @@ export function getSubfolderNamesSync(dirPath: string): string[] {
 }
 
 export const padPairs: ProductReference[] = [
+
+
+
   { yvNo: "20341401", brandRefs: { "ICER": "180324" } },
   { yvNo: "21201201", brandRefs: { "ICER": "181366" } },
   { yvNo: "21312201", brandRefs: { "ICER": "180752-701" } },
@@ -46,65 +49,28 @@ export const padPairs: ProductReference[] = [
   { yvNo: "22531201", brandRefs: { "ICER": "182198-200" } },
   { yvNo: "23177401", brandRefs: { "ICER": "180674-700" } },
   { yvNo: "23258108", brandRefs: { "ICER": "181271-702" } },
+  { yvNo: "23279401", brandRefs: { "ICER": "180801" } },
   { yvNo: "23554410", brandRefs: { "ICER": "180697-703" } },
   { yvNo: "23775201", brandRefs: { "ICER": "181596" } },
   { yvNo: "23901206", brandRefs: { "ICER": "141103" } },
   { yvNo: "24072401", brandRefs: { "ICER": "181659" } },
+  { yvNo: "24073303", brandRefs: { "ICER": "181845" } },
+  { yvNo: "24073401", brandRefs: { "ICER": "181621-703" } },
+  { yvNo: "24498201", brandRefs: { "ICER": "181799" } },
   { yvNo: "24510201", brandRefs: { "ICER": "181798" } },
   { yvNo: "24710201", brandRefs: { "ICER": "181856" } },
   { yvNo: "24883401", brandRefs: { "ICER": "181925-201" } },
   { yvNo: "26188208", brandRefs: { "ICER": "182410-203" } },
-  { yvNo: "29153401", brandRefs: { "ICER": "141126-700" } }
+  { yvNo: "29153401", brandRefs: { "ICER": "141126-700" } },
+
 
 
 ];
 
-//YV NO		AÇIKLAMA	TRW	Textar	balata:wva no
-//13	21827201	#YOK	STANDART VERSİYON I	GDB1322	2182702	21430
-//235	21934201	#YOK	STANDART VERSİYON I	GDB1344	2193402	21934
-//269	21471401	#YOK	STANDART VERSİYON I	GDB1269	2147102	23945
-//438	24727203	#YOK	SABİT 1 KABLOLU	GDB1864	2472701	24727
-//544	21158401	#YOK	STANDART VERSİYON I	GDB351	2115801	21158
 
 export const discPairs: ProductReference[] = [
-  //{ yvNo: "261579", brandRefs: { "BREMBO": "09.B630.10" } }, // 40206EB70B
-  //{ yvNo: "511578", brandRefs: { "BREMBO": "09.B524.10" } }, // 43512B1030
-  //{ yvNo: "511576", brandRefs: { "BREMBO": "08.9138.10" } }, // 4351297204
-  //{ yvNo: "341575", brandRefs: { "BREMBO": "08.A273.10" } }, // 4243112250
-  //{ yvNo: "261574", brandRefs: { "BREMBO": "09.7263.30" } }, // 432079X100
-  //{ yvNo: "531572", brandRefs: { "FREMAX": "BD-5452" } }, // 13514522       **************************
-  //{ yvNo: "531571", brandRefs: { "BOSCH": "0 986 479 W30" } }, // 22950036
-  //{ yvNo: "581573", brandRefs: { "BREMBO": "09.A402.10" } }, // 780255
-  //{ yvNo: "731570", brandRefs: { "TEXTAR": "92343203" } }, // 10174827      **************************
-  //{ yvNo: "681569", brandRefs: { "FREMAX": "BD-4438" } }, // T153502075EP   **************************
-  //{ yvNo: "34759CS", brandRefs: { "BREMBO": "09.E229.1X" } }, // 4351202390
-  //{ yvNo: "15672CS", brandRefs: { "BREMBO": "09.D218.11" } }, // 45251T1GG01
-  //{ yvNo: "52657CS", brandRefs: { "BREMBO": "09.9793.1X" } }, // 34216783754
-  //{ yvNo: "301520", brandRefs: { "BREMBO": "08.A135.17" } }, // 432004943R
-  //{ yvNo: "30438CS", brandRefs: { "BREMBO": "09.A727.1X" } }, // 402060010R
-  //{ yvNo: "15443CS", brandRefs: { "BREMBO": "09.A866.1X" } }, // 45251SWWG01
-  //{ yvNo: "18486CS", brandRefs: { "BREMBO": "09.A807.11" } }, // 517120Z000
-  //{ yvNo: "511089", brandRefs: { "TEXTAR": "94036400" } }, // 42431B1020
-  //{ yvNo: "261090", brandRefs: { "TRW": "DB4141" } }, // 43206VM00B
-  //{ yvNo: "261091", brandRefs: { "TEXTAR": "94026900" } }, // 432064M400
-  //{ yvNo: "341092", brandRefs: { "TEXTAR": "94045200" } }, // 424310D030
-  //{ yvNo: "681569", brandRefs: { JNBK: "RN2502" } }, // T153502075EP - FREMAX - BD-4438
-  //{ yvNo: "731570", brandRefs: { JNBK: "RN2530V" } }, // 10174827 - TEXTAR - 92343203
-  //{ yvNo: "531572", brandRefs: { JNBK: "RN2289V" } }, // 582458R - FREMAX - BD-5452
-  //{ yvNo: "511577", brandRefs: { JNBK: "RN2452V" } }, // 43512BZ100
-  //{ yvNo: "36168", brandRefs: { ICER: "78BD4063-2" } },
-  
-  { yvNo: "28052", brandRefs: { TRW: "DF1215" } },//-------
-  { yvNo: "25240", brandRefs: { TRW: "DF7366" } },//-------
-  { yvNo: "25236", brandRefs: { TRW: "DF7420" } },//-------
 
-  { yvNo: "18150", brandRefs: { TRW: "DF7683" } },//-------
 
-  { yvNo: "63417", brandRefs: { TRW: "DF4241" } },//-------
-  { yvNo: "63418", brandRefs: { TRW: "DF4242" } },//-------
-  { yvNo: "30478", brandRefs: { TRW: "DF6043BS" } },//-------
- 
-  //{ yvNo: "34575", brandRefs: { TEXTAR: "92274903 / 92230403" } }
 ];
 
 export const crankshaftPairs: ProductReference[] = [
@@ -128,8 +94,6 @@ export const crankshaftPairs: ProductReference[] = [
   { yvNo: "7067010", brandRefs: { CORTECO: "49467798" } }, // 11238477129
   { yvNo: "7068010", brandRefs: { RIDEX: "3213B0032" } }, // MD338316
 ];
-
-
 
 /*  
     Yukardaki pairlerden herhangi birini scrape ettikten sonra SADECE bunların aplikasyonları excel e almak için 

@@ -41,7 +41,7 @@
     "hp": "70",
     "cc": "998",
     "engineCodes": "1KR-FE",
-    "KBA_Numbers": "7111381  7111AAF"
+    "KBA_Numbers": "7111381, 7111AAF"
   },
   {
     "brand": "DAIHATSU",
@@ -63,7 +63,7 @@
     "hp": "87",
     "cc": "1298",
     "engineCodes": "K3-VE",
-    "KBA_Numbers": "7111382  7111AAG"
+    "KBA_Numbers": "7111382, 7111AAG"
   },
   {
     "brand": "DAIHATSU",
@@ -95,7 +95,7 @@
     "kw": "88",
     "hp": "120",
     "cc": "1596",
-    "engineCodes": "HXJA  HXJB  HXJE",
+    "engineCodes": "HXJA, HXJB, HXJE",
     "KBA_Numbers": ""
   },
   {
@@ -106,7 +106,7 @@
     "kw": "77",
     "hp": "105",
     "cc": "1596",
-    "engineCodes": "IQJE  IQJA  IQJC",
+    "engineCodes": "IQJE, IQJA, IQJC",
     "KBA_Numbers": ""
   },
   {
@@ -117,8 +117,8 @@
     "kw": "92",
     "hp": "125",
     "cc": "1798",
-    "engineCodes": "Q7DA  QQDA  QQDB",
-    "KBA_Numbers": "8566ABT  8566617"
+    "engineCodes": "Q7DA, QQDA, QQDB",
+    "KBA_Numbers": "8566ABT, 8566617"
   },
   {
     "brand": "FORD",
@@ -128,8 +128,8 @@
     "kw": "107",
     "hp": "145",
     "cc": "1999",
-    "engineCodes": "AODA  AODB  SYDA  AODE",
-    "KBA_Numbers": "8566AAQ  8566602"
+    "engineCodes": "AODA, AODB, SYDA, AODE",
+    "KBA_Numbers": "8566AAQ, 8566602"
   },
   {
     "brand": "FORD",
@@ -139,7 +139,7 @@
     "kw": "92",
     "hp": "125",
     "cc": "1596",
-    "engineCodes": "PNDA  PNDD",
+    "engineCodes": "PNDA, PNDD",
     "KBA_Numbers": "8566AWB"
   },
   {
@@ -161,7 +161,7 @@
     "kw": "92",
     "hp": "125",
     "cc": "1596",
-    "engineCodes": "PNDD  PNDA",
+    "engineCodes": "PNDD, PNDA",
     "KBA_Numbers": "8566AVQ"
   },
   {
@@ -173,7 +173,7 @@
     "hp": "75",
     "cc": "1349",
     "engineCodes": "ZJ46",
-    "KBA_Numbers": "7118ABS  7118AEW"
+    "KBA_Numbers": "7118ABS, 7118AEW"
   },
   {
     "brand": "MAZDA",
@@ -194,8 +194,8 @@
     "kw": "62",
     "hp": "84",
     "cc": "1349",
-    "engineCodes": "ZJ-VE  ZJ46",
-    "KBA_Numbers": "7118ADU  7118AEX"
+    "engineCodes": "ZJ-VE, ZJ46",
+    "KBA_Numbers": "7118ADU, 7118AEX"
   },
   {
     "brand": "MAZDA",
@@ -205,7 +205,7 @@
     "kw": "50",
     "hp": "68",
     "cc": "1399",
-    "engineCodes": "Y404",
+    "engineCodes": "Y407",
     "KBA_Numbers": "7118ACF"
   },
   {
@@ -216,8 +216,8 @@
     "kw": "76",
     "hp": "103",
     "cc": "1498",
-    "engineCodes": "ZY66  ZY84",
-    "KBA_Numbers": "7118ABQ  7118ADD"
+    "engineCodes": "ZY66, ZY84",
+    "KBA_Numbers": "7118ABQ, 7118ADD"
   },
   {
     "brand": "MAZDA",
@@ -227,7 +227,7 @@
     "kw": "83",
     "hp": "113",
     "cc": "1498",
-    "engineCodes": "ZY-VE",
+    "engineCodes": "ZY84, ZY66",
     "KBA_Numbers": ""
   },
   {
@@ -238,8 +238,8 @@
     "kw": "75",
     "hp": "102",
     "cc": "1498",
-    "engineCodes": "ZY05  ZY66",
-    "KBA_Numbers": "7118ADT  7118AEZ"
+    "engineCodes": "ZY05, ZY66",
+    "KBA_Numbers": "7118ADT, 7118AEZ"
   },
   {
     "brand": "MAZDA",
@@ -249,7 +249,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1560",
-    "engineCodes": "Y406  Y646",
+    "engineCodes": "Y406, Y646",
     "KBA_Numbers": "7118ACQ"
   },
   {
@@ -260,7 +260,7 @@
     "kw": "70",
     "hp": "95",
     "cc": "1560",
-    "engineCodes": "Y655  Y661",
+    "engineCodes": "Y655, Y661",
     "KBA_Numbers": "7118ADX"
   },
   {
@@ -271,7 +271,7 @@
     "kw": "79",
     "hp": "107",
     "cc": "1496",
-    "engineCodes": "P5Y6  P5Y4",
+    "engineCodes": "P5Y6, P5Y4",
     "KBA_Numbers": ""
   },
   {
@@ -313,7 +313,7 @@
     "engineType": "1.0 (A1K310)",
     "madeYear": "from 02.2016",
     "kw": "82",
-    "hp": "112",
+    "hp": "111",
     "cc": "998",
     "engineCodes": "K10C-T",
     "KBA_Numbers": "8352AAD"
@@ -393,7 +393,7 @@
     "hp": "90",
     "cc": "1242",
     "engineCodes": "K12B",
-    "KBA_Numbers": "7102ADH  8306ABZ"
+    "KBA_Numbers": "7102ADH, 8306ABZ"
   },
   {
     "brand": "SUZUKI",
@@ -404,7 +404,7 @@
     "hp": "94",
     "cc": "1242",
     "engineCodes": "K12B",
-    "KBA_Numbers": "7102ADG  8306ABY"
+    "KBA_Numbers": "7102ADG, 8306ABY"
   },
   {
     "brand": "SUZUKI",
@@ -414,7 +414,7 @@
     "kw": "55",
     "hp": "75",
     "cc": "1248",
-    "engineCodes": "D13AA  D13A",
+    "engineCodes": "D13AA, D13A",
     "KBA_Numbers": "8306ABS"
   },
   {
@@ -434,7 +434,7 @@
     "engineType": "1.0 (A2L310)",
     "madeYear": "from 04.2017",
     "kw": "82",
-    "hp": "112",
+    "hp": "111",
     "cc": "998",
     "engineCodes": "K10C-T",
     "KBA_Numbers": "7102AEN"
@@ -445,7 +445,7 @@
     "engineType": "1.0 SHVS (A2L310)",
     "madeYear": "from 04.2017",
     "kw": "82",
-    "hp": "112",
+    "hp": "111",
     "cc": "998",
     "engineCodes": "K10C-T",
     "KBA_Numbers": "7102AEO"
@@ -481,7 +481,7 @@
     "hp": "83",
     "cc": "1197",
     "engineCodes": "K12D",
-    "KBA_Numbers": "7102AFF  7102AFW"
+    "KBA_Numbers": "7102AFF, 7102AFW"
   },
   {
     "brand": "SUZUKI",
@@ -492,7 +492,7 @@
     "hp": "83",
     "cc": "1197",
     "engineCodes": "K12D",
-    "KBA_Numbers": "7102AFG  7102AFX"
+    "KBA_Numbers": "7102AFG, 7102AFX"
   },
   {
     "brand": "SUZUKI",
@@ -536,6 +536,6 @@
     "hp": "129",
     "cc": "1373",
     "engineCodes": "K14D",
-    "KBA_Numbers": "7102AFE  7102AFV"
+    "KBA_Numbers": "7102AFE, 7102AFV"
   }
 ]

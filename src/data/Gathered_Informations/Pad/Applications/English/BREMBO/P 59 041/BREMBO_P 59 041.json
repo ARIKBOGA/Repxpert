@@ -151,7 +151,7 @@
     "hp": "121",
     "cc": "1598",
     "engineCodes": "R9M 413",
-    "KBA_Numbers": "1727AKV  1727ALB"
+    "KBA_Numbers": "1727AKV, 1727ALB"
   },
   {
     "brand": "FIAT",
@@ -261,7 +261,7 @@
     "hp": "110",
     "cc": "1997",
     "engineCodes": "M9R 714",
-    "KBA_Numbers": "2228AAN  1329AMO"
+    "KBA_Numbers": "2228AAN, 1329AMO"
   },
   {
     "brand": "NISSAN",
@@ -294,7 +294,7 @@
     "hp": "150",
     "cc": "1997",
     "engineCodes": "M9R 714",
-    "KBA_Numbers": "2228AAM  1329AMP"
+    "KBA_Numbers": "2228AAM, 1329AMP"
   },
   {
     "brand": "NISSAN",
@@ -304,8 +304,8 @@
     "kw": "125",
     "hp": "170",
     "cc": "1997",
-    "engineCodes": "M9R 710  M9R 714",
-    "KBA_Numbers": "2228AAL  1329ALZ"
+    "engineCodes": "M9R 710, M9R 714",
+    "KBA_Numbers": "2228AAL, 1329ALZ"
   },
   {
     "brand": "NISSAN",
@@ -392,7 +392,7 @@
     "kw": "70",
     "hp": "95",
     "cc": "1598",
-    "engineCodes": "R9M 413  R9M 415",
+    "engineCodes": "R9M 413, R9M 415",
     "KBA_Numbers": "1329AKL"
   },
   {
@@ -404,7 +404,7 @@
     "hp": "110",
     "cc": "1997",
     "engineCodes": "M9R 714",
-    "KBA_Numbers": "2228AAV  1329AMS"
+    "KBA_Numbers": "2228AAV, 1329AMS"
   },
   {
     "brand": "NISSAN",
@@ -415,7 +415,7 @@
     "hp": "120",
     "cc": "1997",
     "engineCodes": "M9R 710",
-    "KBA_Numbers": "2228AAS  1329AMA"
+    "KBA_Numbers": "2228AAS, 1329AMA"
   },
   {
     "brand": "NISSAN",
@@ -426,7 +426,7 @@
     "hp": "145",
     "cc": "1997",
     "engineCodes": "M9R 710",
-    "KBA_Numbers": "2228AAR  1329AMB"
+    "KBA_Numbers": "2228AAR, 1329AMB"
   },
   {
     "brand": "NISSAN",
@@ -437,7 +437,7 @@
     "hp": "150",
     "cc": "1997",
     "engineCodes": "M9R 714",
-    "KBA_Numbers": "2228AAU  1329AMT"
+    "KBA_Numbers": "2228AAU, 1329AMT"
   },
   {
     "brand": "NISSAN",
@@ -448,7 +448,7 @@
     "hp": "170",
     "cc": "1997",
     "engineCodes": "M9R 710",
-    "KBA_Numbers": "2228AAT  1329AMC"
+    "KBA_Numbers": "2228AAT, 1329AMC"
   },
   {
     "brand": "NISSAN",
@@ -458,7 +458,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1997",
-    "engineCodes": "M9R 714  M9R717",
+    "engineCodes": "M9R 714, M9R717",
     "KBA_Numbers": "2228AAN"
   },
   {
@@ -469,7 +469,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1997",
-    "engineCodes": "M9R 714  M9R717",
+    "engineCodes": "M9R 714, M9R717",
     "KBA_Numbers": "2228AAM"
   },
   {
@@ -480,7 +480,7 @@
     "kw": "125",
     "hp": "170",
     "cc": "1997",
-    "engineCodes": "M9R 714  M9R717",
+    "engineCodes": "M9R 714, M9R717",
     "KBA_Numbers": "2228AAL"
   },
   {
@@ -491,8 +491,8 @@
     "kw": "88",
     "hp": "120",
     "cc": "1998",
-    "engineCodes": "F4R 722  F4R 720",
-    "KBA_Numbers": "9648389  3144ABQ  3144ABU  3144049"
+    "engineCodes": "F4R 722, F4R 720",
+    "KBA_Numbers": "9648389, 3144ABQ, 3144ABU, 3144049"
   },
   {
     "brand": "NISSAN",
@@ -503,7 +503,7 @@
     "hp": "117",
     "cc": "1998",
     "engineCodes": "F4R 820",
-    "KBA_Numbers": "3144ADA  3144ADE  1329ACH  1329ACB"
+    "KBA_Numbers": "3144ADA, 3144ADE, 1329ACH, 1329ACB"
   },
   {
     "brand": "NISSAN",
@@ -514,7 +514,7 @@
     "hp": "101",
     "cc": "1870",
     "engineCodes": "F9Q 760",
-    "KBA_Numbers": "9648387  3144ABS  3144ABW  3144047"
+    "KBA_Numbers": "9648387, 3144ABS, 3144ABW, 3144047"
   },
   {
     "brand": "NISSAN",
@@ -525,7 +525,7 @@
     "hp": "114",
     "cc": "2463",
     "engineCodes": "G9U 630",
-    "KBA_Numbers": "1329ACE  1329ABZ  3144AEW  3144AEX"
+    "KBA_Numbers": "1329ACE, 1329ABZ, 3144AEW, 3144AEX"
   },
   {
     "brand": "NISSAN",
@@ -535,8 +535,8 @@
     "kw": "84",
     "hp": "114",
     "cc": "1995",
-    "engineCodes": "M9R 692  M9R 786  M9R 780  M9R 630",
-    "KBA_Numbers": "3144ACY  3144ADC  1329ACF  1329ACD"
+    "engineCodes": "M9R 692, M9R 786, M9R 780, M9R 630",
+    "KBA_Numbers": "3144ACY, 3144ADC, 1329ACF, 1329ACD"
   },
   {
     "brand": "NISSAN",
@@ -547,7 +547,7 @@
     "hp": "135",
     "cc": "2463",
     "engineCodes": "G9U 730",
-    "KBA_Numbers": "9648403  3144ABT  3144ABX  3144050"
+    "KBA_Numbers": "9648403, 3144ABT, 3144ABX, 3144050"
   },
   {
     "brand": "NISSAN",
@@ -558,7 +558,7 @@
     "hp": "145",
     "cc": "2463",
     "engineCodes": "G9U 632",
-    "KBA_Numbers": "3144ACZ  3144ADD  1329ACG  1329ACA"
+    "KBA_Numbers": "3144ACZ, 3144ADD, 1329ACG, 1329ACA"
   },
   {
     "brand": "NISSAN",
@@ -569,7 +569,7 @@
     "hp": "80",
     "cc": "1870",
     "engineCodes": "F9Q 762",
-    "KBA_Numbers": "9648388  3144ABR  3144ABV  3144048"
+    "KBA_Numbers": "9648388, 3144ABR, 3144ABV, 3144048"
   },
   {
     "brand": "NISSAN",
@@ -579,8 +579,8 @@
     "kw": "66",
     "hp": "90",
     "cc": "1995",
-    "engineCodes": "M9R 692  M9R 786  M9R 782  M9R 630",
-    "KBA_Numbers": "3144ADB  3144ADF  1329ACC  1329ACI"
+    "engineCodes": "M9R 692, M9R 786, M9R 782, M9R 630",
+    "KBA_Numbers": "3144ADB, 3144ADF, 1329ACC, 1329ACI"
   },
   {
     "brand": "NISSAN",
@@ -623,7 +623,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1997",
-    "engineCodes": "M9R 714  M9R717",
+    "engineCodes": "M9R 714, M9R717",
     "KBA_Numbers": "2228AAV"
   },
   {
@@ -634,7 +634,7 @@
     "kw": "96",
     "hp": "131",
     "cc": "1997",
-    "engineCodes": "M9R 714",
+    "engineCodes": "M9R 714, M9R717",
     "KBA_Numbers": "2228ABI"
   },
   {
@@ -646,7 +646,7 @@
     "hp": "100",
     "cc": "1870",
     "engineCodes": "F9Q 760",
-    "KBA_Numbers": "9648392  3144ACG  3144061"
+    "KBA_Numbers": "9648392, 3144ACG, 3144061"
   },
   {
     "brand": "NISSAN",
@@ -657,7 +657,7 @@
     "hp": "82",
     "cc": "1870",
     "engineCodes": "F9Q 762",
-    "KBA_Numbers": "9648391  3144ACF  3144060"
+    "KBA_Numbers": "9648391, 3144ACF, 3144060"
   },
   {
     "brand": "NISSAN",
@@ -667,8 +667,8 @@
     "kw": "88",
     "hp": "120",
     "cc": "1998",
-    "engineCodes": "F4R 720  F4R 722",
-    "KBA_Numbers": "9648390  3144ACE  3144059"
+    "engineCodes": "F4R 720, F4R 722",
+    "KBA_Numbers": "9648390, 3144ACE, 3144059"
   },
   {
     "brand": "NISSAN",
@@ -679,7 +679,7 @@
     "hp": "117",
     "cc": "1998",
     "engineCodes": "F4R 820",
-    "KBA_Numbers": "3144ADM  1329AEI  1329AEO  1329AAO"
+    "KBA_Numbers": "3144ADM, 1329AEI, 1329AEO, 1329AAO"
   },
   {
     "brand": "NISSAN",
@@ -689,8 +689,8 @@
     "kw": "84",
     "hp": "114",
     "cc": "1995",
-    "engineCodes": "M9R 786  M9R 692  M9R 630  M9R 780",
-    "KBA_Numbers": "3144ADJ  1329AEL"
+    "engineCodes": "M9R 786, M9R 692, M9R 630, M9R 780",
+    "KBA_Numbers": "3144ADJ, 1329AEL"
   },
   {
     "brand": "NISSAN",
@@ -700,8 +700,8 @@
     "kw": "66",
     "hp": "90",
     "cc": "1995",
-    "engineCodes": "M9R 692  M9R 786  M9R 782  M9R 630",
-    "KBA_Numbers": "3144ADK  1329AEG  1329AEM  1329AAM"
+    "engineCodes": "M9R 692, M9R 786, M9R 782, M9R 630",
+    "KBA_Numbers": "3144ADK, 1329AEG, 1329AEM, 1329AAM"
   },
   {
     "brand": "NISSAN",
@@ -712,7 +712,7 @@
     "hp": "114",
     "cc": "2463",
     "engineCodes": "G9U 630",
-    "KBA_Numbers": "1329AEF  1329AEP  1329AAL"
+    "KBA_Numbers": "1329AEF, 1329AEP, 1329AAL"
   },
   {
     "brand": "NISSAN",
@@ -723,7 +723,7 @@
     "hp": "135",
     "cc": "2463",
     "engineCodes": "G9U 730",
-    "KBA_Numbers": "9648407  3144ACH  3144062"
+    "KBA_Numbers": "9648407, 3144ACH, 3144062"
   },
   {
     "brand": "NISSAN",
@@ -734,7 +734,7 @@
     "hp": "145",
     "cc": "2463",
     "engineCodes": "G9U 632",
-    "KBA_Numbers": "3144ADL  1329AEH  1329AEN  1329AAN"
+    "KBA_Numbers": "3144ADL, 1329AEH, 1329AEN, 1329AAN"
   },
   {
     "brand": "OPEL",
@@ -745,7 +745,7 @@
     "hp": "80",
     "cc": "1870",
     "engineCodes": "F9Q 762",
-    "KBA_Numbers": "0035510  0035511  0035431  0035432"
+    "KBA_Numbers": "0035510, 0035511, 0035431, 0035432"
   },
   {
     "brand": "OPEL",
@@ -756,7 +756,7 @@
     "hp": "101",
     "cc": "1870",
     "engineCodes": "F9Q 760",
-    "KBA_Numbers": "0035AGG  0035AGH  0035512  0035513  0035429  0035430"
+    "KBA_Numbers": "0035AGG, 0035AGH, 0035512, 0035513, 0035429, 0035430"
   },
   {
     "brand": "OPEL",
@@ -767,7 +767,7 @@
     "hp": "120",
     "cc": "1998",
     "engineCodes": "F4R 720",
-    "KBA_Numbers": "0035508  0035509  0035440  0035441"
+    "KBA_Numbers": "0035508, 0035509, 0035440, 0035441"
   },
   {
     "brand": "OPEL",
@@ -777,8 +777,8 @@
     "kw": "66",
     "hp": "90",
     "cc": "1995",
-    "engineCodes": "M9R 786  M9R 782  M9R 780  M9R 692  M9R 630",
-    "KBA_Numbers": "0035AGC  0035AQO"
+    "engineCodes": "M9R 786, M9R 782, M9R 780, M9R 692, M9R 630",
+    "KBA_Numbers": "0035AGC, 0035AQO"
   },
   {
     "brand": "OPEL",
@@ -788,8 +788,8 @@
     "kw": "84",
     "hp": "114",
     "cc": "1995",
-    "engineCodes": "M9R 786  M9R 630  M9R 788  M9R 784  M9R 780  M9R 692",
-    "KBA_Numbers": "0035AGE  0035AQP"
+    "engineCodes": "M9R 786, M9R 630, M9R 788, M9R 784, M9R 780, M9R 692",
+    "KBA_Numbers": "0035AGE, 0035AQP"
   },
   {
     "brand": "OPEL",
@@ -800,7 +800,7 @@
     "hp": "117",
     "cc": "1998",
     "engineCodes": "F4R 820",
-    "KBA_Numbers": "0035AQR  0035AGI"
+    "KBA_Numbers": "0035AQR, 0035AGI"
   },
   {
     "brand": "OPEL",
@@ -822,7 +822,7 @@
     "hp": "146",
     "cc": "2463",
     "engineCodes": "G9U 630",
-    "KBA_Numbers": "0035AQQ  0035AGK"
+    "KBA_Numbers": "0035AQQ, 0035AGK"
   },
   {
     "brand": "OPEL",
@@ -833,7 +833,7 @@
     "hp": "135",
     "cc": "2463",
     "engineCodes": "G9U 730",
-    "KBA_Numbers": "0035506  0035507  0035514  0035515"
+    "KBA_Numbers": "0035506, 0035507, 0035514, 0035515"
   },
   {
     "brand": "OPEL",
@@ -844,7 +844,7 @@
     "hp": "82",
     "cc": "1870",
     "engineCodes": "F9Q 762",
-    "KBA_Numbers": "0035AFK  0035008"
+    "KBA_Numbers": "0035AFK, 0035008"
   },
   {
     "brand": "OPEL",
@@ -876,8 +876,8 @@
     "kw": "66",
     "hp": "90",
     "cc": "1995",
-    "engineCodes": "M9R 786  M9R 630  M9R 782  M9R 780  M9R 692",
-    "KBA_Numbers": "0035AGO  0035AQS"
+    "engineCodes": "M9R 786, M9R 630, M9R 782, M9R 780, M9R 692",
+    "KBA_Numbers": "0035AGO, 0035AQS"
   },
   {
     "brand": "OPEL",
@@ -887,8 +887,8 @@
     "kw": "84",
     "hp": "114",
     "cc": "1995",
-    "engineCodes": "M9R 630  M9R 780  M9R 784  M9R 786  M9R 788  M9R 692  M9R 782",
-    "KBA_Numbers": "0035AGP  0035AQT"
+    "engineCodes": "M9R 630, M9R 780, M9R 784, M9R 786, M9R 788, M9R 692, M9R 782",
+    "KBA_Numbers": "0035AGP, 0035AQT"
   },
   {
     "brand": "OPEL",
@@ -899,7 +899,7 @@
     "hp": "117",
     "cc": "1998",
     "engineCodes": "F4R 820",
-    "KBA_Numbers": "0035AGQ  0035AQV"
+    "KBA_Numbers": "0035AGQ, 0035AQV"
   },
   {
     "brand": "OPEL",
@@ -921,7 +921,7 @@
     "hp": "146",
     "cc": "2463",
     "engineCodes": "G9U 630",
-    "KBA_Numbers": "0035AGR  0035AQU"
+    "KBA_Numbers": "0035AGR, 0035AQU"
   },
   {
     "brand": "OPEL",
@@ -932,7 +932,7 @@
     "hp": "135",
     "cc": "2463",
     "engineCodes": "G9U 730",
-    "KBA_Numbers": "0035AFN  0035011"
+    "KBA_Numbers": "0035AFN, 0035011"
   },
   {
     "brand": "OPEL",
@@ -943,7 +943,7 @@
     "hp": "80",
     "cc": "1870",
     "engineCodes": "F9Q 762",
-    "KBA_Numbers": "0035AFF  0039135  0035001"
+    "KBA_Numbers": "0035AFF, 0039135, 0035001"
   },
   {
     "brand": "OPEL",
@@ -954,7 +954,7 @@
     "hp": "101",
     "cc": "1870",
     "engineCodes": "F9Q 760",
-    "KBA_Numbers": "0035AFG  0039136  0035002"
+    "KBA_Numbers": "0035AFG, 0039136, 0035002"
   },
   {
     "brand": "OPEL",
@@ -965,7 +965,7 @@
     "hp": "120",
     "cc": "1998",
     "engineCodes": "F4R 720",
-    "KBA_Numbers": "0035AFH  0035006"
+    "KBA_Numbers": "0035AFH, 0035006"
   },
   {
     "brand": "OPEL",
@@ -975,8 +975,8 @@
     "kw": "66",
     "hp": "90",
     "cc": "1995",
-    "engineCodes": "M9R 786  M9R 630  M9R 782  M9R 780  M9R 692",
-    "KBA_Numbers": "0035AGD  0035AGS  0035AQO"
+    "engineCodes": "M9R 786, M9R 630, M9R 782, M9R 780, M9R 692",
+    "KBA_Numbers": "0035AGD, 0035AGS, 0035AQO"
   },
   {
     "brand": "OPEL",
@@ -986,8 +986,8 @@
     "kw": "84",
     "hp": "114",
     "cc": "1995",
-    "engineCodes": "M9R 692  M9R 786  M9R 630  M9R 788  M9R 784  M9R 780",
-    "KBA_Numbers": "0035AGF  0035AGT  0035AQP"
+    "engineCodes": "M9R 692, M9R 786, M9R 630, M9R 788, M9R 784, M9R 780",
+    "KBA_Numbers": "0035AGF, 0035AGT, 0035AQP"
   },
   {
     "brand": "OPEL",
@@ -998,7 +998,7 @@
     "hp": "117",
     "cc": "1998",
     "engineCodes": "F4R 820",
-    "KBA_Numbers": "0035AQR  0035AGJ  0035AGU"
+    "KBA_Numbers": "0035AQR, 0035AGJ, 0035AGU"
   },
   {
     "brand": "OPEL",
@@ -1020,7 +1020,7 @@
     "hp": "146",
     "cc": "2463",
     "engineCodes": "G9U 630",
-    "KBA_Numbers": "0035AQQ  0035AGM  0035AGV"
+    "KBA_Numbers": "0035AQQ, 0035AGM, 0035AGV"
   },
   {
     "brand": "OPEL",
@@ -1031,7 +1031,7 @@
     "hp": "135",
     "cc": "2463",
     "engineCodes": "G9U 730",
-    "KBA_Numbers": "0035AFI  0035010"
+    "KBA_Numbers": "0035AFI, 0035010"
   },
   {
     "brand": "OPEL",
@@ -1052,7 +1052,7 @@
     "kw": "85",
     "hp": "116",
     "cc": "1598",
-    "engineCodes": "R9M 450  R9M 408",
+    "engineCodes": "R9M 450, R9M 408",
     "KBA_Numbers": "0035BDO"
   },
   {
@@ -1085,8 +1085,8 @@
     "kw": "70",
     "hp": "95",
     "cc": "1598",
-    "engineCodes": "R9M 413  R9M 415",
-    "KBA_Numbers": "0035BHI  1844AAQ"
+    "engineCodes": "R9M 413, R9M 415",
+    "KBA_Numbers": "0035BHI, 1844AAQ"
   },
   {
     "brand": "OPEL",
@@ -1097,7 +1097,7 @@
     "hp": "125",
     "cc": "1598",
     "engineCodes": "R9M 452",
-    "KBA_Numbers": "0035BHG  1844AAO"
+    "KBA_Numbers": "0035BHG, 1844AAO"
   },
   {
     "brand": "OPEL",
@@ -1108,7 +1108,7 @@
     "hp": "145",
     "cc": "1598",
     "engineCodes": "R9M 452",
-    "KBA_Numbers": "0035BHH  1844AAP"
+    "KBA_Numbers": "0035BHH, 1844AAP"
   },
   {
     "brand": "OPEL",
@@ -1118,7 +1118,7 @@
     "kw": "85",
     "hp": "116",
     "cc": "1598",
-    "engineCodes": "R9M 450  R9M 408",
+    "engineCodes": "R9M 450, R9M 408",
     "KBA_Numbers": ""
   },
   {
@@ -1184,7 +1184,7 @@
     "kw": "85",
     "hp": "116",
     "cc": "1598",
-    "engineCodes": "R9M 408  R9M 450",
+    "engineCodes": "R9M 408, R9M 450",
     "KBA_Numbers": "0035BDA"
   },
   {
@@ -1217,8 +1217,8 @@
     "kw": "70",
     "hp": "95",
     "cc": "1598",
-    "engineCodes": "R9M 413  R9M 415",
-    "KBA_Numbers": "0035BIX  1844AGW"
+    "engineCodes": "R9M 413, R9M 415",
+    "KBA_Numbers": "0035BIX, 1844AGW"
   },
   {
     "brand": "OPEL",
@@ -1229,7 +1229,7 @@
     "hp": "125",
     "cc": "1598",
     "engineCodes": "R9M 452",
-    "KBA_Numbers": "0035BIV  1844AGU"
+    "KBA_Numbers": "0035BIV, 1844AGU"
   },
   {
     "brand": "OPEL",
@@ -1240,7 +1240,7 @@
     "hp": "146",
     "cc": "1598",
     "engineCodes": "R9M 452",
-    "KBA_Numbers": "0035BIW  1844AGV"
+    "KBA_Numbers": "0035BIW, 1844AGV"
   },
   {
     "brand": "RENAULT",
@@ -1262,7 +1262,7 @@
     "hp": "101",
     "cc": "1870",
     "engineCodes": "F9Q 760",
-    "KBA_Numbers": "3004163  3004162  3333AFG  3333AFK"
+    "KBA_Numbers": "3004163, 3004162, 3333AFG, 3333AFK"
   },
   {
     "brand": "RENAULT",
@@ -1273,7 +1273,7 @@
     "hp": "82",
     "cc": "1870",
     "engineCodes": "F9Q 762",
-    "KBA_Numbers": "3004164  3004165  3333AFF  3333AFJ"
+    "KBA_Numbers": "3004164, 3004165, 3333AFF, 3333AFJ"
   },
   {
     "brand": "RENAULT",
@@ -1283,8 +1283,8 @@
     "kw": "88",
     "hp": "120",
     "cc": "1998",
-    "engineCodes": "F4R 722  F4R 720",
-    "KBA_Numbers": "3004178  3004179  3333AFE  3333AFI"
+    "engineCodes": "F4R 722, F4R 720",
+    "KBA_Numbers": "3004178, 3004179, 3333AFE, 3333AFI"
   },
   {
     "brand": "RENAULT",
@@ -1295,7 +1295,7 @@
     "hp": "117",
     "cc": "1998",
     "engineCodes": "F4R 820",
-    "KBA_Numbers": "3333ALO  3333ALK"
+    "KBA_Numbers": "3333ALO, 3333ALK"
   },
   {
     "brand": "RENAULT",
@@ -1305,8 +1305,8 @@
     "kw": "84",
     "hp": "114",
     "cc": "1995",
-    "engineCodes": "M9R 782  M9R 692  M9R 786  M9R 780  M9R 784  M9R 788  M9R 630",
-    "KBA_Numbers": "3333ALL  3333ALQ"
+    "engineCodes": "M9R 782, M9R 692, M9R 786, M9R 780, M9R 784, M9R 788, M9R 630",
+    "KBA_Numbers": "3333ALL, 3333ALQ"
   },
   {
     "brand": "RENAULT",
@@ -1316,8 +1316,8 @@
     "kw": "66",
     "hp": "90",
     "cc": "1995",
-    "engineCodes": "M9R 630  M9R 782  M9R 786  M9R 780  M9R 692",
-    "KBA_Numbers": "3333ALN  3333ALJ"
+    "engineCodes": "M9R 630, M9R 782, M9R 786, M9R 780, M9R 692",
+    "KBA_Numbers": "3333ALN, 3333ALJ"
   },
   {
     "brand": "RENAULT",
@@ -1328,7 +1328,7 @@
     "hp": "114",
     "cc": "2463",
     "engineCodes": "G9U 630",
-    "KBA_Numbers": "3333APJ  3333APK"
+    "KBA_Numbers": "3333APJ, 3333APK"
   },
   {
     "brand": "RENAULT",
@@ -1339,7 +1339,7 @@
     "hp": "135",
     "cc": "2463",
     "engineCodes": "G9U 730",
-    "KBA_Numbers": "3004949  3004950  3333AFH  3333AFL"
+    "KBA_Numbers": "3004949, 3004950, 3333AFH, 3333AFL"
   },
   {
     "brand": "RENAULT",
@@ -1350,7 +1350,7 @@
     "hp": "146",
     "cc": "2463",
     "engineCodes": "G9U 630",
-    "KBA_Numbers": "3333ALM  3333ALP"
+    "KBA_Numbers": "3333ALM, 3333ALP"
   },
   {
     "brand": "RENAULT",
@@ -1404,7 +1404,7 @@
     "kw": "84",
     "hp": "114",
     "cc": "1995",
-    "engineCodes": "M9R 692  M9R 782  M9R 786  M9R 780  M9R 630",
+    "engineCodes": "M9R 692, M9R 782, M9R 786, M9R 780, M9R 630",
     "KBA_Numbers": ""
   },
   {
@@ -1415,7 +1415,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1995",
-    "engineCodes": "M9R 780  M9R 782  M9R 692  M9R 630  M9R 786",
+    "engineCodes": "M9R 780, M9R 782, M9R 692, M9R 630, M9R 786",
     "KBA_Numbers": ""
   },
   {
@@ -1482,7 +1482,7 @@
     "hp": "101",
     "cc": "1870",
     "engineCodes": "F9Q 760",
-    "KBA_Numbers": "3004042  3333AIH"
+    "KBA_Numbers": "3004042, 3333AIH"
   },
   {
     "brand": "RENAULT",
@@ -1492,8 +1492,8 @@
     "kw": "60",
     "hp": "82",
     "cc": "1870",
-    "engineCodes": "F9Q 762  F9Q 760",
-    "KBA_Numbers": "3333AIF  3004041"
+    "engineCodes": "F9Q 762, F9Q 760",
+    "KBA_Numbers": "3333AIF, 3004041"
   },
   {
     "brand": "RENAULT",
@@ -1503,8 +1503,8 @@
     "kw": "88",
     "hp": "120",
     "cc": "1998",
-    "engineCodes": "F4R 722  F4R 720",
-    "KBA_Numbers": "3004048  3333AIG"
+    "engineCodes": "F4R 722, F4R 720",
+    "KBA_Numbers": "3004048, 3333AIG"
   },
   {
     "brand": "RENAULT",
@@ -1515,7 +1515,7 @@
     "hp": "117",
     "cc": "1998",
     "engineCodes": "F4R 820",
-    "KBA_Numbers": "3333AWY  3333AMD  3333AVU"
+    "KBA_Numbers": "3333AWY, 3333AMD, 3333AVU"
   },
   {
     "brand": "RENAULT",
@@ -1525,8 +1525,8 @@
     "kw": "84",
     "hp": "114",
     "cc": "1995",
-    "engineCodes": "M9R 782  M9R 786  M9R 692  M9R 780  M9R 784  M9R 788  M9R 630",
-    "KBA_Numbers": "3333AWV  3333AMC  3333AVR"
+    "engineCodes": "M9R 782, M9R 786, M9R 692, M9R 780, M9R 784, M9R 788, M9R 630",
+    "KBA_Numbers": "3333AWV, 3333AMC, 3333AVR"
   },
   {
     "brand": "RENAULT",
@@ -1536,8 +1536,8 @@
     "kw": "66",
     "hp": "90",
     "cc": "1995",
-    "engineCodes": "M9R 630  M9R 782  M9R 780  M9R 786  M9R 692",
-    "KBA_Numbers": "3333AWW  3333AMB  3333AVT"
+    "engineCodes": "M9R 630, M9R 782, M9R 780, M9R 786, M9R 692",
+    "KBA_Numbers": "3333AWW, 3333AMB, 3333AVT"
   },
   {
     "brand": "RENAULT",
@@ -1548,7 +1548,7 @@
     "hp": "114",
     "cc": "2463",
     "engineCodes": "G9U 630",
-    "KBA_Numbers": "3333AVR  3333AWZ"
+    "KBA_Numbers": "3333AVR, 3333AWZ"
   },
   {
     "brand": "RENAULT",
@@ -1559,7 +1559,7 @@
     "hp": "135",
     "cc": "2463",
     "engineCodes": "G9U 730",
-    "KBA_Numbers": "3333AIE  3004957"
+    "KBA_Numbers": "3333AIE, 3004957"
   },
   {
     "brand": "RENAULT",
@@ -1570,7 +1570,7 @@
     "hp": "146",
     "cc": "2463",
     "engineCodes": "G9U 630",
-    "KBA_Numbers": "3333AWX  3333AMA  3333AVS"
+    "KBA_Numbers": "3333AWX, 3333AMA, 3333AVS"
   },
   {
     "brand": "RENAULT",
@@ -1592,7 +1592,7 @@
     "hp": "120",
     "cc": "1598",
     "engineCodes": "R9M 450",
-    "KBA_Numbers": "3333BCP  3333BJO"
+    "KBA_Numbers": "3333BCP, 3333BJO"
   },
   {
     "brand": "RENAULT",
@@ -1657,7 +1657,7 @@
     "kw": "70",
     "hp": "95",
     "cc": "1598",
-    "engineCodes": "R9M 415  R9M 413",
+    "engineCodes": "R9M 415, R9M 413",
     "KBA_Numbers": "3333BEO"
   },
   {
@@ -1668,7 +1668,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1997",
-    "engineCodes": "M9R 714  M9R717",
+    "engineCodes": "M9R 714, M9R717",
     "KBA_Numbers": "3333BOR"
   },
   {
@@ -1701,7 +1701,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1997",
-    "engineCodes": "M9R 714  M9R717",
+    "engineCodes": "M9R 714, M9R717",
     "KBA_Numbers": "3333BOQ"
   },
   {
@@ -1712,7 +1712,7 @@
     "kw": "125",
     "hp": "170",
     "cc": "1997",
-    "engineCodes": "M9R 710  M9R 714  M9R717",
+    "engineCodes": "M9R 710, M9R 714, M9R717",
     "KBA_Numbers": "3333BMI"
   },
   {
@@ -1778,7 +1778,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1997",
-    "engineCodes": "M9R 714  M9R717",
+    "engineCodes": "M9R 714, M9R717",
     "KBA_Numbers": ""
   },
   {
@@ -1800,7 +1800,7 @@
     "kw": "90",
     "hp": "122",
     "cc": "5AQ 609",
-    "engineCodes": "",
+    "engineCodes": "5AQ 609",
     "KBA_Numbers": ""
   },
   {
@@ -1823,7 +1823,7 @@
     "hp": "120",
     "cc": "1598",
     "engineCodes": "R9M 450",
-    "KBA_Numbers": "3333BCL  3333BFO"
+    "KBA_Numbers": "3333BCL, 3333BFO"
   },
   {
     "brand": "RENAULT",
@@ -1888,7 +1888,7 @@
     "kw": "70",
     "hp": "95",
     "cc": "1598",
-    "engineCodes": "R9M 413  R9M 415",
+    "engineCodes": "R9M 413, R9M 415",
     "KBA_Numbers": "3333BFN"
   },
   {
@@ -1899,7 +1899,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1997",
-    "engineCodes": "M9R 714  M9R717",
+    "engineCodes": "M9R 714, M9R717",
     "KBA_Numbers": "3333BOT"
   },
   {
@@ -1921,7 +1921,7 @@
     "kw": "96",
     "hp": "131",
     "cc": "1997",
-    "engineCodes": "M9R 714  M9R717",
+    "engineCodes": "M9R 714, M9R717",
     "KBA_Numbers": "3333BPM"
   },
   {
@@ -1943,7 +1943,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1997",
-    "engineCodes": "M9R 714  M9R717",
+    "engineCodes": "M9R 714, M9R717",
     "KBA_Numbers": "3333BOS"
   },
   {
@@ -1954,7 +1954,7 @@
     "kw": "125",
     "hp": "170",
     "cc": "1997",
-    "engineCodes": "M9R 710  M9R717",
+    "engineCodes": "M9R 710, M9R717",
     "KBA_Numbers": "3333BMK"
   },
   {
@@ -1965,7 +1965,7 @@
     "kw": "90",
     "hp": "122",
     "cc": "5AQ 609",
-    "engineCodes": "",
+    "engineCodes": "5AQ 609",
     "KBA_Numbers": ""
   },
   {
@@ -2009,7 +2009,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1995",
-    "engineCodes": "M9R 786  M9R 630  M9R 780  M9R 782  M9R 692",
+    "engineCodes": "M9R 786, M9R 630, M9R 780, M9R 782, M9R 692",
     "KBA_Numbers": ""
   },
   {
@@ -2020,7 +2020,7 @@
     "kw": "84",
     "hp": "114",
     "cc": "1995",
-    "engineCodes": "M9R 786  M9R 630  M9R 788  M9R 780  M9R 784  M9R 692  M9R 782",
+    "engineCodes": "M9R 786, M9R 630, M9R 788, M9R 780, M9R 784, M9R 692, M9R 782",
     "KBA_Numbers": ""
   },
   {
@@ -2075,7 +2075,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1995",
-    "engineCodes": "M9R 786  M9R 630  M9R 780  M9R 782  M9R 692",
+    "engineCodes": "M9R 786, M9R 630, M9R 780, M9R 782, M9R 692",
     "KBA_Numbers": ""
   },
   {
@@ -2086,7 +2086,7 @@
     "kw": "84",
     "hp": "114",
     "cc": "1995",
-    "engineCodes": "M9R 630  M9R 780  M9R 788  M9R 692  M9R 786  M9R 784  M9R 782",
+    "engineCodes": "M9R 630, M9R 780, M9R 788, M9R 692, M9R 786, M9R 784, M9R 782",
     "KBA_Numbers": ""
   },
   {
@@ -2163,7 +2163,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1995",
-    "engineCodes": "M9R 692  M9R 786  M9R 630  M9R 780  M9R 782",
+    "engineCodes": "M9R 692, M9R 786, M9R 630, M9R 780, M9R 782",
     "KBA_Numbers": ""
   },
   {
@@ -2174,7 +2174,7 @@
     "kw": "84",
     "hp": "114",
     "cc": "1995",
-    "engineCodes": "M9R 692  M9R 788  M9R 630  M9R 780  M9R 782  M9R 784  M9R 786",
+    "engineCodes": "M9R 692, M9R 788, M9R 630, M9R 780, M9R 782, M9R 784, M9R 786",
     "KBA_Numbers": ""
   },
   {
@@ -2240,7 +2240,7 @@
     "kw": "88",
     "hp": "120",
     "cc": "1598",
-    "engineCodes": "R9M 450  R9M 413",
+    "engineCodes": "R9M 450, R9M 413",
     "KBA_Numbers": ""
   },
   {
@@ -2262,7 +2262,7 @@
     "kw": "70",
     "hp": "95",
     "cc": "1598",
-    "engineCodes": "R9M 413  R9M 415",
+    "engineCodes": "R9M 413, R9M 415",
     "KBA_Numbers": ""
   },
   {
@@ -2383,7 +2383,7 @@
     "kw": "88",
     "hp": "120",
     "cc": "1598",
-    "engineCodes": "R9M 450  R9M 413",
+    "engineCodes": "R9M 450, R9M 413",
     "KBA_Numbers": ""
   },
   {
@@ -2405,7 +2405,7 @@
     "kw": "70",
     "hp": "95",
     "cc": "1598",
-    "engineCodes": "R9M 413  R9M 415",
+    "engineCodes": "R9M 413, R9M 415",
     "KBA_Numbers": ""
   },
   {
@@ -2416,7 +2416,7 @@
     "kw": "89",
     "hp": "121",
     "cc": "1598",
-    "engineCodes": "R9M 413  R9M 415",
+    "engineCodes": "R9M 413, R9M 415",
     "KBA_Numbers": ""
   },
   {

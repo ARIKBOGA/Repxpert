@@ -40,7 +40,7 @@
     "kw": "55",
     "hp": "75",
     "cc": "1580",
-    "engineCodes": "BAZ (XU5CP)  B1E (XU51C)",
+    "engineCodes": "BAZ (XU5CP), B1E (XU51C)",
     "KBA_Numbers": "3003276"
   },
   {
@@ -51,7 +51,7 @@
     "kw": "65",
     "hp": "88",
     "cc": "1580",
-    "engineCodes": "BDZ (XU5M)  BDY (XU5M2Z)",
+    "engineCodes": "BDZ (XU5M), BDY (XU5M2Z)",
     "KBA_Numbers": "3003629"
   },
   {
@@ -84,7 +84,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1769",
-    "engineCodes": "AJZ (XUD7TEY)  A8A (XUD7TE)",
+    "engineCodes": "AJZ (XUD7TEY), A8A (XUD7TE)",
     "KBA_Numbers": "3003275"
   },
   {
@@ -96,7 +96,7 @@
     "hp": "109",
     "cc": "1905",
     "engineCodes": "DDZ (XU9M)",
-    "KBA_Numbers": "3003281  3003656"
+    "KBA_Numbers": "3003281, 3003656"
   },
   {
     "brand": "PEUGEOT",
@@ -107,7 +107,7 @@
     "hp": "120",
     "cc": "1905",
     "engineCodes": "DKZ (XU9JAZ)",
-    "KBA_Numbers": "3003282  3003658"
+    "KBA_Numbers": "3003282, 3003658"
   },
   {
     "brand": "PEUGEOT",
@@ -118,7 +118,7 @@
     "hp": "95",
     "cc": "1905",
     "engineCodes": "D2C (XU92C)",
-    "KBA_Numbers": "3003262  3003651"
+    "KBA_Numbers": "3003262, 3003651"
   },
   {
     "brand": "PEUGEOT",
@@ -162,7 +162,7 @@
     "hp": "109",
     "cc": "1905",
     "engineCodes": "DDZ (XU9M)",
-    "KBA_Numbers": "3003657  3003627"
+    "KBA_Numbers": "3003657, 3003627"
   },
   {
     "brand": "PEUGEOT",
@@ -173,7 +173,7 @@
     "hp": "69",
     "cc": "1905",
     "engineCodes": "D9B (XUD9A)",
-    "KBA_Numbers": "3003264  3003653"
+    "KBA_Numbers": "3003264, 3003653"
   },
   {
     "brand": "PEUGEOT",
@@ -184,7 +184,7 @@
     "hp": "64",
     "cc": "1905",
     "engineCodes": "DJZ (XUD9A)",
-    "KBA_Numbers": "3003659  3003643"
+    "KBA_Numbers": "3003659, 3003643"
   },
   {
     "brand": "PEUGEOT",
@@ -195,7 +195,7 @@
     "hp": "105",
     "cc": "1905",
     "engineCodes": "DFZ (XU9J1)",
-    "KBA_Numbers": "3003263  3003652"
+    "KBA_Numbers": "3003263, 3003652"
   },
   {
     "brand": "PEUGEOT",
@@ -206,7 +206,7 @@
     "hp": "147",
     "cc": "1905",
     "engineCodes": "DFW (XU9J4Z)",
-    "KBA_Numbers": "3003277  3003654"
+    "KBA_Numbers": "3003277, 3003654"
   },
   {
     "brand": "PEUGEOT",
@@ -228,7 +228,7 @@
     "hp": "147",
     "cc": "1905",
     "engineCodes": "DFW (XU9J4Z)",
-    "KBA_Numbers": "3003655  3003626"
+    "KBA_Numbers": "3003655, 3003626"
   },
   {
     "brand": "PEUGEOT",
@@ -282,7 +282,7 @@
     "kw": "65",
     "hp": "88",
     "cc": "1580",
-    "engineCodes": "BDY (XU5M2Z)  BDZ (XU5M)  BDY (XU5M3Z)",
+    "engineCodes": "BDY (XU5M2Z), BDZ (XU5M), BDY (XU5M3Z)",
     "KBA_Numbers": "3003632"
   },
   {
@@ -315,7 +315,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1769",
-    "engineCodes": "A8A (XUD7TE)  AJZ (XUD7TEY)",
+    "engineCodes": "A8A (XUD7TE), AJZ (XUD7TEY)",
     "KBA_Numbers": "3003270"
   },
   {
@@ -327,7 +327,7 @@
     "hp": "95",
     "cc": "1905",
     "engineCodes": "D2C (XU92C)",
-    "KBA_Numbers": "3003274  3003677"
+    "KBA_Numbers": "3003274, 3003677"
   },
   {
     "brand": "PEUGEOT",
@@ -338,7 +338,7 @@
     "hp": "105",
     "cc": "1905",
     "engineCodes": "DFZ (XU9J1)",
-    "KBA_Numbers": "3003681  3003605"
+    "KBA_Numbers": "3003681, 3003605"
   },
   {
     "brand": "PEUGEOT",
@@ -349,7 +349,7 @@
     "hp": "109",
     "cc": "1905",
     "engineCodes": "DDZ (XU9M)",
-    "KBA_Numbers": "3003283  3003678"
+    "KBA_Numbers": "3003283, 3003678"
   },
   {
     "brand": "PEUGEOT",
@@ -360,7 +360,7 @@
     "hp": "120",
     "cc": "1905",
     "engineCodes": "DKZ (XU9JAZ)",
-    "KBA_Numbers": "3003680  3003284"
+    "KBA_Numbers": "3003680, 3003284"
   },
   {
     "brand": "PEUGEOT",
@@ -371,7 +371,7 @@
     "hp": "109",
     "cc": "1905",
     "engineCodes": "DDZ (XU9M)",
-    "KBA_Numbers": "3003679  3003630"
+    "KBA_Numbers": "3003679, 3003630"
   },
   {
     "brand": "PEUGEOT",
@@ -382,7 +382,7 @@
     "hp": "64",
     "cc": "1905",
     "engineCodes": "DJZ (XUD9A)",
-    "KBA_Numbers": "3003682  3003644"
+    "KBA_Numbers": "3003682, 3003644"
   },
   {
     "brand": "PEUGEOT",
@@ -392,8 +392,8 @@
     "kw": "51",
     "hp": "69",
     "cc": "1905",
-    "engineCodes": "DJY (XUD9A)  D9B (XUD9A)",
-    "KBA_Numbers": "3003273  3003676"
+    "engineCodes": "DJY (XUD9A), D9B (XUD9A)",
+    "KBA_Numbers": "3003273, 3003676"
   },
   {
     "brand": "PEUGEOT",
@@ -414,8 +414,8 @@
     "kw": "65",
     "hp": "88",
     "cc": "1580",
-    "engineCodes": "BDY (XU5M2Z)  BDY (XU5M3Z)  BDZ (XU5M)  BFZ (XU5JP)",
-    "KBA_Numbers": "3003704  3003629"
+    "engineCodes": "BDY (XU5M2Z), BDY (XU5M3Z), BDZ (XU5M), BFZ (XU5JP)",
+    "KBA_Numbers": "3003704, 3003629"
   },
   {
     "brand": "PEUGEOT",
@@ -425,7 +425,7 @@
     "kw": "66",
     "hp": "90",
     "cc": "1580",
-    "engineCodes": "B2A (XU52C/K)  BFZ (XU5JP)",
+    "engineCodes": "B2A (XU52C/K), BFZ (XU5JP)",
     "KBA_Numbers": ""
   },
   {
@@ -436,7 +436,7 @@
     "kw": "68",
     "hp": "92",
     "cc": "1580",
-    "engineCodes": "B2A (XU52C/K)  BFZ (XU5JP)",
+    "engineCodes": "B2A (XU52C/K), BFZ (XU5JP)",
     "KBA_Numbers": ""
   },
   {
@@ -579,7 +579,7 @@
     "kw": "65",
     "hp": "88",
     "cc": "1580",
-    "engineCodes": "BDY (XU5M2Z)  BDY (XU5M3Z)  BFZ (XU5JP)  BDZ (XU5M)",
+    "engineCodes": "BDY (XU5M2Z), BDY (XU5M3Z), BFZ (XU5JP), BDZ (XU5M)",
     "KBA_Numbers": "3003712"
   },
   {

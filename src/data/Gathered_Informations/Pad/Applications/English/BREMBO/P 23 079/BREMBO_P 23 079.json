@@ -7,7 +7,7 @@
     "kw": "45",
     "hp": "61",
     "cc": "994",
-    "engineCodes": "178 A3.011  178 A1.000",
+    "engineCodes": "178 A3.011, 178 A1.000",
     "KBA_Numbers": ""
   },
   {
@@ -18,7 +18,7 @@
     "kw": "44",
     "hp": "60",
     "cc": "1242",
-    "engineCodes": "178 C4.066  178 B7.045  188 A4.000",
+    "engineCodes": "178 C4.066, 178 B7.045, 188 A4.000",
     "KBA_Numbers": "4136474"
   },
   {
@@ -29,7 +29,7 @@
     "kw": "54",
     "hp": "73",
     "cc": "1242",
-    "engineCodes": "178 B5.000  178 E2.000  176 A8.000",
+    "engineCodes": "178 B5.000, 178 E2.000, 176 A8.000",
     "KBA_Numbers": ""
   },
   {
@@ -95,7 +95,7 @@
     "kw": "44",
     "hp": "60",
     "cc": "1242",
-    "engineCodes": "178 C4.066  188 A4.000",
+    "engineCodes": "178 C4.066, 188 A4.000",
     "KBA_Numbers": "4136454"
   },
   {
@@ -172,8 +172,8 @@
     "kw": "96",
     "hp": "130",
     "cc": "1747",
-    "engineCodes": "188 A6.000  183 A1.000",
-    "KBA_Numbers": "4136536  4136409"
+    "engineCodes": "188 A6.000, 183 A1.000",
+    "KBA_Numbers": "4136536, 4136409"
   },
   {
     "brand": "FIAT",
@@ -195,7 +195,7 @@
     "hp": "60",
     "cc": "1242",
     "engineCodes": "188 A4.000",
-    "KBA_Numbers": "4136AAG  4136019"
+    "KBA_Numbers": "4136AAG, 4136019"
   },
   {
     "brand": "FIAT",
@@ -206,7 +206,7 @@
     "hp": "85",
     "cc": "1248",
     "engineCodes": "223 A9.000",
-    "KBA_Numbers": "4136ARP  4136ADR"
+    "KBA_Numbers": "4136ARP, 4136ADR"
   },
   {
     "brand": "FIAT",
@@ -228,7 +228,7 @@
     "hp": "63",
     "cc": "1910",
     "engineCodes": "223 A6.000",
-    "KBA_Numbers": "4136AAE  4136015"
+    "KBA_Numbers": "4136AAE, 4136015"
   },
   {
     "brand": "FIAT",
@@ -239,6 +239,6 @@
     "hp": "80",
     "cc": "1910",
     "engineCodes": "188 A2.000",
-    "KBA_Numbers": "4136AAF  4136054"
+    "KBA_Numbers": "4136AAF, 4136054"
   }
 ]

@@ -7,7 +7,7 @@
     "kw": "158",
     "hp": "215",
     "cc": "2302",
-    "engineCodes": "S14 B23 (234S2)  S14 B23 (234EA)",
+    "engineCodes": "S14 B23 (234S2), S14 B23 (234EA)",
     "KBA_Numbers": "0575305"
   },
   {
@@ -18,7 +18,7 @@
     "kw": "143",
     "hp": "195",
     "cc": "2302",
-    "engineCodes": "S14 B23 (234S2)  S14 B23 (234S1)  S14 B23 (234EA)",
+    "engineCodes": "S14 B23 (234S2), S14 B23 (234S1), S14 B23 (234EA)",
     "KBA_Numbers": "0575303"
   },
   {
@@ -29,7 +29,7 @@
     "kw": "147",
     "hp": "200",
     "cc": "2302",
-    "engineCodes": "S14 B23 (234EA)  S14 B23 (234S2)",
+    "engineCodes": "S14 B23 (234EA), S14 B23 (234S2)",
     "KBA_Numbers": "0575302"
   },
   {
@@ -183,7 +183,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1990",
-    "engineCodes": "M50 B20 (206S2)  M50 B20 (206S1)",
+    "engineCodes": "M50 B20 (206S2), M50 B20 (206S1)",
     "KBA_Numbers": "0005492"
   },
   {
@@ -216,7 +216,7 @@
     "kw": "141",
     "hp": "192",
     "cc": "2494",
-    "engineCodes": "M50 B25 (256S1)  M50 B25 (256S2)",
+    "engineCodes": "M50 B25 (256S1), M50 B25 (256S2)",
     "KBA_Numbers": "0005493"
   },
   {
@@ -227,7 +227,7 @@
     "kw": "141",
     "hp": "192",
     "cc": "2494",
-    "engineCodes": "M50 B25 (256S2)  M50 B25 (256S1)",
+    "engineCodes": "M50 B25 (256S2), M50 B25 (256S1)",
     "KBA_Numbers": "0005521"
   },
   {
@@ -305,7 +305,7 @@
     "hp": "315",
     "cc": "3535",
     "engineCodes": "S38 B36 (366S1)",
-    "KBA_Numbers": "0575304  0575306"
+    "KBA_Numbers": "0575304, 0575306"
   },
   {
     "brand": "BMW",
@@ -316,7 +316,7 @@
     "hp": "340",
     "cc": "3795",
     "engineCodes": "S38 B38 (386S1)",
-    "KBA_Numbers": "0575307  7909302"
+    "KBA_Numbers": "0575307, 7909302"
   },
   {
     "brand": "BMW",
@@ -359,7 +359,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1990",
-    "engineCodes": "M50 B20 (206S2)  M50 B20 (206S1)",
+    "engineCodes": "M50 B20 (206S2), M50 B20 (206S1)",
     "KBA_Numbers": "0005515"
   },
   {
@@ -370,7 +370,7 @@
     "kw": "141",
     "hp": "192",
     "cc": "2494",
-    "engineCodes": "M50 B25 (256S2)  M50 B25 (256S1)",
+    "engineCodes": "M50 B25 (256S2), M50 B25 (256S1)",
     "KBA_Numbers": "0005516"
   },
   {
@@ -381,7 +381,7 @@
     "kw": "141",
     "hp": "192",
     "cc": "2494",
-    "engineCodes": "M50 B25 (256S1)  M50 B25 (256S2)",
+    "engineCodes": "M50 B25 (256S1), M50 B25 (256S2)",
     "KBA_Numbers": "0005522"
   },
   {
@@ -513,7 +513,7 @@
     "kw": "236",
     "hp": "321",
     "cc": "3201",
-    "engineCodes": "S50 B32 (326S1)  S50 B32 (326S3)",
+    "engineCodes": "S50 B32 (326S1), S50 B32 (326S3)",
     "KBA_Numbers": "7909310"
   },
   {

@@ -7,8 +7,8 @@
     "kw": "121",
     "hp": "165",
     "cc": "1490",
-    "engineCodes": "B 15 SFT  D 15 SFT",
-    "KBA_Numbers": "0035BKU  1844AAI"
+    "engineCodes": "B 15 SFT, D 15 SFT",
+    "KBA_Numbers": "0035BKU, 1844AAI"
   },
   {
     "brand": "OPEL",
@@ -29,8 +29,8 @@
     "kw": "191",
     "hp": "260",
     "cc": "1998",
-    "engineCodes": "B 20 NFT  D 20 NFT",
-    "KBA_Numbers": "0035BKV  1844AAJ"
+    "engineCodes": "B 20 NFT, D 20 NFT",
+    "KBA_Numbers": "0035BKV, 1844AAJ"
   },
   {
     "brand": "OPEL",
@@ -41,7 +41,7 @@
     "hp": "170",
     "cc": "1956",
     "engineCodes": "D 20 DTH",
-    "KBA_Numbers": "0035BKY  1844AAK"
+    "KBA_Numbers": "0035BKY, 1844AAK"
   },
   {
     "brand": "OPEL",
@@ -52,7 +52,7 @@
     "hp": "170",
     "cc": "1956",
     "engineCodes": "D 20 DTH",
-    "KBA_Numbers": "0035BKZ  1844AAL"
+    "KBA_Numbers": "0035BKZ, 1844AAL"
   },
   {
     "brand": "OPEL",
@@ -84,8 +84,8 @@
     "kw": "103",
     "hp": "140",
     "cc": "1490",
-    "engineCodes": "B 15 SFL  D 15 SFL",
-    "KBA_Numbers": "0035BKM  1844AAA"
+    "engineCodes": "B 15 SFL, D 15 SFL",
+    "KBA_Numbers": "0035BKM, 1844AAA"
   },
   {
     "brand": "OPEL",
@@ -95,8 +95,8 @@
     "kw": "121",
     "hp": "165",
     "cc": "1490",
-    "engineCodes": "D 15 SFT  B 15 SFT",
-    "KBA_Numbers": "0035BKN  1844AAB"
+    "engineCodes": "D 15 SFT, B 15 SFT",
+    "KBA_Numbers": "0035BKN, 1844AAB"
   },
   {
     "brand": "OPEL",
@@ -117,8 +117,8 @@
     "kw": "81",
     "hp": "110",
     "cc": "1598",
-    "engineCodes": "D 16 DTN  D 16 DTE  B 16 DTE",
-    "KBA_Numbers": "0035BKP  1844AAC"
+    "engineCodes": "D 16 DTN, D 16 DTE, B 16 DTE",
+    "KBA_Numbers": "0035BKP, 1844AAC"
   },
   {
     "brand": "OPEL",
@@ -128,8 +128,8 @@
     "kw": "100",
     "hp": "136",
     "cc": "1598",
-    "engineCodes": "D 16 DTH  B 16 DTH",
-    "KBA_Numbers": "0035BKQ  1844AAD"
+    "engineCodes": "D 16 DTH, B 16 DTH",
+    "KBA_Numbers": "0035BKQ, 1844AAD"
   },
   {
     "brand": "OPEL",
@@ -161,8 +161,8 @@
     "kw": "191",
     "hp": "260",
     "cc": "1998",
-    "engineCodes": "B 20 NFT  D 20 NFT",
-    "KBA_Numbers": "0035BKO  1844AAE"
+    "engineCodes": "B 20 NFT, D 20 NFT",
+    "KBA_Numbers": "0035BKO, 1844AAE"
   },
   {
     "brand": "OPEL",
@@ -183,8 +183,8 @@
     "kw": "125",
     "hp": "170",
     "cc": "1956",
-    "engineCodes": "D 20 DTH  B 20 DTH",
-    "KBA_Numbers": "0035BKR  1844AAF"
+    "engineCodes": "D 20 DTH, B 20 DTH",
+    "KBA_Numbers": "0035BKR, 1844AAF"
   },
   {
     "brand": "OPEL",
@@ -195,7 +195,7 @@
     "hp": "170",
     "cc": "1956",
     "engineCodes": "D 20 DTH",
-    "KBA_Numbers": "0035BKS  1844AAG"
+    "KBA_Numbers": "0035BKS, 1844AAG"
   },
   {
     "brand": "OPEL",
@@ -227,8 +227,8 @@
     "kw": "103",
     "hp": "140",
     "cc": "1490",
-    "engineCodes": "D 15 SFL  B 15 SFL",
-    "KBA_Numbers": "0035BKT  1844AAH"
+    "engineCodes": "D 15 SFL, B 15 SFL",
+    "KBA_Numbers": "0035BKT, 1844AAH"
   },
   {
     "brand": "OPEL",
@@ -238,8 +238,8 @@
     "kw": "121",
     "hp": "165",
     "cc": "1490",
-    "engineCodes": "D 15 SFT  B 15 SFT",
-    "KBA_Numbers": "0035BKU  1844AAI"
+    "engineCodes": "D 15 SFT, B 15 SFT",
+    "KBA_Numbers": "0035BKU, 1844AAI"
   },
   {
     "brand": "OPEL",
@@ -260,7 +260,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1598",
-    "engineCodes": "D 16 DTE  D 16 DTN  B 16 DTE",
+    "engineCodes": "D 16 DTE, D 16 DTN, B 16 DTE",
     "KBA_Numbers": "1844AHQ"
   },
   {
@@ -271,7 +271,7 @@
     "kw": "100",
     "hp": "136",
     "cc": "1598",
-    "engineCodes": "D 16 DTH  B 16 DTH",
+    "engineCodes": "D 16 DTH, B 16 DTH",
     "KBA_Numbers": "1844AHR"
   },
   {
@@ -293,8 +293,8 @@
     "kw": "191",
     "hp": "260",
     "cc": "1998",
-    "engineCodes": "D 20 NFT  B 20 NFT",
-    "KBA_Numbers": "0035BKV  1844AAJ"
+    "engineCodes": "D 20 NFT, B 20 NFT",
+    "KBA_Numbers": "0035BKV, 1844AAJ"
   },
   {
     "brand": "OPEL",
@@ -304,8 +304,8 @@
     "kw": "125",
     "hp": "170",
     "cc": "1956",
-    "engineCodes": "D 20 DTH  B 20 DTH",
-    "KBA_Numbers": "0035BKY  1844AAK"
+    "engineCodes": "D 20 DTH, B 20 DTH",
+    "KBA_Numbers": "0035BKY, 1844AAK"
   },
   {
     "brand": "OPEL",
@@ -316,7 +316,7 @@
     "hp": "170",
     "cc": "1956",
     "engineCodes": "D 20 DTH",
-    "KBA_Numbers": "0035BKZ  1844AAL"
+    "KBA_Numbers": "0035BKZ, 1844AAL"
   },
   {
     "brand": "OPEL",
@@ -348,7 +348,7 @@
     "kw": "125",
     "hp": "170",
     "cc": "1956",
-    "engineCodes": "D 20 DTH  B 20 DTH",
+    "engineCodes": "D 20 DTH, B 20 DTH",
     "KBA_Numbers": ""
   },
   {
@@ -370,7 +370,7 @@
     "kw": "103",
     "hp": "140",
     "cc": "1490",
-    "engineCodes": "D 15 SFL  B 15 SFL",
+    "engineCodes": "D 15 SFL, B 15 SFL",
     "KBA_Numbers": ""
   },
   {
@@ -381,7 +381,7 @@
     "kw": "121",
     "hp": "165",
     "cc": "1490",
-    "engineCodes": "D 15 SFT  B 15 SFT",
+    "engineCodes": "D 15 SFT, B 15 SFT",
     "KBA_Numbers": ""
   },
   {
@@ -403,7 +403,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1598",
-    "engineCodes": "D 16 DTN  D 16 DTE  B 16 DTE",
+    "engineCodes": "D 16 DTN, D 16 DTE, B 16 DTE",
     "KBA_Numbers": ""
   },
   {
@@ -414,7 +414,7 @@
     "kw": "100",
     "hp": "136",
     "cc": "1598",
-    "engineCodes": "D 16 DTH  B 16 DTH",
+    "engineCodes": "D 16 DTH, B 16 DTH",
     "KBA_Numbers": ""
   },
   {
@@ -447,7 +447,7 @@
     "kw": "125",
     "hp": "170",
     "cc": "1956",
-    "engineCodes": "D 20 DTH  B 20 DTH",
+    "engineCodes": "D 20 DTH, B 20 DTH",
     "KBA_Numbers": ""
   },
   {
@@ -513,7 +513,7 @@
     "kw": "103",
     "hp": "140",
     "cc": "1490",
-    "engineCodes": "D 15 SFL  B 15 SFL",
+    "engineCodes": "D 15 SFL, B 15 SFL",
     "KBA_Numbers": ""
   },
   {
@@ -524,7 +524,7 @@
     "kw": "121",
     "hp": "165",
     "cc": "1490",
-    "engineCodes": "D 15 SFT  B 15 SFT  D 15 XHT",
+    "engineCodes": "D 15 SFT, B 15 SFT, D 15 XHT",
     "KBA_Numbers": ""
   },
   {
@@ -535,7 +535,7 @@
     "kw": "81",
     "hp": "110",
     "cc": "1598",
-    "engineCodes": "D 16 DTN  D 16 DTE  B 16 DTE",
+    "engineCodes": "D 16 DTN, D 16 DTE, B 16 DTE",
     "KBA_Numbers": ""
   },
   {
@@ -546,7 +546,7 @@
     "kw": "100",
     "hp": "136",
     "cc": "1598",
-    "engineCodes": "D 16 DTH  B 16 DTH",
+    "engineCodes": "D 16 DTH, B 16 DTH",
     "KBA_Numbers": ""
   },
   {
@@ -579,7 +579,7 @@
     "kw": "125",
     "hp": "170",
     "cc": "1956",
-    "engineCodes": "D 20 DTH  B 20 DTH",
+    "engineCodes": "D 20 DTH, B 20 DTH",
     "KBA_Numbers": ""
   },
   {

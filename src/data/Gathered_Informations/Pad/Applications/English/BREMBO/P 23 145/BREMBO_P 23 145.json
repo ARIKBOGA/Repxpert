@@ -7,8 +7,8 @@
     "kw": "66",
     "hp": "90",
     "cc": "1248",
-    "engineCodes": "955 B2.000  199 A3.000",
-    "KBA_Numbers": "4136AMM  1742ABE"
+    "engineCodes": "955 B2.000, 199 A3.000",
+    "KBA_Numbers": "4136AMM, 1742ABE"
   },
   {
     "brand": "ALFA ROMEO",
@@ -18,8 +18,8 @@
     "kw": "70",
     "hp": "95",
     "cc": "1248",
-    "engineCodes": "330 A1.000  199 B1.000",
-    "KBA_Numbers": "4136AOR  1742ABD"
+    "engineCodes": "330 A1.000, 199 B1.000",
+    "KBA_Numbers": "4136AOR, 1742ABD"
   },
   {
     "brand": "ALFA ROMEO",
@@ -63,7 +63,7 @@
     "hp": "120",
     "cc": "1368",
     "engineCodes": "198 A4.000",
-    "KBA_Numbers": "4136AWK  1742AAA"
+    "KBA_Numbers": "4136AWK, 1742AAA"
   },
   {
     "brand": "ALFA ROMEO",
@@ -74,7 +74,7 @@
     "hp": "140",
     "cc": "1368",
     "engineCodes": "955 B1.000",
-    "KBA_Numbers": "4136BBI  1742AAH"
+    "KBA_Numbers": "4136BBI, 1742AAH"
   },
   {
     "brand": "ALFA ROMEO",
@@ -95,7 +95,7 @@
     "kw": "99",
     "hp": "135",
     "cc": "1368",
-    "engineCodes": "955 A2.000  955 A7.000",
+    "engineCodes": "955 A2.000, 955 A7.000",
     "KBA_Numbers": "4136ANO"
   },
   {
@@ -106,7 +106,7 @@
     "kw": "88",
     "hp": "120",
     "cc": "1598",
-    "engineCodes": "955 A3.000  198 A2.000",
+    "engineCodes": "955 A3.000, 198 A2.000",
     "KBA_Numbers": "4136ALI"
   },
   {
@@ -205,7 +205,7 @@
     "kw": "120",
     "hp": "163",
     "cc": "1956",
-    "engineCodes": "844 A2.000  198 A8.000",
+    "engineCodes": "844 A2.000, 198 A8.000",
     "KBA_Numbers": "4136AMI"
   },
   {
@@ -217,7 +217,7 @@
     "hp": "150",
     "cc": "1910",
     "engineCodes": "937 A5.000",
-    "KBA_Numbers": "4136ACX  4136676  4136677"
+    "KBA_Numbers": "4136ACX, 4136676, 4136677"
   },
   {
     "brand": "FIAT",
@@ -239,7 +239,7 @@
     "hp": "140",
     "cc": "1910",
     "engineCodes": "192 A5.000",
-    "KBA_Numbers": "4136569  4136570"
+    "KBA_Numbers": "4136569, 4136570"
   },
   {
     "brand": "FIAT",
@@ -261,7 +261,7 @@
     "hp": "170",
     "cc": "2446",
     "engineCodes": "192 A2.000",
-    "KBA_Numbers": "4136494  4136495"
+    "KBA_Numbers": "4136494, 4136495"
   },
   {
     "brand": "FIAT",

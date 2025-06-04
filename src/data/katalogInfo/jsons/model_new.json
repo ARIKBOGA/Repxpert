@@ -63808,8 +63808,8 @@
     "id": 9116,
     "marka_id": 486,
     "modeller_markalar::marka": "KIA",
-    "model": "K2500 Platform/Chassis (SD) | BONGO K2500 | FRONTIER",
-    "model_Web": "K2500 Platform/Chassis (SD) | BONGO K2500 | FRONTIER"
+    "model": "K2500 Platform/Chassis (SD) | FRONTIER | BONGO",
+    "model_Web": "K2500 Platform/Chassis (SD) | FRONTIER | BONGO"
   },
   {
     "id": 9117,
@@ -85830,15 +85830,15 @@
     "id": 12262,
     "marka_id": 665,
     "modeller_markalar::marka": "OPEL",
-    "model": "AGILA (A) (H00)",
-    "model_Web": "AGILA (A) (H00)"
+    "model": "AGILA A (H00)",
+    "model_Web": "AGILA A (H00)"
   },
   {
     "id": 12263,
     "marka_id": 665,
     "modeller_markalar::marka": "OPEL",
-    "model": "AGILA (B) (H08)",
-    "model_Web": "AGILA (B) (H08)"
+    "model": "AGILA B (H08)",
+    "model_Web": "AGILA B (H08)"
   },
   {
     "id": 12264,
@@ -103106,8 +103106,8 @@
     "id": 14730,
     "marka_id": 824,
     "modeller_markalar::marka": "SUZUKI",
-    "model": "WAGON R Hatchback (MH21, MH22) | KARIMUN ESTILO",
-    "model_Web": "WAGON R Hatchback (MH21, MH22) | KARIMUN ESTILO"
+    "model": "WAGON R (MH21, MH22) | KARIMUN ESTILO",
+    "model_Web": "WAGON R (MH21, MH22) | KARIMUN ESTILO"
   },
   {
     "id": 14731,
@@ -121119,5 +121119,47 @@
     "modeller_markalar::marka": "VW",
     "model": "LOAD UP! (121, 122, BL1, BL2)",
     "model_Web": "LOAD UP! (121, 122, BL1, BL2)"
+  },
+  {
+    "id": 17304,
+    "marka_id": 486,
+    "modeller_markalar::marka": "KIA",
+    "model": "CERATO IV Saloon (BD, BDM) | FORTE | K3 | GRAND CERATO | FORTE/K3",
+    "model_Web": "CERATO IV Saloon (BD, BDM) | FORTE | K3 | GRAND CERATO | FORTE/K3"
+  },
+  {
+    "id": 17305,
+    "marka_id": 435,
+    "modeller_markalar::marka": "IVECO",
+    "model": "ZETA",
+    "model_Web": "ZETA"
+  },
+  {
+    "id": 17306,
+    "marka_id": 435,
+    "modeller_markalar::marka": "IVECO",
+    "model": "EUROCARGO I-III",
+    "model_Web": "EUROCARGO I-III"
+  },
+  {
+    "id": 17307,
+    "marka_id": 435,
+    "modeller_markalar::marka": "IVECO",
+    "model": "EUROCARGO IV",
+    "model_Web": "EUROCARGO IV"
+  },
+  {
+    "id": 17308,
+    "marka_id": 435,
+    "modeller_markalar::marka": "IVECO",
+    "model": "EUROCARGO V",
+    "model_Web": "EUROCARGO V"
+  },
+  {
+    "id": 17309,
+    "marka_id": 435,
+    "modeller_markalar::marka": "IVECO",
+    "model": "EUROFIRE II",
+    "model_Web": "EUROFIRE II"
   }
 ]
