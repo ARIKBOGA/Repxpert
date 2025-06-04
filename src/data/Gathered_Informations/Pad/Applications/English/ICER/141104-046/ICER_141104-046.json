@@ -51,7 +51,7 @@
     "kw": "80",
     "hp": "109",
     "cc": "2461",
-    "engineCodes": "ANJ  AVR",
+    "engineCodes": "ANJ, AVR",
     "KBA_Numbers": "0603527"
   },
   {
@@ -106,7 +106,7 @@
     "kw": "116",
     "hp": "158",
     "cc": "2799",
-    "engineCodes": "BCQ  AUH",
+    "engineCodes": "BCQ, AUH",
     "KBA_Numbers": "0603685"
   },
   {
@@ -140,7 +140,7 @@
     "hp": "102",
     "cc": "2461",
     "engineCodes": "AHD",
-    "KBA_Numbers": "0603024  0603033"
+    "KBA_Numbers": "0603024, 0603033"
   },
   {
     "brand": "VW",
@@ -151,7 +151,7 @@
     "hp": "90",
     "cc": "2461",
     "engineCodes": "APA",
-    "KBA_Numbers": "0603057  0603053"
+    "KBA_Numbers": "0603057, 0603053"
   },
   {
     "brand": "VW",
@@ -161,8 +161,8 @@
     "kw": "80",
     "hp": "109",
     "cc": "2461",
-    "engineCodes": "ANJ  AVR",
-    "KBA_Numbers": "0603054  0603058"
+    "engineCodes": "ANJ, AVR",
+    "KBA_Numbers": "0603054, 0603058"
   },
   {
     "brand": "VW",
@@ -184,7 +184,7 @@
     "hp": "95",
     "cc": "2461",
     "engineCodes": "BBF",
-    "KBA_Numbers": "0603065  0603063"
+    "KBA_Numbers": "0603065, 0603063"
   },
   {
     "brand": "VW",
@@ -195,7 +195,7 @@
     "hp": "125",
     "cc": "2799",
     "engineCodes": "AGK",
-    "KBA_Numbers": "0603041  0603040"
+    "KBA_Numbers": "0603041, 0603040"
   },
   {
     "brand": "VW",
@@ -206,7 +206,7 @@
     "hp": "130",
     "cc": "2799",
     "engineCodes": "ATA",
-    "KBA_Numbers": "0603047  0603050"
+    "KBA_Numbers": "0603047, 0603050"
   },
   {
     "brand": "VW",
@@ -250,7 +250,7 @@
     "hp": "102",
     "cc": "2461",
     "engineCodes": "AHD",
-    "KBA_Numbers": "0603020  0603036"
+    "KBA_Numbers": "0603020, 0603036"
   },
   {
     "brand": "VW",
@@ -261,7 +261,7 @@
     "hp": "90",
     "cc": "2461",
     "engineCodes": "APA",
-    "KBA_Numbers": "0603051  0603055"
+    "KBA_Numbers": "0603051, 0603055"
   },
   {
     "brand": "VW",
@@ -271,8 +271,8 @@
     "kw": "80",
     "hp": "109",
     "cc": "2461",
-    "engineCodes": "ANJ  AVR",
-    "KBA_Numbers": "0603052  0603056"
+    "engineCodes": "ANJ, AVR",
+    "KBA_Numbers": "0603052, 0603056"
   },
   {
     "brand": "VW",
@@ -294,7 +294,7 @@
     "hp": "95",
     "cc": "2461",
     "engineCodes": "BBF",
-    "KBA_Numbers": "0603061  0603062"
+    "KBA_Numbers": "0603061, 0603062"
   },
   {
     "brand": "VW",
@@ -305,7 +305,7 @@
     "hp": "125",
     "cc": "2799",
     "engineCodes": "AGK",
-    "KBA_Numbers": "0603039  0603042"
+    "KBA_Numbers": "0603039, 0603042"
   },
   {
     "brand": "VW",
@@ -316,7 +316,7 @@
     "hp": "130",
     "cc": "2799",
     "engineCodes": "ATA",
-    "KBA_Numbers": "0603048  0603049"
+    "KBA_Numbers": "0603048, 0603049"
   },
   {
     "brand": "VW",
@@ -326,7 +326,7 @@
     "kw": "116",
     "hp": "158",
     "cc": "2799",
-    "engineCodes": "BCQ  AUH",
-    "KBA_Numbers": "0603066  0603068  0603069"
+    "engineCodes": "BCQ, AUH",
+    "KBA_Numbers": "0603066, 0603068, 0603069"
   }
 ]

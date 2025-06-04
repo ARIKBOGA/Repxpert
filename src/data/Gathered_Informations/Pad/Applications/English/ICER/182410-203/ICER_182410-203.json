@@ -24,12 +24,12 @@
   {
     "brand": "AUDI",
     "model": "A3 Allstreet (8YJ)",
-    "engineType": "40 TFSIe",
+    "engineType": "40 TFSI e",
     "madeYear": "from 11.2024",
     "kw": "150",
     "hp": "204",
     "cc": "1498",
-    "engineCodes": "EANB  DUCB",
+    "engineCodes": "EANB, DUCB",
     "KBA_Numbers": "0588CDS"
   },
   {
@@ -40,8 +40,8 @@
     "kw": "110",
     "hp": "150",
     "cc": "1968",
-    "engineCodes": "DSRB  DTSB  DTSA  DXPA",
-    "KBA_Numbers": "0588BZO  0588BUN"
+    "engineCodes": "DSRB, DTSB, DTSA, DXPA",
+    "KBA_Numbers": "0588BZO, 0588BUN"
   },
   {
     "brand": "AUDI",
@@ -52,7 +52,7 @@
     "hp": "150",
     "cc": "1498",
     "engineCodes": "DPCA",
-    "KBA_Numbers": "0588BYC  0588BUK"
+    "KBA_Numbers": "0588BYC, 0588BUK"
   },
   {
     "brand": "AUDI",
@@ -73,8 +73,8 @@
     "kw": "110",
     "hp": "150",
     "cc": "1498",
-    "engineCodes": "DFYA  DXDB",
-    "KBA_Numbers": "0588BYD  0588BUL"
+    "engineCodes": "DFYA, DXDB",
+    "KBA_Numbers": "0588BYD, 0588BUL"
   },
   {
     "brand": "AUDI",
@@ -95,7 +95,7 @@
     "kw": "294",
     "hp": "400",
     "cc": "2480",
-    "engineCodes": "DNWC  DXHB",
+    "engineCodes": "DNWC, DXHB",
     "KBA_Numbers": "1860ABF"
   },
   {
@@ -106,7 +106,7 @@
     "kw": "299",
     "hp": "407",
     "cc": "2480",
-    "engineCodes": "DXHA  DNWD",
+    "engineCodes": "DXHA, DNWD",
     "KBA_Numbers": "1860ABJ"
   },
   {
@@ -117,7 +117,7 @@
     "kw": "228",
     "hp": "310",
     "cc": "1984",
-    "engineCodes": "DNFB  DSFA",
+    "engineCodes": "DNFB, DSFA",
     "KBA_Numbers": "0588BXP"
   },
   {
@@ -128,7 +128,7 @@
     "kw": "245",
     "hp": "333",
     "cc": "1984",
-    "engineCodes": "DSFD  DNFF",
+    "engineCodes": "DSFD, DNFF",
     "KBA_Numbers": "0588CAY"
   },
   {
@@ -139,8 +139,8 @@
     "kw": "85",
     "hp": "116",
     "cc": "1968",
-    "engineCodes": "DTRD  DSUD  DTRB  DXRC",
-    "KBA_Numbers": "0588BZP  0588BUF"
+    "engineCodes": "DTRD, DSUD, DTRB, DXRC",
+    "KBA_Numbers": "0588BZP, 0588BUF"
   },
   {
     "brand": "AUDI",
@@ -151,7 +151,7 @@
     "hp": "110",
     "cc": "999",
     "engineCodes": "DLAA",
-    "KBA_Numbers": "0588BXS  1860ABD  0588BUB"
+    "KBA_Numbers": "0588BXS, 1860ABD, 0588BUB"
   },
   {
     "brand": "AUDI",
@@ -162,7 +162,7 @@
     "hp": "110",
     "cc": "999",
     "engineCodes": "DLAA",
-    "KBA_Numbers": "0588BXR  0588BUC"
+    "KBA_Numbers": "0588BXR, 0588BUC"
   },
   {
     "brand": "AUDI",
@@ -172,8 +172,8 @@
     "kw": "110",
     "hp": "150",
     "cc": "1968",
-    "engineCodes": "DSRB  DTSB  DTSA  DXPA",
-    "KBA_Numbers": "0588BZQ  0588BUG"
+    "engineCodes": "DSRB, DTSB, DTSA, DXPA",
+    "KBA_Numbers": "0588BZQ, 0588BUG"
   },
   {
     "brand": "AUDI",
@@ -184,7 +184,7 @@
     "hp": "150",
     "cc": "1498",
     "engineCodes": "DPCA",
-    "KBA_Numbers": "0588BYA  0588BUD"
+    "KBA_Numbers": "0588BYA, 0588BUD"
   },
   {
     "brand": "AUDI",
@@ -205,8 +205,8 @@
     "kw": "110",
     "hp": "150",
     "cc": "1498",
-    "engineCodes": "DFYA  DXDB",
-    "KBA_Numbers": "0588BYB  0588BUE"
+    "engineCodes": "DFYA, DXDB",
+    "KBA_Numbers": "0588BYB, 0588BUE"
   },
   {
     "brand": "AUDI",
@@ -249,7 +249,7 @@
     "kw": "200",
     "hp": "272",
     "cc": "1498",
-    "engineCodes": "EANB  DUCA",
+    "engineCodes": "EANB, DUCA",
     "KBA_Numbers": "0588CDT"
   },
   {
@@ -260,7 +260,7 @@
     "kw": "294",
     "hp": "400",
     "cc": "2480",
-    "engineCodes": "DNWC  DXHB",
+    "engineCodes": "DNWC, DXHB",
     "KBA_Numbers": "1860ABE"
   },
   {
@@ -283,7 +283,7 @@
     "hp": "310",
     "cc": "1984",
     "engineCodes": "DNFB",
-    "KBA_Numbers": "0588BXT  0588BVH"
+    "KBA_Numbers": "0588BXT, 0588BVH"
   },
   {
     "brand": "AUDI",
@@ -293,7 +293,7 @@
     "kw": "245",
     "hp": "333",
     "cc": "1984",
-    "engineCodes": "DSFD  DNFF",
+    "engineCodes": "DSFD, DNFF",
     "KBA_Numbers": "0588CAZ"
   },
   {
@@ -304,7 +304,7 @@
     "kw": "150",
     "hp": "204",
     "cc": "1395",
-    "engineCodes": "DGEA  EANA",
+    "engineCodes": "DGEA, EANA",
     "KBA_Numbers": "7593ARB"
   },
   {
@@ -315,8 +315,8 @@
     "kw": "180",
     "hp": "245",
     "cc": "1395",
-    "engineCodes": "EANA  DGEA",
-    "KBA_Numbers": "7593ARH  7593ARO"
+    "engineCodes": "EANA, DGEA",
+    "KBA_Numbers": "7593ARH, 7593ARO"
   },
   {
     "brand": "CUPRA",
@@ -326,7 +326,7 @@
     "kw": "200",
     "hp": "272",
     "cc": "1498",
-    "engineCodes": "EANB  DUCA",
+    "engineCodes": "EANB, DUCA",
     "KBA_Numbers": "7593AUG"
   },
   {
@@ -348,7 +348,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1968",
-    "engineCodes": "DTTC  DTTA",
+    "engineCodes": "DTTC, DTTA",
     "KBA_Numbers": "7593ARD"
   },
   {
@@ -359,7 +359,7 @@
     "kw": "110",
     "hp": "150",
     "cc": "1968",
-    "engineCodes": "DTTC  DTTA",
+    "engineCodes": "DTTC, DTTA",
     "KBA_Numbers": "7593ARE"
   },
   {
