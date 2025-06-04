@@ -67,19 +67,33 @@ export const padPairs: ProductReference[] = [
 
 ];
 
-//YV NO		AÇIKLAMA	TRW	Textar	balata:wva no
-//13	21827201	#YOK	STANDART VERSİYON I	GDB1322	2182702	21430
-//235	21934201	#YOK	STANDART VERSİYON I	GDB1344	2193402	21934
-//269	21471401	#YOK	STANDART VERSİYON I	GDB1269	2147102	23945
-//438	24727203	#YOK	SABİT 1 KABLOLU	GDB1864	2472701	24727
-//544	21158401	#YOK	STANDART VERSİYON I	GDB351	2115801	21158
 
 export const discPairs: ProductReference[] = [
 
 
 ];
 
-export const crankshaftPairs: ProductReference[] = [];
+export const crankshaftPairs: ProductReference[] = [
+  { yvNo: "7050010", brandRefs: { FAI: "FVD1117" } }, // 04L105251
+  { yvNo: "7051010", brandRefs: { CORTECO: "80004350" } }, // 059105251AA
+  { yvNo: "7052010", brandRefs: { CORTECO: "80000835" } }, // 6C1Q6B319EA
+  { yvNo: "7053010", brandRefs: { RIDEX: "3213B0103" } }, // 12303AD200
+  { yvNo: "7054010", brandRefs: { WILMINK: "WG2258147" } }, // 12303EB300
+  { yvNo: "7055010", brandRefs: { CAUTEX: "754662" } }, // 13810P2K003
+  { yvNo: "7056010", brandRefs: { RUVILLE: "520378" } }, // 13810PWA003
+  { yvNo: "7057010", brandRefs: { CORTECO: "80000990" } }, // 30637335
+  { yvNo: "7058010", brandRefs: { RIDEX: "3213B0013" } }, // 96419497
+  { yvNo: "7059010", brandRefs: { CORTECO: "80000919" } }, // 504017415
+  { yvNo: "7060010", brandRefs: { RUVILLE: "520398" } }, // 1340811012
+  { yvNo: "7061010", brandRefs: { CORTECO: "49378102" } }, // 1347015110
+  { yvNo: "7062010", brandRefs: { CORTECO: "80000544" } }, // 1660300103
+  { yvNo: "7063010", brandRefs: { CORTECO: "80001111" } }, // 640 030 02 03
+  { yvNo: "7064010", brandRefs: { CORTECO: "80001108" } }, // 6110300103
+  { yvNo: "7065010", brandRefs: { CORTECO: "80000819" } }, // 6420300403
+  { yvNo: "7066010", brandRefs: { KRAFTVOLL: "15050090" } }, // 7700273916
+  { yvNo: "7067010", brandRefs: { CORTECO: "49467798" } }, // 11238477129
+  { yvNo: "7068010", brandRefs: { RIDEX: "3213B0032" } }, // MD338316
+];
 
 /*  
     Yukardaki pairlerden herhangi birini scrape ettikten sonra SADECE bunların aplikasyonları excel e almak için 

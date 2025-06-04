@@ -5,11 +5,10 @@ import path from "path";
 import { addToRetryList, getTextContent } from "../utils/extractHelpers";
 import ConfigReader from "../utils/ConfigReader";
 import { selector } from "../utils/Selectors";
-import { getSubfolderNamesSync, readJsonFile, retryListFilePath, padPairs, discPairs } from "../utils/FileHelpers";
+import { getSubfolderNamesSync, readJsonFile, retryListFilePath, padPairs, discPairs, crankshaftPairs } from "../utils/FileHelpers";
 import { goToSearchResultsEnglish, ProductReference, readProductReferencesFromExcel } from "../utils/ScraperHelpers";
 
 
-//const manualArray: string[] = ["2932003"];
 const filterBrand = process.env.FILTER_BRAND_APPLICATION as string;
 const productType = process.env.PRODUCT_TYPE as string;
 const references: ProductReference[] = readProductReferencesFromExcel(productType);
@@ -22,10 +21,11 @@ let retryList = readJsonFile<string[]>(retryListFilePath, []);
 
 test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
 
-  for (const ref of padPairs) {
+  for (const ref of references) {
 
     const { yvNo, brandRefs } = ref;
 
+    //const filterBrand = Object.keys(brandRefs)[0];
     let crossNumber = brandRefs && (brandRefs[filterBrand] as string);
 
     if (!crossNumber || crossNumber === "") {
