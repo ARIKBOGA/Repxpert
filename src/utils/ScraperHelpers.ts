@@ -57,7 +57,7 @@ export async function goToSearchResultsEnglish(
   await page.goto(process.env.REPXPERT_HOME_ENGLISH_URL as string);
   await page.waitForLoadState('domcontentloaded');
   await page.waitForLoadState('networkidle');
-  await page.waitForTimeout(1500);
+  await page.waitForTimeout(1000);
   await page.getByRole("textbox", { name: /OE number/i }).fill(oe);
   await page.getByRole("textbox", { name: /OE number/i }).press("Enter");
 
@@ -68,7 +68,7 @@ export async function goToSearchResultsEnglish(
     .getByRole("checkbox", { name: new RegExp(filterBrand, "i") })
     .first()
     .click({timeout: 5000});
-  await page.waitForTimeout(2000);
+  await page.waitForTimeout(1000);
 
   const productLinks = await page
     .getByRole("link", { name: new RegExp(filterBrand, "i") })
