@@ -63,7 +63,7 @@ try {
   const lookupWorkbook = XLSX.readFile(LOOKUP_FILE_PATH, { cellDates: false });
   const lookupSheet = lookupWorkbook.Sheets[lookupWorkbook.SheetNames[0]];
 
-  const fieldsToProcess = ["BREMBO", "TRW", "ICER", "TEXTAR", "KRAFTVOLL","CORTECO","RIDEX","FAI","RUVILLE","WILMINK","CAUTEX"];
+  const fieldsToProcess = ["BREMBO", "TRW", "ICER", "TEXTAR", "KRAFTVOLL","CORTECO","RIDEX","FAI","RUVILLE","WILMINK","CAUTEX", "VAICO", "FEBI"];
 
   XLSX.utils.sheet_to_json<LookupExcelRow>(lookupSheet).forEach(row => {
     const yvValue = row.YV?.toString();
