@@ -1,15 +1,14 @@
-import { test } from "@playwright/test";
+import { expect, test } from "@playwright/test";
 import { Application } from "../types/Application";
 import fs from "fs";
 import path from "path";
 import { addToRetryList, getTextContent } from "../utils/extractHelpers";
-import ConfigReader from "../utils/ConfigReader";
 import { selector } from "../utils/Selectors";
 import { getSubfolderNamesSync, readJsonFile, retryListFilePath, padPairs, discPairs, crankshaftPairs } from "../utils/FileHelpers";
 import { goToSearchResultsEnglish, ProductReference, readProductReferencesFromExcel } from "../utils/ScraperHelpers";
 
 
-const filterBrand = process.env.FILTER_BRAND_APPLICATION as string;
+//const filterBrand = process.env.FILTER_BRAND_APPLICATION as string;
 const productType = process.env.PRODUCT_TYPE as string;
 const references: ProductReference[] = readProductReferencesFromExcel(productType);
 
@@ -21,11 +20,11 @@ let retryList = readJsonFile<string[]>(retryListFilePath, []);
 
 test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
 
-  for (const ref of references) {
+  for (const ref of crankshaftPairs) {
 
     const { yvNo, brandRefs } = ref;
 
-    //const filterBrand = Object.keys(brandRefs)[0];
+    const filterBrand = Object.keys(brandRefs)[0];
     let crossNumber = brandRefs && (brandRefs[filterBrand] as string);
 
     if (!crossNumber || crossNumber === "") {
@@ -44,8 +43,8 @@ test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
       //console.warn(`⚠️ ${crossNumber} kodu zaten alınmış, atlanıyor...`);
       continue;
     }
-
     scrapedCrossSet.add(crossNumber);
+
     test(`${filterBrand} - ${crossNumber} ürününün araç uyumluluklarını getir`, async ({ page }) => {
       try {
         const productLinks = await goToSearchResultsEnglish(page, crossNumber, filterBrand, retryList, addToRetryList);
@@ -63,8 +62,8 @@ test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
         await page.waitForTimeout(500); // Kısa bekleme
 
         const productTitle = (await getTextContent(page.locator(".h1").nth(0))) || "Unknown Product";
-        const productProducer = productTitle.split(" ")[0];
-        const productID = productTitle.substring(productTitle.indexOf(" ")).trim();
+        const productProducer = filterBrand;
+        const productID = crossNumber;
         const brands = page.locator(selector.aria_level_1_brand);
 
         const applications = new Array<Application>();
@@ -95,31 +94,34 @@ test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
           const processedVehicles = new Set<string>();
 
           const vehicleCount = await page.locator(selector.aria_level_2_vehicle).count();
+          const vehicles = page.locator(selector.aria_level_2_vehicle);
+          const vehicleBoxes = page.locator(selector.aria_level_2_vehicleBox);
 
           // Vehicle listesindeki her bir item için
           for (let j = 0; j < vehicleCount; j++) {
-            const vehicles = page.locator(selector.aria_level_2_vehicle);
-            const vehicleEl = vehicles.nth(j);
-            const vehicle = (await vehicleEl.textContent())?.trim() || "";
+            const vehicleElement = vehicles.nth(j);
+            const vehicleBoxElement = vehicleBoxes.nth(j);
+            const vehicleText = (await vehicleElement.textContent())?.trim() || "";
 
-            if (processedVehicles.has(vehicle)) continue;
-            processedVehicles.add(vehicle);
+            if (processedVehicles.has(vehicleText)) continue;
+            processedVehicles.add(vehicleText);
 
             // Eğer araç zaten açıksa (expanded), önce kapat
-            const isExpanded = await vehicleEl.getAttribute("aria-expanded");
+            const isExpanded = await vehicleBoxElement.getAttribute("aria-expanded");
             if (isExpanded === "true") {
-              await vehicleEl.click();
+              await vehicleElement.click();
               await page.waitForTimeout(1000); // collapse işlemi tamamlanana kadar bekle
             }
 
-            await vehicleEl.click(); // tekrar aç
-            await page.waitForTimeout(4000); // açılmasını bekle
+            await vehicleElement.click(); // tekrar aç
+            await expect(vehicleBoxElement).toHaveAttribute("aria-expanded", "true");
+            await page.waitForTimeout(1500); // Kısa bekleme
 
             // Eğer araç açılmadıysa, hata logu yaz ve bir sonraki araç'a gec
             if (!page.locator(selector.aria_level_3_rows) || await page.locator(selector.aria_level_3_rows).count() === 0) {
 
-              console.warn(`⚠️⚠️⚠️ ${brand} - ${vehicle} için uyumluluk satırı bulunamadı. Kod: ${crossNumber}`);
-              await vehicleEl.click(); // tekrar kapat
+              console.warn(`⚠️⚠️⚠️ ${brand} - ${vehicleText} için uyumluluk satırı bulunamadı. Kod: ${crossNumber}`);
+              await vehicleElement.click(); // tekrar kapat
               await page.waitForTimeout(1000);
               continue;
             }
@@ -141,7 +143,7 @@ test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
 
               applications.push({
                 brand,
-                model: vehicle,
+                model: vehicleText,
                 engineType: cellValues[0] || "",
                 madeYear: cellValues[1] || "",
                 kw: cellValues[2] || "",
@@ -153,7 +155,7 @@ test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
             }
 
             await page.waitForTimeout(500);
-            await vehicleEl.click(); // collapse after processing
+            await vehicleElement.click(); // collapse after processing
             await page.waitForTimeout(1000);
           }
 
