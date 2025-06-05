@@ -24,7 +24,7 @@ const productType = process.env.PRODUCT_TYPE as string;
 const formattedDate = formatDateTime(new Date());
 
 const OUTPUT_FILE = `English_${productType}_APPLICATIONS_${filterBrand}_${formattedDate.numericDate}.xlsx`;
-const ROOT_PATH = `src/data/Gathered_Informations/${productType}/Applications/English/${filterBrand}`;
+const ROOT_PATH = `src/data/Gathered_Informations/${productType}/Applications/English`;
 const LOOKUP_FILE_PATH = `src/data/katalogInfo/excels/${productType}_katalog_full.xlsx`;
 const MODEL_MATCH_POOL_PATH = "src/data/katalogInfo/jsons/modelMatchPool.json";
 
@@ -63,7 +63,7 @@ try {
   const lookupWorkbook = XLSX.readFile(LOOKUP_FILE_PATH, { cellDates: false });
   const lookupSheet = lookupWorkbook.Sheets[lookupWorkbook.SheetNames[0]];
 
-  const fieldsToProcess = ["BREMBO", "TRW", "ICER", "TEXTAR", "KRAFTVOLL"];
+  const fieldsToProcess = ["BREMBO", "TRW", "ICER", "TEXTAR", "KRAFTVOLL","CORTECO","RIDEX","FAI","RUVILLE","WILMINK","CAUTEX"];
 
   XLSX.utils.sheet_to_json<LookupExcelRow>(lookupSheet).forEach(row => {
     const yvValue = row.YV?.toString();
@@ -133,7 +133,7 @@ async function main() {
 
 
   // Tüm JSON uygulama dosyalarını paralel olarak oku
-  const files = await glob(`${ROOT_PATH}/**/${filterBrand}*.json`);
+  const files = await glob(`${ROOT_PATH}/**/**.json`);
   if (files.length === 0) {
     console.warn(`⚠️ Uyarı: ${ROOT_PATH} altında ${filterBrand}*.json dosyası bulunamadı. Çıkış yapılıyor.`);
     return;
