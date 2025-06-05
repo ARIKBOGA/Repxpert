@@ -1,0 +1,189 @@
+[
+  {
+    "brand": "DACIA",
+    "model": "LOGAN II",
+    "engineType": "TCe 90 (L8MA, L8M1, L8AC)",
+    "madeYear": "from 10.2012",
+    "kw": "66",
+    "hp": "90",
+    "cc": "898",
+    "engineCodes": "H4B 408, H4B 400, H4B 412",
+    "KBA_Numbers": "8212ACY"
+  },
+  {
+    "brand": "DACIA",
+    "model": "LOGAN MCV II",
+    "engineType": "TCe 90 (K8M1, K8MA, K8AC)",
+    "madeYear": "from 02.2013",
+    "kw": "66",
+    "hp": "90",
+    "cc": "898",
+    "engineCodes": "H4B 408, H4B 400, H4B 412",
+    "KBA_Numbers": "8212ADD"
+  },
+  {
+    "brand": "DACIA",
+    "model": "LOGAN MCV II",
+    "engineType": "TCe 90 LPG",
+    "madeYear": "from 09.2015",
+    "kw": "66",
+    "hp": "90",
+    "cc": "898",
+    "engineCodes": "H4B 410, H4B 405",
+    "KBA_Numbers": "8212ADZ"
+  },
+  {
+    "brand": "DACIA",
+    "model": "SANDERO II",
+    "engineType": "TCe 90 (B8M1, B8MA, B8AC)",
+    "madeYear": "from 10.2012",
+    "kw": "66",
+    "hp": "90",
+    "cc": "898",
+    "engineCodes": "H4B 400, H4B 408, H4B 412, H4B 411, H4B 410",
+    "KBA_Numbers": "8212ACZ"
+  },
+  {
+    "brand": "DACIA",
+    "model": "SANDERO II",
+    "engineType": "TCe 90 LPG (B8M1)",
+    "madeYear": "from 09.2015",
+    "kw": "66",
+    "hp": "90",
+    "cc": "898",
+    "engineCodes": "H4B 410",
+    "KBA_Numbers": "8212ADY"
+  },
+  {
+    "brand": "NISSAN",
+    "model": "MICRA V (K14)",
+    "engineType": "0.9 IG-T",
+    "madeYear": "from 12.2016",
+    "kw": "66",
+    "hp": "90",
+    "cc": "898",
+    "engineCodes": "HR09DET, H4B 408",
+    "KBA_Numbers": "1329ALC"
+  },
+  {
+    "brand": "NISSAN",
+    "model": "MICRA V (K14)",
+    "engineType": "0.9 LPG",
+    "madeYear": "from 03.2019",
+    "kw": "64",
+    "hp": "87",
+    "cc": "898",
+    "engineCodes": "HR09DET",
+    "KBA_Numbers": ""
+  },
+  {
+    "brand": "RENAULT",
+    "model": "CAPTUR I (J5_, H5_)",
+    "engineType": "0.9 TCe 90",
+    "madeYear": "from 06.2013",
+    "kw": "66",
+    "hp": "90",
+    "cc": "898",
+    "engineCodes": "H4B 400, H4B 412, H4B 408",
+    "KBA_Numbers": "3333BAD"
+  },
+  {
+    "brand": "RENAULT",
+    "model": "CLIO IV (BH_) | CLIO MIO | LUTECIA",
+    "engineType": "0.9 TCe 75 (BHNP)",
+    "madeYear": "05.2018 - 08.2021",
+    "kw": "56",
+    "hp": "76",
+    "cc": "898",
+    "engineCodes": "H4B 408",
+    "KBA_Numbers": "3333BJR"
+  },
+  {
+    "brand": "RENAULT",
+    "model": "CLIO IV (BH_) | CLIO MIO | LUTECIA",
+    "engineType": "0.9 TCe 90 (BHNF, BHMA, BHMH, BHJK, BHJR)",
+    "madeYear": "11.2012 - 08.2021",
+    "kw": "66",
+    "hp": "90",
+    "cc": "898",
+    "engineCodes": "H4B 408, H4B 400, H4B 412",
+    "KBA_Numbers": "3333BAD"
+  },
+  {
+    "brand": "RENAULT",
+    "model": "CLIO IV Grandtour (KH_)",
+    "engineType": "0.9 TCe 75 (KHNP)",
+    "madeYear": "08.2018 - 08.2021",
+    "kw": "56",
+    "hp": "76",
+    "cc": "898",
+    "engineCodes": "H4B 408",
+    "KBA_Numbers": "3333BJS"
+  },
+  {
+    "brand": "RENAULT",
+    "model": "CLIO IV Grandtour (KH_)",
+    "engineType": "0.9 TCe 90",
+    "madeYear": "01.2013 - 08.2021",
+    "kw": "66",
+    "hp": "90",
+    "cc": "898",
+    "engineCodes": "H4B 408, H4B 400",
+    "KBA_Numbers": "3333BAT"
+  },
+  {
+    "brand": "RENAULT",
+    "model": "CLIO IV Hatchback Van (BH_)",
+    "engineType": "0.9 TCe 75",
+    "madeYear": "01.2014 - 08.2021",
+    "kw": "56",
+    "hp": "76",
+    "cc": "898",
+    "engineCodes": "H4B 408",
+    "KBA_Numbers": "3333BJT"
+  },
+  {
+    "brand": "RENAULT",
+    "model": "TWINGO III (BCM_, BCA_)",
+    "engineType": "0.9 TCe 110",
+    "madeYear": "from 11.2016",
+    "kw": "80",
+    "hp": "109",
+    "cc": "898",
+    "engineCodes": "H4B 401",
+    "KBA_Numbers": "3333BGT"
+  },
+  {
+    "brand": "RENAULT",
+    "model": "TWINGO III (BCM_, BCA_)",
+    "engineType": "0.9 TCe 90 (BCM9, BCM2)",
+    "madeYear": "from 09.2014",
+    "kw": "66",
+    "hp": "90",
+    "cc": "898",
+    "engineCodes": "H4B 401",
+    "KBA_Numbers": "3333BDK"
+  },
+  {
+    "brand": "RENAULT",
+    "model": "TWINGO III (BCM_, BCA_)",
+    "engineType": "0.9 TCe 90 LPG (BCMD)",
+    "madeYear": "from 08.2018",
+    "kw": "66",
+    "hp": "90",
+    "cc": "898",
+    "engineCodes": "H4B 451",
+    "KBA_Numbers": "3333BKK"
+  },
+  {
+    "brand": "RENAULT",
+    "model": "TWINGO III (BCM_, BCA_)",
+    "engineType": "0.9 TCe 95",
+    "madeYear": "from 03.2019",
+    "kw": "68",
+    "hp": "92",
+    "cc": "898",
+    "engineCodes": "H4B 453",
+    "KBA_Numbers": "3333BLH"
+  }
+]
