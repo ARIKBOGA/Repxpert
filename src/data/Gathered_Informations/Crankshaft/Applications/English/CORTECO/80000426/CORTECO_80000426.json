@@ -1,0 +1,211 @@
+[
+  {
+    "brand": "CITROËN",
+    "model": "C4 I (LC_)",
+    "engineType": "2.0 HDi",
+    "madeYear": "11.2004 - 07.2011",
+    "kw": "100",
+    "hp": "136",
+    "cc": "1997",
+    "engineCodes": "RHR (DW10BTED4)",
+    "KBA_Numbers": "3001AAP, 3001860"
+  },
+  {
+    "brand": "CITROËN",
+    "model": "C5 II (RC_)",
+    "engineType": "2.0 HDi (RCRHRH)",
+    "madeYear": "09.2004 - 01.2008",
+    "kw": "100",
+    "hp": "136",
+    "cc": "1997",
+    "engineCodes": "RHR (DW10BTED4)",
+    "KBA_Numbers": "3001833, 3001AAR"
+  },
+  {
+    "brand": "CITROËN",
+    "model": "C5 II Break (RE_)",
+    "engineType": "2.0 HDi (RERHRH)",
+    "madeYear": "09.2004 - 01.2008",
+    "kw": "100",
+    "hp": "136",
+    "cc": "1997",
+    "engineCodes": "RHR (DW10BTED4)",
+    "KBA_Numbers": "3001834, 3001AAS"
+  },
+  {
+    "brand": "FIAT",
+    "model": "SCUDO Bus (270_, 272_)",
+    "engineType": "2.0 D Multijet",
+    "madeYear": "01.2007 - 03.2016",
+    "kw": "88",
+    "hp": "120",
+    "cc": "1997",
+    "engineCodes": "RHK, RHG",
+    "KBA_Numbers": "4136AFS, 4136AFT"
+  },
+  {
+    "brand": "FIAT",
+    "model": "SCUDO Bus (270_, 272_)",
+    "engineType": "2.0 D Multijet",
+    "madeYear": "01.2007 - 03.2016",
+    "kw": "100",
+    "hp": "136",
+    "cc": "1997",
+    "engineCodes": "RHR",
+    "KBA_Numbers": "4136AHR, 4136AHS"
+  },
+  {
+    "brand": "FIAT",
+    "model": "SCUDO Platform/Chassis (270_, 272_)",
+    "engineType": "2.0 D Multijet",
+    "madeYear": "01.2007 - 03.2016",
+    "kw": "88",
+    "hp": "120",
+    "cc": "1997",
+    "engineCodes": "RHK, RHG",
+    "KBA_Numbers": ""
+  },
+  {
+    "brand": "FIAT",
+    "model": "SCUDO Platform/Chassis (270_, 272_)",
+    "engineType": "2.0 D Multijet",
+    "madeYear": "01.2007 - 03.2016",
+    "kw": "100",
+    "hp": "136",
+    "cc": "1997",
+    "engineCodes": "DW10BTED4, RHR",
+    "KBA_Numbers": ""
+  },
+  {
+    "brand": "FIAT",
+    "model": "SCUDO Van (270_, 272_)",
+    "engineType": "2.0 D Multijet",
+    "madeYear": "01.2007 - 03.2016",
+    "kw": "88",
+    "hp": "120",
+    "cc": "1997",
+    "engineCodes": "RHK, RHG",
+    "KBA_Numbers": "4136ARB, 4136AGI"
+  },
+  {
+    "brand": "FIAT",
+    "model": "SCUDO Van (270_, 272_)",
+    "engineType": "2.0 D Multijet",
+    "madeYear": "01.2007 - 03.2016",
+    "kw": "100",
+    "hp": "136",
+    "cc": "1997",
+    "engineCodes": "RHR",
+    "KBA_Numbers": "4136AQY, 4136AGJ"
+  },
+  {
+    "brand": "FIAT",
+    "model": "ULYSSE (179_)",
+    "engineType": "2.0 D Multijet",
+    "madeYear": "05.2006 - 06.2011",
+    "kw": "88",
+    "hp": "120",
+    "cc": "1997",
+    "engineCodes": "RHK",
+    "KBA_Numbers": "4136ADK"
+  },
+  {
+    "brand": "FIAT",
+    "model": "ULYSSE (179_)",
+    "engineType": "2.0 D Multijet",
+    "madeYear": "05.2006 - 06.2011",
+    "kw": "100",
+    "hp": "136",
+    "cc": "1997",
+    "engineCodes": "RHR",
+    "KBA_Numbers": "4136ADW"
+  },
+  {
+    "brand": "FORD",
+    "model": "FOCUS II (DA_, HCP, DP)",
+    "engineType": "2.0 TDCi",
+    "madeYear": "07.2004 - 09.2012",
+    "kw": "100",
+    "hp": "136",
+    "cc": "1997",
+    "engineCodes": "G6DD, G6DG, G6DA, G6DB",
+    "KBA_Numbers": "8566575, 8566ABE"
+  },
+  {
+    "brand": "FORD",
+    "model": "FOCUS II Saloon (DB_, FCH, DH)",
+    "engineType": "2.0 TDCi",
+    "madeYear": "04.2005 - 09.2012",
+    "kw": "100",
+    "hp": "136",
+    "cc": "1997",
+    "engineCodes": "G6DD, G6DB, G6DA, G6DG",
+    "KBA_Numbers": "8566AAS, 8566604"
+  },
+  {
+    "brand": "FORD",
+    "model": "FOCUS II Turnier (DA_, FFS, DS)",
+    "engineType": "2.0 TDCi",
+    "madeYear": "07.2004 - 09.2012",
+    "kw": "100",
+    "hp": "136",
+    "cc": "1997",
+    "engineCodes": "G6DG, G6DD, G6DB, G6DA",
+    "KBA_Numbers": "8566586, 8566ABF"
+  },
+  {
+    "brand": "PEUGEOT",
+    "model": "307 (3A/C)",
+    "engineType": "2.0 HDi 135",
+    "madeYear": "10.2003 - 11.2007",
+    "kw": "100",
+    "hp": "136",
+    "cc": "1997",
+    "engineCodes": "RHR (DW10BTED4)",
+    "KBA_Numbers": "3003ABV, 3003118"
+  },
+  {
+    "brand": "PEUGEOT",
+    "model": "307 Break (3E)",
+    "engineType": "2.0 HDi 135",
+    "madeYear": "02.2004 - 04.2008",
+    "kw": "100",
+    "hp": "136",
+    "cc": "1997",
+    "engineCodes": "RHR (DW10BTED4)",
+    "KBA_Numbers": "3003ABX, 3003119"
+  },
+  {
+    "brand": "PEUGEOT",
+    "model": "307 SW (3H)",
+    "engineType": "2.0 HDi 135",
+    "madeYear": "02.2004 - 04.2008",
+    "kw": "100",
+    "hp": "136",
+    "cc": "1997",
+    "engineCodes": "RHR (DW10BTED4)",
+    "KBA_Numbers": "3003ABY"
+  },
+  {
+    "brand": "PEUGEOT",
+    "model": "407 (6D_)",
+    "engineType": "2.0 HDi 135 (6DRHRH, 6DRHRE, 6DRHRG, 6DRHRJ)",
+    "madeYear": "05.2004 - 10.2010",
+    "kw": "100",
+    "hp": "136",
+    "cc": "1997",
+    "engineCodes": "RHR (DW10BTED4)",
+    "KBA_Numbers": "3003AJI, 3003AAV, 3003124"
+  },
+  {
+    "brand": "PEUGEOT",
+    "model": "407 SW (6E_, 6D_)",
+    "engineType": "2.0 HDi 135",
+    "madeYear": "07.2004 - 12.2010",
+    "kw": "100",
+    "hp": "136",
+    "cc": "1997",
+    "engineCodes": "RHR (DW10BTED4)",
+    "KBA_Numbers": "3003AJJ, 3003AAX, 3003125"
+  }
+]

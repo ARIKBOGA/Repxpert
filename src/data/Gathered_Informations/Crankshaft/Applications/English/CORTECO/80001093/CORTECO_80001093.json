@@ -1,0 +1,222 @@
+[
+  {
+    "brand": "NISSAN",
+    "model": "PRIMERA (P12)",
+    "engineType": "1.9 dCi",
+    "madeYear": "04.2003 - 10.2007",
+    "kw": "88",
+    "hp": "120",
+    "cc": "1870",
+    "engineCodes": "F9Q",
+    "KBA_Numbers": "3144008"
+  },
+  {
+    "brand": "NISSAN",
+    "model": "PRIMERA Estate (WP12)",
+    "engineType": "1.9 dCi",
+    "madeYear": "from 04.2003",
+    "kw": "88",
+    "hp": "120",
+    "cc": "1870",
+    "engineCodes": "F9Q",
+    "KBA_Numbers": "3144010"
+  },
+  {
+    "brand": "NISSAN",
+    "model": "PRIMERA Hatchback (P12)",
+    "engineType": "1.9 dCi",
+    "madeYear": "04.2003 - 10.2007",
+    "kw": "88",
+    "hp": "120",
+    "cc": "1870",
+    "engineCodes": "F9Q",
+    "KBA_Numbers": "3144009"
+  },
+  {
+    "brand": "RENAULT",
+    "model": "GRAND SCÉNIC II (JM0/1_)",
+    "engineType": "1.9 dCi (JM0G, JM12, JM1G, JM2C)",
+    "madeYear": "04.2004 - 05.2006",
+    "kw": "88",
+    "hp": "120",
+    "cc": "1870",
+    "engineCodes": "F9Q 812",
+    "KBA_Numbers": "3333ABT"
+  },
+  {
+    "brand": "RENAULT",
+    "model": "GRAND SCÉNIC II (JM0/1_)",
+    "engineType": "1.9 dCi (JM14)",
+    "madeYear": "04.2004 - 02.2008",
+    "kw": "96",
+    "hp": "131",
+    "cc": "1870",
+    "engineCodes": "F9Q 818, F9Q 816, F9Q 804, F9Q 803",
+    "KBA_Numbers": "3333ABZ"
+  },
+  {
+    "brand": "RENAULT",
+    "model": "LAGUNA II (BG0/1_)",
+    "engineType": "1.9 dCi (BG05)",
+    "madeYear": "03.2004 - 05.2005",
+    "kw": "68",
+    "hp": "92",
+    "cc": "1870",
+    "engineCodes": "F9Q 664",
+    "KBA_Numbers": "3333075, 3333AEK"
+  },
+  {
+    "brand": "RENAULT",
+    "model": "LAGUNA II (BG0/1_)",
+    "engineType": "1.9 dCi (BG08, BG0G)",
+    "madeYear": "03.2001 - 09.2007",
+    "kw": "88",
+    "hp": "120",
+    "cc": "1870",
+    "engineCodes": "F9Q 670, F9Q 674, F9Q 650, F9Q 750",
+    "KBA_Numbers": "3004138, 3333ADY"
+  },
+  {
+    "brand": "RENAULT",
+    "model": "LAGUNA II (BG0/1_)",
+    "engineType": "1.9 dCi (BG1A, BG1V)",
+    "madeYear": "05.2005 - 08.2007",
+    "kw": "96",
+    "hp": "130",
+    "cc": "1870",
+    "engineCodes": "F9Q 758, F9Q 759",
+    "KBA_Numbers": "3333153, 3333AEG"
+  },
+  {
+    "brand": "RENAULT",
+    "model": "LAGUNA II Grandtour (KG0/1_)",
+    "engineType": "1.9 dCi (KG05)",
+    "madeYear": "03.2004 - 05.2005",
+    "kw": "68",
+    "hp": "92",
+    "cc": "1870",
+    "engineCodes": "F9Q 664",
+    "KBA_Numbers": "3333076, 3333AEX"
+  },
+  {
+    "brand": "RENAULT",
+    "model": "LAGUNA II Grandtour (KG0/1_)",
+    "engineType": "1.9 dCi (KG0G)",
+    "madeYear": "03.2001 - 09.2007",
+    "kw": "88",
+    "hp": "120",
+    "cc": "1870",
+    "engineCodes": "F9Q 674, F9Q 670, F9Q 750",
+    "KBA_Numbers": "3004139, 3333AEL"
+  },
+  {
+    "brand": "RENAULT",
+    "model": "LAGUNA II Grandtour (KG0/1_)",
+    "engineType": "1.9 dCi (KG1V)",
+    "madeYear": "05.2005 - 12.2007",
+    "kw": "96",
+    "hp": "130",
+    "cc": "1870",
+    "engineCodes": "F9Q 758, F9Q 759",
+    "KBA_Numbers": "3333154, 3333AET"
+  },
+  {
+    "brand": "RENAULT",
+    "model": "MEGANE II (BM0/1_, CM0/1_)",
+    "engineType": "1.9 dCi (BM0G, CM0G)",
+    "madeYear": "11.2002 - 02.2008",
+    "kw": "88",
+    "hp": "120",
+    "cc": "1870",
+    "engineCodes": "F9Q 800",
+    "KBA_Numbers": "3004088, 3004096, 3333ADS"
+  },
+  {
+    "brand": "RENAULT",
+    "model": "MEGANE II Estate (KM0/1_)",
+    "engineType": "1.9 dCi (KMRG, KM1G, KM0G, KM2C)",
+    "madeYear": "08.2003 - 07.2009",
+    "kw": "88",
+    "hp": "120",
+    "cc": "1870",
+    "engineCodes": "F9Q 800",
+    "KBA_Numbers": "3333018, 3333AGO"
+  },
+  {
+    "brand": "RENAULT",
+    "model": "MEGANE II Saloon (LM0/1_)",
+    "engineType": "1.9 dCi (LM0G, LM1G, LM2C)",
+    "madeYear": "from 09.2003",
+    "kw": "88",
+    "hp": "120",
+    "cc": "1870",
+    "engineCodes": "F9Q 800",
+    "KBA_Numbers": "3333017, 3333AGX, 3333ADS"
+  },
+  {
+    "brand": "RENAULT",
+    "model": "MEGANE III Coupe (DZ0/1_)",
+    "engineType": "1.9 dCi (DZ0N, DZ0J, DZ1J, DZ1K)",
+    "madeYear": "11.2008 - 08.2015",
+    "kw": "96",
+    "hp": "131",
+    "cc": "1870",
+    "engineCodes": "F9Q 870, F9Q 872",
+    "KBA_Numbers": "3333ASQ"
+  },
+  {
+    "brand": "RENAULT",
+    "model": "MEGANE III Grandtour (KZ0/1) | GRAN TOUR",
+    "engineType": "1.9 dCi (KZ0J, KZ0N, KZ1S)",
+    "madeYear": "05.2009 - 08.2015",
+    "kw": "96",
+    "hp": "131",
+    "cc": "1870",
+    "engineCodes": "F9Q 872, F9Q 870",
+    "KBA_Numbers": "3333AUB"
+  },
+  {
+    "brand": "RENAULT",
+    "model": "MEGANE III Hatchback (BZ0/1_, B3_)",
+    "engineType": "1.9 dCi (BZ0N, BZ0J)",
+    "madeYear": "11.2008 - 01.2016",
+    "kw": "96",
+    "hp": "131",
+    "cc": "1870",
+    "engineCodes": "F9Q 872, F9Q 870",
+    "KBA_Numbers": "3333ASK"
+  },
+  {
+    "brand": "RENAULT",
+    "model": "SCÉNIC II (JM0/1_)",
+    "engineType": "1.9 dCi (JM0G, JM12, JM1G, JM2C)",
+    "madeYear": "06.2003 - 05.2006",
+    "kw": "88",
+    "hp": "120",
+    "cc": "1870",
+    "engineCodes": "F9Q 812",
+    "KBA_Numbers": "3333008"
+  },
+  {
+    "brand": "RENAULT",
+    "model": "SCÉNIC II (JM0/1_)",
+    "engineType": "1.9 dCi (JM14)",
+    "madeYear": "05.2005 - 11.2008",
+    "kw": "96",
+    "hp": "131",
+    "cc": "1870",
+    "engineCodes": "F9Q 818, F9Q 816, F9Q 804, F9Q 803",
+    "KBA_Numbers": "3333133, 3333AKT"
+  },
+  {
+    "brand": "RENAULT",
+    "model": "SCÉNIC III (JZ0/1_)",
+    "engineType": "1.9 dCi (JZ0J, JZ1J, JZ1K, JZ1S)",
+    "madeYear": "02.2009 - 09.2016",
+    "kw": "96",
+    "hp": "131",
+    "cc": "1870",
+    "engineCodes": "F9Q 872, F9Q 870",
+    "KBA_Numbers": "3333ATS"
+  }
+]
