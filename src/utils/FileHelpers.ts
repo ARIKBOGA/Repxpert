@@ -67,7 +67,6 @@ export const padPairs: ProductReference[] = [
 
 ];
 
-
 export const discPairs: ProductReference[] = [
 
   { yvNo: "30220", brandRefs: { BREMBO: "09.9078.11" } },
@@ -83,7 +82,17 @@ export const crankshaftPairs: ProductReference[] = [
   //{ yvNo: "7044010", brandRefs: { VAICO: "V46-1914" } }, // 059105251AA
   { yvNo: "7045010", brandRefs: { FEBI: "194040" } }, // 059105251AA
   //{ yvNo: "7046010", brandRefs: { FEBI: "188409" } }, // 059105251AA
+
+];
+
+export const drumPairs: ProductReference[] = [
+
+  { yvNo: "18455", brandRefs: { JNBK :"DN1505" } },
+  { yvNo: "341083", brandRefs: { JNBK :"DN1217" } },
+  { yvNo: "341084", brandRefs: { JNBK :"DN1226" } },
   
+  
+
 ];
 
 /*  

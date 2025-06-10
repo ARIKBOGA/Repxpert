@@ -3,7 +3,7 @@ import path from 'path';
 import fs from 'fs';
 import { addToRetryList } from '../utils/extractHelpers';
 import { Application } from '../types/Application';
-import { discPairs, lookupReference, readJsonFile, retryListFilePath } from '../utils/FileHelpers';
+import { discPairs, drumPairs, lookupReference, readJsonFile, retryListFilePath } from '../utils/FileHelpers';
 
 // env dosyasından değişkenleri oku
 const productKind = process.env.PRODUCT_TYPE as string;
@@ -14,7 +14,7 @@ let retryList = readJsonFile<string[]>(retryListFilePath, []);
 
 test.describe('JNBK Brakes OE Tech Details', () => {
 
-    for (const ref of discPairs) {
+    for (const ref of drumPairs) {
 
         const { yvNo, brandRefs } = ref;
         const filterBrand = Object.keys(brandRefs)[0];
@@ -112,7 +112,7 @@ test.describe('JNBK Brakes OE Tech Details', () => {
                 }
 
                 // Her iki map i de JSON formatında dosyaya yaz
-                const dirPath = path.resolve(__dirname, `../data/Gathered_Informations/${productKind}/Technical_Details/NewlyAdded/${yvNo}`);
+                const dirPath = path.resolve(__dirname, `../data/Gathered_Informations/${productKind}/Technical_Details/YV_CODES/${yvNo}`);
                 if (!fs.existsSync(dirPath)) {
                     fs.mkdirSync(dirPath, { recursive: true }); // klasörü oluştur
                 }
@@ -167,7 +167,7 @@ test.describe('JNBK Brakes OE Tech Details', () => {
                     }
                 }
 
-                const outputPath_app = path.join(`src/data/Gathered_Informations/Discs/Applications/TR/NewlyAdded`, "JNBK", `${productID}.json`);
+                const outputPath_app = path.join(`src/data/Gathered_Informations/${productKind}/Applications/English/${filterBrand}/${filterBrand}_${productID}.json`);
                 if (!fs.existsSync(path.dirname(outputPath_app))) {
                     fs.mkdirSync(path.dirname(outputPath_app), { recursive: true });
                 }

@@ -1,0 +1,222 @@
+[
+  {
+    "brand": "FORD",
+    "model": "TRANSIT Bus (E_ _)",
+    "engineType": "2.0 i (EBL, EDL, EGL, ESS, EUS)",
+    "madeYear": "09.1991 - 07.1994",
+    "kw": "72",
+    "hp": "98",
+    "cc": "1994",
+    "engineCodes": "NCA",
+    "KBA_Numbers": "0928793, 0928796, 0928800, 0928789, 2028346, 0928846, 0928200"
+  },
+  {
+    "brand": "FORD",
+    "model": "TRANSIT Bus (E_ _)",
+    "engineType": "2.5 DI (EBS, EDS, EGL, ESS, EUS)",
+    "madeYear": "09.1991 - 07.1994",
+    "kw": "59",
+    "hp": "80",
+    "cc": "2496",
+    "engineCodes": "4DA",
+    "KBA_Numbers": "0928795, 0928798, 0928802, 0928791, 2028348, 0928848, 0928201"
+  },
+  {
+    "brand": "FORD",
+    "model": "TRANSIT Bus (E_ _)",
+    "engineType": "2.5 TD (EBS, EBL, ECL, EDS, EDL, ESS, EUS)",
+    "madeYear": "10.1992 - 07.1994",
+    "kw": "63",
+    "hp": "85",
+    "cc": "2496",
+    "engineCodes": "4GA",
+    "KBA_Numbers": "0928227, 2028350, 0928863, 0928828, 0928829, 0928830, 0928827"
+  },
+  {
+    "brand": "FORD",
+    "model": "TRANSIT Bus (E_ _)",
+    "engineType": "2.9 i",
+    "madeYear": "01.1991 - 09.1994",
+    "kw": "107",
+    "hp": "145",
+    "cc": "2935",
+    "engineCodes": "BRT",
+    "KBA_Numbers": ""
+  },
+  {
+    "brand": "FORD",
+    "model": "TRANSIT Platform/Chassis (E_ _)",
+    "engineType": "2.0 (EME/L/S, ENE/L/S)",
+    "madeYear": "09.1991 - 08.1994",
+    "kw": "72",
+    "hp": "98",
+    "cc": "1994",
+    "engineCodes": "NCA",
+    "KBA_Numbers": "0928218, 0928221, 0928203, 0928207, 0928211, 0928214"
+  },
+  {
+    "brand": "FORD",
+    "model": "TRANSIT Platform/Chassis (E_ _)",
+    "engineType": "2.5 DI (EME/L/S, ENE/L/S)",
+    "madeYear": "09.1991 - 08.1994",
+    "kw": "59",
+    "hp": "80",
+    "cc": "2496",
+    "engineCodes": "4DA",
+    "KBA_Numbers": "0928219, 0928222, 0928205, 0928209, 0928213, 0928216"
+  },
+  {
+    "brand": "FORD",
+    "model": "TRANSIT Platform/Chassis (E_ _)",
+    "engineType": "2.5 DI (EML/S, ENL/S)",
+    "madeYear": "09.1991 - 08.1994",
+    "kw": "51",
+    "hp": "69",
+    "cc": "2496",
+    "engineCodes": "4BC, 4FA, 4CC",
+    "KBA_Numbers": "0928204, 0928208, 0928212, 0928215"
+  },
+  {
+    "brand": "FORD",
+    "model": "TRANSIT Platform/Chassis (E_ _)",
+    "engineType": "2.5 TD (EME/L/S, ENE/L)",
+    "madeYear": "09.1991 - 08.1994",
+    "kw": "74",
+    "hp": "100",
+    "cc": "2496",
+    "engineCodes": "4EA",
+    "KBA_Numbers": "0928217, 0928220, 0928223, 0928206, 0928210"
+  },
+  {
+    "brand": "FORD",
+    "model": "TRANSIT Platform/Chassis (E_ _)",
+    "engineType": "2.5 TD (EME/L/S, ENE/L/S)",
+    "madeYear": "11.1992 - 08.1994",
+    "kw": "63",
+    "hp": "85",
+    "cc": "2496",
+    "engineCodes": "4GA",
+    "KBA_Numbers": "0928226, 0928228, 0928229, 0928230, 0928231, 0928232"
+  },
+  {
+    "brand": "FORD",
+    "model": "TRANSIT TOURNEO Bus",
+    "engineType": "2.0",
+    "madeYear": "11.1994 - 12.2000",
+    "kw": "84",
+    "hp": "114",
+    "cc": "1998",
+    "engineCodes": "NSG, NSF, NSH",
+    "KBA_Numbers": "0928874"
+  },
+  {
+    "brand": "FORD",
+    "model": "TRANSIT TOURNEO Bus",
+    "engineType": "2.4 D",
+    "madeYear": "08.1994 - 06.2000",
+    "kw": "55",
+    "hp": "74",
+    "cc": "2496",
+    "engineCodes": "4HA",
+    "KBA_Numbers": ""
+  },
+  {
+    "brand": "FORD",
+    "model": "TRANSIT TOURNEO Bus",
+    "engineType": "2.5 DI",
+    "madeYear": "11.1994 - 12.2000",
+    "kw": "51",
+    "hp": "69",
+    "cc": "2496",
+    "engineCodes": "4FD, 4FC, 4FA, 4FB",
+    "KBA_Numbers": "0928875"
+  },
+  {
+    "brand": "FORD",
+    "model": "TRANSIT TOURNEO Bus",
+    "engineType": "2.5 DI",
+    "madeYear": "11.1994 - 12.2000",
+    "kw": "56",
+    "hp": "76",
+    "cc": "2496",
+    "engineCodes": "4HC, 4HB",
+    "KBA_Numbers": "0928877"
+  },
+  {
+    "brand": "FORD",
+    "model": "TRANSIT TOURNEO Bus",
+    "engineType": "2.5 TD",
+    "madeYear": "11.1994 - 12.2000",
+    "kw": "63",
+    "hp": "85",
+    "cc": "2496",
+    "engineCodes": "4GC, 4GA, 4GB, 4GD",
+    "KBA_Numbers": "0928876"
+  },
+  {
+    "brand": "FORD",
+    "model": "TRANSIT TOURNEO Bus",
+    "engineType": "2.5 TD",
+    "madeYear": "04.1998 - 12.2000",
+    "kw": "74",
+    "hp": "100",
+    "cc": "2496",
+    "engineCodes": "4EC, 4EB",
+    "KBA_Numbers": "0928290"
+  },
+  {
+    "brand": "FORD",
+    "model": "TRANSIT Van (E_ _)",
+    "engineType": "2.0 i (EAL, EAS)",
+    "madeYear": "09.1991 - 06.1994",
+    "kw": "72",
+    "hp": "98",
+    "cc": "1994",
+    "engineCodes": "NCA",
+    "KBA_Numbers": "2028500, 0928192, 0928196"
+  },
+  {
+    "brand": "FORD",
+    "model": "TRANSIT Van (E_ _)",
+    "engineType": "2.5 DI (EAL, EAS)",
+    "madeYear": "05.1991 - 06.1994",
+    "kw": "51",
+    "hp": "70",
+    "cc": "2496",
+    "engineCodes": "4BC, 4CC, 4FA",
+    "KBA_Numbers": "2028501, 0928193, 0928197"
+  },
+  {
+    "brand": "FORD",
+    "model": "TRANSIT Van (E_ _)",
+    "engineType": "2.5 DI (EAL, EAS)",
+    "madeYear": "10.1992 - 06.1994",
+    "kw": "63",
+    "hp": "85",
+    "cc": "2496",
+    "engineCodes": "4GA",
+    "KBA_Numbers": "0928224, 0928225, 2028504"
+  },
+  {
+    "brand": "FORD",
+    "model": "TRANSIT Van (E_ _)",
+    "engineType": "2.5 DI (EAS, EAL)",
+    "madeYear": "05.1991 - 06.1994",
+    "kw": "59",
+    "hp": "80",
+    "cc": "2496",
+    "engineCodes": "4DA",
+    "KBA_Numbers": "2028502, 0928194, 0928198"
+  },
+  {
+    "brand": "FORD",
+    "model": "TRANSIT Van (E_ _)",
+    "engineType": "2.5 TD (EAS, EAL)",
+    "madeYear": "05.1991 - 06.1994",
+    "kw": "74",
+    "hp": "101",
+    "cc": "2496",
+    "engineCodes": "4EA",
+    "KBA_Numbers": "0928195, 0928199"
+  }
+]

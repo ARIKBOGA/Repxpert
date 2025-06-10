@@ -44,13 +44,17 @@ const brandAliases = new Map<string, string>([
   ["BMW AG", "BMW"],
   ["AUDI AG", "AUDI"],
   ["FIAT CHRYSLER AUTOMOBILES", "FIAT"],
+  ["IRISBUS", "IVECO"],
+  ["GENERAL MOTORS", "GMC"],
+  ["FERQUI", "MERCEDES-BENZ"],
+  ["DMB", "BMW"]
   // Daha fazla marka kısaltması eklenebilir
 ]);
 
 // This map is used to tranlate the addition of the model names to their abbreviations in English
 const modelAliases = new Map<string, string>([
   ["Minibüs/Otobüs", "Bus"],
-  ["Kasa/eğik arka", "Hatchback Van"],
+  ["Kasa/eğik arka", "HB Van"],
   ["Panelvan/Van", "Van"],
   ["Platform şasi", "Platform/Chassis"],
   ["Kasa/Büyük Limuzin", "Box Body/MPV"],

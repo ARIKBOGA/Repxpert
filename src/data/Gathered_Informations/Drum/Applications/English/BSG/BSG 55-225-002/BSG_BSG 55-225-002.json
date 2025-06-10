@@ -1,0 +1,189 @@
+[
+  {
+    "brand": "FORD USA",
+    "model": "PROBE I",
+    "engineType": "2.2",
+    "madeYear": "08.1988 - 07.1993",
+    "kw": "82",
+    "hp": "112",
+    "cc": "2184",
+    "engineCodes": "LC22",
+    "KBA_Numbers": ""
+  },
+  {
+    "brand": "MAZDA",
+    "model": "626 II (GC) | CAPELLA | TELSTAR",
+    "engineType": "2.0 (GC10E1)",
+    "madeYear": "03.1983 - 09.1987",
+    "kw": "74",
+    "hp": "101",
+    "cc": "1998",
+    "engineCodes": "FE (8V)",
+    "KBA_Numbers": "7108334, 7118314"
+  },
+  {
+    "brand": "MAZDA",
+    "model": "626 II Hatchback (GC) | CAPELLA | TELSTAR",
+    "engineType": "2.0 (GC10E1)",
+    "madeYear": "03.1983 - 09.1987",
+    "kw": "74",
+    "hp": "101",
+    "cc": "1998",
+    "engineCodes": "FE (8V)",
+    "KBA_Numbers": "7108336, 7118317"
+  },
+  {
+    "brand": "MAZDA",
+    "model": "626 III (GD) | CAPELLA | 626 / EUNOS 300 | TELSTAR | TELSTAR / 626 / EUNOS 300",
+    "engineType": "1.8 (GD8P)",
+    "madeYear": "11.1987 - 05.1992",
+    "kw": "65",
+    "hp": "88",
+    "cc": "1789",
+    "engineCodes": "F8  (8V)",
+    "KBA_Numbers": "7118361"
+  },
+  {
+    "brand": "MAZDA",
+    "model": "626 III (GD) | CAPELLA | 626 / EUNOS 300 | TELSTAR | TELSTAR / 626 / EUNOS 300",
+    "engineType": "2.0",
+    "madeYear": "08.1987 - 07.1989",
+    "kw": "74",
+    "hp": "101",
+    "cc": "1998",
+    "engineCodes": "FE (12V)",
+    "KBA_Numbers": ""
+  },
+  {
+    "brand": "MAZDA",
+    "model": "626 III (GD) | CAPELLA | 626 / EUNOS 300 | TELSTAR | TELSTAR / 626 / EUNOS 300",
+    "engineType": "2.0 (GDEP)",
+    "madeYear": "09.1987 - 10.1990",
+    "kw": "66",
+    "hp": "90",
+    "cc": "1998",
+    "engineCodes": "FE (12V)",
+    "KBA_Numbers": "7118363"
+  },
+  {
+    "brand": "MAZDA",
+    "model": "626 III (GD) | CAPELLA | 626 / EUNOS 300 | TELSTAR | TELSTAR / 626 / EUNOS 300",
+    "engineType": "2.0 D (GDFP)",
+    "madeYear": "07.1987 - 07.1991",
+    "kw": "44",
+    "hp": "60",
+    "cc": "1998",
+    "engineCodes": "RF-N",
+    "KBA_Numbers": "7118357"
+  },
+  {
+    "brand": "MAZDA",
+    "model": "626 III (GD) | CAPELLA | 626 / EUNOS 300 | TELSTAR | TELSTAR / 626 / EUNOS 300",
+    "engineType": "2.2 12V (GD102)",
+    "madeYear": "11.1987 - 07.1991",
+    "kw": "85",
+    "hp": "115",
+    "cc": "2184",
+    "engineCodes": "F2",
+    "KBA_Numbers": "7118418, 7118384"
+  },
+  {
+    "brand": "MAZDA",
+    "model": "626 III Coupe (GD) | CAPELLA | 626 / MONTROSE",
+    "engineType": "1.8 (GD8P)",
+    "madeYear": "09.1987 - 08.1991",
+    "kw": "65",
+    "hp": "88",
+    "cc": "1789",
+    "engineCodes": "F8 (12V)",
+    "KBA_Numbers": ""
+  },
+  {
+    "brand": "MAZDA",
+    "model": "626 III Coupe (GD) | CAPELLA | 626 / MONTROSE",
+    "engineType": "2.0 (GDEP)",
+    "madeYear": "09.1987 - 10.1990",
+    "kw": "66",
+    "hp": "90",
+    "cc": "1998",
+    "engineCodes": "FE (8V)",
+    "KBA_Numbers": "7118365"
+  },
+  {
+    "brand": "MAZDA",
+    "model": "626 III Coupe (GD) | CAPELLA | 626 / MONTROSE",
+    "engineType": "2.2 12V (GD102)",
+    "madeYear": "04.1988 - 12.1991",
+    "kw": "85",
+    "hp": "115",
+    "cc": "2184",
+    "engineCodes": "F2",
+    "KBA_Numbers": "7118386"
+  },
+  {
+    "brand": "MAZDA",
+    "model": "626 III Hatchback (GD) | CAPELLA | TELSTAR",
+    "engineType": "1.8",
+    "madeYear": "11.1987 - 05.1992",
+    "kw": "69",
+    "hp": "94",
+    "cc": "1789",
+    "engineCodes": "F8 (12V)",
+    "KBA_Numbers": ""
+  },
+  {
+    "brand": "MAZDA",
+    "model": "626 III Hatchback (GD) | CAPELLA | TELSTAR",
+    "engineType": "1.8 (GD8P)",
+    "madeYear": "11.1987 - 05.1992",
+    "kw": "65",
+    "hp": "88",
+    "cc": "1789",
+    "engineCodes": "F8 (12V)",
+    "KBA_Numbers": "7118362"
+  },
+  {
+    "brand": "MAZDA",
+    "model": "626 III Hatchback (GD) | CAPELLA | TELSTAR",
+    "engineType": "2.0 (GDEP)",
+    "madeYear": "09.1987 - 10.1990",
+    "kw": "66",
+    "hp": "90",
+    "cc": "1998",
+    "engineCodes": "FE (8V)",
+    "KBA_Numbers": "7118364"
+  },
+  {
+    "brand": "MAZDA",
+    "model": "626 III Hatchback (GD) | CAPELLA | TELSTAR",
+    "engineType": "2.0 12V (GDEP)",
+    "madeYear": "11.1987 - 05.1992",
+    "kw": "79",
+    "hp": "107",
+    "cc": "1998",
+    "engineCodes": "FE (12V)",
+    "KBA_Numbers": "7118367"
+  },
+  {
+    "brand": "MAZDA",
+    "model": "626 III Hatchback (GD) | CAPELLA | TELSTAR",
+    "engineType": "2.0 D (GDFP)",
+    "madeYear": "07.1987 - 07.1991",
+    "kw": "44",
+    "hp": "60",
+    "cc": "1998",
+    "engineCodes": "RF-N",
+    "KBA_Numbers": "7118358"
+  },
+  {
+    "brand": "MAZDA",
+    "model": "626 III Hatchback (GD) | CAPELLA | TELSTAR",
+    "engineType": "2.2 12V (GD102)",
+    "madeYear": "06.1988 - 04.1992",
+    "kw": "85",
+    "hp": "115",
+    "cc": "2184",
+    "engineCodes": "F2",
+    "KBA_Numbers": "7118419, 7118385"
+  }
+]

@@ -4,7 +4,7 @@ import fs from "fs";
 import path from "path";
 import { addToRetryList, getTextContent } from "../utils/extractHelpers";
 import { selector } from "../utils/Selectors";
-import { getSubfolderNamesSync, readJsonFile, retryListFilePath, padPairs, discPairs, crankshaftPairs } from "../utils/FileHelpers";
+import { getSubfolderNamesSync, readJsonFile, retryListFilePath, padPairs, discPairs, crankshaftPairs, drumPairs } from "../utils/FileHelpers";
 import { goToSearchResultsEnglish, ProductReference, readProductReferencesFromExcel } from "../utils/ScraperHelpers";
 
 
@@ -20,7 +20,7 @@ let retryList = readJsonFile<string[]>(retryListFilePath, []);
 
 test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
 
-  for (const ref of crankshaftPairs) {
+  for (const ref of drumPairs) {
 
     const { yvNo, brandRefs } = ref;
 
@@ -62,8 +62,8 @@ test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
         await page.waitForTimeout(500); // Kısa bekleme
 
         const productTitle = (await getTextContent(page.locator(".h1").nth(0))) || "Unknown Product";
-        const productProducer = filterBrand;
-        const productID = crossNumber;
+        const productProducer = productTitle.split(" ")[0];
+        const productID = productTitle.split(" ")[1];
         const brands = page.locator(selector.aria_level_1_brand);
 
         const applications = new Array<Application>();

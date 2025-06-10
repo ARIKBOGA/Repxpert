@@ -3,12 +3,21 @@ import path from 'path';
 import XLSX from 'xlsx';
 import { formatDateTime } from '../utils/DateHelper'; // Bu fonksiyonun düzgün çalıştığını varsayıyorum
 import dotenv from 'dotenv';
+import { brandAliases } from '../types/AppToJson_Types';
+import initialMarkaData from '../data/katalogInfo/jsons/marka_new.json'; // Statik import
 
 dotenv.config({ path: path.resolve(__dirname, '../data/Configs/.env') });
 const productType = process.env.PRODUCT_TYPE as string;
 
+const markaLookup: { [key: string]: string } = {};
+
 async function oeNumbersToExcel() {
-    const jsonFilesFolderPath = path.resolve(`src/data/Gathered_Informations/${productType}/Technical_Details/NewlyAdded`);
+
+    for(const [markaID, markaName] of Object.entries(initialMarkaData)){
+        markaLookup[markaName] = markaID;
+    }
+
+    const jsonFilesFolderPath = path.resolve(`src/data/Gathered_Informations/${productType}/Technical_Details/YV_CODES`);
     const outputExcelFolderPath = path.resolve(`src/data/Gathered_Informations/${productType}/Technical_Details/excels`);
 
     const formattedDateTime = formatDateTime(new Date());
@@ -24,6 +33,7 @@ async function oeNumbersToExcel() {
 
         for (const folder of jsonFolders) { // folder değişkeni burada 'YV_CODE' olan klasör adını temsil ediyor
             const folderPath = path.join(jsonFilesFolderPath, folder);
+            const brandOEPairs: Set<string> = new Set<string>();
             if (fs.statSync(folderPath).isDirectory()) {
                 const jsonFiles = fs.readdirSync(folderPath)
                     //.filter(file => file.includes("BREMBO"))
@@ -42,15 +52,28 @@ async function oeNumbersToExcel() {
                                 const oeNumbers: string[] = jsonData.brand_oe_map[brand];
 
                                 oeNumbers.forEach(oeNumber => {
-                                    if(oeNumber.startsWith("0")) oeNumber = "|".concat(oeNumber);
+                                    if(oeNumber.startsWith("0")) oeNumber = "'".concat(oeNumber);
+                                    const marka = brandAliases.get(brand) || brand;
+                                    if(brandOEPairs.has(`${folder}${marka}-${oeNumber}`)) return;
                                     sheetData.push({
                                         YV: folder, // folder name = yvNO
                                         Cross: jsonData.id,
                                         Cross_Marka: jsonData.brand,
-                                        Marka: brand,
+                                        Marka_ID: (() => {
+                                            const alias = brandAliases.get(brand);
+                                            if (alias && markaLookup[alias]) {
+                                                return markaLookup[alias];
+                                            } else if (markaLookup[brand]) {
+                                                return markaLookup[brand];
+                                            } else {
+                                                return undefined;
+                                            }
+                                        })(),
+                                        Marka: marka ,
                                         OE_Number: oeNumber,
                                         //VWA: jsonData.wvaNumbers.join(', ')
                                     });
+                                    brandOEPairs.add(`${folder}${marka}-${oeNumber}`);
                                 });
                             }
                         }
