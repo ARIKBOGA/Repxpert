@@ -62,8 +62,8 @@ test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
         await page.waitForTimeout(500); // Kısa bekleme
 
         const productTitle = (await getTextContent(page.locator(".h1").nth(0))) || "Unknown Product";
-        const productProducer = filterBrand;
-        const productID = crossNumber;
+        const productProducer = productTitle.split(" ")[0];
+        const productID = productTitle.split(" ")[1];
         const brands = page.locator(selector.aria_level_1_brand);
 
         const applications = new Array<Application>();

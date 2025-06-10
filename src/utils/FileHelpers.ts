@@ -82,33 +82,21 @@ export const crankshaftPairs: ProductReference[] = [
   //{ yvNo: "7044010", brandRefs: { VAICO: "V46-1914" } }, // 059105251AA
   { yvNo: "7045010", brandRefs: { FEBI: "194040" } }, // 059105251AA
   //{ yvNo: "7046010", brandRefs: { FEBI: "188409" } }, // 059105251AA
-  
+
 ];
 
-export const drumPairs : ProductReference [] = [
-  { yvNo: "13289", brandRefs: { TEXTAR: "94022500" } },
-  { yvNo: "25509", brandRefs: { TEXTAR: "94035300" } },
-  { yvNo: "13544", brandRefs: { TEXTAR: "94045600" } },
-  { yvNo: "16561", brandRefs: { TEXTAR: "94035900" } },
-  { yvNo: "40569", brandRefs: { TEXTAR: "94039400" } },
-  { yvNo: "30579B", brandRefs: { TEXTAR: "94047400" } },
-  { yvNo: "26747", brandRefs: { TEXTAR: "94046500" } },
-  { yvNo: "15702", brandRefs: { TEXTAR: "94037100" } },
-  { yvNo: "16710", brandRefs: { TEXTAR: "94033300" } },
-  { yvNo: "26715", brandRefs: { TEXTAR: "94036700" } },
-  { yvNo: "34719", brandRefs: { TEXTAR: "94038800" } },
-  { yvNo: "32735", brandRefs: { TEXTAR: "94026500" } },
-  { yvNo: "34739", brandRefs: { TEXTAR: "94034600" } },
-  { yvNo: "27762", brandRefs: { TEXTAR: "94024200" } },
-  { yvNo: "16789", brandRefs: { TEXTAR: "94034900" } },
-  { yvNo: "16790", brandRefs: { TEXTAR: "94046700" } },
-  { yvNo: "42804", brandRefs: { TEXTAR: "94046000" } },
-  { yvNo: "36815", brandRefs: { TEXTAR: "94043900" } },
-  { yvNo: "29826", brandRefs: { TEXTAR: "94028200" } },
-  { yvNo: "28988", brandRefs: { TEXTAR: "94026600" } },
-  { yvNo: "321081", brandRefs: { TEXTAR: "94037800" } },
-  { yvNo: "261091", brandRefs: { TEXTAR: "94026900" } },
-  { yvNo: "341092", brandRefs: { TEXTAR: "94045200" } },
+export const drumPairs: ProductReference[] = [
+  { yvNo: "18160", brandRefs: { Braxis: "AD5012" } },
+  { yvNo: "16183", brandRefs: { Braxis: "AD5015" } },
+  { yvNo: "28431", brandRefs: { Braxis: "AD5006" } },
+  { yvNo: "59480", brandRefs: { Braxis: "AD5048" } },
+  { yvNo: "59519", brandRefs: { Braxis: "AD5059" } },
+  { yvNo: "25728", brandRefs: { Braxis: "AD5039" } },
+  { yvNo: "18911", brandRefs: { Braxis: "AD1109" } },
+  { yvNo: "30997", brandRefs: { Braxis: "AD1132" } },
+  { yvNo: "291066", brandRefs: { Braxis: "AD5114" } },
+  { yvNo: "251075", brandRefs: { Braxis: "AD1159" } },
+  { yvNo: "131086", brandRefs: { Braxis: "AD5110" } },
 ];
 
 /*  
