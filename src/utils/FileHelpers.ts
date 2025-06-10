@@ -87,8 +87,10 @@ export const crankshaftPairs: ProductReference[] = [
 
 export const drumPairs: ProductReference[] = [
 
-  { yvNo: "13280", brandRefs: { BREMBO :"14.6795.10" } },
-  { yvNo: "511089", brandRefs: { TEXTAR :"94036400" } },
+  { yvNo: "18455", brandRefs: { JNBK :"DN1505" } },
+  { yvNo: "341083", brandRefs: { JNBK :"DN1217" } },
+  { yvNo: "341084", brandRefs: { JNBK :"DN1226" } },
+  
   
 
 ];
