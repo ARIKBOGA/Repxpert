@@ -121161,5 +121161,61 @@
     "modeller_markalar::marka": "IVECO",
     "model": "EUROFIRE II",
     "model_Web": "EUROFIRE II"
+  },
+  {
+    "id": 17310,
+    "marka_id": 486,
+    "modeller_markalar::marka": "KIA",
+    "model": "BONGO",
+    "model_Web": "BONGO"
+  },
+  {
+    "id": 17311,
+    "marka_id": 486,
+    "modeller_markalar::marka": "KIA",
+    "model": "K2700",
+    "model_Web": "K2700"
+  },
+  {
+    "id": 17312,
+    "marka_id": 486,
+    "modeller_markalar::marka": "KIA",
+    "model": "K3000S",
+    "model_Web": "K3000S"
+  },
+  {
+    "id": 17313,
+    "marka_id": 862,
+    "modeller_markalar::marka": "TOYOTA",
+    "model": "COASTER",
+    "model_Web": "COASTER"
+  },
+  {
+    "id": 17314,
+    "marka_id": 862,
+    "modeller_markalar::marka": "TOYOTA",
+    "model": "DYNA",
+    "model_Web": "DYNA"
+  },
+  {
+    "id": 17315,
+    "marka_id": 988,
+    "modeller_markalar::marka": "HINO",
+    "model": "412",
+    "model_Web": "412"
+  },
+  {
+    "id": 17316,
+    "marka_id": 988,
+    "modeller_markalar::marka": "HINO",
+    "model": "300 Series",
+    "model_Web": "300 Series"
+  },
+  {
+    "id": 17317,
+    "marka_id": 988,
+    "modeller_markalar::marka": "HINO",
+    "model": "DUTRO",
+    "model_Web": "DUTRO"
   }
 ]

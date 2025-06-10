@@ -63,7 +63,9 @@ try {
   const lookupWorkbook = XLSX.readFile(LOOKUP_FILE_PATH, { cellDates: false });
   const lookupSheet = lookupWorkbook.Sheets[lookupWorkbook.SheetNames[0]];
 
-  const fieldsToProcess = ["BREMBO", "TRW", "ICER", "TEXTAR", "KRAFTVOLL","CORTECO","RIDEX","FAI","RUVILLE","WILMINK","CAUTEX", "VAICO", "FEBI"];
+  const fieldsToProcess: Set<string> = new Set<string>(["BREMBO", "TRW", "ICER", "TEXTAR", "KRAFTVOLL", "CORTECO", "RIDEX", "FAI", "RUVILLE", "WILMINK", "CAUTEX", "VAICO", "FEBI",
+     "BRAXIS", "BSG", "FREMAX", "JNBK"
+  ]);
 
   XLSX.utils.sheet_to_json<LookupExcelRow>(lookupSheet).forEach(row => {
     const yvValue = row.YV?.toString();
@@ -127,7 +129,7 @@ async function main() {
   // Model verilerini bir kez import edip Map'e dönüştürüyoruz
   const modelDataMap = new Map<string, ModelData>();
   (initialModelData as ModelData[]).forEach(model => {
-    modelDataMap.set(model["modeller_markalar::marka"].trim() + "_" + model.model.trim(), model);
+    modelDataMap.set(model["modeller_markalar::marka"].trim() + "_" + model.model.trim().toUpperCase(), model);
   });
   logDebug("Model Map'i oluşturuldu.");
 
@@ -187,7 +189,7 @@ async function main() {
         const { start, end } = extractYears(app.madeYear, Locale.en_US);
 
         const marka_id = markaNameToIdMap.get(app.brand.trim()) ?? null;
-        const modelEntry = modelDataMap.get(app.brand.trim() + "_" + app.model.trim());
+        const modelEntry = modelDataMap.get(app.brand.trim() + "_" + app.model.trim().toUpperCase());
         const model_id = modelEntry ? modelEntry.id : null;
 
         // Yeni model eşleşmesi bulunursa havuza ekle
