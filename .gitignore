@@ -12,3 +12,11 @@ node_modules/
 *.xlsm
 storage/*.json
 
+# IDE
+.idea/
+.vscode/
+
+# OS
+*.DS_Store
+*.Thumbs.db
+
