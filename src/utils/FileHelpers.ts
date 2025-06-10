@@ -67,7 +67,6 @@ export const padPairs: ProductReference[] = [
 
 ];
 
-
 export const discPairs: ProductReference[] = [
 
   { yvNo: "30220", brandRefs: { BREMBO: "09.9078.11" } },
@@ -84,6 +83,32 @@ export const crankshaftPairs: ProductReference[] = [
   { yvNo: "7045010", brandRefs: { FEBI: "194040" } }, // 059105251AA
   //{ yvNo: "7046010", brandRefs: { FEBI: "188409" } }, // 059105251AA
   
+];
+
+export const drumPairs : ProductReference [] = [
+  { yvNo: "13289", brandRefs: { TEXTAR: "94022500" } },
+  { yvNo: "25509", brandRefs: { TEXTAR: "94035300" } },
+  { yvNo: "13544", brandRefs: { TEXTAR: "94045600" } },
+  { yvNo: "16561", brandRefs: { TEXTAR: "94035900" } },
+  { yvNo: "40569", brandRefs: { TEXTAR: "94039400" } },
+  { yvNo: "30579B", brandRefs: { TEXTAR: "94047400" } },
+  { yvNo: "26747", brandRefs: { TEXTAR: "94046500" } },
+  { yvNo: "15702", brandRefs: { TEXTAR: "94037100" } },
+  { yvNo: "16710", brandRefs: { TEXTAR: "94033300" } },
+  { yvNo: "26715", brandRefs: { TEXTAR: "94036700" } },
+  { yvNo: "34719", brandRefs: { TEXTAR: "94038800" } },
+  { yvNo: "32735", brandRefs: { TEXTAR: "94026500" } },
+  { yvNo: "34739", brandRefs: { TEXTAR: "94034600" } },
+  { yvNo: "27762", brandRefs: { TEXTAR: "94024200" } },
+  { yvNo: "16789", brandRefs: { TEXTAR: "94034900" } },
+  { yvNo: "16790", brandRefs: { TEXTAR: "94046700" } },
+  { yvNo: "42804", brandRefs: { TEXTAR: "94046000" } },
+  { yvNo: "36815", brandRefs: { TEXTAR: "94043900" } },
+  { yvNo: "29826", brandRefs: { TEXTAR: "94028200" } },
+  { yvNo: "28988", brandRefs: { TEXTAR: "94026600" } },
+  { yvNo: "321081", brandRefs: { TEXTAR: "94037800" } },
+  { yvNo: "261091", brandRefs: { TEXTAR: "94026900" } },
+  { yvNo: "341092", brandRefs: { TEXTAR: "94045200" } },
 ];
 
 /*  

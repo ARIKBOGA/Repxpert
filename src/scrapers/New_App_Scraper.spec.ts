@@ -4,7 +4,7 @@ import fs from "fs";
 import path from "path";
 import { addToRetryList, getTextContent } from "../utils/extractHelpers";
 import { selector } from "../utils/Selectors";
-import { getSubfolderNamesSync, readJsonFile, retryListFilePath, padPairs, discPairs, crankshaftPairs } from "../utils/FileHelpers";
+import { getSubfolderNamesSync, readJsonFile, retryListFilePath, padPairs, discPairs, crankshaftPairs, drumPairs } from "../utils/FileHelpers";
 import { goToSearchResultsEnglish, ProductReference, readProductReferencesFromExcel } from "../utils/ScraperHelpers";
 
 
@@ -20,7 +20,7 @@ let retryList = readJsonFile<string[]>(retryListFilePath, []);
 
 test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
 
-  for (const ref of crankshaftPairs) {
+  for (const ref of drumPairs) {
 
     const { yvNo, brandRefs } = ref;
 
