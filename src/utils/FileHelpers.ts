@@ -86,17 +86,11 @@ export const crankshaftPairs: ProductReference[] = [
 ];
 
 export const drumPairs: ProductReference[] = [
-  { yvNo: "18160", brandRefs: { Braxis: "AD5012" } },
-  { yvNo: "16183", brandRefs: { Braxis: "AD5015" } },
-  { yvNo: "28431", brandRefs: { Braxis: "AD5006" } },
-  { yvNo: "59480", brandRefs: { Braxis: "AD5048" } },
-  { yvNo: "59519", brandRefs: { Braxis: "AD5059" } },
-  { yvNo: "25728", brandRefs: { Braxis: "AD5039" } },
-  { yvNo: "18911", brandRefs: { Braxis: "AD1109" } },
-  { yvNo: "30997", brandRefs: { Braxis: "AD1132" } },
-  { yvNo: "291066", brandRefs: { Braxis: "AD5114" } },
-  { yvNo: "251075", brandRefs: { Braxis: "AD1159" } },
-  { yvNo: "131086", brandRefs: { Braxis: "AD5110" } },
+
+  { yvNo: "13280", brandRefs: { BREMBO :"14.6795.10" } },
+  { yvNo: "511089", brandRefs: { TEXTAR :"94036400" } },
+  
+
 ];
 
 /*  
