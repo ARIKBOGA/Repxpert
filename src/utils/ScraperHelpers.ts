@@ -2,6 +2,8 @@ import { Locator, Page, test } from "@playwright/test"; // Playwright Page tipi,
 import ConfigReader from "./ConfigReader";
 import * as xlsx from 'xlsx';
 import * as path from 'path';
+import { getDimensionValuesSmart, getTextContent } from "./extractHelpers";
+import { ProductAttributes } from "../types/ProductTypes";
 
 // Gerekli ortam degiskenlerini oku
 // const productType = ConfigReader.getEnvVariable("PRODUCT_TYPE");
@@ -27,7 +29,7 @@ export async function goToSearchResults(
   await page
     .getByRole("checkbox", { name: new RegExp(filterBrand, "i") })
     .first()
-    .click({timeout: 5000});
+    .click({ timeout: 5000 });
   await page.waitForTimeout(2000);
 
   const productLinks = await page
@@ -67,7 +69,7 @@ export async function goToSearchResultsEnglish(
   await page
     .getByRole("checkbox", { name: new RegExp(filterBrand, "i") })
     .first()
-    .click({timeout: 5000});
+    .click({ timeout: 5000 });
   await page.waitForTimeout(1000);
 
   const productLinks = await page
@@ -148,3 +150,79 @@ export function readProductReferencesFromExcel(productType: string): ProductRefe
   return references;
 }
 
+// pad attributes
+type AttributeFetcher = (page: Page) => Promise<{ [key: string]: any }>;
+
+const attributeFetchers: Record<string, AttributeFetcher> = {
+  Pad: async (page: Page): Promise<{ [key: string]: any; }> => {
+    return {
+      width1: (await getDimensionValuesSmart(page, ['Genişlik', 'Uzunluk']))[0] ?? null,
+      width2: (await getDimensionValuesSmart(page, ['Genişlik', 'Uzunluk']))[1] ?? null,
+      height1: (await getDimensionValuesSmart(page, ['Yükseklik']))[0] ?? null,
+      height2: (await getDimensionValuesSmart(page, ['Yükseklik']))[1] ?? null,
+      thickness1: (await getDimensionValuesSmart(page, ['Kalınlık']))[0] ?? null,
+      thickness2: (await getDimensionValuesSmart(page, ['Kalınlık']))[1] ?? null,
+      wvaNumber: await getDimensionValuesSmart(page, ['WVA numarası']),
+      Quality: await getDimensionValuesSmart(page, ['Kalite']),
+      AxleVersion: await getDimensionValuesSmart(page, ['Aks modeli']),
+      BrakeSystem: await getDimensionValuesSmart(page, ['Fren sistemi', 'Fren tertibatı']),
+      manufacturerRestriction: await getTextContent(page.locator("(//*[.='Üretici kısıtlaması']/following-sibling::dd)[1]/span")),
+      checkmark: await getTextContent(page.locator("(//*[.='Kontrol işareti']/following-sibling::dd)[1]/span")),
+      SVHC: await getTextContent(page.locator("(//*[.='SVHC']/following-sibling::dd)[1]/span")),
+      Weight: await getDimensionValuesSmart(page, ['Ağırlık']),
+    }
+
+  },
+  Disc: async (page: Page): Promise<{ [key: string]: any; }> => {
+    return {
+      Type: await getDimensionValuesSmart(page, ['Fren diski türü']),
+      ThicknessValues: await getDimensionValuesSmart(page, ['Fren diski kalınlığı']),
+      MinimumThicknessValues: await getDimensionValuesSmart(page, ['Asgari kalınlık']),
+      Surface: await getDimensionValuesSmart(page, ['Üst yüzey']),
+      HeightValues: await getDimensionValuesSmart(page, ['Yükseklik']),
+      InnerDiameter: await getDimensionValuesSmart(page, ['İç çap']),
+      OuterDiameter: await getDimensionValuesSmart(page, ['Dış çap']),
+      BoltHoleCircle: await getDimensionValuesSmart(page, ['Delik çemberi']),
+      NumberOfHoles: await getDimensionValuesSmart(page, ['Delik sayısı']),
+      AxleVersion: await getDimensionValuesSmart(page, ['Aks modeli']),
+      TechnicalInformationNumber: await getDimensionValuesSmart(page, ['Teknik bilgi numarası']),
+      TestMark: await getDimensionValuesSmart(page, ['Kontrol işareti']),
+      Diameter: await getDimensionValuesSmart(page, ['Çap']),
+      Thickness: await getDimensionValuesSmart(page, ['Kalınlık/Kuvvet']),
+      SupplementaryInfo: await getDimensionValuesSmart(page, ['İlave Ürün/Bilgi']),
+      CenteringDiameter: await getDimensionValuesSmart(page, ['Merkezleme çapı']),
+      HoleArrangement_HoleNumber: await getDimensionValuesSmart(page, ['Delik şekli/Delik sayısı']),
+      WheelBoltBoreDiameter: await getDimensionValuesSmart(page, ['Bijon deliği çapı']),
+      Machining: await getDimensionValuesSmart(page, ['İşleme']),
+      TighteningTorque: await getDimensionValuesSmart(page, ['Sıkma torku']),
+      Weight: await getDimensionValuesSmart(page, ['Ağırlık']),
+      Color: await getDimensionValuesSmart(page, ['Renk']),
+      ThreadSize: await getDimensionValuesSmart(page, ['Dişli ölçüsü']),
+    }
+  },
+  Crankshaft: async (page: Page): Promise<{ [key: string]: any; }> => {
+    return {
+      BoltHoleCircle: await getDimensionValuesSmart(page, ['Delik çemberi']),
+      NumberOfGrooves: await getDimensionValuesSmart(page, ['Olukların sayısı']),
+      Diameter: await getDimensionValuesSmart(page, ['Çap']),
+      InnerDiameter_1: await getDimensionValuesSmart(page, ['İç Çap 1']),
+      InnerDiameter_2: await getDimensionValuesSmart(page, ['İç Çap 2']),
+      KaburgaSayisi: await getDimensionValuesSmart(page, ['Kaburga sayısı']),
+      SupplementaryInfo: await getDimensionValuesSmart(page, ['İlave Ürün/Bilgi']),
+      OuterDiameter: await getDimensionValuesSmart(page, ['Dış çap']),
+      Parameter: await getDimensionValuesSmart(page, ['Parametre']),
+      VehicleEquipment: await getDimensionValuesSmart(page, ['Araç donanımı']),
+      Thickness: await getDimensionValuesSmart(page, ['Kalınlık/Kuvvet']),
+      Weight: await getDimensionValuesSmart(page, ['Ağırlık [kg]']),
+      Color: await getDimensionValuesSmart(page, ['Renk']),
+    }
+  }
+};
+
+export async function getAtrributes(page: Page, productType: string): Promise<{ [key: string]: any }> {
+  const fetcher = attributeFetchers[productType];
+  if (!fetcher) {
+    throw new Error(`Unsupported product type: ${productType}`);
+  }
+  return fetcher(page);
+}
