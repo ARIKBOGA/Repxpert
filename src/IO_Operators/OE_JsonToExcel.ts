@@ -13,7 +13,7 @@ const markaLookup: { [key: string]: string } = {};
 
 async function oeNumbersToExcel() {
 
-    for(const [markaID, markaName] of Object.entries(initialMarkaData)){
+    for (const [markaID, markaName] of Object.entries(initialMarkaData)) {
         markaLookup[markaName] = markaID;
     }
 
@@ -59,7 +59,7 @@ async function oeNumbersToExcel() {
                                     if (!brandOEPairs.has(uniqueKey)) {
                                         brandOEPairs.add(uniqueKey);
                                         const markaId = markaLookup[brandAliases.get(brand) as string] || markaLookup[brand];
-                                        
+
                                         sheetData.push({
                                             YV: folder,
                                             Cross: jsonData.id,
