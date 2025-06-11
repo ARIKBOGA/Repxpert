@@ -1,12 +1,7 @@
-import { Locator, Page, test } from "@playwright/test"; // Playwright Page tipi, gerektiğinde import edin
-import ConfigReader from "./ConfigReader";
+import { Locator, Page } from "@playwright/test"; // Playwright Page tipi, gerektiğinde import edin
 import * as xlsx from 'xlsx';
 import * as path from 'path';
 import { getDimensionValuesSmart, getTextContent } from "./extractHelpers";
-import { ProductAttributes } from "../types/ProductTypes";
-
-// Gerekli ortam degiskenlerini oku
-// const productType = ConfigReader.getEnvVariable("PRODUCT_TYPE");
 
 
 export async function goToSearchResults(
@@ -87,21 +82,23 @@ export async function goToSearchResultsEnglish(
   return productLinks; // bulunan ürünleri geri dön
 }
 
-export async function loginEnglishRepxpertPage(page: Page) {
-  const url = process.env.REPXPERT_ENGLISH_URL as string;
-  const email = process.env.REPXPERT_ENGLISH_EMAIL as string;
-  const password = process.env.REPXPERT_ENGLISH_PASSWORD as string;
+export async function loginToEnglishRepxpertPage(page: Page): Promise<void> {
+  const {
+    REPXPERT_ENGLISH_URL: url,
+    REPXPERT_ENGLISH_EMAIL: email,
+    REPXPERT_ENGLISH_PASSWORD: password,
+  } = process.env as Record<string, string>;
+
   await page.goto(url);
   await page.waitForLoadState('domcontentloaded');
-  await page.waitForLoadState('networkidle');
-  await page.waitForTimeout(1500);
-  await page.waitForSelector('button:has-text("Accept All Cookies")');
 
-  // Click on the "Accept All Cookies" button
   await page.getByRole('button', { name: 'Accept All Cookies' }).click();
+
   await page.getByRole('link', { name: 'Login | Register' }).click();
+
   await page.getByRole('textbox', { name: 'E-Mail Address' }).fill(email);
   await page.getByRole('textbox', { name: 'Password' }).fill(password);
+
   await page.getByRole('button', { name: 'Login' }).click();
   await page.waitForLoadState('domcontentloaded');
 }
@@ -121,33 +118,29 @@ export interface ProductReference {
 }
 
 export function readProductReferencesFromExcel(productType: string): ProductReference[] {
-  if (!productType) {
-    throw new Error("productType is undefined. Please provide a valid productType.");
-  }
   const excelPath = path.resolve(__dirname, `../data/katalogInfo/excels/${productType}_katalog_full.xlsx`);
   const workbook = xlsx.readFile(excelPath);
   const sheet = workbook.Sheets[workbook.SheetNames[0]];
-  const data = xlsx.utils.sheet_to_json<Record<string, any>>(sheet, { defval: "" });
+  const data = xlsx.utils.sheet_to_json<Record<string, string>>(sheet, { defval: "" });
 
-  const references: ProductReference[] = [];
-
-  for (const row of data) {
-    const yvNo = row['YV']?.toString()?.trim();
-    if (!yvNo) continue;
+  return data.reduce<ProductReference[]>((references, row) => {
+    const yvNo = row.YV?.trim();
+    if (!yvNo) return references;
 
     const brandRefs: { [brand: string]: string } = {};
 
-    for (const key of Object.keys(row)) {
+    Object.keys(row).forEach((key) => {
       if (key !== 'YV') {
-        const ref = row[key]?.toString()?.trim();
+        const ref = row[key]?.trim();
         if (ref) {
           brandRefs[key] = ref;
         }
       }
-    }
+    });
+
     references.push({ yvNo, brandRefs });
-  }
-  return references;
+    return references;
+  }, []);
 }
 
 // pad attributes
