@@ -7,7 +7,7 @@ export type Product = {
   //oeNumbers?: string[] | Set<string>; // OE numaraları
   brand_oe_map?: Record<string, string[]> | Map<string, Set<string>>; // Markaya göre OE numaraları
   wvaNumbers?: string[];
-  attributes?: ProductAttributes | undefined; // Boyutlar
+  attributes?: ProductAttributes | Promise<{ [key: string]: any }>; // Boyutlar
   [key: string]: any; // Ek alanlar için esneklik
 };
 
