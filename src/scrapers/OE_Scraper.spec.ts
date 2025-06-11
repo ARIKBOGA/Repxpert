@@ -4,7 +4,7 @@ import * as path from 'path';
 import { Product, ProductAttributes } from '../types/ProductTypes';
 import { getSubfolderNamesSync, readJsonFile, retryListFilePath, padPairs, discPairs, crankshaftPairs } from '../utils/FileHelpers';
 import { getTextContent, getMultipleTexts, addToRetryList, getDimensionValuesSmart } from '../utils/extractHelpers';
-import { goToSearchResults, mapToSerializableObject, readProductReferencesFromExcel } from '../utils/ScraperHelpers';
+import { goToSearchResults, mapToSerializableObject, readProductReferencesFromExcel, getAttrributes } from '../utils/ScraperHelpers';
 
 // Çalışılacak ürün tipini seç
 const productType = process.env.PRODUCT_TYPE as string; // Örnek: 'Pads', 'Discs', 'Drums' vb.
@@ -102,7 +102,7 @@ test.describe('YV NO ve Marka bazlı teknik veri tarayıcı', async () => {
               //oeNumbers,
               brand_oe_map: brand_oe_map_serializable,
               eanNumber: eanNumber,
-              attributes: getAttributes(page, productType), // change it accordingly
+              attributes: getAttrributes(page, productType), // change it accordingly
             };
 
             const basePath = path.join('src', 'data', 'Gathered_Informations', productType, 'Technical_Details', "YV_CODES", yvNo);
@@ -127,7 +127,4 @@ test.describe('YV NO ve Marka bazlı teknik veri tarayıcı', async () => {
 
 });
 
-function getAttributes(page: Page, productType: string): ProductAttributes | undefined {
-  throw new Error('Function not implemented.');
-}
 // Gruplu oe ler: //*[starts-with(@id,'cdk-accordion-child-0')]//span[@class='mat-mdc-list-item-unscoped-content mdc-list-item__primary-text']
