@@ -1,4 +1,6 @@
-# Repxpert Web Scraper
+# Web Scraper Study Project
+
+## Description
 
 This is a web scraping project built with **Playwright** and **TypeScript** designed for collecting and processing spare parts data such as brake discs, pads, and other automotive components.
 
@@ -103,7 +105,6 @@ This project is intended for **educational** and internal **non-commercial** use
 The data collected through this scraper is intended for private data processing. The author does not claim any rights on the data collected. Any usage of this tool for scraping third-party data is the sole responsibility of the user.
 
 Make sure you comply with the terms of service and policies of any website you scrape.
-
 
 ## License
 
