@@ -20,27 +20,23 @@ let retryList = readJsonFile<string[]>(retryListFilePath, []);
 
 test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
 
-  for (const ref of drumPairs) {
+  for (const ref of references) {
 
     const { yvNo, brandRefs } = ref;
+    const filterBrand = Object.keys(brandRefs)[0] as string;
+    let crossNumber = brandRefs[filterBrand]?.trim();
 
-    const filterBrand = Object.keys(brandRefs)[0];
-    let crossNumber = brandRefs && (brandRefs[filterBrand] as string);
-
-    if (!crossNumber || crossNumber === "") {
+    if (!crossNumber) {
       console.log(`YV No: ${yvNo} için geçerli bir referans kodu bulunamadı.`);
-      continue; // Geçerli bir referans kodu yoksa next iteration a geç
+      continue;
     }
 
     if (crossNumber.includes(",")) {
-      //console.warn(`⚠️ ${crossNumber} birden fazla referans içeriyor, bu durumda sadece ilk referansı kullanılıyor.`);
-      const firstCross = crossNumber.split(",")[0].trim();
-      //console.log(`İlk referans: ${firstCross}`);
-      crossNumber = firstCross; // Sadece ilk referansı kullan
+      crossNumber = crossNumber.split(",")[0].trim();
     }
 
     if (scrapedCrossSet.has(crossNumber)) {
-      //console.warn(`⚠️ ${crossNumber} kodu zaten alınmış, atlanıyor...`);
+      console.log(`⚠️ ${crossNumber} kodu zaten alınmış, atlanıyor...`);
       continue;
     }
     scrapedCrossSet.add(crossNumber);
@@ -163,19 +159,12 @@ test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
           await page.waitForTimeout(1000);
         }
 
-        const productProducerFolderPath = path.join(
-          `src/data/Gathered_Informations/${productType}/Applications/English`,
-          productProducer || "UnknownBrand"
-        );
+        const productProducerFolderPath = path.join(`src/data/Gathered_Informations/${productType}/Applications/English`, productProducer || "UnknownBrand");
 
-        if (!fs.existsSync(productProducerFolderPath)) {
-          fs.mkdirSync(productProducerFolderPath, { recursive: true });
-        }
-
+        // Create the folder if it doesn't exist
+        fs.mkdirSync(productProducerFolderPath, { recursive: true });
         const oeFolderPath = path.join(productProducerFolderPath, crossNumber);
-        if (!fs.existsSync(oeFolderPath)) {
-          fs.mkdirSync(oeFolderPath, { recursive: true });
-        }
+        fs.mkdirSync(oeFolderPath, { recursive: true });
 
         const fileName = `${productProducer}_${productID}.json`;
         const filePath = path.join(oeFolderPath, fileName);
