@@ -212,7 +212,7 @@ const attributeFetchers: Record<string, AttributeFetcher> = {
   }
 };
 
-export async function getAtrributes(page: Page, productType: string): Promise<{ [key: string]: any }> {
+export async function getAttrributes(page: Page, productType: string): Promise<{ [key: string]: any }> {
   const fetcher = attributeFetchers[productType];
   if (!fetcher) {
     throw new Error(`Unsupported product type: ${productType}`);
