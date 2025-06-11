@@ -1,4 +1,4 @@
-import { test } from '@playwright/test';
+import { Page, test } from '@playwright/test';
 import * as fs from 'fs';
 import * as path from 'path';
 import { Product, ProductAttributes } from '../types/ProductTypes';
@@ -22,19 +22,17 @@ test.describe('YV NO ve Marka bazlı teknik veri tarayıcı', async () => {
 
     const { yvNo, brandRefs } = ref;
     // yvNo daha önce işlenmişse atla
-    //if (existedFolders.includes(yvNo)) {
-    //  console.log(`❌ ${yvNo} daha önce işlenmiş, atlanıyor...`);
-    //  continue;
-    //}
+    if (existedFolders.includes(yvNo)) {
+      console.log(`❌ ${yvNo} daha önce işlenmiş, atlanıyor...`);
+      continue;
+    }
     // Her test için yeni bir sayfa açılır, böylece her test birbirinden bağımsız çalışır
     for (const [brand, productCode] of Object.entries(brandRefs)) {
 
-      let productCodes: string[] = [];
-      if (productCode.includes(",") || productCode.includes(" ")) {
-        productCodes = productCode.split(', ').filter((code: string) => code.trim() !== "");
-      } else {
-        productCodes = [productCode];
-      }
+      const productCodes = productCode
+        .split(/,|\s+/)
+        .map((code) => code.trim())
+        .filter((code) => code !== "");
       for (const productCode of productCodes) {
 
         //if (yvNo && brand === 'TEXTAR' && productCode.includes(" ")) continue;
@@ -74,70 +72,8 @@ test.describe('YV NO ve Marka bazlı teknik veri tarayıcı', async () => {
             const eanNumber = await getTextContent(page.locator('.ean-value'));
             const wvaNumbers = await getMultipleTexts(page.locator('.tradeNumbers-value > span'));
 
-            const widthValues = await getDimensionValuesSmart(page, ['Genişlik', 'Uzunluk']);
-            const heightValues = await getDimensionValuesSmart(page, ['Yükseklik']);
-            const thicknessValues = await getDimensionValuesSmart(page, ['Kalınlık']); // sadece gerekiyorsa
-
-            // pad attributes
-            const pad_attributes: ProductAttributes = {
-              width1: widthValues[0] ?? null,
-              width2: widthValues[1] ?? null,
-              height1: heightValues[0] ?? null,
-              height2: heightValues[1] ?? null,
-              thickness1: thicknessValues[0] ?? null,
-              thickness2: thicknessValues[1] ?? null,
-              wvaNumber: await getDimensionValuesSmart(page,[ 'WVA numarası']),
-              Quality: await getDimensionValuesSmart(page, ['Kalite']),
-              AxleVersion: await getDimensionValuesSmart(page, ['Aks modeli']),
-              BrakeSystem: await getDimensionValuesSmart(page, ['Fren sistemi', 'Fren tertibatı']),
-              manufacturerRestriction: await getTextContent(page.locator("(//*[.='Üretici kısıtlaması']/following-sibling::dd)[1]/span")),
-              checkmark: await getTextContent(page.locator("(//*[.='Kontrol işareti']/following-sibling::dd)[1]/span")),
-              SVHC: await getTextContent(page.locator("(//*[.='SVHC']/following-sibling::dd)[1]/span")),
-              Weight: await getDimensionValuesSmart(page, ['Ağırlık']),
-            };
-
-            // disc Attributes
-            const disc_attributes: ProductAttributes | any = {
-              Type: await getDimensionValuesSmart(page, ['Fren diski türü']),
-              ThicknessValues: await getDimensionValuesSmart(page, ['Fren diski kalınlığı']),
-              MinimumThicknessValues: await getDimensionValuesSmart(page, ['Asgari kalınlık']),
-              Surface: await getDimensionValuesSmart(page, ['Üst yüzey']),
-              HeightValues: await getDimensionValuesSmart(page, ['Yükseklik']),
-              InnerDiameter: await getDimensionValuesSmart(page, ['İç çap']),
-              OuterDiameter: await getDimensionValuesSmart(page, ['Dış çap']),
-              BoltHoleCircle: await getDimensionValuesSmart(page, ['Delik çemberi']),
-              NumberOfHoles: await getDimensionValuesSmart(page, ['Delik sayısı']),
-              AxleVersion: await getDimensionValuesSmart(page, ['Aks modeli']),
-              TechnicalInformationNumber: await getDimensionValuesSmart(page, ['Teknik bilgi numarası']),
-              TestMark: await getDimensionValuesSmart(page, ['Kontrol işareti']),
-              Diameter: await getDimensionValuesSmart(page, ['Çap']),
-              Thickness: await getDimensionValuesSmart(page, ['Kalınlık/Kuvvet']),
-              SupplementaryInfo: await getDimensionValuesSmart(page, ['İlave Ürün/Bilgi']),
-              CenteringDiameter: await getDimensionValuesSmart(page, ['Merkezleme çapı']),
-              HoleArrangement_HoleNumber: await getDimensionValuesSmart(page, ['Delik şekli/Delik sayısı']),
-              WheelBoltBoreDiameter: await getDimensionValuesSmart(page, ['Bijon deliği çapı']),
-              Machining: await getDimensionValuesSmart(page, ['İşleme']),
-              TighteningTorque: await getDimensionValuesSmart(page, ['Sıkma torku']),
-              Weight: await getDimensionValuesSmart(page, ['Ağırlık']),
-              Color: await getDimensionValuesSmart(page, ['Renk']),
-              ThreadSize: await getDimensionValuesSmart(page, ['Dişli ölçüsü']),
-            }
-
-            const crankshaft_attributes: ProductAttributes | any = {
-              BoltHoleCircle: await getDimensionValuesSmart(page, ['Delik çemberi']),
-              NumberOfGrooves: await getDimensionValuesSmart(page, ['Olukların sayısı']),
-              Diameter: await getDimensionValuesSmart(page, ['Çap']),
-              InnerDiameter_1: await getDimensionValuesSmart(page, ['İç Çap 1']),
-              InnerDiameter_2: await getDimensionValuesSmart(page, ['İç Çap 2']),
-              KaburgaSayisi: await getDimensionValuesSmart(page, ['Kaburga sayısı']),
-              SupplementaryInfo: await getDimensionValuesSmart(page, ['İlave Ürün/Bilgi']),
-              OuterDiameter: await getDimensionValuesSmart(page, ['Dış çap']),
-              Parameter: await getDimensionValuesSmart(page, ['Parametre']),
-              VehicleEquipment: await getDimensionValuesSmart(page, ['Araç donanımı']),
-              Thickness: await getDimensionValuesSmart(page, ['Kalınlık/Kuvvet']),
-              Weight: await getDimensionValuesSmart(page, ['Ağırlık [kg]']),
-              Color: await getDimensionValuesSmart(page, ['Renk']),
-            }
+            
+            
 
             await page.waitForTimeout(1000); // Sayfanın tam yüklenmesi için bekle
             //await page.pause(); // Sayfayı durdur
@@ -166,7 +102,7 @@ test.describe('YV NO ve Marka bazlı teknik veri tarayıcı', async () => {
               //oeNumbers,
               brand_oe_map: brand_oe_map_serializable,
               eanNumber: eanNumber,
-              attributes: pad_attributes // change it accordingly
+              attributes: getAttributes(page, productType), // change it accordingly
             };
 
             const basePath = path.join('src', 'data', 'Gathered_Informations', productType, 'Technical_Details', "YV_CODES", yvNo);
@@ -190,4 +126,8 @@ test.describe('YV NO ve Marka bazlı teknik veri tarayıcı', async () => {
   }
 
 });
+
+function getAttributes(page: Page, productType: string): ProductAttributes | undefined {
+  throw new Error('Function not implemented.');
+}
 // Gruplu oe ler: //*[starts-with(@id,'cdk-accordion-child-0')]//span[@class='mat-mdc-list-item-unscoped-content mdc-list-item__primary-text']
