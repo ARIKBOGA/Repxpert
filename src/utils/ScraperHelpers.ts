@@ -124,12 +124,12 @@ export function readProductReferencesFromExcel(productType: string): ProductRefe
   const data = xlsx.utils.sheet_to_json<Record<string, string>>(sheet, { defval: "" });
 
   return data.reduce<ProductReference[]>((references, row) => {
-    const yvNo = row.YV?.trim();
+    const yvNo = row['YV']?.toString()?.trim();
     if (!yvNo) return references;
 
     const brandRefs: { [brand: string]: string } = {};
 
-    Object.keys(row).forEach((key) => {
+    Object.keys(row).forEach(key => {
       if (key !== 'YV') {
         const ref = row[key]?.trim();
         if (ref) {
