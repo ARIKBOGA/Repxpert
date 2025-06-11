@@ -19,3 +19,8 @@ export function formatDateTime(date: Date): { lettericDate: string, numericDate:
   // 22.05.2025-11:54:49
   return { lettericDate, numericDate };
 }
+
+export function getCurrentDateString(): string {
+  const now = new Date();
+  return now.toISOString().split('T')[0];
+}

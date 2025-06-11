@@ -2,7 +2,7 @@ import { test } from '@playwright/test';
 import fs from 'fs';
 import path from 'path';
 import * as xlsx from 'xlsx';
-import { loginEnglishRepxpertPage } from '../utils/ScraperHelpers';
+import { loginToEnglishRepxpertPage } from '../utils/ScraperHelpers';
 
 
 test.describe('Model Name Scraper', () => {
@@ -10,7 +10,7 @@ test.describe('Model Name Scraper', () => {
     test(`Scrape model names for all brands`, async ({ page }) => {
 
         // Navigate to the English RepXpert page
-        await loginEnglishRepxpertPage(page);
+        await loginToEnglishRepxpertPage(page);
 
         // Wait for the user name to be visible
         await page.waitForSelector("//*[@class='name']");
