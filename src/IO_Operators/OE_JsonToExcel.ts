@@ -51,30 +51,26 @@ async function oeNumbersToExcel() {
                             if (jsonData.brand_oe_map.hasOwnProperty(brand)) {
                                 const oeNumbers: string[] = jsonData.brand_oe_map[brand];
 
-                                oeNumbers.forEach(oeNumber => {
-                                    if(oeNumber.startsWith("0")) oeNumber = "'".concat(oeNumber);
+                                for (const oeNumber of oeNumbers) {
+                                    const formattedOeNumber = oeNumber.startsWith("0") ? `'${oeNumber}` : oeNumber;
                                     const marka = brandAliases.get(brand) || brand;
-                                    if(brandOEPairs.has(`${folder}${marka}-${oeNumber}`)) return;
-                                    sheetData.push({
-                                        YV: folder, // folder name = yvNO
-                                        Cross: jsonData.id,
-                                        Cross_Marka: jsonData.brand,
-                                        Marka_ID: (() => {
-                                            const alias = brandAliases.get(brand);
-                                            if (alias && markaLookup[alias]) {
-                                                return markaLookup[alias];
-                                            } else if (markaLookup[brand]) {
-                                                return markaLookup[brand];
-                                            } else {
-                                                return undefined;
-                                            }
-                                        })(),
-                                        Marka: marka ,
-                                        OE_Number: oeNumber,
-                                        //VWA: jsonData.wvaNumbers.join(', ')
-                                    });
-                                    brandOEPairs.add(`${folder}${marka}-${oeNumber}`);
-                                });
+                                    const uniqueKey = `${folder}${marka}-${formattedOeNumber}`;
+
+                                    if (!brandOEPairs.has(uniqueKey)) {
+                                        brandOEPairs.add(uniqueKey);
+                                        const markaId = markaLookup[brandAliases.get(brand) as string] || markaLookup[brand];
+                                        
+                                        sheetData.push({
+                                            YV: folder,
+                                            Cross: jsonData.id,
+                                            Cross_Marka: jsonData.brand,
+                                            Marka_ID: markaId,
+                                            Marka: marka,
+                                            OE_Number: formattedOeNumber,
+                                            //VWA: jsonData.wvaNumbers.join(', ')
+                                        });
+                                    }
+                                }
                             }
                         }
                     } catch (error) {
