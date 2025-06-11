@@ -16,7 +16,7 @@ const OUTPUT_DIR = path.join(__dirname, `../data/Gathered_Informations/${product
 
 test.describe('Spare Cross Numbers Scraper', () => {
 
-    references
+    crankshaftPairs
         .filter(({ brandRefs }) => brandRefs && Object.keys(brandRefs).length > 0)
         .forEach(({ yvNo, brandRefs }) => {
 
