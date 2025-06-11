@@ -1,10 +1,7 @@
-import { Locator, Page, test } from "@playwright/test"; // Playwright Page tipi, gerektiğinde import edin
-import ConfigReader from "./ConfigReader";
+import { Locator, Page } from "@playwright/test"; // Playwright Page tipi, gerektiğinde import edin
 import * as xlsx from 'xlsx';
 import * as path from 'path';
-
-// Gerekli ortam degiskenlerini oku
-// const productType = ConfigReader.getEnvVariable("PRODUCT_TYPE");
+import { getDimensionValuesSmart, getTextContent } from "./extractHelpers";
 
 
 export async function goToSearchResults(
@@ -27,7 +24,7 @@ export async function goToSearchResults(
   await page
     .getByRole("checkbox", { name: new RegExp(filterBrand, "i") })
     .first()
-    .click({timeout: 5000});
+    .click({ timeout: 5000 });
   await page.waitForTimeout(2000);
 
   const productLinks = await page
@@ -67,7 +64,7 @@ export async function goToSearchResultsEnglish(
   await page
     .getByRole("checkbox", { name: new RegExp(filterBrand, "i") })
     .first()
-    .click({timeout: 5000});
+    .click({ timeout: 5000 });
   await page.waitForTimeout(1000);
 
   const productLinks = await page
@@ -85,21 +82,23 @@ export async function goToSearchResultsEnglish(
   return productLinks; // bulunan ürünleri geri dön
 }
 
-export async function loginEnglishRepxpertPage(page: Page) {
-  const url = process.env.REPXPERT_ENGLISH_URL as string;
-  const email = process.env.REPXPERT_ENGLISH_EMAIL as string;
-  const password = process.env.REPXPERT_ENGLISH_PASSWORD as string;
+export async function loginToEnglishRepxpertPage(page: Page): Promise<void> {
+  const {
+    REPXPERT_ENGLISH_URL: url,
+    REPXPERT_ENGLISH_EMAIL: email,
+    REPXPERT_ENGLISH_PASSWORD: password,
+  } = process.env as Record<string, string>;
+
   await page.goto(url);
   await page.waitForLoadState('domcontentloaded');
-  await page.waitForLoadState('networkidle');
-  await page.waitForTimeout(1500);
-  await page.waitForSelector('button:has-text("Accept All Cookies")');
 
-  // Click on the "Accept All Cookies" button
   await page.getByRole('button', { name: 'Accept All Cookies' }).click();
+
   await page.getByRole('link', { name: 'Login | Register' }).click();
+
   await page.getByRole('textbox', { name: 'E-Mail Address' }).fill(email);
   await page.getByRole('textbox', { name: 'Password' }).fill(password);
+
   await page.getByRole('button', { name: 'Login' }).click();
   await page.waitForLoadState('domcontentloaded');
 }
@@ -119,32 +118,104 @@ export interface ProductReference {
 }
 
 export function readProductReferencesFromExcel(productType: string): ProductReference[] {
-  if (!productType) {
-    throw new Error("productType is undefined. Please provide a valid productType.");
-  }
   const excelPath = path.resolve(__dirname, `../data/katalogInfo/excels/${productType}_katalog_full.xlsx`);
   const workbook = xlsx.readFile(excelPath);
   const sheet = workbook.Sheets[workbook.SheetNames[0]];
-  const data = xlsx.utils.sheet_to_json<Record<string, any>>(sheet, { defval: "" });
+  const data = xlsx.utils.sheet_to_json<Record<string, string>>(sheet, { defval: "" });
 
-  const references: ProductReference[] = [];
-
-  for (const row of data) {
+  return data.reduce<ProductReference[]>((references, row) => {
     const yvNo = row['YV']?.toString()?.trim();
-    if (!yvNo) continue;
+    if (!yvNo) return references;
 
     const brandRefs: { [brand: string]: string } = {};
 
-    for (const key of Object.keys(row)) {
+    Object.keys(row).forEach(key => {
       if (key !== 'YV') {
-        const ref = row[key]?.toString()?.trim();
+        const ref = row[key]?.trim();
         if (ref) {
           brandRefs[key] = ref;
         }
       }
-    }
+    });
+
     references.push({ yvNo, brandRefs });
-  }
-  return references;
+    return references;
+  }, []);
 }
 
+// pad attributes
+type AttributeFetcher = (page: Page) => Promise<{ [key: string]: any }>;
+
+const attributeFetchers: Record<string, AttributeFetcher> = {
+  Pad: async (page: Page): Promise<{ [key: string]: any; }> => {
+    return {
+      width1: (await getDimensionValuesSmart(page, ['Genişlik', 'Uzunluk']))[0] ?? null,
+      width2: (await getDimensionValuesSmart(page, ['Genişlik', 'Uzunluk']))[1] ?? null,
+      height1: (await getDimensionValuesSmart(page, ['Yükseklik']))[0] ?? null,
+      height2: (await getDimensionValuesSmart(page, ['Yükseklik']))[1] ?? null,
+      thickness1: (await getDimensionValuesSmart(page, ['Kalınlık']))[0] ?? null,
+      thickness2: (await getDimensionValuesSmart(page, ['Kalınlık']))[1] ?? null,
+      wvaNumber: await getDimensionValuesSmart(page, ['WVA numarası']),
+      Quality: await getDimensionValuesSmart(page, ['Kalite']),
+      AxleVersion: await getDimensionValuesSmart(page, ['Aks modeli']),
+      BrakeSystem: await getDimensionValuesSmart(page, ['Fren sistemi', 'Fren tertibatı']),
+      manufacturerRestriction: await getTextContent(page.locator("(//*[.='Üretici kısıtlaması']/following-sibling::dd)[1]/span")),
+      checkmark: await getTextContent(page.locator("(//*[.='Kontrol işareti']/following-sibling::dd)[1]/span")),
+      SVHC: await getTextContent(page.locator("(//*[.='SVHC']/following-sibling::dd)[1]/span")),
+      Weight: await getDimensionValuesSmart(page, ['Ağırlık']),
+    }
+
+  },
+  Disc: async (page: Page): Promise<{ [key: string]: any; }> => {
+    return {
+      Type: await getDimensionValuesSmart(page, ['Fren diski türü']),
+      ThicknessValues: await getDimensionValuesSmart(page, ['Fren diski kalınlığı']),
+      MinimumThicknessValues: await getDimensionValuesSmart(page, ['Asgari kalınlık']),
+      Surface: await getDimensionValuesSmart(page, ['Üst yüzey']),
+      HeightValues: await getDimensionValuesSmart(page, ['Yükseklik']),
+      InnerDiameter: await getDimensionValuesSmart(page, ['İç çap']),
+      OuterDiameter: await getDimensionValuesSmart(page, ['Dış çap']),
+      BoltHoleCircle: await getDimensionValuesSmart(page, ['Delik çemberi']),
+      NumberOfHoles: await getDimensionValuesSmart(page, ['Delik sayısı']),
+      AxleVersion: await getDimensionValuesSmart(page, ['Aks modeli']),
+      TechnicalInformationNumber: await getDimensionValuesSmart(page, ['Teknik bilgi numarası']),
+      TestMark: await getDimensionValuesSmart(page, ['Kontrol işareti']),
+      Diameter: await getDimensionValuesSmart(page, ['Çap']),
+      Thickness: await getDimensionValuesSmart(page, ['Kalınlık/Kuvvet']),
+      SupplementaryInfo: await getDimensionValuesSmart(page, ['İlave Ürün/Bilgi']),
+      CenteringDiameter: await getDimensionValuesSmart(page, ['Merkezleme çapı']),
+      HoleArrangement_HoleNumber: await getDimensionValuesSmart(page, ['Delik şekli/Delik sayısı']),
+      WheelBoltBoreDiameter: await getDimensionValuesSmart(page, ['Bijon deliği çapı']),
+      Machining: await getDimensionValuesSmart(page, ['İşleme']),
+      TighteningTorque: await getDimensionValuesSmart(page, ['Sıkma torku']),
+      Weight: await getDimensionValuesSmart(page, ['Ağırlık']),
+      Color: await getDimensionValuesSmart(page, ['Renk']),
+      ThreadSize: await getDimensionValuesSmart(page, ['Dişli ölçüsü']),
+    }
+  },
+  Crankshaft: async (page: Page): Promise<{ [key: string]: any; }> => {
+    return {
+      BoltHoleCircle: await getDimensionValuesSmart(page, ['Delik çemberi']),
+      NumberOfGrooves: await getDimensionValuesSmart(page, ['Olukların sayısı']),
+      Diameter: await getDimensionValuesSmart(page, ['Çap']),
+      InnerDiameter_1: await getDimensionValuesSmart(page, ['İç Çap 1']),
+      InnerDiameter_2: await getDimensionValuesSmart(page, ['İç Çap 2']),
+      KaburgaSayisi: await getDimensionValuesSmart(page, ['Kaburga sayısı']),
+      SupplementaryInfo: await getDimensionValuesSmart(page, ['İlave Ürün/Bilgi']),
+      OuterDiameter: await getDimensionValuesSmart(page, ['Dış çap']),
+      Parameter: await getDimensionValuesSmart(page, ['Parametre']),
+      VehicleEquipment: await getDimensionValuesSmart(page, ['Araç donanımı']),
+      Thickness: await getDimensionValuesSmart(page, ['Kalınlık/Kuvvet']),
+      Weight: await getDimensionValuesSmart(page, ['Ağırlık [kg]']),
+      Color: await getDimensionValuesSmart(page, ['Renk']),
+    }
+  }
+};
+
+export async function getAttrributes(page: Page, productType: string): Promise<{ [key: string]: any }> {
+  const fetcher = attributeFetchers[productType];
+  if (!fetcher) {
+    throw new Error(`Unsupported product type: ${productType}`);
+  }
+  return fetcher(page);
+}

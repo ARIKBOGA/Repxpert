@@ -80,8 +80,13 @@ export const crankshaftPairs: ProductReference[] = [
   //{ yvNo: "7041010", brandRefs: { RUVILLE: "520259" } }, // 059105251AA
   //{ yvNo: "7043010", brandRefs: { "FAI AutoParts": "FVD1178" } }, // 059105251AA
   //{ yvNo: "7044010", brandRefs: { VAICO: "V46-1914" } }, // 059105251AA
-  { yvNo: "7045010", brandRefs: { FEBI: "194040" } }, // 059105251AA
   //{ yvNo: "7046010", brandRefs: { FEBI: "188409" } }, // 059105251AA
+  //{ yvNo: "7064010", brandRefs: { CORTECO: "80001108" } }, // 059105251AA
+  
+
+{ yvNo: "7060010", brandRefs: { "HERTH+BUSS": "J1092001" } },
+
+
 
 ];
 
