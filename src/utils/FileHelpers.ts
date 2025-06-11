@@ -83,7 +83,10 @@ export const crankshaftPairs: ProductReference[] = [
   //{ yvNo: "7046010", brandRefs: { FEBI: "188409" } }, // 059105251AA
   //{ yvNo: "7064010", brandRefs: { CORTECO: "80001108" } }, // 059105251AA
   
-  { yvNo: "7062010", brandRefs: { CORTECO: "80000544" } },
+
+{ yvNo: "7060010", brandRefs: { "HERTH+BUSS": "J1092001" } },
+
+
 
 ];
 

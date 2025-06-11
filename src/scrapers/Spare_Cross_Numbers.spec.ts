@@ -22,12 +22,12 @@ test.describe('Spare Cross Numbers Scraper', () => {
 
             //console.log(`Processing YV No: ${yvNo} with Brand References:`, brandRefs);
             
-            const filterBrand = "CORTECO"
+            const filterBrand = Object.keys(brandRefs)[0]; // Get the first brand reference
             const brandRefValue = brandRefs[filterBrand];
             if (!brandRefValue) return; // Skip if the brand reference is missing
             const crossNumber = brandRefValue.split(",")[0].trim();
             
-            //console.log(`Cross Number: ${crossNumber} - filterBrand: ${filterBrand}`);
+            console.log(`Cross Number: ${crossNumber} - filterBrand: ${filterBrand}`);
 
             if (scrapedCrossSet.has(crossNumber)) return; // Already scraped, ski
             scrapedCrossSet.add(crossNumber);
