@@ -13,7 +13,7 @@ const filterBrand = process.env.FILTER_BRAND_APPLICATION as string;
 // reTry.json'u oku veya boş bir array oluştur
 let retryList = readJsonFile<string[]>(retryListFilePath, []);
 
-const references = readProductReferencesFromExcel(productType);
+const references = readProductReferencesFromExcel();
 const existedFolders = getSubfolderNamesSync(`src/data/Gathered_Informations/${productType}/Technical_Details/YV_CODES`);
 
 test.describe('YV NO ve Marka bazlı teknik veri tarayıcı', async () => {
@@ -102,7 +102,7 @@ test.describe('YV NO ve Marka bazlı teknik veri tarayıcı', async () => {
               //oeNumbers,
               brand_oe_map: brand_oe_map_serializable,
               eanNumber: eanNumber,
-              attributes: getAttrributes(page, productType), // change it accordingly
+              attributes: getAttrributes(page), // change it accordingly
             };
 
             const basePath = path.join('src', 'data', 'Gathered_Informations', productType, 'Technical_Details', "YV_CODES", yvNo);
