@@ -1,4 +1,4 @@
-import { test } from '@playwright/test';
+import { expect, test } from '@playwright/test';
 import fs from 'fs';
 import path from 'path';
 import * as xlsx from 'xlsx';
@@ -15,8 +15,9 @@ test.describe('Model Name Scraper', () => {
         // Wait for the user name to be visible
         await page.waitForSelector("//*[@class='name']");
         const userName = await page.locator("//*[@class='name']").textContent().then((text) => text?.trim());
-        await (await page.waitForSelector("//*[@class='name']")).isVisible();
-
+        await expect(page.locator("//*[@class='name']")).toBeVisible({ timeout: 5000 });
+        expect(userName).toBe(process.env.REPXPERT_ENGLISH_NAME as string);
+       
         // Navigate to the "Vehicles Globally" section
         const vehiclesGloballyButton = page.locator("//button[.='Vehicles Globally']");
         await vehiclesGloballyButton.click();
