@@ -16,7 +16,7 @@ interface StringPair {
 const productType = process.env.PRODUCT_TYPE as string; // Örnek: 'Pads', 'Discs', 'Drums' vb.
 
 // Ürün tipine karşılık gelen Excel dosyasından katalog bilgilerini oku
-const references : ProductReference[] = readProductReferencesFromExcel(productType);
+const references : ProductReference[] = readProductReferencesFromExcel();
 //const existedFolders = getSubfolderNamesSync(`src/data/Gathered_Informations/${productType}/CrossNumbers/YV_CODES`);
 
 test.describe('YV NO ve Textar kodları ile Cross Numbers tarayıcı', () => {
