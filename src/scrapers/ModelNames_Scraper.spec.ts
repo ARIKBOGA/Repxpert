@@ -2,31 +2,18 @@ import { test, expect } from '@playwright/test';
 import * as xlsx from 'xlsx';
 import fs from 'fs';
 import path from 'path';
-import ConfigReader from '../utils/ConfigReader';
+
 import { getMultipleTexts } from '../utils/extractHelpers';
-import { loginEnglishRepxpertPage, mapToSerializableObject } from '../utils/ScraperHelpers';
+import { mapToSerializableObject } from '../utils/ScraperHelpers';
 
-/*
-
-function readBrandsFromExcel(): string[] {
+async function readBrandsFromExcel(): Promise<string[]> {
     const excelPath = path.resolve(__dirname, '../data/katalogInfo/excels/marka_new.xlsx');
     const workbook = xlsx.readFile(excelPath);
     const sheet = workbook.Sheets[workbook.SheetNames[0]];
-    const data = xlsx.utils.sheet_to_json<Record<string, any>>(sheet, { defval: "" });
+    const data = xlsx.utils.sheet_to_json<Record<string, any>>(sheet, { defval: "", header: 1 });
 
-    const brands: string[] = [];
-
-    for (const row of data) {
-        const brandName = row['marka']?.toString()?.trim();
-        if (brandName) {
-            brands.push(brandName);
-        }
-    }
-
-    return brands;
+    return data.map(row => row['marka']?.toString()?.trim()).filter(Boolean);
 }
-
-*/
 
 test.describe('Model Name Scraper', () => {
 
@@ -38,9 +25,6 @@ test.describe('Model Name Scraper', () => {
 
 
     test(`Scrape model names for all brands`, async ({ page }) => {
-
-        // Login to the English RepXpert page
-        // await loginEnglishRepxpertPage(page);
 
         await page.goto("https://www.repxpert.co.uk/en-gb/catalog");
         await page.waitForLoadState('domcontentloaded');
@@ -97,7 +81,7 @@ test.describe('Model Name Scraper', () => {
             }
         }
         // Serialize the Map to a JSON-compatible format
-        const serializedMap = mapToSerializableObject(await allModels);
+        const serializedMap = mapToSerializableObject(allModels);
 
 
         // Write allMadels to a JSON file
