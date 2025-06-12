@@ -1,4 +1,4 @@
-import { test, expect, Locator } from '@playwright/test'
+import { test, Locator } from '@playwright/test'
 import { ProductReference, readProductReferencesFromExcel } from '../utils/ScraperHelpers';
 import { writeFileSync } from 'fs';
 import path from 'path';
@@ -9,7 +9,7 @@ import stealth from 'puppeteer-extra-plugin-stealth';
 
 //const filterBrand = process.env.FILTER_BRAND_APPLICATION as string;
 const productType = process.env.PRODUCT_TYPE as string;
-const references: ProductReference[] = readProductReferencesFromExcel(productType);
+const references: ProductReference[] = readProductReferencesFromExcel();
 const scrapedCrossSet = new Set<string>();
 
 const OUTPUT_DIR = path.join(__dirname, `../data/Gathered_Informations/${productType}/CrossNumbers/YV_CODES`);
