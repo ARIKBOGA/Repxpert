@@ -8,7 +8,7 @@ import { selector } from "../utils/Selectors";
 import { readJsonFile, retryListFilePath } from "../utils/FileHelpers";
 import { goToSearchResults } from "../utils/ScraperHelpers";
 
-const crossNumbersPath = path.resolve(__dirname, "../data/Gathered_Informations/Pads/Resources/references_of_pads.json");
+const crossNumbersPath = path.resolve(__dirname, "../data/Gathered_Informations/Pad/Resources/references_of_pads.json");
 const crossNumbers: string[] = JSON.parse(fs.readFileSync(crossNumbersPath, "utf-8"));
 
 let retryList = readJsonFile<string[]>(retryListFilePath, []);
