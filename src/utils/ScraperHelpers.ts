@@ -2,75 +2,40 @@ import { Locator, Page } from "@playwright/test"; // Playwright Page tipi, gerek
 import * as xlsx from 'xlsx';
 import * as path from 'path';
 import { getDimensionValuesSmart, getTextContent } from "./extractHelpers";
+import dotenv from 'dotenv';
+// .env dosyasını yükle
+dotenv.config({ path: path.resolve(__dirname, '../data/Configs/.env') });
+
+const productType = process.env.PRODUCT_TYPE as string;
 
 
-export async function goToSearchResults(
-  page: Page,
-  oe: string,
-  filterBrand: string,
-  retryList: string[],
-  addToRetryList: (oe: string) => void
-): Promise<Locator[] | null> {
-  await page.goto(process.env.REPXPERT_URL as string);
-  await page.waitForLoadState('domcontentloaded');
-  await page.waitForLoadState('networkidle');
-  await page.waitForTimeout(1500);
-  await page.getByRole("textbox", { name: /OE numarası/i }).fill(oe);
-  await page.getByRole("textbox", { name: /OE numarası/i }).press("Enter");
-
-  await page
-    .getByRole("combobox", { name: /Markalar/i })
-    .fill(filterBrand || "");
-  await page
-    .getByRole("checkbox", { name: new RegExp(filterBrand, "i") })
-    .first()
-    .click({ timeout: 5000 });
-  await page.waitForTimeout(2000);
-
-  const productLinks = await page
-    .getByRole("link", { name: new RegExp(filterBrand, "i") })
-    .all();
-
-  if (productLinks.length === 0) {
-    console.warn(`⚠️ '${oe}' için ${filterBrand} ürünü bulunamadı.`);
-    if (!retryList.includes(oe)) {
-      addToRetryList(oe);
-    }
-    return null; // hiçbir ürün yoksa null dön
-  }
-
-  return productLinks; // bulunan ürünleri geri dön
+export async function goToSearchResults( page: Page, oe: string, filterBrand: string, retryList: string[], addToRetryList: (oe: string) => void)
+  : Promise<Locator[] | null> {
+  const url = process.env.REPXPERT_URL as string;
+  return getSearchResult(page, url, oe, filterBrand, retryList, addToRetryList, /OE numarası/i, /Markalar/i);
 }
 
-export async function goToSearchResultsEnglish(
-  page: Page,
-  oe: string,
-  filterBrand: string,
-  retryList: string[],
-  addToRetryList: (oe: string) => void
-): Promise<Locator[] | null> {
+export async function goToSearchResultsEnglish( page: Page, oe: string, filterBrand: string, retryList: string[], addToRetryList: (oe: string) => void)
+: Promise<Locator[] | null> {
+  const url = process.env.REPXPERT_ENGLISH_URL as string;
+  return getSearchResult(page, url, oe, filterBrand, retryList, addToRetryList, /OE number/i, /Brands/i); 
+}
 
-  // İngilizce RepXpert sayfasına git
-  await page.goto(process.env.REPXPERT_HOME_ENGLISH_URL as string);
+async function getSearchResult(page: Page, url: string, oe: string, filterBrand: string, retryList: string[], addToRetryList: (oe: string) => void, textBoxInput: RegExp, brandInput: RegExp) 
+: Promise<Locator[] | null> {
+ 
+  await page.goto(url);
   await page.waitForLoadState('domcontentloaded');
   await page.waitForLoadState('networkidle');
   await page.waitForTimeout(1000);
-  await page.getByRole("textbox", { name: /OE number/i }).fill(oe);
-  await page.getByRole("textbox", { name: /OE number/i }).press("Enter");
+  await page.getByRole("textbox", { name: textBoxInput }).fill(oe);
+  await page.getByRole("textbox", { name: textBoxInput }).press("Enter");
 
-  await page
-    .getByRole("combobox", { name: /Brands/i })
-    .fill(filterBrand || "");
-  await page
-    .getByRole("checkbox", { name: new RegExp(filterBrand, "i") })
-    .first()
-    .click({ timeout: 5000 });
+  await page.getByRole("combobox", { name: brandInput }).fill(filterBrand || "");
+  await page.getByRole("checkbox", { name: new RegExp(filterBrand, "i") }).first().click({ timeout: 5000 });
   await page.waitForTimeout(1000);
 
-  const productLinks = await page
-    .getByRole("link", { name: new RegExp(filterBrand, "i") })
-    .all();
-
+  const productLinks = await page.getByRole("link", { name: new RegExp(filterBrand, "i") }).all();
   if (productLinks.length === 0) {
     console.warn(`⚠️ '${oe}' için ${filterBrand} ürünü bulunamadı.`);
     if (!retryList.includes(oe)) {
@@ -78,7 +43,6 @@ export async function goToSearchResultsEnglish(
     }
     return null; // hiçbir ürün yoksa null dön
   }
-
   return productLinks; // bulunan ürünleri geri dön
 }
 
@@ -117,33 +81,34 @@ export interface ProductReference {
   brandRefs: { [brand: string]: string }; // { "BREMBO": "09.1234.56", "TRW": "", ... }
 }
 
-export function readProductReferencesFromExcel(productType: string): ProductReference[] {
+export function readProductReferencesFromExcel(): ProductReference[] {
   const excelPath = path.resolve(__dirname, `../data/katalogInfo/excels/${productType}_katalog_full.xlsx`);
   const workbook = xlsx.readFile(excelPath);
   const sheet = workbook.Sheets[workbook.SheetNames[0]];
   const data = xlsx.utils.sheet_to_json<Record<string, string>>(sheet, { defval: "" });
 
-  return data.reduce<ProductReference[]>((references, row) => {
+  const references: ProductReference[] = [];
+
+  for (const row of data) {
     const yvNo = row['YV']?.toString()?.trim();
-    if (!yvNo) return references;
+    if (!yvNo) continue;
 
     const brandRefs: { [brand: string]: string } = {};
 
-    Object.keys(row).forEach(key => {
+    for (const key of Object.keys(row)) {
       if (key !== 'YV') {
-        const ref = row[key]?.trim();
+        const ref = row[key]?.toString()?.trim();
         if (ref) {
           brandRefs[key] = ref;
         }
       }
-    });
-
+    }
     references.push({ yvNo, brandRefs });
-    return references;
-  }, []);
+  }
+  return references;
 }
 
-// pad attributes
+// Fonksiyonlar, ürün tipine göre farklı özellikleri çekmek için kullanılır
 type AttributeFetcher = (page: Page) => Promise<{ [key: string]: any }>;
 
 const attributeFetchers: Record<string, AttributeFetcher> = {
@@ -212,7 +177,7 @@ const attributeFetchers: Record<string, AttributeFetcher> = {
   }
 };
 
-export async function getAttrributes(page: Page, productType: string): Promise<{ [key: string]: any }> {
+export async function getAttrributes(page: Page): Promise<{ [key: string]: any }> {
   const fetcher = attributeFetchers[productType];
   if (!fetcher) {
     throw new Error(`Unsupported product type: ${productType}`);
