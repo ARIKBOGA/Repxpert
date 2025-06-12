@@ -8,7 +8,7 @@ const filterBrand = process.env.FILTER_BRAND_APPLICATION as string;
 const productType = process.env.PRODUCT_TYPE as string;
 
 async function main(): Promise<void> {
-    const references = readProductReferencesFromExcel(productType);
+    const references = readProductReferencesFromExcel();
 
     console.log("references count: ", references.length);
     let counter = 0;
