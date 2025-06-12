@@ -10,7 +10,7 @@ import { goToSearchResultsEnglish, ProductReference, readProductReferencesFromEx
 
 //const filterBrand = process.env.FILTER_BRAND_APPLICATION as string;
 const productType = process.env.PRODUCT_TYPE as string;
-const references: ProductReference[] = readProductReferencesFromExcel(productType);
+const references: ProductReference[] = readProductReferencesFromExcel();
 
 //const scrapedCroossNumbers = getSubfolderNamesSync(`src/data/Gathered_Informations/${productType}/Applications/English/${filterBrand}`);
 //const missingCrossNumbers = crossNumbers.filter(crossNumber => !scrapedCroossNumbers.includes(crossNumber));
