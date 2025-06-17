@@ -162,7 +162,7 @@ test.describe("REPXPERT Aplikasyon bilgilerini al", () => {
           const oeFolderPath = path.join(productProducerFolderPath, crossNumber);
           fs.mkdirSync(oeFolderPath, { recursive: true });
 
-          const fileName = `${productProducer}_${productID}.json`;
+          const fileName = `${productTitle}.json`;
           const filePath = path.join(oeFolderPath, fileName);
 
           fs.writeFileSync(filePath, JSON.stringify(applications, null, 2), "utf-8");
