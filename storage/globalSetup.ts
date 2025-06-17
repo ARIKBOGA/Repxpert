@@ -104,4 +104,4 @@ async function globalSetupFindItParts() {
     path: "storage/LoginAuthFindItParts.json",
   });
 }
-export default globalSetupEnglish;
+export default globalSetup;
