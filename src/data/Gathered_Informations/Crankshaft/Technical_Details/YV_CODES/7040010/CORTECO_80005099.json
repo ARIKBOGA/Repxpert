@@ -1,0 +1,35 @@
+{
+  "reference": "80005099",
+  "id": "80005099",
+  "name": "Kayış kasnağı, krank mili",
+  "brand": "CORTECO",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "TOYOTA": [
+      "13408-30010",
+      "13408-30011"
+    ]
+  },
+  "eanNumber": "3358960600714",
+  "attributes": {
+    "BoltHoleCircle": [],
+    "NumberOfGrooves": [],
+    "Diameter": [],
+    "InnerDiameter_1": [],
+    "InnerDiameter_2": [],
+    "KaburgaSayisi": [
+      "6"
+    ],
+    "SupplementaryInfo": [
+      "Montaj talimatı ile"
+    ],
+    "OuterDiameter": [],
+    "Parameter": [
+      "7PK"
+    ],
+    "VehicleEquipment": [],
+    "Thickness": [],
+    "Weight": [],
+    "Color": []
+  }
+}

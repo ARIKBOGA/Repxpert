@@ -1,0 +1,62 @@
+{
+  "reference": "80001196",
+  "id": "80001196",
+  "name": "Kayış kasnağı, krank mili",
+  "brand": "CORTECO",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "BMW": [
+      "11 23 7 562 801",
+      "11 23 7 622 909",
+      "11 23 7 638 551"
+    ],
+    "CITROËN": [
+      "0515 T2",
+      "9804347980",
+      "V763855180"
+    ],
+    "MINI": [
+      "11 23 7 538 551",
+      "11 23 7 562 801",
+      "11 23 7 622 909"
+    ],
+    "PEUGEOT": [
+      "0515 T2",
+      "9804347980",
+      "V763855180"
+    ],
+    "PGO": [
+      "11 23 7 562 801",
+      "11 23 7 622 909",
+      "11 23 7 638 551"
+    ]
+  },
+  "eanNumber": "3358960474643",
+  "attributes": {
+    "BoltHoleCircle": [],
+    "NumberOfGrooves": [],
+    "Diameter": [],
+    "InnerDiameter_1": [],
+    "InnerDiameter_2": [],
+    "KaburgaSayisi": [
+      "5"
+    ],
+    "SupplementaryInfo": [
+      "Montaj talimatı ile"
+    ],
+    "OuterDiameter": [
+      "138,2"
+    ],
+    "Parameter": [
+      "6PK"
+    ],
+    "VehicleEquipment": [
+      "Start stop fonksiyonuna sahip araçlar için, Start stop fonksiyonuna sahip olmayan araçlar için"
+    ],
+    "Thickness": [],
+    "Weight": [
+      "1,05"
+    ],
+    "Color": []
+  }
+}

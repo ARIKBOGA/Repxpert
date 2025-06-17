@@ -1,0 +1,41 @@
+{
+  "reference": "80000599",
+  "id": "80000599",
+  "name": "Kayış kasnağı, krank mili",
+  "brand": "CORTECO",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "RENAULT": [
+      "77 00 110 329",
+      "77 00 113 018",
+      "77 00 115 309",
+      "82 00 689 702"
+    ]
+  },
+  "eanNumber": "3358960211378",
+  "attributes": {
+    "BoltHoleCircle": [],
+    "NumberOfGrooves": [],
+    "Diameter": [],
+    "InnerDiameter_1": [],
+    "InnerDiameter_2": [],
+    "KaburgaSayisi": [
+      "5"
+    ],
+    "SupplementaryInfo": [
+      "Montaj talimatı ile"
+    ],
+    "OuterDiameter": [
+      "136"
+    ],
+    "Parameter": [
+      "6PK"
+    ],
+    "VehicleEquipment": [],
+    "Thickness": [],
+    "Weight": [
+      "1,58"
+    ],
+    "Color": []
+  }
+}

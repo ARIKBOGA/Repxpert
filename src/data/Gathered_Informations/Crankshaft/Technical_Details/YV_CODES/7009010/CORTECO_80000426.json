@@ -1,0 +1,55 @@
+{
+  "reference": "80000426",
+  "id": "80000426",
+  "name": "Kayış kasnağı, krank mili",
+  "brand": "CORTECO",
+  "wvaNumbers": [
+    "49363329"
+  ],
+  "brand_oe_map": {
+    "CITROËN": [
+      "0515 Q8",
+      "9643354180"
+    ],
+    "FIAT": [
+      "9643354180"
+    ],
+    "FORD": [
+      "1231959",
+      "3M5Q 6B319 AA"
+    ],
+    "LANCIA": [
+      "9643354180"
+    ],
+    "PEUGEOT": [
+      "0515 Q8",
+      "9643354180"
+    ]
+  },
+  "eanNumber": "3358960129413",
+  "attributes": {
+    "BoltHoleCircle": [],
+    "NumberOfGrooves": [],
+    "Diameter": [],
+    "InnerDiameter_1": [],
+    "InnerDiameter_2": [],
+    "KaburgaSayisi": [
+      "5"
+    ],
+    "SupplementaryInfo": [
+      "Bağlantısı ayrılmış, Montaj talimatı ile"
+    ],
+    "OuterDiameter": [
+      "158"
+    ],
+    "Parameter": [
+      "6PK"
+    ],
+    "VehicleEquipment": [],
+    "Thickness": [],
+    "Weight": [
+      "1,67"
+    ],
+    "Color": []
+  }
+}

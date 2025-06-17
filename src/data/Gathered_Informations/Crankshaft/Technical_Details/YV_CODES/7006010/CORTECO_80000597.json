@@ -1,0 +1,84 @@
+{
+  "reference": "80000597",
+  "id": "80000597",
+  "name": "Kayış kasnağı, krank mili",
+  "brand": "CORTECO",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "CITROËN": [
+      "0515 P8",
+      "0515 R0",
+      "0515 T0",
+      "0515 V0",
+      "0515 V4",
+      "0515 V7",
+      "0515 V8"
+    ],
+    "FORD": [
+      "1147683",
+      "1319519",
+      "1369546",
+      "1473366",
+      "1485765",
+      "1517975",
+      "1517976",
+      "2S6Q 6B319 AD",
+      "2S6Q GB319 AA",
+      "2S6Q GB319 AB",
+      "2S6Q6B319AA",
+      "2S6Q6B319AB",
+      "2S6Q6B319AC",
+      "3M5Q 6B319 CB",
+      "3M5Q 6B319 CC",
+      "3M5Q6B319CA"
+    ],
+    "MAZDA": [
+      "Y40111401",
+      "Y40111401A",
+      "Y40111401B",
+      "Y40111401C",
+      "Y60311401"
+    ],
+    "PEUGEOT": [
+      "0515 P8",
+      "0515 R0",
+      "0515 T0",
+      "0515 V0",
+      "0515 V4",
+      "0515 V7",
+      "0515 V8"
+    ],
+    "VOLVO": [
+      "31251290",
+      "31272289"
+    ]
+  },
+  "eanNumber": "3358960211354",
+  "attributes": {
+    "BoltHoleCircle": [],
+    "NumberOfGrooves": [],
+    "Diameter": [],
+    "InnerDiameter_1": [],
+    "InnerDiameter_2": [],
+    "KaburgaSayisi": [
+      "5"
+    ],
+    "SupplementaryInfo": [
+      "Bağlantısı ayrılmış, Montaj talimatı ile"
+    ],
+    "OuterDiameter": [
+      "163"
+    ],
+    "Parameter": [
+      "6PK"
+    ],
+    "VehicleEquipment": [
+      "Start stop fonksiyonuna sahip araçlar için, Start stop fonksiyonuna sahip olmayan araçlar için"
+    ],
+    "Thickness": [],
+    "Weight": [
+      "2,15"
+    ],
+    "Color": []
+  }
+}

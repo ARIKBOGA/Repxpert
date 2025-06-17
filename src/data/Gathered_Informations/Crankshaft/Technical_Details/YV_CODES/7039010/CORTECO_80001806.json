@@ -1,0 +1,54 @@
+{
+  "reference": "80001806",
+  "id": "80001806",
+  "name": "Kayış kasnağı, krank mili",
+  "brand": "CORTECO",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "FORD": [
+      "1099891",
+      "1102616",
+      "1226639",
+      "1329202",
+      "1377588",
+      "1675115",
+      "1708966",
+      "4C1O 6B319 AA",
+      "4C1Q 6B319 BA",
+      "9C1Q 6B319 AA",
+      "9C1Q 6B319 AB",
+      "YC1Q 6B319 AG",
+      "YC1Q 6B319 AH",
+      "YC1Q6B319AF"
+    ],
+    "LAND ROVER": [
+      "LR005344",
+      "LR019351",
+      "LR029988"
+    ]
+  },
+  "eanNumber": "3358960541802",
+  "attributes": {
+    "BoltHoleCircle": [],
+    "NumberOfGrooves": [],
+    "Diameter": [],
+    "InnerDiameter_1": [],
+    "InnerDiameter_2": [],
+    "KaburgaSayisi": [
+      "6"
+    ],
+    "SupplementaryInfo": [
+      "Montaj talimatı ile"
+    ],
+    "OuterDiameter": [
+      "167,5"
+    ],
+    "Parameter": [
+      "7PK"
+    ],
+    "VehicleEquipment": [],
+    "Thickness": [],
+    "Weight": [],
+    "Color": []
+  }
+}
