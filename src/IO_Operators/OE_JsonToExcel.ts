@@ -21,7 +21,7 @@ async function oeNumbersToExcel() {
     const outputExcelFolderPath = path.resolve(`src/data/Gathered_Informations/${productType}/Technical_Details/excels`);
 
     const formattedDateTime = formatDateTime(new Date());
-    const excelFileName = `${productType}_OE_Numbers_${formattedDateTime.numericDate}.xlsx`;
+    const excelFileName = `${productType}_OE_Numbers_${formattedDateTime.lettericDate}.xlsx`;
     const excelFilePath = path.join(outputExcelFolderPath, excelFileName);
 
     const workbook = XLSX.utils.book_new();
@@ -36,7 +36,7 @@ async function oeNumbersToExcel() {
             const brandOEPairs: Set<string> = new Set<string>();
             if (fs.statSync(folderPath).isDirectory()) {
                 const jsonFiles = fs.readdirSync(folderPath)
-                    //.filter(file => file.includes("BREMBO"))
+                    //.filter(file => file.includes("BREMBO") || file.includes("ICER"))   // Hangi markadan alınan oe lerin yazılmasını istiyorsan ona göre filtrele
                     .filter(file => file.endsWith('.json'));
                 const sheetData: any[] = [];
 
@@ -52,7 +52,7 @@ async function oeNumbersToExcel() {
                                 const oeNumbers: string[] = jsonData.brand_oe_map[brand];
 
                                 for (const oeNumber of oeNumbers) {
-                                    const formattedOeNumber = oeNumber.startsWith("0") ? `'${oeNumber}` : oeNumber;
+                                    const formattedOeNumber = oeNumber.startsWith("0") ? `|${oeNumber}` : oeNumber;
                                     const marka = brandAliases.get(brand) || brand;
                                     const uniqueKey = `${folder}${marka}-${formattedOeNumber}`;
 
@@ -67,7 +67,7 @@ async function oeNumbersToExcel() {
                                             Marka_ID: markaId,
                                             Marka: marka,
                                             OE_Number: formattedOeNumber,
-                                            //VWA: jsonData.wvaNumbers.join(', ')
+                                            VWA: jsonData.wvaNumbers.join(', ')
                                         });
                                     }
                                 }
