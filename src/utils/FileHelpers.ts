@@ -69,14 +69,20 @@ export const padPairs: ProductReference[] = [
 
 export const padTrios: ProductreferenceTrio[] = [
   
-  { yvNo: "22141201", supplier: "BREMBO", crossNumber: "P 86 029" },
-  { yvNo: "22437201", supplier: "BREMBO", crossNumber: "P 50 136" },
-  { yvNo: "23228204", supplier: "BREMBO", crossNumber: "P 23 121" },
-  { yvNo: "23515408", supplier: "BREMBO", crossNumber: "P 54 059" },
-  { yvNo: "23879301", supplier: "BREMBO", crossNumber: "P 54 033" },
-  { yvNo: "24191401", supplier: "BREMBO", crossNumber: "P 44 014" },
-  { yvNo: "24847401", supplier: "BREMBO", crossNumber: "P 85 136" },
-  { yvNo: "25331201", supplier: "BREMBO", crossNumber: "P 06 094" }
+  //{ yvNo: "22141201", supplier: "BREMBO", crossNumber: "P 86 029" },
+  //{ yvNo: "22437201", supplier: "BREMBO", crossNumber: "P 50 136" },
+  //{ yvNo: "23228204", supplier: "BREMBO", crossNumber: "P 23 121" },
+  //{ yvNo: "23515408", supplier: "BREMBO", crossNumber: "P 54 059" },
+  //{ yvNo: "23879301", supplier: "BREMBO", crossNumber: "P 54 033" },
+  //{ yvNo: "24191401", supplier: "BREMBO", crossNumber: "P 44 014" },
+  //{ yvNo: "24847401", supplier: "BREMBO", crossNumber: "P 85 136" },
+  //{ yvNo: "25331201", supplier: "BREMBO", crossNumber: "P 06 094" },
+{yvNo: "21158401", supplier:	"BREMBO", crossNumber: "P 83 013"},
+{yvNo: "21471401", supplier:	"BREMBO", crossNumber: "P 06 018"},
+{yvNo: "21827201", supplier:	"BREMBO", crossNumber: "P 61 051"},
+{yvNo: "21934201", supplier:	"BREMBO", crossNumber: "P 06 025"},
+{yvNo: "24727203", supplier:	"BREMBO", crossNumber: "P 23 130"}
+
 
 ];
 
