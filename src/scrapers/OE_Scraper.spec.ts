@@ -2,7 +2,7 @@ import { Page, test } from '@playwright/test';
 import * as fs from 'fs';
 import * as path from 'path';
 import { Product, ProductAttributes } from '../types/ProductTypes';
-import { getSubfolderNamesSync, readJsonFile, retryListFilePath, padPairs, discPairs, crankshaftPairs, crankshaftTrios } from '../utils/FileHelpers';
+import { getSubfolderNamesSync, readJsonFile, retryListFilePath, padPairs, discPairs, crankshaftPairs, crankshaftTrios, padTrios } from '../utils/FileHelpers';
 import { getTextContent, getMultipleTexts, addToRetryList, getDimensionValuesSmart } from '../utils/extractHelpers';
 import { goToSearchResults, mapToSerializableObject, readProductReferencesFromExcel, getAttrributes, goToSearchResultsEnglish, readProductReferencesTrio } from '../utils/ScraperHelpers';
 
@@ -18,14 +18,14 @@ const existedFolders = getSubfolderNamesSync(`src/data/Gathered_Informations/${p
 
 test.describe('YV NO ve Marka bazlı teknik veri tarayıcı', async () => {
 
-  Array.from(crankshaftTrios)
+  Array.from(padTrios)
     //.filter(ref => { return ref.supplier.toUpperCase() === filterBrand.toUpperCase(); })    // Marka filtrelemesi excelden okumada kullanılacak
     .forEach(ref => {
 
-      const [yvNo, brand, crossNumber] = [ref.yvNo, ref.supplier, ref.crossNumber];
+      const {yvNo, supplier, crossNumber} =ref;
 
       test(`${yvNo} / ${crossNumber} koduyla veri topla`, async ({ page }) => {
-        const filterBrand = brand.toUpperCase();
+        const filterBrand = supplier.toUpperCase();
         try {
           // Search results sayfasına git
           const productLinks = await goToSearchResults(page, crossNumber, filterBrand, retryList, addToRetryList);
@@ -93,14 +93,14 @@ test.describe('YV NO ve Marka bazlı teknik veri tarayıcı', async () => {
           const basePath = path.join('src', 'data', 'Gathered_Informations', productType, 'Technical_Details', "YV_CODES", yvNo);
           if (!fs.existsSync(basePath)) fs.mkdirSync(basePath, { recursive: true });
 
-          const fileName = `${brand}_${crossNumber}.json`;
+          const fileName = `${supplier}_${crossNumber}.json`;
           const filePath = path.join(basePath, fileName);
           fs.writeFileSync(filePath, JSON.stringify(product, null, 2), 'utf-8');
 
-          console.log(`✅ ${brand} - ${crossNumber} kaydedildi (${filePath})`);
+          console.log(`✅ ${supplier} - ${crossNumber} kaydedildi (${filePath})`);
 
         } catch (err) {
-          console.error(`❌ Hata - ${yvNo} / ${brand} / ${crossNumber}`, err);
+          console.error(`❌ Hata - ${yvNo} / ${supplier} / ${crossNumber}`, err);
 
           // Hata yakalanırsa da o OE numarasını reTry listesine ekle
           addToRetryList(crossNumber);  // Use the helper function here
