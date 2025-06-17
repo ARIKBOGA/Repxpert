@@ -1,37 +1,35 @@
 {
-  "reference": "P 44 014",
-  "id": "P 44 014",
+  "reference": "P 23 121",
+  "id": "P 23 121",
   "name": "Fren balata seti, diskli fren PRIME LINE",
   "brand": "BREMBO",
   "wvaNumbers": [
-    "24191",
-    "D1098 8202"
+    "23227",
+    "23228",
+    "20907",
+    "D298 7201"
   ],
   "brand_oe_map": {
-    "LAND ROVER": [
-      "4H222D007DA",
-      "4H222K021AA",
-      "LR019618",
-      "LR134694",
-      "SFP5000010",
-      "SFP500010"
+    "FIAT": [
+      "71770958",
+      "9947954"
     ]
   },
-  "eanNumber": "8020584053379",
+  "eanNumber": "8020584060346",
   "attributes": {
-    "width1": "163",
+    "width1": "151",
     "width2": null,
-    "height1": "59",
+    "height1": "53",
     "height2": null,
     "thickness1": "18",
     "thickness2": null,
     "wvaNumber": [
-      "24191"
+      "20907, 23227, 23228"
     ],
     "Quality": [],
     "AxleVersion": [],
     "BrakeSystem": [
-      "Lucas"
+      "Teves"
     ],
     "manufacturerRestriction": "",
     "checkmark": "",

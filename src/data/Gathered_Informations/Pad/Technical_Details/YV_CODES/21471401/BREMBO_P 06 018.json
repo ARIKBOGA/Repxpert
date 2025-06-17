@@ -1,0 +1,61 @@
+{
+  "reference": "P 06 018",
+  "id": "P 06 018",
+  "name": "Fren balata seti, diskli fren PRIME LINE",
+  "brand": "BREMBO",
+  "wvaNumbers": [
+    "21471",
+    "D639 7517"
+  ],
+  "brand_oe_map": {
+    "BMW": [
+      "34111161975",
+      "34111162175",
+      "34111162210",
+      "34111162900",
+      "34111163921",
+      "34111163922",
+      "34111163923",
+      "34112227331",
+      "34112227334",
+      "34112227863",
+      "34114001314",
+      "34116761249",
+      "34116761254",
+      "41060AA393",
+      "6761254"
+    ],
+    "HONDA": [
+      "45022SNWJ01"
+    ],
+    "MASERATI": [
+      "380201039",
+      "380201044"
+    ],
+    "NISSAN": [
+      "4106012U87",
+      "D1MFMAA39J"
+    ]
+  },
+  "eanNumber": "8020584050187",
+  "attributes": {
+    "width1": "120",
+    "width2": null,
+    "height1": "74",
+    "height2": null,
+    "thickness1": "18",
+    "thickness2": null,
+    "wvaNumber": [
+      "21471"
+    ],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [
+      "Brembo"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": "",
+    "Weight": []
+  }
+}

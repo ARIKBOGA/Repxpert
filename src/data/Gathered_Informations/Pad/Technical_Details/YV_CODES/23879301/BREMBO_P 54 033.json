@@ -8,17 +8,34 @@
     "23879",
     "D1214 8334"
   ],
-  "brand_oe_map": {},
+  "brand_oe_map": {
+    "MITSUBISHI": [
+      "DBP511126",
+      "MN102622",
+      "MN105622",
+      "MR527564",
+      "MR977365"
+    ]
+  },
   "eanNumber": "8020584054802",
-  "pad_attributes": {
+  "attributes": {
     "width1": "151",
     "width2": null,
     "height1": "57",
     "height2": null,
     "thickness1": "16",
     "thickness2": null,
+    "wvaNumber": [
+      "23879, 23880"
+    ],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [
+      "Sumitomo"
+    ],
     "manufacturerRestriction": "",
     "checkmark": "",
-    "SVHC": ""
+    "SVHC": "",
+    "Weight": []
   }
 }
