@@ -1,0 +1,44 @@
+{
+  "reference": "80001093",
+  "id": "80001093",
+  "name": "Kayış kasnağı, krank mili",
+  "brand": "CORTECO",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "NISSAN": [
+      "12303-00QBD",
+      "12303-AW300"
+    ],
+    "RENAULT": [
+      "82 00 268 426",
+      "82 00 297 936",
+      "82 00 457 775",
+      "82 00 523 072",
+      "8200523083"
+    ]
+  },
+  "eanNumber": "3358960368614",
+  "attributes": {
+    "BoltHoleCircle": [],
+    "NumberOfGrooves": [],
+    "Diameter": [],
+    "InnerDiameter_1": [],
+    "InnerDiameter_2": [],
+    "KaburgaSayisi": [
+      "6"
+    ],
+    "SupplementaryInfo": [
+      "Bağlantısı ayrılmış, Montaj talimatı ile"
+    ],
+    "OuterDiameter": [],
+    "Parameter": [
+      "7PK"
+    ],
+    "VehicleEquipment": [],
+    "Thickness": [],
+    "Weight": [
+      "2,38"
+    ],
+    "Color": []
+  }
+}

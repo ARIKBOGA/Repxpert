@@ -1,0 +1,58 @@
+{
+  "reference": "21652976",
+  "id": "21652976",
+  "name": "Kayış kasnağı, krank mili",
+  "brand": "CORTECO",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "AUDI": [
+      "074 105 251 AC",
+      "074 105 251 M",
+      "074 105 251 N",
+      "074 105 251 R",
+      "074 105 251 S",
+      "074 105 251 T"
+    ],
+    "VOLVO": [
+      "8627933",
+      "9163918",
+      "9180620"
+    ],
+    "VW": [
+      "074 105 251 AC",
+      "074 105 251 M",
+      "074 105 251 N",
+      "074 105 251 R",
+      "074 105 251 S",
+      "074 105 251 T"
+    ]
+  },
+  "eanNumber": "3358966529767",
+  "attributes": {
+    "BoltHoleCircle": [],
+    "NumberOfGrooves": [],
+    "Diameter": [],
+    "InnerDiameter_1": [],
+    "InnerDiameter_2": [],
+    "KaburgaSayisi": [
+      "5"
+    ],
+    "SupplementaryInfo": [
+      "Bağlantısı ayrılmış, Montaj talimatı ile"
+    ],
+    "OuterDiameter": [
+      "192"
+    ],
+    "Parameter": [
+      "6PK"
+    ],
+    "VehicleEquipment": [
+      "Start stop fonksiyonuna sahip araçlar için, Start stop fonksiyonuna sahip olmayan araçlar için"
+    ],
+    "Thickness": [],
+    "Weight": [
+      "4,6"
+    ],
+    "Color": []
+  }
+}

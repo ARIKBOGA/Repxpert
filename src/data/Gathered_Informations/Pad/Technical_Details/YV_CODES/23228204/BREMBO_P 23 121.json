@@ -1,0 +1,39 @@
+{
+  "reference": "P 23 121",
+  "id": "P 23 121",
+  "name": "Fren balata seti, diskli fren PRIME LINE",
+  "brand": "BREMBO",
+  "wvaNumbers": [
+    "23227",
+    "23228",
+    "20907",
+    "D298 7201"
+  ],
+  "brand_oe_map": {
+    "FIAT": [
+      "71770958",
+      "9947954"
+    ]
+  },
+  "eanNumber": "8020584060346",
+  "attributes": {
+    "width1": "151",
+    "width2": null,
+    "height1": "53",
+    "height2": null,
+    "thickness1": "18",
+    "thickness2": null,
+    "wvaNumber": [
+      "20907, 23227, 23228"
+    ],
+    "Quality": [],
+    "AxleVersion": [],
+    "BrakeSystem": [
+      "Teves"
+    ],
+    "manufacturerRestriction": "",
+    "checkmark": "",
+    "SVHC": "",
+    "Weight": []
+  }
+}

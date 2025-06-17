@@ -1,0 +1,44 @@
+{
+  "reference": "3213B0016",
+  "id": "3213B0016",
+  "name": "Kayış kasnağı, krank mili",
+  "brand": "RIDEX",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "HYUNDAI": [
+      "23124-42020",
+      "23124-42030",
+      "23124-42031",
+      "23124-42032",
+      "23129-42901"
+    ],
+    "KIA": [
+      "23124-42020",
+      "23124-42030",
+      "23124-42031",
+      "23124-42032",
+      "23129-42901"
+    ]
+  },
+  "eanNumber": "4059191647484",
+  "attributes": {
+    "BoltHoleCircle": [],
+    "NumberOfGrooves": [
+      "2, 4"
+    ],
+    "Diameter": [
+      "130",
+      "173"
+    ],
+    "InnerDiameter_1": [],
+    "InnerDiameter_2": [],
+    "KaburgaSayisi": [],
+    "SupplementaryInfo": [],
+    "OuterDiameter": [],
+    "Parameter": [],
+    "VehicleEquipment": [],
+    "Thickness": [],
+    "Weight": [],
+    "Color": []
+  }
+}

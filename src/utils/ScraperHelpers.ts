@@ -9,21 +9,21 @@ dotenv.config({ path: path.resolve(__dirname, '../data/Configs/.env') });
 const productType = process.env.PRODUCT_TYPE as string;
 
 
-export async function goToSearchResults( page: Page, oe: string, filterBrand: string, retryList: string[], addToRetryList: (oe: string) => void)
+export async function goToSearchResults(page: Page, oe: string, filterBrand: string, retryList: string[], addToRetryList: (oe: string) => void)
   : Promise<Locator[] | null> {
   const url = process.env.REPXPERT_URL as string;
   return getSearchResult(page, url, oe, filterBrand, retryList, addToRetryList, /OE numarası/i, /Markalar/i);
 }
 
-export async function goToSearchResultsEnglish( page: Page, oe: string, filterBrand: string, retryList: string[], addToRetryList: (oe: string) => void)
-: Promise<Locator[] | null> {
+export async function goToSearchResultsEnglish(page: Page, oe: string, filterBrand: string, retryList: string[], addToRetryList: (oe: string) => void)
+  : Promise<Locator[] | null> {
   const url = process.env.REPXPERT_ENGLISH_URL as string;
-  return getSearchResult(page, url, oe, filterBrand, retryList, addToRetryList, /OE number/i, /Brands/i); 
+  return getSearchResult(page, url, oe, filterBrand, retryList, addToRetryList, /OE number/i, /Brands/i);
 }
 
-async function getSearchResult(page: Page, url: string, oe: string, filterBrand: string, retryList: string[], addToRetryList: (oe: string) => void, textBoxInput: RegExp, brandInput: RegExp) 
-: Promise<Locator[] | null> {
- 
+async function getSearchResult(page: Page, url: string, oe: string, filterBrand: string, retryList: string[], addToRetryList: (oe: string) => void, textBoxInput: RegExp, brandInput: RegExp)
+  : Promise<Locator[] | null> {
+
   await page.goto(url);
   await page.waitForLoadState('domcontentloaded');
   await page.waitForLoadState('networkidle');
@@ -79,6 +79,44 @@ export function mapToSerializableObject(map: Map<string, Set<string>>): Record<s
 export interface ProductReference {
   yvNo: string;
   brandRefs: { [brand: string]: string }; // { "BREMBO": "09.1234.56", "TRW": "", ... }
+}
+
+export interface ProductreferenceTrio {
+  yvNo: string;
+  supplier: string;
+  crossNumber: string;
+}
+
+export function readProductReferencesTrio(): Set<ProductreferenceTrio> {
+  const excelPath = path.resolve(__dirname, `../data/katalogInfo/excels/${productType}_katalog_full.xlsx`);
+  const workbook = xlsx.readFile(excelPath);
+  const sheet = workbook.Sheets[workbook.SheetNames[0]];
+  const data = xlsx.utils.sheet_to_json<Record<string, string>>(sheet, { defval: "" });
+
+  const references: Set<ProductreferenceTrio> = new Set();
+
+  data.forEach(row => {
+    const yvNo = row['YV']?.toString()?.trim();
+    if (!yvNo) return;
+
+    Object.keys(row).forEach(key => {
+      if (key === 'YV') return;
+      const cellValue = row[key]?.toString()?.trim();
+      if (!cellValue) return;
+
+      const crossNumbers = cellValue.split(',').map(r => r.trim());
+      crossNumbers.forEach(cross => {
+        if (cross) {
+          references.add({
+            yvNo,
+            supplier: key,
+            crossNumber: cross
+          })
+        }
+      })
+    })
+  });
+  return references;
 }
 
 export function readProductReferencesFromExcel(): ProductReference[] {

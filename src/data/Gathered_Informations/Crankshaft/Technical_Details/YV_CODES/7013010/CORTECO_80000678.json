@@ -1,0 +1,51 @@
+{
+  "reference": "80000678",
+  "id": "80000678",
+  "name": "Kayış kasnağı, krank mili",
+  "brand": "CORTECO",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "AUDI": [
+      "038 105 243 L",
+      "038 105 243 M"
+    ],
+    "SEAT": [
+      "038 105 243 L",
+      "038 105 243 M"
+    ],
+    "SKODA": [
+      "038 105 243 L",
+      "038 105 243 M"
+    ],
+    "VW": [
+      "038 105 243 L",
+      "038 105 243 M"
+    ]
+  },
+  "eanNumber": "3358960216748",
+  "attributes": {
+    "BoltHoleCircle": [],
+    "NumberOfGrooves": [],
+    "Diameter": [],
+    "InnerDiameter_1": [],
+    "InnerDiameter_2": [],
+    "KaburgaSayisi": [
+      "5"
+    ],
+    "SupplementaryInfo": [
+      "Bağlantısı ayrılmış, Montaj talimatı ile"
+    ],
+    "OuterDiameter": [
+      "140"
+    ],
+    "Parameter": [
+      "6PK"
+    ],
+    "VehicleEquipment": [],
+    "Thickness": [],
+    "Weight": [
+      "1,4"
+    ],
+    "Color": []
+  }
+}

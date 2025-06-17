@@ -1,0 +1,31 @@
+{
+  "reference": "FVD1178",
+  "id": "FAI AutoParts FVD1178",
+  "name": "Kayış kasnağı, krank mili",
+  "brand": "FAI",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "DACIA": [
+      "123038614R"
+    ],
+    "RENAULT": [
+      "123038614R"
+    ]
+  },
+  "eanNumber": "",
+  "attributes": {
+    "BoltHoleCircle": [],
+    "NumberOfGrooves": [],
+    "Diameter": [],
+    "InnerDiameter_1": [],
+    "InnerDiameter_2": [],
+    "KaburgaSayisi": [],
+    "SupplementaryInfo": [],
+    "OuterDiameter": [],
+    "Parameter": [],
+    "VehicleEquipment": [],
+    "Thickness": [],
+    "Weight": [],
+    "Color": []
+  }
+}

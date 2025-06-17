@@ -1,0 +1,59 @@
+{
+  "reference": "80001434",
+  "id": "80001434",
+  "name": "Kayış kasnağı, krank mili",
+  "brand": "CORTECO",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "MERCEDES-BENZ": [
+      "626 030 01 03",
+      "A626 030 01 03"
+    ],
+    "NISSAN": [
+      "1230300Q0A",
+      "1230300Q1D"
+    ],
+    "OPEL": [
+      "4431160",
+      "4449456",
+      "93161620",
+      "93198633"
+    ],
+    "RENAULT": [
+      "82 00 361 247",
+      "82 00 767 762"
+    ],
+    "VAUXHALL": [
+      "44 31 160",
+      "44 49 456",
+      "93161620",
+      "93198633"
+    ]
+  },
+  "eanNumber": "3358960519320",
+  "attributes": {
+    "BoltHoleCircle": [],
+    "NumberOfGrooves": [],
+    "Diameter": [],
+    "InnerDiameter_1": [],
+    "InnerDiameter_2": [],
+    "KaburgaSayisi": [
+      "6"
+    ],
+    "SupplementaryInfo": [
+      "Montaj talimatı ile"
+    ],
+    "OuterDiameter": [
+      "158"
+    ],
+    "Parameter": [
+      "7PK"
+    ],
+    "VehicleEquipment": [
+      "Start stop fonksiyonuna sahip araçlar için, Start stop fonksiyonuna sahip olmayan araçlar için"
+    ],
+    "Thickness": [],
+    "Weight": [],
+    "Color": []
+  }
+}

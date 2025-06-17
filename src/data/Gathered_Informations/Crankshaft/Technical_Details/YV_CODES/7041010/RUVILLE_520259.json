@@ -1,0 +1,47 @@
+{
+  "reference": "520259",
+  "id": "520259",
+  "name": "Kayış kasnağı, krank mili",
+  "brand": "RUVILLE",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "HYUNDAI": [
+      "23123-2B720",
+      "23124-2B000",
+      "23124-2B010",
+      "23124-2B700",
+      "23124-2B710",
+      "231242B020"
+    ],
+    "KIA": [
+      "23123-2B720",
+      "23124-2B000",
+      "23124-2B010",
+      "23124-2B700",
+      "23124-2B710",
+      "231242B020"
+    ]
+  },
+  "eanNumber": "",
+  "attributes": {
+    "BoltHoleCircle": [
+      "12"
+    ],
+    "NumberOfGrooves": [],
+    "Diameter": [
+      "145"
+    ],
+    "InnerDiameter_1": [],
+    "InnerDiameter_2": [],
+    "KaburgaSayisi": [
+      "6"
+    ],
+    "SupplementaryInfo": [],
+    "OuterDiameter": [],
+    "Parameter": [],
+    "VehicleEquipment": [],
+    "Thickness": [],
+    "Weight": [],
+    "Color": []
+  }
+}

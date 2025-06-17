@@ -1,0 +1,31 @@
+{
+  "reference": "FVD1117",
+  "id": "FAI AutoParts FVD1117",
+  "name": "Kayış kasnağı, krank mili",
+  "brand": "FAI",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "VAG": [
+      "04L 105 251 N",
+      "04L105251B",
+      "04L105251E",
+      "04L105251H"
+    ]
+  },
+  "eanNumber": "",
+  "attributes": {
+    "BoltHoleCircle": [],
+    "NumberOfGrooves": [],
+    "Diameter": [],
+    "InnerDiameter_1": [],
+    "InnerDiameter_2": [],
+    "KaburgaSayisi": [],
+    "SupplementaryInfo": [],
+    "OuterDiameter": [],
+    "Parameter": [],
+    "VehicleEquipment": [],
+    "Thickness": [],
+    "Weight": [],
+    "Color": []
+  }
+}

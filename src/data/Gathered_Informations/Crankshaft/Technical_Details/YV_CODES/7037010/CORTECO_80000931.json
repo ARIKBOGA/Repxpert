@@ -1,0 +1,62 @@
+{
+  "reference": "80000931",
+  "id": "80000931",
+  "name": "Kayış kasnağı, krank mili",
+  "brand": "CORTECO",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "CITROËN": [
+      "0515 K1",
+      "0515 N0",
+      "0515 P1",
+      "0515 P5",
+      "0515 R8",
+      "0515 S1",
+      "9636924480",
+      "9650653380",
+      "9653771880"
+    ],
+    "FIAT": [
+      "9655703580"
+    ],
+    "PEUGEOT": [
+      "0515 K1",
+      "0515 N0",
+      "0515 P1",
+      "0515 P5",
+      "0515 R8",
+      "0515 S1",
+      "9636924480",
+      "9650653380",
+      "9653771880"
+    ]
+  },
+  "eanNumber": "3358960344175",
+  "attributes": {
+    "BoltHoleCircle": [],
+    "NumberOfGrooves": [],
+    "Diameter": [],
+    "InnerDiameter_1": [],
+    "InnerDiameter_2": [],
+    "KaburgaSayisi": [
+      "5"
+    ],
+    "SupplementaryInfo": [
+      "Montaj talimatı ile"
+    ],
+    "OuterDiameter": [
+      "146"
+    ],
+    "Parameter": [
+      "6PK"
+    ],
+    "VehicleEquipment": [
+      "Start stop fonksiyonuna sahip araçlar için, Start stop fonksiyonuna sahip olmayan araçlar için"
+    ],
+    "Thickness": [],
+    "Weight": [
+      "1,28"
+    ],
+    "Color": []
+  }
+}

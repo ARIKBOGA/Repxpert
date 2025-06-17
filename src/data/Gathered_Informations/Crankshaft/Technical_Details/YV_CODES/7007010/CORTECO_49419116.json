@@ -1,0 +1,47 @@
+{
+  "reference": "49419116",
+  "id": "49419116",
+  "name": "Kayış kasnağı, krank mili",
+  "brand": "CORTECO",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "HYUNDAI": [
+      "2312427000",
+      "2312427100",
+      "2312427300",
+      "2312427400"
+    ],
+    "KIA": [
+      "2312427000",
+      "2312427100",
+      "2312427300",
+      "2312427400"
+    ]
+  },
+  "eanNumber": "3358960674333",
+  "attributes": {
+    "BoltHoleCircle": [],
+    "NumberOfGrooves": [],
+    "Diameter": [],
+    "InnerDiameter_1": [],
+    "InnerDiameter_2": [],
+    "KaburgaSayisi": [
+      "5"
+    ],
+    "SupplementaryInfo": [
+      "Montaj talimatı ile, Bağlantısı ayrılmış"
+    ],
+    "OuterDiameter": [
+      "153,4"
+    ],
+    "Parameter": [
+      "6PK"
+    ],
+    "VehicleEquipment": [
+      "Start stop fonksiyonuna sahip araçlar için, Start stop fonksiyonuna sahip olmayan araçlar için"
+    ],
+    "Thickness": [],
+    "Weight": [],
+    "Color": []
+  }
+}

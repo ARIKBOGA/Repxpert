@@ -1,0 +1,47 @@
+{
+  "reference": "49434594",
+  "id": "49434594",
+  "name": "Kayış kasnağı, krank mili",
+  "brand": "CORTECO",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "BMW": [
+      "11 23 5 A80 209",
+      "11 23 7 643 074",
+      "11 23 8 584 913",
+      "11 23 9 888 682"
+    ],
+    "MINI": [
+      "11 23 5 A80 209",
+      "11 23 7 643 074",
+      "11 23 8 584 913",
+      "11 23 9 888 682"
+    ]
+  },
+  "eanNumber": "3358960735904",
+  "attributes": {
+    "BoltHoleCircle": [],
+    "NumberOfGrooves": [],
+    "Diameter": [],
+    "InnerDiameter_1": [],
+    "InnerDiameter_2": [],
+    "KaburgaSayisi": [
+      "5"
+    ],
+    "SupplementaryInfo": [
+      "Montaj talimatı ile, Bağlantısı ayrılmış"
+    ],
+    "OuterDiameter": [
+      "156,95"
+    ],
+    "Parameter": [
+      "6PK"
+    ],
+    "VehicleEquipment": [
+      "Start stop fonksiyonuna sahip araçlar için, Start stop fonksiyonuna sahip olmayan araçlar için"
+    ],
+    "Thickness": [],
+    "Weight": [],
+    "Color": []
+  }
+}

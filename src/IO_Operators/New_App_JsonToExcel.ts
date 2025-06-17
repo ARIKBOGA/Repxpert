@@ -255,7 +255,7 @@ async function main() {
   await fs.ensureDir(outputPath);
 
   XLSX.writeFile(workbook, path.join(outputPath, OUTPUT_FILE), { bookType: "xlsx", type: "binary" });
-  console.log(`✅ Excel oluşturuldu: ${OUTPUT_FILE}`);
+  console.log(`✅ Excel oluşturuldu: ${outputPath} : ${OUTPUT_FILE}`);
   console.log(`💾 Model eşleşmeleri kaydedildi: ${MODEL_MATCH_POOL_PATH}`);
 }
 

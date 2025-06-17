@@ -1,0 +1,73 @@
+{
+  "reference": "542392",
+  "id": "542392",
+  "name": "Saptırma/Kılavuz makarası, Kanallı V-kayışı",
+  "brand": "RUVILLE",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "BMW": [
+      "11517545958",
+      "11517571012",
+      "11517619020",
+      "7 545 958",
+      "7571012",
+      "7619020"
+    ],
+    "CITROËN": [
+      "120447",
+      "120454",
+      "120459",
+      "V7 619 020",
+      "V7 619 020 80"
+    ],
+    "DS": [
+      "120447",
+      "120459",
+      "V7 619 020",
+      "V7 619 020 80"
+    ],
+    "MINI": [
+      "11 51 7 545 958",
+      "11 51 7 571 012",
+      "11 51 7 619 020",
+      "7 545 958",
+      "7 571 012",
+      "7 619 020"
+    ],
+    "OPEL": [
+      "1204.47",
+      "1204.54",
+      "120459"
+    ],
+    "PEUGEOT": [
+      "120447",
+      "120454",
+      "120459",
+      "V7 619 020",
+      "V7 619 020 80"
+    ],
+    "VAUXHALL": [
+      "1204.47",
+      "1204.54",
+      "120459"
+    ]
+  },
+  "eanNumber": "",
+  "attributes": {
+    "BoltHoleCircle": [],
+    "NumberOfGrooves": [],
+    "Diameter": [
+      "129"
+    ],
+    "InnerDiameter_1": [],
+    "InnerDiameter_2": [],
+    "KaburgaSayisi": [],
+    "SupplementaryInfo": [],
+    "OuterDiameter": [],
+    "Parameter": [],
+    "VehicleEquipment": [],
+    "Thickness": [],
+    "Weight": [],
+    "Color": []
+  }
+}

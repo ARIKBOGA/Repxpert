@@ -49,7 +49,6 @@ export function addToRetryList(oe: string) {
     console.log(`➕ ${oe} reTry listesine eklendi.`);
   }
 }
-
 export async function getDimensionValuesSmart(page: Page, labelKeywords: string[]): Promise<string[]> {
   // XPath ile tüm eşleşen dt'leri al
   const xpathQuery = labelKeywords
