@@ -20,5 +20,8 @@ storage/*.json
 *.DS_Store
 *.Thumbs.db
 
+# Very large files folder
+/src/data/Produced/ECA
+
 
 
