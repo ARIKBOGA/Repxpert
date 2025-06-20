@@ -8,7 +8,7 @@ import { goToSearchResults, mapToSerializableObject, readProductReferencesFromEx
 
 // Çalışılacak ürün tipini seç
 const productType = process.env.PRODUCT_TYPE as string; // Örnek: 'Pads', 'Discs', 'Drums' vb.
-const filterBrand = process.env.FILTER_BRAND_APPLICATION as string;
+const filterBrand = process.env.FILTER_BRAND_TECH_DETAIL as string;
 
 // reTry.json'u oku veya boş bir array oluştur
 let retryList = readJsonFile<string[]>(retryListFilePath, []);
@@ -18,8 +18,8 @@ const existedFolders = getSubfolderNamesSync(`src/data/Gathered_Informations/${p
 
 test.describe('YV NO ve Marka bazlı teknik veri tarayıcı', async () => {
 
-  Array.from(padTrios)
-    //.filter(ref => { return ref.supplier.toUpperCase() === filterBrand.toUpperCase(); })    // Marka filtrelemesi excelden okumada kullanılacak
+  Array.from(references)
+    .filter(ref => { return ref.supplier.toUpperCase() === filterBrand.toUpperCase(); })    // Marka filtrelemesi excelden okumada kullanılacak
     .forEach(ref => {
 
       const {yvNo, supplier, crossNumber} =ref;

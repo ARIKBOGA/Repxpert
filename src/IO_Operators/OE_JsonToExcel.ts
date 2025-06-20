@@ -67,7 +67,7 @@ async function oeNumbersToExcel() {
                                             Marka_ID: markaId,
                                             Marka: marka,
                                             OE_Number: formattedOeNumber,
-                                            VWA: jsonData.wvaNumbers.join(', ')
+                                            //VWA: jsonData.wvaNumbers.join(', ')
                                         });
                                     }
                                 }
