@@ -1,0 +1,92 @@
+{
+  "reference": "78BD1991-2",
+  "id": "78BD1991-2",
+  "name": "Fren diski",
+  "brand": "ICER",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "FORD": [
+      "1 102 559",
+      "1 571 346",
+      "1 571 347",
+      "1 571 348",
+      "1 575 877",
+      "1 583 401",
+      "1 591 990",
+      "1 591 991",
+      "1 629 450",
+      "1 629 451",
+      "5 022 650",
+      "5 022 651",
+      "6 089 874",
+      "6 089 875",
+      "6 089 876",
+      "6 119 634",
+      "6 156 352",
+      "6 158 212",
+      "6 158 213",
+      "77FB-1125-AB",
+      "84FB-1125-AA",
+      "84FX-1125-B1B",
+      "84FX-1125-CA",
+      "D8RZ-1125-D",
+      "DR8Z-1125-A"
+    ]
+  },
+  "eanNumber": "8424073143464",
+  "attributes": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "8,7"
+    ],
+    "MinimumThicknessValues": [
+      "8,7"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "42,2"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "220,4"
+    ],
+    "BoltHoleCircle": [
+      "108"
+    ],
+    "NumberOfHoles": [
+      "4"
+    ],
+    "AxleVersion": [
+      "Front"
+    ],
+    "TechnicalInformationNumber": [
+      "78BD1991-2"
+    ],
+    "TestMark": [
+      "E1 90R-02C0100/0797"
+    ],
+    "Diameter": [
+      "72"
+    ],
+    "Thickness": [
+      "10"
+    ],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "72"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "4"
+    ],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [
+      "5.840"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

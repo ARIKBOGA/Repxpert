@@ -1,36 +1,36 @@
 {
-  "reference": "78BD0673-2",
-  "id": "78BD0673-2",
+  "reference": "78BD5610-2",
+  "id": "78BD5610-2",
   "name": "Fren diski",
   "brand": "ICER",
   "wvaNumbers": [],
   "brand_oe_map": {
-    "BMW": [
-      "34 11 1 160 673",
-      "34 11 6 757 750"
+    "FORD": [
+      "5 025 610",
+      "5 029 815"
     ]
   },
-  "eanNumber": "8424073142597",
+  "eanNumber": "8424073147196",
   "attributes": {
     "Type": [
-      "dolu"
+      "Havalandırmalı"
     ],
     "ThicknessValues": [
-      "10,4"
+      "22,2"
     ],
     "MinimumThicknessValues": [
-      "10,4"
+      "22,2"
     ],
     "Surface": [],
     "HeightValues": [
-      "51,5"
+      "43"
     ],
     "InnerDiameter": [],
     "OuterDiameter": [
-      "286"
+      "254"
     ],
     "BoltHoleCircle": [
-      "120"
+      "100"
     ],
     "NumberOfHoles": [
       "5"
@@ -39,20 +39,20 @@
       "Front"
     ],
     "TechnicalInformationNumber": [
-      "78BD0673-2"
+      "78BD5610-2"
     ],
     "TestMark": [
-      "E1 90R-02C0100/1091, E1 90R-02C0415/0014, E1190R02C01049/43393"
+      "E1 90R-02C0074/0124, E1 90R-02C0452/0104, E1190R02C01049/52493"
     ],
     "Diameter": [
-      "79"
+      "78,5"
     ],
     "Thickness": [
-      "12"
+      "24"
     ],
     "SupplementaryInfo": [],
     "CenteringDiameter": [
-      "79"
+      "78,5"
     ],
     "HoleArrangement_HoleNumber": [
       "5"

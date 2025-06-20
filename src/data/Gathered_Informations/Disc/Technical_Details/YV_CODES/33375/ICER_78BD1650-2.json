@@ -1,61 +1,77 @@
 {
-  "reference": "78BD0673-2",
-  "id": "78BD0673-2",
+  "reference": "78BD1650-2",
+  "id": "78BD1650-2",
   "name": "Fren diski",
   "brand": "ICER",
   "wvaNumbers": [],
   "brand_oe_map": {
-    "BMW": [
-      "34 11 1 160 673",
-      "34 11 6 757 750"
+    "ALFA ROMEO": [
+      "4 640 135 6",
+      "4 683 104 1"
+    ],
+    "CITROËN": [
+      "4249.74"
+    ],
+    "FIAT": [
+      "4 640 135 6",
+      "4 654 238 3",
+      "4 683 104 1",
+      "7 173 964 0"
+    ],
+    "LANCIA": [
+      "4 640 135 6"
+    ],
+    "PEUGEOT": [
+      "4249.73",
+      "4249.74"
     ]
   },
-  "eanNumber": "8424073142597",
+  "eanNumber": "8424073143242",
   "attributes": {
     "Type": [
-      "dolu"
+      "Havalandırmalı"
     ],
     "ThicknessValues": [
-      "10,4"
+      "20"
     ],
     "MinimumThicknessValues": [
-      "10,4"
+      "20"
     ],
     "Surface": [],
     "HeightValues": [
-      "51,5"
+      "40,5"
     ],
     "InnerDiameter": [],
     "OuterDiameter": [
-      "286"
+      "257"
     ],
     "BoltHoleCircle": [
-      "120"
+      "98"
     ],
     "NumberOfHoles": [
-      "5"
+      "4"
     ],
     "AxleVersion": [
       "Front"
     ],
     "TechnicalInformationNumber": [
-      "78BD0673-2"
+      "78BD1650-2"
     ],
     "TestMark": [
-      "E1 90R-02C0100/1091, E1 90R-02C0415/0014, E1190R02C01049/43393"
+      "E1 90R-02C0339/1095, E1 90R-02C0538/0116, E4 90R-02C0722/2584"
     ],
     "Diameter": [
-      "79"
+      "59"
     ],
     "Thickness": [
-      "12"
+      "22"
     ],
     "SupplementaryInfo": [],
     "CenteringDiameter": [
-      "79"
+      "59"
     ],
     "HoleArrangement_HoleNumber": [
-      "5"
+      "4"
     ],
     "WheelBoltBoreDiameter": [],
     "Machining": [],

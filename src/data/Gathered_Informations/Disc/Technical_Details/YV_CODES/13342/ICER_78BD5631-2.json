@@ -1,61 +1,61 @@
 {
-  "reference": "78BD0673-2",
-  "id": "78BD0673-2",
+  "reference": "78BD5631-2",
+  "id": "78BD5631-2",
   "name": "Fren diski",
   "brand": "ICER",
   "wvaNumbers": [],
   "brand_oe_map": {
-    "BMW": [
-      "34 11 1 160 673",
-      "34 11 6 757 750"
+    "FORD": [
+      "1 371 420",
+      "1 464 031"
     ]
   },
-  "eanNumber": "8424073142597",
+  "eanNumber": "8424073147349",
   "attributes": {
     "Type": [
       "dolu"
     ],
     "ThicknessValues": [
-      "10,4"
+      "13"
     ],
     "MinimumThicknessValues": [
-      "10,4"
+      "13"
     ],
     "Surface": [],
     "HeightValues": [
-      "51,5"
+      "16,3"
     ],
     "InnerDiameter": [],
     "OuterDiameter": [
-      "286"
+      "280"
     ],
     "BoltHoleCircle": [
-      "120"
+      "124"
     ],
     "NumberOfHoles": [
-      "5"
+      "10"
     ],
     "AxleVersion": [
-      "Front"
+      "Rear"
     ],
     "TechnicalInformationNumber": [
-      "78BD0673-2"
+      "78BD5631-2"
     ],
     "TestMark": [
-      "E1 90R-02C0100/1091, E1 90R-02C0415/0014, E1190R02C01049/43393"
+      "E1 90R-02C0100/0842, E1 90R-02C0415/0093"
     ],
     "Diameter": [
-      "79"
+      "107,5"
     ],
     "Thickness": [
-      "12"
+      "16"
     ],
     "SupplementaryInfo": [],
     "CenteringDiameter": [
-      "79"
+      "107,5"
     ],
     "HoleArrangement_HoleNumber": [
-      "5"
+      "10"
     ],
     "WheelBoltBoreDiameter": [],
     "Machining": [],

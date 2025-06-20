@@ -1,58 +1,63 @@
 {
-  "reference": "78BD0673-2",
-  "id": "78BD0673-2",
+  "reference": "78BD3327-1",
+  "id": "78BD3327-1",
   "name": "Fren diski",
   "brand": "ICER",
   "wvaNumbers": [],
   "brand_oe_map": {
-    "BMW": [
-      "34 11 1 160 673",
-      "34 11 6 757 750"
+    "PORSCHE": [
+      "955 351 402 40",
+      "955 351 402 41"
+    ],
+    "VW": [
+      "7L6 615 302 D",
+      "7L6 615 302 J",
+      "7L6 615 302 N"
     ]
   },
-  "eanNumber": "8424073142597",
+  "eanNumber": "8424073144874",
   "attributes": {
     "Type": [
-      "dolu"
+      "Havalandırmalı"
     ],
     "ThicknessValues": [
-      "10,4"
+      "30"
     ],
     "MinimumThicknessValues": [
-      "10,4"
+      "30"
     ],
     "Surface": [],
     "HeightValues": [
-      "51,5"
+      "68,7"
     ],
     "InnerDiameter": [],
     "OuterDiameter": [
-      "286"
+      "330"
     ],
     "BoltHoleCircle": [
-      "120"
+      "130"
     ],
     "NumberOfHoles": [
       "5"
     ],
     "AxleVersion": [
-      "Front"
+      "Right Front"
     ],
     "TechnicalInformationNumber": [
-      "78BD0673-2"
+      "78BD3327-1"
     ],
     "TestMark": [
-      "E1 90R-02C0100/1091, E1 90R-02C0415/0014, E1190R02C01049/43393"
+      "E1 90R-02C0074/1583, E1 90R-02C0452/0120, E1190R02C01049/52398"
     ],
     "Diameter": [
-      "79"
+      "85"
     ],
     "Thickness": [
-      "12"
+      "32"
     ],
     "SupplementaryInfo": [],
     "CenteringDiameter": [
-      "79"
+      "85"
     ],
     "HoleArrangement_HoleNumber": [
       "5"

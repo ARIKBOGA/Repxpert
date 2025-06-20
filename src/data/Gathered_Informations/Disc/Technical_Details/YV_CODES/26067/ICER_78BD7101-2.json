@@ -1,61 +1,71 @@
 {
-  "reference": "78BD0673-2",
-  "id": "78BD0673-2",
+  "reference": "78BD7101-2",
+  "id": "78BD7101-2",
   "name": "Fren diski",
   "brand": "ICER",
   "wvaNumbers": [],
   "brand_oe_map": {
-    "BMW": [
-      "34 11 1 160 673",
-      "34 11 6 757 750"
+    "INFINITI": [
+      "402067-1E01",
+      "402067-1E05",
+      "402067-1E06"
+    ],
+    "NISSAN": [
+      "40206-71E00",
+      "40206-71E01",
+      "40206-71E02",
+      "40206-71E05",
+      "40206-71E06",
+      "40206-93J00",
+      "40206-93J01"
     ]
   },
-  "eanNumber": "8424073142597",
+  "eanNumber": "8424073148261",
   "attributes": {
     "Type": [
-      "dolu"
+      "Havalandırmalı"
     ],
     "ThicknessValues": [
-      "10,4"
+      "20"
     ],
     "MinimumThicknessValues": [
-      "10,4"
+      "20"
     ],
     "Surface": [],
     "HeightValues": [
-      "51,5"
+      "49,2"
     ],
     "InnerDiameter": [],
     "OuterDiameter": [
-      "286"
+      "257"
     ],
     "BoltHoleCircle": [
-      "120"
+      "114,3"
     ],
     "NumberOfHoles": [
-      "5"
+      "4"
     ],
     "AxleVersion": [
       "Front"
     ],
     "TechnicalInformationNumber": [
-      "78BD0673-2"
+      "78BD7101-2"
     ],
     "TestMark": [
-      "E1 90R-02C0100/1091, E1 90R-02C0415/0014, E1190R02C01049/43393"
+      "E1 90R-02C0074/0126, E1 90R-02C0452/0077, E1190R02C01049/52493"
     ],
     "Diameter": [
-      "79"
+      "68"
     ],
     "Thickness": [
-      "12"
+      "22"
     ],
     "SupplementaryInfo": [],
     "CenteringDiameter": [
-      "79"
+      "68"
     ],
     "HoleArrangement_HoleNumber": [
-      "5"
+      "4"
     ],
     "WheelBoltBoreDiameter": [],
     "Machining": [],

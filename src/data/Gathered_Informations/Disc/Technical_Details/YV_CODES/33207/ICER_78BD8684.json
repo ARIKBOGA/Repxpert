@@ -1,58 +1,79 @@
 {
-  "reference": "78BD0673-2",
-  "id": "78BD0673-2",
+  "reference": "78BD8684",
+  "id": "78BD8684-2",
   "name": "Fren diski",
   "brand": "ICER",
   "wvaNumbers": [],
   "brand_oe_map": {
-    "BMW": [
-      "34 11 1 160 673",
-      "34 11 6 757 750"
+    "ALFA ROMEO": [
+      "0060 569 164",
+      "16 406 261 000 1",
+      "6 056 916 4",
+      "6 060 216 1",
+      "6 065 347 9",
+      "6 065 856 6",
+      "6 080 178 6",
+      "6 080 178 7",
+      "6 081 178 7",
+      "7 173 891 1",
+      "8 241 868 4",
+      "8 243 993 9",
+      "8 244 027 5"
+    ],
+    "FIAT": [
+      "7 173 891 2",
+      "7 789 267"
+    ],
+    "LANCIA": [
+      "6 081 480 4",
+      "7 173 891 1",
+      "7 789 267",
+      "8 240  27 5"
     ]
   },
-  "eanNumber": "8424073142597",
+  "eanNumber": "8424073148919",
   "attributes": {
     "Type": [
       "dolu"
     ],
     "ThicknessValues": [
-      "10,4"
+      "9"
     ],
     "MinimumThicknessValues": [
-      "10,4"
+      "9"
     ],
     "Surface": [],
     "HeightValues": [
-      "51,5"
+      "50,5"
     ],
     "InnerDiameter": [],
     "OuterDiameter": [
-      "286"
+      "251"
     ],
     "BoltHoleCircle": [
-      "120"
+      "98"
     ],
     "NumberOfHoles": [
       "5"
     ],
     "AxleVersion": [
-      "Front"
+      "Rear"
     ],
     "TechnicalInformationNumber": [
-      "78BD0673-2"
+      "78BD8684-2"
     ],
     "TestMark": [
-      "E1 90R-02C0100/1091, E1 90R-02C0415/0014, E1190R02C01049/43393"
+      "E1 90R-02C0100/0041, E1 90R-02C0415/0089, E1190R02C01049/52491"
     ],
     "Diameter": [
-      "79"
+      "59"
     ],
     "Thickness": [
-      "12"
+      "10"
     ],
     "SupplementaryInfo": [],
     "CenteringDiameter": [
-      "79"
+      "59"
     ],
     "HoleArrangement_HoleNumber": [
       "5"
@@ -60,7 +81,9 @@
     "WheelBoltBoreDiameter": [],
     "Machining": [],
     "TighteningTorque": [],
-    "Weight": [],
+    "Weight": [
+      "7.324"
+    ],
     "Color": [],
     "ThreadSize": []
   }

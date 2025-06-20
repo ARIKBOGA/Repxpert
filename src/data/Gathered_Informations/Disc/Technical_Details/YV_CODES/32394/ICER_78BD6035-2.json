@@ -1,36 +1,49 @@
 {
-  "reference": "78BD0673-2",
-  "id": "78BD0673-2",
+  "reference": "78BD6035-2",
+  "id": "78BD6035-2",
   "name": "Fren diski",
   "brand": "ICER",
   "wvaNumbers": [],
   "brand_oe_map": {
-    "BMW": [
-      "34 11 1 160 673",
-      "34 11 6 757 750"
+    "OPEL": [
+      "47 00 455",
+      "47 08 241",
+      "47 10 944",
+      "93 192 978",
+      "93 194 988",
+      "95 513 700"
+    ],
+    "SUZUKI": [
+      "55311-62J00",
+      "55311-62J01"
+    ],
+    "VAUXHALL": [
+      "93 192 978",
+      "93 194 988",
+      "93 513 700"
     ]
   },
-  "eanNumber": "8424073142597",
+  "eanNumber": "8424073147608",
   "attributes": {
     "Type": [
-      "dolu"
+      "Havalandırmalı"
     ],
     "ThicknessValues": [
-      "10,4"
+      "18,5"
     ],
     "MinimumThicknessValues": [
-      "10,4"
+      "18,5"
     ],
     "Surface": [],
     "HeightValues": [
-      "51,5"
+      "40"
     ],
     "InnerDiameter": [],
     "OuterDiameter": [
-      "286"
+      "252"
     ],
     "BoltHoleCircle": [
-      "120"
+      "100"
     ],
     "NumberOfHoles": [
       "5"
@@ -39,20 +52,20 @@
       "Front"
     ],
     "TechnicalInformationNumber": [
-      "78BD0673-2"
+      "78BD6035-2"
     ],
     "TestMark": [
-      "E1 90R-02C0100/1091, E1 90R-02C0415/0014, E1190R02C01049/43393"
+      "E1 90R-02C0074/0053, E1 90R-02C0452/0074, E1190R02C01049/52492"
     ],
     "Diameter": [
-      "79"
+      "60"
     ],
     "Thickness": [
-      "12"
+      "20"
     ],
     "SupplementaryInfo": [],
     "CenteringDiameter": [
-      "79"
+      "60"
     ],
     "HoleArrangement_HoleNumber": [
       "5"
@@ -60,7 +73,9 @@
     "WheelBoltBoreDiameter": [],
     "Machining": [],
     "TighteningTorque": [],
-    "Weight": [],
+    "Weight": [
+      "9.356"
+    ],
     "Color": [],
     "ThreadSize": []
   }

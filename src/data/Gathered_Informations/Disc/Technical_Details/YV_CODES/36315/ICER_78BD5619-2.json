@@ -1,66 +1,83 @@
 {
-  "reference": "78BD0673-2",
-  "id": "78BD0673-2",
+  "reference": "78BD5619-2",
+  "id": "78BD5619-2",
   "name": "Fren diski",
   "brand": "ICER",
-  "wvaNumbers": [],
+  "wvaNumbers": [
+    "127952FCAL"
+  ],
   "brand_oe_map": {
-    "BMW": [
-      "34 11 1 160 673",
-      "34 11 6 757 750"
+    "AUDI": [
+      "1K0 615 601 AD",
+      "1K0 615 601 M"
+    ],
+    "SEAT": [
+      "1K0 615 601 AD",
+      "1K0 615 601 M"
+    ],
+    "SKODA": [
+      "1K0 615 601 AD",
+      "1K0 615 601 M"
+    ],
+    "VW": [
+      "1K0 615 601 AD",
+      "1K0 615 601 M",
+      "5Q0 615 601 G"
     ]
   },
-  "eanNumber": "8424073142597",
+  "eanNumber": "8424073147271",
   "attributes": {
     "Type": [
       "dolu"
     ],
     "ThicknessValues": [
-      "10,4"
+      "10"
     ],
     "MinimumThicknessValues": [
-      "10,4"
+      "10"
     ],
     "Surface": [],
     "HeightValues": [
-      "51,5"
+      "48,3"
     ],
     "InnerDiameter": [],
     "OuterDiameter": [
-      "286"
+      "282"
     ],
     "BoltHoleCircle": [
-      "120"
+      "112"
     ],
     "NumberOfHoles": [
-      "5"
+      "9"
     ],
     "AxleVersion": [
-      "Front"
+      "Rear"
     ],
     "TechnicalInformationNumber": [
-      "78BD0673-2"
+      "78BD5619-2"
     ],
     "TestMark": [
-      "E1 90R-02C0100/1091, E1 90R-02C0415/0014, E1190R02C01049/43393"
+      "E1 90R-02C0100/0676, E1 90R-02C0415/0088, E4 90R-02C0722/2585"
     ],
     "Diameter": [
-      "79"
+      "65"
     ],
     "Thickness": [
       "12"
     ],
     "SupplementaryInfo": [],
     "CenteringDiameter": [
-      "79"
+      "65"
     ],
     "HoleArrangement_HoleNumber": [
-      "5"
+      "9"
     ],
     "WheelBoltBoreDiameter": [],
     "Machining": [],
     "TighteningTorque": [],
-    "Weight": [],
+    "Weight": [
+      "9.564"
+    ],
     "Color": [],
     "ThreadSize": []
   }

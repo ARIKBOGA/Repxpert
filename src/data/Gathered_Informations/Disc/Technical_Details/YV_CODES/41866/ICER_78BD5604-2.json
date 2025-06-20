@@ -1,0 +1,97 @@
+{
+  "reference": "78BD5604-2",
+  "id": "78BD5604-2",
+  "name": "Fren diski",
+  "brand": "ICER",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "AUDI": [
+      "1J0 615 301 C",
+      "1J0 615 301 R",
+      "6R0 615 301 A",
+      "8J0 615 301 R",
+      "8J0 615 301 S"
+    ],
+    "SEAT": [
+      "1J0 615 301",
+      "1J0 615 301 C",
+      "1J0 615 301 K",
+      "1J0 615 301 R",
+      "1J0 615 301 S",
+      "8J0 615 301 R",
+      "8J0 615 301 S"
+    ],
+    "SKODA": [
+      "1J0 615 301",
+      "1J0 615 301 C",
+      "1J0 615 301 R",
+      "1J0 615 301 S",
+      "8J0 615 301 R",
+      "8J0 615 301 S"
+    ],
+    "VW": [
+      "1J0 615 301",
+      "1J0 615 301 C",
+      "1J0 615 301 K",
+      "1J0 615 301 R",
+      "1J0 615 301 S",
+      "6R0 615 301 A",
+      "8J0 615 301 R",
+      "8J0 615 301 S"
+    ]
+  },
+  "eanNumber": "8424073147134",
+  "attributes": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "22"
+    ],
+    "MinimumThicknessValues": [
+      "22"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "34,2"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "287,6"
+    ],
+    "BoltHoleCircle": [
+      "100"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [
+      "Front"
+    ],
+    "TechnicalInformationNumber": [
+      "78BD5604-2"
+    ],
+    "TestMark": [
+      "E1 90R-02C0289/0926, E1 90R-02C0433/0055, E1190R02C01049/52503"
+    ],
+    "Diameter": [
+      "65"
+    ],
+    "Thickness": [
+      "25"
+    ],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "65"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "5"
+    ],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

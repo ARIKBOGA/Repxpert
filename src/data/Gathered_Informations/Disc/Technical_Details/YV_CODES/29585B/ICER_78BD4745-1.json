@@ -1,0 +1,94 @@
+{
+  "reference": "78BD4745-1",
+  "id": "78BD4745-1",
+  "name": "Fren diski",
+  "brand": "ICER",
+  "wvaNumbers": [
+    "128251BFCAL"
+  ],
+  "brand_oe_map": {
+    "CITROËN": [
+      "16 192 379 80",
+      "4246.19",
+      "4249.19",
+      "4249.32",
+      "E169195",
+      "E169506"
+    ],
+    "DS": [
+      "4249.19",
+      "4249.32"
+    ],
+    "OPEL": [
+      "3 648 487"
+    ],
+    "PEUGEOT": [
+      "4246.19",
+      "4249.19",
+      "4249.32",
+      "E169195",
+      "E169506"
+    ],
+    "VAUXHALL": [
+      "3 648 487"
+    ]
+  },
+  "eanNumber": "8424073146335",
+  "attributes": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "7"
+    ],
+    "MinimumThicknessValues": [
+      "7"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "69"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "249"
+    ],
+    "BoltHoleCircle": [
+      "108"
+    ],
+    "NumberOfHoles": [
+      "4"
+    ],
+    "AxleVersion": [
+      "Rear"
+    ],
+    "TechnicalInformationNumber": [
+      "78BD4745-1"
+    ],
+    "TestMark": [
+      "E1 90R-02C0527/1458, E1 90R-02C0559/0102"
+    ],
+    "Diameter": [
+      "56"
+    ],
+    "Thickness": [
+      "9"
+    ],
+    "SupplementaryInfo": [
+      "Entegre edilmiş manyetik sensör halkasına sahip"
+    ],
+    "CenteringDiameter": [
+      "56"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "4"
+    ],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [
+      "5.250"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

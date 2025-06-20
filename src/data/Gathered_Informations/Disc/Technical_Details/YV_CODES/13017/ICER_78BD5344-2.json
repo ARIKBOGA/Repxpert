@@ -1,61 +1,75 @@
 {
-  "reference": "78BD0673-2",
-  "id": "78BD0673-2",
+  "reference": "78BD5344-2",
+  "id": "78BD5344-2",
   "name": "Fren diski",
   "brand": "ICER",
   "wvaNumbers": [],
   "brand_oe_map": {
-    "BMW": [
-      "34 11 1 160 673",
-      "34 11 6 757 750"
+    "FORD": [
+      "1 148 202",
+      "1 320 585",
+      "1 323 620",
+      "1 373 771",
+      "1 388 256",
+      "1 808 479",
+      "3 049 893",
+      "3 555 344",
+      "3 573 537",
+      "4 077 455",
+      "98AX-1125-B1F"
+    ],
+    "MAZDA": [
+      "DD32-33-25X",
+      "DD59-33-25X",
+      "DD6-333-25X"
     ]
   },
-  "eanNumber": "8424073142597",
+  "eanNumber": "8424073146984",
   "attributes": {
     "Type": [
-      "dolu"
+      "Havalandırmalı"
     ],
     "ThicknessValues": [
-      "10,4"
+      "20"
     ],
     "MinimumThicknessValues": [
-      "10,4"
+      "20"
     ],
     "Surface": [],
     "HeightValues": [
-      "51,5"
+      "43,3"
     ],
     "InnerDiameter": [],
     "OuterDiameter": [
-      "286"
+      "258"
     ],
     "BoltHoleCircle": [
-      "120"
+      "108"
     ],
     "NumberOfHoles": [
-      "5"
+      "4"
     ],
     "AxleVersion": [
       "Front"
     ],
     "TechnicalInformationNumber": [
-      "78BD0673-2"
+      "78BD5344-2"
     ],
     "TestMark": [
-      "E1 90R-02C0100/1091, E1 90R-02C0415/0014, E1190R02C01049/43393"
+      "E1 90R-02C0074/0125, E1 90R-02C0452/0077, E4 90R-02C0703/2560"
     ],
     "Diameter": [
-      "79"
+      "63,5"
     ],
     "Thickness": [
-      "12"
+      "22"
     ],
     "SupplementaryInfo": [],
     "CenteringDiameter": [
-      "79"
+      "63,5"
     ],
     "HoleArrangement_HoleNumber": [
-      "5"
+      "4"
     ],
     "WheelBoltBoreDiameter": [],
     "Machining": [],

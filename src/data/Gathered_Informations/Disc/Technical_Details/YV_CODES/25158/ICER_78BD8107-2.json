@@ -1,0 +1,92 @@
+{
+  "reference": "78BD8107-2",
+  "id": "78BD8107-2",
+  "name": "Fren diski",
+  "brand": "ICER",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "HYUNDAI": [
+      "51712-M2000"
+    ],
+    "KIA": [
+      "51712-M2000"
+    ],
+    "MITSUBISHI": [
+      "MB 407 639",
+      "MB 668 107",
+      "MB 668 886",
+      "MB 928 994",
+      "MB 928 995",
+      "MB 950 569",
+      "MB 950 570",
+      "MR 128 153",
+      "MR 205 584",
+      "MR 205 585",
+      "MR 389 722",
+      "MR 475 330"
+    ],
+    "PROTON": [
+      "PW 820 577"
+    ],
+    "VOLVO": [
+      "3 087 292 6",
+      "3 087 292 68"
+    ]
+  },
+  "eanNumber": "8424073148797",
+  "attributes": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "22,4"
+    ],
+    "MinimumThicknessValues": [
+      "22,4"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "45,1"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "256"
+    ],
+    "BoltHoleCircle": [
+      "111"
+    ],
+    "NumberOfHoles": [
+      "4"
+    ],
+    "AxleVersion": [
+      "Front"
+    ],
+    "TechnicalInformationNumber": [
+      "78BD8107-2"
+    ],
+    "TestMark": [
+      "E1 90R-02C0074/1327, E1190R02C01049/52493"
+    ],
+    "Diameter": [
+      "69"
+    ],
+    "Thickness": [
+      "24"
+    ],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "69"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "4"
+    ],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [
+      "9.750"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

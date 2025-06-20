@@ -1,58 +1,71 @@
 {
-  "reference": "78BD0673-2",
-  "id": "78BD0673-2",
+  "reference": "78BD9115-2",
+  "id": "78BD9115-2",
   "name": "Fren diski",
   "brand": "ICER",
-  "wvaNumbers": [],
+  "wvaNumbers": [
+    "127963FCAL"
+  ],
   "brand_oe_map": {
-    "BMW": [
-      "34 11 1 160 673",
-      "34 11 6 757 750"
+    "FIAT": [
+      "4 683 648 9",
+      "5 179 923 5"
+    ],
+    "OPEL": [
+      "5 69 115",
+      "93 188 377"
+    ],
+    "SAAB": [
+      "12 762 290",
+      "91 56 785"
+    ],
+    "VAUXHALL": [
+      "93 171 848"
     ]
   },
-  "eanNumber": "8424073142597",
+  "eanNumber": "8424073149374",
   "attributes": {
     "Type": [
       "dolu"
     ],
     "ThicknessValues": [
-      "10,4"
+      "10"
     ],
     "MinimumThicknessValues": [
-      "10,4"
+      "10"
     ],
     "Surface": [],
     "HeightValues": [
-      "51,5"
+      "41,6"
     ],
     "InnerDiameter": [],
     "OuterDiameter": [
-      "286"
+      "278"
     ],
     "BoltHoleCircle": [
-      "120"
+      "110"
     ],
     "NumberOfHoles": [
       "5"
     ],
     "AxleVersion": [
-      "Front"
+      "Rear"
     ],
     "TechnicalInformationNumber": [
-      "78BD0673-2"
+      "78BD9115-2"
     ],
     "TestMark": [
-      "E1 90R-02C0100/1091, E1 90R-02C0415/0014, E1190R02C01049/43393"
+      "E1 90R-02C0100/0677, E1 90R-02C0415/0088"
     ],
     "Diameter": [
-      "79"
+      "65,5"
     ],
     "Thickness": [
       "12"
     ],
     "SupplementaryInfo": [],
     "CenteringDiameter": [
-      "79"
+      "65,5"
     ],
     "HoleArrangement_HoleNumber": [
       "5"
@@ -60,7 +73,9 @@
     "WheelBoltBoreDiameter": [],
     "Machining": [],
     "TighteningTorque": [],
-    "Weight": [],
+    "Weight": [
+      "9.644"
+    ],
     "Color": [],
     "ThreadSize": []
   }

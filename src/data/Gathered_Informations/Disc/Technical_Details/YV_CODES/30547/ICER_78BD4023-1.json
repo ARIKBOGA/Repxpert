@@ -1,58 +1,60 @@
 {
-  "reference": "78BD0673-2",
-  "id": "78BD0673-2",
+  "reference": "78BD4023-1",
+  "id": "78BD4023-1",
   "name": "Fren diski",
   "brand": "ICER",
   "wvaNumbers": [],
   "brand_oe_map": {
-    "BMW": [
-      "34 11 1 160 673",
-      "34 11 6 757 750"
+    "RENAULT": [
+      "43 20 015 39R",
+      "43 20 075 95R"
     ]
   },
-  "eanNumber": "8424073142597",
+  "eanNumber": "8424073145352",
   "attributes": {
     "Type": [
       "dolu"
     ],
     "ThicknessValues": [
-      "10,4"
+      "7"
     ],
     "MinimumThicknessValues": [
-      "10,4"
+      "7"
     ],
     "Surface": [],
     "HeightValues": [
-      "51,5"
+      "86,1"
     ],
     "InnerDiameter": [],
     "OuterDiameter": [
-      "286"
+      "260"
     ],
     "BoltHoleCircle": [
-      "120"
+      "114,3"
     ],
     "NumberOfHoles": [
       "5"
     ],
     "AxleVersion": [
-      "Front"
+      "Rear"
     ],
     "TechnicalInformationNumber": [
-      "78BD0673-2"
+      "78BD4023-1"
     ],
     "TestMark": [
-      "E1 90R-02C0100/1091, E1 90R-02C0415/0014, E1190R02C01049/43393"
+      "E1 90R-02C0527/1691, E1 90R-02C0559/0132"
     ],
     "Diameter": [
-      "79"
+      "50,2"
     ],
     "Thickness": [
-      "12"
+      "8"
     ],
-    "SupplementaryInfo": [],
+    "SupplementaryInfo": [
+      "Entegre edilmiş manyetik sensör halkasına sahip"
+    ],
     "CenteringDiameter": [
-      "79"
+      "50,2"
     ],
     "HoleArrangement_HoleNumber": [
       "5"
@@ -60,7 +62,9 @@
     "WheelBoltBoreDiameter": [],
     "Machining": [],
     "TighteningTorque": [],
-    "Weight": [],
+    "Weight": [
+      "6.404"
+    ],
     "Color": [],
     "ThreadSize": []
   }

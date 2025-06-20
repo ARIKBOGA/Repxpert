@@ -1,58 +1,81 @@
 {
-  "reference": "78BD0673-2",
-  "id": "78BD0673-2",
+  "reference": "78BD3964",
+  "id": "78BD3964-2",
   "name": "Fren diski",
   "brand": "ICER",
   "wvaNumbers": [],
   "brand_oe_map": {
-    "BMW": [
-      "34 11 1 160 673",
-      "34 11 6 757 750"
+    "FORD": [
+      "1 704 765",
+      "1 934 070",
+      "2 023 618",
+      "5 302 181",
+      "BV61-2A315-BA",
+      "BV612-A315-CB",
+      "BV612A315CE",
+      "BV612A315CF",
+      "BV612A315FB"
+    ],
+    "FORD (CHANGAN)": [
+      "1759531",
+      "1843729",
+      "BV612A315DA",
+      "BV612A315EA",
+      "BV612A315EB",
+      "ED8C2A315AA",
+      "ED8C2A315AB",
+      "JD8C2A315AA"
+    ],
+    "FORD AUSTRALIA": [
+      "BRRF28"
+    ],
+    "FORD USA": [
+      "CV6Z2C026A"
     ]
   },
-  "eanNumber": "8424073142597",
+  "eanNumber": "8424073288820",
   "attributes": {
     "Type": [
       "dolu"
     ],
     "ThicknessValues": [
-      "10,4"
+      "9"
     ],
     "MinimumThicknessValues": [
-      "10,4"
+      "9"
     ],
     "Surface": [],
     "HeightValues": [
-      "51,5"
+      "40,9"
     ],
     "InnerDiameter": [],
     "OuterDiameter": [
-      "286"
+      "271"
     ],
     "BoltHoleCircle": [
-      "120"
+      "108"
     ],
     "NumberOfHoles": [
       "5"
     ],
     "AxleVersion": [
-      "Front"
+      "Rear"
     ],
     "TechnicalInformationNumber": [
-      "78BD0673-2"
+      "78BD3964-2"
     ],
     "TestMark": [
-      "E1 90R-02C0100/1091, E1 90R-02C0415/0014, E1190R02C01049/43393"
+      "E1 90R-02C0415/0001"
     ],
     "Diameter": [
-      "79"
+      "63,5"
     ],
     "Thickness": [
-      "12"
+      "11"
     ],
     "SupplementaryInfo": [],
     "CenteringDiameter": [
-      "79"
+      "63,5"
     ],
     "HoleArrangement_HoleNumber": [
       "5"
@@ -60,7 +83,9 @@
     "WheelBoltBoreDiameter": [],
     "Machining": [],
     "TighteningTorque": [],
-    "Weight": [],
+    "Weight": [
+      "4.350"
+    ],
     "Color": [],
     "ThreadSize": []
   }

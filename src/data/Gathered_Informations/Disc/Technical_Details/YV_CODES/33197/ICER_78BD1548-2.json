@@ -1,0 +1,100 @@
+{
+  "reference": "78BD1548-2",
+  "id": "78BD1548-2",
+  "name": "Fren diski",
+  "brand": "ICER",
+  "wvaNumbers": [
+    "128004FCAL"
+  ],
+  "brand_oe_map": {
+    "ALFA ROMEO": [
+      "16 410 220 230 0",
+      "4 644 500 6",
+      "4 677 674 2",
+      "6 056 916 3",
+      "6 057 154 8",
+      "6 062 207 7",
+      "6 065 347 8",
+      "6 065 856 5",
+      "6 077 154 8",
+      "6 080 172 2",
+      "6 081 344 3",
+      "6 081 593 8",
+      "7 171 143 4",
+      "7 171 144 7",
+      "7 173 956 7",
+      "7 173 956 8",
+      "8 241 053 9",
+      "8 242 759 2"
+    ],
+    "FIAT": [
+      "4 644 500 6",
+      "5 193 721 7",
+      "5 193 721 8",
+      "6 062 207 7",
+      "6 081 593 8",
+      "8 242 759 2",
+      "8 245 053 9"
+    ],
+    "LANCIA": [
+      "4 644 500 6",
+      "6 081 593 8",
+      "8 242 759 2",
+      "8 245 053 9"
+    ]
+  },
+  "eanNumber": "8424073143181",
+  "attributes": {
+    "Type": [
+      "Havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "20,2"
+    ],
+    "MinimumThicknessValues": [
+      "20,2"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "43,5"
+    ],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "284"
+    ],
+    "BoltHoleCircle": [
+      "98"
+    ],
+    "NumberOfHoles": [
+      "5"
+    ],
+    "AxleVersion": [
+      "Front"
+    ],
+    "TechnicalInformationNumber": [
+      "78BD1548-2"
+    ],
+    "TestMark": [
+      "E1 90R-02C0339/0235, E1 90R-02C0538/0081"
+    ],
+    "Diameter": [
+      "59"
+    ],
+    "Thickness": [
+      "22"
+    ],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [
+      "59"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "5"
+    ],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

@@ -1,58 +1,63 @@
 {
-  "reference": "78BD0673-2",
-  "id": "78BD0673-2",
+  "reference": "78BD0581-2",
+  "id": "78BD0581-2",
   "name": "Fren diski",
   "brand": "ICER",
-  "wvaNumbers": [],
+  "wvaNumbers": [
+    "127950FCAL"
+  ],
   "brand_oe_map": {
-    "BMW": [
-      "34 11 1 160 673",
-      "34 11 6 757 750"
+    "HYUNDAI": [
+      "58411-1H100",
+      "58411-1H300"
+    ],
+    "KIA": [
+      "58411-1H300"
     ]
   },
-  "eanNumber": "8424073142597",
+  "eanNumber": "8424073142535",
   "attributes": {
     "Type": [
       "dolu"
     ],
     "ThicknessValues": [
-      "10,4"
+      "8"
     ],
     "MinimumThicknessValues": [
-      "10,4"
+      "8"
     ],
     "Surface": [],
     "HeightValues": [
-      "51,5"
+      "61"
     ],
     "InnerDiameter": [],
     "OuterDiameter": [
-      "286"
+      "262"
     ],
     "BoltHoleCircle": [
-      "120"
+      "114,3"
     ],
     "NumberOfHoles": [
       "5"
     ],
     "AxleVersion": [
-      "Front"
+      "Rear"
     ],
     "TechnicalInformationNumber": [
-      "78BD0673-2"
+      "78BD0581-2"
     ],
     "TestMark": [
-      "E1 90R-02C0100/1091, E1 90R-02C0415/0014, E1190R02C01049/43393"
+      "E1 90R-02C0241/0744, E1 90R-02C0453/0107"
     ],
     "Diameter": [
-      "79"
+      "76"
     ],
     "Thickness": [
-      "12"
+      "10"
     ],
     "SupplementaryInfo": [],
     "CenteringDiameter": [
-      "79"
+      "76"
     ],
     "HoleArrangement_HoleNumber": [
       "5"
@@ -60,7 +65,9 @@
     "WheelBoltBoreDiameter": [],
     "Machining": [],
     "TighteningTorque": [],
-    "Weight": [],
+    "Weight": [
+      "8.272"
+    ],
     "Color": [],
     "ThreadSize": []
   }

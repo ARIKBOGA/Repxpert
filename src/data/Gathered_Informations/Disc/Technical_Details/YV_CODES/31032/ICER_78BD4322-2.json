@@ -1,66 +1,71 @@
 {
-  "reference": "78BD0673-2",
-  "id": "78BD0673-2",
+  "reference": "78BD4322-2",
+  "id": "78BD4322-2",
   "name": "Fren diski",
   "brand": "ICER",
   "wvaNumbers": [],
   "brand_oe_map": {
-    "BMW": [
-      "34 11 1 160 673",
-      "34 11 6 757 750"
+    "SKODA": [
+      "002 415 019",
+      "6U0 615 301"
+    ],
+    "VW": [
+      "6U0 615 301"
     ]
   },
-  "eanNumber": "8424073142597",
+  "eanNumber": "8424073145864",
   "attributes": {
     "Type": [
       "dolu"
     ],
     "ThicknessValues": [
-      "10,4"
+      "11,4"
     ],
     "MinimumThicknessValues": [
-      "10,4"
+      "11,4"
     ],
     "Surface": [],
     "HeightValues": [
-      "51,5"
+      "45,6"
     ],
     "InnerDiameter": [],
     "OuterDiameter": [
-      "286"
+      "236"
     ],
     "BoltHoleCircle": [
-      "120"
+      "100"
     ],
     "NumberOfHoles": [
-      "5"
+      "4"
     ],
     "AxleVersion": [
       "Front"
     ],
     "TechnicalInformationNumber": [
-      "78BD0673-2"
+      "78BD4322-2"
     ],
     "TestMark": [
-      "E1 90R-02C0100/1091, E1 90R-02C0415/0014, E1190R02C01049/43393"
+      "E1 90R-02C0100/0027, E1 90R-02C0415/0045"
     ],
     "Diameter": [
-      "79"
+      "62"
     ],
     "Thickness": [
-      "12"
+      "12,7"
     ],
     "SupplementaryInfo": [],
     "CenteringDiameter": [
-      "79"
+      "62"
     ],
     "HoleArrangement_HoleNumber": [
-      "5"
+      "4"
     ],
     "WheelBoltBoreDiameter": [],
     "Machining": [],
     "TighteningTorque": [],
-    "Weight": [],
+    "Weight": [
+      "7.580"
+    ],
     "Color": [],
     "ThreadSize": []
   }

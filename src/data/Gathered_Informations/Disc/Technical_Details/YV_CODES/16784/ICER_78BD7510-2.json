@@ -1,36 +1,39 @@
 {
-  "reference": "78BD0673-2",
-  "id": "78BD0673-2",
+  "reference": "78BD7510-2",
+  "id": "78BD7510-2",
   "name": "Fren diski",
   "brand": "ICER",
   "wvaNumbers": [],
   "brand_oe_map": {
-    "BMW": [
-      "34 11 1 160 673",
-      "34 11 6 757 750"
+    "HYUNDAI": [
+      "51712-0X700",
+      "51712-B9000"
+    ],
+    "KIA": [
+      "51712-07700"
     ]
   },
-  "eanNumber": "8424073142597",
+  "eanNumber": "8424073148483",
   "attributes": {
     "Type": [
-      "dolu"
+      "Havalandırmalı"
     ],
     "ThicknessValues": [
-      "10,4"
+      "16"
     ],
     "MinimumThicknessValues": [
-      "10,4"
+      "16"
     ],
     "Surface": [],
     "HeightValues": [
-      "51,5"
+      "48,8"
     ],
     "InnerDiameter": [],
     "OuterDiameter": [
-      "286"
+      "252"
     ],
     "BoltHoleCircle": [
-      "120"
+      "100"
     ],
     "NumberOfHoles": [
       "5"
@@ -39,20 +42,20 @@
       "Front"
     ],
     "TechnicalInformationNumber": [
-      "78BD0673-2"
+      "78BD7510-2"
     ],
     "TestMark": [
-      "E1 90R-02C0100/1091, E1 90R-02C0415/0014, E1190R02C01049/43393"
+      "E1 90R-02C0074/1215"
     ],
     "Diameter": [
-      "79"
+      "62,2"
     ],
     "Thickness": [
-      "12"
+      "18"
     ],
     "SupplementaryInfo": [],
     "CenteringDiameter": [
-      "79"
+      "62,2"
     ],
     "HoleArrangement_HoleNumber": [
       "5"
@@ -60,7 +63,9 @@
     "WheelBoltBoreDiameter": [],
     "Machining": [],
     "TighteningTorque": [],
-    "Weight": [],
+    "Weight": [
+      "9.224"
+    ],
     "Color": [],
     "ThreadSize": []
   }

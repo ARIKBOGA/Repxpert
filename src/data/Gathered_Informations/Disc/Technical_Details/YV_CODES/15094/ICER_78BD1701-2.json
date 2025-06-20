@@ -1,66 +1,72 @@
 {
-  "reference": "78BD0673-2",
-  "id": "78BD0673-2",
+  "reference": "78BD1701-2",
+  "id": "78BD1701-2",
   "name": "Fren diski",
   "brand": "ICER",
   "wvaNumbers": [],
   "brand_oe_map": {
-    "BMW": [
-      "34 11 1 160 673",
-      "34 11 6 757 750"
+    "HONDA": [
+      "45251-SH1-A00",
+      "45251-SH3-A00",
+      "45251-SH3-A10",
+      "45251-SR0-A10",
+      "45251-SR3-A00",
+      "45251-SR3-A10"
     ]
   },
-  "eanNumber": "8424073142597",
+  "eanNumber": "8424073143273",
   "attributes": {
     "Type": [
-      "dolu"
+      "Havalandırmalı"
     ],
     "ThicknessValues": [
-      "10,4"
+      "19"
     ],
     "MinimumThicknessValues": [
-      "10,4"
+      "19"
     ],
     "Surface": [],
     "HeightValues": [
-      "51,5"
+      "44,7"
     ],
     "InnerDiameter": [],
     "OuterDiameter": [
-      "286"
+      "240"
     ],
     "BoltHoleCircle": [
-      "120"
+      "100"
     ],
     "NumberOfHoles": [
-      "5"
+      "4"
     ],
     "AxleVersion": [
       "Front"
     ],
     "TechnicalInformationNumber": [
-      "78BD0673-2"
+      "78BD1701-2"
     ],
     "TestMark": [
-      "E1 90R-02C0100/1091, E1 90R-02C0415/0014, E1190R02C01049/43393"
+      "E1 90R-02C0074/1340, E1 90R-02C0452/0079"
     ],
     "Diameter": [
-      "79"
+      "61"
     ],
     "Thickness": [
-      "12"
+      "21"
     ],
     "SupplementaryInfo": [],
     "CenteringDiameter": [
-      "79"
+      "61"
     ],
     "HoleArrangement_HoleNumber": [
-      "5"
+      "4"
     ],
     "WheelBoltBoreDiameter": [],
     "Machining": [],
     "TighteningTorque": [],
-    "Weight": [],
+    "Weight": [
+      "8.560"
+    ],
     "Color": [],
     "ThreadSize": []
   }
