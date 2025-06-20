@@ -1,0 +1,73 @@
+{
+  "reference": "92160705",
+  "id": "92160705",
+  "name": "Fren diski PRO+",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "MERCEDES-BENZ": [
+      "2214230412",
+      "2214231012",
+      "221423101207",
+      "A2214230412",
+      "A2214231012",
+      "A221423101207"
+    ]
+  },
+  "eanNumber": "4019722473890",
+  "attributes": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "24"
+    ],
+    "MinimumThicknessValues": [
+      "21,4"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "58,3"
+    ],
+    "InnerDiameter": [
+      "180"
+    ],
+    "OuterDiameter": [
+      "320"
+    ],
+    "BoltHoleCircle": [
+      "112"
+    ],
+    "NumberOfHoles": [
+      "05/06"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "67"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "05/06"
+    ],
+    "WheelBoltBoreDiameter": [
+      "15,3"
+    ],
+    "Machining": [
+      "Yüksek karbonlu"
+    ],
+    "TighteningTorque": [],
+    "Weight": [
+      "8,2"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

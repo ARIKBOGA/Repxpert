@@ -1,0 +1,77 @@
+{
+  "reference": "92137503",
+  "id": "92137503",
+  "name": "Fren diski PRO",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "MERCEDES-BENZ": [
+      "9014230412",
+      "9014230612",
+      "9014230812",
+      "9014231012",
+      "A9014230412",
+      "A9014230612",
+      "A9014230812",
+      "A9014231012"
+    ],
+    "VW": [
+      "2D0615601",
+      "2D0615601C"
+    ]
+  },
+  "eanNumber": "4019722301353",
+  "attributes": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "12"
+    ],
+    "MinimumThicknessValues": [
+      "10"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "96,7"
+    ],
+    "InnerDiameter": [
+      "160"
+    ],
+    "OuterDiameter": [
+      "258"
+    ],
+    "BoltHoleCircle": [
+      "130"
+    ],
+    "NumberOfHoles": [
+      "05/07"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "85"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "05/07"
+    ],
+    "WheelBoltBoreDiameter": [
+      "15"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [
+      "6,3"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

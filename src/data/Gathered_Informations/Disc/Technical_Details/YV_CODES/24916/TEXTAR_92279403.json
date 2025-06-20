@@ -1,0 +1,80 @@
+{
+  "reference": "92279403",
+  "id": "92279403",
+  "name": "Fren diski PRO",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "IME": [
+      "6165710"
+    ],
+    "KAROSA": [
+      "6165710"
+    ],
+    "LEYLAND": [
+      "09C06411"
+    ],
+    "MERCEDES-BENZ": [
+      "4474210012",
+      "447421001207",
+      "4484210600",
+      "A4474210012",
+      "A447421001207",
+      "A4484210600"
+    ]
+  },
+  "eanNumber": "4019722483158",
+  "attributes": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "32"
+    ],
+    "MinimumThicknessValues": [
+      "28"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "58,4"
+    ],
+    "InnerDiameter": [
+      "153,4"
+    ],
+    "OuterDiameter": [
+      "330"
+    ],
+    "BoltHoleCircle": [
+      "112"
+    ],
+    "NumberOfHoles": [
+      "05/06"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "67"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "05/06"
+    ],
+    "WheelBoltBoreDiameter": [
+      "15"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [
+      "10,5"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

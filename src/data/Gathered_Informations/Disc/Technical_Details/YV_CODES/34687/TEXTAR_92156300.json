@@ -1,0 +1,66 @@
+{
+  "reference": "92156300",
+  "id": "92156300",
+  "name": "Fren diski",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "TOYOTA": [
+      "424310D090",
+      "424310D110",
+      "4243152080"
+    ]
+  },
+  "eanNumber": "4019722288470",
+  "attributes": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "9"
+    ],
+    "MinimumThicknessValues": [
+      "7,5"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "30,3"
+    ],
+    "InnerDiameter": [
+      "156"
+    ],
+    "OuterDiameter": [
+      "259"
+    ],
+    "BoltHoleCircle": [
+      "100"
+    ],
+    "NumberOfHoles": [
+      "04/06"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "55"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "04/06"
+    ],
+    "WheelBoltBoreDiameter": [
+      "14,5"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [
+      "3,2"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "reference": "92075303",
+  "id": "92075303",
+  "name": "Fren diski PRO",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "FORD": [
+      "1006505",
+      "1013581",
+      "1018348",
+      "1019598",
+      "1112542",
+      "96FB1125AB",
+      "96FX1125A1B",
+      "96FX1125AB",
+      "96FX1125BA"
+    ],
+    "MAZDA": [
+      "1E0333251",
+      "1E0333251B",
+      "1E0333251C",
+      "1E0333251D"
+    ],
+    "MITSUBISHI": [
+      "1E0333251A",
+      "1E0433251"
+    ]
+  },
+  "eanNumber": "4019722309229",
+  "attributes": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "12"
+    ],
+    "MinimumThicknessValues": [
+      "10"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "42,9"
+    ],
+    "InnerDiameter": [
+      "136"
+    ],
+    "OuterDiameter": [
+      "240"
+    ],
+    "BoltHoleCircle": [
+      "108"
+    ],
+    "NumberOfHoles": [
+      "04/04"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "63,6"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "04/04"
+    ],
+    "WheelBoltBoreDiameter": [
+      "13,8"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [
+      "3,6"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

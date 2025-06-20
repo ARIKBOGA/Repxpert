@@ -1,0 +1,88 @@
+{
+  "reference": "92157003",
+  "id": "92157003",
+  "name": "Fren diski PRO",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "CITROËN": [
+      "1611841980",
+      "1618865180",
+      "424924",
+      "424925",
+      "424992",
+      "4249K0"
+    ],
+    "FIAT": [
+      "1440027088",
+      "9467548488",
+      "9467548587",
+      "9467548588"
+    ],
+    "PEUGEOT": [
+      "1618865180",
+      "1687772380",
+      "424924",
+      "424925",
+      "424992",
+      "4249K0"
+    ],
+    "TOYOTA": [
+      "SU001A1064"
+    ]
+  },
+  "eanNumber": "4019722470059",
+  "attributes": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "28"
+    ],
+    "MinimumThicknessValues": [
+      "26"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "48"
+    ],
+    "InnerDiameter": [
+      "145,7"
+    ],
+    "OuterDiameter": [
+      "304"
+    ],
+    "BoltHoleCircle": [
+      "108"
+    ],
+    "NumberOfHoles": [
+      "05/08"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "71"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "05/08"
+    ],
+    "WheelBoltBoreDiameter": [
+      "13,3"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [
+      "9,7"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

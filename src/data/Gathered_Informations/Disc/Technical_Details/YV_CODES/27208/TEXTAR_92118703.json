@@ -1,0 +1,87 @@
+{
+  "reference": "92118703",
+  "id": "92118703",
+  "name": "Fren diski PRO",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "CADILLAC": [
+      "95526645"
+    ],
+    "FIAT": [
+      "46836491",
+      "46844071",
+      "51819733"
+    ],
+    "OPEL": [
+      "569003",
+      "93171497",
+      "95526645"
+    ],
+    "PUMA": [
+      "09A22210"
+    ],
+    "SAAB": [
+      "9156807"
+    ],
+    "VAUXHALL": [
+      "569003",
+      "93171497",
+      "95526645"
+    ]
+  },
+  "eanNumber": "4019722301742",
+  "attributes": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "24,9"
+    ],
+    "MinimumThicknessValues": [
+      "22"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "42,1"
+    ],
+    "InnerDiameter": [
+      "139"
+    ],
+    "OuterDiameter": [
+      "285"
+    ],
+    "BoltHoleCircle": [
+      "110"
+    ],
+    "NumberOfHoles": [
+      "05/08"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "70"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "05/08"
+    ],
+    "WheelBoltBoreDiameter": [
+      "14,2"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [
+      "6,9"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

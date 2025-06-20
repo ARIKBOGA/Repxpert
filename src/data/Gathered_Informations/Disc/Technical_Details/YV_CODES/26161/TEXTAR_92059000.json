@@ -1,0 +1,73 @@
+{
+  "reference": "92059000",
+  "id": "92059000",
+  "name": "Fren diski",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "FORD": [
+      "1954433",
+      "1954434"
+    ],
+    "NISSAN": [
+      "402060F000",
+      "402060F001",
+      "4020631G00",
+      "4020631G01",
+      "402063S600",
+      "40206VJ200"
+    ]
+  },
+  "eanNumber": "4019722112942",
+  "attributes": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "26"
+    ],
+    "MinimumThicknessValues": [
+      "24"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "39"
+    ],
+    "InnerDiameter": [
+      "163,9"
+    ],
+    "OuterDiameter": [
+      "277"
+    ],
+    "BoltHoleCircle": [
+      "124"
+    ],
+    "NumberOfHoles": [
+      "06/06"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "100"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "06/06"
+    ],
+    "WheelBoltBoreDiameter": [
+      "10"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [
+      "7,2"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

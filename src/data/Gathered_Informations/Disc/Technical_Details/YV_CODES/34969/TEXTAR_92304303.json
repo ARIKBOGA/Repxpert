@@ -1,0 +1,64 @@
+{
+  "reference": "92304303",
+  "id": "2276801-3043-00",
+  "name": "Fren takımı, diskli fren Virtual Brake Set",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "LEXUS": [
+      "0446516130",
+      "0446576010",
+      "4351276010"
+    ],
+    "TOYOTA": [
+      "0446506150",
+      "0446506160",
+      "044650A010",
+      "044650E060",
+      "0446530520",
+      "0446533480",
+      "04465F4030",
+      "04465VT020",
+      "4351206170",
+      "4351206200",
+      "4351233150",
+      "43512F4030"
+    ],
+    "TOYOTA (GAC)": [
+      "0446506150",
+      "4351206170"
+    ]
+  },
+  "eanNumber": "",
+  "attributes": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "28"
+    ],
+    "MinimumThicknessValues": [],
+    "Surface": [],
+    "HeightValues": [],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "305"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

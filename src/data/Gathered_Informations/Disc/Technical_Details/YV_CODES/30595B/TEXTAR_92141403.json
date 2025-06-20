@@ -1,0 +1,68 @@
+{
+  "reference": "92141403",
+  "id": "92141403",
+  "name": "Fren diski PRO",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "RENAULT": [
+      "7701206327",
+      "7701206328",
+      "8671018263"
+    ]
+  },
+  "eanNumber": "4019722309793",
+  "attributes": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "11"
+    ],
+    "MinimumThicknessValues": [
+      "9,5"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "82,3"
+    ],
+    "InnerDiameter": [
+      "142"
+    ],
+    "OuterDiameter": [
+      "274"
+    ],
+    "BoltHoleCircle": [
+      "100"
+    ],
+    "NumberOfHoles": [
+      "04/04"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "ABS sensör halkası ile, Tekerlek rulmanı ile, Tekerlek bijon saplaması yok, Poyra ile"
+    ],
+    "CenteringDiameter": [
+      "52,3"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "04/04"
+    ],
+    "WheelBoltBoreDiameter": [
+      "12"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [
+      "7,6"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

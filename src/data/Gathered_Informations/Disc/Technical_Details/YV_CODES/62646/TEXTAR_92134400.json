@@ -1,0 +1,65 @@
+{
+  "reference": "92134400",
+  "id": "92134400",
+  "name": "Fren diski",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "LAND ROVER": [
+      "SDB000200",
+      "SDB000201"
+    ]
+  },
+  "eanNumber": "4019722272066",
+  "attributes": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "30"
+    ],
+    "MinimumThicknessValues": [
+      "28,4"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "75,8"
+    ],
+    "InnerDiameter": [
+      "173"
+    ],
+    "OuterDiameter": [
+      "344"
+    ],
+    "BoltHoleCircle": [
+      "120"
+    ],
+    "NumberOfHoles": [
+      "05/06"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "79"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "05/06"
+    ],
+    "WheelBoltBoreDiameter": [
+      "16,6"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [
+      "12,3"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

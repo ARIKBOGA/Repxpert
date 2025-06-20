@@ -1,0 +1,69 @@
+{
+  "reference": "92136700",
+  "id": "92136700",
+  "name": "Fren diski",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "KIA": [
+      "517120S100",
+      "517122F100"
+    ],
+    "MERCEDES-BENZ": [
+      "9024234312",
+      "A9024234312"
+    ]
+  },
+  "eanNumber": "4019722272295",
+  "attributes": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "26"
+    ],
+    "MinimumThicknessValues": [
+      "24"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "47,3"
+    ],
+    "InnerDiameter": [
+      "141,6"
+    ],
+    "OuterDiameter": [
+      "275"
+    ],
+    "BoltHoleCircle": [
+      "114,3"
+    ],
+    "NumberOfHoles": [
+      "04/08"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "69"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "04/08"
+    ],
+    "WheelBoltBoreDiameter": [
+      "13"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [
+      "6,4"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

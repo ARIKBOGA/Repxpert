@@ -1,0 +1,67 @@
+{
+  "reference": "92044000",
+  "id": "92044000",
+  "name": "Fren diski",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "ALFA ROMEO": [
+      "0060501453",
+      "130474",
+      "60501453",
+      "71739636"
+    ]
+  },
+  "eanNumber": "4019722111518",
+  "attributes": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "12,5"
+    ],
+    "MinimumThicknessValues": [
+      "9"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "46"
+    ],
+    "InnerDiameter": [
+      "127,7"
+    ],
+    "OuterDiameter": [
+      "239"
+    ],
+    "BoltHoleCircle": [
+      "98"
+    ],
+    "NumberOfHoles": [
+      "04/05"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "58,5"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "04/05"
+    ],
+    "WheelBoltBoreDiameter": [
+      "13"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [
+      "3,8"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

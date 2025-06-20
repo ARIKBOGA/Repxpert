@@ -1,0 +1,67 @@
+{
+  "reference": "92303503",
+  "id": "92303503",
+  "name": "Fren diski PRO",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "FORD": [
+      "2196429",
+      "JX612A315AEA"
+    ]
+  },
+  "eanNumber": "4019722528712",
+  "attributes": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "11"
+    ],
+    "MinimumThicknessValues": [
+      "9"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "40,6"
+    ],
+    "InnerDiameter": [
+      "156"
+    ],
+    "OuterDiameter": [
+      "271"
+    ],
+    "BoltHoleCircle": [
+      "108"
+    ],
+    "NumberOfHoles": [
+      "05/05"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "63,5"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "05/05"
+    ],
+    "WheelBoltBoreDiameter": [
+      "13,5"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [
+      "4"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

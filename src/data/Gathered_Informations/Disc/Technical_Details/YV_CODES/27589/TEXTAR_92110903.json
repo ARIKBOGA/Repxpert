@@ -1,0 +1,89 @@
+{
+  "reference": "92110903",
+  "id": "92110903",
+  "name": "Fren diski PRO",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "IME": [
+      "672910"
+    ],
+    "KAROSA": [
+      "672910"
+    ],
+    "LEYLAND": [
+      "09936911"
+    ],
+    "OPEL": [
+      "569061",
+      "9194477",
+      "95526651"
+    ],
+    "SAAB": [
+      "4567798",
+      "5055389",
+      "5084769",
+      "5122833",
+      "5391560"
+    ],
+    "VAUXHALL": [
+      "9184405",
+      "9194477",
+      "95526651"
+    ]
+  },
+  "eanNumber": "4019722301841",
+  "attributes": {
+    "Type": [
+      "Dıştan havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "25"
+    ],
+    "MinimumThicknessValues": [
+      "22"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "42"
+    ],
+    "InnerDiameter": [
+      "139"
+    ],
+    "OuterDiameter": [
+      "308"
+    ],
+    "BoltHoleCircle": [
+      "110"
+    ],
+    "NumberOfHoles": [
+      "05/08"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "70"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "05/08"
+    ],
+    "WheelBoltBoreDiameter": [
+      "14,1"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [
+      "8,2"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

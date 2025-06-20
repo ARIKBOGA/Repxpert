@@ -1,0 +1,76 @@
+{
+  "reference": "92100603",
+  "id": "92100603",
+  "name": "Fren diski PRO",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "VOLVO": [
+      "272404",
+      "2724045",
+      "274170",
+      "2741700",
+      "2741702",
+      "274559",
+      "31262707",
+      "31262716",
+      "31400740",
+      "31400741",
+      "31471827"
+    ]
+  },
+  "eanNumber": "4019722301766",
+  "attributes": {
+    "Type": [
+      "Dıştan havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "28"
+    ],
+    "MinimumThicknessValues": [
+      "25"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "50,3"
+    ],
+    "InnerDiameter": [
+      "139,4"
+    ],
+    "OuterDiameter": [
+      "305"
+    ],
+    "BoltHoleCircle": [
+      "108"
+    ],
+    "NumberOfHoles": [
+      "05/10"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "68"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "05/10"
+    ],
+    "WheelBoltBoreDiameter": [
+      "16,8"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [
+      "9,4"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

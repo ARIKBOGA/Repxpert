@@ -1,0 +1,81 @@
+{
+  "reference": "92118503",
+  "id": "92118503",
+  "name": "Fren diski PRO",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "FIAT": [
+      "46836489",
+      "51799236",
+      "9156787"
+    ],
+    "OPEL": [
+      "569115",
+      "93171848",
+      "95526639"
+    ],
+    "SAAB": [
+      "12762290",
+      "9156785",
+      "93188377"
+    ],
+    "VAUXHALL": [
+      "95526639"
+    ]
+  },
+  "eanNumber": "4019722301797",
+  "attributes": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "12"
+    ],
+    "MinimumThicknessValues": [
+      "10"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "41,5"
+    ],
+    "InnerDiameter": [
+      "148,6"
+    ],
+    "OuterDiameter": [
+      "278"
+    ],
+    "BoltHoleCircle": [
+      "110"
+    ],
+    "NumberOfHoles": [
+      "05/08"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "65,5"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "05/08"
+    ],
+    "WheelBoltBoreDiameter": [
+      "14,3"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [
+      "4,5"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

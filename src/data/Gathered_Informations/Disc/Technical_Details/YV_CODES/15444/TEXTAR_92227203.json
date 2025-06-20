@@ -1,0 +1,68 @@
+{
+  "reference": "92227203",
+  "id": "92227203",
+  "name": "Fren diski PRO",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "HONDA": [
+      "42510SWWG01",
+      "42510T1GG00",
+      "42510T1GG01"
+    ]
+  },
+  "eanNumber": "4019722454134",
+  "attributes": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "10"
+    ],
+    "MinimumThicknessValues": [
+      "8"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "60,7"
+    ],
+    "InnerDiameter": [
+      "200"
+    ],
+    "OuterDiameter": [
+      "302"
+    ],
+    "BoltHoleCircle": [
+      "114,3"
+    ],
+    "NumberOfHoles": [
+      "05/10"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "64,1"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "05/10"
+    ],
+    "WheelBoltBoreDiameter": [
+      "12,6"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [
+      "5,2"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

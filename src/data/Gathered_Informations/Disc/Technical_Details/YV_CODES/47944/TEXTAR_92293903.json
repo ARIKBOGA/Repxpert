@@ -1,0 +1,83 @@
+{
+  "reference": "92293903",
+  "id": "92293903",
+  "name": "Fren diski PRO",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "FIAT": [
+      "51937304"
+    ],
+    "JEEP": [
+      "51963548",
+      "52056675",
+      "53409035",
+      "68249840AA",
+      "68254087AA",
+      "68254087AB",
+      "K68249840AA",
+      "K68249840AB",
+      "K68254087AA",
+      "K68254087AB",
+      "K68350239AA"
+    ],
+    "JEEP (GAC FCA)": [
+      "53376436",
+      "68249840AA"
+    ]
+  },
+  "eanNumber": "4019722496158",
+  "attributes": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "28"
+    ],
+    "MinimumThicknessValues": [
+      "26"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "39,7"
+    ],
+    "InnerDiameter": [
+      "138"
+    ],
+    "OuterDiameter": [
+      "305"
+    ],
+    "BoltHoleCircle": [
+      "110"
+    ],
+    "NumberOfHoles": [
+      "05/10"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "70"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "05/10"
+    ],
+    "WheelBoltBoreDiameter": [
+      "16,6"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [
+      "8,5"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

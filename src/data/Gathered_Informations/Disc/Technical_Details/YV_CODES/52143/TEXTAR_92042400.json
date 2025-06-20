@@ -1,0 +1,75 @@
+{
+  "reference": "92042400",
+  "id": "92042400",
+  "name": "Fren diski",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "BMW": [
+      "1155322",
+      "1157391",
+      "1158038",
+      "1158039",
+      "1159896",
+      "34111155322",
+      "34111157391",
+      "34111158038",
+      "34111158039",
+      "34111159896",
+      "34116756090",
+      "6756090"
+    ]
+  },
+  "eanNumber": "4019722111327",
+  "attributes": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "28"
+    ],
+    "MinimumThicknessValues": [
+      "26,4"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "76"
+    ],
+    "InnerDiameter": [
+      "148,5"
+    ],
+    "OuterDiameter": [
+      "302"
+    ],
+    "BoltHoleCircle": [
+      "120"
+    ],
+    "NumberOfHoles": [
+      "05/07"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "79"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "05/07"
+    ],
+    "WheelBoltBoreDiameter": [
+      "14,5"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [
+      "8,1"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

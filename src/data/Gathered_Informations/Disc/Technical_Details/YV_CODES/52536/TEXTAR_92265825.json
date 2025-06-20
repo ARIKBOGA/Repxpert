@@ -1,0 +1,73 @@
+{
+  "reference": "92265825",
+  "id": "92265825",
+  "name": "Fren diski PRO+",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "BMW": [
+      "34106883506",
+      "34116794429",
+      "34116896652",
+      "6794429",
+      "6883506",
+      "6896652"
+    ]
+  },
+  "eanNumber": "4019722471476",
+  "attributes": {
+    "Type": [
+      "içten havalandırmalı, İki parçalı fren diski"
+    ],
+    "ThicknessValues": [
+      "24"
+    ],
+    "MinimumThicknessValues": [
+      "22,4"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "66,1"
+    ],
+    "InnerDiameter": [
+      "172"
+    ],
+    "OuterDiameter": [
+      "330"
+    ],
+    "BoltHoleCircle": [
+      "120"
+    ],
+    "NumberOfHoles": [
+      "05/06"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok, Cıvatalar ile"
+    ],
+    "CenteringDiameter": [
+      "75"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "05/06"
+    ],
+    "WheelBoltBoreDiameter": [
+      "16,5"
+    ],
+    "Machining": [
+      "Yüksek karbonlu"
+    ],
+    "TighteningTorque": [],
+    "Weight": [
+      "8,2"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

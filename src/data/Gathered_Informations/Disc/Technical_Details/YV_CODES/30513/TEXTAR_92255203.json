@@ -1,0 +1,78 @@
+{
+  "reference": "92255203",
+  "id": "92255203",
+  "name": "Fren diski PRO",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "DACIA": [
+      "402063149R",
+      "402065054R",
+      "8660003934"
+    ],
+    "RENAULT": [
+      "402062212R",
+      "402066839R",
+      "402067615R",
+      "402069119R"
+    ],
+    "SMART": [
+      "4534200100",
+      "A4534200100"
+    ]
+  },
+  "eanNumber": "4019722456183",
+  "attributes": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "22"
+    ],
+    "MinimumThicknessValues": [
+      "19,8"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "44"
+    ],
+    "InnerDiameter": [
+      "126,5"
+    ],
+    "OuterDiameter": [
+      "258"
+    ],
+    "BoltHoleCircle": [
+      "100"
+    ],
+    "NumberOfHoles": [
+      "04/06"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "61"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "04/06"
+    ],
+    "WheelBoltBoreDiameter": [
+      "13,5"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [
+      "4,6"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "reference": "92267703",
+  "id": "92267703",
+  "name": "Fren diski PRO",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "MAZDA": [
+      "B45G26251A",
+      "B45G26251B",
+      "BJS726251A",
+      "BJS726251B"
+    ],
+    "MAZDA (CHANGAN)": [
+      "BKC326251"
+    ]
+  },
+  "eanNumber": "4019722468889",
+  "attributes": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "9"
+    ],
+    "MinimumThicknessValues": [
+      "7"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "39"
+    ],
+    "InnerDiameter": [
+      "142,8"
+    ],
+    "OuterDiameter": [
+      "265"
+    ],
+    "BoltHoleCircle": [
+      "114,3"
+    ],
+    "NumberOfHoles": [
+      "05/06"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "68"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "05/06"
+    ],
+    "WheelBoltBoreDiameter": [
+      "13,3"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [
+      "3,5"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

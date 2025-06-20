@@ -1,0 +1,84 @@
+{
+  "reference": "92029803",
+  "id": "92029803",
+  "name": "Fren diski PRO",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "CITROËN": [
+      "1618859680",
+      "169001",
+      "424689",
+      "4246A5",
+      "424995",
+      "91508338",
+      "95661748",
+      "96070525",
+      "E169001"
+    ],
+    "PEUGEOT": [
+      "1618859680",
+      "424689",
+      "4246A5",
+      "424995",
+      "91508338",
+      "95661748",
+      "96070525",
+      "E169001"
+    ]
+  },
+  "eanNumber": "4019722308680",
+  "attributes": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "10"
+    ],
+    "MinimumThicknessValues": [
+      "8"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "34"
+    ],
+    "InnerDiameter": [
+      "133"
+    ],
+    "OuterDiameter": [
+      "247"
+    ],
+    "BoltHoleCircle": [
+      "108"
+    ],
+    "NumberOfHoles": [
+      "04/06"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "66"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "04/06"
+    ],
+    "WheelBoltBoreDiameter": [
+      "13"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [
+      "3,1"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

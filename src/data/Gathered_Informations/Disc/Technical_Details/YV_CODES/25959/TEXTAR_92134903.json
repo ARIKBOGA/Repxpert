@@ -1,0 +1,72 @@
+{
+  "reference": "92134903",
+  "id": "92134903",
+  "name": "Fren diski PRO",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "MITSUBISHI": [
+      "4605A076",
+      "M4605A076",
+      "MR569974"
+    ],
+    "SMART": [
+      "4544200072",
+      "A4544200072"
+    ]
+  },
+  "eanNumber": "4019722302565",
+  "attributes": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "10"
+    ],
+    "MinimumThicknessValues": [
+      "8"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "38,4"
+    ],
+    "InnerDiameter": [
+      "146,5"
+    ],
+    "OuterDiameter": [
+      "250"
+    ],
+    "BoltHoleCircle": [
+      "114,3"
+    ],
+    "NumberOfHoles": [
+      "04/06"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "69"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "04/06"
+    ],
+    "WheelBoltBoreDiameter": [
+      "12,8"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [
+      "3,2"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

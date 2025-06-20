@@ -1,0 +1,71 @@
+{
+  "reference": "92169403",
+  "id": "92169403",
+  "name": "Fren diski PRO",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "JEEP": [
+      "2AMV8184AA",
+      "52008184",
+      "52008184AB",
+      "5208184AB",
+      "K52008184AB",
+      "K5208184AB"
+    ]
+  },
+  "eanNumber": "4019722312205",
+  "attributes": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "11"
+    ],
+    "MinimumThicknessValues": [
+      "9,5"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "59,2"
+    ],
+    "InnerDiameter": [
+      "184"
+    ],
+    "OuterDiameter": [
+      "285"
+    ],
+    "BoltHoleCircle": [
+      "114,3"
+    ],
+    "NumberOfHoles": [
+      "05/05"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "72"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "05/05"
+    ],
+    "WheelBoltBoreDiameter": [
+      "15,6"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [
+      "5,1"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "reference": "92100303",
+  "id": "92100303",
+  "name": "Fren diski PRO",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "DAEWOO": [
+      "96254392",
+      "96284392",
+      "96320531",
+      "96455424"
+    ]
+  },
+  "eanNumber": "4019722472329",
+  "attributes": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "12,5"
+    ],
+    "MinimumThicknessValues": [
+      "9,7"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "35,3"
+    ],
+    "InnerDiameter": [
+      "107"
+    ],
+    "OuterDiameter": [
+      "236"
+    ],
+    "BoltHoleCircle": [
+      "102"
+    ],
+    "NumberOfHoles": [
+      "04/04"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "86,1"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "04/04"
+    ],
+    "WheelBoltBoreDiameter": [
+      "10"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [
+      "3,6"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

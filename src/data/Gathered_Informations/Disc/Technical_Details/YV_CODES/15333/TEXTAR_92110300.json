@@ -1,0 +1,77 @@
+{
+  "reference": "92110300",
+  "id": "92110300",
+  "name": "Fren diski",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "HONDA": [
+      "45251S2G000",
+      "45251S50G00",
+      "45251S50J00",
+      "45251S50J01",
+      "45251SAAG00",
+      "45251SAAG10",
+      "45251SAAG11",
+      "45251SAAG12",
+      "45251SELT00",
+      "45251SELT10",
+      "45251SENH20"
+    ],
+    "HONDA (GAC)": [
+      "45251SENH30"
+    ]
+  },
+  "eanNumber": "4019722253171",
+  "attributes": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "21"
+    ],
+    "MinimumThicknessValues": [
+      "19"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "39,2"
+    ],
+    "InnerDiameter": [
+      "126"
+    ],
+    "OuterDiameter": [
+      "240"
+    ],
+    "BoltHoleCircle": [
+      "100"
+    ],
+    "NumberOfHoles": [
+      "04/08"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "61"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "04/08"
+    ],
+    "WheelBoltBoreDiameter": [
+      "13"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [
+      "4,2"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

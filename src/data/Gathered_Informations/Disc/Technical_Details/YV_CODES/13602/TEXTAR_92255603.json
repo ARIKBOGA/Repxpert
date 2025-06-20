@@ -1,0 +1,91 @@
+{
+  "reference": "92255603",
+  "id": "92255603",
+  "name": "Fren diski PRO",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "FORD": [
+      "1223566",
+      "1223568",
+      "1253962",
+      "1253963",
+      "1323551",
+      "1373361",
+      "1469081",
+      "1500156",
+      "2025944",
+      "3M512A315DA",
+      "3M512A315DB",
+      "3M512A315E1D",
+      "3M512A315EA",
+      "3M512A315EB",
+      "3M512A315EC",
+      "3M512A315ED",
+      "7M512A315BA",
+      "ME7M5J2A315BA"
+    ],
+    "VOLVO": [
+      "30666802",
+      "30769113",
+      "31341645",
+      "31341646",
+      "31471039",
+      "31499632"
+    ]
+  },
+  "eanNumber": "4019722456220",
+  "attributes": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "10,9"
+    ],
+    "MinimumThicknessValues": [
+      "9"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "40,8"
+    ],
+    "InnerDiameter": [
+      "154"
+    ],
+    "OuterDiameter": [
+      "280"
+    ],
+    "BoltHoleCircle": [
+      "108"
+    ],
+    "NumberOfHoles": [
+      "05/06"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "63,6"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "05/06"
+    ],
+    "WheelBoltBoreDiameter": [
+      "13,8"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [
+      "4,5"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

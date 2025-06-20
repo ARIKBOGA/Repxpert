@@ -1,0 +1,71 @@
+{
+  "reference": "92036203",
+  "id": "92036203",
+  "name": "Fren diski PRO",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "NISSAN": [
+      "4020600Q0D",
+      "4020600QAJ"
+    ],
+    "RENAULT": [
+      "7700756572",
+      "7701204286"
+    ]
+  },
+  "eanNumber": "4019722308628",
+  "attributes": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "20,1"
+    ],
+    "MinimumThicknessValues": [
+      "17,7"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "41,2"
+    ],
+    "InnerDiameter": [
+      "131,5"
+    ],
+    "OuterDiameter": [
+      "238"
+    ],
+    "BoltHoleCircle": [
+      "100"
+    ],
+    "NumberOfHoles": [
+      "04/06"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "61"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "04/06"
+    ],
+    "WheelBoltBoreDiameter": [
+      "12,7"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [
+      "3,9"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

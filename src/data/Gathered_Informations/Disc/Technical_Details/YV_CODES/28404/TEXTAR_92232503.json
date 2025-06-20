@@ -1,0 +1,102 @@
+{
+  "reference": "92232503",
+  "id": "92232503",
+  "name": "Fren diski PRO",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "CITROËN": [
+      "1606308680",
+      "1618862580",
+      "1667857280",
+      "1687773380",
+      "4246F4",
+      "4246F6",
+      "4246L0",
+      "4246N8",
+      "4246P7",
+      "4246V4",
+      "4249G7",
+      "4249L3",
+      "95661813",
+      "96099616"
+    ],
+    "PEUGEOT": [
+      "00004249L3",
+      "1606308680",
+      "1618862580",
+      "1667857280",
+      "1669577380",
+      "4246F4",
+      "4246F5",
+      "4246F6",
+      "4246L0",
+      "4246N8",
+      "4246P7",
+      "4246V4",
+      "4249G7",
+      "4249L3",
+      "95661813",
+      "96099616",
+      "E169147",
+      "E169513"
+    ],
+    "PEUGEOT (DF-PSA)": [
+      "9800181480"
+    ]
+  },
+  "eanNumber": "4019722431654",
+  "attributes": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "26"
+    ],
+    "MinimumThicknessValues": [
+      "24"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "48"
+    ],
+    "InnerDiameter": [
+      "133,1"
+    ],
+    "OuterDiameter": [
+      "283"
+    ],
+    "BoltHoleCircle": [
+      "108"
+    ],
+    "NumberOfHoles": [
+      "05/08"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "71,1"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "05/08"
+    ],
+    "WheelBoltBoreDiameter": [
+      "13,5"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [
+      "7,1"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

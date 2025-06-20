@@ -1,0 +1,68 @@
+{
+  "reference": "93177703",
+  "id": "93177703",
+  "name": "Fren diski PRO",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "IVECO": [
+      "2996049",
+      "5802729163",
+      "7186848"
+    ]
+  },
+  "eanNumber": "4019722312984",
+  "attributes": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "28"
+    ],
+    "MinimumThicknessValues": [
+      "25"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "132"
+    ],
+    "InnerDiameter": [
+      "190"
+    ],
+    "OuterDiameter": [
+      "306"
+    ],
+    "BoltHoleCircle": [
+      "215"
+    ],
+    "NumberOfHoles": [
+      "06/06"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "178,2"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "06/06"
+    ],
+    "WheelBoltBoreDiameter": [
+      "10"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [
+      "13"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

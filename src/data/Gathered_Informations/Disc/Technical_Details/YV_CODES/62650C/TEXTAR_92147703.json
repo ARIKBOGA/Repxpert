@@ -1,0 +1,72 @@
+{
+  "reference": "92147703",
+  "id": "92147703",
+  "name": "Fren diski PRO",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "LAND ROVER": [
+      "4H221027EA",
+      "4H221027EB",
+      "LR189034",
+      "SDB000644",
+      "SDB000645",
+      "SDB000646",
+      "SDB500160"
+    ]
+  },
+  "eanNumber": "4019722436505",
+  "attributes": {
+    "Type": [
+      "Dıştan havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "20"
+    ],
+    "MinimumThicknessValues": [
+      "17"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "59"
+    ],
+    "InnerDiameter": [
+      "210"
+    ],
+    "OuterDiameter": [
+      "350"
+    ],
+    "BoltHoleCircle": [
+      "120"
+    ],
+    "NumberOfHoles": [
+      "05/07"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "79"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "05/07"
+    ],
+    "WheelBoltBoreDiameter": [
+      "15"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [
+      "8,8"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

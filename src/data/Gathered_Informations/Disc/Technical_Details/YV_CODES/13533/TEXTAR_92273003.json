@@ -1,0 +1,77 @@
+{
+  "reference": "92273003",
+  "id": "92273003",
+  "name": "Fren diski PRO",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "FORD": [
+      "1763884",
+      "1842633",
+      "1867729",
+      "2110014",
+      "2110200",
+      "2256034",
+      "BK211125A1D",
+      "BK211125AB",
+      "BK211125AC",
+      "BK211125AD",
+      "BK211125DA",
+      "BK211125DB"
+    ]
+  },
+  "eanNumber": "4019722481475",
+  "attributes": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "33"
+    ],
+    "MinimumThicknessValues": [
+      "30"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "55,5"
+    ],
+    "InnerDiameter": [
+      "136"
+    ],
+    "OuterDiameter": [
+      "308"
+    ],
+    "BoltHoleCircle": [
+      "111,5"
+    ],
+    "NumberOfHoles": [
+      "05/05"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "93"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "05/05"
+    ],
+    "WheelBoltBoreDiameter": [
+      "8,5"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [
+      "11,5"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

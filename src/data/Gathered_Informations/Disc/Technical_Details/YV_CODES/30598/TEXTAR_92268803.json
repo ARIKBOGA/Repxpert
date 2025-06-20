@@ -1,0 +1,81 @@
+{
+  "reference": "92268803",
+  "id": "92268803",
+  "name": "Fren diski PRO",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "FIAT": [
+      "6000619994"
+    ],
+    "NISSAN": [
+      "4020600Q1C"
+    ],
+    "OPEL": [
+      "4422285",
+      "93866700"
+    ],
+    "RENAULT": [
+      "402066352R",
+      "8660003955"
+    ],
+    "VAUXHALL": [
+      "4422285",
+      "93866700"
+    ]
+  },
+  "eanNumber": "4019722477652",
+  "attributes": {
+    "Type": [
+      "Dıştan havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "28"
+    ],
+    "MinimumThicknessValues": [
+      "23,4"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "44"
+    ],
+    "InnerDiameter": [
+      "147,8"
+    ],
+    "OuterDiameter": [
+      "296"
+    ],
+    "BoltHoleCircle": [
+      "114,3"
+    ],
+    "NumberOfHoles": [
+      "05/07"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "68"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "05/07"
+    ],
+    "WheelBoltBoreDiameter": [
+      "15,7"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [
+      "9"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

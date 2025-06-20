@@ -1,0 +1,84 @@
+{
+  "reference": "92242903",
+  "id": "92242903",
+  "name": "Fren diski PRO",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "HYUNDAI": [
+      "517122P700",
+      "517122W700",
+      "S517122P700",
+      "S517122W700"
+    ],
+    "IME": [
+      "6151410"
+    ],
+    "KAROSA": [
+      "6151410"
+    ],
+    "KIA": [
+      "517122P700",
+      "517122W700",
+      "S517122P700",
+      "S517122W700"
+    ],
+    "LEYLAND": [
+      "09B61410"
+    ]
+  },
+  "eanNumber": "4019722486272",
+  "attributes": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "28"
+    ],
+    "MinimumThicknessValues": [
+      "26,4"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "49,2"
+    ],
+    "InnerDiameter": [
+      "142,9"
+    ],
+    "OuterDiameter": [
+      "321"
+    ],
+    "BoltHoleCircle": [
+      "114,3"
+    ],
+    "NumberOfHoles": [
+      "05/07"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "69"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "05/07"
+    ],
+    "WheelBoltBoreDiameter": [
+      "12,5"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [
+      "10,8"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "reference": "92157303",
+  "id": "92157303",
+  "name": "Fren diski PRO",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "CITROËN": [
+      "1607872380",
+      "1611841280",
+      "1612435380",
+      "1612435480",
+      "1618864580",
+      "424937",
+      "424938",
+      "4249A6"
+    ],
+    "FIAT": [
+      "51705758",
+      "51740249",
+      "51957509",
+      "51957510",
+      "6001073176",
+      "71773409"
+    ],
+    "PEUGEOT": [
+      "1612435380",
+      "1612435480",
+      "1618864580",
+      "424937",
+      "424938",
+      "4249A6"
+    ],
+    "RAM": [
+      "68195026AA"
+    ]
+  },
+  "eanNumber": "4019722480997",
+  "attributes": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "32"
+    ],
+    "MinimumThicknessValues": [
+      "29,9"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "73,5"
+    ],
+    "InnerDiameter": [
+      "161"
+    ],
+    "OuterDiameter": [
+      "300"
+    ],
+    "BoltHoleCircle": [
+      "130"
+    ],
+    "NumberOfHoles": [
+      "05/10"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "80"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "05/10"
+    ],
+    "WheelBoltBoreDiameter": [
+      "17,8"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [
+      "10,5"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

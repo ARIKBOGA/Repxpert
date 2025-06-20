@@ -1,0 +1,77 @@
+{
+  "reference": "92055703",
+  "id": "92055703",
+  "name": "Fren diski PRO",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "BMW": [
+      "1158936",
+      "1162289",
+      "1164511",
+      "1165457",
+      "34211158936",
+      "34211162289",
+      "34211164511",
+      "34211165457",
+      "34216855158",
+      "34216864051",
+      "6855158",
+      "6864051"
+    ]
+  },
+  "eanNumber": "4019722301247",
+  "attributes": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "9,9"
+    ],
+    "MinimumThicknessValues": [
+      "8,4"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "60,1"
+    ],
+    "InnerDiameter": [
+      "160,9"
+    ],
+    "OuterDiameter": [
+      "280"
+    ],
+    "BoltHoleCircle": [
+      "120"
+    ],
+    "NumberOfHoles": [
+      "05/06"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "75"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "05/06"
+    ],
+    "WheelBoltBoreDiameter": [
+      "14,6"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [
+      "4,5"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

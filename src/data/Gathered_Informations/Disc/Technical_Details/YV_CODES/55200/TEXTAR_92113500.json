@@ -1,0 +1,72 @@
+{
+  "reference": "92113500",
+  "id": "92113500",
+  "name": "Fren diski",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "JEEP": [
+      "05015965AA",
+      "2AMV5965AA",
+      "5015965AA",
+      "52005000",
+      "52007710",
+      "52008264",
+      "52008440",
+      "K5015965AA",
+      "V5015965AA"
+    ]
+  },
+  "eanNumber": "4019722257346",
+  "attributes": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "24"
+    ],
+    "MinimumThicknessValues": [
+      "22,7"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "81,5"
+    ],
+    "InnerDiameter": [
+      "158,8"
+    ],
+    "OuterDiameter": [
+      "280"
+    ],
+    "BoltHoleCircle": [
+      "114,3"
+    ],
+    "NumberOfHoles": [
+      "05/05"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "72"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "05/05"
+    ],
+    "WheelBoltBoreDiameter": [
+      "15,5"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [
+      "6,5"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

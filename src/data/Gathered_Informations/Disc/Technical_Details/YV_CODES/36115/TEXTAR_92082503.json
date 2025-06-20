@@ -1,0 +1,128 @@
+{
+  "reference": "92082503",
+  "id": "92082503",
+  "name": "Fren diski PRO",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "AUDI": [
+      "1J0615601",
+      "1J0615601C",
+      "1J0615601N",
+      "1J0615601P",
+      "1J0615601Q",
+      "1JE615601",
+      "2Q0615601H",
+      "JZW698601AD",
+      "JZW698601AJ"
+    ],
+    "SEAT": [
+      "1J0615601",
+      "1J0615601C",
+      "1J0615601N",
+      "1J0615601P",
+      "1J0615601Q",
+      "1JE615601",
+      "2Q0615601H",
+      "JZW698601AD",
+      "JZW698601AJ"
+    ],
+    "SKODA": [
+      "1J0615601",
+      "1J0615601C",
+      "1J0615601N",
+      "1J0615601P",
+      "1J0615601Q",
+      "1JE615601",
+      "2Q0615601H",
+      "JZW698601AD",
+      "JZW698601AJ"
+    ],
+    "SKODA (SVW)": [
+      "6QD615601A",
+      "6QD615601B"
+    ],
+    "VW": [
+      "1J0615601",
+      "1J0615601C",
+      "1J0615601N",
+      "1J0615601P",
+      "1J0615601Q",
+      "1JE615601",
+      "2Q0615601H",
+      "JZW698601AC",
+      "JZW698601AD",
+      "JZW698601AE",
+      "JZW698601AG",
+      "JZW698601AH",
+      "JZW698601AJ"
+    ],
+    "VW (FAW)": [
+      "L180615601A"
+    ],
+    "VW (SVW)": [
+      "6QD615601",
+      "6QD615601A",
+      "6QD615601B",
+      "L6QD615601",
+      "L6QD615601A"
+    ],
+    "ZHONGHUA (BRILLIANCE)": [
+      "3496009"
+    ]
+  },
+  "eanNumber": "4019722300653",
+  "attributes": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "9"
+    ],
+    "MinimumThicknessValues": [
+      "7"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "39,5"
+    ],
+    "InnerDiameter": [
+      "124,2"
+    ],
+    "OuterDiameter": [
+      "230"
+    ],
+    "BoltHoleCircle": [
+      "100"
+    ],
+    "NumberOfHoles": [
+      "05/06"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "65"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "05/06"
+    ],
+    "WheelBoltBoreDiameter": [
+      "15,8"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [
+      "2,7"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

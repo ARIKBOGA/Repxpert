@@ -1,0 +1,140 @@
+{
+  "reference": "92120505",
+  "id": "92120505",
+  "name": "Fren diski PRO+",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "AUDI": [
+      "1K0615301AA",
+      "1K0615301D",
+      "561615301",
+      "561615301B",
+      "5C0615301B",
+      "5C0615301E",
+      "5N0615301",
+      "5Q0615301F",
+      "8V0698302B",
+      "JZW615301H"
+    ],
+    "AUDI (FAW)": [
+      "1KD615301D",
+      "3CD615301",
+      "L1KD615301D"
+    ],
+    "CUPRA": [
+      "5Q0615301F"
+    ],
+    "SEAT": [
+      "1K0615301AA",
+      "1K0615301D",
+      "561615301",
+      "561615301B",
+      "5C0615301B",
+      "5C0615301E",
+      "5N0615301",
+      "5Q0615301F",
+      "8V0698302B",
+      "JZW615301H"
+    ],
+    "SKODA": [
+      "1K0615301AA",
+      "1K0615301D",
+      "561615301",
+      "561615301B",
+      "5C0615301B",
+      "5C0615301E",
+      "5N0615301",
+      "5Q0615301F",
+      "8V0698302B",
+      "JZW615301H"
+    ],
+    "SKODA (SVW)": [
+      "3CD615301"
+    ],
+    "VW": [
+      "1K0615301AA",
+      "1K0615301D",
+      "561615301",
+      "561615301A",
+      "561615301B",
+      "5C0615301B",
+      "5C0615301E",
+      "5N0615301",
+      "5Q0615301F",
+      "8V0698302B",
+      "JZW615301H",
+      "JZW698302BC",
+      "JZW698302BH",
+      "JZW698302CG",
+      "JZW698302CN",
+      "5QM615301A"
+    ],
+    "VW (FAW)": [
+      "3CD615301",
+      "L1K0615301AA",
+      "L1KD615301D",
+      "L3CD615301"
+    ],
+    "VW (SVW)": [
+      "1KD615301D",
+      "3CD615301"
+    ]
+  },
+  "eanNumber": "4019722287305",
+  "attributes": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "25"
+    ],
+    "MinimumThicknessValues": [
+      "22"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "49,7"
+    ],
+    "InnerDiameter": [
+      "144"
+    ],
+    "OuterDiameter": [
+      "312"
+    ],
+    "BoltHoleCircle": [
+      "112"
+    ],
+    "NumberOfHoles": [
+      "05/10"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "65"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "05/10"
+    ],
+    "WheelBoltBoreDiameter": [
+      "15,3"
+    ],
+    "Machining": [
+      "Yüksek karbonlu"
+    ],
+    "TighteningTorque": [],
+    "Weight": [
+      "8,6"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

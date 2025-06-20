@@ -1,0 +1,68 @@
+{
+  "reference": "92236003",
+  "id": "92236003",
+  "name": "Fren diski PRO",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "TOYOTA": [
+      "435120K010",
+      "435120K020",
+      "435120K030"
+    ]
+  },
+  "eanNumber": "4019722435881",
+  "attributes": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "28"
+    ],
+    "MinimumThicknessValues": [
+      "26"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "58,5"
+    ],
+    "InnerDiameter": [
+      "141,2"
+    ],
+    "OuterDiameter": [
+      "257"
+    ],
+    "BoltHoleCircle": [
+      "114,3"
+    ],
+    "NumberOfHoles": [
+      "05/07"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "62"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "05/07"
+    ],
+    "WheelBoltBoreDiameter": [
+      "14,4"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [
+      "6"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

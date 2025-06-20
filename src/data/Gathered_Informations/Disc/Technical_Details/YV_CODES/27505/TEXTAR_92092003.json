@@ -1,0 +1,76 @@
+{
+  "reference": "92092003",
+  "id": "92092003",
+  "name": "Fren diski PRO",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "CHEVROLET": [
+      "9117771"
+    ],
+    "OPEL": [
+      "569108",
+      "569111",
+      "90498304",
+      "9117771",
+      "9196587"
+    ],
+    "VAUXHALL": [
+      "9117771"
+    ]
+  },
+  "eanNumber": "4019722301124",
+  "attributes": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "10"
+    ],
+    "MinimumThicknessValues": [
+      "8"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "42"
+    ],
+    "InnerDiameter": [
+      "141"
+    ],
+    "OuterDiameter": [
+      "240"
+    ],
+    "BoltHoleCircle": [
+      "100"
+    ],
+    "NumberOfHoles": [
+      "04/05"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "57"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "04/05"
+    ],
+    "WheelBoltBoreDiameter": [
+      "14,2"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [
+      "3,1"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "reference": "92032703",
+  "id": "92032703",
+  "name": "Fren diski PRO",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "CHRYSLER": [
+      "05098065AA",
+      "05098066AA",
+      "05898066AA",
+      "5098065AA",
+      "5098066AA",
+      "5898066AA",
+      "68031811AA"
+    ],
+    "MERCEDES-BENZ": [
+      "1244230412",
+      "1244230512",
+      "2014230512",
+      "2034230012",
+      "2034230112",
+      "2104230112",
+      "2104230412",
+      "2104230912",
+      "A1244230412",
+      "A1244230512",
+      "A2014230512",
+      "A2034230012",
+      "A2034230112",
+      "A2104230112",
+      "A2104230412",
+      "A2104230912"
+    ]
+  },
+  "eanNumber": "4019722287657",
+  "attributes": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "9"
+    ],
+    "MinimumThicknessValues": [
+      "7,3"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "55,6"
+    ],
+    "InnerDiameter": [
+      "164"
+    ],
+    "OuterDiameter": [
+      "278"
+    ],
+    "BoltHoleCircle": [
+      "112"
+    ],
+    "NumberOfHoles": [
+      "05/07"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "67"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "05/07"
+    ],
+    "WheelBoltBoreDiameter": [
+      "13,3"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [
+      "3,9"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

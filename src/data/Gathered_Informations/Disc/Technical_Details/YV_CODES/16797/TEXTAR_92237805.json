@@ -1,0 +1,75 @@
+{
+  "reference": "92237805",
+  "id": "92237805",
+  "name": "Fren diski PRO+",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "HYUNDAI": [
+      "517122T000",
+      "517122T100",
+      "517124C000",
+      "S517122T100"
+    ],
+    "KIA": [
+      "517122T000",
+      "S517122T100"
+    ]
+  },
+  "eanNumber": "4019722542862",
+  "attributes": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "28"
+    ],
+    "MinimumThicknessValues": [
+      "26,4"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "47,4"
+    ],
+    "InnerDiameter": [
+      "145"
+    ],
+    "OuterDiameter": [
+      "320"
+    ],
+    "BoltHoleCircle": [
+      "114,3"
+    ],
+    "NumberOfHoles": [
+      "05/07"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "69"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "05/07"
+    ],
+    "WheelBoltBoreDiameter": [
+      "12,5"
+    ],
+    "Machining": [
+      "Yüksek karbonlu"
+    ],
+    "TighteningTorque": [],
+    "Weight": [
+      "9,4"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

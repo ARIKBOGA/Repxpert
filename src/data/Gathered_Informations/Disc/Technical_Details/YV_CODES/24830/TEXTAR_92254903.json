@@ -1,0 +1,73 @@
+{
+  "reference": "92254903",
+  "id": "92254903",
+  "name": "Fren diski PRO",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "INFINITI": [
+      "432065DA0A",
+      "43206HG00B"
+    ],
+    "MERCEDES-BENZ": [
+      "2464230112",
+      "246423011207",
+      "A2464230112",
+      "A246423011207"
+    ]
+  },
+  "eanNumber": "4019722456145",
+  "attributes": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "10"
+    ],
+    "MinimumThicknessValues": [
+      "8,3"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "44,1"
+    ],
+    "InnerDiameter": [
+      "161"
+    ],
+    "OuterDiameter": [
+      "295"
+    ],
+    "BoltHoleCircle": [
+      "112"
+    ],
+    "NumberOfHoles": [
+      "05/06"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "67"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "05/06"
+    ],
+    "WheelBoltBoreDiameter": [
+      "15,2"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [
+      "4,6"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

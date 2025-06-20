@@ -1,0 +1,82 @@
+{
+  "reference": "92237603",
+  "id": "92237603",
+  "name": "Fren diski PRO",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "BPW": [
+      "09A44440"
+    ],
+    "FIAT": [
+      "51854567",
+      "51897455",
+      "51914663",
+      "52067169",
+      "52104172",
+      "52199580"
+    ],
+    "GENERAL MOTORS": [
+      "95511283"
+    ],
+    "OPEL": [
+      "569087",
+      "569096",
+      "95515332"
+    ]
+  },
+  "eanNumber": "4019722470080",
+  "attributes": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "28"
+    ],
+    "MinimumThicknessValues": [
+      "26"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "45,8"
+    ],
+    "InnerDiameter": [
+      "127"
+    ],
+    "OuterDiameter": [
+      "305"
+    ],
+    "BoltHoleCircle": [
+      "98"
+    ],
+    "NumberOfHoles": [
+      "05/10"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "59"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "05/10"
+    ],
+    "WheelBoltBoreDiameter": [
+      "13,2"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [
+      "7,8"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

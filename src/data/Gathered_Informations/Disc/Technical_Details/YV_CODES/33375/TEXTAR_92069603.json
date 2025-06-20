@@ -1,0 +1,97 @@
+{
+  "reference": "92069603",
+  "id": "92069603",
+  "name": "Fren diski PRO",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "ALFA ROMEO": [
+      "60812137"
+    ],
+    "CITROËN": [
+      "1606321980",
+      "1617328980",
+      "1618879780",
+      "424973",
+      "424974",
+      "4249E5",
+      "4249L2"
+    ],
+    "FIAT": [
+      "46401356",
+      "46542383",
+      "46831041",
+      "51896287",
+      "51896288",
+      "52015293",
+      "52063172",
+      "59064264",
+      "60812137",
+      "71739640"
+    ],
+    "LANCIA": [
+      "51896287",
+      "51896288"
+    ],
+    "PEUGEOT": [
+      "1618879780",
+      "424973",
+      "4249E5",
+      "4249L2"
+    ]
+  },
+  "eanNumber": "4019722308789",
+  "attributes": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "22"
+    ],
+    "MinimumThicknessValues": [
+      "20,2"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "40,3"
+    ],
+    "InnerDiameter": [
+      "127,1"
+    ],
+    "OuterDiameter": [
+      "257"
+    ],
+    "BoltHoleCircle": [
+      "98"
+    ],
+    "NumberOfHoles": [
+      "04/06"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "59"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "04/06"
+    ],
+    "WheelBoltBoreDiameter": [
+      "13"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [
+      "5"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

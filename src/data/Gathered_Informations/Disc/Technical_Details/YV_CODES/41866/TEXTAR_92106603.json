@@ -1,0 +1,116 @@
+{
+  "reference": "92106603",
+  "id": "92106603",
+  "name": "Fren diski PRO",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "AUDI": [
+      "1J0615301",
+      "1J0615301C",
+      "1J0615301K",
+      "1J0615301R",
+      "1J0615301S",
+      "6R0615301A",
+      "6R0615301D",
+      "JZW615301D"
+    ],
+    "SEAT": [
+      "1J0615301",
+      "1J0615301C",
+      "1J0615301K",
+      "1J0615301R",
+      "1J0615301S",
+      "6R0615301A",
+      "6R0615301D",
+      "JZW615301D"
+    ],
+    "SKODA": [
+      "1J0615301",
+      "1J0615301C",
+      "1J0615301K",
+      "1J0615301R",
+      "1J0615301S",
+      "6R0615301A",
+      "6R0615301D",
+      "JZW615301D"
+    ],
+    "SKODA (SVW)": [
+      "6RD615301A"
+    ],
+    "VW": [
+      "1J0615301",
+      "1J0615301C",
+      "1J0615301K",
+      "1J0615301R",
+      "1J0615301S",
+      "6R0615301A",
+      "6R0615301D",
+      "JZW615301D"
+    ],
+    "VW (FAW)": [
+      "1J0615301R",
+      "1J0615301S",
+      "6R0615301D",
+      "L6RD615301A"
+    ],
+    "VW (SVW)": [
+      "6R0615301D",
+      "6RD615301A"
+    ]
+  },
+  "eanNumber": "4019722301360",
+  "attributes": {
+    "Type": [
+      "Dıştan havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "25"
+    ],
+    "MinimumThicknessValues": [
+      "22"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "34,4"
+    ],
+    "InnerDiameter": [
+      "136,4"
+    ],
+    "OuterDiameter": [
+      "288"
+    ],
+    "BoltHoleCircle": [
+      "100"
+    ],
+    "NumberOfHoles": [
+      "05/10"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "65"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "05/10"
+    ],
+    "WheelBoltBoreDiameter": [
+      "15,8"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [
+      "7,1"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

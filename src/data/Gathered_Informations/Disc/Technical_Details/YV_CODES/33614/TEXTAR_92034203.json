@@ -1,0 +1,86 @@
+{
+  "reference": "92034203",
+  "id": "92034203",
+  "name": "Fren diski PRO",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "ALFA ROMEO": [
+      "0060801755",
+      "164202610001",
+      "6001073195",
+      "60801390",
+      "60801755",
+      "82394418",
+      "82433859",
+      "82434070"
+    ],
+    "FIAT": [
+      "46831042",
+      "71738913",
+      "71770930",
+      "71770931",
+      "71772264"
+    ],
+    "LANCIA": [
+      "0082434070",
+      "46758715",
+      "71738913",
+      "82394417"
+    ]
+  },
+  "eanNumber": "4019722308659",
+  "attributes": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "10"
+    ],
+    "MinimumThicknessValues": [
+      "9"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "50,7"
+    ],
+    "InnerDiameter": [
+      "128"
+    ],
+    "OuterDiameter": [
+      "251"
+    ],
+    "BoltHoleCircle": [
+      "98"
+    ],
+    "NumberOfHoles": [
+      "04/06"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "59"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "04/06"
+    ],
+    "WheelBoltBoreDiameter": [
+      "13,3"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [
+      "3,6"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

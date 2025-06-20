@@ -1,0 +1,97 @@
+{
+  "reference": "92103903",
+  "id": "92103903",
+  "name": "Fren diski PRO",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "HYUNDAI": [
+      "51712M2010DS"
+    ],
+    "KIA": [
+      "51712M2000",
+      "51712M2010"
+    ],
+    "MITSUBISHI": [
+      "MB407639",
+      "MB668107",
+      "MB668886",
+      "MB928994",
+      "MB928995",
+      "MB950569",
+      "MB950570",
+      "MR128153",
+      "MR205584",
+      "MR205585",
+      "MR235505",
+      "MR289653",
+      "MR389722",
+      "MR475330",
+      "MR955636",
+      "MR955637"
+    ],
+    "PROTON": [
+      "PW820577",
+      "PW820578"
+    ],
+    "VOLVO": [
+      "30872319",
+      "30872926",
+      "308729268"
+    ]
+  },
+  "eanNumber": "4019722479298",
+  "attributes": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "24"
+    ],
+    "MinimumThicknessValues": [
+      "22,4"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "45,3"
+    ],
+    "InnerDiameter": [
+      "145,2"
+    ],
+    "OuterDiameter": [
+      "256"
+    ],
+    "BoltHoleCircle": [
+      "114,3"
+    ],
+    "NumberOfHoles": [
+      "04/08"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "69"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "04/08"
+    ],
+    "WheelBoltBoreDiameter": [
+      "12,7"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [
+      "4,9"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

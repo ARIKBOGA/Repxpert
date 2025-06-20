@@ -1,0 +1,75 @@
+{
+  "reference": "92142203",
+  "id": "92142203",
+  "name": "Fren diski PRO",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "RENAULT": [
+      "7701472838",
+      "7701713008",
+      "8200209774",
+      "8200367094",
+      "8200655249",
+      "820655249",
+      "8671018108"
+    ],
+    "TOYOTA": [
+      "4243108040"
+    ]
+  },
+  "eanNumber": "4019722402333",
+  "attributes": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "11"
+    ],
+    "MinimumThicknessValues": [
+      "9,5"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "83,9"
+    ],
+    "InnerDiameter": [
+      "143"
+    ],
+    "OuterDiameter": [
+      "274"
+    ],
+    "BoltHoleCircle": [
+      "108"
+    ],
+    "NumberOfHoles": [
+      "05/05"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Entegre edilmiş manyetik sensör halkasına sahip, Tekerlek rulmanı ile, Tekerlek bijon saplaması yok, Poyra ile"
+    ],
+    "CenteringDiameter": [
+      "52,3"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "05/05"
+    ],
+    "WheelBoltBoreDiameter": [
+      "12"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [
+      "7"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

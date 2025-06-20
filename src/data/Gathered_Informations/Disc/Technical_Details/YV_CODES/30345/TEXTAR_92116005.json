@@ -1,0 +1,86 @@
+{
+  "reference": "92116005",
+  "id": "92116005",
+  "name": "Fren diski PRO+",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "NISSAN": [
+      "4020600QAE",
+      "4020600QAF",
+      "4020600QAG",
+      "4020600QAH",
+      "4408275"
+    ],
+    "OPEL": [
+      "4413734",
+      "4414632",
+      "91159915",
+      "91165426",
+      "93161253"
+    ],
+    "RENAULT": [
+      "7701206845",
+      "7701260845",
+      "7711130077",
+      "8200010519",
+      "8200227715"
+    ]
+  },
+  "eanNumber": "4019722494161",
+  "attributes": {
+    "Type": [
+      "Dıştan havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "28"
+    ],
+    "MinimumThicknessValues": [
+      "24"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "49,8"
+    ],
+    "InnerDiameter": [
+      "154,1"
+    ],
+    "OuterDiameter": [
+      "306"
+    ],
+    "BoltHoleCircle": [
+      "118"
+    ],
+    "NumberOfHoles": [
+      "05/06"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "72"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "05/06"
+    ],
+    "WheelBoltBoreDiameter": [
+      "15,6"
+    ],
+    "Machining": [
+      "Yüksek karbonlu"
+    ],
+    "TighteningTorque": [],
+    "Weight": [
+      "9,1"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

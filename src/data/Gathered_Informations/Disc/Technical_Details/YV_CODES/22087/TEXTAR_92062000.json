@@ -1,0 +1,95 @@
+{
+  "reference": "92062000",
+  "id": "92062000",
+  "name": "Fren diski",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "FORD": [
+      "3395510",
+      "3958455",
+      "GA3Y3325X",
+      "GA5Y3325X"
+    ],
+    "FORD USA": [
+      "3898529",
+      "4146389",
+      "YS8J2C502AA"
+    ],
+    "HAIMA (FAW)": [
+      "GA4Y3325XJL1"
+    ],
+    "MAZDA": [
+      "F32Z1125A",
+      "GA2Y3325X",
+      "GA2Y3325XA",
+      "GA4Y3325X",
+      "GA4Y3325XA",
+      "GA4Y3325XC",
+      "GA4Y3325XD",
+      "GA4Y3325XH",
+      "GA4Y3325XJ",
+      "GA5Y3325XB",
+      "GA5Y3325XC",
+      "GA5Y3325XD",
+      "GA5Y3325XE",
+      "GADY3325XE"
+    ],
+    "MITSUBISHI": [
+      "GA4Y3325XB",
+      "GA4Y3325XE"
+    ]
+  },
+  "eanNumber": "4019722150784",
+  "attributes": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "24"
+    ],
+    "MinimumThicknessValues": [
+      "22"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "48,5"
+    ],
+    "InnerDiameter": [
+      "142,6"
+    ],
+    "OuterDiameter": [
+      "258"
+    ],
+    "BoltHoleCircle": [
+      "114,3"
+    ],
+    "NumberOfHoles": [
+      "05/06"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "72"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "05/06"
+    ],
+    "WheelBoltBoreDiameter": [
+      "12,7"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [
+      "5,1"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

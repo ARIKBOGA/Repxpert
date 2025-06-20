@@ -1,0 +1,118 @@
+{
+  "reference": "92120805",
+  "id": "92120805",
+  "name": "Fren diski PRO+",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "AUDI": [
+      "1K0615301K",
+      "1K0615301T",
+      "5C0615301A",
+      "5C0615301D",
+      "5Q0615301H",
+      "JZW615301J"
+    ],
+    "AUDI (FAW)": [
+      "L1KD615301"
+    ],
+    "FORD": [
+      "2631430",
+      "VWN3CA1125AA"
+    ],
+    "SEAT": [
+      "1K0615301K",
+      "1K0615301T",
+      "5C0615301A",
+      "5C0615301D",
+      "5Q0615301H",
+      "JZW615301J"
+    ],
+    "SKODA": [
+      "1K0615301K",
+      "1K0615301T",
+      "5C0615301A",
+      "5C0615301D",
+      "5Q0615301H",
+      "JZW615301J"
+    ],
+    "VW": [
+      "1K0615301K",
+      "1K0615301T",
+      "1KD615301",
+      "5C0615301A",
+      "5C0615301D",
+      "5Q0615301H",
+      "8E0098301T",
+      "8P0698302A",
+      "JZW615301J",
+      "JZW698302BA",
+      "JZW698302CM"
+    ],
+    "VW (FAW)": [
+      "1KD615301",
+      "L16D615301A",
+      "L1KD615301"
+    ],
+    "VW (SVW)": [
+      "16D615301A",
+      "1KD615301B"
+    ]
+  },
+  "eanNumber": "4019722287114",
+  "attributes": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "24,9"
+    ],
+    "MinimumThicknessValues": [
+      "22"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "49,7"
+    ],
+    "InnerDiameter": [
+      "144"
+    ],
+    "OuterDiameter": [
+      "288"
+    ],
+    "BoltHoleCircle": [
+      "112"
+    ],
+    "NumberOfHoles": [
+      "05/10"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "65"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "05/10"
+    ],
+    "WheelBoltBoreDiameter": [
+      "15,3"
+    ],
+    "Machining": [
+      "Yüksek karbonlu"
+    ],
+    "TighteningTorque": [],
+    "Weight": [
+      "7,3"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "reference": "92159205",
+  "id": "92159205",
+  "name": "Fren diski PRO+",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "FORD": [
+      "1379965",
+      "1384689",
+      "1405510",
+      "1420600",
+      "1420601",
+      "1469085",
+      "1500158",
+      "6G912C375CB",
+      "6G912C375CC",
+      "6G912C375CD",
+      "6G912C375F1B",
+      "6G912C375FA",
+      "6G912C375FB",
+      "7G911125BA"
+    ],
+    "LAND ROVER": [
+      "LR000571",
+      "LR007055",
+      "LR068925"
+    ],
+    "VOLVO": [
+      "30736311",
+      "30769056",
+      "31202327",
+      "31202331",
+      "31341382"
+    ],
+    "VOLVO ASIA": [
+      "31358885"
+    ]
+  },
+  "eanNumber": "4019722474767",
+  "attributes": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "28"
+    ],
+    "MinimumThicknessValues": [
+      "26"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "52,1"
+    ],
+    "InnerDiameter": [
+      "140"
+    ],
+    "OuterDiameter": [
+      "300"
+    ],
+    "BoltHoleCircle": [
+      "108"
+    ],
+    "NumberOfHoles": [
+      "05/06"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "63,6"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "05/06"
+    ],
+    "WheelBoltBoreDiameter": [
+      "15,8"
+    ],
+    "Machining": [
+      "Yüksek karbonlu"
+    ],
+    "TighteningTorque": [],
+    "Weight": [
+      "8,8"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

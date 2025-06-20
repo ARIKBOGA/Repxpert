@@ -3,6 +3,7 @@
   "id": "92055503",
   "name": "Fren diski PRO",
   "brand": "TEXTAR",
+  "wvaNumbers": [],
   "brand_oe_map": {
     "BMW": [
       "1160673",
@@ -16,7 +17,7 @@
     ]
   },
   "eanNumber": "4019722300967",
-  "disc": {
+  "attributes": {
     "Type": [
       "dolu"
     ],
@@ -63,7 +64,9 @@
     ],
     "Machining": [],
     "TighteningTorque": [],
-    "Weight": [],
+    "Weight": [
+      "5,2"
+    ],
     "Color": [],
     "ThreadSize": []
   }

@@ -1,0 +1,74 @@
+{
+  "reference": "92163000",
+  "id": "92163000",
+  "name": "Fren diski",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "BAOJUN (SGMW)": [
+      "24535045"
+    ],
+    "BUICK (SGM)": [
+      "96430670"
+    ],
+    "DAEWOO": [
+      "96549630"
+    ],
+    "SUZUKI": [
+      "5561185Z00",
+      "5561185Z00000"
+    ]
+  },
+  "eanNumber": "4019722293764",
+  "attributes": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "10,5"
+    ],
+    "MinimumThicknessValues": [
+      "8"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "57,5"
+    ],
+    "InnerDiameter": [
+      "168"
+    ],
+    "OuterDiameter": [
+      "258"
+    ],
+    "BoltHoleCircle": [
+      "114,3"
+    ],
+    "NumberOfHoles": [
+      "04/06"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "60"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "04/06"
+    ],
+    "WheelBoltBoreDiameter": [
+      "12,6"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [
+      "4,4"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

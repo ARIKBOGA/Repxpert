@@ -1,0 +1,76 @@
+{
+  "reference": "92092803",
+  "id": "92092803",
+  "name": "Fren diski PRO",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "CITROËN": [
+      "169014",
+      "4246R8",
+      "4246R9",
+      "4249A5"
+    ],
+    "PEUGEOT": [
+      "1618860480",
+      "4246R8",
+      "4246R9",
+      "4249A5",
+      "E169014"
+    ]
+  },
+  "eanNumber": "4019722301346",
+  "attributes": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "13"
+    ],
+    "MinimumThicknessValues": [
+      "11"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "34,2"
+    ],
+    "InnerDiameter": [
+      "133"
+    ],
+    "OuterDiameter": [
+      "247"
+    ],
+    "BoltHoleCircle": [
+      "108"
+    ],
+    "NumberOfHoles": [
+      "04/06"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "66"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "04/06"
+    ],
+    "WheelBoltBoreDiameter": [
+      "13,1"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [
+      "3,8"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

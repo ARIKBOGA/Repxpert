@@ -1,0 +1,93 @@
+{
+  "reference": "92184405",
+  "id": "92184405",
+  "name": "Fren diski PRO+",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "CHRYSLER": [
+      "05105514AA",
+      "2AMV5514AA"
+    ],
+    "CITROËN": [
+      "1607500580"
+    ],
+    "JEEP": [
+      "5105514AA",
+      "K5105514AA"
+    ],
+    "LANCIA": [
+      "K05105514AA"
+    ],
+    "MITSUBISHI": [
+      "4615A075",
+      "4615A117",
+      "4615A159",
+      "4615A178",
+      "4615A227"
+    ],
+    "MITSUBISHI (GAC)": [
+      "4615A227"
+    ],
+    "PEUGEOT": [
+      "1607500580",
+      "1610623080"
+    ]
+  },
+  "eanNumber": "4019722493867",
+  "attributes": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "26"
+    ],
+    "MinimumThicknessValues": [
+      "24,4"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "45,6"
+    ],
+    "InnerDiameter": [
+      "144,8"
+    ],
+    "OuterDiameter": [
+      "294"
+    ],
+    "BoltHoleCircle": [
+      "114,3"
+    ],
+    "NumberOfHoles": [
+      "05/05"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "69"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "05/05"
+    ],
+    "WheelBoltBoreDiameter": [
+      "13,2"
+    ],
+    "Machining": [
+      "Yüksek karbonlu"
+    ],
+    "TighteningTorque": [],
+    "Weight": [
+      "6,9"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

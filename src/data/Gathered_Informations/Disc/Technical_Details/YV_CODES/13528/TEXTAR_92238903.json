@@ -1,0 +1,80 @@
+{
+  "reference": "92238903",
+  "id": "92238903",
+  "name": "Fren diski PRO",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "FORD": [
+      "1683383",
+      "1683384",
+      "1829615",
+      "2467512",
+      "AC612A315BA",
+      "AV612A315AA",
+      "AV612A315BA",
+      "CV6Z2C026B",
+      "CV6Z2C026C",
+      "DV612A315BA",
+      "KU2J2C203BA"
+    ],
+    "FORD (CHANGAN)": [
+      "1879859",
+      "DV612A315AB"
+    ]
+  },
+  "eanNumber": "4019722446283",
+  "attributes": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "11"
+    ],
+    "MinimumThicknessValues": [
+      "9"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "50,7"
+    ],
+    "InnerDiameter": [
+      "148"
+    ],
+    "OuterDiameter": [
+      "280"
+    ],
+    "BoltHoleCircle": [
+      "108"
+    ],
+    "NumberOfHoles": [
+      "05/05"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "63,5"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "05/05"
+    ],
+    "WheelBoltBoreDiameter": [
+      "13,7"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [
+      "4,6"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

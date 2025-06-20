@@ -1,0 +1,76 @@
+{
+  "reference": "92109300",
+  "id": "92109300",
+  "name": "Fren diski",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "INFINITI": [
+      "402067J101"
+    ],
+    "NISSAN": [
+      "40206011VA",
+      "402062F500",
+      "402062F501",
+      "4020655F01",
+      "4020655F03",
+      "4020655F85",
+      "4020655F90",
+      "4020673L01",
+      "402067J100",
+      "D02062F50AVA"
+    ]
+  },
+  "eanNumber": "4019722253065",
+  "attributes": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "22"
+    ],
+    "MinimumThicknessValues": [
+      "20"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "49,3"
+    ],
+    "InnerDiameter": [
+      "143,5"
+    ],
+    "OuterDiameter": [
+      "280"
+    ],
+    "BoltHoleCircle": [
+      "114,3"
+    ],
+    "NumberOfHoles": [
+      "04/06"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "68"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "04/06"
+    ],
+    "WheelBoltBoreDiameter": [
+      "12,8"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [
+      "6,2"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

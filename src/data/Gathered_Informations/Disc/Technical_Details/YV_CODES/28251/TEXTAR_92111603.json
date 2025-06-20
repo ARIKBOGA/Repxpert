@@ -1,0 +1,95 @@
+{
+  "reference": "92111603",
+  "id": "92111603",
+  "name": "Fren diski PRO",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "CITROËN": [
+      "1606401480",
+      "1613703980",
+      "1618862780",
+      "1667857480",
+      "4246W2",
+      "4246W8",
+      "424917",
+      "424918",
+      "424984",
+      "4249J6",
+      "E169142"
+    ],
+    "CITROËN (DF-PSA)": [
+      "9808483380"
+    ],
+    "OPEL": [
+      "3557911"
+    ],
+    "PEUGEOT": [
+      "1606401480",
+      "1613703980",
+      "4246W2",
+      "4246W8",
+      "424917",
+      "424918",
+      "424984",
+      "4249J6"
+    ],
+    "PEUGEOT (DF-PSA)": [
+      "9808483380"
+    ]
+  },
+  "eanNumber": "4019722301292",
+  "attributes": {
+    "Type": [
+      "Dıştan havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "26"
+    ],
+    "MinimumThicknessValues": [
+      "24"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "34,2"
+    ],
+    "InnerDiameter": [
+      "133"
+    ],
+    "OuterDiameter": [
+      "283"
+    ],
+    "BoltHoleCircle": [
+      "108"
+    ],
+    "NumberOfHoles": [
+      "04/06"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "66"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "04/06"
+    ],
+    "WheelBoltBoreDiameter": [
+      "13"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [
+      "6,6"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

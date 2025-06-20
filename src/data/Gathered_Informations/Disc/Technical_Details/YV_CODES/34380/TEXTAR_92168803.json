@@ -1,0 +1,84 @@
+{
+  "reference": "92168803",
+  "id": "92168803",
+  "name": "Fren diski PRO",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "LEXUS": [
+      "4351206090",
+      "4351206150"
+    ],
+    "TOYOTA": [
+      "4351202250",
+      "4351206090",
+      "4351206100",
+      "4351206120",
+      "4351206121",
+      "4351206140",
+      "4351206150",
+      "435120F040",
+      "435120R030",
+      "435122090",
+      "4351233130",
+      "4351233140",
+      "4351242050",
+      "4351242090",
+      "4351242100"
+    ]
+  },
+  "eanNumber": "4019722453915",
+  "attributes": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "28"
+    ],
+    "MinimumThicknessValues": [
+      "25"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "49,3"
+    ],
+    "InnerDiameter": [
+      "145"
+    ],
+    "OuterDiameter": [
+      "296"
+    ],
+    "BoltHoleCircle": [
+      "114,3"
+    ],
+    "NumberOfHoles": [
+      "05/07"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "62"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "05/07"
+    ],
+    "WheelBoltBoreDiameter": [
+      "14,5"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [
+      "7,5"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

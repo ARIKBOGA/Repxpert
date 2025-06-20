@@ -1,0 +1,74 @@
+{
+  "reference": "92228800",
+  "id": "92228800",
+  "name": "Fren diski",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "NISSAN": [
+      "4320600Q0B"
+    ],
+    "OPEL": [
+      "4421080",
+      "93168847"
+    ],
+    "RENAULT": [
+      "432064087R"
+    ],
+    "VAUXHALL": [
+      "93168847"
+    ]
+  },
+  "eanNumber": "4019722415203",
+  "attributes": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "12"
+    ],
+    "MinimumThicknessValues": [
+      "10"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "71,5"
+    ],
+    "InnerDiameter": [
+      "167"
+    ],
+    "OuterDiameter": [
+      "305"
+    ],
+    "BoltHoleCircle": [
+      "130"
+    ],
+    "NumberOfHoles": [
+      "05/06"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "91"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "05/06"
+    ],
+    "WheelBoltBoreDiameter": [
+      "17"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [
+      "6,7"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

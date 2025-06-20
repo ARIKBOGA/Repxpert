@@ -1,0 +1,65 @@
+{
+  "reference": "92009200",
+  "id": "92009200",
+  "name": "Fren diski",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "RENAULT": [
+      "7700502515",
+      "7701466540"
+    ]
+  },
+  "eanNumber": "4019722107573",
+  "attributes": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "10"
+    ],
+    "MinimumThicknessValues": [
+      "9"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "38,5"
+    ],
+    "InnerDiameter": [
+      "84,8"
+    ],
+    "OuterDiameter": [
+      "228"
+    ],
+    "BoltHoleCircle": [
+      "99"
+    ],
+    "NumberOfHoles": [
+      "06/06"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "83"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "06/06"
+    ],
+    "WheelBoltBoreDiameter": [
+      "8"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [
+      "2,8"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

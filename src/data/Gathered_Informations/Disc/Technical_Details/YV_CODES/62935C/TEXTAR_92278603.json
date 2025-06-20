@@ -1,0 +1,78 @@
+{
+  "reference": "92278603",
+  "id": "92278603",
+  "name": "Fren diski PRO",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "IME": [
+      "6178610"
+    ],
+    "JAGUAR": [
+      "J9C2136"
+    ],
+    "KAROSA": [
+      "6178610"
+    ],
+    "LAND ROVER": [
+      "LR059122"
+    ],
+    "LEYLAND": [
+      "09C20711"
+    ]
+  },
+  "eanNumber": "4019722481093",
+  "attributes": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "30"
+    ],
+    "MinimumThicknessValues": [
+      "28"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "52"
+    ],
+    "InnerDiameter": [
+      "145"
+    ],
+    "OuterDiameter": [
+      "325"
+    ],
+    "BoltHoleCircle": [
+      "108"
+    ],
+    "NumberOfHoles": [
+      "05/06"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "63,6"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "05/06"
+    ],
+    "WheelBoltBoreDiameter": [
+      "15,7"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [
+      "10,8"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

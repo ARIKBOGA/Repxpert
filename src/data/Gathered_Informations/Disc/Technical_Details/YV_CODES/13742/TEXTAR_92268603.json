@@ -1,0 +1,91 @@
+{
+  "reference": "92268603",
+  "id": "92268603",
+  "name": "Fren diski PRO",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "FORD": [
+      "2017128",
+      "2037502",
+      "5202199",
+      "5322975",
+      "5525251",
+      "DG9C1125AC",
+      "DG9C1125AD",
+      "DG9C1125AE",
+      "DG9C1125AF",
+      "H2MJ2C502BFA"
+    ],
+    "FORD (CHANGAN)": [
+      "DG9C1125A4B",
+      "DG9C1125AD"
+    ],
+    "IME": [
+      "6160510"
+    ],
+    "KAROSA": [
+      "6160510"
+    ],
+    "LEYLAND": [
+      "09N25521"
+    ],
+    "LINCOLN": [
+      "DG9Z1125A"
+    ]
+  },
+  "eanNumber": "4019722482038",
+  "attributes": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "28"
+    ],
+    "MinimumThicknessValues": [
+      "26,5"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "51,1"
+    ],
+    "InnerDiameter": [
+      "139,9"
+    ],
+    "OuterDiameter": [
+      "300"
+    ],
+    "BoltHoleCircle": [
+      "108"
+    ],
+    "NumberOfHoles": [
+      "05/06"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "63,5"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "05/06"
+    ],
+    "WheelBoltBoreDiameter": [
+      "13,8"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [
+      "9"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

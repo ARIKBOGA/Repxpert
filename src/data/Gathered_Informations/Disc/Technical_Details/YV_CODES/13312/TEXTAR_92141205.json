@@ -1,0 +1,107 @@
+{
+  "reference": "92141205",
+  "id": "92141205",
+  "name": "Fren diski PRO+",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "FORD": [
+      "1223663",
+      "1223665",
+      "1253729",
+      "1253730",
+      "1320352",
+      "1373369",
+      "1469082",
+      "1501058",
+      "1501069",
+      "1575734",
+      "1734696",
+      "3M512C375A1D",
+      "3M512C375AA",
+      "3M512C375AB",
+      "3M512C375AC",
+      "3M512C375AD",
+      "3M512C375DA",
+      "3M512C375DB",
+      "7M511125EA",
+      "7M511125FA",
+      "AV611125BA",
+      "AV611125BB",
+      "ED8C1125AA",
+      "ED8C1125AB"
+    ],
+    "FORD (CHANGAN)": [
+      "1364548",
+      "1771580",
+      "6M512C375AA",
+      "6M512C375AB",
+      "ED8C1125AC",
+      "JD8C1125AA"
+    ],
+    "MAZDA (CHANGAN)": [
+      "6M512C375AA"
+    ],
+    "VOLVO": [
+      "274509",
+      "31262718",
+      "31362411"
+    ]
+  },
+  "eanNumber": "4019722474750",
+  "attributes": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "25"
+    ],
+    "MinimumThicknessValues": [
+      "23"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "48,5"
+    ],
+    "InnerDiameter": [
+      "140"
+    ],
+    "OuterDiameter": [
+      "278"
+    ],
+    "BoltHoleCircle": [
+      "108"
+    ],
+    "NumberOfHoles": [
+      "05/05"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "63,6"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "05/05"
+    ],
+    "WheelBoltBoreDiameter": [
+      "13,8"
+    ],
+    "Machining": [
+      "Yüksek karbonlu"
+    ],
+    "TighteningTorque": [],
+    "Weight": [
+      "7,4"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

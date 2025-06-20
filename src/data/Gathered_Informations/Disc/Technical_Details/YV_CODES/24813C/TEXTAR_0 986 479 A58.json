@@ -1,0 +1,70 @@
+{
+  "reference": "0 986 479 A58",
+  "id": "2486901-2548-00",
+  "name": "Fren takımı, diskli fren Virtual Brake Set",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "INFINITI": [
+      "410605DA0A",
+      "410605DA0B",
+      "41060HG00C",
+      "410685DN0A",
+      "479105DA9A"
+    ],
+    "MERCEDES-BENZ": [
+      "0004203002",
+      "0004209104",
+      "0064204620",
+      "0064204720",
+      "0064208520",
+      "0084200320",
+      "0084200620",
+      "1695401617",
+      "2464212412",
+      "246421241207",
+      "A0004203002",
+      "A0004209104",
+      "A0064204620",
+      "A0064204720",
+      "A0064208520",
+      "A0084200320",
+      "A0084200620",
+      "A1695401617",
+      "A2464212412",
+      "A246421241207"
+    ]
+  },
+  "eanNumber": "",
+  "attributes": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "28"
+    ],
+    "MinimumThicknessValues": [],
+    "Surface": [],
+    "HeightValues": [],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "295"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

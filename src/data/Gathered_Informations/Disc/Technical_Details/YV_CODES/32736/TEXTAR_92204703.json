@@ -1,0 +1,75 @@
+{
+  "reference": "92204703",
+  "id": "92204703",
+  "name": "Fren diski PRO",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "SUZUKI": [
+      "5525062820",
+      "5525062820000",
+      "5531157K00",
+      "5531157K00000",
+      "5531157K01",
+      "5531157K01000",
+      "5531257K00",
+      "5531257K00000",
+      "5531257K01",
+      "5531257K01000"
+    ]
+  },
+  "eanNumber": "4019722438462",
+  "attributes": {
+    "Type": [
+      "Dıştan havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "20"
+    ],
+    "MinimumThicknessValues": [
+      "18"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "40"
+    ],
+    "InnerDiameter": [
+      "146,4"
+    ],
+    "OuterDiameter": [
+      "276"
+    ],
+    "BoltHoleCircle": [
+      "114,3"
+    ],
+    "NumberOfHoles": [
+      "05/10"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "62"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "05/10"
+    ],
+    "WheelBoltBoreDiameter": [
+      "12,7"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [
+      "5,4"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

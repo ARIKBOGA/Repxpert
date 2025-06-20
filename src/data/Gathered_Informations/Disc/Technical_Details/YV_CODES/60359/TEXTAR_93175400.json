@@ -1,0 +1,67 @@
+{
+  "reference": "93175400",
+  "id": "93175400",
+  "name": "Fren diski",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "IVECO": [
+      "42546401",
+      "504079365",
+      "504080994",
+      "93831918"
+    ]
+  },
+  "eanNumber": "4019722305290",
+  "attributes": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "22"
+    ],
+    "MinimumThicknessValues": [
+      "19"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "110,6"
+    ],
+    "InnerDiameter": [
+      "123"
+    ],
+    "OuterDiameter": [
+      "290"
+    ],
+    "BoltHoleCircle": [
+      "170"
+    ],
+    "NumberOfHoles": [
+      "06/12"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması ile"
+    ],
+    "CenteringDiameter": [
+      "123,1"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "06/12"
+    ],
+    "WheelBoltBoreDiameter": [
+      "18"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [
+      "15,1"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

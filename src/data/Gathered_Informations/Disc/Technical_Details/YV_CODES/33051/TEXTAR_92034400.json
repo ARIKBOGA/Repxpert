@@ -1,0 +1,96 @@
+{
+  "reference": "92034400",
+  "id": "92034400",
+  "name": "Fren diski",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "ALFA ROMEO": [
+      "756844",
+      "7568440",
+      "93500520"
+    ],
+    "CITROËN": [
+      "424693",
+      "424695",
+      "4246B4",
+      "4246N5",
+      "4249C6",
+      "4249L1",
+      "7531819"
+    ],
+    "FIAT": [
+      "71740116"
+    ],
+    "PEUGEOT": [
+      "424693",
+      "424695",
+      "4246B4",
+      "4246N5",
+      "4249C6",
+      "4249L1",
+      "7531819"
+    ],
+    "PORSCHE": [
+      "4249L1"
+    ],
+    "ROVER": [
+      "4249L1"
+    ],
+    "SAURER": [
+      "4249L1"
+    ]
+  },
+  "eanNumber": "4019722110436",
+  "attributes": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "16"
+    ],
+    "MinimumThicknessValues": [
+      "13,5"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "64"
+    ],
+    "InnerDiameter": [
+      "141"
+    ],
+    "OuterDiameter": [
+      "256"
+    ],
+    "BoltHoleCircle": [
+      "118"
+    ],
+    "NumberOfHoles": [
+      "05/10"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "73"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "05/10"
+    ],
+    "WheelBoltBoreDiameter": [
+      "15,7"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [
+      "5,9"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

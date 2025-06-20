@@ -1,0 +1,109 @@
+{
+  "reference": "92088403",
+  "id": "92088403",
+  "name": "Fren diski PRO",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "FORD": [
+      "1073756",
+      "1197572",
+      "1323621",
+      "1373781",
+      "1456666",
+      "1473006",
+      "1507058",
+      "1514237",
+      "1630149",
+      "1637969",
+      "1659810",
+      "1756882",
+      "1780880",
+      "2M512A315A4A",
+      "4083484",
+      "5022483",
+      "5022666",
+      "5023483",
+      "5030658",
+      "7204066",
+      "7S612A315AA",
+      "85GB2A315BA",
+      "95GB2A315B1C",
+      "95GB2A315BA",
+      "95GB2A315EA",
+      "95GB2A315F1B",
+      "95GB2A315FA",
+      "95GB2A315FB",
+      "95GJ2A315EC",
+      "95GX2A315EA",
+      "95GX2A315EB",
+      "95GX2A315FB",
+      "A89SX19346AA",
+      "C1BC2A315AA",
+      "C1BZ2C026A",
+      "V85BB2A315AA",
+      "V85BB2A315AB",
+      "V85BB2A315BA",
+      "V85BX2A315AB",
+      "V85BX2A315BA"
+    ],
+    "FORD USA": [
+      "1S4Z2C026BA",
+      "7S6Z2C026A"
+    ]
+  },
+  "eanNumber": "4019722301155",
+  "attributes": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "10,2"
+    ],
+    "MinimumThicknessValues": [
+      "8,9"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "33"
+    ],
+    "InnerDiameter": [
+      "155"
+    ],
+    "OuterDiameter": [
+      "253"
+    ],
+    "BoltHoleCircle": [
+      "108"
+    ],
+    "NumberOfHoles": [
+      "04/04"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "63,6"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "04/04"
+    ],
+    "WheelBoltBoreDiameter": [
+      "14"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [
+      "3,4"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "reference": "92255403",
+  "id": "92255403",
+  "name": "Fren diski PRO",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "AUDI": [
+      "3Q0615601",
+      "3Q0615601A",
+      "L3QD615601"
+    ],
+    "FORD": [
+      "2587062",
+      "VWN3CA2A315AA"
+    ],
+    "SEAT": [
+      "3Q0615601",
+      "3Q0615601A"
+    ],
+    "SKODA": [
+      "3Q0615601",
+      "3Q0615601A"
+    ],
+    "VW": [
+      "3Q0615601",
+      "3Q0615601A",
+      "JZW698601BB",
+      "5QN615601"
+    ],
+    "VW (SVW)": [
+      "3QD615601"
+    ]
+  },
+  "eanNumber": "4019722456206",
+  "attributes": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "12"
+    ],
+    "MinimumThicknessValues": [
+      "10"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "48,3"
+    ],
+    "InnerDiameter": [
+      "172,7"
+    ],
+    "OuterDiameter": [
+      "300"
+    ],
+    "BoltHoleCircle": [
+      "112"
+    ],
+    "NumberOfHoles": [
+      "05/10"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "65"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "05/10"
+    ],
+    "WheelBoltBoreDiameter": [
+      "15,3"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [
+      "5,2"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

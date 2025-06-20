@@ -1,0 +1,84 @@
+{
+  "reference": "92254603",
+  "id": "92254603",
+  "name": "Fren diski PRO",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "DACIA": [
+      "402060540R",
+      "402065616R",
+      "402066818R",
+      "8671005975"
+    ],
+    "RENAULT": [
+      "402065719R",
+      "402068053R",
+      "402069518R",
+      "7700426389",
+      "7700428389",
+      "7701205086",
+      "7701205230",
+      "7701205842",
+      "7701206118",
+      "7701207829"
+    ],
+    "SAMSUNG": [
+      "402069518R"
+    ]
+  },
+  "eanNumber": "4019722456084",
+  "attributes": {
+    "Type": [
+      "Dıştan havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "24"
+    ],
+    "MinimumThicknessValues": [
+      "21,8"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "44"
+    ],
+    "InnerDiameter": [
+      "140"
+    ],
+    "OuterDiameter": [
+      "280"
+    ],
+    "BoltHoleCircle": [
+      "100"
+    ],
+    "NumberOfHoles": [
+      "04/06"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "61"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "04/06"
+    ],
+    "WheelBoltBoreDiameter": [
+      "13,8"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [
+      "6,6"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

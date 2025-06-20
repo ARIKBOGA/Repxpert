@@ -1,0 +1,91 @@
+{
+  "reference": "92036803",
+  "id": "92036803",
+  "name": "Fren diski PRO",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "AUDI": [
+      "1HM615301E",
+      "321615301D",
+      "3256152893",
+      "357615301D",
+      "6N0615301D"
+    ],
+    "SEAT": [
+      "1HM615301E",
+      "321615301D",
+      "3256152893",
+      "357615301D",
+      "6N0615301D"
+    ],
+    "SKODA": [
+      "1HM615301E",
+      "321615301D",
+      "3256152893",
+      "357615301D",
+      "6N0615301D"
+    ],
+    "VW": [
+      "1HM615301E",
+      "321615301D",
+      "3256152893",
+      "357615301D",
+      "6N0615301D"
+    ]
+  },
+  "eanNumber": "4019722308611",
+  "attributes": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "20"
+    ],
+    "MinimumThicknessValues": [
+      "18"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "38,8"
+    ],
+    "InnerDiameter": [
+      "132,4"
+    ],
+    "OuterDiameter": [
+      "256"
+    ],
+    "BoltHoleCircle": [
+      "100"
+    ],
+    "NumberOfHoles": [
+      "04/05"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "65"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "04/05"
+    ],
+    "WheelBoltBoreDiameter": [
+      "13,8"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [
+      "4,2"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

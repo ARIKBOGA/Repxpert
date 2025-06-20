@@ -1,0 +1,98 @@
+{
+  "reference": "92074303",
+  "id": "92074303",
+  "name": "Fren diski PRO",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "AUDI": [
+      "7M0615601A",
+      "7M0615601B",
+      "7M0615601C"
+    ],
+    "FORD": [
+      "1001094",
+      "1023605",
+      "1044570",
+      "1045995",
+      "1137985",
+      "1137986",
+      "1526694",
+      "7295020",
+      "95VWX2A315A1D",
+      "95VWX2A315AE"
+    ],
+    "FORD USA": [
+      "95VWX2A315AD"
+    ],
+    "SEAT": [
+      "7M0615601A",
+      "7M0615601B",
+      "7M0615601C"
+    ],
+    "SKODA": [
+      "7M0615601A",
+      "7M0615601B",
+      "7M0615601C"
+    ],
+    "VW": [
+      "7M0615601A",
+      "7M0615601B",
+      "7M0615601C"
+    ]
+  },
+  "eanNumber": "4019722301148",
+  "attributes": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "9,9"
+    ],
+    "MinimumThicknessValues": [
+      "8"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "45,5"
+    ],
+    "InnerDiameter": [
+      "155"
+    ],
+    "OuterDiameter": [
+      "268"
+    ],
+    "BoltHoleCircle": [
+      "112"
+    ],
+    "NumberOfHoles": [
+      "05/06"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "68,2"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "05/06"
+    ],
+    "WheelBoltBoreDiameter": [
+      "17"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [
+      "4,2"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "reference": "92074203",
+  "id": "92074203",
+  "name": "Fren diski PRO",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "AUDI": [
+      "7M0615301E",
+      "7M0615301G"
+    ],
+    "FORD": [
+      "1001093",
+      "1044569",
+      "1045994",
+      "1143640",
+      "1143641",
+      "1526686",
+      "7236232",
+      "95VW1125B1D",
+      "95VW1125BC",
+      "95VWX1125B1D",
+      "95VWX1125BD",
+      "95VWX1125BE",
+      "95WX1125BC"
+    ],
+    "SEAT": [
+      "7M0615301E",
+      "7M0615301G"
+    ],
+    "SKODA": [
+      "7M0615301E",
+      "7M0615301G"
+    ],
+    "VW": [
+      "7M0615301E",
+      "7M0615301G"
+    ]
+  },
+  "eanNumber": "4019722301179",
+  "attributes": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "25"
+    ],
+    "MinimumThicknessValues": [
+      "21"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "55,2"
+    ],
+    "InnerDiameter": [
+      "145,5"
+    ],
+    "OuterDiameter": [
+      "288"
+    ],
+    "BoltHoleCircle": [
+      "112"
+    ],
+    "NumberOfHoles": [
+      "05/06"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "68,1"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "05/06"
+    ],
+    "WheelBoltBoreDiameter": [
+      "16,7"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [
+      "7,5"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

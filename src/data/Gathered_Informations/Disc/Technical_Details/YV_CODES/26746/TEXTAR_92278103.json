@@ -1,0 +1,82 @@
+{
+  "reference": "92278103",
+  "id": "92278103",
+  "name": "Fren diski PRO",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "NISSAN": [
+      "432064CE0A",
+      "432066RA0A",
+      "432066RN0A",
+      "432066RS1A",
+      "D32064CE0A",
+      "D32064CE0AVA"
+    ],
+    "NISSAN (DFAC)": [
+      "432064CE0C"
+    ],
+    "RENAULT": [
+      "432064423R"
+    ],
+    "SAMSUNG": [
+      "432064423R",
+      "432064CE0A",
+      "D32064CE0A"
+    ]
+  },
+  "eanNumber": "4019722480874",
+  "attributes": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "16"
+    ],
+    "MinimumThicknessValues": [
+      "14"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "47"
+    ],
+    "InnerDiameter": [
+      "158"
+    ],
+    "OuterDiameter": [
+      "292"
+    ],
+    "BoltHoleCircle": [
+      "114,3"
+    ],
+    "NumberOfHoles": [
+      "05/05"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "68"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "05/05"
+    ],
+    "WheelBoltBoreDiameter": [
+      "12,8"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [
+      "5,1"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

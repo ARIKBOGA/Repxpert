@@ -1,0 +1,65 @@
+{
+  "reference": "93242500",
+  "id": "93242500",
+  "name": "Fren diski",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "FORD": [
+      "1488311",
+      "8C1V2A315AA"
+    ]
+  },
+  "eanNumber": "4019722448461",
+  "attributes": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "16"
+    ],
+    "MinimumThicknessValues": [
+      "13"
+    ],
+    "Surface": [],
+    "HeightValues": [
+      "43,9"
+    ],
+    "InnerDiameter": [
+      "148"
+    ],
+    "OuterDiameter": [
+      "284"
+    ],
+    "BoltHoleCircle": [
+      "124"
+    ],
+    "NumberOfHoles": [
+      "10/10"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "107,1"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "10/10"
+    ],
+    "WheelBoltBoreDiameter": [
+      "10,7"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [
+      "6"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}
