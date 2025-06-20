@@ -1,0 +1,110 @@
+{
+  "reference": "92238305",
+  "id": "92238305",
+  "name": "Fren diski PRO+",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "AUDI": [
+      "4H0615601D",
+      "4H0615601H",
+      "4H0615601K",
+      "4H0615601Q",
+      "80A615601A",
+      "80A615601C",
+      "8W0615601E",
+      "8W0615601K"
+    ],
+    "AUDI (FAW)": [
+      "L80D615601"
+    ],
+    "PORSCHE": [
+      "95B615601A",
+      "95B615601F",
+      "95B615601G"
+    ],
+    "SEAT": [
+      "4H0615601D",
+      "4H0615601H",
+      "4H0615601K",
+      "4H0615601Q",
+      "80A615601C",
+      "8W0615601E",
+      "8W0615601K"
+    ],
+    "SKODA": [
+      "4H0615601D",
+      "4H0615601H",
+      "4H0615601K",
+      "4H0615601Q",
+      "80A615601C",
+      "8W0615601E",
+      "8W0615601K"
+    ],
+    "VW": [
+      "4H0615601D",
+      "4H0615601H",
+      "4H0615601K",
+      "4H0615601Q",
+      "80A615601C",
+      "8W0615601E",
+      "8W0615601K"
+    ]
+  },
+  "eanNumber": "4019722475641",
+  "attributes": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "22"
+    ],
+    "MinimumThicknessValues": [
+      "20"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "35,8"
+    ],
+    "InnerDiameter": [
+      "143,2"
+    ],
+    "OuterDiameter": [
+      "330"
+    ],
+    "BoltHoleCircle": [
+      "112"
+    ],
+    "NumberOfHoles": [
+      "05/06"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "68"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "05/06"
+    ],
+    "WheelBoltBoreDiameter": [
+      "15,4"
+    ],
+    "Machining": [
+      "Yüksek karbonlu"
+    ],
+    "TighteningTorque": [],
+    "Weight": [
+      "7,6"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

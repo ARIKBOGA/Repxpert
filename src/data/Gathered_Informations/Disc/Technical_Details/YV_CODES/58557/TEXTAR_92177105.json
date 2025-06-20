@@ -1,0 +1,109 @@
+{
+  "reference": "92177105",
+  "id": "92177105",
+  "name": "Fren diski PRO+",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "CHRYSLER": [
+      "04779197AA",
+      "04779197AB",
+      "04779197AC",
+      "04779197AD",
+      "04779197AE",
+      "04779197AF",
+      "04779197AG",
+      "05154118AA",
+      "05154118AB",
+      "05154118AC",
+      "4779197AA",
+      "4779197AB",
+      "4779197AC",
+      "4779197AD",
+      "4779197AE",
+      "4779197AF",
+      "4779197AG",
+      "5154118AA",
+      "5154118AB",
+      "5154118AC",
+      "5154118AD"
+    ],
+    "DODGE": [
+      "5154118AD"
+    ],
+    "FIAT": [
+      "K04779197AE",
+      "K05154118AC"
+    ],
+    "LANCIA": [
+      "00K05154118AD",
+      "00K68368065AA",
+      "K04779197AA",
+      "K04779197AB",
+      "K04779197AC",
+      "K04779197AD",
+      "K04779197AF",
+      "K04779197AG",
+      "K05154118AA",
+      "K05154118AB",
+      "K05154118AD",
+      "K68368065AA"
+    ]
+  },
+  "eanNumber": "4019722484032",
+  "attributes": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "28"
+    ],
+    "MinimumThicknessValues": [
+      "26,5"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "54,7"
+    ],
+    "InnerDiameter": [
+      "186"
+    ],
+    "OuterDiameter": [
+      "345"
+    ],
+    "BoltHoleCircle": [
+      "115"
+    ],
+    "NumberOfHoles": [
+      "05/05"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "72,6"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "05/05"
+    ],
+    "WheelBoltBoreDiameter": [
+      "16,7"
+    ],
+    "Machining": [
+      "Yüksek karbonlu"
+    ],
+    "TighteningTorque": [],
+    "Weight": [
+      "10,4"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

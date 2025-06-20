@@ -1,22 +1,46 @@
 {
-  "reference": "92055503",
-  "id": "92055503",
+  "reference": "92109703",
+  "id": "92109703",
   "name": "Fren diski PRO",
   "brand": "TEXTAR",
   "wvaNumbers": [],
   "brand_oe_map": {
-    "BMW": [
-      "1160673",
-      "1160979",
-      "34111160673",
-      "34111160979",
-      "34116757750",
-      "34116757751",
-      "6757750",
-      "6757751"
+    "FORD": [
+      "1323102",
+      "1376138",
+      "1464914",
+      "1465619",
+      "1506339",
+      "1676983",
+      "1S7J2A315CB",
+      "1S7W2A315A1D",
+      "1S7W2A315AB",
+      "1S7W2A315AC",
+      "1S7W2A315AD",
+      "1S7W2A315B3B",
+      "1S7W2A315B3C",
+      "1S7W2A315B3E",
+      "1S7W2A315CA",
+      "1S7W2A315CB",
+      "4098427",
+      "4098428",
+      "4110588",
+      "4143445",
+      "4176921",
+      "4179406",
+      "7S712A315BA",
+      "7S7J2A315BB",
+      "LK1S7W2A315AA"
+    ],
+    "JAGUAR": [
+      "C2S35271",
+      "C2S42668",
+      "C2S49730",
+      "C2S52088",
+      "C2S9231"
     ]
   },
-  "eanNumber": "4019722300967",
+  "eanNumber": "4019722309366",
   "attributes": {
     "Type": [
       "dolu"
@@ -25,25 +49,25 @@
       "12"
     ],
     "MinimumThicknessValues": [
-      "10,4"
+      "10"
     ],
     "Surface": [
       "Kaplamalı"
     ],
     "HeightValues": [
-      "51,7"
+      "34,1"
     ],
     "InnerDiameter": [
-      "148"
+      "151"
     ],
     "OuterDiameter": [
-      "286"
+      "280"
     ],
     "BoltHoleCircle": [
-      "120"
+      "108"
     ],
     "NumberOfHoles": [
-      "05/06"
+      "05/05"
     ],
     "AxleVersion": [],
     "TechnicalInformationNumber": [],
@@ -54,18 +78,18 @@
       "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
     ],
     "CenteringDiameter": [
-      "79"
+      "63,5"
     ],
     "HoleArrangement_HoleNumber": [
-      "05/06"
+      "05/05"
     ],
     "WheelBoltBoreDiameter": [
-      "14,7"
+      "13,8"
     ],
     "Machining": [],
     "TighteningTorque": [],
     "Weight": [
-      "5,2"
+      "4,9"
     ],
     "Color": [],
     "ThreadSize": []

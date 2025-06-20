@@ -1,43 +1,39 @@
 {
-  "reference": "92055503",
-  "id": "92055503",
+  "reference": "92294003",
+  "id": "92294003",
   "name": "Fren diski PRO",
   "brand": "TEXTAR",
   "wvaNumbers": [],
   "brand_oe_map": {
-    "BMW": [
-      "1160673",
-      "1160979",
-      "34111160673",
-      "34111160979",
-      "34116757750",
-      "34116757751",
-      "6757750",
-      "6757751"
+    "MINI": [
+      "34219808513",
+      "34219811540",
+      "9808513",
+      "9811540"
     ]
   },
-  "eanNumber": "4019722300967",
+  "eanNumber": "4019722496165",
   "attributes": {
     "Type": [
       "dolu"
     ],
     "ThicknessValues": [
-      "12"
+      "10"
     ],
     "MinimumThicknessValues": [
-      "10,4"
+      "8,4"
     ],
     "Surface": [
       "Kaplamalı"
     ],
     "HeightValues": [
-      "51,7"
+      "50,2"
     ],
     "InnerDiameter": [
-      "148"
+      "151,8"
     ],
     "OuterDiameter": [
-      "286"
+      "296"
     ],
     "BoltHoleCircle": [
       "120"
@@ -60,12 +56,12 @@
       "05/06"
     ],
     "WheelBoltBoreDiameter": [
-      "14,7"
+      "16,7"
     ],
     "Machining": [],
     "TighteningTorque": [],
     "Weight": [
-      "5,2"
+      "4,7"
     ],
     "Color": [],
     "ThreadSize": []

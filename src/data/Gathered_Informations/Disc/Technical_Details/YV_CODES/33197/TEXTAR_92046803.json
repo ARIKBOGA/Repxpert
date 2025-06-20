@@ -1,0 +1,115 @@
+{
+  "reference": "92046803",
+  "id": "92046803",
+  "name": "Fren diski PRO",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "ALFA ROMEO": [
+      "0060552375",
+      "1641022023",
+      "164102202300",
+      "46445006",
+      "46776742",
+      "6001073198",
+      "60551775",
+      "60552375",
+      "60569163",
+      "60569386",
+      "60571548",
+      "60578093",
+      "60622077",
+      "60653478",
+      "60658565",
+      "60699518",
+      "60801722",
+      "60813443",
+      "60815938",
+      "71711434",
+      "71711447",
+      "71739567",
+      "71739568",
+      "71770911",
+      "71772267",
+      "82410539",
+      "82427592",
+      "82450539"
+    ],
+    "FIAT": [
+      "51990127",
+      "51996236",
+      "51996238",
+      "51996239",
+      "52015291",
+      "52063171",
+      "60578093"
+    ],
+    "GENERAL MOTORS": [
+      "95511282"
+    ],
+    "LANCIA": [
+      "6001073198",
+      "60578093",
+      "71770911"
+    ],
+    "OPEL": [
+      "569086",
+      "569095",
+      "95515331"
+    ]
+  },
+  "eanNumber": "4019722309045",
+  "attributes": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "22"
+    ],
+    "MinimumThicknessValues": [
+      "20,2"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "43,6"
+    ],
+    "InnerDiameter": [
+      "127,3"
+    ],
+    "OuterDiameter": [
+      "284"
+    ],
+    "BoltHoleCircle": [
+      "98"
+    ],
+    "NumberOfHoles": [
+      "05/06"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "59"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "05/06"
+    ],
+    "WheelBoltBoreDiameter": [
+      "12,9"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [
+      "6,3"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

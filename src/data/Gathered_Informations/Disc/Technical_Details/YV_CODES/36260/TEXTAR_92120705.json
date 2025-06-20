@@ -1,0 +1,121 @@
+{
+  "reference": "92120705",
+  "id": "92120705",
+  "name": "Fren diski PRO+",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "AUDI": [
+      "1K0615301AC",
+      "1K0615301AK",
+      "1K0615301AQ",
+      "1K0615301AS",
+      "1K0615301S",
+      "5C0615301",
+      "5C0615301C",
+      "JZW615301A"
+    ],
+    "SEAT": [
+      "1K0615301AC",
+      "1K0615301AK",
+      "1K0615301AQ",
+      "1K0615301AS",
+      "1K0615301S",
+      "5C0615301",
+      "5C0615301C",
+      "JZW615301A"
+    ],
+    "SKODA": [
+      "1K0615301AC",
+      "1K0615301AK",
+      "1K0615301AQ",
+      "1K0615301AS",
+      "1K0615301S",
+      "5C0615301",
+      "5C0615301C",
+      "JZW615301A"
+    ],
+    "SKODA (SVW)": [
+      "1KD615301A",
+      "1KD615301C",
+      "1KD615301F",
+      "L1KD615301C"
+    ],
+    "VW": [
+      "1K0615301AC",
+      "1K0615301AK",
+      "1K0615301AQ",
+      "1K0615301AS",
+      "1K0615301S",
+      "5C0615301",
+      "5C0615301C",
+      "8E0098301AA",
+      "8E0098301S",
+      "8P0098301A",
+      "JZW615301A",
+      "JZW698302CS"
+    ],
+    "VW (FAW)": [
+      "16D615301",
+      "1KD615301C",
+      "L16D615301",
+      "L1KD615301C"
+    ]
+  },
+  "eanNumber": "4019722287237",
+  "attributes": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "22"
+    ],
+    "MinimumThicknessValues": [
+      "19"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "49,7"
+    ],
+    "InnerDiameter": [
+      "144,2"
+    ],
+    "OuterDiameter": [
+      "280"
+    ],
+    "BoltHoleCircle": [
+      "112"
+    ],
+    "NumberOfHoles": [
+      "05/10"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+    ],
+    "CenteringDiameter": [
+      "65"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "05/10"
+    ],
+    "WheelBoltBoreDiameter": [
+      "15,3"
+    ],
+    "Machining": [
+      "Yüksek karbonlu"
+    ],
+    "TighteningTorque": [],
+    "Weight": [
+      "5,7"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

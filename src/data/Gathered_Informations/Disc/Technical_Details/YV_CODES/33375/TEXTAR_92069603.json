@@ -1,49 +1,73 @@
 {
-  "reference": "92055503",
-  "id": "92055503",
+  "reference": "92069603",
+  "id": "92069603",
   "name": "Fren diski PRO",
   "brand": "TEXTAR",
   "wvaNumbers": [],
   "brand_oe_map": {
-    "BMW": [
-      "1160673",
-      "1160979",
-      "34111160673",
-      "34111160979",
-      "34116757750",
-      "34116757751",
-      "6757750",
-      "6757751"
+    "ALFA ROMEO": [
+      "60812137"
+    ],
+    "CITROËN": [
+      "1606321980",
+      "1617328980",
+      "1618879780",
+      "424973",
+      "424974",
+      "4249E5",
+      "4249L2"
+    ],
+    "FIAT": [
+      "46401356",
+      "46542383",
+      "46831041",
+      "51896287",
+      "51896288",
+      "52015293",
+      "52063172",
+      "59064264",
+      "60812137",
+      "71739640"
+    ],
+    "LANCIA": [
+      "51896287",
+      "51896288"
+    ],
+    "PEUGEOT": [
+      "1618879780",
+      "424973",
+      "4249E5",
+      "4249L2"
     ]
   },
-  "eanNumber": "4019722300967",
+  "eanNumber": "4019722308789",
   "attributes": {
     "Type": [
-      "dolu"
+      "içten havalandırmalı"
     ],
     "ThicknessValues": [
-      "12"
+      "22"
     ],
     "MinimumThicknessValues": [
-      "10,4"
+      "20,2"
     ],
     "Surface": [
       "Kaplamalı"
     ],
     "HeightValues": [
-      "51,7"
+      "40,3"
     ],
     "InnerDiameter": [
-      "148"
+      "127,1"
     ],
     "OuterDiameter": [
-      "286"
+      "257"
     ],
     "BoltHoleCircle": [
-      "120"
+      "98"
     ],
     "NumberOfHoles": [
-      "05/06"
+      "04/06"
     ],
     "AxleVersion": [],
     "TechnicalInformationNumber": [],
@@ -54,18 +78,18 @@
       "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
     ],
     "CenteringDiameter": [
-      "79"
+      "59"
     ],
     "HoleArrangement_HoleNumber": [
-      "05/06"
+      "04/06"
     ],
     "WheelBoltBoreDiameter": [
-      "14,7"
+      "13"
     ],
     "Machining": [],
     "TighteningTorque": [],
     "Weight": [
-      "5,2"
+      "5"
     ],
     "Color": [],
     "ThreadSize": []

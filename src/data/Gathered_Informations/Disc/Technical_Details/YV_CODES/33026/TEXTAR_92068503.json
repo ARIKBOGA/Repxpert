@@ -1,49 +1,65 @@
 {
-  "reference": "92055503",
-  "id": "92055503",
+  "reference": "92068503",
+  "id": "92068503",
   "name": "Fren diski PRO",
   "brand": "TEXTAR",
   "wvaNumbers": [],
   "brand_oe_map": {
-    "BMW": [
-      "1160673",
-      "1160979",
-      "34111160673",
-      "34111160979",
-      "34116757750",
-      "34116757751",
-      "6757750",
-      "6757751"
+    "ALFA ROMEO": [
+      "0060806137",
+      "0060811266",
+      "46416712",
+      "46423415",
+      "60806137",
+      "60810076",
+      "60811256",
+      "60811266",
+      "71738145",
+      "7645056",
+      "7779409"
+    ],
+    "ASIA MOTORS": [
+      "09963114"
+    ],
+    "FIAT": [
+      "46416712",
+      "46423415",
+      "51749124",
+      "6001073185",
+      "71738145",
+      "71770936",
+      "71772239",
+      "7645056"
     ]
   },
-  "eanNumber": "4019722300967",
+  "eanNumber": "4019722308796",
   "attributes": {
     "Type": [
-      "dolu"
+      "içten havalandırmalı"
     ],
     "ThicknessValues": [
-      "12"
+      "20"
     ],
     "MinimumThicknessValues": [
-      "10,4"
+      "18,2"
     ],
     "Surface": [
       "Kaplamalı"
     ],
     "HeightValues": [
-      "51,7"
+      "40,5"
     ],
     "InnerDiameter": [
-      "148"
+      "126,8"
     ],
     "OuterDiameter": [
-      "286"
+      "257"
     ],
     "BoltHoleCircle": [
-      "120"
+      "98"
     ],
     "NumberOfHoles": [
-      "05/06"
+      "04/08"
     ],
     "AxleVersion": [],
     "TechnicalInformationNumber": [],
@@ -54,18 +70,18 @@
       "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
     ],
     "CenteringDiameter": [
-      "79"
+      "59"
     ],
     "HoleArrangement_HoleNumber": [
-      "05/06"
+      "04/08"
     ],
     "WheelBoltBoreDiameter": [
-      "14,7"
+      "13,2"
     ],
     "Machining": [],
     "TighteningTorque": [],
     "Weight": [
-      "5,2"
+      "4,8"
     ],
     "Color": [],
     "ThreadSize": []

@@ -1,43 +1,44 @@
 {
-  "reference": "92055503",
-  "id": "92055503",
-  "name": "Fren diski PRO",
+  "reference": "92265725",
+  "id": "92265725",
+  "name": "Fren diski PRO+",
   "brand": "TEXTAR",
   "wvaNumbers": [],
   "brand_oe_map": {
     "BMW": [
-      "1160673",
-      "1160979",
-      "34111160673",
-      "34111160979",
-      "34116757750",
-      "34116757751",
-      "6757750",
-      "6757751"
+      "34106898723",
+      "34116775277",
+      "34116884301",
+      "6775277",
+      "6884301"
+    ],
+    "BMW (BRILLIANCE)": [
+      "34116793125",
+      "6793125"
     ]
   },
-  "eanNumber": "4019722300967",
+  "eanNumber": "4019722471469",
   "attributes": {
     "Type": [
-      "dolu"
+      "içten havalandırmalı, İki parçalı fren diski"
     ],
     "ThicknessValues": [
-      "12"
+      "30"
     ],
     "MinimumThicknessValues": [
-      "10,4"
+      "28,4"
     ],
     "Surface": [
       "Kaplamalı"
     ],
     "HeightValues": [
-      "51,7"
+      "66,1"
     ],
     "InnerDiameter": [
-      "148"
+      "186,8"
     ],
     "OuterDiameter": [
-      "286"
+      "348"
     ],
     "BoltHoleCircle": [
       "120"
@@ -51,21 +52,23 @@
     "Diameter": [],
     "Thickness": [],
     "SupplementaryInfo": [
-      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok, Cıvatalar ile"
     ],
     "CenteringDiameter": [
-      "79"
+      "75"
     ],
     "HoleArrangement_HoleNumber": [
       "05/06"
     ],
     "WheelBoltBoreDiameter": [
-      "14,7"
+      "16,5"
     ],
-    "Machining": [],
+    "Machining": [
+      "Yüksek karbonlu"
+    ],
     "TighteningTorque": [],
     "Weight": [
-      "5,2"
+      "10,6"
     ],
     "Color": [],
     "ThreadSize": []

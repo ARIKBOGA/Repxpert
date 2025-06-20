@@ -1,49 +1,46 @@
 {
-  "reference": "92055503",
-  "id": "92055503",
-  "name": "Fren diski PRO",
+  "reference": "92040600",
+  "id": "92040600",
+  "name": "Fren diski",
   "brand": "TEXTAR",
   "wvaNumbers": [],
   "brand_oe_map": {
-    "BMW": [
-      "1160673",
-      "1160979",
-      "34111160673",
-      "34111160979",
-      "34116757750",
-      "34116757751",
-      "6757750",
-      "6757751"
+    "LAND ROVER": [
+      "LR017951"
+    ],
+    "ROVER": [
+      "571762",
+      "FRC7329",
+      "R571762",
+      "RTC3194"
     ]
   },
-  "eanNumber": "4019722300967",
+  "eanNumber": "4019722111105",
   "attributes": {
     "Type": [
       "dolu"
     ],
     "ThicknessValues": [
-      "12"
+      "14"
     ],
     "MinimumThicknessValues": [
-      "10,4"
+      "13"
     ],
-    "Surface": [
-      "Kaplamalı"
-    ],
+    "Surface": [],
     "HeightValues": [
-      "51,7"
+      "70"
     ],
     "InnerDiameter": [
-      "148"
+      "160"
     ],
     "OuterDiameter": [
-      "286"
+      "298"
     ],
     "BoltHoleCircle": [
-      "120"
+      "127"
     ],
     "NumberOfHoles": [
-      "05/06"
+      "05/05"
     ],
     "AxleVersion": [],
     "TechnicalInformationNumber": [],
@@ -54,18 +51,18 @@
       "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
     ],
     "CenteringDiameter": [
-      "79"
+      "101,6"
     ],
     "HoleArrangement_HoleNumber": [
-      "05/06"
+      "05/05"
     ],
     "WheelBoltBoreDiameter": [
-      "14,7"
+      "10,3"
     ],
     "Machining": [],
     "TighteningTorque": [],
     "Weight": [
-      "5,2"
+      "6,9"
     ],
     "Color": [],
     "ThreadSize": []

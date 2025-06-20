@@ -1,49 +1,72 @@
 {
-  "reference": "92055503",
-  "id": "92055503",
+  "reference": "92224903",
+  "id": "92224903",
   "name": "Fren diski PRO",
   "brand": "TEXTAR",
   "wvaNumbers": [],
   "brand_oe_map": {
-    "BMW": [
-      "1160673",
-      "1160979",
-      "34111160673",
-      "34111160979",
-      "34116757750",
-      "34116757751",
-      "6757750",
-      "6757751"
+    "AUDI": [
+      "1K0615601AA",
+      "5Q0615601D",
+      "5QD615601A"
+    ],
+    "AUDI (FAW)": [
+      "L5QD615601A"
+    ],
+    "FORD": [
+      "2587070",
+      "VWN3CA2A315BA"
+    ],
+    "SEAT": [
+      "1K0615601AA",
+      "5Q0615601D",
+      "5QD615601A"
+    ],
+    "SKODA": [
+      "1K0615601AA",
+      "5Q0615601D",
+      "5QD615601A"
+    ],
+    "VW": [
+      "1K0615601AA",
+      "561615601",
+      "5Q0615601D",
+      "5QD615601A",
+      "8P0098601P",
+      "JZW698601BF"
+    ],
+    "VW (FAW)": [
+      "L5QD615601A"
     ]
   },
-  "eanNumber": "4019722300967",
+  "eanNumber": "4019722407390",
   "attributes": {
     "Type": [
       "dolu"
     ],
     "ThicknessValues": [
-      "12"
+      "10"
     ],
     "MinimumThicknessValues": [
-      "10,4"
+      "8"
     ],
     "Surface": [
       "Kaplamalı"
     ],
     "HeightValues": [
-      "51,7"
+      "48,3"
     ],
     "InnerDiameter": [
-      "148"
+      "149"
     ],
     "OuterDiameter": [
-      "286"
+      "272"
     ],
     "BoltHoleCircle": [
-      "120"
+      "112"
     ],
     "NumberOfHoles": [
-      "05/06"
+      "05/10"
     ],
     "AxleVersion": [],
     "TechnicalInformationNumber": [],
@@ -54,18 +77,18 @@
       "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
     ],
     "CenteringDiameter": [
-      "79"
+      "65"
     ],
     "HoleArrangement_HoleNumber": [
-      "05/06"
+      "05/10"
     ],
     "WheelBoltBoreDiameter": [
-      "14,7"
+      "15,3"
     ],
     "Machining": [],
     "TighteningTorque": [],
     "Weight": [
-      "5,2"
+      "3,9"
     ],
     "Color": [],
     "ThreadSize": []

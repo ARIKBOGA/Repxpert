@@ -1,49 +1,64 @@
 {
-  "reference": "92055503",
-  "id": "92055503",
+  "reference": "92157003",
+  "id": "92157003",
   "name": "Fren diski PRO",
   "brand": "TEXTAR",
   "wvaNumbers": [],
   "brand_oe_map": {
-    "BMW": [
-      "1160673",
-      "1160979",
-      "34111160673",
-      "34111160979",
-      "34116757750",
-      "34116757751",
-      "6757750",
-      "6757751"
+    "CITROËN": [
+      "1611841980",
+      "1618865180",
+      "424924",
+      "424925",
+      "424992",
+      "4249K0"
+    ],
+    "FIAT": [
+      "1440027088",
+      "9467548488",
+      "9467548587",
+      "9467548588"
+    ],
+    "PEUGEOT": [
+      "1618865180",
+      "1687772380",
+      "424924",
+      "424925",
+      "424992",
+      "4249K0"
+    ],
+    "TOYOTA": [
+      "SU001A1064"
     ]
   },
-  "eanNumber": "4019722300967",
+  "eanNumber": "4019722470059",
   "attributes": {
     "Type": [
-      "dolu"
+      "içten havalandırmalı"
     ],
     "ThicknessValues": [
-      "12"
+      "28"
     ],
     "MinimumThicknessValues": [
-      "10,4"
+      "26"
     ],
     "Surface": [
       "Kaplamalı"
     ],
     "HeightValues": [
-      "51,7"
+      "48"
     ],
     "InnerDiameter": [
-      "148"
+      "145,7"
     ],
     "OuterDiameter": [
-      "286"
+      "304"
     ],
     "BoltHoleCircle": [
-      "120"
+      "108"
     ],
     "NumberOfHoles": [
-      "05/06"
+      "05/08"
     ],
     "AxleVersion": [],
     "TechnicalInformationNumber": [],
@@ -54,18 +69,18 @@
       "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
     ],
     "CenteringDiameter": [
-      "79"
+      "71"
     ],
     "HoleArrangement_HoleNumber": [
-      "05/06"
+      "05/08"
     ],
     "WheelBoltBoreDiameter": [
-      "14,7"
+      "13,3"
     ],
     "Machining": [],
     "TighteningTorque": [],
     "Weight": [
-      "5,2"
+      "9,7"
     ],
     "Color": [],
     "ThreadSize": []

@@ -1,49 +1,44 @@
 {
-  "reference": "92055503",
-  "id": "92055503",
-  "name": "Fren diski PRO",
+  "reference": "93104800",
+  "id": "93104800",
+  "name": "Fren diski",
   "brand": "TEXTAR",
   "wvaNumbers": [],
   "brand_oe_map": {
-    "BMW": [
-      "1160673",
-      "1160979",
-      "34111160673",
-      "34111160979",
-      "34116757750",
-      "34116757751",
-      "6757750",
-      "6757751"
+    "IVECO": [
+      "2994036",
+      "2994066",
+      "42471034",
+      "7182300",
+      "7185410"
     ]
   },
-  "eanNumber": "4019722300967",
+  "eanNumber": "4019722253683",
   "attributes": {
     "Type": [
       "dolu"
     ],
     "ThicknessValues": [
-      "12"
+      "16"
     ],
     "MinimumThicknessValues": [
-      "10,4"
+      "13"
     ],
-    "Surface": [
-      "Kaplamalı"
-    ],
+    "Surface": [],
     "HeightValues": [
-      "51,7"
+      "69,4"
     ],
     "InnerDiameter": [
-      "148"
+      "144,9"
     ],
     "OuterDiameter": [
-      "286"
+      "276"
     ],
     "BoltHoleCircle": [
-      "120"
+      "118"
     ],
     "NumberOfHoles": [
-      "05/06"
+      "05/07"
     ],
     "AxleVersion": [],
     "TechnicalInformationNumber": [],
@@ -51,21 +46,21 @@
     "Diameter": [],
     "Thickness": [],
     "SupplementaryInfo": [
-      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok, ABS sensör halkası ile"
     ],
     "CenteringDiameter": [
-      "79"
+      "73"
     ],
     "HoleArrangement_HoleNumber": [
-      "05/06"
+      "05/07"
     ],
     "WheelBoltBoreDiameter": [
-      "14,7"
+      "15,7"
     ],
     "Machining": [],
     "TighteningTorque": [],
     "Weight": [
-      "5,2"
+      "6,5"
     ],
     "Color": [],
     "ThreadSize": []

@@ -1,46 +1,62 @@
 {
-  "reference": "92055503",
-  "id": "92055503",
+  "reference": "92159303",
+  "id": "92159303",
   "name": "Fren diski PRO",
   "brand": "TEXTAR",
   "wvaNumbers": [],
   "brand_oe_map": {
-    "BMW": [
-      "1160673",
-      "1160979",
-      "34111160673",
-      "34111160979",
-      "34116757750",
-      "34116757751",
-      "6757750",
-      "6757751"
+    "FORD": [
+      "1379931",
+      "1385590",
+      "1405500",
+      "1864280",
+      "1877765",
+      "1892357",
+      "1892358",
+      "2032691",
+      "2111254",
+      "6G912A315AA",
+      "6G912A315BA",
+      "6G912A315BB",
+      "E1GC2A315BB",
+      "E1GC2A315BC",
+      "MEDG9J2A315BD",
+      "MEE1GJ2A315BB",
+      "MEGG9J2A315AA"
+    ],
+    "FORD (CHANGAN)": [
+      "1445210",
+      "7G912A315BA"
+    ],
+    "LAND ROVER": [
+      "LR027123"
     ]
   },
-  "eanNumber": "4019722300967",
+  "eanNumber": "4019722436529",
   "attributes": {
     "Type": [
       "dolu"
     ],
     "ThicknessValues": [
-      "12"
+      "11"
     ],
     "MinimumThicknessValues": [
-      "10,4"
+      "9"
     ],
     "Surface": [
       "Kaplamalı"
     ],
     "HeightValues": [
-      "51,7"
+      "50,8"
     ],
     "InnerDiameter": [
-      "148"
+      "177,6"
     ],
     "OuterDiameter": [
-      "286"
+      "302"
     ],
     "BoltHoleCircle": [
-      "120"
+      "108"
     ],
     "NumberOfHoles": [
       "05/06"
@@ -54,13 +70,13 @@
       "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
     ],
     "CenteringDiameter": [
-      "79"
+      "63,6"
     ],
     "HoleArrangement_HoleNumber": [
       "05/06"
     ],
     "WheelBoltBoreDiameter": [
-      "14,7"
+      "15,8"
     ],
     "Machining": [],
     "TighteningTorque": [],

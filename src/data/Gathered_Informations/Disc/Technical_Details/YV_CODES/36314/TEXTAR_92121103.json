@@ -1,49 +1,73 @@
 {
-  "reference": "92055503",
-  "id": "92055503",
+  "reference": "92121103",
+  "id": "92121103",
   "name": "Fren diski PRO",
   "brand": "TEXTAR",
   "wvaNumbers": [],
   "brand_oe_map": {
-    "BMW": [
-      "1160673",
-      "1160979",
-      "34111160673",
-      "34111160979",
-      "34116757750",
-      "34116757751",
-      "6757750",
-      "6757751"
+    "AUDI": [
+      "1K0615601AC",
+      "1K0615601AJ",
+      "1K0615601L"
+    ],
+    "SEAT": [
+      "1K0615601AC",
+      "1K0615601AJ",
+      "1K0615601L"
+    ],
+    "SKODA": [
+      "1K0615601AC",
+      "1K0615601AJ",
+      "1K0615601L"
+    ],
+    "SKODA (SVW)": [
+      "1KD615601"
+    ],
+    "VW": [
+      "1K0615601AC",
+      "1K0615601AJ",
+      "1K0615601L",
+      "8P0098601N"
+    ],
+    "VW (FAW)": [
+      "1KD615601",
+      "1KD615601A",
+      "L1KD615601A",
+      "L1KD615601B"
+    ],
+    "VW (SVW)": [
+      "1KD615601",
+      "1KD615601B"
     ]
   },
-  "eanNumber": "4019722300967",
+  "eanNumber": "4019722301407",
   "attributes": {
     "Type": [
       "dolu"
     ],
     "ThicknessValues": [
-      "12"
+      "11,9"
     ],
     "MinimumThicknessValues": [
-      "10,4"
+      "10"
     ],
     "Surface": [
       "Kaplamalı"
     ],
     "HeightValues": [
-      "51,7"
+      "48,4"
     ],
     "InnerDiameter": [
-      "148"
+      "140,1"
     ],
     "OuterDiameter": [
-      "286"
+      "256"
     ],
     "BoltHoleCircle": [
-      "120"
+      "112"
     ],
     "NumberOfHoles": [
-      "05/06"
+      "05/10"
     ],
     "AxleVersion": [],
     "TechnicalInformationNumber": [],
@@ -54,18 +78,18 @@
       "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
     ],
     "CenteringDiameter": [
-      "79"
+      "65"
     ],
     "HoleArrangement_HoleNumber": [
-      "05/06"
+      "05/10"
     ],
     "WheelBoltBoreDiameter": [
-      "14,7"
+      "15,3"
     ],
     "Machining": [],
     "TighteningTorque": [],
     "Weight": [
-      "5,2"
+      "4,1"
     ],
     "Color": [],
     "ThreadSize": []

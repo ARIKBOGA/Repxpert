@@ -1,46 +1,61 @@
 {
-  "reference": "92055503",
-  "id": "92055503",
+  "reference": "92074003",
+  "id": "92074003",
   "name": "Fren diski PRO",
   "brand": "TEXTAR",
   "wvaNumbers": [],
   "brand_oe_map": {
-    "BMW": [
-      "1160673",
-      "1160979",
-      "34111160673",
-      "34111160979",
-      "34116757750",
-      "34116757751",
-      "6757750",
-      "6757751"
+    "CITROËN": [
+      "1606400580",
+      "1618863580",
+      "1667857580",
+      "4246J2",
+      "4246J3",
+      "4249C8",
+      "4249H5",
+      "E169008"
+    ],
+    "FIAT": [
+      "1309392080",
+      "1317651080",
+      "71738908"
+    ],
+    "PEUGEOT": [
+      "1606400580",
+      "1618863580",
+      "1667857580",
+      "4246J2",
+      "4246J3",
+      "4249C8",
+      "4249H5",
+      "E169008"
     ]
   },
-  "eanNumber": "4019722300967",
+  "eanNumber": "4019722309236",
   "attributes": {
     "Type": [
-      "dolu"
+      "içten havalandırmalı"
     ],
     "ThicknessValues": [
-      "12"
+      "26"
     ],
     "MinimumThicknessValues": [
-      "10,4"
+      "24,2"
     ],
     "Surface": [
       "Kaplamalı"
     ],
     "HeightValues": [
-      "51,7"
+      "43,6"
     ],
     "InnerDiameter": [
-      "148"
+      "127,2"
     ],
     "OuterDiameter": [
-      "286"
+      "281"
     ],
     "BoltHoleCircle": [
-      "120"
+      "98"
     ],
     "NumberOfHoles": [
       "05/06"
@@ -54,18 +69,18 @@
       "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
     ],
     "CenteringDiameter": [
-      "79"
+      "59"
     ],
     "HoleArrangement_HoleNumber": [
       "05/06"
     ],
     "WheelBoltBoreDiameter": [
-      "14,7"
+      "16,6"
     ],
     "Machining": [],
     "TighteningTorque": [],
     "Weight": [
-      "5,2"
+      "7,3"
     ],
     "Color": [],
     "ThreadSize": []

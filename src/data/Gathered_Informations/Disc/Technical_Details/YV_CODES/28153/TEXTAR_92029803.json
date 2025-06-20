@@ -1,49 +1,60 @@
 {
-  "reference": "92055503",
-  "id": "92055503",
+  "reference": "92029803",
+  "id": "92029803",
   "name": "Fren diski PRO",
   "brand": "TEXTAR",
   "wvaNumbers": [],
   "brand_oe_map": {
-    "BMW": [
-      "1160673",
-      "1160979",
-      "34111160673",
-      "34111160979",
-      "34116757750",
-      "34116757751",
-      "6757750",
-      "6757751"
+    "CITROËN": [
+      "1618859680",
+      "169001",
+      "424689",
+      "4246A5",
+      "424995",
+      "91508338",
+      "95661748",
+      "96070525",
+      "E169001"
+    ],
+    "PEUGEOT": [
+      "1618859680",
+      "424689",
+      "4246A5",
+      "424995",
+      "91508338",
+      "95661748",
+      "96070525",
+      "E169001"
     ]
   },
-  "eanNumber": "4019722300967",
+  "eanNumber": "4019722308680",
   "attributes": {
     "Type": [
       "dolu"
     ],
     "ThicknessValues": [
-      "12"
+      "10"
     ],
     "MinimumThicknessValues": [
-      "10,4"
+      "8"
     ],
     "Surface": [
       "Kaplamalı"
     ],
     "HeightValues": [
-      "51,7"
+      "34"
     ],
     "InnerDiameter": [
-      "148"
+      "133"
     ],
     "OuterDiameter": [
-      "286"
+      "247"
     ],
     "BoltHoleCircle": [
-      "120"
+      "108"
     ],
     "NumberOfHoles": [
-      "05/06"
+      "04/06"
     ],
     "AxleVersion": [],
     "TechnicalInformationNumber": [],
@@ -54,18 +65,18 @@
       "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
     ],
     "CenteringDiameter": [
-      "79"
+      "66"
     ],
     "HoleArrangement_HoleNumber": [
-      "05/06"
+      "04/06"
     ],
     "WheelBoltBoreDiameter": [
-      "14,7"
+      "13"
     ],
     "Machining": [],
     "TighteningTorque": [],
     "Weight": [
-      "5,2"
+      "3,1"
     ],
     "Color": [],
     "ThreadSize": []

@@ -1,0 +1,61 @@
+{
+  "reference": "0 986 479 438",
+  "id": "2398401-1835-00",
+  "name": "Fren takımı, diskli fren Virtual Brake Set",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "BMW": [
+      "34116858652",
+      "34356773017",
+      "34356783230",
+      "34356789329",
+      "6773017",
+      "6783230",
+      "6789329",
+      "6858652"
+    ],
+    "MINI": [
+      "2167235",
+      "2289147",
+      "34112167235",
+      "34112289147",
+      "34116774986",
+      "34116798469",
+      "6774986",
+      "6798469"
+    ]
+  },
+  "eanNumber": "",
+  "attributes": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "22"
+    ],
+    "MinimumThicknessValues": [],
+    "Surface": [],
+    "HeightValues": [],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "294"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

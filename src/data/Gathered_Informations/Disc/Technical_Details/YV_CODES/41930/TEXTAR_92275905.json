@@ -1,46 +1,52 @@
 {
-  "reference": "92055503",
-  "id": "92055503",
-  "name": "Fren diski PRO",
+  "reference": "92275905",
+  "id": "92275905",
+  "name": "Fren diski PRO+",
   "brand": "TEXTAR",
   "wvaNumbers": [],
   "brand_oe_map": {
-    "BMW": [
-      "1160673",
-      "1160979",
-      "34111160673",
-      "34111160979",
-      "34116757750",
-      "34116757751",
-      "6757750",
-      "6757751"
+    "AUDI": [
+      "6R0615301B",
+      "6R0615301E"
+    ],
+    "SEAT": [
+      "6R0615301B",
+      "6R0615301E"
+    ],
+    "SKODA": [
+      "6R0615301B",
+      "6R0615301E"
+    ],
+    "VW": [
+      "6R0615301B",
+      "6R0615301E"
     ]
   },
-  "eanNumber": "4019722300967",
+  "eanNumber": "4019722494222",
   "attributes": {
     "Type": [
-      "dolu"
+      "içten havalandırmalı"
     ],
     "ThicknessValues": [
-      "12"
+      "25"
     ],
     "MinimumThicknessValues": [
-      "10,4"
+      "22"
     ],
     "Surface": [
       "Kaplamalı"
     ],
     "HeightValues": [
-      "51,7"
+      "34,3"
     ],
     "InnerDiameter": [
-      "148"
+      "134,4"
     ],
     "OuterDiameter": [
-      "286"
+      "310"
     ],
     "BoltHoleCircle": [
-      "120"
+      "100"
     ],
     "NumberOfHoles": [
       "05/06"
@@ -51,21 +57,23 @@
     "Diameter": [],
     "Thickness": [],
     "SupplementaryInfo": [
-      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+      "Poyra yok, Tekerlek rulmanı ile, Tekerlek bijon saplaması yok"
     ],
     "CenteringDiameter": [
-      "79"
+      "65"
     ],
     "HoleArrangement_HoleNumber": [
       "05/06"
     ],
     "WheelBoltBoreDiameter": [
-      "14,7"
+      "15,8"
     ],
-    "Machining": [],
+    "Machining": [
+      "Yüksek karbonlu"
+    ],
     "TighteningTorque": [],
     "Weight": [
-      "5,2"
+      "7,8"
     ],
     "Color": [],
     "ThreadSize": []

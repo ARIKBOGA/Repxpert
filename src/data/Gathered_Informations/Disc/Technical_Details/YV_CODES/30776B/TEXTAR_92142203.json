@@ -1,49 +1,51 @@
 {
-  "reference": "92055503",
-  "id": "92055503",
+  "reference": "92142203",
+  "id": "92142203",
   "name": "Fren diski PRO",
   "brand": "TEXTAR",
   "wvaNumbers": [],
   "brand_oe_map": {
-    "BMW": [
-      "1160673",
-      "1160979",
-      "34111160673",
-      "34111160979",
-      "34116757750",
-      "34116757751",
-      "6757750",
-      "6757751"
+    "RENAULT": [
+      "7701472838",
+      "7701713008",
+      "8200209774",
+      "8200367094",
+      "8200655249",
+      "820655249",
+      "8671018108"
+    ],
+    "TOYOTA": [
+      "4243108040"
     ]
   },
-  "eanNumber": "4019722300967",
+  "eanNumber": "4019722402333",
   "attributes": {
     "Type": [
       "dolu"
     ],
     "ThicknessValues": [
-      "12"
+      "11"
     ],
     "MinimumThicknessValues": [
-      "10,4"
+      "9,5"
     ],
     "Surface": [
       "Kaplamalı"
     ],
     "HeightValues": [
-      "51,7"
+      "83,9"
     ],
     "InnerDiameter": [
-      "148"
+      "143"
     ],
     "OuterDiameter": [
-      "286"
+      "274"
     ],
     "BoltHoleCircle": [
-      "120"
+      "108"
     ],
     "NumberOfHoles": [
-      "05/06"
+      "05/05"
     ],
     "AxleVersion": [],
     "TechnicalInformationNumber": [],
@@ -51,21 +53,21 @@
     "Diameter": [],
     "Thickness": [],
     "SupplementaryInfo": [
-      "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
+      "Entegre edilmiş manyetik sensör halkasına sahip, Tekerlek rulmanı ile, Tekerlek bijon saplaması yok, Poyra ile"
     ],
     "CenteringDiameter": [
-      "79"
+      "52,3"
     ],
     "HoleArrangement_HoleNumber": [
-      "05/06"
+      "05/05"
     ],
     "WheelBoltBoreDiameter": [
-      "14,7"
+      "12"
     ],
     "Machining": [],
     "TighteningTorque": [],
     "Weight": [
-      "5,2"
+      "7"
     ],
     "Color": [],
     "ThreadSize": []

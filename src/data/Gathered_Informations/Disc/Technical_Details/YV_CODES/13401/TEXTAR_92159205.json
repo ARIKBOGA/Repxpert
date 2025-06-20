@@ -1,46 +1,67 @@
 {
-  "reference": "92055503",
-  "id": "92055503",
-  "name": "Fren diski PRO",
+  "reference": "92159205",
+  "id": "92159205",
+  "name": "Fren diski PRO+",
   "brand": "TEXTAR",
   "wvaNumbers": [],
   "brand_oe_map": {
-    "BMW": [
-      "1160673",
-      "1160979",
-      "34111160673",
-      "34111160979",
-      "34116757750",
-      "34116757751",
-      "6757750",
-      "6757751"
+    "FORD": [
+      "1379965",
+      "1384689",
+      "1405510",
+      "1420600",
+      "1420601",
+      "1469085",
+      "1500158",
+      "6G912C375CB",
+      "6G912C375CC",
+      "6G912C375CD",
+      "6G912C375F1B",
+      "6G912C375FA",
+      "6G912C375FB",
+      "7G911125BA"
+    ],
+    "LAND ROVER": [
+      "LR000571",
+      "LR007055",
+      "LR068925"
+    ],
+    "VOLVO": [
+      "30736311",
+      "30769056",
+      "31202327",
+      "31202331",
+      "31341382"
+    ],
+    "VOLVO ASIA": [
+      "31358885"
     ]
   },
-  "eanNumber": "4019722300967",
+  "eanNumber": "4019722474767",
   "attributes": {
     "Type": [
-      "dolu"
+      "içten havalandırmalı"
     ],
     "ThicknessValues": [
-      "12"
+      "28"
     ],
     "MinimumThicknessValues": [
-      "10,4"
+      "26"
     ],
     "Surface": [
       "Kaplamalı"
     ],
     "HeightValues": [
-      "51,7"
+      "52,1"
     ],
     "InnerDiameter": [
-      "148"
+      "140"
     ],
     "OuterDiameter": [
-      "286"
+      "300"
     ],
     "BoltHoleCircle": [
-      "120"
+      "108"
     ],
     "NumberOfHoles": [
       "05/06"
@@ -54,18 +75,20 @@
       "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
     ],
     "CenteringDiameter": [
-      "79"
+      "63,6"
     ],
     "HoleArrangement_HoleNumber": [
       "05/06"
     ],
     "WheelBoltBoreDiameter": [
-      "14,7"
+      "15,8"
     ],
-    "Machining": [],
+    "Machining": [
+      "Yüksek karbonlu"
+    ],
     "TighteningTorque": [],
     "Weight": [
-      "5,2"
+      "8,8"
     ],
     "Color": [],
     "ThreadSize": []

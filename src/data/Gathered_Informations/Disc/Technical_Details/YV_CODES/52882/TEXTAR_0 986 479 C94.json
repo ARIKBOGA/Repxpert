@@ -1,0 +1,85 @@
+{
+  "reference": "0 986 479 C94",
+  "id": "2561701-2744-00",
+  "name": "Fren takımı, diskli fren Virtual Brake Set",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "BMW": [
+      "34106860019",
+      "34106876245",
+      "34106882418",
+      "34106888686",
+      "34106888777",
+      "34106891080",
+      "34106898307",
+      "34108870743",
+      "34116860961",
+      "34116865713",
+      "34116866309",
+      "34116890553",
+      "34118843653",
+      "34118867481",
+      "34356865613",
+      "34356888167",
+      "6860019",
+      "6860961",
+      "6865613",
+      "6865713",
+      "6866309",
+      "6876245",
+      "6882418",
+      "6884492",
+      "6888167",
+      "6888686",
+      "6888777",
+      "6888778",
+      "6890553",
+      "6891080",
+      "6898307",
+      "8843653",
+      "8870743"
+    ],
+    "IME": [
+      "6154610"
+    ],
+    "KAROSA": [
+      "6154610"
+    ],
+    "LEYLAND": [
+      "09C35111"
+    ]
+  },
+  "eanNumber": "",
+  "attributes": {
+    "Type": [
+      "içten havalandırmalı"
+    ],
+    "ThicknessValues": [
+      "24"
+    ],
+    "MinimumThicknessValues": [],
+    "Surface": [],
+    "HeightValues": [],
+    "InnerDiameter": [],
+    "OuterDiameter": [
+      "330"
+    ],
+    "BoltHoleCircle": [],
+    "NumberOfHoles": [],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [],
+    "CenteringDiameter": [],
+    "HoleArrangement_HoleNumber": [],
+    "WheelBoltBoreDiameter": [],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

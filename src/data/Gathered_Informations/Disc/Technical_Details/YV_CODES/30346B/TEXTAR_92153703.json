@@ -1,0 +1,98 @@
+{
+  "reference": "92153703",
+  "id": "92153703",
+  "name": "Fren diski PRO",
+  "brand": "TEXTAR",
+  "wvaNumbers": [],
+  "brand_oe_map": {
+    "NISSAN": [
+      "4020600QAC",
+      "4320600Q0D",
+      "4320600QAB",
+      "4320600QAC",
+      "4320600QAD",
+      "4320600QAE",
+      "7701206864",
+      "8200218779"
+    ],
+    "OPEL": [
+      "4408276",
+      "4411910",
+      "4413736",
+      "4414633",
+      "91159916",
+      "91166212",
+      "93161254",
+      "93850649"
+    ],
+    "RENAULT": [
+      "7701206846",
+      "7702206846",
+      "7711130076",
+      "8200050013",
+      "8200218779",
+      "8200228610"
+    ],
+    "VAUXHALL": [
+      "4411910",
+      "4413736",
+      "91166212",
+      "93161254",
+      "93850649"
+    ]
+  },
+  "eanNumber": "4019722482861",
+  "attributes": {
+    "Type": [
+      "dolu"
+    ],
+    "ThicknessValues": [
+      "12"
+    ],
+    "MinimumThicknessValues": [
+      "10"
+    ],
+    "Surface": [
+      "Kaplamalı"
+    ],
+    "HeightValues": [
+      "102,3"
+    ],
+    "InnerDiameter": [
+      "142"
+    ],
+    "OuterDiameter": [
+      "280"
+    ],
+    "BoltHoleCircle": [
+      "118"
+    ],
+    "NumberOfHoles": [
+      "05/05"
+    ],
+    "AxleVersion": [],
+    "TechnicalInformationNumber": [],
+    "TestMark": [],
+    "Diameter": [],
+    "Thickness": [],
+    "SupplementaryInfo": [
+      "ABS sensör halkası ile, Tekerlek rulmanı ile, Tekerlek bijon saplaması yok, Poyra ile"
+    ],
+    "CenteringDiameter": [
+      "62,5"
+    ],
+    "HoleArrangement_HoleNumber": [
+      "05/05"
+    ],
+    "WheelBoltBoreDiameter": [
+      "14"
+    ],
+    "Machining": [],
+    "TighteningTorque": [],
+    "Weight": [
+      "9,1"
+    ],
+    "Color": [],
+    "ThreadSize": []
+  }
+}

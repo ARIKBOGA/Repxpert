@@ -1,49 +1,65 @@
 {
-  "reference": "92055503",
-  "id": "92055503",
-  "name": "Fren diski PRO",
+  "reference": "92195505",
+  "id": "92195505",
+  "name": "Fren diski PRO+",
   "brand": "TEXTAR",
   "wvaNumbers": [],
   "brand_oe_map": {
-    "BMW": [
-      "1160673",
-      "1160979",
-      "34111160673",
-      "34111160979",
-      "34116757750",
-      "34116757751",
-      "6757750",
-      "6757751"
+    "DACIA": [
+      "402063793R",
+      "402064151R",
+      "402069741R"
+    ],
+    "MERCEDES-BENZ": [
+      "4204213300",
+      "A4204213300"
+    ],
+    "NISSAN": [
+      "4020600Q0L",
+      "4020600Q1B",
+      "4020600Q2A",
+      "4020600Q2D",
+      "4020600Q2M",
+      "402069341R"
+    ],
+    "RENAULT": [
+      "402060010R",
+      "402063140R",
+      "402065585R",
+      "402067902R"
+    ],
+    "SAMSUNG": [
+      "402063140R"
     ]
   },
-  "eanNumber": "4019722300967",
+  "eanNumber": "4019722471155",
   "attributes": {
     "Type": [
-      "dolu"
+      "Dıştan havalandırmalı"
     ],
     "ThicknessValues": [
-      "12"
+      "24"
     ],
     "MinimumThicknessValues": [
-      "10,4"
+      "21,8"
     ],
     "Surface": [
       "Kaplamalı"
     ],
     "HeightValues": [
-      "51,7"
+      "44"
     ],
     "InnerDiameter": [
-      "148"
+      "139,8"
     ],
     "OuterDiameter": [
-      "286"
+      "280"
     ],
     "BoltHoleCircle": [
-      "120"
+      "114,3"
     ],
     "NumberOfHoles": [
-      "05/06"
+      "05/07"
     ],
     "AxleVersion": [],
     "TechnicalInformationNumber": [],
@@ -54,18 +70,20 @@
       "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
     ],
     "CenteringDiameter": [
-      "79"
+      "68"
     ],
     "HoleArrangement_HoleNumber": [
-      "05/06"
+      "05/07"
     ],
     "WheelBoltBoreDiameter": [
-      "14,7"
+      "15,8"
     ],
-    "Machining": [],
+    "Machining": [
+      "Yüksek karbonlu"
+    ],
     "TighteningTorque": [],
     "Weight": [
-      "5,2"
+      "6,7"
     ],
     "Color": [],
     "ThreadSize": []

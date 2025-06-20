@@ -1,49 +1,53 @@
 {
-  "reference": "92055503",
-  "id": "92055503",
-  "name": "Fren diski PRO",
+  "reference": "92110300",
+  "id": "92110300",
+  "name": "Fren diski",
   "brand": "TEXTAR",
   "wvaNumbers": [],
   "brand_oe_map": {
-    "BMW": [
-      "1160673",
-      "1160979",
-      "34111160673",
-      "34111160979",
-      "34116757750",
-      "34116757751",
-      "6757750",
-      "6757751"
+    "HONDA": [
+      "45251S2G000",
+      "45251S50G00",
+      "45251S50J00",
+      "45251S50J01",
+      "45251SAAG00",
+      "45251SAAG10",
+      "45251SAAG11",
+      "45251SAAG12",
+      "45251SELT00",
+      "45251SELT10",
+      "45251SENH20"
+    ],
+    "HONDA (GAC)": [
+      "45251SENH30"
     ]
   },
-  "eanNumber": "4019722300967",
+  "eanNumber": "4019722253171",
   "attributes": {
     "Type": [
-      "dolu"
+      "içten havalandırmalı"
     ],
     "ThicknessValues": [
-      "12"
+      "21"
     ],
     "MinimumThicknessValues": [
-      "10,4"
+      "19"
     ],
-    "Surface": [
-      "Kaplamalı"
-    ],
+    "Surface": [],
     "HeightValues": [
-      "51,7"
+      "39,2"
     ],
     "InnerDiameter": [
-      "148"
+      "126"
     ],
     "OuterDiameter": [
-      "286"
+      "240"
     ],
     "BoltHoleCircle": [
-      "120"
+      "100"
     ],
     "NumberOfHoles": [
-      "05/06"
+      "04/08"
     ],
     "AxleVersion": [],
     "TechnicalInformationNumber": [],
@@ -54,18 +58,18 @@
       "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
     ],
     "CenteringDiameter": [
-      "79"
+      "61"
     ],
     "HoleArrangement_HoleNumber": [
-      "05/06"
+      "04/08"
     ],
     "WheelBoltBoreDiameter": [
-      "14,7"
+      "13"
     ],
     "Machining": [],
     "TighteningTorque": [],
     "Weight": [
-      "5,2"
+      "4,2"
     ],
     "Color": [],
     "ThreadSize": []

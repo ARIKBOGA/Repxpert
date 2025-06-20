@@ -1,46 +1,75 @@
 {
-  "reference": "92055503",
-  "id": "92055503",
+  "reference": "92282103",
+  "id": "92282103",
   "name": "Fren diski PRO",
   "brand": "TEXTAR",
   "wvaNumbers": [],
   "brand_oe_map": {
-    "BMW": [
-      "1160673",
-      "1160979",
-      "34111160673",
-      "34111160979",
-      "34116757750",
-      "34116757751",
-      "6757750",
-      "6757751"
+    "FORD": [
+      "1724956",
+      "1746793",
+      "1770767",
+      "1829608",
+      "1844117",
+      "3M512C375CC",
+      "3M512C375CD",
+      "3M512C375CE",
+      "9M512C375AA",
+      "BRRF97",
+      "CV611125FA",
+      "CV611125GA",
+      "DV611125FA",
+      "KU2Z1V125B"
+    ],
+    "FORD AUSTRALIA": [
+      "CV6Z1125B"
+    ],
+    "IME": [
+      "6154210",
+      "6156110"
+    ],
+    "KAROSA": [
+      "6154210",
+      "6156110"
+    ],
+    "LEYLAND": [
+      "09C54211"
+    ],
+    "LINCOLN": [
+      "CV6Z1125D"
+    ],
+    "VOLVO": [
+      "31341644",
+      "31381376",
+      "31400818",
+      "31400938"
     ]
   },
-  "eanNumber": "4019722300967",
+  "eanNumber": "4019722483783",
   "attributes": {
     "Type": [
-      "dolu"
+      "içten havalandırmalı"
     ],
     "ThicknessValues": [
-      "12"
+      "25"
     ],
     "MinimumThicknessValues": [
-      "10,4"
+      "23"
     ],
     "Surface": [
       "Kaplamalı"
     ],
     "HeightValues": [
-      "51,7"
+      "48,9"
     ],
     "InnerDiameter": [
-      "148"
+      "147,8"
     ],
     "OuterDiameter": [
-      "286"
+      "320"
     ],
     "BoltHoleCircle": [
-      "120"
+      "108"
     ],
     "NumberOfHoles": [
       "05/06"
@@ -54,18 +83,18 @@
       "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
     ],
     "CenteringDiameter": [
-      "79"
+      "63,6"
     ],
     "HoleArrangement_HoleNumber": [
       "05/06"
     ],
     "WheelBoltBoreDiameter": [
-      "14,7"
+      "13,8"
     ],
     "Machining": [],
     "TighteningTorque": [],
     "Weight": [
-      "5,2"
+      "8,8"
     ],
     "Color": [],
     "ThreadSize": []

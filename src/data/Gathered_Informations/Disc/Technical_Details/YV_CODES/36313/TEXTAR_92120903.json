@@ -1,49 +1,76 @@
 {
-  "reference": "92055503",
-  "id": "92055503",
+  "reference": "92120903",
+  "id": "92120903",
   "name": "Fren diski PRO",
   "brand": "TEXTAR",
   "wvaNumbers": [],
   "brand_oe_map": {
-    "BMW": [
-      "1160673",
-      "1160979",
-      "34111160673",
-      "34111160979",
-      "34116757750",
-      "34116757751",
-      "6757750",
-      "6757751"
+    "AUDI": [
+      "1K0615601AB",
+      "1K0615601K",
+      "5C0615601",
+      "5C0615601A",
+      "5Q0615601F"
+    ],
+    "SEAT": [
+      "1K0615601AB",
+      "1K0615601K",
+      "5C0615601",
+      "5C0615601A",
+      "5Q0615601F"
+    ],
+    "SKODA": [
+      "1K0615601AB",
+      "1K0615601K",
+      "5C0615601",
+      "5C0615601A",
+      "5Q0615601F"
+    ],
+    "SKODA (SVW)": [
+      "5QD615601",
+      "5QD615601B"
+    ],
+    "VW": [
+      "1K0615601AB",
+      "1K0615601K",
+      "5C0615601",
+      "5C0615601A",
+      "5Q0615601F",
+      "8P0098601L",
+      "JZW698601AA"
+    ],
+    "VW (SVW)": [
+      "5QD615601"
     ]
   },
-  "eanNumber": "4019722300967",
+  "eanNumber": "4019722301322",
   "attributes": {
     "Type": [
       "dolu"
     ],
     "ThicknessValues": [
-      "12"
+      "9,9"
     ],
     "MinimumThicknessValues": [
-      "10,4"
+      "8"
     ],
     "Surface": [
       "Kaplamalı"
     ],
     "HeightValues": [
-      "51,7"
+      "51,2"
     ],
     "InnerDiameter": [
-      "148"
+      "140,1"
     ],
     "OuterDiameter": [
-      "286"
+      "253"
     ],
     "BoltHoleCircle": [
-      "120"
+      "112"
     ],
     "NumberOfHoles": [
-      "05/06"
+      "05/10"
     ],
     "AxleVersion": [],
     "TechnicalInformationNumber": [],
@@ -54,18 +81,18 @@
       "Poyra yok, Tekerlek rulmanı hariç, Tekerlek bijon saplaması yok"
     ],
     "CenteringDiameter": [
-      "79"
+      "65"
     ],
     "HoleArrangement_HoleNumber": [
-      "05/06"
+      "05/10"
     ],
     "WheelBoltBoreDiameter": [
-      "14,7"
+      "15,3"
     ],
     "Machining": [],
     "TighteningTorque": [],
     "Weight": [
-      "5,2"
+      "3,6"
     ],
     "Color": [],
     "ThreadSize": []
