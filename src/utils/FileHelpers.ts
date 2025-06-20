@@ -35,6 +35,47 @@ export function getSubfolderNamesSync(dirPath: string): string[] {
     .map((entry) => entry.name);
 }
 
+
+
+export const padTrios: ProductreferenceTrio[] = [
+  
+  //{ yvNo: "22141201", supplier: "BREMBO", crossNumber: "P 86 029" },
+  //{ yvNo: "22437201", supplier: "BREMBO", crossNumber: "P 50 136" },
+  //{ yvNo: "23228204", supplier: "BREMBO", crossNumber: "P 23 121" },
+  //{ yvNo: "23515408", supplier: "BREMBO", crossNumber: "P 54 059" },
+  //{ yvNo: "23879301", supplier: "BREMBO", crossNumber: "P 54 033" },
+  //{ yvNo: "24191401", supplier: "BREMBO", crossNumber: "P 44 014" },
+  //{ yvNo: "24847401", supplier: "BREMBO", crossNumber: "P 85 136" },
+  //{ yvNo: "25331201", supplier: "BREMBO", crossNumber: "P 06 094" },
+{yvNo: "21158401", supplier:	"BREMBO", crossNumber: "P 83 013"},
+{yvNo: "21471401", supplier:	"BREMBO", crossNumber: "P 06 018"},
+{yvNo: "21827201", supplier:	"BREMBO", crossNumber: "P 61 051"},
+{yvNo: "21934201", supplier:	"BREMBO", crossNumber: "P 06 025"},
+{yvNo: "24727203", supplier:	"BREMBO", crossNumber: "P 23 130"}
+
+
+];
+
+export const crankshaftTrios: Set<ProductreferenceTrio> = new Set<ProductreferenceTrio>(
+  [
+    //{ yvNo: "7045010", supplier: "FEBI", crossNumber: "194040" },
+    //{ yvNo: "7014010", supplier: "RUVILLE", crossNumber: "542392" }, 
+    //{ yvNo: "7034010", supplier: "RIDEX", crossNumber: "3213B0020" }, 
+    //{ yvNo: "7035010", supplier: "RIDEX", crossNumber: "3213B0016" }, 
+    //{ yvNo: "7041010", supplier: "RUVILLE", crossNumber: "520259" }, 
+    //{ yvNo: "7043010", supplier: "FAI AutoParts", crossNumber: "FVD1178" }, 
+    //{ yvNo: "7044010", supplier: "VAICO", crossNumber: "V46-1914" }, 
+    //{ yvNo: "7046010", supplier: "FEBI", crossNumber: "188409" }, 
+    //{ yvNo: "7064010", supplier: "CORTECO", crossNumber: "80001108" }, 
+    //{ yvNo: "7050010", supplier: "FAI AutoParts", crossNumber: "FVD1117" }
+    { yvNo: "7015010", supplier: "CORTECO", crossNumber: "80000834" }
+  ]
+);
+
+export const discTrios: Set<ProductreferenceTrio> = new Set<ProductreferenceTrio>([]);
+
+export const drumTrios: Set<ProductreferenceTrio> = new Set<ProductreferenceTrio>([]);
+
 export const padPairs: ProductReference[] = [
 
 
@@ -67,46 +108,12 @@ export const padPairs: ProductReference[] = [
 
 ];
 
-export const padTrios: ProductreferenceTrio[] = [
-  
-  //{ yvNo: "22141201", supplier: "BREMBO", crossNumber: "P 86 029" },
-  //{ yvNo: "22437201", supplier: "BREMBO", crossNumber: "P 50 136" },
-  //{ yvNo: "23228204", supplier: "BREMBO", crossNumber: "P 23 121" },
-  //{ yvNo: "23515408", supplier: "BREMBO", crossNumber: "P 54 059" },
-  //{ yvNo: "23879301", supplier: "BREMBO", crossNumber: "P 54 033" },
-  //{ yvNo: "24191401", supplier: "BREMBO", crossNumber: "P 44 014" },
-  //{ yvNo: "24847401", supplier: "BREMBO", crossNumber: "P 85 136" },
-  //{ yvNo: "25331201", supplier: "BREMBO", crossNumber: "P 06 094" },
-{yvNo: "21158401", supplier:	"BREMBO", crossNumber: "P 83 013"},
-{yvNo: "21471401", supplier:	"BREMBO", crossNumber: "P 06 018"},
-{yvNo: "21827201", supplier:	"BREMBO", crossNumber: "P 61 051"},
-{yvNo: "21934201", supplier:	"BREMBO", crossNumber: "P 06 025"},
-{yvNo: "24727203", supplier:	"BREMBO", crossNumber: "P 23 130"}
-
-
-];
-
 export const discPairs: ProductReference[] = [
 
   { yvNo: "30220", brandRefs: { BREMBO: "09.9078.11" } },
 
 ];
 
-export const crankshaftTrios: Set<ProductreferenceTrio> = new Set<ProductreferenceTrio>(
-  [
-    //{ yvNo: "7045010", supplier: "FEBI", crossNumber: "194040" },
-    //{ yvNo: "7014010", supplier: "RUVILLE", crossNumber: "542392" }, 
-    //{ yvNo: "7034010", supplier: "RIDEX", crossNumber: "3213B0020" }, 
-    //{ yvNo: "7035010", supplier: "RIDEX", crossNumber: "3213B0016" }, 
-    //{ yvNo: "7041010", supplier: "RUVILLE", crossNumber: "520259" }, 
-    //{ yvNo: "7043010", supplier: "FAI AutoParts", crossNumber: "FVD1178" }, 
-    //{ yvNo: "7044010", supplier: "VAICO", crossNumber: "V46-1914" }, 
-    //{ yvNo: "7046010", supplier: "FEBI", crossNumber: "188409" }, 
-    //{ yvNo: "7064010", supplier: "CORTECO", crossNumber: "80001108" }, 
-    //{ yvNo: "7050010", supplier: "FAI AutoParts", crossNumber: "FVD1117" }
-    { yvNo: "7015010", supplier: "CORTECO", crossNumber: "80000834" }
-  ]
-);
 
 export const crankshaftPairs: ProductReference[] = [
   //{ yvNo: "7014010", brandRefs: { RUVILLE: "542392" } }, // 059105251AA
