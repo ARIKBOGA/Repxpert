@@ -8,7 +8,8 @@ import { Application } from "../types/Application";
 import { modelAliases, brandAliases, bodyTypes } from "../types/AppToJson_Types";
 import { lookupReferenceFromExcel } from "../utils/FileHelpers";
 import { PRODUCT_TYPE, LOOKUP_EXCEL_FILE_PATH, ROOT_PATH_APPLICATIONS, FILTER_BRAND_APPLICATION } from "../config";
-import {findYvNoOptimized} from "../utils/NormalizersForJsonToExcels";
+import { findYvNoOptimized } from "../utils/NormalizersForJsonToExcels";
+import { formatDateTime } from "../utils/DateHelper";
 
 
 const lookupDataMap: Map<string, string> = lookupReferenceFromExcel(LOOKUP_EXCEL_FILE_PATH);
@@ -264,15 +265,23 @@ function processFile(filePath: string): [string, string, string] {
   }
 
   const filename = path.basename(filePath);
-  const crossNumber = filename.split("_")[1].replace(".json", "");
-  const YV = findYvNoOptimized(crossNumber, lookupDataMap);
-
-  return [YV[0] || "YV_Bulunamadı", crossNumber, totalText.trim()];
+  try {
+    const crossNumber = filename.split("_")[1].replace(".json", "");
+    const YV = findYvNoOptimized(crossNumber, lookupDataMap);
+    return [YV[0] || "YV_Bulunamadı", crossNumber, totalText.trim()];
+  } catch (error) {
+    console.log(filename, error);
+    // Return default values in case of error
+    return ["YV_Bulunamadı", "CROSS_Bulunamadı", ""];
+  }
+  
 }
 
 // === Main Akış ===
+
+const date = formatDateTime(new Date()).lettericDate;
 const inputDir = ROOT_PATH_APPLICATIONS;
-const outputExcel = path.join( __dirname, "..", "data/Gathered_Informations/Pad/Applications/excels", `ETIKET_VERILERI_${PRODUCT_TYPE}_${FILTER_BRAND_APPLICATION}.xlsx`);
+const outputExcel = path.join( __dirname, "..", "data/Gathered_Informations/Pad/Applications/excels", `ETIKET_VERILERI_${PRODUCT_TYPE}_${FILTER_BRAND_APPLICATION}-${date}.xlsx`);
 
 const rows: [string,string, string][] = [];
 

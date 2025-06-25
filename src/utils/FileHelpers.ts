@@ -47,11 +47,9 @@ export const padTrios: ProductreferenceTrio[] = [
   //{ yvNo: "24191401", supplier: "BREMBO", crossNumber: "P 44 014" },
   //{ yvNo: "24847401", supplier: "BREMBO", crossNumber: "P 85 136" },
   //{ yvNo: "25331201", supplier: "BREMBO", crossNumber: "P 06 094" },
-{yvNo: "21158401", supplier:	"BREMBO", crossNumber: "P 83 013"},
-{yvNo: "21471401", supplier:	"BREMBO", crossNumber: "P 06 018"},
-{yvNo: "21827201", supplier:	"BREMBO", crossNumber: "P 61 051"},
-{yvNo: "21934201", supplier:	"BREMBO", crossNumber: "P 06 025"},
-{yvNo: "24727203", supplier:	"BREMBO", crossNumber: "P 23 130"}
+{yvNo: "23215208", supplier:	"BREMBO", crossNumber: "P 68 029"},
+
+
 
 
 ];
