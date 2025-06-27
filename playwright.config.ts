@@ -38,7 +38,7 @@ export default defineConfig({
     // Her bir adımın (örn. locator.click, locator.getByText) timeout süresi
     actionTimeout: 10 * 1000, // örneğin 30 saniye
     navigationTimeout: 60 * 1000,
-    storageState: "storage/LoginAuthEnglish.json" // Oturum açma bilgilerini içeren dosya
+    storageState: "storage/LoginAuthFindItParts.json" // Oturum açma bilgilerini içeren dosya
   },
 
   /* Configure projects for major browsers */

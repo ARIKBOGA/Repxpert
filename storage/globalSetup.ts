@@ -103,5 +103,8 @@ async function globalSetupFindItParts() {
   await page.context().storageState({
     path: "storage/LoginAuthFindItParts.json",
   });
+
+  // Close the browser
+  await browser.close();
 }
-export default globalSetupEnglish;
+export default globalSetupFindItParts;
