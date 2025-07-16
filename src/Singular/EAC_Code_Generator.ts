@@ -4,13 +4,13 @@ import XLSX from "xlsx";
 
 const barcode_initials: string[] = Array.from({ length: 291 }, (_, i) => String(i + 10));
 const disc_drum_yvno_range: string[] = Array.from({ length: 2999 }, (_, i) => String(i + 1).padStart(3, '0'));
-const wva_range: string[] = Array.from({ length: 28000 }, (_, i) => String(i + 10000));
+const wva_range: string[] = Array.from({ length: 10000 }, (_, i) => String(i + 20000));
 //const drumBrakePad_range: string[] = Array.from({ length: 10000 }, (_, i) => String(i + 10000));
 //const clutchFacingsPad_range: string[] = Array.from({ length: 5000 }, (_, i) => String(i + 30000));
 //const frictionPlatesPad_range: string[] = Array.from({ length: 3000 }, (_, i) => String(i + 35000));
 
 const disc_drum_additions: string[] = ["", "B", "C", "CS", "H", "S"];
-const pad_centers: string[] = Array.from({ length: 9 }, (_, i) => String(i + 1));
+const pad_centers: string[] = Array.from({ length: 4 }, (_, i) => String(i + 1));
 const pad_additions: string[] = Array.from({ length: 15 }, (_, i) => String(i + 1).padStart(2, '0'));
 
 function numberGenerator(initial: string[], centers: string[], additions: string[]): string[] {
@@ -54,7 +54,7 @@ function main() {
     fs.writeFileSync(`${OUTPUT_PATH}${fileName}.json`, JSON.stringify(numbers, null, 2), "utf-8");
   });
 
-  const outputFileName = "Full_ECA_Numbers.xlsx";
+  const outputFileName = "Full_EAC_Numbers_5_digit.xlsx";
   XLSX.writeFile(wb, `${OUTPUT_PATH}${outputFileName}`);
 
   console.log(`✨ Excel dosyası oluşturuldu: ${OUTPUT_PATH}${outputFileName}`);
