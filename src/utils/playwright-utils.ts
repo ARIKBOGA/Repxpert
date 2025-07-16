@@ -563,12 +563,12 @@ export class PlaywrightUtils {
     return newPage;
   }
 
-   /**
-   * Bir elementin metninin değişmesini bekler.
-   * @param selector CSS seçici veya Locator nesnesi.
-   * @param initialText Beklenen ilk metin.
-   * @param options Timeout seçenekleri.
-   */
+  /**
+  * Bir elementin metninin değişmesini bekler.
+  * @param selector CSS seçici veya Locator nesnesi.
+  * @param initialText Beklenen ilk metin.
+  * @param options Timeout seçenekleri.
+  */
   async waitForTextChange(selector: string | Locator, initialText: string, options?: TimeoutOptions): Promise<void> {
     const locator = this.getLocator(selector);
     try {
@@ -853,7 +853,7 @@ export class PlaywrightUtils {
 
 }
 
- 
+
 
 
 // Kullanım Örneği (Playwright Test içinde):
